@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198857,
       "name": "Aisay Kaisay",
       "url": "https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218930,
       "name": "Aisi Raaton",
       "url": "https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7"
@@ -282,6 +282,28 @@
       "duration_ms": 150857,
       "name": "Bairan",
       "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
+    },
+    {
+      "album": {
+        "name": "Banda Kaam Ka",
+        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248947,
+      "name": "Banda Kaam Ka",
+      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
     },
     {
       "album": {
@@ -680,6 +702,32 @@
       "duration_ms": 376854,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l"
+    },
+    {
+      "album": {
+        "name": "Kaahe Mose",
+        "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219097,
+      "name": "Kaahe Mose",
+      "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
     },
     {
       "album": {
@@ -1592,7 +1640,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 228705,
       "name": "smile",
       "url": "https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD"
@@ -1640,6 +1688,24 @@
       "duration_ms": 167000,
       "name": "Tera Nishaan",
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
+    },
+    {
+      "album": {
+        "name": "TERA PATA",
+        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "TERA PATA",
+      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
     },
     {
       "album": {
@@ -1878,10 +1944,28 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218400,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF"
+    },
+    {
+      "album": {
+        "name": "Yeh Duniya Jala Do",
+        "url": "https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230443,
+      "name": "Yeh Duniya Jala Do",
+      "url": "https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg"
     },
     {
       "album": {

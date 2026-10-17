@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Archie",
-  "num_followers": 56177,
+  "num_followers": 56186,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6SWJM3lX1u376nOF8PymIYrwyI",
+  "snapshot_id": "AAAAAFVxbKn9d1O+QrC/CC+z9hlgB/rc",
   "tracks": [
     {
       "added_at": "2026-10-15 23:00:24",
@@ -499,22 +499,18 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY"
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
       "artists": [
         {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        },
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 268075,
-      "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
-      "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -539,18 +535,22 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+        "name": "ID",
+        "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+      "duration_ms": 268075,
+      "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
+      "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Prod\u00edgio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
-    },
-    {
-      "added_at": "2026-10-15 23:00:24",
-      "album": {
         "name": "XVIII",
         "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 219692,
       "name": "Sei-te de Cor",
       "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-10-15 23:00:24",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
     },
     {
       "added_at": "2026-10-15 23:00:24",

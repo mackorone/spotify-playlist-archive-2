@@ -1,12 +1,12 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Nachtigaller, Juju",
-  "num_followers": 351633,
+  "num_followers": 351759,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJB3cYoFldKd7jFDQgZ7c5IIVucK",
+  "snapshot_id": "AAAAADYcnElN9dob/fG9zxFPuLfmYYdW",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:22",
@@ -167,7 +167,7 @@
     {
       "added_at": "2026-10-15 22:01:22",
       "album": {
-        "name": "Obsession",
+        "name": "Obsession (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39"
       },
       "artists": [
@@ -438,6 +438,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "duration_ms": 204884,
@@ -644,7 +648,7 @@
           "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
         }
       ],
-      "duration_ms": 120014,
+      "duration_ms": 117332,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4Y7uj53WRCuas2j6NVNQYy"
     },
@@ -700,12 +704,12 @@
           "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
           "name": "SCRIPT",
           "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
       "duration_ms": 183529,
@@ -816,8 +820,8 @@
           "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 185387,
+      "name": "Una Noche",
       "url": "https://open.spotify.com/track/01S0yCCaiC4B19IhKn0d9m"
     },
     {
@@ -974,10 +978,14 @@
         {
           "name": "KILIMANJARO",
           "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Dyo",
+          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 179815,
+      "name": "Not Like You",
       "url": "https://open.spotify.com/track/3xzxzll7UnFqXKg28lsutT"
     },
     {
@@ -1588,8 +1596,8 @@
           "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 268552,
+      "name": "Woop Woop",
       "url": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc"
     },
     {

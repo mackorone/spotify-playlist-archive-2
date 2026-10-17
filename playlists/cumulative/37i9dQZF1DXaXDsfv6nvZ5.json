@@ -5179,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192449,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
+    },
+    {
+      "album": {
         "name": "Fly By",
         "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
       },
@@ -5776,7 +5794,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi"
@@ -6565,6 +6583,24 @@
     },
     {
       "album": {
+        "name": "PHATTER",
+        "url": "https://open.spotify.com/album/5zBPstEEPrgw80d4aTMxGK"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200142,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/1TdN2uJjohXQajBOuUaqdc"
+    },
+    {
+      "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
       },
@@ -6920,6 +6956,24 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3pUoxMLwerAzspWeeNy7dx"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167682,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3rlVsUqgw9Wtizav2DyfrE"
     },
     {
       "album": {
@@ -7686,7 +7740,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198186,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/2iUmp2L3Va1syZMi7CA5iL"
@@ -8996,6 +9050,24 @@
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
     },
     {
       "album": {
@@ -15050,7 +15122,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193333,
       "name": "Silent Treatment",
       "url": "https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2"
@@ -15884,7 +15956,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"

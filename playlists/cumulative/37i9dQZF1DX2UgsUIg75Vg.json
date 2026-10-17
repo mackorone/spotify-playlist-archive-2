@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Victoria Mon\u00e9t",
+  "description": "Chill r&b. Cover: Sasha Keable",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 194400,
       "name": "Blood On The Strings",
       "url": "https://open.spotify.com/track/5dhRaReCkkoaJUgVilnd5B"
@@ -8586,7 +8586,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 152000,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
@@ -10190,7 +10190,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 207567,
       "name": "Fatal",
       "url": "https://open.spotify.com/track/2UnBCuQtiwlV6oMuix8vi5"
@@ -10885,6 +10885,24 @@
     },
     {
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192449,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
+    },
+    {
+      "album": {
         "name": "Fly Girl",
         "url": "https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke"
       },
@@ -10900,6 +10918,28 @@
       "duration_ms": 192022,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED"
+    },
+    {
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0J6kLqNvkt4IYOmyvOBiWA"
     },
     {
       "album": {
@@ -10936,7 +10976,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 194526,
       "name": "Fly U Out - OPEN",
       "url": "https://open.spotify.com/track/1lQ8RVpGs23UjeP8keDZjM"
@@ -13188,7 +13228,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 108609,
       "name": "gutta child",
       "url": "https://open.spotify.com/track/1104jrxwuzye3TWcSxzd4k"
@@ -14344,7 +14384,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158117,
       "name": "HONEY BROWN",
       "url": "https://open.spotify.com/track/5BDoP0N9ebmk8JoRHyzKKF"
@@ -14536,6 +14576,28 @@
       "duration_ms": 177217,
       "name": "HOT TUBS",
       "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
+    },
+    {
+      "album": {
+        "name": "HYDRAULIC: FUELED UP",
+        "url": "https://open.spotify.com/album/0fei7uzggKmfZjILrnN9QQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "HOUSTON (feat. TEEZO TOUCHDOWN)",
+      "url": "https://open.spotify.com/track/5iIVMqaydNMbcWnQSaJmXn"
     },
     {
       "album": {
@@ -17047,6 +17109,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
+    },
+    {
+      "album": {
         "name": "Glad You Came",
         "url": "https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s"
       },
@@ -17276,6 +17356,32 @@
       "duration_ms": 146000,
       "name": "KMS - A COLORS SHOW",
       "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
+    },
+    {
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Knockin (feat. The Paradox)",
+      "url": "https://open.spotify.com/track/2wUpORtJQ4AcvUezVXIBhG"
     },
     {
       "album": {
@@ -17700,6 +17806,24 @@
       "duration_ms": 201398,
       "name": "Letting You Run",
       "url": "https://open.spotify.com/track/73dCTAnLDKbL1MpwarKLCP"
+    },
+    {
+      "album": {
+        "name": "let's talk about it",
+        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157810,
+      "name": "let\u2019s talk about it",
+      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
     },
     {
       "album": {
@@ -19718,7 +19842,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 182586,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
@@ -22332,7 +22456,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176297,
       "name": "Nowhere Fast",
       "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
@@ -25796,6 +25920,24 @@
       "duration_ms": 177371,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
+    },
+    {
+      "album": {
+        "name": "right/left",
+        "url": "https://open.spotify.com/album/4UEnqdMtJ3TlgA25OsRG5A"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129925,
+      "name": "right/left",
+      "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
     },
     {
       "album": {
@@ -29361,6 +29503,24 @@
     },
     {
       "album": {
+        "name": "Star (Remix)",
+        "url": "https://open.spotify.com/album/2QTxYcicU7Sk3QOC2jZSAk"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Star - Remix",
+      "url": "https://open.spotify.com/track/0HNzOFkUksahKE5MBQplDG"
+    },
+    {
+      "album": {
         "name": "Solace & The Vices",
         "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
       },
@@ -30116,6 +30276,28 @@
       "duration_ms": 199186,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/5lMa1A2fWhT9YLI2Qee8RV"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/3BWt0ekoMAC8kNDItB6gKh"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        },
+        {
+          "name": "Jay Versace",
+          "url": "https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161967,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/0oPBh5q8QufzdxoYQ3Zn7C"
     },
     {
       "album": {
@@ -30894,10 +31076,28 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213562,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/2BCoCVN64DUwGlz9qnAaVM"
+    },
+    {
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213562,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/7dCO7UfAaI1Oa5SGLTz5TV"
     },
     {
       "album": {

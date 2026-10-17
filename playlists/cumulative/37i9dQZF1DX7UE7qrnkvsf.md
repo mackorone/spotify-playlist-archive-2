@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-618 songs - 1 day 14 hr 48 min
+621 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-08-11 | 2023-08-11 |
 | [Caçador de Mim](https://open.spotify.com/track/48ucmkpjZzAE3IFfFyugH7) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Caçador de Mim](https://open.spotify.com/album/1LFUqDNXFptjVWGr1AVtWD) | 3:50 | 2024-10-14 |  |
 | [Central Park Stroll](https://open.spotify.com/track/6HqntWF4Ergp1aTtT3FCCZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Central Park Stroll](https://open.spotify.com/album/5vfOxpqBTzqU9V8JS2p7iZ) | 3:40 | 2025-10-22 |  |
+| [Chapter Three](https://open.spotify.com/track/3rDlSEtGsZvLBlqGhqnHpM) | [The Backridges](https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia) | [Chapter Three](https://open.spotify.com/album/40InfJE1rAiRDK2U1xd0mY) | 3:12 | 2026-10-16 |  |
 | [Chasing Rainbows](https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Chasing Rainbows](https://open.spotify.com/album/3Ho0NuGDkrtrZGwfe9NwdO) | 3:28 | 2023-09-29 | 2025-09-12 |
 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 | 2023-10-27 |  |
 | [Cherie](https://open.spotify.com/track/2aFdC7xP56IAHVc6NulDRX) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Cherie](https://open.spotify.com/album/5PlgIvkFi9KCurYCCWfzmZ) | 4:08 | 2021-12-07 | 2023-06-16 |
@@ -363,6 +364,7 @@
 | [Mischievous Expression](https://open.spotify.com/track/3f6aNNiWuWx7whrKLxoLeB) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Mischievous Expression](https://open.spotify.com/album/1jqzJHy6UTYTfgN1W3UojN) | 3:09 | 2023-09-08 | 2025-10-01 |
 | [Missed The Last Dance With You](https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [Missed The Last Dance With You](https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3) | 5:04 | 2023-11-24 | 2024-10-02 |
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-08-11 | 2023-12-15 |
+| [Misty Evening](https://open.spotify.com/track/2Z2V8hdv5WmUMlIyLdYKR8) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Misty Evening](https://open.spotify.com/album/0oFFSonr9WFJLiWbixdkFH) | 3:20 | 2026-10-16 |  |
 | [Moments in Moonlight](https://open.spotify.com/track/55fwf6U2P3ZvjXsQgxhZrd) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Moments in Moonlight](https://open.spotify.com/album/6dQqdshEOVrOCm4IOyjirN) | 2:48 | 2024-03-22 | 2025-09-12 |
 | [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-01-18 | 2022-08-18 |
 | [Moon Dreams](https://open.spotify.com/track/4rfo4qyursWWHQrhSo2gbh) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Moon Dreams](https://open.spotify.com/album/7fMFlrnRt1zrBDdeqTZe5i) | 3:22 | 2024-02-09 |  |
@@ -437,7 +439,7 @@
 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-11 | 2025-11-19 |
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-08-30 | 2023-10-20 |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 | 2023-09-15 |
-| [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-01 |  |
+| [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-01 | 2026-10-17 |
 | [Rendezvous in Rhythm](https://open.spotify.com/track/5exvjomZSoKsSwZ2cWkKUy) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Rendezvous in Rhythm](https://open.spotify.com/album/5gRaPnUsnY2L2FVSmRn28E) | 3:12 | 2023-11-17 | 2025-10-01 |
 | [Reutlingen](https://open.spotify.com/track/5IXC0ObkxCvH5i2olqCm6A) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Reutlingen](https://open.spotify.com/album/12nVEHdB9d9JjFe7wcqIrT) | 4:15 | 2024-11-25 | 2026-03-18 |
 | [Rialto Bridge](https://open.spotify.com/track/156iMNrpnu8qLxfDpj9xfW) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Rialto Bridge](https://open.spotify.com/album/1l54o9QqcN2L5bKXbD5WKd) | 3:58 | 2024-11-11 |  |
@@ -462,7 +464,7 @@
 | [Signals](https://open.spotify.com/track/0XLo1m8PS9EeyOjTypHXEn) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Signals](https://open.spotify.com/album/0pgadKOQZmrdVRHgVbkYOW) | 5:55 | 2023-08-10 | 2024-11-06 |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-08-11 | 2024-09-14 |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-05-11 | 2026-03-18 |
-| [Simple Pleasures](https://open.spotify.com/track/6T8bDagGPseQN443XT93yr) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Simple Pleasures](https://open.spotify.com/album/7y61HScW0XVioiqKAIakYy) | 4:51 | 2023-11-17 |  |
+| [Simple Pleasures](https://open.spotify.com/track/6T8bDagGPseQN443XT93yr) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Simple Pleasures](https://open.spotify.com/album/7y61HScW0XVioiqKAIakYy) | 4:51 | 2023-11-17 | 2026-10-17 |
 | [Sincere Doubt](https://open.spotify.com/track/6dqU1He5HpmcOVAzN02byW) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Sincere Doubt](https://open.spotify.com/album/596LaHTdMPwmmHBdUu5G0w) | 3:24 | 2023-09-22 | 2025-09-12 |
 | [Skylark](https://open.spotify.com/track/3U1ar1FODMXKLBlF2yxSMl) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Interplay](https://open.spotify.com/album/7cfK06e2mxiwwqwh4PQaOJ) | 4:56 | 2021-12-07 | 2022-06-01 |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2021-12-07 | 2024-10-22 |
@@ -493,6 +495,7 @@
 | [Stay a little longer](https://open.spotify.com/track/0emDa50ODJgLqy4l0h6hc4) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Stay a little longer](https://open.spotify.com/album/2BOjiIkqNaeTyRuIQS5o3M) | 3:22 | 2026-09-18 |  |
 | [Stay Around](https://open.spotify.com/track/5Ccyefda1pTeRCAg2kUIbX) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Stay Around](https://open.spotify.com/album/0gJttdGylOHGnQce4AQTlz) | 5:43 | 2021-12-07 | 2022-07-29 |
 | [Stay Around](https://open.spotify.com/track/2n5K7rSaUuj2KNzQjESGg6) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 5:43 | 2022-06-10 | 2022-08-18 |
+| [Stay for Another](https://open.spotify.com/track/1AZCoyWAZHYo15fdjq0a60) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Stay for Another](https://open.spotify.com/album/0qNuNxqnyjJo2dDQHciBRB) | 2:42 | 2026-10-16 |  |
 | [Stella By Starlight](https://open.spotify.com/track/22nFrPhzV9b5yzK8GFBbEG) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Stella By Starlight](https://open.spotify.com/album/1xuGElIWx3CqL6TMaWij8U) | 2:45 | 2023-11-17 |  |
 | [Stella By Starlight](https://open.spotify.com/track/6usLqc1ibAPPs1OIVgqib2) | [Erica Smith Trio](https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI) | [Starlight EP](https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31) | 3:43 | 2021-12-07 | 2023-05-26 |
 | [Stormy Weather](https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 10:35 | 2021-12-07 | 2022-08-18 |

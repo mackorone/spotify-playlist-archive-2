@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 315974,
+  "num_followers": 315975,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANRhMpWu+xCRqvu95rz4y/+nSNp0",
+  "snapshot_id": "AAAAADvC7hJIL8qPQtnSA11Hx5uzAcoW",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:25",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 215744,
       "name": "$10 Cowboy",
       "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Table for One",
-      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Drive & Cry",
         "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 203973,
       "name": "Rootin\u2019 For You",
       "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Table for One",
+      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Tom Turkey (Alternate Version)",
-        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 234656,
-      "name": "Tom Turkey - Alternate Version",
-      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Tom Turkey (Alternate Version)",
+        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 234656,
+      "name": "Tom Turkey - Alternate Version",
+      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1567,18 +1567,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "You Don't Own Me",
-        "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
+        "name": "For When It Hurts",
+        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
       "artists": [
         {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 168648,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
+      "duration_ms": 182993,
+      "name": "BROKEN PIECES",
+      "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1599,22 +1603,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "For When It Hurts",
-        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
+        "name": "You Don't Own Me",
+        "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
         }
       ],
-      "duration_ms": 182993,
-      "name": "BROKEN PIECES",
-      "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
+      "duration_ms": 168648,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
     },
     {
       "added_at": "2026-09-11 04:01:25",

@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "ako ang bagyo",
+        "url": "https://open.spotify.com/album/1NbossHYBFf6JNb9CJx0LO"
+      },
+      "artists": [
+        {
+          "name": "SHEAN",
+          "url": "https://open.spotify.com/artist/254t4pEFzwyr6bnd1GCSKz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273214,
+      "name": "ako ang bagyo",
+      "url": "https://open.spotify.com/track/1EqRuhrJZU5R7aeWyw1z8D"
+    },
+    {
+      "album": {
         "name": "Ako Na Lang",
         "url": "https://open.spotify.com/album/0GJLUa9eKNwUM3Fd8XG77U"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193913,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/42dPVlqbsRmQCtGzm2N606"
@@ -8732,7 +8750,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201589,
       "name": "PULA",
       "url": "https://open.spotify.com/track/3ncshFCp6YZiPMycCSWZbP"
@@ -9098,6 +9116,24 @@
       "duration_ms": 206614,
       "name": "Right Now (Na Na Na)",
       "url": "https://open.spotify.com/track/5qvOar7Utet0sK0drULh9B"
+    },
+    {
+      "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/4RFfpRkcYY9Y8liNLyWPoR"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273375,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/0zGnH3NbrPSP22g87xOKxZ"
     },
     {
       "album": {
@@ -11786,7 +11822,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 199369,
       "name": "Viva La Raza",
       "url": "https://open.spotify.com/track/4A7c3xEnNDLk718zDwC6ip"
@@ -11812,6 +11848,28 @@
       "duration_ms": 208375,
       "name": "Wag Ipagsabi",
       "url": "https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV"
+    },
+    {
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        },
+        {
+          "name": "ApMontyy",
+          "url": "https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229233,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5U1UoeR6Dh0BwzoRtcXhvc"
     },
     {
       "album": {

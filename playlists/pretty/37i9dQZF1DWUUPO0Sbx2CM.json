@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240826,
+  "num_followers": 240868,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPghypggX4lRz/ecun0kklPzeAuc",
+  "snapshot_id": "AAAAAB1aVUZnI3wEdTkeiUaTwxW0wD5y",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Every Move I Make",
-        "url": "https://open.spotify.com/album/2awny9v4MKwfeiED5UoYcH"
-      },
-      "artists": [
-        {
-          "name": "Keross Music",
-          "url": "https://open.spotify.com/artist/1HtXEUY5ekhBgwHBQsVkay"
-        },
-        {
-          "name": "CARISSA M.",
-          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/3E5ME1nX4zRt1oI6tydLop"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "all i need is God",
         "url": "https://open.spotify.com/album/3OKM1CeCwQY1aeqmLeuh0K"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 127877,
       "name": "all i need is God",
       "url": "https://open.spotify.com/track/0lEw9va6qgMmLazeGWnbFK"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Every Move I Make",
+        "url": "https://open.spotify.com/album/2awny9v4MKwfeiED5UoYcH"
+      },
+      "artists": [
+        {
+          "name": "Keross Music",
+          "url": "https://open.spotify.com/artist/1HtXEUY5ekhBgwHBQsVkay"
+        },
+        {
+          "name": "CARISSA M.",
+          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/3E5ME1nX4zRt1oI6tydLop"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Amen (The Finesse Remix)",
+        "url": "https://open.spotify.com/album/0MiUwQJCdMUXhb4fV50zDF"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Amen - The Finesse Remix",
+      "url": "https://open.spotify.com/track/0COeS1RDzmUcaxbRD7NYfi"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "ANOTHER WAY (26th Junction Remix)",
         "url": "https://open.spotify.com/album/3YN1YjzsFHqSHaaNnCy9rz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 157888,
       "name": "ANOTHER WAY - 26th Junction Remix",
       "url": "https://open.spotify.com/track/02viqOQ3MaOKTyaHRcjHBA"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Amen (The Finesse Remix)",
-        "url": "https://open.spotify.com/album/0MiUwQJCdMUXhb4fV50zDF"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Amen - The Finesse Remix",
-      "url": "https://open.spotify.com/track/0COeS1RDzmUcaxbRD7NYfi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "YOU'RE THE ONE",
+        "url": "https://open.spotify.com/album/552cwuE5jhgdhCxMU6dHNt"
+      },
+      "artists": [
+        {
+          "name": "CHRISPY",
+          "url": "https://open.spotify.com/artist/0Nc3YshM5QAM1odnqvE56i"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/6uL2UOksn62dBiQQ8gZdBA"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 188793,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "YOU'RE THE ONE",
-        "url": "https://open.spotify.com/album/552cwuE5jhgdhCxMU6dHNt"
-      },
-      "artists": [
-        {
-          "name": "CHRISPY",
-          "url": "https://open.spotify.com/artist/0Nc3YshM5QAM1odnqvE56i"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/6uL2UOksn62dBiQQ8gZdBA"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 456000,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1347,6 +1327,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Looking For Happiness",
         "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
       },
@@ -1359,26 +1359,6 @@
       "duration_ms": 143997,
       "name": "Looking For Happiness",
       "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Energy (EchoStorms Remix)",
-        "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
-      },
-      "artists": [
-        {
-          "name": "LZ7",
-          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
-        },
-        {
-          "name": "EchoStorms",
-          "url": "https://open.spotify.com/artist/6buVxxQZC5V3NzSUjFOM8A"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Energy - EchoStorms Remix",
-      "url": "https://open.spotify.com/track/6GhjGsYPSglelleu3kIFmt"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1419,6 +1399,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Energy (EchoStorms Remix)",
+        "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
+      },
+      "artists": [
+        {
+          "name": "LZ7",
+          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
+        },
+        {
+          "name": "EchoStorms",
+          "url": "https://open.spotify.com/artist/6buVxxQZC5V3NzSUjFOM8A"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Energy - EchoStorms Remix",
+      "url": "https://open.spotify.com/track/6GhjGsYPSglelleu3kIFmt"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Reason To Dance",
         "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
       },
@@ -1455,6 +1455,30 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Freddy Fercho",
+          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
+        },
+        {
+          "name": "Juan Carlos Ochoa",
+          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
+        }
+      ],
+      "duration_ms": 193208,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 416093,
       "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
       "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "You Love Me",
-        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Freddy Fercho",
-          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
-        },
-        {
-          "name": "Juan Carlos Ochoa",
-          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
-        }
-      ],
-      "duration_ms": 193208,
-      "name": "You Love Me",
-      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
+      },
+      "artists": [
+        {
+          "name": "Nathan G",
+          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Prayer (Micky More & Andy Tee Mixes)",
         "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 228694,
       "name": "My Prayer - Micky More & Andy Tee Classic Edit",
       "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
-      },
-      "artists": [
-        {
-          "name": "Nathan G",
-          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Deliver (Higher)",
+        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
+      },
+      "artists": [
+        {
+          "name": "ZARG",
+          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
+        }
+      ],
+      "duration_ms": 200433,
+      "name": "Deliver (Higher)",
+      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 171467,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Deliver (Higher)",
-        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
-      },
-      "artists": [
-        {
-          "name": "ZARG",
-          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
-        }
-      ],
-      "duration_ms": 200433,
-      "name": "Deliver (Higher)",
-      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Floating (okay.benny Remix)",
-        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        },
-        {
-          "name": "okay.benny",
-          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Floating - okay.benny Remix",
-      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Music Comes from God",
         "url": "https://open.spotify.com/album/1QU3tPc4vf6l21ylcrGuNG"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 189374,
       "name": "Music Comes from God",
       "url": "https://open.spotify.com/track/2V5cKqjFASygj6yIFdW4eP"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Floating (okay.benny Remix)",
+        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "okay.benny",
+          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Floating - okay.benny Remix",
+      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1907,6 +1907,26 @@
       "duration_ms": 197000,
       "name": "How He Works",
       "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Stand In Peace",
+        "url": "https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0"
+      },
+      "artists": [
+        {
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+        },
+        {
+          "name": "Lalo Leyy",
+          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
+        }
+      ],
+      "duration_ms": 397076,
+      "name": "Stand In Peace - Original Mix",
+      "url": "https://open.spotify.com/track/4kDawQblKKlEQo0GL9ZQRz"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1947,26 +1967,6 @@
       "duration_ms": 173333,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Stand In Peace",
-        "url": "https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0"
-      },
-      "artists": [
-        {
-          "name": "Peter Mac",
-          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
-        },
-        {
-          "name": "Lalo Leyy",
-          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
-        }
-      ],
-      "duration_ms": 397076,
-      "name": "Stand In Peace - Original Mix",
-      "url": "https://open.spotify.com/track/4kDawQblKKlEQo0GL9ZQRz"
     }
   ],
   "unique_name": "Christian Dance",

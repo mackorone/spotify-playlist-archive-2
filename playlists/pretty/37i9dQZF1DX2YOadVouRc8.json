@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 50472,
+  "num_followers": 50487,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEHUNVgP12TyZODmWj7aG7pOLSu5",
+  "snapshot_id": "AAAAAG4laHDeXpKppRe1Imctsl3XfnyR",
   "tracks": [
     {
       "added_at": "2026-10-16 00:16:52",
@@ -487,6 +487,42 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 244749,
+      "name": "Ako - Live in London",
+      "url": "https://open.spotify.com/track/42enlqjY1SvHHUNmyaBy7f"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
         "name": "Stars Misaligned II",
         "url": "https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc"
       },
@@ -511,42 +547,6 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 244749,
-      "name": "Ako - Live in London",
-      "url": "https://open.spotify.com/track/42enlqjY1SvHHUNmyaBy7f"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
-        "name": "CHE",
-        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHE",
-      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
         "name": "Before I Blow",
         "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 160776,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 206968,
-      "name": "BIG TIME (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -599,6 +579,26 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 206968,
+      "name": "BIG TIME (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -807,22 +807,18 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "Intentions (feat. Urban Chords)",
-        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
       },
       "artists": [
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Urban Chords",
-          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 149786,
-      "name": "Intentions (feat. Urban Chords)",
-      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
+      "duration_ms": 200666,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -843,18 +839,22 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
+        "name": "Intentions (feat. Urban Chords)",
+        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Urban Chords",
+          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
         }
       ],
-      "duration_ms": 200666,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
+      "duration_ms": 149786,
+      "name": "Intentions (feat. Urban Chords)",
+      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -927,22 +927,22 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+        "name": "Apala Groove",
+        "url": "https://open.spotify.com/album/4Fi4ydQzaJ2709uu2yQMNr"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
         }
       ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+      "duration_ms": 215192,
+      "name": "Apala Groove",
+      "url": "https://open.spotify.com/track/3DRcePAOqjaqfpjV5nlLy9"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -963,22 +963,22 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "Apala Groove",
-        "url": "https://open.spotify.com/album/4Fi4ydQzaJ2709uu2yQMNr"
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         },
         {
-          "name": "Terry Apala",
-          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 215192,
-      "name": "Apala Groove",
-      "url": "https://open.spotify.com/track/3DRcePAOqjaqfpjV5nlLy9"
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "Ouu wee (brown)",
-        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Ouu wee (brown)",
-      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 187463,
       "name": "cease & desist",
       "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "Ouu wee (brown)",
+        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Ouu wee (brown)",
+      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
+        "name": "SUNSET IN PARIS",
+        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "SUNSET IN PARIS",
+      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
         "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
         "url": "https://open.spotify.com/album/1vUCTdPUb0hFi3CsE0aPqn"
       },
@@ -1451,18 +1467,22 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "SUNSET IN PARIS",
-        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
       },
       "artists": [
         {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 140000,
-      "name": "SUNSET IN PARIS",
-      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -1491,26 +1511,6 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -1535,22 +1535,22 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "Tight Rope",
-        "url": "https://open.spotify.com/album/2ZeOk9yRVQfQ7actJcV5Jt"
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
       "artists": [
         {
-          "name": "Quest ott",
-          "url": "https://open.spotify.com/artist/4x1YCCrjVHd5jAs02esbNJ"
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
         },
         {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 194157,
-      "name": "Tight Rope",
-      "url": "https://open.spotify.com/track/3Oy3IKaPLnx896sd7oiF1w"
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     }
   ],
   "unique_name": "Afro Chill",

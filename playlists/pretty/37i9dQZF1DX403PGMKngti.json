@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos m\u00e1s champet\u00faos de ayer y hoy se vacilan en Spotify! Foto: Criss y Ronny",
-  "num_followers": 69298,
+  "num_followers": 69317,
   "original_name": "Champeta & Terapia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObINgV8pzZ3f6CXo9v6yg0qPzT0",
+  "snapshot_id": "AAAAALLJyicC/BiLR9BjhQsofYn3GH6u",
   "tracks": [
     {
       "added_at": "2026-10-09 04:59:24",
@@ -199,6 +199,30 @@
       "duration_ms": 245577,
       "name": "Paola",
       "url": "https://open.spotify.com/track/07rzF2jiwidYzEX51mulN9"
+    },
+    {
+      "added_at": "2026-10-16 12:22:01",
+      "album": {
+        "name": "PIN QUITE Y PON (baila la guara)",
+        "url": "https://open.spotify.com/album/2WDtnN9K9IVv1ms6G6Lh5G"
+      },
+      "artists": [
+        {
+          "name": "Torrente",
+          "url": "https://open.spotify.com/artist/12NT5hq8ehhvaZJaBJ2iXn"
+        },
+        {
+          "name": "sanperseus",
+          "url": "https://open.spotify.com/artist/6QlKFXRTS1wys2zp4fIYmj"
+        },
+        {
+          "name": "Bueltiao",
+          "url": "https://open.spotify.com/artist/3lDVykU8ECi8bXkQloX4l4"
+        }
+      ],
+      "duration_ms": 158012,
+      "name": "PIN QUITE Y PON (baila la guara)",
+      "url": "https://open.spotify.com/track/50nYpZyeVAjoEQ3OAZ3gVi"
     },
     {
       "added_at": "2026-10-09 04:59:24",
@@ -1139,26 +1163,6 @@
       "duration_ms": 175405,
       "name": "La Depre",
       "url": "https://open.spotify.com/track/3MuBMbH6Y2xs78eZdLTPpu"
-    },
-    {
-      "added_at": "2026-10-09 04:59:24",
-      "album": {
-        "name": "Nos Vemos Nunca",
-        "url": "https://open.spotify.com/album/2CrBRNjSp0BVW2RdjbWNbe"
-      },
-      "artists": [
-        {
-          "name": "Mc Car",
-          "url": "https://open.spotify.com/artist/1vVqFZ65U41UO7RTT4egvl"
-        },
-        {
-          "name": "DJ Jader Tremendo",
-          "url": "https://open.spotify.com/artist/777DUvjLDJpcVq84ogE8sG"
-        }
-      ],
-      "duration_ms": 200792,
-      "name": "Nos Vemos Nunca",
-      "url": "https://open.spotify.com/track/78b90b0QNop5aEpyZpCd6d"
     },
     {
       "added_at": "2026-10-09 04:59:24",

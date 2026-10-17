@@ -1,12 +1,12 @@
 {
   "description": "chill beats, lofi vibes, new tracks every week...",
-  "num_followers": 5517841,
+  "num_followers": 5517898,
   "original_name": "lofi beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZ8qaKa2DDadZ8hsqibEdCA+udO",
+  "snapshot_id": "AAAAABO6QmEV3c7s5i20HvxFOouTZdgq",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:31",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/0z4hZnfyYaI62mrPMqvFid"
     },
     {
+      "added_at": "2026-10-16 07:31:02",
+      "album": {
+        "name": "Tidals",
+        "url": "https://open.spotify.com/album/2AlTpeyPwFEAOAVCEY1aXJ"
+      },
+      "artists": [
+        {
+          "name": "Big Baz",
+          "url": "https://open.spotify.com/artist/2e4e30xLggaLcy9jzJOFr9"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Tidals",
+      "url": "https://open.spotify.com/track/0XXWjwdIT7rk4eaUIoxTRc"
+    },
+    {
       "added_at": "2026-10-09 04:01:31",
       "album": {
         "name": "Still Crossing",
@@ -153,6 +169,22 @@
       "url": "https://open.spotify.com/track/5DTTeqf6ZoeCEZbky74cgm"
     },
     {
+      "added_at": "2026-10-16 07:31:02",
+      "album": {
+        "name": "flip phone",
+        "url": "https://open.spotify.com/album/3y3sxzLoZ7CYdHeRabhGV5"
+      },
+      "artists": [
+        {
+          "name": "mr. regular",
+          "url": "https://open.spotify.com/artist/2Rk61CyoOspxmquOokKRNI"
+        }
+      ],
+      "duration_ms": 117200,
+      "name": "flip phone",
+      "url": "https://open.spotify.com/track/6pT81M71DNyBesly4Of5PD"
+    },
+    {
       "added_at": "2026-10-09 04:01:31",
       "album": {
         "name": "by the sea",
@@ -185,36 +217,20 @@
       "url": "https://open.spotify.com/track/5Y4xIiKuNFbMcZV5saKHJW"
     },
     {
-      "added_at": "2026-10-09 04:01:31",
+      "added_at": "2026-10-16 07:31:02",
       "album": {
-        "name": "Hike in Yosemite",
-        "url": "https://open.spotify.com/album/3CLLsPeFZbWfUUcoogRZzU"
+        "name": "remnants of us",
+        "url": "https://open.spotify.com/album/64phVxhhM7u4BglzCCwAlP"
       },
       "artists": [
         {
-          "name": "Valgre",
-          "url": "https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp"
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Hike in Yosemite",
-      "url": "https://open.spotify.com/track/5W8LaDTj6jIMfMv1EmeBOM"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
-        "name": "stopmotion",
-        "url": "https://open.spotify.com/album/1tb7gd2mCNz8iYW1JL36E1"
-      },
-      "artists": [
-        {
-          "name": "wuy-wuy",
-          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "stopmotion",
-      "url": "https://open.spotify.com/track/1GErEOl5hPy0b2nsAr1x3k"
+      "duration_ms": 129523,
+      "name": "remnants of us",
+      "url": "https://open.spotify.com/track/6VMqcxdFLOmhi5e9hYJrSo"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -319,6 +335,26 @@
       "duration_ms": 137142,
       "name": "wornout",
       "url": "https://open.spotify.com/track/0xhRQNyWJTkmwt2r2KpnZl"
+    },
+    {
+      "added_at": "2026-10-16 07:31:02",
+      "album": {
+        "name": "Northside",
+        "url": "https://open.spotify.com/album/1FCliVaCPBsawsPSHR6s0S"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Northside",
+      "url": "https://open.spotify.com/track/2skt0OfeeSYe26ZcA5wSn4"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -447,6 +483,38 @@
     {
       "added_at": "2026-10-09 04:01:31",
       "album": {
+        "name": "Hike in Yosemite",
+        "url": "https://open.spotify.com/album/3CLLsPeFZbWfUUcoogRZzU"
+      },
+      "artists": [
+        {
+          "name": "Valgre",
+          "url": "https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Hike in Yosemite",
+      "url": "https://open.spotify.com/track/5W8LaDTj6jIMfMv1EmeBOM"
+    },
+    {
+      "added_at": "2026-10-09 04:01:31",
+      "album": {
+        "name": "stopmotion",
+        "url": "https://open.spotify.com/album/1tb7gd2mCNz8iYW1JL36E1"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "stopmotion",
+      "url": "https://open.spotify.com/track/1GErEOl5hPy0b2nsAr1x3k"
+    },
+    {
+      "added_at": "2026-10-09 04:01:31",
+      "album": {
         "name": "Robin",
         "url": "https://open.spotify.com/album/6D3p9YoUNQNDvnYFSkKCb5"
       },
@@ -523,26 +591,6 @@
       "duration_ms": 118734,
       "name": "back to you",
       "url": "https://open.spotify.com/track/7h2GLHkRjw8FIQE77vigfL"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
-        "name": "Forage",
-        "url": "https://open.spotify.com/album/1jiuC2a5RdKrYCUVKMgBXF"
-      },
-      "artists": [
-        {
-          "name": "Banks",
-          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
-        },
-        {
-          "name": "Ptr.",
-          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
-        }
-      ],
-      "duration_ms": 147945,
-      "name": "Forage",
-      "url": "https://open.spotify.com/track/1CWefHKcQFzEIehpvCkU3Q"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -703,6 +751,26 @@
       "duration_ms": 116571,
       "name": "Firefly City",
       "url": "https://open.spotify.com/track/1ykwBddoS3RzIszBXzqHla"
+    },
+    {
+      "added_at": "2026-10-09 04:01:31",
+      "album": {
+        "name": "Forage",
+        "url": "https://open.spotify.com/album/1jiuC2a5RdKrYCUVKMgBXF"
+      },
+      "artists": [
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "duration_ms": 147945,
+      "name": "Forage",
+      "url": "https://open.spotify.com/track/1CWefHKcQFzEIehpvCkU3Q"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -931,22 +999,6 @@
     {
       "added_at": "2026-10-09 04:01:31",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1SysEwRVWALNaGN84L5gJW"
-      },
-      "artists": [
-        {
-          "name": "Elpida",
-          "url": "https://open.spotify.com/artist/4tNyN7hR3q6ESP7sM8ZzQf"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6WdNN4L7fx7PvRYUDqzvdu"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
         "name": "morning brew",
         "url": "https://open.spotify.com/album/4PMlrqnNqdvvhkdQhwKz9O"
       },
@@ -1167,6 +1219,22 @@
     {
       "added_at": "2026-10-09 04:01:31",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1SysEwRVWALNaGN84L5gJW"
+      },
+      "artists": [
+        {
+          "name": "Elpida",
+          "url": "https://open.spotify.com/artist/4tNyN7hR3q6ESP7sM8ZzQf"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6WdNN4L7fx7PvRYUDqzvdu"
+    },
+    {
+      "added_at": "2026-10-09 04:01:31",
+      "album": {
         "name": "ember",
         "url": "https://open.spotify.com/album/47MsCECWk0SVNIIjQeH1YN"
       },
@@ -1383,26 +1451,6 @@
     {
       "added_at": "2026-10-09 04:01:31",
       "album": {
-        "name": "Sunflowers",
-        "url": "https://open.spotify.com/album/18gWfBWvhGR9a8Hl6IEhcd"
-      },
-      "artists": [
-        {
-          "name": "Dosi",
-          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
-        },
-        {
-          "name": "\u00d8DYSSEE",
-          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sunflowers",
-      "url": "https://open.spotify.com/track/5bGk03Cs40RgBKGllGg01R"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/2fUz6j8F3C7RFcRXaFGsMv"
       },
@@ -1495,22 +1543,6 @@
       "duration_ms": 146062,
       "name": "Brumous",
       "url": "https://open.spotify.com/track/6cAqJMFQxdFSgxU57YGdU1"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/6rysh627mtQxjFTNa5YwAY"
-      },
-      "artists": [
-        {
-          "name": "tendgarden",
-          "url": "https://open.spotify.com/artist/6Rf72Rsh1XjPZRrU5fHGJl"
-        }
-      ],
-      "duration_ms": 136658,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/08uAZTDtpYF0GhGKCCw4Fe"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -1695,6 +1727,22 @@
       "duration_ms": 146937,
       "name": "bole",
       "url": "https://open.spotify.com/track/3Q9zGqEZfF8UhfrJHX862E"
+    },
+    {
+      "added_at": "2026-10-09 04:01:31",
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/6rysh627mtQxjFTNa5YwAY"
+      },
+      "artists": [
+        {
+          "name": "tendgarden",
+          "url": "https://open.spotify.com/artist/6Rf72Rsh1XjPZRrU5fHGJl"
+        }
+      ],
+      "duration_ms": 136658,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/08uAZTDtpYF0GhGKCCw4Fe"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -2279,22 +2327,6 @@
     {
       "added_at": "2026-10-09 04:01:31",
       "album": {
-        "name": "Proper Noun",
-        "url": "https://open.spotify.com/album/0UQEAz31NvIzlwGzQw4lDo"
-      },
-      "artists": [
-        {
-          "name": "Cmd q",
-          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
-        }
-      ],
-      "duration_ms": 162608,
-      "name": "Proper Noun",
-      "url": "https://open.spotify.com/track/3ZtNOy4rhlKHu9gUIaE2As"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/1SX4fo04B99Elk0RXWyJD2"
       },
@@ -2399,22 +2431,6 @@
     {
       "added_at": "2026-10-09 04:01:31",
       "album": {
-        "name": "Verbs",
-        "url": "https://open.spotify.com/album/3QmeXCuk7zx5qRQBHpnjwc"
-      },
-      "artists": [
-        {
-          "name": "2:17am",
-          "url": "https://open.spotify.com/artist/3thwpCNTytH1aP6N4EoFp1"
-        }
-      ],
-      "duration_ms": 146041,
-      "name": "Verbs",
-      "url": "https://open.spotify.com/track/4S3kBKWqe997NhJdTbXhib"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
         "name": "Petals on Water",
         "url": "https://open.spotify.com/album/6HnyVhAv2btukCyeWOIigs"
       },
@@ -2459,6 +2475,22 @@
       "duration_ms": 137142,
       "name": "Fizzdrop",
       "url": "https://open.spotify.com/track/14l5zv6ljXUgG3bfYmCljP"
+    },
+    {
+      "added_at": "2026-10-09 04:01:31",
+      "album": {
+        "name": "Proper Noun",
+        "url": "https://open.spotify.com/album/0UQEAz31NvIzlwGzQw4lDo"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "duration_ms": 162608,
+      "name": "Proper Noun",
+      "url": "https://open.spotify.com/track/3ZtNOy4rhlKHu9gUIaE2As"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -2611,6 +2643,22 @@
       "duration_ms": 108486,
       "name": "exec. LVL",
       "url": "https://open.spotify.com/track/4Ra9QsrihDWZEHKBhChaVd"
+    },
+    {
+      "added_at": "2026-10-09 04:01:31",
+      "album": {
+        "name": "Verbs",
+        "url": "https://open.spotify.com/album/3QmeXCuk7zx5qRQBHpnjwc"
+      },
+      "artists": [
+        {
+          "name": "2:17am",
+          "url": "https://open.spotify.com/artist/3thwpCNTytH1aP6N4EoFp1"
+        }
+      ],
+      "duration_ms": 146041,
+      "name": "Verbs",
+      "url": "https://open.spotify.com/track/4S3kBKWqe997NhJdTbXhib"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -3251,22 +3299,6 @@
     {
       "added_at": "2026-10-09 04:01:31",
       "album": {
-        "name": "lovers",
-        "url": "https://open.spotify.com/album/00k0V70BU84faZOhqZNcPt"
-      },
-      "artists": [
-        {
-          "name": "Kichiro",
-          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "lovers",
-      "url": "https://open.spotify.com/track/4JBrmVKqJHhbs4CvQFbPkC"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
         "name": "aromatics",
         "url": "https://open.spotify.com/album/0ttsyoz6338CSHJJjpnu4N"
       },
@@ -3507,22 +3539,6 @@
       "duration_ms": 143227,
       "name": "inside outside",
       "url": "https://open.spotify.com/track/4I6tznBQmTVfubgKIsc7ni"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/2RxCJoJ6Igm0WQdX5u0ROZ"
-      },
-      "artists": [
-        {
-          "name": "ron quixote",
-          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/2fFAQ6KkYmTmLYGoYO5Vm2"
     },
     {
       "added_at": "2026-10-09 04:01:31",
@@ -3851,22 +3867,6 @@
       "duration_ms": 147692,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/7gEZsQNuTYbLiMmr8LmXhQ"
-    },
-    {
-      "added_at": "2026-10-09 04:01:31",
-      "album": {
-        "name": "lonely nights",
-        "url": "https://open.spotify.com/album/1jZbrN0GqWFnJ8xZXo5IcC"
-      },
-      "artists": [
-        {
-          "name": "butterfli",
-          "url": "https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "lonely nights",
-      "url": "https://open.spotify.com/track/02oyJrGlvHQ4sf7obYMJJk"
     }
   ],
   "unique_name": "lofi beats",

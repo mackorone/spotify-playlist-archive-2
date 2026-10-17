@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,749 songs - 6 day 16 hr 13 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,756 songs - 6 day 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2757,5 +2757,12 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2747 | [Tô de Boa](https://open.spotify.com/track/15hI0GEN7t3t0NBDeKbfTZ) | [J\. Bernard](https://open.spotify.com/artist/6cw4bvntntvCFSZ6zS2nx2) | [Tô de Boa](https://open.spotify.com/album/581fmi1sdvGarhkV6mbVEy) | 1:59 |
 | 2748 | [Always Me](https://open.spotify.com/track/2eeZ7feQjjbj7K8mM8ZVyE) | [Cloud Static](https://open.spotify.com/artist/3c0gCqBOn3TsFMJ0XFVGra) | [Always Me](https://open.spotify.com/album/5GETAmuKeALaBNvgWCNFv0) | 2:34 |
 | 2749 | [YOU AND I](https://open.spotify.com/track/03x89Kr9NyV9q6T8pg7VOD) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [YOU AND I](https://open.spotify.com/album/4ikoyRjiPIaQkaWuTUfm0c) | 7:39 |
+| 2750 | [Sweat \- Big Reunion Remix Edit](https://open.spotify.com/track/47n4VE59bx6SVMKZiw6vb7) | [CARUSO](https://open.spotify.com/artist/4gPWSjh9OJolHoeTQ995Tw), [VALENZIANO](https://open.spotify.com/artist/6ZRVg1mv3nhx6METtSYaVj), [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [Sweat](https://open.spotify.com/album/3EdSoXnfj1XfMejRBqok4K) | 1:58 |
+| 2751 | [Quixotic](https://open.spotify.com/track/5ouLQMzhYabZ72aGMOGjqr) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Quixotic](https://open.spotify.com/album/0YvxpgoWTSdCNbiFAxgjYM) | 2:06 |
+| 2752 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 |
+| 2753 | [alone again](https://open.spotify.com/track/011B3sTALASw23lUbWss0x) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [alone again](https://open.spotify.com/album/0Kc6NtHlrGRKb43hWZFWU6) | 1:31 |
+| 2754 | [White Sands](https://open.spotify.com/track/15BvfKhjXmDYauzsCOsN91) | [Hellykom](https://open.spotify.com/artist/4TNnchYcTeKxyA5bbhdVsS) | [White Sands](https://open.spotify.com/album/6JqpUO350ZhMN6hJPl1GaS) | 2:42 |
+| 2755 | [Tu Alma](https://open.spotify.com/track/1p29HZLvBhRBUxxQkQIAD8) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:50 |
+| 2756 | [Ese 50 por Ciento de Tí](https://open.spotify.com/track/58lQhYgbQuevyLDUN4Yncd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 3:23 |
 
-Snapshot ID: `AAALxrBGHkPM3UkUwAGnhz8v40LC8ABk`
+Snapshot ID: `AAALzgN4ap/bLAi+MyFb9PlI6PqHjGec`

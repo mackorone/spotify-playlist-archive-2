@@ -4,7 +4,7 @@
 
 > Mood: Turnt Cover: Future
 
-1,223 songs - 2 day 9 hr 53 min
+1,224 songs - 2 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Konnichiwa](https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:33 | 2026-07-10 |  |
 | [Krazy Krazy](https://open.spotify.com/track/6ZjP85QdIaiTojLrKixvbT) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Krazy Krazy](https://open.spotify.com/album/1Rgimz7Cn1RfMYz6cUsD4q) | 2:21 | 2022-04-29 | 2022-08-06 |
 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 | 2026-05-16 | 2026-06-27 |
+| [Lambo pass by \(feat\. OJ da Juiceman\)](https://open.spotify.com/track/2s9yhSB3VG5ajbbLN5zoDM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Against All Odds](https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9) | 2:53 | 2026-10-16 |  |
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-08-25 | 2024-01-13 |
 | [LAST BREATH \(feat\. Peso Pluma\)](https://open.spotify.com/track/13CvK7typ0qYle19p9Vahn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:06 | 2026-03-28 | 2026-04-18 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-08-19 | 2022-10-22 |

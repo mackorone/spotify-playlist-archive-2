@@ -1,29 +1,13 @@
 {
   "description": "pra entrar e ficar na onda",
-  "num_followers": 24442,
+  "num_followers": 24445,
   "original_name": "Jersey BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDRZO3pH7GqkxPuKJWv1KSW2mtt",
+  "snapshot_id": "AAAAANsOyVYm4AD7Wnq9hcQxpl4ixCH2",
   "tracks": [
-    {
-      "added_at": "2026-05-21 23:10:17",
-      "album": {
-        "name": "Rainha da Finesse",
-        "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Rainha da Finesse",
-      "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
-    },
     {
       "added_at": "2026-05-21 23:10:17",
       "album": {
@@ -43,6 +27,30 @@
       "duration_ms": 217941,
       "name": "VAI DESCE BABY",
       "url": "https://open.spotify.com/track/44U1er1LxgRNu42fbbz78T"
+    },
+    {
+      "added_at": "2026-10-16 15:14:15",
+      "album": {
+        "name": "LCD (feat. kouth)",
+        "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "FUSO!",
+          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+        }
+      ],
+      "duration_ms": 192241,
+      "name": "LCD (feat. kouth)",
+      "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
     },
     {
       "added_at": "2026-05-21 23:10:17",
@@ -219,6 +227,22 @@
       "duration_ms": 123428,
       "name": "STORIES",
       "url": "https://open.spotify.com/track/2F9LV6rsZxkJRZIsDYDeWD"
+    },
+    {
+      "added_at": "2026-05-21 23:10:17",
+      "album": {
+        "name": "Rainha da Finesse",
+        "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
     },
     {
       "added_at": "2026-05-21 23:10:17",
@@ -1195,26 +1219,6 @@
       "duration_ms": 126245,
       "name": "Uk Drill",
       "url": "https://open.spotify.com/track/46nlWdYZz0uf5rqi6zyE3S"
-    },
-    {
-      "added_at": "2026-05-21 23:10:17",
-      "album": {
-        "name": "Fora Da Panela (Mixtape)",
-        "url": "https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V"
-      },
-      "artists": [
-        {
-          "name": "Delatorvi",
-          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
-        },
-        {
-          "name": "Overdone",
-          "url": "https://open.spotify.com/artist/2jocgFGNmUx42CYHGYvSEJ"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Belo Horizonte 30 Graus A Noite",
-      "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
     },
     {
       "added_at": "2026-05-21 23:10:17",

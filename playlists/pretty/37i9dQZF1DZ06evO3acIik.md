@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,043 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,056 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Forever](https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Forever](https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD) | 3:11 |
-| 2 | [Nest](https://open.spotify.com/track/6FYu6uQqdrdw2aSXuxKCAo) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 2:02 |
-| 3 | [Hotel](https://open.spotify.com/track/4UgQtwlW2Kd6fyv3y6DQ3e) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 3:17 |
-| 4 | [Fall in Love with You.](https://open.spotify.com/track/3NTkDaR9hw7VbU3ziBnNVz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 2:12 |
-| 5 | [Devotion](https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:20 |
-| 6 | [love you more than me](https://open.spotify.com/track/0sk2PPRh0uRDSoO4z3cTfg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5dxp9DTBCXNX1yoVd30C3M) | 2:21 |
-| 7 | [Bathroom](https://open.spotify.com/track/2CPPd0ke6cp59v079vDcUi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 3:28 |
-| 8 | [Destroy Myself Just For You](https://open.spotify.com/track/3rmwnuqtLg5858xoXprtnq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 2:26 |
+| 1 | [Nest](https://open.spotify.com/track/6FYu6uQqdrdw2aSXuxKCAo) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 2:02 |
+| 2 | [Hotel](https://open.spotify.com/track/4UgQtwlW2Kd6fyv3y6DQ3e) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 3:17 |
+| 3 | [Fall in Love with You.](https://open.spotify.com/track/3NTkDaR9hw7VbU3ziBnNVz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 2:12 |
+| 4 | [Devotion](https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:20 |
+| 5 | [love you more than me](https://open.spotify.com/track/0sk2PPRh0uRDSoO4z3cTfg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5dxp9DTBCXNX1yoVd30C3M) | 2:21 |
+| 6 | [Bathroom](https://open.spotify.com/track/2CPPd0ke6cp59v079vDcUi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 3:28 |
+| 7 | [Destroy Myself Just For You](https://open.spotify.com/track/3rmwnuqtLg5858xoXprtnq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 2:26 |
+| 8 | [Forever](https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Forever](https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD) | 3:11 |
 | 9 | [SCREAM MY NAME](https://open.spotify.com/track/1LQ3IwRDo4YOaHTyPZveJE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 2:40 |
 | 10 | [Altitude](https://open.spotify.com/track/6zcddYPQvzmQJUeNg2g3e6) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 2:44 |
 | 11 | [Talk 2 Me](https://open.spotify.com/track/1IIzlkKTsF7YEpKKluX1pz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 2:19 |

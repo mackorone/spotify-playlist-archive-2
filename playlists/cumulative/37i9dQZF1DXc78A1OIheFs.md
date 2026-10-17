@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-376 songs - 21 hr 37 min
+377 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 | 2024-09-19 |  |
 | [Done Did It \- Revival 2.0](https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Done Did It \(Revival 2.0\)](https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR) | 3:39 | 2025-10-09 | 2026-01-15 |
 | [drag](https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [drag](https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu) | 3:49 | 2026-05-25 |  |
-| [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 | 2025-11-06 |  |
+| [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 | 2025-11-06 | 2026-10-17 |
 | [Driftwood](https://open.spotify.com/track/6wRGndiL768o93yms0HdL8) | [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Driftwood](https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX) | 4:28 | 2024-05-20 | 2024-11-14 |
 | [Drinking In The Morning](https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu) | [Home Brew](https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH) | [Run It Back](https://open.spotify.com/album/58XdVll8nynryYv4602rua) | 3:53 | 2024-05-20 | 2024-11-28 |
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-05-20 | 2024-11-08 |
@@ -122,6 +122,7 @@
 | [Fever](https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Fever](https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4) | 2:35 | 2025-01-30 | 2025-03-08 |
 | [FFS](https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [right now, forever](https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U) | 3:24 | 2024-10-18 | 2024-11-27 |
 | [Flames](https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Flames](https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc) | 2:47 | 2024-09-26 | 2025-02-25 |
+| [Floodlights](https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [Floodlights](https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ) | 4:18 | 2026-10-15 |  |
 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \(Edit\)](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 | 2024-09-26 | 2025-06-20 |
 | [Follow You](https://open.spotify.com/track/1nI65UwP9P5AECQ20H7LCa) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Follow You](https://open.spotify.com/album/18zkpvInzvgLrQ7QxqSD7m) | 3:29 | 2024-05-20 | 2024-11-08 |
 | [Fool For You](https://open.spotify.com/track/3Y8RTzih2Ic7zcsL8jqp58) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 01 + 02](https://open.spotify.com/album/10AiRqTgQchfpfS4ItqtXM) | 3:30 | 2024-05-20 | 2024-11-08 |

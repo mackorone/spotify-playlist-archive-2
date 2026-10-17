@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Galat Admi, Sakré
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,832 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,861 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Tere Bina](https://open.spotify.com/track/7Fc5fY2wmMncjpSvrQjAPL) | [Mausiq](https://open.spotify.com/artist/17mFWGPyG2CbbDv1WSJZVS), [Udit Saxena](https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5) | [Tere Bina](https://open.spotify.com/album/2XbfrsmO0Qr1CCcjC1hSt9) | 4:21 |
 | 50 | [Tu Na Aayi](https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16) | [Sahil Joshi](https://open.spotify.com/artist/7gp4BOQuRrBqOkCZr32tVf), [Snehil Jain](https://open.spotify.com/artist/4NomYUWemetc7nCw28G5HF) | [Tu Na Aayi](https://open.spotify.com/album/1hD581ohlD9YwRxzky1YpR) | 3:16 |
 
-Snapshot ID: `AAAAAP9N1fxvhcLXOs1OF+OkknYYFsix`
+Snapshot ID: `AAAAAEDEmd7dS2UnOKpjIvDRQyxuI/mW`

@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,116 songs - 2 day 11 hr 22 min
+1,116 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Feeling \(Hold On You\)](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [MURPHY](https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ) | [Feeling \(Hold On You\)](https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr) | 3:36 | 2026-02-19 | 2026-10-16 |
 | [feeling something](https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [feeling something](https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92) | 4:16 | 2026-07-24 |  |
 | [Feels Better](https://open.spotify.com/track/3uSA8WOOPx9wewjTyiFAGa) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Feels Better](https://open.spotify.com/album/0f3Qgyja5s3Jwd2N0nQjy5) | 2:49 | 2026-07-30 |  |
+| [Feels Easy](https://open.spotify.com/track/1tTVe5i68OkoKbYV5gW0Xw) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa), [devin xo](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [Open Up](https://open.spotify.com/album/5Dnh2kVI6E4t4ecmlbPTte) | 2:12 | 2026-10-15 |  |
 | [Feels Like \(La La La\)](https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Feels Like \(La La La\)](https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn) | 2:48 | 2023-11-09 | 2025-08-13 |
 | [feelslikewerefalling](https://open.spotify.com/track/5AQTaXJSHYCBnqDXcX0Qpu) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [feelslikewerefalling](https://open.spotify.com/album/0n8vdluADIPcKgDqKihrns) | 3:12 | 2023-05-18 | 2023-10-20 |
 | [feelthisway](https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [feelthisway / 3000 miles](https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB) | 3:32 | 2023-12-08 | 2025-08-13 |
@@ -980,7 +981,6 @@
 | [touch](https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [touch](https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR) | 1:54 | 2024-05-08 | 2025-08-13 |
 | [Touch \(feat\. Franky\)](https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Touch \(feat\. Franky\)](https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2) | 2:48 | 2023-09-07 | 2025-08-13 |
 | [Toy](https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K) | [ilysm](https://open.spotify.com/artist/0pRVWdcqtwZ1QI1Tlw3Ehq) | [Toy](https://open.spotify.com/album/4RWuhq0MXjCZeJvJVnFfno) | 1:55 | 2026-04-30 |  |
-| [Track 4](https://open.spotify.com/track/1tTVe5i68OkoKbYV5gW0Xw) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Open Up](https://open.spotify.com/album/5Dnh2kVI6E4t4ecmlbPTte) | 0:00 | 2026-10-15 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-19 | 2026-08-28 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-08-13 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-08 | 2025-08-13 |

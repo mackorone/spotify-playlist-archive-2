@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35177,
+  "num_followers": 35179,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWAcsnqYIgdJMwcmYPmbrcVbRAa",
+  "snapshot_id": "AAAAAFQ0uMZpUsDKdBCPc09yV7DkU5IZ",
   "tracks": [
     {
       "added_at": "2026-10-02 08:14:11",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vacation and Probation",
-        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "Vacation and Probation",
-      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Kids are electric",
-      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Amalia Gr\u00e8",
         "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Ora beat!",
-        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
-      },
-      "artists": [
-        {
-          "name": "Stefano Torossi",
-          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
-        }
-      ],
-      "duration_ms": 125572,
-      "name": "Bighellonando",
-      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Audio File",
         "url": "https://open.spotify.com/album/288oOjXAVQxmsnEl4p9y1k"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Ora beat!",
+        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
+      },
+      "artists": [
+        {
+          "name": "Stefano Torossi",
+          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Bighellonando",
+      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 165573,
       "name": "Giuramento (feat. Gabriele Mirabassi)",
       "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Taish\u014dgoto",
         "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 304173,
       "name": "Taish\u014dgoto",
       "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Comes Love",
+        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
+      },
+      "artists": [
+        {
+          "name": "Alice Ricciardi",
+          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
+        }
+      ],
+      "duration_ms": 292720,
+      "name": "Le Tue Mani",
+      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Comes Love",
-        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
+        "name": "Maison Maravilha",
+        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
       "artists": [
         {
-          "name": "Alice Ricciardi",
-          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
         }
       ],
-      "duration_ms": 292720,
-      "name": "Le Tue Mani",
-      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
+      "duration_ms": 310466,
+      "name": "Normalmente",
+      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1439,22 +1455,6 @@
       "duration_ms": 150000,
       "name": "Appuntamento al mare - Remastered 2022",
       "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Maison Maravilha",
-        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 310466,
-      "name": "Normalmente",
-      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1499,6 +1499,30 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "MADRE",
+        "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
+      },
+      "artists": [
+        {
+          "name": "Go Dugong",
+          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
+        },
+        {
+          "name": "Wash\u00e9",
+          "url": "https://open.spotify.com/artist/5hCgBxDEYftmg8mjEDrvtX"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
+      "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1527,30 +1551,6 @@
       "duration_ms": 276862,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "MADRE",
-        "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
-      },
-      "artists": [
-        {
-          "name": "Go Dugong",
-          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
-        },
-        {
-          "name": "Wash\u00e9",
-          "url": "https://open.spotify.com/artist/5hCgBxDEYftmg8mjEDrvtX"
-        },
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
-      "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1723,6 +1723,30 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
+        }
+      ],
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1767,30 +1791,6 @@
       "duration_ms": 348375,
       "name": "Here We Gong",
       "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
-        }
-      ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2026-10-02 08:14:11",

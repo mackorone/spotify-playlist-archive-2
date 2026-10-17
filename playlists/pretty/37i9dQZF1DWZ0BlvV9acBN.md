@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,755 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,750 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 34 | [Autor da Vida](https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Autor da Vida](https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn) | 4:28 |
 | 35 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 |
 | 36 | [Não Sou Mais Eu](https://open.spotify.com/track/0NANS67Rs3DifKlnYn0FNb) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Não Sou Mais Eu](https://open.spotify.com/album/3MLgBydwGv53WSnkEbOFyx) | 4:47 |
-| 37 | [Grito de Katsbarnea](https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [Grito de Katsbarnea](https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK) | 3:28 |
-| 38 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
+| 37 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
+| 38 | [Grito de Katsbarnea](https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [Grito de Katsbarnea](https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK) | 3:28 |
 | 39 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 40 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 |
 | 41 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 54 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
 | 55 | [Quebre as Correntes](https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Quebre as Correntes](https://open.spotify.com/album/1fto84wZULJvDxB44FccKm) | 4:08 |
 | 56 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
-| 57 | [Ele é o Senhor \- Ao Vivo](https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Ele é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU) | 7:41 |
-| 58 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
+| 57 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
+| 58 | [Ele é o Senhor \- Ao Vivo](https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Ele é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU) | 7:41 |
 | 59 | [Filho do Homem](https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR) | [Rafa Couto](https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Filho do Homem](https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee) | 2:57 |
 | 60 | [Imerecido Amor](https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ) | [DANNIEL GOMES](https://open.spotify.com/artist/4Zj9qtiwRFwaMyejsvlctD), [Novo Eu](https://open.spotify.com/artist/6lpIp6l3aq3X5G4jsPl3Ci), [EURRITMIA](https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT) | [Imerecido Amor](https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E) | 3:10 |
 | 61 | [Celebre \- Ao Vivo](https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Celebre \(Ao Vivo\)](https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY) | 4:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Fui Encontrado](https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Fui Encontrado](https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu) | 3:13 |
 | 70 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz \- Ao Vivo](https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Eu Quero É Deus / Celebrai a Cristo / Aquele Que Está Feliz \(Ao Vivo\)](https://open.spotify.com/album/27G71rRH7SWUCLz4Kg7Xc0) | 4:43 |
 
-Snapshot ID: `AAAAADq/kcYVnF+yFWTTDxRi1Fs3p9+M`
+Snapshot ID: `AAAAAFendVpfigoE7BieLbhlfSbsRTct`

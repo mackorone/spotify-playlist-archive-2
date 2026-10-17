@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,381 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,603 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 38 | [Sweet Dreams](https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 3:24 |
 | 39 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
 | 40 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
-| 41 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
-| 42 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
+| 41 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
+| 42 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
 | 43 | [Close to You](https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1) | [Fun Factory](https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ) | [Back to the Factory](https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn) | 3:38 |
 | 44 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
 | 45 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y), [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 60 | [One Night in Heaven](https://open.spotify.com/track/2uY8Y0CCNMpid8qgX2TWKb) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 4:24 |
 | 61 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
 | 62 | [Find Another Way \- Single Mix](https://open.spotify.com/track/3vYoOUQCX4MU5laTdFbY0S) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Find Another Way](https://open.spotify.com/album/5JDiYRJMb4Zl8UlL2ooPsG) | 3:58 |
-| 63 | [Trust Me](https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One Of A Kind](https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM) | 3:26 |
-| 64 | [Fly High](https://open.spotify.com/track/29WTMnk0vsnapB0FaLDfGM) | [Me & My](https://open.spotify.com/artist/4FD9joiv6N5yWEnxxbyC59) | [Fly High](https://open.spotify.com/album/3T1n5qLTtMAsJofzJoZDNI) | 4:32 |
+| 63 | [Fly High](https://open.spotify.com/track/29WTMnk0vsnapB0FaLDfGM) | [Me & My](https://open.spotify.com/artist/4FD9joiv6N5yWEnxxbyC59) | [Fly High](https://open.spotify.com/album/3T1n5qLTtMAsJofzJoZDNI) | 4:32 |
+| 64 | [Trust Me](https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One Of A Kind](https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM) | 3:26 |
 | 65 | [Drill Instructor \- Short Mix](https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [The Mission](https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB) | 4:14 |
 | 66 | [Electric](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:36 |
 | 67 | [Dr\. Feelgood](https://open.spotify.com/track/7xMud4sf8Lv1UievrJ9Sj6) | [Cool James](https://open.spotify.com/artist/2OKOpqYl2H7q3AFjuJo0XK), [Black Teacher](https://open.spotify.com/artist/1209vfijpAIn5WvDlhLpfB) | [Zooming You](https://open.spotify.com/album/44K4ugSpPPOKlLrsqXZ0WJ) | 3:49 |
 | 68 | [Tears Don't Lie \- Long Version](https://open.spotify.com/track/77DBnoXYTP9HNMunNaUqch) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [90s Charthits](https://open.spotify.com/album/070WMuqRUg4LdGqpzQzp1Q) | 3:39 |
-| 69 | [Leave It Behind](https://open.spotify.com/track/3QHfylquL6fwyhLqjOlW8E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 3:42 |
-| 70 | [Angels Crying](https://open.spotify.com/track/3Rdz3JsgglGWk4GW0J9tlz) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Angels Crying](https://open.spotify.com/album/5pI9fafbCcJjFexTIVYMeM) | 3:50 |
+| 69 | [Angels Crying](https://open.spotify.com/track/3Rdz3JsgglGWk4GW0J9tlz) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Angels Crying](https://open.spotify.com/album/5pI9fafbCcJjFexTIVYMeM) | 3:50 |
+| 70 | [Das Boot](https://open.spotify.com/track/0yMIs70Fr4pd8f4KV6jmHC) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Das Boot](https://open.spotify.com/album/5geE4R8hMSYwkmJiUAAgCW) | 5:14 |
 
-Snapshot ID: `AAAAAFX64wngNz4znW4XsO+KYJvmbX6h`
+Snapshot ID: `AAAAAIcg050TUlVxkCgCkr7r7p4Tcf+y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,872 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,894 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 82 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
 | 83 | [VA A LLOVER](https://open.spotify.com/track/3g08pD1TWXD6RRn05KfN9G) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [VA A LLOVER](https://open.spotify.com/album/57QQpSpVVs0awBTWMkwX5Y) | 3:55 |
 | 84 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 |
-| 85 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 |
+| 85 | [Amigo del Alma](https://open.spotify.com/track/0Vpanax5UVYGmefDMmkDtl) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp), [Antonio & Dolores](https://open.spotify.com/artist/1CuWI7rFjj8mUvW0jYcePu) | [Amigo del Alma](https://open.spotify.com/album/5h6TTJ1OJ9YH2pqzvErVij) | 3:21 |
 | 86 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
-| 87 | [Amigo del Alma](https://open.spotify.com/track/0Vpanax5UVYGmefDMmkDtl) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp), [Antonio & Dolores](https://open.spotify.com/artist/1CuWI7rFjj8mUvW0jYcePu) | [Amigo del Alma](https://open.spotify.com/album/5h6TTJ1OJ9YH2pqzvErVij) | 3:21 |
+| 87 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 |
 | 88 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
 | 89 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 90 | [Se Dejaba Llevar Por Ti \- Remastered 2015](https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [No Me Iré Mañana \(Edición 25 Aniversario\)](https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 | 100 | [Capitana \- A COLORS SHOW](https://open.spotify.com/track/2elUMQsM86Mc76C3kytRkq) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Capitana \- A COLORS SHOW](https://open.spotify.com/album/5bUTNLImQtVvWRc1TFv5um) | 4:32 |
 
-Snapshot ID: `AAAAAK5PlnPrdvg2b5v6R5ZPKR0iAgoY`
+Snapshot ID: `AAAAALKgc6hZ92CXFVTzYMilYF+ld9uG`

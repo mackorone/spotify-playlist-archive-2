@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Alewya",
-  "num_followers": 181027,
+  "num_followers": 181019,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRdmQf5gX5KRjMBfFe+b+O+O8So",
+  "snapshot_id": "AAAAAPU0IoIlixiycWLGq0LlMgKFHFZt",
   "tracks": [
     {
       "added_at": "2026-05-28 23:00:52",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-05-28 23:00:52",
       "album": {
+        "name": "Angel Patience",
+        "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Angel Patience",
+      "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
+    },
+    {
+      "added_at": "2026-05-28 23:00:52",
+      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 146719,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe"
-    },
-    {
-      "added_at": "2026-05-28 23:00:52",
-      "album": {
-        "name": "Angel Patience",
-        "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Angel Patience",
-      "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
     },
     {
       "added_at": "2026-05-28 23:00:52",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-05-28 23:00:52",
       "album": {
+        "name": "TELL DEM IT'S SUNNY",
+        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 158739,
+      "name": "Whatcha Mean",
+      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
+    },
+    {
+      "added_at": "2026-05-28 23:00:52",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 266719,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
-    },
-    {
-      "added_at": "2026-05-28 23:00:52",
-      "album": {
-        "name": "TELL DEM IT'S SUNNY",
-        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 158739,
-      "name": "Whatcha Mean",
-      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
     },
     {
       "added_at": "2026-05-28 23:00:52",

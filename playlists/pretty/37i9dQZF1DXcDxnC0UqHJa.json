@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 436668,
+  "num_followers": 436633,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAVb8/39zxQQ2VLVR17qvhu0xS7V",
+  "snapshot_id": "AAAAAOrYz8x+Ixok3ndlCCvuK/JQl9PJ",
   "tracks": [
     {
       "added_at": "2026-05-01 04:03:53",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "The Show: The Encore",
         "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 242124,
       "name": "Something In The Orange - Live From Spotify Studios",
       "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Something About What Happens When We Talk",
-        "url": "https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Something About What Happens When We Talk",
-      "url": "https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Come Give Me Love",
         "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 239643,
       "name": "Come Give Me Love",
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Something About What Happens When We Talk",
+        "url": "https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Something About What Happens When We Talk",
+      "url": "https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 206796,
-      "name": "The Safety Dance",
-      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
+      "duration_ms": 218760,
+      "name": "Perfect Places - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Perfect Places - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
+      "duration_ms": 206796,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184546,
       "name": "A Hard Rain's A-Gonna Fall",
       "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 260040,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Let Down",
         "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 237013,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 260040,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "We Don't Eat",
         "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1543,6 +1527,22 @@
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Black Eyed Dog",
-        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Black Eyed Dog",
-      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Driver 8",
         "url": "https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 215449,
       "name": "Driver 8",
       "url": "https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Black Eyed Dog",
+        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Black Eyed Dog",
+      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Look At Miss Ohio",
-        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "To Ramona",
         "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 217586,
       "name": "To Ramona",
       "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Look At Miss Ohio",
+        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1959,22 +1959,26 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "true love will find you in the end (Adam's Version)",
-        "url": "https://open.spotify.com/album/75NVfTQZUCSxN5388wvYK6"
+        "name": "How I Long for Peace",
+        "url": "https://open.spotify.com/album/5Fc5PKHmDK4OMxjgHFvToG"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
         },
         {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+          "name": "Resistance Revival Chorus",
+          "url": "https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1"
+        },
+        {
+          "name": "Crys Matthews",
+          "url": "https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC"
         }
       ],
-      "duration_ms": 121665,
-      "name": "true love will find you in the end - Adam's Version",
-      "url": "https://open.spotify.com/track/1iBKUbUAvPQavSlNrGaXg5"
+      "duration_ms": 270310,
+      "name": "How I Long for Peace",
+      "url": "https://open.spotify.com/track/1c1GPJWgvwyrBk7sT7vio9"
     }
   ],
   "unique_name": "Folksy Covers",

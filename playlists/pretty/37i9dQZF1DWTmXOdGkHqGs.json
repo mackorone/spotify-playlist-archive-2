@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 314840,
+  "num_followers": 314919,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQvbCoULduvpzkcr4acMVVRJt3y",
+  "snapshot_id": "AAAAABlSDIa5yD2RIefGmIVJ8wiZB9ri",
   "tracks": [
     {
       "added_at": "2025-11-20 12:00:38",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Costumbres (Vivo)",
         "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 133077,
       "name": "Costumbres - Vivo",
       "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 178573,
       "name": "Bailan Rochas y Chetas",
       "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -527,22 +511,18 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -563,6 +543,26 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217072,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "Echarme Al Olvido",
+        "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -731,22 +751,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Echarme Al Olvido",
-        "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
+        "name": "No Puedo Olvidarte Cumbia Rosa",
+        "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Amantes del Futuro",
+          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
         },
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Espanglish",
+          "url": "https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1"
         }
       ],
-      "duration_ms": 278800,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
+      "duration_ms": 285799,
+      "name": "No Puedo Olvidarte Cumbia Rosa",
+      "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -767,26 +787,6 @@
       "duration_ms": 177815,
       "name": "Chetos y Cumbieros",
       "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "No Puedo Olvidarte Cumbia Rosa",
-        "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
-      },
-      "artists": [
-        {
-          "name": "Amantes del Futuro",
-          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
-        },
-        {
-          "name": "Espanglish",
-          "url": "https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1"
-        }
-      ],
-      "duration_ms": 285799,
-      "name": "No Puedo Olvidarte Cumbia Rosa",
-      "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "Formas De Amor",
+        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Klaz Y Keroz",
+          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Ultimo Tren A Londres",
+      "url": "https://open.spotify.com/track/1YDxxeMSdxXXiiiobyhYur"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "La Amante",
         "url": "https://open.spotify.com/album/5QkNCgBdG30U0yRRHOolPq"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "Formas De Amor",
-        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Klaz Y Keroz",
-          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Ultimo Tren A Londres",
-      "url": "https://open.spotify.com/track/1YDxxeMSdxXXiiiobyhYur"
     },
     {
       "added_at": "2025-11-20 12:00:38",

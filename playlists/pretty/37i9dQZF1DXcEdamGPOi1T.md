@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,868 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,865 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 71 | [Bruxelles je t’aime](https://open.spotify.com/track/0iqk44gA8PaId0Fwa6eesN) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:48 |
 | 72 | [Confetti](https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 |
 | 73 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 |
-| 74 | [ONE TRACK MIND \- PART II](https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [ONE TRACK MIND \(PART II\)](https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh) | 2:40 |
-| 75 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 |
+| 74 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 |
+| 75 | [ONE TRACK MIND \- PART II](https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [ONE TRACK MIND \(PART II\)](https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh) | 2:40 |
 | 76 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 77 | [Feel Good](https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:43 |
 | 78 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 99 | [Fille de personne II](https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 3:58 |
 | 100 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
 
-Snapshot ID: `AAAAADsHt248nGHsePwsaHFKclzWH00+`
+Snapshot ID: `AAAAADaNMgtpdzRxW0UUX2FJNAnObXMG`

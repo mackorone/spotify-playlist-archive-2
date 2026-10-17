@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,207 songs - 4 day 1 hr 11 min
+1,208 songs - 4 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Little Darling](https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA) | 3:40 | 2021-05-26 | 2023-09-30 |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 | 2024-04-13 |
 | [LMHYS](https://open.spotify.com/track/3mhYYznfOD7yqcHZFLwKeW) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [KMNI](https://open.spotify.com/artist/2YXjkO5I6QIGTBMAHWLvL2) | [LMHYS](https://open.spotify.com/album/5yVSoJ9iBbHH5ABJ6Tf662) | 3:01 | 2026-08-28 |  |
+| [Loca](https://open.spotify.com/track/1IlcOpEu12FsBFXeSOrJbM) | [SHADU](https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C) | [Loca](https://open.spotify.com/album/7hTjR05Pb3Fa4ON3utHbAP) | 3:04 | 2026-10-16 |  |
 | [Lokole](https://open.spotify.com/track/43heTUpqTPKcFZfxyNnPF5) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [MANU \(UK\)](https://open.spotify.com/artist/7GHIqxeRBx0oXdgxwkPbu5), [Shammalee](https://open.spotify.com/artist/0YW1YZUJNiGAZLtJ5ytDG2) | [Lokole](https://open.spotify.com/album/2dVgvRKiVAfl0OHeUlHWtF) | 3:55 | 2025-06-13 | 2025-09-27 |
 | [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-23 | 2025-02-10 |
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-11-18 | 2023-07-30 |
@@ -910,7 +911,7 @@
 | [Same Dream](https://open.spotify.com/track/0K5QtJ1zhEE1QvzE0GOrMh) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Same Dream](https://open.spotify.com/album/1owqxoLfiqNEgSh1Msl6Pl) | 7:04 | 2024-06-14 | 2024-08-24 |
 | [Samum](https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Samum](https://open.spotify.com/album/0GLLdUvIwBuauWU6i1MWUp) | 3:14 | 2023-05-05 | 2023-10-09 |
 | [Sanba Yo Pran Pale \- Ankhoï Remix](https://open.spotify.com/track/6kvfpr9hVnv3MrZoS3ctbH) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Anjunadeep The Remixes 2024](https://open.spotify.com/album/1HXTSBQlkAghjQTWZxIPgH) | 3:59 | 2024-12-13 | 2025-04-12 |
-| [SARU](https://open.spotify.com/track/2iKf7dqfmgp1cIoZOrroCw) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [SARU](https://open.spotify.com/album/4DW1KYVKmVEPoWc2ttzebu) | 2:18 | 2026-05-15 |  |
+| [SARU](https://open.spotify.com/track/2iKf7dqfmgp1cIoZOrroCw) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [SARU](https://open.spotify.com/album/4DW1KYVKmVEPoWc2ttzebu) | 2:18 | 2026-05-15 | 2026-10-17 |
 | [Sauti vs\. Diplomatico](https://open.spotify.com/track/1ZPt3HF5BxLb2gVZue2tkb) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti vs\. Diplomatico](https://open.spotify.com/album/1t6JcECahFzvbZPVJAZggQ) | 3:28 | 2025-08-22 | 2026-05-16 |
 | [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-10-13 | 2024-10-26 |
 | [Save Us](https://open.spotify.com/track/2gGs5GIOPRiQawcGVAEye3) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:30 | 2021-04-21 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: ヨルシカ
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,099 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,088 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 59 | [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 |
 | 60 | [satellite](https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [satellite](https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh) | 2:22 |
 
-Snapshot ID: `AAAAAMYi1piHmGesppv2QzZMmizgHfyp`
+Snapshot ID: `AAAAAC/iGlbuJJZGGcc2MmyH7i5ex7OD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,162 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,204 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 10 | [Cursed Midnight \- Radio Edit](https://open.spotify.com/track/0narfFv6R0EDNbwZecDtEQ) | [GLWKMOD](https://open.spotify.com/artist/49WTsslK1g6frRdr895unr) | [Cursed Midnight \(Radio Edit\)](https://open.spotify.com/album/1pLG8WdonN508rhKLfQyaa) | 1:28 |
 | 11 | [leavemealone](https://open.spotify.com/track/6QbVPP02QcJICAo7giDqwh) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone \(Nia Archives Remix\)](https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ) | 3:42 |
 | 12 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
-| 13 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
-| 14 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
+| 13 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
+| 14 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
 | 15 | [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 |
 | 16 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
 | 17 | [Just A Lil Bit](https://open.spotify.com/track/6Wwi5V7VAR9KOo8c9gksh1) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Flyn Stoned](https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k) | [Just A Lil Bit](https://open.spotify.com/album/4XjtQUIBZEkOiGLXbUwEoe) | 2:08 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 20 | [GANG GANG](https://open.spotify.com/track/7BerPxtzf632guxMa5EMXi) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [GANG GANG](https://open.spotify.com/album/3jlhWL3WyEtQxfSMphuhna) | 2:27 |
 | 21 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
 | 22 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
-| 23 | [G.M.S.L.B](https://open.spotify.com/track/45Xx8ugh2uRTy4wahb7ZzC) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [G.M.S.L.B](https://open.spotify.com/album/0PWY1VO9dCKK0nEHH3xNAm) | 2:07 |
-| 24 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
+| 23 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
+| 24 | [G.M.S.L.B](https://open.spotify.com/track/45Xx8ugh2uRTy4wahb7ZzC) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [G.M.S.L.B](https://open.spotify.com/album/0PWY1VO9dCKK0nEHH3xNAm) | 2:07 |
 | 25 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
 | 26 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 27 | [Combo](https://open.spotify.com/track/1QxvF7sykEILCrINRMovoM) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Combo](https://open.spotify.com/album/3CxZRCqXlPnYjF84w77ogX) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |
 | 50 | [Warning \(feat\. Gappy Ranks\) \[Bou Remix\] \- Mixed](https://open.spotify.com/track/3UI3j5kpGGsp7TFdEuglMF) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Honey, I Shrunk The Rave, Vol\. 1 \(DJ Mix\)](https://open.spotify.com/album/0Jn2rXkgAYZYcdqAi42FL7) | 1:05 |
 
-Snapshot ID: `AAAAAARUDprsNgIEFkfsApfQ8BNYdJDM`
+Snapshot ID: `AAAAAB3Vvbp7is6AyeD/CjUJkUzSZFPw`

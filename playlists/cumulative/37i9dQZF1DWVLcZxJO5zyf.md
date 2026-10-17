@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Jão
 
-527 songs - 1 day 1 hr 21 min
+528 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Labirinto](https://open.spotify.com/track/3EDNdZN1NCPYUZhoSYCwOv) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [Labirinto](https://open.spotify.com/album/5786sI30rwcAosoPgiTNP2) | 2:30 | 2026-08-28 | 2026-09-26 |
 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 | 2022-01-14 | 2022-02-05 |
 | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 | 2024-08-16 | 2024-11-16 |
+| [LCD \(feat\. kouth\)](https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [FUSO!](https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq) | [LCD \(feat\. kouth\)](https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq) | 3:12 | 2026-10-16 |  |
 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 | 2022-01-14 | 2023-01-28 |
 | [Levado](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 | 2022-10-29 |
 | [Libélula](https://open.spotify.com/track/33IQ1mcWwKe7lyLm5oUrCv) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Libélula](https://open.spotify.com/album/4a5LkqjxtJOAgpyvjogAxe) | 2:36 | 2022-10-07 | 2022-10-22 |
@@ -505,7 +506,7 @@
 | [TROPA](https://open.spotify.com/track/3WYaDvxzcESlLucPoxLiB7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [TROPA](https://open.spotify.com/album/5ja8CvkysnLRmb2hNgC1uc) | 2:20 | 2022-07-01 | 2022-10-01 |
 | [TROPA DAS SOLTINHAS](https://open.spotify.com/track/7k82WCRSzfByzGXVYRgAvb) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [TROPA DAS SOLTINHAS](https://open.spotify.com/album/0gLKqtVCVOcI7eGz6rJuIZ) | 2:26 | 2022-02-11 | 2022-03-18 |
 | [Tropical Paradise](https://open.spotify.com/track/1aOo5rg36qqtvFllrGbOT5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 1:52 | 2026-07-17 |  |
-| [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 | 2024-07-19 |  |
+| [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 | 2024-07-19 | 2026-10-17 |
 | [Tudo Pra Amar Você](https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA) | 2:55 | 2023-02-24 | 2023-04-26 |
 | [Tudo Pra Amar Você](https://open.spotify.com/track/5GZ4UmrT3wv3eftsHo3WZ1) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/0FlzEsJbLiNBGr8rlaacLa) | 2:55 | 2023-04-25 | 2023-12-16 |
 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 | 2023-08-04 | 2024-06-22 |

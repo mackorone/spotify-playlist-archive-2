@@ -1,12 +1,12 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: SadSvit & FI\u0407NKA",
-  "num_followers": 45452,
+  "num_followers": 45474,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANiIqnFm0hP+8txwHXD2F3DNt3iG",
+  "snapshot_id": "AAAAADI18LYwrYkTu9NcHl1hUfZ10gSu",
   "tracks": [
     {
       "added_at": "2026-10-15 21:00:35",
@@ -215,6 +215,26 @@
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-10-15 21:00:35",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-15 21:00:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Mit dieser Playlist hört die Party nie auf!
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,251 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,256 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 77 | [Hier kommt der Büffelmann](https://open.spotify.com/track/6VGFg8HKWRgpZGHtEH7eW1) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Hier kommt der Büffelmann](https://open.spotify.com/album/4GAHN14tCkKeQdlZtkX0gV) | 3:00 |
 | 78 | [Anton aus Tirol](https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj) | [Anton](https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw), [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Das Album](https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1) | 3:49 |
 | 79 | [Erwischt](https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Erwischt](https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m) | 2:01 |
-| 80 | [Ein bisschen Aroma \- Stereoact Remix](https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Aroma \(Stereoact Remix\)](https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer) | 2:58 |
+| 80 | [Regenbogenfarben](https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD) | [Kerstin Ott](https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7) | [Mut zur Katastrophe \(Gold Edition\)](https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU) | 3:46 |
 
-Snapshot ID: `AAAAAOsljQH2hLbXE7Iz9WngcFLoxppa`
+Snapshot ID: `AAAAAPJL/BJ4JJutFLD7b26I+Dv4a8pk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: DDG",
+  "description": "The Midwest is always on time. Cover: LUCKI\n",
   "name": "CST",
   "tracks": [
     {
@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "200",
+        "url": "https://open.spotify.com/album/04KgDSuapYj2Jdoo7WsjPJ"
+      },
+      "artists": [
+        {
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197068,
+      "name": "200",
+      "url": "https://open.spotify.com/track/0UKpzpWpmI7ADTmXP41jqU"
+    },
+    {
+      "album": {
         "name": "The Patience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC"
       },
@@ -956,7 +978,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 161332,
       "name": "50-50",
       "url": "https://open.spotify.com/track/3PiAxPtaETUJ9BCz9YUXDP"
@@ -1004,6 +1026,24 @@
       "duration_ms": 168278,
       "name": "6.2 Music (with Rob49)",
       "url": "https://open.spotify.com/track/6ToibuSa6fjrrzh1aLZwqf"
+    },
+    {
+      "album": {
+        "name": "Last Laugh [archive tape]",
+        "url": "https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125533,
+      "name": "60 mgs",
+      "url": "https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l"
     },
     {
       "album": {
@@ -7336,7 +7376,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 159529,
       "name": "Demon",
       "url": "https://open.spotify.com/track/2pODBdcRoEO2cCVVA4vZLn"
@@ -10823,6 +10863,28 @@
     },
     {
       "album": {
+        "name": "Get It In",
+        "url": "https://open.spotify.com/album/5YqnzoPbg2pf9XTW4RorRB"
+      },
+      "artists": [
+        {
+          "name": "FMB DZ",
+          "url": "https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136423,
+      "name": "Get It In",
+      "url": "https://open.spotify.com/track/1n9MWUkM6mFqkUrz2XJqO3"
+    },
+    {
+      "album": {
         "name": "Get It Sexyy",
         "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
@@ -10878,6 +10940,24 @@
       "duration_ms": 215240,
       "name": "GET OFF ME (with Travis Scott)",
       "url": "https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ"
+    },
+    {
+      "album": {
+        "name": "Get Outside",
+        "url": "https://open.spotify.com/album/6DYWKDeNVJIMhnZGCizc26"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136297,
+      "name": "Get Outside",
+      "url": "https://open.spotify.com/track/15vAkGmrlbYQYoW68Awkgp"
     },
     {
       "album": {
@@ -11010,6 +11090,32 @@
       "duration_ms": 244853,
       "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "album": {
+        "name": "Ghetto Symphony",
+        "url": "https://open.spotify.com/album/4Bs1sExQp2uAHxAsxBmv0W"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217656,
+      "name": "Ghetto Symphony",
+      "url": "https://open.spotify.com/track/4V7c0U6hPGD5JKeywaV7QI"
     },
     {
       "album": {
@@ -14086,7 +14192,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184860,
       "name": "I Can't Tell",
       "url": "https://open.spotify.com/track/0XzVzy15rJ0CbXXhNN3i5k"
@@ -14984,7 +15090,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 140000,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/0HPQe56hemNu2PhHKeRLoz"
@@ -15992,6 +16098,24 @@
       "duration_ms": 164606,
       "name": "Jwett",
       "url": "https://open.spotify.com/track/6kEMoHRKZWc0JZKLijIjVh"
+    },
+    {
+      "album": {
+        "name": "Where Is Krispylife?",
+        "url": "https://open.spotify.com/album/32jATov0omz0zG2M7B2RmM"
+      },
+      "artists": [
+        {
+          "name": "KrispyLife Kidd",
+          "url": "https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133825,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/4UuQQg3gfxRjsOsuxHRLwg"
     },
     {
       "album": {
@@ -17038,6 +17162,28 @@
       "duration_ms": 181132,
       "name": "Let's Talk About It",
       "url": "https://open.spotify.com/track/3frccE48nHjZHTLvrGrWwL"
+    },
+    {
+      "album": {
+        "name": "STILL GHETTO",
+        "url": "https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217254,
+      "name": "Let's Talk About It",
+      "url": "https://open.spotify.com/track/2AuWLRDD6bg3w1T8ge7guX"
     },
     {
       "album": {
@@ -19140,7 +19286,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 148741,
       "name": "Move",
       "url": "https://open.spotify.com/track/1YkMUSHP57CjapGqBD1JJz"
@@ -19948,7 +20094,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 138461,
       "name": "Never Ending Run",
       "url": "https://open.spotify.com/track/62Bndc6EWlnx4RgXeIqSYx"
@@ -20860,7 +21006,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 174423,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1teOdIejfuliyqkvZ7hM0s"
@@ -22528,6 +22674,28 @@
       "duration_ms": 162856,
       "name": "PICK A SIDE (feat. EST Gee & Southside)",
       "url": "https://open.spotify.com/track/7MaOwDy8D6jHWgs96XnSIk"
+    },
+    {
+      "album": {
+        "name": "Pineapple Red (feat. 42 Dugg)",
+        "url": "https://open.spotify.com/album/1DEhhd3gbiPFqZVQ2J4npo"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215214,
+      "name": "Pineapple Red (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/647NU7QBHscZFAFjx6WRzL"
     },
     {
       "album": {
@@ -28725,6 +28893,28 @@
     },
     {
       "album": {
+        "name": "The X Tape 2",
+        "url": "https://open.spotify.com/album/2NR9cKx8m9uavhXDWoNXnL"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117169,
+      "name": "Striker (feat. Chuckyy)",
+      "url": "https://open.spotify.com/track/0ZusCe5kKDgVZOZEL33bKu"
+    },
+    {
+      "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9"
       },
@@ -32232,7 +32422,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 108017,
       "name": "UR A VET!",
       "url": "https://open.spotify.com/track/3qpZN0QHjQygK8nUSdnYe5"
@@ -32716,7 +32906,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 154423,
       "name": "Wavy Crete",
       "url": "https://open.spotify.com/track/5bOSYjwa25Oko5ZJPNhnu9"

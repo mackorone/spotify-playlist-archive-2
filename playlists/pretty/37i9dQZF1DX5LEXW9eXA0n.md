@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: KIM JAE HWAN\(김재환\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,920 likes - 101 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,929 likes - 101 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 100 | [To You](https://open.spotify.com/track/6V2f7fhOdwoLXGTQkPby4V) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [To You](https://open.spotify.com/album/7KMQraiy4VAgL10q9l98Oi) | 4:04 |
 | 101 | [Still Missing You](https://open.spotify.com/track/7e2H1iYMW6j5bnBEBjRIWH) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Still Missing You](https://open.spotify.com/album/28fEzVIrsZ8MH7OeCpFzG4) | 3:28 |
 
-Snapshot ID: `AAAAAGspVPKgSAGVKK3rC4ICFUap2w8w`
+Snapshot ID: `AAAAAAke8pQR/cSLrgtPZPdUiP8wzXGD`

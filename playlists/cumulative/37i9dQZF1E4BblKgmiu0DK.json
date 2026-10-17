@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Not The End Of The World",
+        "url": "https://open.spotify.com/album/5R60KSP6KteDQOmbUfmrA4"
+      },
+      "artists": [
+        {
+          "name": "Cilver",
+          "url": "https://open.spotify.com/artist/5fpD3Iuy3RvPzcbWiekX7h"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/4SHnVb18X8JPg9bD4FBHUY"
+    },
+    {
+      "album": {
         "name": "No Retreat",
         "url": "https://open.spotify.com/album/64Y5Leqg4p1Vf6K0EOmJGh"
       },
@@ -2375,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Chainsaw",
+        "url": "https://open.spotify.com/album/4E1M8Yj0MsEhoCjbd6z3Xw"
+      },
+      "artists": [
+        {
+          "name": "Lauren Ash",
+          "url": "https://open.spotify.com/artist/7rr4kLaqQJKlBsXkaIoN0v"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149930,
+      "name": "Chainsaw",
+      "url": "https://open.spotify.com/track/6F2NwgHU7LfnreSrZIjm4f"
+    },
+    {
+      "album": {
         "name": "Invisible Tonight",
         "url": "https://open.spotify.com/album/7ygsghuGcE8KN2kPY9vNRa"
       },
@@ -2386,7 +2422,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 204683,
       "name": "Changeover",
       "url": "https://open.spotify.com/track/7xTk2HP884Gw5SVJKOXmWO"
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 191240,
       "name": "Dead Honey",
       "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 253846,
       "name": "Divine",
       "url": "https://open.spotify.com/track/50S1t4twWPp2FgUAhZZkRc"
@@ -3816,7 +3852,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202133,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
@@ -5088,7 +5124,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -5758,7 +5794,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177243,
       "name": "Howl at the Moon",
       "url": "https://open.spotify.com/track/2QMCDAyludxNL3zPuqiLF8"
@@ -8592,7 +8628,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 208375,
       "name": "My Size",
       "url": "https://open.spotify.com/track/5JA4gqlKDV5BeVdI6g3eEs"
@@ -9730,7 +9766,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 199800,
       "name": "Overthrow Me",
       "url": "https://open.spotify.com/track/1QpMTtJQeslslYpPrL02DJ"
@@ -9856,7 +9892,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -9874,7 +9910,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 160800,
       "name": "pencil skirt (40f)",
       "url": "https://open.spotify.com/track/704nPmPurS7Dnyna9qfZAl"
@@ -11640,7 +11676,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190431,
       "name": "Steal My Heart",
       "url": "https://open.spotify.com/track/14l79xVgYsRxa6pL3Q9NTh"
@@ -11694,7 +11730,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -11878,7 +11914,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -12314,7 +12350,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 177187,
       "name": "The One",
       "url": "https://open.spotify.com/track/1qURvQI23nMGYzRyt8dGNF"
@@ -12368,7 +12404,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"

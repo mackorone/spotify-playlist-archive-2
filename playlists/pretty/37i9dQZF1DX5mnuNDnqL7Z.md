@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,920 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,932 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 54 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
 | 55 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
 | 56 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
-| 57 | [When In Rome](https://open.spotify.com/track/0CfLsX61bPV9E4pjjvwNZw) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [When In Rome](https://open.spotify.com/album/04Z2u8LxyvHF76JFKv5Tbn) | 3:04 |
+| 57 | [when in rome](https://open.spotify.com/track/0CfLsX61bPV9E4pjjvwNZw) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [when in rome](https://open.spotify.com/album/04Z2u8LxyvHF76JFKv5Tbn) | 3:04 |
 | 58 | [Read My Mind](https://open.spotify.com/track/2d3d9Y7lH6Or7LDljxxG9v) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Read My Mind](https://open.spotify.com/album/45ChFxMQZhJsRsCblN25XS) | 2:21 |
 | 59 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
 | 60 | [Tough Love](https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Tough Love](https://open.spotify.com/album/7CiptkUx1T0sHuZgUcwxEq) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 99 | [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [gao dan dan](https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ) | 2:12 |
 | 100 | [Belinda](https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Belinda](https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG) | 2:45 |
 
-Snapshot ID: `AAAAAIN5xWWtZYrdZpMuGBSkvBaH27ci`
+Snapshot ID: `AAAAABrB2ON+XA344PgWuUZeOVsfYTny`

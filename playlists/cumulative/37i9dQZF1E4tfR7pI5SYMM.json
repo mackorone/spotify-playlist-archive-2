@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Bad Scullianz, Autoimmune, Juice and more",
+  "description": "With Autoimmune, The Inklings, Bad Scullianz and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -886,7 +886,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 184070,
       "name": "Appsolution",
       "url": "https://open.spotify.com/track/3BhMNE3Z0xIIOg1VP5A5mu"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 215836,
       "name": "Battle Damaged",
       "url": "https://open.spotify.com/track/26XPlS6lDhvL6VAJBHXX1a"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 214966,
       "name": "Burning Bright",
       "url": "https://open.spotify.com/track/52VYoaI6Vv8QXgRuPXQ26B"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 227696,
       "name": "Casca Vazia",
       "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Hounds of Thunder",
+        "url": "https://open.spotify.com/album/7sq25UiClHJU0UfmiPirr2"
+      },
+      "artists": [
+        {
+          "name": "HOUNDS OF THUNDER",
+          "url": "https://open.spotify.com/artist/4DQ4NvLGWjcoHVZlX6Boq6"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416568,
+      "name": "Cryin' Shame",
+      "url": "https://open.spotify.com/track/2PV4SFnrTo6nyZ7A7oT3wg"
+    },
+    {
+      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/2lWZWnYNs1S1QTke6DhiZK"
       },
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 175169,
       "name": "Danish Rush",
       "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
@@ -3478,6 +3496,24 @@
       "duration_ms": 207617,
       "name": "Deilige Dame",
       "url": "https://open.spotify.com/track/1YiNcIk3Z2ZYrJR4Uf1vdc"
+    },
+    {
+      "album": {
+        "name": "My Younger Self Is Dead",
+        "url": "https://open.spotify.com/album/6lXZDi0f7te73Sy9ypx7Ax"
+      },
+      "artists": [
+        {
+          "name": "The Jix",
+          "url": "https://open.spotify.com/artist/2JDWsjauYuOi6uAGK5xMp1"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255240,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2p1USSmfgtgAp5NQv4whdj"
     },
     {
       "album": {
@@ -3914,7 +3950,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198765,
       "name": "Do As I Do",
       "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
@@ -3954,6 +3990,42 @@
       "duration_ms": 208937,
       "name": "Do it again!",
       "url": "https://open.spotify.com/track/2PVUma5gqD6nYpw5qDC1lp"
+    },
+    {
+      "album": {
+        "name": "Do What You Do",
+        "url": "https://open.spotify.com/album/1dcmFy3RtWky84ZeHW0tXp"
+      },
+      "artists": [
+        {
+          "name": "Ten Year Day",
+          "url": "https://open.spotify.com/artist/7KPxxlGJhH206VK8rFEWti"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285400,
+      "name": "Do What You Do",
+      "url": "https://open.spotify.com/track/7pKmzz47bY2aINTsJWhix4"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/3yCFLYaUlpJT9ZuWK26rNc"
+      },
+      "artists": [
+        {
+          "name": "The Bets",
+          "url": "https://open.spotify.com/artist/0GlMghoqaNd9BYFTbcwYu5"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231808,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
     },
     {
       "album": {
@@ -4080,7 +4152,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -4206,7 +4278,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 291969,
       "name": "Dragonfighter",
       "url": "https://open.spotify.com/track/71KjAeng0I37N9wvdvbkbp"
@@ -6904,7 +6976,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -7052,6 +7124,24 @@
       "duration_ms": 216393,
       "name": "Hexameter",
       "url": "https://open.spotify.com/track/3S89Lm829W4CPBXKB10wxK"
+    },
+    {
+      "album": {
+        "name": "Last Chance To Refill (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
+      },
+      "artists": [
+        {
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126226,
+      "name": "Hey Now Honey - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
     },
     {
       "album": {
@@ -7978,7 +8068,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 252133,
       "name": "Ikkje Som De Andre",
       "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
@@ -8216,7 +8306,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 255833,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
@@ -8306,7 +8396,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -8758,7 +8848,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 155846,
       "name": "Kick the Shit",
       "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
@@ -8848,7 +8938,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -9636,6 +9726,24 @@
       "duration_ms": 196603,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/6ordVWB8xEUgZ5ghsw3dt6"
+    },
+    {
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/5sxNgTEfhtUqfNG2bR4rG9"
+      },
+      "artists": [
+        {
+          "name": "Sundrast",
+          "url": "https://open.spotify.com/artist/7xXdDxmTim2I1wkMn8QAuZ"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183442,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/5UuGtAYFTPxOJYMH8pH3e3"
     },
     {
       "album": {
@@ -11136,7 +11244,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -11450,7 +11558,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 238759,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/1LAt6QjyCz0T8kWxRR9S3x"
@@ -13102,7 +13210,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 119052,
       "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
       "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
@@ -14502,7 +14610,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -14538,7 +14646,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 200086,
       "name": "Sinnsyke Sanger",
       "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
@@ -14830,6 +14938,24 @@
       "duration_ms": 242067,
       "name": "Solar Plexus",
       "url": "https://open.spotify.com/track/4MOuNW1ZLeGJGk66dW1j6U"
+    },
+    {
+      "album": {
+        "name": "Soldiers of Rock & Roll",
+        "url": "https://open.spotify.com/album/0Kg4gQZ9wicprmRhNcsQOn"
+      },
+      "artists": [
+        {
+          "name": "Stranded",
+          "url": "https://open.spotify.com/artist/1wb4VegF9vhhbaWEKCrJNj"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221080,
+      "name": "Soldiers of Rock & Roll",
+      "url": "https://open.spotify.com/track/0yAWTDNMdZwDg5557ys21T"
     },
     {
       "album": {
@@ -15392,7 +15518,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -15806,7 +15932,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -15976,7 +16102,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 197000,
       "name": "Testify",
       "url": "https://open.spotify.com/track/0nGgprHN8K6Gyl1fBXwHKv"
@@ -19470,7 +19596,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 269507,
       "name": "Wings Of An Angel",
       "url": "https://open.spotify.com/track/6EbDacy2uom5FL8Y7ocdI3"
@@ -20148,7 +20274,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 186506,
       "name": "\u00d8de \u00f8y",
       "url": "https://open.spotify.com/track/19vmu2vywwa2pAeKOKPGJL"

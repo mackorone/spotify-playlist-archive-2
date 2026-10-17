@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 28 | [En El Hospicio](https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [El Album](https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC) | 3:40 |
 | 29 | [Canto, desde el fondo de las ruinas](https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Aquelarre](https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p) | 4:00 |
 | 30 | [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 |
-| 31 | [Todo Tiempo Posible](https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Crucis](https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng) | 4:06 |
-| 32 | [Mañana por la Noche](https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96) | [Color Humano](https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV) | [Color Humano](https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH) | 2:52 |
+| 31 | [Mañana por la Noche](https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96) | [Color Humano](https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV) | [Color Humano](https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH) | 2:52 |
+| 32 | [Todo Tiempo Posible](https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Crucis](https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng) | 4:06 |
 | 33 | [Mi Cuarto](https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:35 |
 | 34 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
 | 35 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [Libre y Natural](https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Libre y Natural](https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV) | 4:09 |
 | 55 | [Mañana campestre](https://open.spotify.com/track/1O15BhPK0r4giiiOSBPaZi) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/0xo8Hz2MCVk56MFnFFWbrV) | 2:50 |
 
-Snapshot ID: `AAAAALgD4mVqnf6bkyP+prVn0Kh23VEl`
+Snapshot ID: `AAAAAEPxYNtsapIAkgQsJ7Oxg9yNVuAl`

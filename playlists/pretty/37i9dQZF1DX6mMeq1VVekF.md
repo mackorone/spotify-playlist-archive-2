@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,027 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,019 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 31 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
 | 32 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 |
 | 33 | [play \(feat\. kamasi washington\)](https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 2:10 |
-| 34 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
-| 35 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 |
+| 34 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 |
+| 35 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
 | 36 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
 | 37 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
 | 38 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 40 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 |
 | 41 | [i hope you're ready](https://open.spotify.com/track/5aG0VbqVEE7Egpdc2YLBzZ) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [BLACKS LAW](https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe) | 3:43 |
 | 42 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 |
-| 43 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
-| 44 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
+| 43 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
+| 44 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
 | 45 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
 | 46 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
 | 47 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 |
 | 60 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 |
 
-Snapshot ID: `AAAAALRdmQf5gX5KRjMBfFe+b+O+O8So`
+Snapshot ID: `AAAAAPU0IoIlixiycWLGq0LlMgKFHFZt`

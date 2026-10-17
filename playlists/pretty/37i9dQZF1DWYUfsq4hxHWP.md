@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Jovi Greene, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,871 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,939 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Always Colorado](https://open.spotify.com/track/0SmEU2ax9H0zuQFkrEUubU) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Always Colorado](https://open.spotify.com/album/6p1wftle6orAkCfnxQswtR) | 5:12 |
 | 75 | [Take My Time](https://open.spotify.com/track/2Nqx1u8Gq38wse9NsXklCb) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Take My Time](https://open.spotify.com/album/6ei5ORifYf5LgjPVE85JBZ) | 4:08 |
 
-Snapshot ID: `AAAAAP/ocNhjgDEHFetcfSEbbqyXFbOZ`
+Snapshot ID: `AAAAABT6Lm6XpSCG56IevXDw+jxmOpjl`

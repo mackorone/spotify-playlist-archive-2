@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-361 songs - 20 hr 58 min
+362 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Man On A Road](https://open.spotify.com/track/5RfxBQl0U4h6Hm2HqO367a) | [George Cosby](https://open.spotify.com/artist/7oyk8Ug4Su6UeST5j4g5aG) | [Man On A Road](https://open.spotify.com/album/1RXgxDpl07zH1TNQRak1LW) | 3:18 | 2024-03-07 |  |
 | [Mania](https://open.spotify.com/track/4O2YN5vvvpxHcZFRRuw4N6) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/486groONGZO3VIRKvoy2Z9) | 2:57 | 2026-03-09 | 2026-05-21 |
 | [Mania](https://open.spotify.com/track/7qFRCZ93Hxk5CoMq094W7O) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/6UmUZ3yuHYfy2wdquwpNnq) | 2:57 | 2024-03-07 | 2026-03-10 |
-| [Mania](https://open.spotify.com/track/3DmYeRGkCXxoxz3BiiBQNN) | [overrated](https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV), [r0pss](https://open.spotify.com/artist/1mYWtRJaiRhifspJSQ3BEj), [frailty](https://open.spotify.com/artist/4BrY7O6ooTJJB9vShnM50Y) | [Mania](https://open.spotify.com/album/09kovsHVqfARXDGMq0Ayud) | 2:43 | 2026-05-20 |  |
+| [Mania](https://open.spotify.com/track/0ngV4IjCJMBHLHctKCS6Sq) | [cenker](https://open.spotify.com/artist/6i9dgMWMsyRU7rCWcXAXsN), [Akucum](https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y) | [Mania](https://open.spotify.com/album/1F83f4IDZ16t3rdkt0Ryvn) | 4:04 | 2026-10-16 |  |
+| [Mania](https://open.spotify.com/track/3DmYeRGkCXxoxz3BiiBQNN) | [overrated](https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV), [r0pss](https://open.spotify.com/artist/1mYWtRJaiRhifspJSQ3BEj), [frailty](https://open.spotify.com/artist/4BrY7O6ooTJJB9vShnM50Y) | [Mania](https://open.spotify.com/album/09kovsHVqfARXDGMq0Ayud) | 2:43 | 2026-05-20 | 2026-10-17 |
 | [Maps](https://open.spotify.com/track/0C0LsasNp4jpPtyBM9Hjd5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water \(Deluxe\)](https://open.spotify.com/album/3YVFjLQyt1RBXxl3pifOVw) | 3:06 | 2025-09-29 |  |
 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2024-03-07 |  |
 | [Merry Go Round](https://open.spotify.com/track/7k9rcsOLrZBzxIL4cyAipZ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 4:05 | 2024-03-07 |  |

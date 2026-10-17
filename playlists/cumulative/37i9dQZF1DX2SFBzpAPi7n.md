@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: CHARLIE BEAN WORKS\(찰리빈웍스\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can't be blue\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,225 songs - 3 day 2 hr 32 min
+1,226 songs - 3 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [Blue Whale](https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Special Single 'Blue Whale'](https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J) | 4:06 | 2025-10-06 | 2025-11-05 |
 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 | 2025-10-20 |
+| [bluende](https://open.spotify.com/track/5VFfD5DVzQNGo7HOcmqCyT) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [bluende](https://open.spotify.com/album/1FcAVoJkX4jxxtP0sI7hGn) | 3:06 | 2026-10-16 |  |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 | 2024-11-07 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
 | [Bomb Bomb](https://open.spotify.com/track/2So5dexAv9rAS7IZLOgeJD) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [Terror Man Opening \(Original Soundtrack\)](https://open.spotify.com/album/3Utvw2Z8Tk9e2vxa4Z4yMy) | 3:19 | 2026-02-02 | 2026-02-06 |
@@ -308,7 +309,7 @@
 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 | 2025-07-15 | 2025-09-26 |
 | [Fate](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:41 | 2024-03-13 | 2025-04-30 |
 | [Fearless](https://open.spotify.com/track/3gu28iWFnrj9fzZO523qxf) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Fearless](https://open.spotify.com/album/4ajlLUmeRBBJWgfC9tIRwb) | 2:57 | 2023-09-20 | 2023-09-28 |
-| [Feel Me](https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [Feel Me](https://open.spotify.com/album/4ObKjAefu7Dg1VcWrW3nKO) | 3:29 | 2026-04-16 | 2026-10-16 |
+| [Feel Me](https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [Feel Me](https://open.spotify.com/album/4ObKjAefu7Dg1VcWrW3nKO) | 3:29 | 2026-04-16 |  |
 | [Ferris wheel](https://open.spotify.com/track/1Sn7DtIloV3CNuGO3Uok8K) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Ferris wheel](https://open.spotify.com/album/3BROQVd2b9S6DgTzIrnGf9) | 3:35 | 2026-01-15 | 2026-01-23 |
 | [Festival](https://open.spotify.com/track/6bbGdzd2wwAMQ8t9a8iXtg) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [New Forest](https://open.spotify.com/album/6KayWBF4SwMXmRq7T0r1SX) | 3:31 | 2022-05-03 | 2022-06-27 |
 | [FIGHT](https://open.spotify.com/track/0shVYlsAgAr7Dn2HBqCuyZ) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [FIGHT](https://open.spotify.com/album/5zCQF6HSkA1WZdxuUgC5zk) | 3:40 | 2022-06-03 | 2022-07-03 |
@@ -582,7 +583,7 @@
 | [Lie your head](https://open.spotify.com/track/1YQCsiZEo9b5PoDdHaM0eR) | [Wid](https://open.spotify.com/artist/64j1Cyv3QG0bLd3l4WA6QU) | [LIE YOUR HEAD](https://open.spotify.com/album/3BmPFpG5ishCz7rlCeN8uk) | 3:43 | 2025-02-10 | 2025-03-18 |
 | [Life](https://open.spotify.com/track/2oxxGEfr7uciElfiDo135t) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA \(Complete Edition\)](https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE) | 3:53 | 2022-04-22 | 2022-05-13 |
 | [Life Dancing](https://open.spotify.com/track/1Na51A7s9Fm1ullr4aVG5l) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Life Dancing](https://open.spotify.com/album/5Hw3PFHxV4GGfMJHZfnVyA) | 3:15 | 2022-04-22 | 2022-07-01 |
-| [Life Goes On!](https://open.spotify.com/track/7lnPRRHeJDiKzJXPSUg5Nx) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [Life Goes On!](https://open.spotify.com/album/74u78WlGSvnSpGTfjFOk6K) | 3:12 | 2026-10-09 |  |
+| [Life Goes On!](https://open.spotify.com/track/7lnPRRHeJDiKzJXPSUg5Nx) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [Life Goes On!](https://open.spotify.com/album/74u78WlGSvnSpGTfjFOk6K) | 3:12 | 2026-10-09 | 2026-10-17 |
 | [LIFE!](https://open.spotify.com/track/0vULVUFjBtlXo0lt6wrS8Q) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [LIFE!](https://open.spotify.com/album/3zWbSsJGEKpopxdKjQphiC) | 3:47 | 2025-11-10 | 2025-12-09 |
 | [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2024-05-09 | 2024-10-16 |
 | [Light Shines Only There](https://open.spotify.com/track/6GiKLHWKiWiG5OuoSjy5zf) | [2 Day Old Sneakers](https://open.spotify.com/artist/5UEtEaPNFbiU8KGganPF4Q) | [Light Shines Only There](https://open.spotify.com/album/33Qga6kYaWPQMVORQR9itG) | 3:17 | 2022-04-22 | 2022-04-28 |
@@ -794,7 +795,7 @@
 | [pueblo](https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR) | 3:48 | 2023-04-05 | 2023-11-04 |
 | [pueblo](https://open.spotify.com/track/1U3LiGbnLaImLILPwefIRN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/2l2tymGSreBsAXvHywpTU1) | 3:48 | 2023-11-15 | 2024-03-22 |
 | [pueblo](https://open.spotify.com/track/2DxmlA2heg85pwLrdLp7Zy) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/3K2thE83a9qRwgBsW0NEqV) | 3:48 | 2022-04-21 | 2022-07-29 |
-| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 |  |
+| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 | 2026-10-17 |
 | [PunKanon](https://open.spotify.com/track/6SETwOgYmyKKjzz8uNT7SC) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PunKanon](https://open.spotify.com/album/6jEUsHZYpOkF8SBC1mHBYd) | 4:43 | 2025-08-14 | 2025-09-04 |
 | [Q](https://open.spotify.com/track/4R7w9EfMu20WHq1ZZ1kSlB) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [3/4](https://open.spotify.com/album/6ObXqxOsLFfzQ5mLCeOEM0) | 3:30 | 2022-04-22 | 2022-07-22 |
 | [QUEEN](https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [QUEEN](https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs) | 3:38 | 2023-09-27 | 2024-01-09 |

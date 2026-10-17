@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Fother Muckers
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,751 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,734 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 44 | [Todo Cae](https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 4:22 |
 | 45 | [SUEÑOS MOJADOS](https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD) | [Sir Valen](https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn), [Millonarios Depresivos](https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn) | [SUEÑOS MOJADOS](https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp) | 2:24 |
 | 46 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 |
-| 47 | [Campo Abierto](https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Campo Abierto](https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw) | 3:41 |
-| 48 | [La Innombrable](https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Julius Popper?](https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W) | 4:07 |
-| 49 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
+| 47 | [La Innombrable](https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Julius Popper?](https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W) | 4:07 |
+| 48 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
+| 49 | [Campo Abierto](https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Campo Abierto](https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw) | 3:41 |
 | 50 | [De La Luz](https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ) | 5:07 |
 | 51 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
 | 52 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 |
@@ -87,18 +87,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 77 | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 3:56 |
 | 78 | [Mechón](https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o) | [VerDor](https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o) | [Punk Para Gatitos](https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn) | 2:52 |
 | 79 | [Viernes](https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q) | [Camiseta 22](https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Viernes](https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1) | 4:08 |
-| 80 | [Tu primero y luego yo](https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Tu primero y luego yo](https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY) | 2:26 |
-| 81 | [Si Se Me Apaga El Sol](https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Si Se Me Apaga El Sol](https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS) | 3:46 |
+| 80 | [Si Se Me Apaga El Sol](https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Si Se Me Apaga El Sol](https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS) | 3:46 |
+| 81 | [Tu primero y luego yo](https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Tu primero y luego yo](https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY) | 2:26 |
 | 82 | [Corazón Negro](https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Corazón Negro](https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI) | 4:02 |
 | 83 | [Como es que no gozas](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Como es que no gozas](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 |
 | 84 | [Fresco y Desubicado](https://open.spotify.com/track/1KOt3ftZDzUOzu1q9aNrfR) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Fresco y Desubicado](https://open.spotify.com/album/00fGnqtt8JkQ8gVfS1LGmt) | 3:38 |
-| 85 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |
-| 86 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
+| 85 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
+| 86 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |
 | 87 | [Eternos](https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Eternos](https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C) | 3:25 |
 | 88 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
 | 89 | [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 |
-| 90 | [Partido Platanista](https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Partido Platanista](https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0) | 2:32 |
-| 91 | [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 |
+| 90 | [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 |
+| 91 | [Partido Platanista](https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Partido Platanista](https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0) | 2:32 |
 | 92 | [Hacia Ti](https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Hacia Ti](https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2) | 3:45 |
 | 93 | [Mala Fama \- En Vivo](https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Ases Falsos En El Coliseo](https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R) | 4:03 |
 | 94 | [Luna](https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Relatos Falsos De Historias Verdaderas](https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 99 | [Mujer Primavera](https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Mujer Primavera](https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ) | 4:36 |
 | 100 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
 
-Snapshot ID: `AAAAAPSD7dQpI8BXNo2vAhXUCk92CSqG`
+Snapshot ID: `AAAAAPw8ZEzDM8diKZvDDShs5L95lBKG`

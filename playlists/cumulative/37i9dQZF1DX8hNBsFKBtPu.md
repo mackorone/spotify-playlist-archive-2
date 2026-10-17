@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her\. Chappell Roan & Olivia Rodrigo på cover 🪭
 
-1,043 songs - 2 day 5 hr 12 min
+1,044 songs - 2 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-23 | 2026-08-21 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-15 | 2025-06-20 |
 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 | 2026-09-17 | 2026-10-02 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-16 |  |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-06-27 | 2024-10-04 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-08 | 2025-01-17 |
 | [Lifetimes Away \(feat\. Medina\)](https://open.spotify.com/track/6Zf2SH9afl9PguEbAbDWh0) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Lifetimes Away \(feat\. Medina\)](https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL) | 3:05 | 2025-06-12 | 2026-02-06 |

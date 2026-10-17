@@ -4924,7 +4924,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 192075,
       "name": "Lyricon",
       "url": "https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1"
@@ -8446,6 +8446,24 @@
       "duration_ms": 137903,
       "name": "Trace",
       "url": "https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL"
+    },
+    {
+      "album": {
+        "name": "Tranquil Mind",
+        "url": "https://open.spotify.com/album/3NJPrsejVnPTjUn13MkgM4"
+      },
+      "artists": [
+        {
+          "name": "Eves Haven",
+          "url": "https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tranquil Mind",
+      "url": "https://open.spotify.com/track/5aGajOQCwMN6ua6qimbh9J"
     },
     {
       "album": {

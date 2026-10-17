@@ -4,7 +4,7 @@
 
 > sad songs 4 sad days.
 
-305 songs - 17 hr 23 min
+306 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [+](https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [+](https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9) | 3:39 | 2021-12-06 | 2024-05-17 |
 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 | 2024-04-26 | 2025-02-01 |
 | [5 > 1](https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Baladas Tatuadas Vol\. 1](https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8) | 3:12 | 2024-03-08 | 2025-03-08 |
-| [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 | 2023-03-03 |  |
+| [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 | 2023-03-03 | 2026-10-17 |
 | [A GOLPES DE FE](https://open.spotify.com/track/1OLd6Act8qwA9j1Ng9zpcm) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [A GOLPES DE FE](https://open.spotify.com/album/3FXUfNHh0gn2w7Njdpx3hj) | 3:58 | 2021-12-06 | 2022-05-22 |
 | [Acuérdate de Mí](https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:57 | 2021-12-06 | 2024-05-17 |
 | [Adiós](https://open.spotify.com/track/2FObENc9tvhjFNOeTkNInW) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Adiós](https://open.spotify.com/album/1nEgyPXvBNBbPkqznLr3q7) | 3:07 | 2021-12-06 | 2022-07-29 |
@@ -229,6 +229,7 @@
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2024-05-16 |  |
 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 | 2021-12-06 | 2023-01-07 |
 | [Saberte Querer](https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:50 | 2025-08-22 |  |
+| [Santurce](https://open.spotify.com/track/2rjXngX3fqjbFmLAQBzbjp) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 3:15 | 2026-10-16 |  |
 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 | 2021-12-06 | 2024-05-17 |
 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 | 2021-12-06 | 2024-05-17 |
 | [Se Supone](https://open.spotify.com/track/5Lhlma8CbXwj3ptne7H6DF) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Se Supone](https://open.spotify.com/album/3G0nsurU2QSdw4439JcbhT) | 4:06 | 2021-12-06 | 2022-07-29 |

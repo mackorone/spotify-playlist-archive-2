@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,402 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,444 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 6 | [Tappe \- From "Rabb Da Radio 2"](https://open.spotify.com/track/30wnxjw4ud9pwuTKSdoqAY) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Tappe \(From "Rabb Da Radio 2"\)](https://open.spotify.com/album/1qQbdooXXwN1ksUhlTXkyd) | 3:26 |
 | 7 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 |
 | 8 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 |
-| 9 | [Kala Dooria](https://open.spotify.com/track/2U2xgNrMtfHtXks6TrY1zt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat \-E\- Punjab,Vol\. 1](https://open.spotify.com/album/79G3oFYdXkf3sjZ4HyHAaz) | 2:59 |
-| 10 | [Chann Kitthan](https://open.spotify.com/track/4SLA4bxtd0c98H3t2ZY7UU) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Chann Kitthan](https://open.spotify.com/album/0YThqPwboJDu2orXmeE9xN) | 4:42 |
+| 9 | [Chann Kitthan](https://open.spotify.com/track/4SLA4bxtd0c98H3t2ZY7UU) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Chann Kitthan](https://open.spotify.com/album/0YThqPwboJDu2orXmeE9xN) | 4:42 |
+| 10 | [Kala Dooria](https://open.spotify.com/track/2U2xgNrMtfHtXks6TrY1zt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat \-E\- Punjab,Vol\. 1](https://open.spotify.com/album/79G3oFYdXkf3sjZ4HyHAaz) | 2:59 |
 | 11 | [Mirza](https://open.spotify.com/track/1YC9QitEhCDv0Vz5j23xP4) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [The Folk Era](https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n) | 3:52 |
 | 12 | [Chitta Kukkad](https://open.spotify.com/track/3OiKFjJshtgIHGbFkxqF0N) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Chitta Kukkad](https://open.spotify.com/album/5mb9jXaHd51f38VKVoSPbP) | 3:21 |
 | 13 | [Gidda](https://open.spotify.com/track/6yAhxwmFN24AlXxloASVD6) | [Satwant Kaur](https://open.spotify.com/artist/3q3BQzCBV9zDEC2KouwmP4), [Kudrat Kaur](https://open.spotify.com/artist/2AS8kPljekqO3AMBJylyop) | [Darra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12PVaEbyDEXApwa2DJvEn1) | 5:58 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 21 | [Laung Gawacha](https://open.spotify.com/track/255mewBkW1KCqgxoEHJGRW) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Laung Gawacha](https://open.spotify.com/album/7xva1zIhXOJWf5Zma8coD6) | 2:30 |
 | 22 | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY) | 2:27 |
 | 23 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 |
-| 24 | [Laggiyan Ne Maujaan \- Natiya Kalam](https://open.spotify.com/track/2f3Nw8rClVhNMFIvNMjyJA) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Sound Of Soil](https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0) | 4:35 |
-| 25 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
+| 24 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
+| 25 | [Laggiyan Ne Maujaan \- Natiya Kalam](https://open.spotify.com/track/2f3Nw8rClVhNMFIvNMjyJA) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Sound Of Soil](https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0) | 4:35 |
 | 26 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
 | 27 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
 | 28 | [Wanga Satrangiyan](https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Wanga Satrangiyan](https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 |
 | 50 | [Latthe Di Chadar](https://open.spotify.com/track/1kQjwRxe6VRj8qEyiSUHQU) | [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7) | [Latthe Di Chadar](https://open.spotify.com/album/6voQm7UXpP8WF0Zx69Meju) | 2:20 |
 
-Snapshot ID: `AAAAAA2QcFlmeRfdvpIKxnKrSS0Yn4il`
+Snapshot ID: `AAAAAIlBKUN0I0TfE5/vWeSUvBoFOwQz`

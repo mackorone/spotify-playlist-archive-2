@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,572 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,681 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 46 | [HAMMS IN A GLASS](https://open.spotify.com/track/3yOfqcmYBcRZwOhApqfYr5) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:26 |
 | 47 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
 | 48 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 |
-| 49 | [Somebody's Gonna Get Their Head Kicked in Tonight](https://open.spotify.com/track/3q8pRsDaXqHZdo73Vsittc) | [The Rezillos](https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv) | [Can't Stand The Rezillos: The \[Almost\] Complete Rezillos](https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo) | 1:54 |
+| 49 | [Cool Schmool](https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj) | 2:03 |
 | 50 | [Control](https://open.spotify.com/track/6ydPTlLqw0Y1hWmEqCiRQK) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 3:15 |
-| 51 | [Cool Schmool](https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj) | 2:03 |
+| 51 | [Somebody's Gonna Get Their Head Kicked in Tonight](https://open.spotify.com/track/3q8pRsDaXqHZdo73Vsittc) | [The Rezillos](https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv) | [Can't Stand The Rezillos: The \[Almost\] Complete Rezillos](https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo) | 1:54 |
 | 52 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
 | 53 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
 | 54 | [Trust Me](https://open.spotify.com/track/2MJ99N6jENvKonfgegDtZx) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Bless My Psyche](https://open.spotify.com/album/6l15xlxmDJGC2C8xJNx673) | 3:00 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 56 | [Worldwide](https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:34 |
 | 57 | [Unbeschreiblich Weiblich](https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Spliff](https://open.spotify.com/artist/47U0ujLT2qD3wSOGl5WDth) | [Nina Hagen Band](https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx) | 3:30 |
 | 58 | [Terrorist](https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 1:57 |
-| 59 | [Ha Ha Ha Armageddon](https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:16 |
-| 60 | [Libel](https://open.spotify.com/track/62bgpXZkqvbKNwSx0LXyit) | [Tilt](https://open.spotify.com/artist/71nmu8vx7OHvivVKv3dIRq) | ['Til It Kills](https://open.spotify.com/album/07G1rWGaIb0iD4N6YaH2wW) | 2:22 |
+| 59 | [Libel](https://open.spotify.com/track/62bgpXZkqvbKNwSx0LXyit) | [Tilt](https://open.spotify.com/artist/71nmu8vx7OHvivVKv3dIRq) | ['Til It Kills](https://open.spotify.com/album/07G1rWGaIb0iD4N6YaH2wW) | 2:22 |
+| 60 | [Ha Ha Ha Armageddon](https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:16 |
 | 61 | [Womanarchist](https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc) | 2:52 |
 | 62 | [Special](https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:57 |
 | 63 | [Woman Driver](https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Woman Driver](https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs) | 2:04 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 89 | [We Are the One](https://open.spotify.com/track/6o16JFxoLZbrKCdlkC36e0) | [The Avengers](https://open.spotify.com/artist/7eSvd8I9IvSXvz5DhbJ7Oe) | [The American in Me](https://open.spotify.com/album/2YsJTJdqKhc0g9FN6p3bFE) | 2:38 |
 | 90 | [The Surface](https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 1:55 |
 | 91 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
-| 92 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
-| 93 | [Miss Understood](https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Gato Negro](https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3) | 3:07 |
+| 92 | [Miss Understood](https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Gato Negro](https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3) | 3:07 |
+| 93 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
 | 94 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |
 | 95 | [Need](https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY) | 2:40 |
 | 96 | [Resurrection](https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf) | [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [The Complete Punk Singles Collection](https://open.spotify.com/album/1lghAJ2RV4kjRwTqLa4M9Q) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 99 | [Somos Chulas \(No Somos Pendejas\)](https://open.spotify.com/track/1kPzZGjU0mcL6Hh2DLI0of) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Cost of Living](https://open.spotify.com/album/2L3KXGq3u2VpVTFMwPyPrb) | 3:23 |
 | 100 | [Sofa Bed](https://open.spotify.com/track/7AFlvs5nqulxTRq06NLCBx) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Sofa Bed](https://open.spotify.com/album/0e1vkBegA6Xe1RBE3urE9P) | 3:03 |
 
-Snapshot ID: `AAAAACfWQiBj8lvn/Y47V6uSYd3Sp8A6`
+Snapshot ID: `AAAAAOmQfsS5olAUFibUUWpX1u9jV1+4`

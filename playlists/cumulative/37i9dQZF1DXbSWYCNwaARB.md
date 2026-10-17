@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: MEOVV\)
 
-646 songs - 1 day 9 hr 15 min
+647 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [ALIVE](https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz) | 3:06 | 2022-05-24 | 2022-06-10 |
 | [Allure \- Jazz Version](https://open.spotify.com/track/4xeC0YjQ9M0FREWGvu2ReI) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Allure](https://open.spotify.com/album/2e0XolxTGtF620kitKaRwb) | 3:10 | 2021-02-26 | 2021-03-15 |
 | [Amigo \(Feat\. Babysoul of Lovelyz\)](https://open.spotify.com/track/4czctkvzB1Yjn0OYNgRNyW) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Babysoul](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:30 | 2021-12-20 | 2022-04-11 |
+| [Andless](https://open.spotify.com/track/54E6zLaoW4ofXKaXhLVu3G) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.2](https://open.spotify.com/album/4xzONnGPY3wEMHOSsmeJEf) | 2:46 | 2026-10-13 |  |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 | 2024-08-12 |
 | [Apple](https://open.spotify.com/track/3jg1u32Pn1c2M5r6SAQBCC) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:27 | 2020-10-13\* | 2021-03-16 |
 | [ARIA](https://open.spotify.com/track/1T4GQxjwqrGGQ60N3q5Xpw) | [CRAXY](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) | [My Universe](https://open.spotify.com/album/20K3dLngjcAJy2pCEFwQET) | 3:31 | 2021-01-17 | 2022-04-17 |

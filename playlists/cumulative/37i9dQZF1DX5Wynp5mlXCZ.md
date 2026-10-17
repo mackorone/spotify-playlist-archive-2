@@ -4,7 +4,7 @@
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: SadSvit & FIЇNKA
 
-679 songs - 1 day 10 hr 37 min
+680 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Kohoney](https://open.spotify.com/track/2cP0MhXaQgu1cEMvl6fQC7) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Kohoney](https://open.spotify.com/album/7BuPv7yKisvc4K9XfuVYda) | 2:05 | 2025-01-16 | 2025-03-14 |
 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-23 |  |
 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 | 2026-09-17 |  |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-15 |  |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-06-27 | 2024-12-06 |
 | [LIGHTKEEPER](https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [LIGHTKEEPER](https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE) | 2:59 | 2026-01-15 | 2026-05-17 |
 | [Like Dior](https://open.spotify.com/track/2969t4QK2N7tipR94UkXgk) | [DEMCHUK](https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO) | [Like Dior](https://open.spotify.com/album/1kAIsYyOQ0Kavr1MtAwjXc) | 2:09 | 2026-07-30 | 2026-08-28 |

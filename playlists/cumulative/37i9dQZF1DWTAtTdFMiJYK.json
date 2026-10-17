@@ -542,7 +542,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 214945,
       "name": "Achaar Samachaar",
       "url": "https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt"
@@ -6042,6 +6042,32 @@
       "duration_ms": 149000,
       "name": "Nazarein Utaarun",
       "url": "https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl"
+    },
+    {
+      "album": {
+        "name": "Neenillade",
+        "url": "https://open.spotify.com/album/38hrDlO78IrsjnccaHnJBX"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Mandoth",
+          "url": "https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w"
+        },
+        {
+          "name": "Vivek Kiran",
+          "url": "https://open.spotify.com/artist/0gAOUi1kq4d2QBOBgkIota"
+        },
+        {
+          "name": "Gaana Samskruth",
+          "url": "https://open.spotify.com/artist/28acYuin4RNdTRBr6VpFNE"
+        }
+      ],
+      "date_added": "2026-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266144,
+      "name": "Neenillade",
+      "url": "https://open.spotify.com/track/1AnfXISgiKDaXLYHYuPSvn"
     },
     {
       "album": {

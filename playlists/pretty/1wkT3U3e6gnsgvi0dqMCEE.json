@@ -6,13 +6,13 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAEM3BWMwfu55aO9dZ3mhUby0QPi1Ww",
+  "snapshot_id": "AAAEPjVuO8KuewFBLbkh6UlH9N2r/ERC",
   "tracks": [
     {
-      "added_at": "2026-09-25 15:07:35",
+      "added_at": "2026-10-16 13:29:03",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+        "name": "The Greatest Show On Earth",
+        "url": "https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 155648,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
+      "duration_ms": 334109,
+      "name": "The Greatest Show On Earth",
+      "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
     },
     {
       "added_at": "2026-09-18 13:27:50",
@@ -47,6 +47,74 @@
       "duration_ms": 238957,
       "name": "Wheat Kings (feat. Allison Russell) - 'It's A Good Life If You Don't Weaken' Original Cast Recording",
       "url": "https://open.spotify.com/track/4y2gmy4Md3xQ95S3raKtFr"
+    },
+    {
+      "added_at": "2026-10-16 17:26:06",
+      "album": {
+        "name": "Black Stars",
+        "url": "https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Black Stars - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm"
+    },
+    {
+      "added_at": "2026-10-16 13:29:21",
+      "album": {
+        "name": "Fooled Again (I Don't Like It) / Parade Of Loons",
+        "url": "https://open.spotify.com/album/11OwaPXIqSKbA5rkXgkRXP"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Fooled Again (I Don't Like It) - Extended Version - 2026 Mix",
+      "url": "https://open.spotify.com/track/3M5SmRJ3wVsJtabDbHruJM"
+    },
+    {
+      "added_at": "2026-10-16 13:29:33",
+      "album": {
+        "name": "Mr. Speed / Hard Luck Woman",
+        "url": "https://open.spotify.com/album/3H4aImRAbw3JXfzvXWdRny"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Mr. Speed - Eddie Kramer 2026 Mix",
+      "url": "https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG"
+    },
+    {
+      "added_at": "2026-10-16 13:29:51",
+      "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 371580,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
     },
     {
       "added_at": "2026-10-09 14:51:07",
@@ -163,6 +231,22 @@
       "duration_ms": 287393,
       "name": "Face the Wall - Dark-Side Mix",
       "url": "https://open.spotify.com/track/1g8rsnKJGTQmtUGArw9bZa"
+    },
+    {
+      "added_at": "2026-09-25 15:07:35",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
     },
     {
       "added_at": "2026-10-02 15:55:07",
@@ -463,6 +547,38 @@
       "duration_ms": 279826,
       "name": "Tears Dry - Alternative Demo",
       "url": "https://open.spotify.com/track/3kg2U7CeWSC9hvqetJfuFS"
+    },
+    {
+      "added_at": "2026-10-16 13:29:13",
+      "album": {
+        "name": "Loverboy (Remix)",
+        "url": "https://open.spotify.com/album/385M8ex7dAinRxjMHlY9Ph"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Da Brat",
+          "url": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        },
+        {
+          "name": "Twenty II",
+          "url": "https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Loverboy - Remix",
+      "url": "https://open.spotify.com/track/37V9Td9HDL6GQ8SF0To3U8"
     },
     {
       "added_at": "2026-08-28 16:37:41",

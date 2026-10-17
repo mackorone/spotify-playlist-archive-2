@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVR3qxnguIme.md) - [plain]
 | 28 | [ICU \(쉬어가도 돼\)](https://open.spotify.com/track/4jzrYUhlzXROpV5M944Yvu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH) | 3:41 |
 | 29 | [Ending](https://open.spotify.com/track/4tuWRYj8I0h6RyQTQK6K8r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [aespa : SYNK : HYPER LINE](https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo) | 0:35 |
 
-Snapshot ID: `AAAAADXhJZAwaja+R4OnBsxz8xcEqkPI`
+Snapshot ID: `AAAAAEvIEND8CPXFt7EgD/FeFCzM8/J+`

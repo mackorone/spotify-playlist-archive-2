@@ -2573,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "La fin du monde",
+        "url": "https://open.spotify.com/album/4pajF2yHY5567kh2Kbt0pj"
+      },
+      "artists": [
+        {
+          "name": "17sport",
+          "url": "https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "La fin du monde",
+      "url": "https://open.spotify.com/track/6mWaPThaMStSYeh9Yp9RmR"
+    },
+    {
+      "album": {
         "name": "D>E>A>T>H>M>E>T>A>L",
         "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
       },
@@ -2969,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/1kU0H9ztrvumgynaerkHOm"
+      },
+      "artists": [
+        {
+          "name": "Madrid Exit",
+          "url": "https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166426,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/6cjLzYXcciwqS0CtSuZNSh"
+    },
+    {
+      "album": {
         "name": "Mole in the Ground",
         "url": "https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw"
       },
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 252991,
       "name": "new look",
       "url": "https://open.spotify.com/track/11nRMMrQt6t0x7WQs9vKhq"

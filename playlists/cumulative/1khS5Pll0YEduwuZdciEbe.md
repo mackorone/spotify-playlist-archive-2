@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Broken Social Scene
 
-289 songs - 17 hr 30 min
+290 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-11-03 | 2025-05-12 |
 | [Cool Water \- Single Mix](https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Back to Moon Beach](https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ) | 4:31 | 2023-11-17 | 2024-02-03 |
 | [Crash Test Plane](https://open.spotify.com/track/0ZHcU2BZfeylr6uF1S3vzE) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Crash Test Plane](https://open.spotify.com/album/3cAjesTUTU5FNLTISuMHbW) | 4:12 | 2024-11-15 | 2025-01-11 |
-| [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-28 |  |
+| [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-28 | 2026-10-17 |
 | [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2024-11-01 | 2025-01-11 |
 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 | 2024-10-26 |
 | [Cut The Brakes](https://open.spotify.com/track/43JGRPYWeELknzTvUbXui8) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Cut The Brakes](https://open.spotify.com/album/6GVF1q7UK5QxVlOzHYdL9I) | 3:37 | 2025-04-11 |  |
@@ -143,7 +143,7 @@
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-09-27 | 2025-04-26 |
 | [Inland Ocean](https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Inland Ocean](https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC) | 4:54 | 2025-05-11 |  |
 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 | 2023-11-03 | 2024-06-02 |
-| [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-25 |  |
+| [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-25 | 2026-10-17 |
 | [It Might Be Raining](https://open.spotify.com/track/145lUae1lkz99tKcwwEK9x) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Natural Light](https://open.spotify.com/album/5mbEX4VVc8PY11n3RPqrGT) | 5:42 | 2025-05-16 |  |
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2023-11-03 | 2024-07-27 |
 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 | 2023-11-10 | 2024-03-30 |
@@ -236,6 +236,7 @@
 | [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 | 2024-07-19 |  |
 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 | 2024-10-11 | 2025-02-22 |
 | [Shooting Star](https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [Shooting Star](https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1) | 2:23 | 2025-02-28 | 2025-04-26 |
+| [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 | 2026-10-16 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-11-03 | 2024-11-02 |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2025-03-10 |  |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-11-03 | 2024-11-16 |

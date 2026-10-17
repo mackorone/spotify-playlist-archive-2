@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-362 songs - 1 day 8 hr 27 min
+363 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Time For Love](https://open.spotify.com/track/7s1hwbCePvSUZxgayvKTCK) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [From This Moment On](https://open.spotify.com/album/3eHtDpsMTiWBek5awHt2fE) | 6:28 | 2020-10-09 | 2022-08-17 |
 | [A Warm Hand](https://open.spotify.com/track/1s585WUgTgesQquLKUMgAN) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [The Copenhagen Session \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/3dssb76aJrW8j3TeFjkhtK) | 4:33 | 2022-06-30 | 2024-04-19 |
 | [A Warm Hand](https://open.spotify.com/track/0kPGtWb0Bs0j3DW49kWbKh) | [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [A Warm Hand](https://open.spotify.com/album/5eDxoL7fRuACnX4gDF3I99) | 4:33 | 2022-06-30 | 2025-09-06 |
+| [A Weaver of Dreams](https://open.spotify.com/track/78Cx0W5pE9v4MQgl3byd38) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [A Weaver of Dreams](https://open.spotify.com/album/0fPCzUDVzqs8S0B8OGqIeq) | 6:17 | 2026-10-16 |  |
 | [Absyrations](https://open.spotify.com/track/14JAGLLamVp9p3EJaRYPfj) | [Alfio Origlio](https://open.spotify.com/artist/6jQq6X8pd59ggCEJ5lEj80) | [Absyrations](https://open.spotify.com/album/3v8U8oQdykY1kVF9IBg5nF) | 5:44 | 2020-10-09 | 2024-06-08 |
 | [Acadia](https://open.spotify.com/track/1RAdA5l9OJNurt58Y1tWKM) | [Bobby Katz Quartet](https://open.spotify.com/artist/2ageVjmChv8ntPyL4DAhRm) | [Acadia](https://open.spotify.com/album/3NbKXnS56zCBSmqtFGt8Ti) | 3:21 | 2023-11-10 |  |
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/29oS97LA4iW2EZA6Hxob1u) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Art Roho Serving Hannes Bennich](https://open.spotify.com/album/1qXhq2C2TDetoWkja1hDvA) | 4:12 | 2023-06-20 | 2024-04-19 |
@@ -207,7 +208,7 @@
 | [Misty \- Remastered 2020](https://open.spotify.com/track/2yiISACbYnL2hApy1ffKKs) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Gemini \(Octave Remastered Series\)](https://open.spotify.com/album/41sYqKPEygmvQrLXKpzWJU) | 2:47 | 2020-10-09 | 2025-10-18 |
 | [Mommy's Shawl](https://open.spotify.com/track/7u38kj1yGDoExUnP6gxxor) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Blooming Tall Phlox](https://open.spotify.com/album/6flIHnOYOMbCz53SOdGle3) | 5:05 | 2020-10-09 | 2023-03-29 |
 | [Mood](https://open.spotify.com/track/79xYzymN9wuN9jrIREWIiI) | [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Mood](https://open.spotify.com/album/5Ha52obqipY50QSAkWjE3R) | 7:33 | 2022-10-06 | 2023-10-04 |
-| [Moonlight in Vermont](https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Moonlight in Vermont](https://open.spotify.com/album/2uGDhyFVW5LusWVFn5XtsU) | 6:53 | 2021-08-20 |  |
+| [Moonlight in Vermont](https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Moonlight in Vermont](https://open.spotify.com/album/2uGDhyFVW5LusWVFn5XtsU) | 6:53 | 2021-08-20 | 2026-10-17 |
 | [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 | 2023-01-10 | 2024-04-19 |
 | [Moonlight In Vermont](https://open.spotify.com/track/6yWlAhcnlVq9VThnWaMvkK) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Moonlight In Vermont](https://open.spotify.com/album/4Wldh9Q4ECOwN0CeLrk9mg) | 3:23 | 2024-05-31 |  |
 | [Moons Ago](https://open.spotify.com/track/3c8MEEkKekl7BslWa83f55) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/13Ua0b5HRh4DtWdQa993oD) | 6:06 | 2024-03-15 | 2024-04-19 |

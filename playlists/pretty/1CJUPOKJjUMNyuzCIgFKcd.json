@@ -1,13 +1,29 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 21595,
+  "num_followers": 21594,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAn340yYCZtBqKZiJFO1PNTPEt5tOqp",
+  "snapshot_id": "AAAn4IWOaeOL0aJKA9i83ViGehie7Jko",
   "tracks": [
+    {
+      "added_at": "2026-10-16 06:50:26",
+      "album": {
+        "name": "Day by Day, Shway Shway",
+        "url": "https://open.spotify.com/album/40qljUA8WPAsuSTyO9JyGN"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 158928,
+      "name": "Missing Home",
+      "url": "https://open.spotify.com/track/3B18FHfCzhBzqGTy1CQVuH"
+    },
     {
       "added_at": "2026-10-13 19:02:28",
       "album": {

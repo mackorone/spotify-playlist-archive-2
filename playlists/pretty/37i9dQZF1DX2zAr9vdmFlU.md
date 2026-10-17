@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,899 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,892 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 84 | [La del bar](https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg) | [Gèrard](https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z) | [La del bar](https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi) | 2:34 |
 | 85 | [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 |
 | 86 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
-| 87 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/6O7IhKaYZSYAUv0u6xVJkl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:47 |
-| 88 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
-| 89 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
+| 87 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
+| 88 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/6O7IhKaYZSYAUv0u6xVJkl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:47 |
+| 89 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
 | 90 | [Miedo](https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Today Mañana](https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M) | 3:54 |
 | 91 | [Mambo 1000](https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000](https://open.spotify.com/album/5JG1oBh7qRFjWgtKtRmOCD) | 5:40 |
 | 92 | [Pela Janela \(Through the Window\)](https://open.spotify.com/track/0FaYHxGCGmAzcQdXeIjmZJ) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gigi Rezende](https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:41 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 94 | [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 |
 | 95 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 |
 | 96 | [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 |
-| 97 | [Tiene Sabor](https://open.spotify.com/track/6W9h0BezjB0P5Zcf2FWMPu) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/1fZmMKEOWePGgosLE7npHx) | 3:17 |
-| 98 | [El Barrio](https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [BITA](https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki) | [El Barrio](https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5) | 3:00 |
+| 97 | [El Barrio](https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [BITA](https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki) | [El Barrio](https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5) | 3:00 |
+| 98 | [Tiene Sabor](https://open.spotify.com/track/6W9h0BezjB0P5Zcf2FWMPu) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/1fZmMKEOWePGgosLE7npHx) | 3:17 |
 | 99 | [Ya Llego \(Captain Planet Remix\)](https://open.spotify.com/track/3ofJQlyeMIigLD3hSJUyME) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Global Bassment](https://open.spotify.com/album/18ynFrrFKg1wRPU5CfmDLP) | 4:04 |
 | 100 | [Música Sin Tiempo](https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Música Sin Tiempo](https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9) | 4:44 |
 
-Snapshot ID: `AAAAAHV+waCTwppuggD98BdK4Tb9gGY/`
+Snapshot ID: `AAAAAMI8CwReVO8IBz1o5tyLVp9vtfQ8`

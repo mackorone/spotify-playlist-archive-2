@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
-  "num_followers": 172197,
+  "num_followers": 172218,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGOq664Wj0iAD2DZyCClFHI663G",
+  "snapshot_id": "AAAAAH9epQmwzpJ6SkJYX4OFEr/6E7a6",
   "tracks": [
     {
       "added_at": "2026-10-08 12:34:35",
@@ -83,6 +83,30 @@
       "duration_ms": 230976,
       "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "added_at": "2026-10-16 06:06:32",
+      "album": {
+        "name": "Kanne Kalavagane (From \"Modern Missamma\")",
+        "url": "https://open.spotify.com/album/6uD51OJwEhLSwVxVBQgswU"
+      },
+      "artists": [
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 262767,
+      "name": "Kanne Kalavagane (From \"Modern Missamma\")",
+      "url": "https://open.spotify.com/track/2MLPIUnNwu4TTlJ951NutO"
     },
     {
       "added_at": "2026-08-18 08:00:06",
@@ -601,38 +625,6 @@
       "url": "https://open.spotify.com/track/75mui7H7T4ZN9sQohvjTCN"
     },
     {
-      "added_at": "2026-07-07 07:45:20",
-      "album": {
-        "name": "Jaya Mangalam (From \"Lenin\")",
-        "url": "https://open.spotify.com/album/214iEM1yTq9JPTZ1FIh0hQ"
-      },
-      "artists": [
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Kumara Vagdevi",
-          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
-        },
-        {
-          "name": "Vijaya Lakshmi",
-          "url": "https://open.spotify.com/artist/21tEGk5FMTStfyeJEeVSTM"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 207095,
-      "name": "Jaya Mangalam (From \"Lenin\")",
-      "url": "https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd"
-    },
-    {
       "added_at": "2026-08-04 08:15:46",
       "album": {
         "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
@@ -911,26 +903,6 @@
       "duration_ms": 211047,
       "name": "Neowa Hummke Ya (From \"Korean Kanakaraju\")",
       "url": "https://open.spotify.com/track/65wWjuyBWVCxdllT3CoH6Z"
-    },
-    {
-      "added_at": "2026-07-10 11:27:23",
-      "album": {
-        "name": "Kotha Aasa (From \"Kagitham Padavalu\")",
-        "url": "https://open.spotify.com/album/7H0mTxbyzkNappYM1uaxFT"
-      },
-      "artists": [
-        {
-          "name": "Nawfal Raja Ais",
-          "url": "https://open.spotify.com/artist/0eeeUK6RZ4XT2w9uBxROak"
-        },
-        {
-          "name": "Rahman",
-          "url": "https://open.spotify.com/artist/6kMZ5a2R6YBk35LRTSsknA"
-        }
-      ],
-      "duration_ms": 287125,
-      "name": "Kotha Aasa (From \"Kagitham Padavalu\")",
-      "url": "https://open.spotify.com/track/1azhleXCBUND0Tw8ftDdlh"
     },
     {
       "added_at": "2026-08-10 10:34:51",

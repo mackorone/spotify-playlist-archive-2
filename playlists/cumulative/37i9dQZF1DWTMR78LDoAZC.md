@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Caroline Rose
 
-307 songs - 17 hr 17 min
+308 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dick in the Air](https://open.spotify.com/track/638UHVZeUJiDVQxb7PQ1u4) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Rub](https://open.spotify.com/album/3cFBqKdxDfZUDCOtOytHeB) | 3:10 | 2021-06-22 | 2022-06-01 |
 | [Did You Come?](https://open.spotify.com/track/0vOJBOg4bqd5PSY8k4DYny) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:10 | 2022-06-06 | 2023-06-02 |
 | [Did You Come?](https://open.spotify.com/track/7Gg3K1voAqySrOMh9DPjAX) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:10 | 2021-06-22 | 2022-10-13 |
+| [Does She Know](https://open.spotify.com/track/2XwYgf0bfnkVFogmQVs9Wr) | [Dawson Fuss](https://open.spotify.com/artist/4HmXxGWmonNjO3VfrgBRVQ) | [Does She Know](https://open.spotify.com/album/2OfTl01brmFjtlYDri1xR0) | 2:47 | 2026-10-16 |  |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:25 | 2024-06-21 |  |
 | [Don't Freak](https://open.spotify.com/track/6IDf8qhBUUi8BUWYRqk1mB) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Don't Freak](https://open.spotify.com/album/5xv8mQtOVEPHSmzUgqKlAx) | 2:46 | 2021-06-22 | 2023-06-02 |
 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/0XpV3XJRiOD26mSUbEBgny) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/album/4S4Uyd4EjdrlmDNkzou92g) | 4:21 | 2021-06-22 | 2022-07-29 |
@@ -111,7 +112,7 @@
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2021-06-22 | 2022-06-01 |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-05-30 |  |
 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 | 2023-06-01 | 2023-07-05 |
-| [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2023-06-01 |  |
+| [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2023-06-01 | 2026-10-17 |
 | [Heavy Pour](https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:50 | 2024-06-21 | 2026-06-16 |
 | [Hello Again, Jim](https://open.spotify.com/track/4WA9XCYWwlfSZesVC2TdLy) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Calm](https://open.spotify.com/album/4KgHvvtfb8DxKJxV36gNXb) | 3:26 | 2026-09-18 |  |
 | [Help Myself](https://open.spotify.com/track/0GBgnbJII17LGSXjIjVHT7) | [Evvol](https://open.spotify.com/artist/21drkL18eajEqlnqSAphJm) | [The Power](https://open.spotify.com/album/18p9w3i4FrHnbJVteUocya) | 3:04 | 2021-06-22 | 2022-06-01 |

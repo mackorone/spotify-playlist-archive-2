@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "romanticonas y fresonas, pero norte\u00f1onas. Nueva Marca en portada",
+  "description": "romanticonas y fresonas, pero norte\u00f1onas. Grupo Feroz en portada",
   "name": "chikilla bonita",
   "tracks": [
     {
@@ -134,6 +134,28 @@
       "duration_ms": 164081,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/7jDRACsh0RUMEpzNPLMZWF"
+    },
+    {
+      "album": {
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/42TgTjBW20zm7zr6jk63yA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Depurado",
+          "url": "https://open.spotify.com/artist/4vX64bts62vb2Yzatnp7aR"
+        },
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191240,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/56qNSsxMHlBCBxPTrBB51O"
     },
     {
       "album": {
@@ -466,7 +488,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183076,
       "name": "Amor De Cuatro Paredes",
       "url": "https://open.spotify.com/track/1ZXnteLmq7k3b0OvsPrTZn"
@@ -1244,6 +1266,24 @@
       "duration_ms": 293076,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1qK42qPK3EeBkC5vyv5MM9"
+    },
+    {
+      "album": {
+        "name": "Como Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/4UIkqjWTrgOx2XMupXypX3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Como Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/7Kd9k8nYPq0RXT5rHu1JpY"
     },
     {
       "album": {
@@ -3993,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "Mientes Tan Bien",
+        "url": "https://open.spotify.com/album/4RmA8iUyKUwRmrRddEP8pF"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242431,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/4WZOq6k02nLjeTFztwChZD"
+    },
+    {
+      "album": {
         "name": "Mini Mini",
         "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
       },
@@ -4626,7 +4684,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206611,
       "name": "Para No Verte Mas - En Vivo",
       "url": "https://open.spotify.com/track/6287fa53PCncJzHOC8gtky"
@@ -5836,7 +5894,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201600,
       "name": "S\u00f3lo Un D\u00eda",
       "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"

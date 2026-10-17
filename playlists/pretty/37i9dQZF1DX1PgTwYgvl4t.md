@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,096 likes - 101 songs - 14 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,194 likes - 101 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 100 | [RIVER FLOW \- Live](https://open.spotify.com/track/08odXNEvezN6ztXa6XZyId) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [RIVER FLOW \(Live\)](https://open.spotify.com/album/5Lb0gOpbCIBXzU6MtRPe89) | 10:47 |
 | 101 | [Speak Lord](https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Speak Lord](https://open.spotify.com/album/1JboqcmSuZft5WePBNZJCm) | 3:50 |
 
-Snapshot ID: `AAAAAK35DfR488WdrOF/NqmeBpWnCdEN`
+Snapshot ID: `AAAAAObhpQ0UR/uqZcO4kc2f3/RWnvc2`

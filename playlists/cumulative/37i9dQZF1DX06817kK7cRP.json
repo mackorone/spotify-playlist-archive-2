@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "ciempi\u00e9s",
+        "url": "https://open.spotify.com/album/1LelFGrzA6ijQCnFCtnDKk"
+      },
+      "artists": [
+        {
+          "name": "maccina",
+          "url": "https://open.spotify.com/artist/582TWba0yQUrl1cghoB51a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86153,
+      "name": "ciempi\u00e9s",
+      "url": "https://open.spotify.com/track/1nvNlhc1uaZLHLOSZsd2Xy"
+    },
+    {
+      "album": {
         "name": "Circle Reflections",
         "url": "https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83"
       },
@@ -2821,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Lazy In The Hammock",
+        "url": "https://open.spotify.com/album/6SWBwZPchGDycd8qj1utlO"
+      },
+      "artists": [
+        {
+          "name": "YorBeatz",
+          "url": "https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Lazy In The Hammock",
+      "url": "https://open.spotify.com/track/5th2gDBLlxbjyl5pT4nUK7"
+    },
+    {
+      "album": {
         "name": "Leafy Greens",
         "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
       },
@@ -3178,7 +3214,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166153,
       "name": "Marijus",
       "url": "https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC"
@@ -4856,7 +4892,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 155647,
       "name": "Soft Shadows",
       "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"

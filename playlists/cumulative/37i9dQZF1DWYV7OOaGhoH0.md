@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today featuring music from Jess Williamson
 
-897 songs - 2 day 7 hr 19 min
+898 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-08-19 | 2023-05-27 |
 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 | 2022-11-13 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 | 2022-07-29 |
+| [Are We Ever Gonna Work Out, Baby?](https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Long Life Living for a Lover Boy](https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8) | 2:51 | 2026-10-16 |  |
 | [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2024-02-16 | 2025-01-11 |
 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 | 2024-08-02 | 2025-03-15 |
 | [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 | 2024-10-25 | 2025-07-26 |

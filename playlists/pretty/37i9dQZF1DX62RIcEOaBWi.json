@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 569844,
+  "num_followers": 569830,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEEDtP9gqpwsN46pe5jP0uulPD70",
+  "snapshot_id": "AAAAADNtTTXGHiM8HsxEWhBJA2fZIW0o",
   "tracks": [
     {
       "added_at": "2026-09-17 16:51:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Lo mas lejos a tu lado",
-        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 254373,
-      "name": "Soldadito marinero",
-      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 165506,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Lo mas lejos a tu lado",
+        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Soldadito marinero",
+      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Nuclear",
-        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 240984,
-      "name": "Como Si Fueras a Morir Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 201180,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Nuclear",
+        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 240984,
+      "name": "Como Si Fueras a Morir Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Punto de Partida",
-        "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
       "artists": [
         {
-          "name": "Carla Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 165750,
-      "name": "El Merengue (Versi\u00f3n Flamenca)",
-      "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
+      "duration_ms": 186359,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
+        "name": "Punto de Partida",
+        "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Carla Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
         }
       ],
-      "duration_ms": 186359,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+      "duration_ms": 165750,
+      "name": "El Merengue (Versi\u00f3n Flamenca)",
+      "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 375119,
       "name": "Acabo de llegar",
       "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 246007,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Follow You / Cutthroat",
-        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Dos Caras Distintas",
         "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 195226,
       "name": "Pero a tu lado",
       "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Follow You / Cutthroat",
+        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "NUDITO (Remix)",
         "url": "https://open.spotify.com/album/78Mm8dllG3k0QFVXFPZC9C"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 139768,
       "name": "NUDITO - Remix",
       "url": "https://open.spotify.com/track/21JKuRHUBIIT9uscKVKoDs"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Bailar El Viento",
         "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 229720,
       "name": "Uno X Uno",
       "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2359,74 +2359,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Nuclear",
-        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 229406,
-      "name": "No Te Preocupes por Mi",
-      "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Amigos (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Amigos (con Maria Becerra)",
-      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Rojitas las orejas",
-      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2447,6 +2379,74 @@
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Nuclear",
+        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 229406,
+      "name": "No Te Preocupes por Mi",
+      "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Rojitas las orejas",
+      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Amigos (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2675,22 +2675,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
+        "name": "Camiseta de Rokanrol",
+        "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         },
         {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 202129,
-      "name": "Desde cero (con Melendi)",
-      "url": "https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9"
+      "duration_ms": 229832,
+      "name": "Camiseta de Rokanrol",
+      "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
     }
   ],
   "unique_name": "En el Trabajo",

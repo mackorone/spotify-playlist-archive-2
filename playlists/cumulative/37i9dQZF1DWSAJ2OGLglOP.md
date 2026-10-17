@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-439 songs - 1 day 1 hr 29 min
+441 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [F.A.M.O.U.S](https://open.spotify.com/track/4cLzHSqYaxcw8qVFV2xlGY) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [F.A.M.O.U.S](https://open.spotify.com/album/0vVoKZmi97XxytJghdjvHF) | 3:20 | 2026-10-14 |  |
 | [F.T.R.](https://open.spotify.com/track/072A4O5qlR3zgf8hVQtssX) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Until The Sun Explodes](https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM) | 3:04 | 2026-06-25 | 2026-08-01 |
 | [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 | 2026-06-25 | 2026-10-14 |
-| [fever dream](https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [fever dream](https://open.spotify.com/album/26oZIiwP7d2HTvhFfmBC4r) | 2:52 | 2026-10-14 |  |
+| [fever dream](https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [fever dream](https://open.spotify.com/album/26oZIiwP7d2HTvhFfmBC4r) | 2:52 | 2026-10-14 | 2026-10-17 |
 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 | 2026-01-09 | 2026-02-26 |
 | [Fireproof](https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2 \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci) | 1:49 | 2026-06-25 | 2026-10-14 |
 | [First Born Daughter](https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [First Born Daughter](https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J) | 3:45 | 2026-06-25 | 2026-10-14 |
@@ -260,7 +260,7 @@
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 | 2024-02-09 |
 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 | 2024-03-07 | 2024-03-30 |
 | [Smile](https://open.spotify.com/track/4Es0XlLKmqC8R25CEgF9pZ) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [Smile](https://open.spotify.com/album/1pMA5CkOIm2zKA3AQCFWdY) | 4:05 | 2026-10-14 |  |
-| [Soarin'](https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Soarin'](https://open.spotify.com/album/7DPc96w5fUdAK6X2dRKbRr) | 3:24 | 2026-07-16 |  |
+| [Soarin'](https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Soarin'](https://open.spotify.com/album/7DPc96w5fUdAK6X2dRKbRr) | 3:24 | 2026-07-16 | 2026-10-17 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-26 | 2024-12-27 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-03-06 | 2026-10-14 |
 | [SOS](https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [SOS](https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp) | 3:00 | 2026-06-25 |  |
@@ -344,6 +344,7 @@
 | [ありふれた世界の果てに \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/7HNGIBi7xkcN1YGyhdjPkA) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [ありふれた世界の果てに \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/6KTsZEbfsMrOl60ApHL7hK) | 3:54 | 2026-10-14 |  |
 | [かげろう](https://open.spotify.com/track/5BKwzntuwwe6V5oapO6eJ4) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [かげろう](https://open.spotify.com/album/2et7q2u7h9RYelRR24tCPQ) | 4:34 | 2026-07-16 | 2026-10-14 |
 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 | 2023-12-03 | 2024-01-12 |
+| [さながらロンリー](https://open.spotify.com/track/4fksLHcbww26MwMJ2FdLqr) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [さながらロンリー](https://open.spotify.com/album/250LpstRy6HPHxPaABRjUm) | 3:03 | 2026-10-14 |  |
 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2026-10-14 |  |
 | [たりない](https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [たりない](https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk) | 3:27 | 2026-07-09 | 2026-10-14 |
 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-11 | 2025-12-03 |
@@ -418,6 +419,7 @@
 | [泥だらけの純粋](https://open.spotify.com/track/4FQleqtiBoMcMzztGVXkmP) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [泥だらけの純粋](https://open.spotify.com/album/3g4yqwEncWpu08qEGmzNG3) | 5:01 | 2023-10-12 | 2023-11-17 |
 | [消えない理由](https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [消えない理由](https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R) | 4:09 | 2026-10-14 |  |
 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 | 2025-08-01 | 2025-11-12 |
+| [涙の河](https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [涙の河](https://open.spotify.com/album/3hhjZ6pIGXNGtxS8PNem13) | 4:19 | 2026-10-14 |  |
 | [然らば](https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [然らば](https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08) | 3:57 | 2025-01-24 | 2025-03-08 |
 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-21 | 2025-07-12 |
 | [猫じゃらし](https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [猫じゃらし](https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr) | 2:47 | 2026-07-09 |  |

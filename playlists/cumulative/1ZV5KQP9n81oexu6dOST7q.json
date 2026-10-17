@@ -1081,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
+    },
+    {
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/2lsPTHNG4ot3c33R3qN06E"
       },
@@ -2250,6 +2272,24 @@
       "duration_ms": 199804,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
+    },
+    {
+      "album": {
+        "name": "make u mine",
+        "url": "https://open.spotify.com/album/05XidhkBUM8o0T8Paq5rW8"
+      },
+      "artists": [
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160021,
+      "name": "make u mine",
+      "url": "https://open.spotify.com/track/37SVIAV3BnSkAbNPkM1l76"
     },
     {
       "album": {

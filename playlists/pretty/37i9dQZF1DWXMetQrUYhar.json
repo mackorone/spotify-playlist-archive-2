@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111304,
+  "num_followers": 111307,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACz6p6xgItO0MNsIMXD1BqauN1Vf",
+  "snapshot_id": "AAAAAPkqB5SUZLHEMGjQz0h5k5YZOwMu",
   "tracks": [
     {
       "added_at": "2025-01-27 20:00:12",
@@ -556,22 +556,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ"
       },
       "artists": [
@@ -583,6 +567,22 @@
       "duration_ms": 217855,
       "name": "mother tongue - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "macrodosing - Spotify Singles",
-        "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 170897,
-      "name": "macrodosing - Spotify Singles",
-      "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 463336,
       "name": "Taste - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "macrodosing - Spotify Singles",
+        "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 170897,
+      "name": "macrodosing - Spotify Singles",
+      "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1260,22 +1260,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
       },
       "artists": [
@@ -1287,6 +1271,22 @@
       "duration_ms": 277113,
       "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1308,22 +1308,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 159497,
-      "name": "sex money feelings die - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
       },
       "artists": [
@@ -1335,6 +1319,22 @@
       "duration_ms": 192522,
       "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 159497,
+      "name": "sex money feelings die - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1388,22 +1388,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 194313,
-      "name": "Be Sweet - Spotify Singles",
-      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
       },
       "artists": [
@@ -1415,6 +1399,22 @@
       "duration_ms": 252048,
       "name": "(What's So Funny Bout) Peace, Love and Understanding? - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 194313,
+      "name": "Be Sweet - Spotify Singles",
+      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
     },
     {
       "added_at": "2023-11-07 19:15:28",
@@ -1520,22 +1520,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
       },
       "artists": [
@@ -1552,17 +1536,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
         }
       ],
-      "duration_ms": 155797,
-      "name": "Go Away - Spotify Singles",
-      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
+      "duration_ms": 261586,
+      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1579,6 +1563,22 @@
       "duration_ms": 253514,
       "name": "Los Ageless - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 155797,
+      "name": "Go Away - Spotify Singles",
+      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1712,6 +1712,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        }
+      ],
+      "duration_ms": 237617,
+      "name": "Bike Dream - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
       "artists": [
@@ -1727,22 +1743,6 @@
       "duration_ms": 250000,
       "name": "Alemania - Spotify Singles (Blackpaw Remix)",
       "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        }
-      ],
-      "duration_ms": 237617,
-      "name": "Bike Dream - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
     },
     {
       "added_at": "2023-01-11 22:54:33",

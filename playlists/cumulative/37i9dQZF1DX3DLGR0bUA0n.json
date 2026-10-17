@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
+  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
   "name": "Tierra Caliente",
   "tracks": [
     {
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Amar De Verdad",
+        "url": "https://open.spotify.com/album/05C1CBbMRLU8hIIWEiu4W7"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210329,
+      "name": "Amar De Verdad",
+      "url": "https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm"
+    },
+    {
+      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 182400,
       "name": "Amores Con Mi Estilo",
       "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
@@ -1686,6 +1704,44 @@
       "duration_ms": 175217,
       "name": "Frente A Frente",
       "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
+    },
+    {
+      "album": {
+        "name": "Gente de Rancho",
+        "url": "https://open.spotify.com/album/7u7SM8hdzFWNs2vhdoEQFG"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        },
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        },
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        },
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        },
+        {
+          "name": "Banda los Coste\u00f1os",
+          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
+        },
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160128,
+      "name": "Gente de Rancho",
+      "url": "https://open.spotify.com/track/2d0jmxWeeqL4ywfgCZalmf"
     },
     {
       "album": {
@@ -3145,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9reme Como Te Quiero",
+        "url": "https://open.spotify.com/album/1MILELpMLEwAPlhV9duo74"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200942,
+      "name": "Qui\u00e9reme Como Te Quiero",
+      "url": "https://open.spotify.com/track/7BOrTfOzfBxdXyOMW5NOVW"
+    },
+    {
+      "album": {
         "name": "Recordando A Mi Pueblo",
         "url": "https://open.spotify.com/album/27J8ZgI5nKZ6Qvlfw59y0R"
       },
@@ -3156,7 +3230,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 295765,
       "name": "Recordando A Mi Pueblo",
       "url": "https://open.spotify.com/track/1vQJbzRxUhQMbcOtTiApy0"
@@ -3890,7 +3964,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202794,
       "name": "\u00c9chame La Culpa A Mi",
       "url": "https://open.spotify.com/track/271VZINotNJnfByIZW3SGK"

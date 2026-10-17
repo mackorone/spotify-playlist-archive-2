@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Emei on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,609 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,612 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Emily](https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Much To Say](https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc) | 2:35 |
 | 50 | [The Symphony of Fxxkboys](https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [adagio](https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T) | 3:15 |
 
-Snapshot ID: `AAAAAJf4enQt0d0O2V19uDbClC8NVhey`
+Snapshot ID: `AAAAAPFv9L95L0cB67aSzc20KzYoD8Rk`

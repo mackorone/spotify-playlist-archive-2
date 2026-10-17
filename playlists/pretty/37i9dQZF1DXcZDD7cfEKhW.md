@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,332,790 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,332,486 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 32 | [Unstoppable \- R3HAB Remix](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Unstoppable \(R3HAB Remix\)](https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz) | 2:42 |
 | 33 | [Love Again \- Imanbek Remix](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Love Again \(Imanbek Remix\)](https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7) | 3:34 |
 | 34 | [Say Yes To Heaven \- Anyma Remix](https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Say Yes To Heaven \(Anyma Remix\)](https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq) | 3:42 |
-| 35 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 |
-| 36 | [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 |
-| 37 | [Close To Me \- Solo](https://open.spotify.com/track/6ptB0Im3hvvsnijvml9e7a) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Close To Me \(Solo\)](https://open.spotify.com/album/2mdwvBOoAyI5v17eJW9Nds) | 3:02 |
+| 35 | [Close To Me \- Solo](https://open.spotify.com/track/6ptB0Im3hvvsnijvml9e7a) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Close To Me \(Solo\)](https://open.spotify.com/album/2mdwvBOoAyI5v17eJW9Nds) | 3:02 |
+| 36 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 |
+| 37 | [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 |
 | 38 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 |
 | 39 | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \- Radio Edit](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \[Radio Edit\]](https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY) | 3:49 |
 | 40 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Me & U \- Sammy Virji Remix](https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Me & U \(Sammy Virji Remix\)](https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3) | 3:21 |
 | 75 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
 
-Snapshot ID: `AAAAAF37Kz1HXI4RH/r4yB7IHxZmAJKn`
+Snapshot ID: `AAAAAJZfNMyuJdljoZeGbSrwVGu6YrGi`

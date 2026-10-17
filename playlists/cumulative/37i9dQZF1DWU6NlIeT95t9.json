@@ -458,7 +458,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184000,
       "name": "Bhool Nahi",
       "url": "https://open.spotify.com/track/7a0nFCjGdRWZUkEwDvdtSn"
@@ -633,6 +633,28 @@
     },
     {
       "album": {
+        "name": "chasing you",
+        "url": "https://open.spotify.com/album/3MZNrl2OzyuecRPqzO979b"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "chasing you",
+      "url": "https://open.spotify.com/track/4FKxdXC4Du5HCZRy3pWAet"
+    },
+    {
+      "album": {
         "name": "Cold Hours",
         "url": "https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck"
       },
@@ -652,6 +674,28 @@
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/5lEbJMllnPcCbHPShDZhve"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258259,
+      "name": "COLOURS",
+      "url": "https://open.spotify.com/track/0tNnrhUuZOmBJ4mzVHYjvb"
     },
     {
       "album": {
@@ -1236,6 +1280,32 @@
       "duration_ms": 148444,
       "name": "HICO",
       "url": "https://open.spotify.com/track/62ImsjOLrem5iMw29NvaSr"
+    },
+    {
+      "album": {
+        "name": "THE DREAM",
+        "url": "https://open.spotify.com/album/3VTPt4yNthlHw9WNCVJY2B"
+      },
+      "artists": [
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161428,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/3JpOFomARAC6jpjvskUS9I"
     },
     {
       "album": {
@@ -3029,6 +3099,32 @@
     },
     {
       "album": {
+        "name": "Shabnam | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/6c4Dv3U3Sf325JaOQsOddD"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195963,
+      "name": "Shabnam | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/17WwR2B3eh8jJ8dII4oh9d"
+    },
+    {
+      "album": {
         "name": "Shola",
         "url": "https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N"
       },
@@ -3462,6 +3558,70 @@
       "duration_ms": 225120,
       "name": "Udh Chaliye",
       "url": "https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI"
+    },
+    {
+      "album": {
+        "name": "WASTED",
+        "url": "https://open.spotify.com/album/2cLii93QG7J7w3DHMiwcyG"
+      },
+      "artists": [
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "WASTED",
+      "url": "https://open.spotify.com/track/2KtIu2BonbDSi3tZKDxePU"
+    },
+    {
+      "album": {
+        "name": "DESIGNERR",
+        "url": "https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "Keeya Keys",
+          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+        },
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "WAY 2 BLESSED",
+      "url": "https://open.spotify.com/track/29HQK9KaBISDRNtqBncbMj"
     },
     {
       "album": {

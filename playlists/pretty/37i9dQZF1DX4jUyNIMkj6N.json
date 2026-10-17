@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 225418,
+  "num_followers": 225434,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEohKOrD/1bARXAH2WVITnH/xWDI",
+  "snapshot_id": "AAAAACn9//uGtPjEQi7k7689tkYk/eBk",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:52",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-10-15 22:00:52",
       "album": {
-        "name": "Deliver Me From Trying",
-        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Deliver Me From Trying",
-      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
         "name": "To Know A Girl",
         "url": "https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 121744,
       "name": "To Know A Girl",
       "url": "https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37"
+    },
+    {
+      "added_at": "2026-10-15 22:00:52",
+      "album": {
+        "name": "Deliver Me From Trying",
+        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Deliver Me From Trying",
+      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
     },
     {
       "added_at": "2026-10-15 22:00:52",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-10-15 22:00:52",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 152874,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
+    },
+    {
+      "added_at": "2026-10-15 22:00:52",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
     },
     {
       "added_at": "2026-10-15 22:00:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-15 22:00:52",
       "album": {
-        "name": "Bonnie",
-        "url": "https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 180364,
       "name": "UFO",
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+    },
+    {
+      "added_at": "2026-10-15 22:00:52",
+      "album": {
+        "name": "Bonnie",
+        "url": "https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde"
     },
     {
       "added_at": "2026-10-15 22:00:52",

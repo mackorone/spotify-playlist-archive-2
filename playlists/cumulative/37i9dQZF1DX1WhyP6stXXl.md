@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Tate McRae
 
-2,697 songs - 5 day 17 hr 49 min
+2,698 songs - 5 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [Enjoy The Ride](https://open.spotify.com/track/2qMTF1e33MMMhSjQNWJh1E) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Enjoy The Ride](https://open.spotify.com/album/1lew1EfwVHcfSnA441E1Ln) | 2:42 | 2025-04-17 | 2025-05-16 |
 | [Enough](https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Enough](https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk) | 3:30 | 2024-07-11 | 2024-08-09 |
 | [Enough](https://open.spotify.com/track/31Vgt1wmpMibaBwxwRqN7o) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Enough](https://open.spotify.com/album/2rOLqtX6jxsBtoXx6rwpat) | 2:52 | 2025-01-23 | 2025-02-14 |
+| [Entre les deux](https://open.spotify.com/track/0PeEcvbMI819SFKntAKEq1) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Entre les deux](https://open.spotify.com/album/5r8hqdlmEB4cKVC2JoVzGB) | 2:30 | 2026-10-16 |  |
 | [Envy You](https://open.spotify.com/track/2EqilHSWpV8vXoSXYTkMUD) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Envy You](https://open.spotify.com/album/56GrQE9986O5T67ZyNHsP2) | 2:35 | 2024-09-26 | 2024-10-25 |
 | [EPA](https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [EPA](https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ) | 3:22 | 2026-05-15 | 2026-06-12 |
 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-08-01 | 2024-08-30 |
@@ -1397,6 +1398,7 @@
 | [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 | 2026-04-09 | 2026-05-08 |
 | [lie to me](https://open.spotify.com/track/762QbgsEwLAQ2ev76EXLrs) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [lie to me](https://open.spotify.com/album/6LF6dA9L155MBeBdreL184) | 2:51 | 2026-04-09 | 2026-05-08 |
 | [lie to me](https://open.spotify.com/track/5F4u0KRlJBHJxdIL8Vrr4O) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [lie to me](https://open.spotify.com/album/1ACejWvOFCPS5KsdvFbSjb) | 2:54 | 2026-04-30 | 2026-05-30 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-16 |  |
 | [Life at First Sight](https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Life at First Sight](https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J) | 3:21 | 2024-06-28 | 2024-07-19 |
 | [Life Or Death](https://open.spotify.com/track/2HDnZE6HlMSmkKJEMXHM2f) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Life Or Death](https://open.spotify.com/album/4UqOm5M6Q2M01wSl15nlTx) | 3:24 | 2025-07-10 | 2025-08-09 |
 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-27 | 2025-03-28 |
@@ -2428,7 +2430,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-10 |
 | [Toy Gun](https://open.spotify.com/track/0OXVPuuyCU3Wih7xObJ4HO) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Toy Gun](https://open.spotify.com/album/6FlDkhHiDKhNeInRIdPng1) | 3:14 | 2026-09-10 | 2026-10-09 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-31 | 2025-11-28 |
-| [Track 11](https://open.spotify.com/track/0PeEcvbMI819SFKntAKEq1) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Entre les deux](https://open.spotify.com/album/5r8hqdlmEB4cKVC2JoVzGB) | 0:00 | 2026-10-16 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-08-07 |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-10-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-02-14 |

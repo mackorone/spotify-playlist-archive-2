@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,993 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,100 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 39 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
 | 40 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
 | 41 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
-| 42 | [Rolling Out the Red Carpet](https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 2:05 |
-| 43 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
+| 42 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
+| 43 | [Rolling Out the Red Carpet](https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 2:05 |
 | 44 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
 | 45 | [one day](https://open.spotify.com/track/72eNA0R1yKAWOH8Z599i47) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC), [Grimzlee](https://open.spotify.com/artist/2cjwLVLbN1d5WaMZg5Em2g), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [one day](https://open.spotify.com/album/5zY67Arwn1TAUgkvmLpWf3) | 2:34 |
 | 46 | [Atlantis](https://open.spotify.com/track/3p0yOrPChxUXZQgIUg4OLZ) | [Dreams They Have Stolen](https://open.spotify.com/artist/3pvmmwd6f0zBP0Fkp6X4dU), [Artifer](https://open.spotify.com/artist/5DZaSqMnJ9V5KDQVZhns5n) | [Atlantis](https://open.spotify.com/album/7zNKFmUNZ6yAzsYqv0Habc) | 4:02 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 51 | [I'd stay forever](https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa) | 4:31 |
 | 52 | [Die On The Cross Of The Martyr](https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Scott LePage](https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0) | [...And Everything In Between](https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8) | 4:30 |
 | 53 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
-| 54 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
-| 55 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
-| 56 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 54 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
+| 55 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 56 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
 | 57 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 |
 | 58 | [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 |
 | 59 | [Ghosts](https://open.spotify.com/track/33QpFUeut0hAVQ8dqhwsCM) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Homecoming](https://open.spotify.com/album/2vrDdwbqzL9edJ53azSCn6) | 1:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 99 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
 | 100 | [Outside](https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY) | 3:25 |
 
-Snapshot ID: `AAAAAMVa0ASYMddIx6GA08LKhSZDSDa9`
+Snapshot ID: `AAAAACrMR84HUL0/ynFE8K3D2O95XbMy`

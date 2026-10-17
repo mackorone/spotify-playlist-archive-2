@@ -4,7 +4,7 @@
 
 > zu dieser sonnigen playlist kann man nur viben
 
-676 songs - 1 day 8 hr 47 min
+676 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-08-01 | 2025-09-25 |
 | [LET ME BE](https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30) | [LET ME BE](https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op) | 3:09 | 2026-03-27 | 2026-04-02 |
 | [Let me love you](https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Let me love you](https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX) | 2:47 | 2023-08-23 | 2023-12-12 |
+| [Libera](https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Margaridas](https://open.spotify.com/artist/2s7Kara3RovkRHclzCt9jn) | [Luso](https://open.spotify.com/album/214sHCmITqZqhAr6lzSSda) | 4:55 | 2026-10-15 |  |
 | [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 | 2023-11-08 | 2024-01-18 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-25 | 2025-06-05 |
 | [Like This](https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Like This](https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7) | 2:52 | 2024-03-27 | 2024-05-23 |
@@ -607,7 +608,6 @@
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-30 | 2025-02-08 |
 | [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 | 2026-03-18 | 2026-05-08 |
 | [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2024-12-30 | 2025-02-08 |
-| [Track 5](https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU) | [Luso](https://open.spotify.com/album/214sHCmITqZqhAr6lzSSda) | 0:00 | 2026-10-15 |  |
 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 | 2026-03-20 | 2026-08-07 |
 | [Trap Queen](https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF) | 3:42 | 2025-04-02 | 2025-11-19 |
 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 | 2024-03-15 | 2024-10-04 |

@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-570 songs - 1 day 16 hr 21 min
+571 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [High Heels](https://open.spotify.com/track/7KesmZG74pZzj69FUC57HK) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:09 | 2020-10-30 | 2022-03-18 |
 | [Hoboken](https://open.spotify.com/track/1jp41tll6761L9Q8PtqAab) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Hoboken](https://open.spotify.com/album/2eCVft4UJb36r2UeBnXM0G) | 3:42 | 2023-04-14 | 2025-03-01 |
 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 | 2023-09-02 |
-| [How Great Thou Art](https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [How Great Thou Art](https://open.spotify.com/album/0CTZlCuXV7d50WlqFSxZ5S) | 4:29 | 2026-09-18 |  |
+| [How Great Thou Art](https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [How Great Thou Art](https://open.spotify.com/album/0CTZlCuXV7d50WlqFSxZ5S) | 4:29 | 2026-09-18 | 2026-10-17 |
 | [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 | 2023-03-25 |
 | [Hub City Jam](https://open.spotify.com/track/1qSjM7DY7vgc2EcFJJyl2N) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Hub City Jam](https://open.spotify.com/album/0NAhhMdZDZ1p454HhztrIi) | 4:09 | 2023-06-30 | 2026-06-06 |
 | [I Can Let Go Now \- Instrumental Version](https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Steve Tavaglione](https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4) | [I Can Let Go Now](https://open.spotify.com/album/2uXOfbXLXLOWOWRW7SrGl1) | 3:50 | 2020-10-30 | 2022-02-28 |
@@ -305,6 +305,7 @@
 | [Living Inside Myself](https://open.spotify.com/track/1BWIZEEJVbE0nkbGtVgkbg) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Authentic Life](https://open.spotify.com/album/0dwwTaGfMvpCOv7Ikgo8Uq) | 4:20 | 2021-01-29 | 2022-03-18 |
 | [Living Out Loud](https://open.spotify.com/track/1Q1nRtRd98S6tXW3IWkNB2) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Living Out Loud](https://open.spotify.com/album/5XW3CWsPobrM7nItWAO2ym) | 4:23 | 2021-04-23 | 2022-03-18 |
 | [Look Both Ways](https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Look Both Ways](https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj) | 4:43 | 2022-10-07 | 2023-04-29 |
+| [Lost Without You](https://open.spotify.com/track/0kAq0wmIIsNPrk51n07F7x) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [My Inspiration Vol.3](https://open.spotify.com/album/1DJcwPSIGv8zCk93v7f1iF) | 4:12 | 2026-10-16 |  |
 | [LOVE AGAIN \- Instrumental](https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP) | [Smooth Jazz All Stars](https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi) | [Smooth Jazz Renditions of Daniel Caesar \(Instrumental\)](https://open.spotify.com/album/3VKiW7p1ekczui9eA0kZqK) | 3:05 | 2023-05-05 | 2025-05-10 |
 | [LOVE AGAIN \- Instrumental](https://open.spotify.com/track/6aw0UNb9YaocftqAwT4RTe) | [Smooth Jazz All Stars](https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi) | [Smooth Jazz Renditions of Daniel Caesar \(Instrumental\)](https://open.spotify.com/album/7KBY1S3EupqrUJzgTlx5iC) | 3:05 | 2023-05-05 | 2024-04-19 |
 | [Love Can't Wait](https://open.spotify.com/track/0ugbqA6rUHf5UtJYyfedmE) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Love Can't Wait](https://open.spotify.com/album/1J5IOuZKF7GYZr1nsASil0) | 4:14 | 2024-04-12 | 2026-04-25 |

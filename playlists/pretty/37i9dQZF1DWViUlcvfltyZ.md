@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🥁 GIIN in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,226 likes - 102 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,238 likes - 102 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 101 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
 | 102 | [Villa](https://open.spotify.com/track/2DNrCPimliGqfMHNTs5PDZ) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [Villa](https://open.spotify.com/album/13bbVV3gIvdNGwxVGgqJUZ) | 4:28 |
 
-Snapshot ID: `AAAAAHDhOyfv4LUmt17w13hJMitUdDub`
+Snapshot ID: `AAAAAH4yjP1T3lmKSoduVyyFc72V6AQA`

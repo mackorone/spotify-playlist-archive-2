@@ -4,7 +4,7 @@
 
 > from your FYP and beyond\. Cover: Drake
 
-1,713 songs - 3 day 10 hr 20 min
+1,714 songs - 3 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [16](https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:36 | 2021-10-29 | 2022-04-29 |
 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 | 2023-11-03 | 2024-01-20 |
 | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/track/44Go9rmuqrzTS2dYJMT6ee) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/album/0dEpwUIoXY3qhmkJ0OatS1) | 3:02 | 2023-12-01 | 2023-12-09 |
-| [1v1](https://open.spotify.com/track/0FVfZ5OSoHjqYC2II0YdGb) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [1v1](https://open.spotify.com/album/1bKGyVXrDP6DC20QOldWQg) | 3:06 | 2026-10-02 |  |
+| [1v1](https://open.spotify.com/track/0FVfZ5OSoHjqYC2II0YdGb) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [1v1](https://open.spotify.com/album/1bKGyVXrDP6DC20QOldWQg) | 3:06 | 2026-10-02 | 2026-10-17 |
 | [2 Hard 4 The Radio](https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:03 | 2026-05-15 |  |
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2023-02-10 | 2024-08-03 |
 | [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/track/7nfkuao1AhviRSUU5BXpYQ) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/album/7cBXapGzVCQsld2gtyhCBG) | 2:39 | 2024-09-06 | 2026-01-31 |
@@ -45,6 +45,7 @@
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-24 | 2025-02-15 |
 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 | 2023-09-29 | 2025-02-08 |
 | [6\-7](https://open.spotify.com/track/4yeaLItxF75bCI5KraoQcg) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [6\-7](https://open.spotify.com/album/6A6ecn2V1HauLX2Z57Mcud) | 1:28 | 2026-02-20 | 2026-02-28 |
+| [60 mgs](https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Last Laugh \[archive tape\]](https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8) | 2:05 | 2026-10-16 |  |
 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 | 2024-08-02 | 2024-08-10 |
 | [6ix Times 2Day](https://open.spotify.com/track/3jSS2bSuGnT3uhC9GdoH17) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:47 | 2024-10-04 | 2024-10-22 |
 | [90's Baby](https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:07 | 2024-07-19 | 2024-08-03 |

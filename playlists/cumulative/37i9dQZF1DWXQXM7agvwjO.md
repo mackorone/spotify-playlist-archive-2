@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: DYGL  \(Japan\)
 
-2,891 songs - 7 day 8 hr 45 min
+2,891 songs - 7 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Fever](https://open.spotify.com/track/1IDbSbx3oVWxJWMgfEvrVF) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fever](https://open.spotify.com/album/3igdXi7jszTM3PMnm19PGp) | 4:33 | 2025-10-13 | 2026-01-23 |
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-03-23 | 2023-05-19 |
 | [Field of Flowers](https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Calla](https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z) | 4:09 | 2023-11-09 | 2023-12-01 |
+| [FIG For Dummies](https://open.spotify.com/track/7GGOKe8Pn1jVzNIw3MzAc8) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Little Miss Matched](https://open.spotify.com/album/75JSLtDKrPyrfmrNEWTaNC) | 2:39 | 2026-10-15 |  |
 | [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-22 | 2025-01-31 |
 | [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 | 2024-12-12 | 2025-01-18 |
 | [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 | 2026-09-14 |  |
@@ -2323,7 +2324,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [Track 1](https://open.spotify.com/track/7GGOKe8Pn1jVzNIw3MzAc8) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Little Miss Matched](https://open.spotify.com/album/75JSLtDKrPyrfmrNEWTaNC) | 0:00 | 2026-10-15 |  |
 | [Transgressions \- feat\. Rol3ert](https://open.spotify.com/track/6ReWKgFx1yyQMDumJgHcm4) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Transgressions \(feat\. Rol3ert\)](https://open.spotify.com/album/7tJLjRb9Y6YyfgF40LwrTA) | 3:11 | 2026-09-17 | 2026-10-09 |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 270669,
+  "num_followers": 270665,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7ip4G2mMO6OGNO/oFdQXs1DUwy",
+  "snapshot_id": "AAAAAKEFNgHWx7luZ6LkF7Qy6N2r7pHT",
   "tracks": [
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "December '04",
+        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 206798,
+      "name": "December '04",
+      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "December '04",
-        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
       "artists": [
         {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 206798,
-      "name": "December '04",
-      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1107,22 +1123,6 @@
       "duration_ms": 203767,
       "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
-        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
-      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1195,6 +1195,38 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 193379,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Merry Xmas Everybody",
+        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Merry Xmas Everybody",
+      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -1215,22 +1247,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Carol Of The Bells",
-        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 193379,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 181464,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Merry Xmas Everybody",
-        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "Merry Xmas Everybody",
-      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     }
   ],
   "unique_name": "Indie Christmas",

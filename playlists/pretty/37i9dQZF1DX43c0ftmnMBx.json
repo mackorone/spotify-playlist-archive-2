@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 275627,
+  "num_followers": 275656,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLguITn7DBDGNeUnx6DsiHffyxV",
+  "snapshot_id": "AAAAAAXh9j1l8AaeutDBPe73oJSSKIcg",
   "tracks": [
     {
       "added_at": "2024-08-23 04:59:00",
@@ -417,7 +417,7 @@
       "artists": [
         {
           "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "url": "https://open.spotify.com/artist/2uZNA1DfYyziMiXc5WcCMO"
         }
       ],
       "duration_ms": 204733,
@@ -561,7 +561,7 @@
       "artists": [
         {
           "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "url": "https://open.spotify.com/artist/2uZNA1DfYyziMiXc5WcCMO"
         }
       ],
       "duration_ms": 172440,
@@ -685,7 +685,7 @@
       "artists": [
         {
           "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "url": "https://open.spotify.com/artist/2uZNA1DfYyziMiXc5WcCMO"
         }
       ],
       "duration_ms": 216040,
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Quiero Ser Tu Amor",
+        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Quiero Ser Tu Amor",
-        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachata A Su Tiempo",
-        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/6B52JCVw2F1ZjlkNjzq2Rc"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Obl\u00edgame",
         "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 233706,
       "name": "Me Duele La Cabeza",
       "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Bachata A Su Tiempo",
+        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/6B52JCVw2F1ZjlkNjzq2Rc"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Devu\u00e9lveme Mi Libertad",
-        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Mujer de las Mil Batallas",
-      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 229613,
       "name": "La Luz De Mis Ojos",
       "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Devu\u00e9lveme Mi Libertad",
+        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Mujer de las Mil Batallas",
+      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Cari\u00f1o de Mi Vida",
-        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/3ADP6XJ2xLhB5gVrrEsr8T"
       },
       "artists": [
         {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
         }
       ],
-      "duration_ms": 220125,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
+      "duration_ms": 301917,
+      "name": "Siento Que Te Quiero",
+      "url": "https://open.spotify.com/track/3MNc65D2Eh3dxu61nFSZJT"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Cari\u00f1o de Mi Vida",
+        "url": "https://open.spotify.com/album/4v0Eu7lgsBfVLDMHMQOuYE"
+      },
+      "artists": [
+        {
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Indetenibles",
         "url": "https://open.spotify.com/album/3GZNzx7s4rnSySH0QEQsDL"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 234573,
       "name": "Si Estuvieras Aqu\u00ed",
       "url": "https://open.spotify.com/track/3fp3F20HDFbnuCd24MfmTL"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 344893,
-      "name": "Me Voy De Ti",
-      "url": "https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO"
     }
   ],
   "unique_name": "Bachat\u00e9ame",

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: a\u5b50 Ako",
-  "num_followers": 65773,
+  "num_followers": 65803,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHC4PpzkJr4hpaasetvLMWWzwzFq",
+  "snapshot_id": "AAAAABOSRI314JzuTYKH1LlUUhDB3HKk",
   "tracks": [
     {
       "added_at": "2026-10-13 17:17:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "\u9082\u9005",
-        "url": "https://open.spotify.com/album/2UrsJLgByqUlC5AYKzgVe6"
-      },
-      "artists": [
-        {
-          "name": "Masaharu Fukuyama",
-          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
-        }
-      ],
-      "duration_ms": 277297,
-      "name": "\u9082\u9005",
-      "url": "https://open.spotify.com/track/3QjPbxETp7rxj3pXqnweQp"
-    },
-    {
-      "added_at": "2026-10-13 17:17:35",
-      "album": {
         "name": "\u3042\u306a\u305f",
         "url": "https://open.spotify.com/album/4nD6nvQJymUJZDEGyW8j8Y"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "F.A.C.E.",
-        "url": "https://open.spotify.com/album/6pHEI6UgQrfYkCW6K0irla"
+        "name": "\u9082\u9005",
+        "url": "https://open.spotify.com/album/2UrsJLgByqUlC5AYKzgVe6"
       },
       "artists": [
         {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "Masaharu Fukuyama",
+          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
         }
       ],
-      "duration_ms": 149960,
-      "name": "F.A.C.E.",
-      "url": "https://open.spotify.com/track/4O8lyvjoKzrkkEmKiMkv5Q"
+      "duration_ms": 277297,
+      "name": "\u9082\u9005",
+      "url": "https://open.spotify.com/track/3QjPbxETp7rxj3pXqnweQp"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -807,6 +791,22 @@
       "duration_ms": 220285,
       "name": "\u30dd\u30c3\u30d7\u30b9 (Prod. n-buna from \u30e8\u30eb\u30b7\u30ab)",
       "url": "https://open.spotify.com/track/7z4LDuqnHFy9ownckU6uvf"
+    },
+    {
+      "added_at": "2026-10-13 17:17:35",
+      "album": {
+        "name": "F.A.C.E.",
+        "url": "https://open.spotify.com/album/6pHEI6UgQrfYkCW6K0irla"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 149960,
+      "name": "F.A.C.E.",
+      "url": "https://open.spotify.com/track/4O8lyvjoKzrkkEmKiMkv5Q"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
+        "name": "\u3074",
+        "url": "https://open.spotify.com/album/6htax44G8KzZYKG4GMcs6q"
+      },
+      "artists": [
+        {
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "\u3074",
+      "url": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH"
+    },
+    {
+      "added_at": "2026-10-13 17:17:35",
+      "album": {
         "name": "Clover",
         "url": "https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 142000,
       "name": "satellite",
       "url": "https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X"
-    },
-    {
-      "added_at": "2026-10-13 17:17:35",
-      "album": {
-        "name": "\u3074",
-        "url": "https://open.spotify.com/album/6htax44G8KzZYKG4GMcs6q"
-      },
-      "artists": [
-        {
-          "name": "NANAOAKARI",
-          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "\u3074",
-      "url": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "\u672a\u7df4",
-        "url": "https://open.spotify.com/album/0Vyg3XcMMLX4hMwt623pnq"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 268166,
-      "name": "\u672a\u7df4",
-      "url": "https://open.spotify.com/track/1HVlyt8IlcIywNj3XdPjbB"
-    },
-    {
-      "added_at": "2026-10-13 17:17:35",
-      "album": {
         "name": "\u30ec\u30f3\u30c0\u30ed\u30fc\u30b0",
         "url": "https://open.spotify.com/album/0my7T4mmRpxlRtkdtNu10l"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 159000,
       "name": "\u30ec\u30f3\u30c0\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/6LG5RZFhnSEIGw0w7e7N8w"
+    },
+    {
+      "added_at": "2026-10-13 17:17:35",
+      "album": {
+        "name": "\u672a\u7df4",
+        "url": "https://open.spotify.com/album/0Vyg3XcMMLX4hMwt623pnq"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 268166,
+      "name": "\u672a\u7df4",
+      "url": "https://open.spotify.com/track/1HVlyt8IlcIywNj3XdPjbB"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "Circusm",
-        "url": "https://open.spotify.com/album/5L0zXvIwg5I42aB0CiKNmP"
-      },
-      "artists": [
-        {
-          "name": "Fukase",
-          "url": "https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA"
-        }
-      ],
-      "duration_ms": 228453,
-      "name": "twilight",
-      "url": "https://open.spotify.com/track/3UU1EJtx6Sa5OPPGlPuJh0"
-    },
-    {
-      "added_at": "2026-10-13 17:17:35",
-      "album": {
         "name": "\u97f3\u9280\u6cb3",
         "url": "https://open.spotify.com/album/0SffVNIIoXjhHbXDu3OrnK"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 196106,
       "name": "\u547d\u306e\u5bbf\u308a",
       "url": "https://open.spotify.com/track/1ahGhafDi9PUz1usWEqgiN"
+    },
+    {
+      "added_at": "2026-10-13 17:17:35",
+      "album": {
+        "name": "Circusm",
+        "url": "https://open.spotify.com/album/5L0zXvIwg5I42aB0CiKNmP"
+      },
+      "artists": [
+        {
+          "name": "Fukase",
+          "url": "https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "twilight",
+      "url": "https://open.spotify.com/track/3UU1EJtx6Sa5OPPGlPuJh0"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "Suki",
-        "url": "https://open.spotify.com/album/1n9HSY9iSLtIBK1PG5BI1B"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Suki",
-      "url": "https://open.spotify.com/track/3r7jM6T97NvJmt5gS9Cmy3"
-    },
-    {
-      "added_at": "2026-10-13 17:17:35",
-      "album": {
         "name": "\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
         "url": "https://open.spotify.com/album/0SqbHQ3SlC2BggRyKhoBq7"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "SUMMER BUG",
-        "url": "https://open.spotify.com/album/7kqLpKMwG8cnCqtNziMRqK"
+        "name": "Suki",
+        "url": "https://open.spotify.com/album/1n9HSY9iSLtIBK1PG5BI1B"
       },
       "artists": [
         {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 215333,
-      "name": "SUMMER BUG",
-      "url": "https://open.spotify.com/track/0ZEk9KauJiNCNxAClievYd"
+      "duration_ms": 230600,
+      "name": "Suki",
+      "url": "https://open.spotify.com/track/3r7jM6T97NvJmt5gS9Cmy3"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "zokkou",
-        "url": "https://open.spotify.com/album/5iYgJIgcbEcRZfKLHodraf"
+        "name": "SUMMER BUG",
+        "url": "https://open.spotify.com/album/7kqLpKMwG8cnCqtNziMRqK"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
         }
       ],
-      "duration_ms": 204473,
-      "name": "zokkou",
-      "url": "https://open.spotify.com/track/1ia6O0Sl2oakFEbcjoUjX0"
+      "duration_ms": 215333,
+      "name": "SUMMER BUG",
+      "url": "https://open.spotify.com/track/0ZEk9KauJiNCNxAClievYd"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2026-10-13 17:17:35",
       "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/5d6x4Ehgb9pjVOmlhvJ7d9"
+        "name": "zokkou",
+        "url": "https://open.spotify.com/album/5iYgJIgcbEcRZfKLHodraf"
       },
       "artists": [
         {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
         }
       ],
-      "duration_ms": 233985,
-      "name": "18",
-      "url": "https://open.spotify.com/track/2Rcx24MhQiYVpOIVT8KrxA"
+      "duration_ms": 204473,
+      "name": "zokkou",
+      "url": "https://open.spotify.com/track/1ia6O0Sl2oakFEbcjoUjX0"
     },
     {
       "added_at": "2026-10-13 17:17:35",
@@ -1603,6 +1587,22 @@
       "duration_ms": 346508,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u5168\u90e8\u5927\u4e08\u592b - Spotify BLUE? It's Okay Ver.",
       "url": "https://open.spotify.com/track/6WCbKz2JtOheAkjTmLQphe"
+    },
+    {
+      "added_at": "2026-10-13 17:17:35",
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/5d6x4Ehgb9pjVOmlhvJ7d9"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "duration_ms": 233985,
+      "name": "18",
+      "url": "https://open.spotify.com/track/2Rcx24MhQiYVpOIVT8KrxA"
     },
     {
       "added_at": "2026-10-13 17:17:35",

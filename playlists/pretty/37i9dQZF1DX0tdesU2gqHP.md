@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 
 > The best videos from the world of pop! Cover: Ayra Starr & ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,829 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,842 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 | 24 | [Fireflies](https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Fireflies](https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR) | 3:02 |
 | 25 | [Kiss The Ring](https://open.spotify.com/track/3uiUQodPW2SoJkzg7J6Bfd) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Kiss The Ring](https://open.spotify.com/album/3jhhlghXYx4hPeWRaptUXm) | 3:11 |
 | 26 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
-| 27 | [When In Rome](https://open.spotify.com/track/0CfLsX61bPV9E4pjjvwNZw) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [When In Rome](https://open.spotify.com/album/04Z2u8LxyvHF76JFKv5Tbn) | 3:04 |
+| 27 | [when in rome](https://open.spotify.com/track/0CfLsX61bPV9E4pjjvwNZw) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [when in rome](https://open.spotify.com/album/04Z2u8LxyvHF76JFKv5Tbn) | 3:04 |
 | 28 | [CATastrophe](https://open.spotify.com/track/0xSTDHbnDl5Gw40TRphtoN) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [CATastrophe](https://open.spotify.com/album/143CgCeRXOHN5w8SZZjEeF) | 2:17 |
 | 29 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |
 | 30 | [Joy.](https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 | 99 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
 | 100 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 
-Snapshot ID: `AAAAAPSrDAz+4XxSOC4KvoJ8JhjGrJUL`
+Snapshot ID: `AAAAAIr7coAnTkJNsU4dWk1CnZbNWT9e`

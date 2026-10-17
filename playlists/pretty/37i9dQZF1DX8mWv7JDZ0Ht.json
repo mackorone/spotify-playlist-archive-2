@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Fran Gil",
-  "num_followers": 433107,
+  "num_followers": 433103,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJnw+yAEO+DhIdefiXRILFHdN7Xf",
+  "snapshot_id": "AAAAAN7uWCL8QQQC87DXDCKy+m3BYddC",
   "tracks": [
     {
       "added_at": "2026-10-15 19:28:33",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
+        "name": "Pra Ter Fim",
+        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 204177,
+      "name": "Pra Ter Fim",
+      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
         "name": "Atemporal - PART II",
         "url": "https://open.spotify.com/album/7bh7n8MOfnOfSbFcsLdTf6"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 192050,
       "name": "Coisas da Vida",
       "url": "https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
-        "name": "Pra Ter Fim",
-        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 204177,
-      "name": "Pra Ter Fim",
-      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Ser Feliz de Novo",
-        "url": "https://open.spotify.com/album/6NBYiHXhbEP5aI2UOgkGku"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 227737,
-      "name": "Ser Feliz de Novo",
-      "url": "https://open.spotify.com/track/1xISuPa7zvMKXHnTUoVOaQ"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
         "name": "ESTRANGEIRA",
         "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 194880,
       "name": "Medo do Escuro",
       "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
+        "name": "Ser Feliz de Novo",
+        "url": "https://open.spotify.com/album/6NBYiHXhbEP5aI2UOgkGku"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 227737,
+      "name": "Ser Feliz de Novo",
+      "url": "https://open.spotify.com/track/1xISuPa7zvMKXHnTUoVOaQ"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -647,26 +647,22 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Eu s\u00f3 quero um xod\u00f3",
-        "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
       "artists": [
         {
-          "name": "Vers\u00e3o brasileira",
-          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
         },
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
         }
       ],
-      "duration_ms": 119340,
-      "name": "Eu s\u00f3 quero um xod\u00f3",
-      "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -687,22 +683,26 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+        "name": "Eu s\u00f3 quero um xod\u00f3",
+        "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
       "artists": [
         {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+          "name": "Vers\u00e3o brasileira",
+          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
         },
         {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
         }
       ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+      "duration_ms": 119340,
+      "name": "Eu s\u00f3 quero um xod\u00f3",
+      "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
+        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 189073,
+      "name": "M\u00e1gica - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
         "name": "NORTEAR",
         "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 189073,
-      "name": "M\u00e1gica - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
         "name": "Improv\u00e1vel",
         "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 176862,
       "name": "Improv\u00e1vel",
       "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
+        "name": "Decifrar",
+        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Decifrar",
+      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -883,22 +899,6 @@
       "duration_ms": 185166,
       "name": "Outro \u00c1udio Meu",
       "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
-        "name": "Decifrar",
-        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Decifrar",
-      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
     },
     {
       "added_at": "2026-10-15 19:28:33",

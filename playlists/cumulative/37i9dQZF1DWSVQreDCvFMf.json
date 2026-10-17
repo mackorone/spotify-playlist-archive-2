@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 280501,
       "name": "Dapit Hapon",
       "url": "https://open.spotify.com/track/2fLtn1PrNgT8BEVEdZBIom"
@@ -7224,6 +7224,24 @@
       "duration_ms": 216520,
       "name": "Ikaw Lang Naman",
       "url": "https://open.spotify.com/track/4szuUf7n5YBxHDQTEXgZP3"
+    },
+    {
+      "album": {
+        "name": "IKAW NA PALA",
+        "url": "https://open.spotify.com/album/1Vn3jjy3XFso8HQyfJpCgb"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197823,
+      "name": "IKAW NA PALA",
+      "url": "https://open.spotify.com/track/1EsVDGzgMtuCea8TJOYIbu"
     },
     {
       "album": {

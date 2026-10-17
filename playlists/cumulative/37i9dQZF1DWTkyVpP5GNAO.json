@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Dale a Dios toda la gloria y alabanza! Foto: MISSION MUSICA y Generaci\u00f3n 12",
+  "description": "Dale a Dios toda la gloria y alabanza! Foto: Barak",
   "name": "Alabanzas y Gloria",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 320200,
       "name": "Agradecido Estoy",
       "url": "https://open.spotify.com/track/685UVMXJp4Ne1Veo8S88wN"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 319897,
       "name": "Avivamiento - En Vivo Desde Per\u00fa",
       "url": "https://open.spotify.com/track/6o6p2jE3RPT1S9FqiLFEvL"
@@ -646,6 +646,24 @@
       "duration_ms": 874702,
       "name": "BENDITO AMOR - LIVE",
       "url": "https://open.spotify.com/track/3RO0NmSkm3vbx8j9QG2VVi"
+    },
+    {
+      "album": {
+        "name": "Bondadoso Dios (Live at Church)",
+        "url": "https://open.spotify.com/album/0ERXT6Aa8rSeO5N4BZOLXL"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456891,
+      "name": "Bondadoso Dios - (Live at Church)",
+      "url": "https://open.spotify.com/track/7dmFy8OlfW2Gb2ekz6attk"
     },
     {
       "album": {
@@ -1121,6 +1139,32 @@
     },
     {
       "album": {
+        "name": "Miel San Marcos 25 A\u00f1os",
+        "url": "https://open.spotify.com/album/2s6fgKcVw6MOQIiR0o3q2k"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403019,
+      "name": "Cristo - Guatemala",
+      "url": "https://open.spotify.com/track/4A9Kutzz4fDtP5d7zG1ExL"
+    },
+    {
+      "album": {
         "name": "CRISTO VEN",
         "url": "https://open.spotify.com/album/0jgo8xiXNpxIJCWKwkcAI5"
       },
@@ -1136,6 +1180,32 @@
       "duration_ms": 787026,
       "name": "Cristo Ven",
       "url": "https://open.spotify.com/track/3HDlbCkTDba3goCB9hZUJp"
+    },
+    {
+      "album": {
+        "name": "Cuando Yo Alabo",
+        "url": "https://open.spotify.com/album/0UwaSkyH80mPIlGiZVg3U9"
+      },
+      "artists": [
+        {
+          "name": "Lairos",
+          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+        },
+        {
+          "name": "The Maestro",
+          "url": "https://open.spotify.com/artist/3OeoIvKHe9piEdiqPgHX4S"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270576,
+      "name": "Cuando Yo Alabo",
+      "url": "https://open.spotify.com/track/3QL7FfDQxJcU8tK0OtGQpU"
     },
     {
       "album": {
@@ -1562,7 +1632,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 366554,
       "name": "Dios De Milagros - En Vivo Desde M\u00e9xico",
       "url": "https://open.spotify.com/track/1v2lsV9SYQc0KbRkOLEJzk"
@@ -1966,7 +2036,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 970154,
       "name": "El Rey Gobierna Todo - Live at Church",
       "url": "https://open.spotify.com/track/7m7ZbXWjwlrUlvx6ensvM2"
@@ -2324,7 +2394,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 289782,
       "name": "Escucharte Hablar",
       "url": "https://open.spotify.com/track/2UAPhZb5igxDU3N7X9vpzy"
@@ -2579,6 +2649,28 @@
     },
     {
       "album": {
+        "name": "Here Comes The Church - Second Service",
+        "url": "https://open.spotify.com/album/2Jm86EHV5qpI88soXUABuZ"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288641,
+      "name": "Gracias Por La Cruz (with Sarai Rivera)",
+      "url": "https://open.spotify.com/track/1eceYP6fk330lJkrFtee9q"
+    },
+    {
+      "album": {
         "name": "Gracias, Se\u00f1or",
         "url": "https://open.spotify.com/album/1grv9kyTHNQyLdlkrExSj5"
       },
@@ -2797,6 +2889,28 @@
     },
     {
       "album": {
+        "name": "Heme Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3GInOybWRXxTQkA8xNZa3Q"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298609,
+      "name": "Heme Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7yytLAitqIOKnOmkhBh1Xc"
+    },
+    {
+      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -2888,6 +3002,28 @@
       "duration_ms": 321697,
       "name": "Imagen",
       "url": "https://open.spotify.com/track/3QC9A5ecYuy6tVWdvaFimS"
+    },
+    {
+      "album": {
+        "name": "Indudablemente",
+        "url": "https://open.spotify.com/album/0Kp6OGjir0ub9DEsgyVqqf"
+      },
+      "artists": [
+        {
+          "name": "RDV Worship",
+          "url": "https://open.spotify.com/artist/4NRanUXF5g53E3LNCh9TD5"
+        },
+        {
+          "name": "Fede Eyherabide",
+          "url": "https://open.spotify.com/artist/0zAxqDbdCyUOgJBLBbqREp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376188,
+      "name": "Indudablemente",
+      "url": "https://open.spotify.com/track/00dndRbe3zflL9N1zJlRbJ"
     },
     {
       "album": {
@@ -4130,7 +4266,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 253057,
       "name": "Mi Rey Siempre Ser\u00e1s",
       "url": "https://open.spotify.com/track/0dGwd2FdpxJ7VC45WW7VNf"
@@ -4174,10 +4310,36 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 470581,
       "name": "Mil Gracias",
       "url": "https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K"
+    },
+    {
+      "album": {
+        "name": "Mira Lo Que Ha Hecho Dios",
+        "url": "https://open.spotify.com/album/3qLl1pAfqfJPfcOq3tC9vn"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Emely Williams",
+          "url": "https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312930,
+      "name": "Mira Lo Que Ha Hecho Dios",
+      "url": "https://open.spotify.com/track/4rYBj8PbdNVRZ9BxvC9YVo"
     },
     {
       "album": {
@@ -4835,6 +4997,40 @@
     },
     {
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/0kvSqSMY938nmodq2k5pq0"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283833,
+      "name": "Pa'lante",
+      "url": "https://open.spotify.com/track/3NLK5CBJ9wl8NyPkmhs3AM"
+    },
+    {
+      "album": {
         "name": "Padre Eterno",
         "url": "https://open.spotify.com/album/0uANiJQnvLaOP20oaky8Bt"
       },
@@ -5366,7 +5562,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 665454,
       "name": "Que Vuelva Lo Santo Al Altar",
       "url": "https://open.spotify.com/track/4CaukGrux3GEkAss6N96hM"
@@ -6023,6 +6219,28 @@
     },
     {
       "album": {
+        "name": "Sea Como Sea",
+        "url": "https://open.spotify.com/album/3G9W4gR0sSr3V54arY3QCs"
+      },
+      "artists": [
+        {
+          "name": "Kabed",
+          "url": "https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g"
+        },
+        {
+          "name": "Dianette Mendez",
+          "url": "https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1111946,
+      "name": "Sea Como Sea",
+      "url": "https://open.spotify.com/track/7mH1dG2mYwxvLng1urk6jo"
+    },
+    {
+      "album": {
         "name": "Se\u00f1or, Te Necesito",
         "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
       },
@@ -6512,7 +6730,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 195377,
       "name": "Toda La Tierra",
       "url": "https://open.spotify.com/track/1StFeUFM9kUU8YNPz5E2py"
@@ -6538,7 +6756,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 426768,
       "name": "Toda lengua y toda naci\u00f3n",
       "url": "https://open.spotify.com/track/7peTmtAnLDHaraSDxe2tS4"
@@ -6648,7 +6866,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 402637,
       "name": "Todo Va Estar Bien - Live In Rep\u00fablica Dominicana",
       "url": "https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY"
@@ -6692,7 +6910,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 347213,
       "name": "Tu Buscas Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6XonBqS0a0tjLgqeC4fcHi"
@@ -6732,6 +6950,28 @@
       "duration_ms": 396917,
       "name": "Tu Fidelidad - Live",
       "url": "https://open.spotify.com/track/7poc9yLeIPIGtf5Gzeov5o"
+    },
+    {
+      "album": {
+        "name": "Tu Gracia Me Basta",
+        "url": "https://open.spotify.com/album/2UKjkqYYmrizDz6o5eQ6t8"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        },
+        {
+          "name": "Chloe Edgecombe",
+          "url": "https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495221,
+      "name": "Tu Gracia Me Basta",
+      "url": "https://open.spotify.com/track/3E4B9AKIjlNJOSjDem3Hi7"
     },
     {
       "album": {
@@ -7022,7 +7262,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 709345,
       "name": "Uso Honorable",
       "url": "https://open.spotify.com/track/5AMkLucBMPOjdXNicxEUNe"
@@ -7062,7 +7302,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 284707,
       "name": "Vamos A Cantar",
       "url": "https://open.spotify.com/track/4uFpzCg9cdWpwXQC4g9CIq"
@@ -7120,7 +7360,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 499186,
       "name": "Vencido - Live",
       "url": "https://open.spotify.com/track/3qxlmfkJIQI6iLoncBQa8A"

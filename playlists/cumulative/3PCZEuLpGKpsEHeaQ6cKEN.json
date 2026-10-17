@@ -26801,6 +26801,24 @@
     },
     {
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/2butoupcYhsMrCOWpM54nw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/1Sllk89KwnDugKZOCNT5Rx"
       },

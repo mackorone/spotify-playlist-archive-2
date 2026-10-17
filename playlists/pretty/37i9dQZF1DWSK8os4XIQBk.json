@@ -1,12 +1,12 @@
 {
   "description": "Ella Langley, and the biggest hits in country music.",
-  "num_followers": 556453,
+  "num_followers": 556417,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGacuzI/z3IDEbfjEtyFe+pZbdea",
+  "snapshot_id": "AAAAALLD0TpW5jSv/o1vn+kr2u4HjmmC",
   "tracks": [
     {
       "added_at": "2026-10-02 15:39:43",
@@ -43,6 +43,26 @@
       "duration_ms": 197655,
       "name": "Be By You",
       "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
+    },
+    {
+      "added_at": "2026-10-16 04:03:25",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-02 15:39:43",
@@ -631,22 +651,6 @@
       "duration_ms": 184613,
       "name": "Hurtin' Songs",
       "url": "https://open.spotify.com/track/0T0tw43OEpIBjIQFFBdoCg"
-    },
-    {
-      "added_at": "2026-10-02 15:39:43",
-      "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/304hLSMc8ZSHvMsh9YS4Jk"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Broken Window Serenade",
-      "url": "https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v"
     },
     {
       "added_at": "2026-10-02 15:39:43",

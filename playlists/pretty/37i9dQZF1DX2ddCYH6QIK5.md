@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: IVANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,219 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,246 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Brauch Dich Nicht](https://open.spotify.com/track/1Um35IfeTi2tQw1TIavJaK) | [VANY](https://open.spotify.com/artist/438hcLBzFiTYwOffWeBkWj) | [Brauch Dich Nicht](https://open.spotify.com/album/5rIz3jjk5GPUBvPuuhPYsF) | 2:50 |
 | 50 | [closure](https://open.spotify.com/track/5efpdNo3JIAV4mnlEzQTFF) | [nae](https://open.spotify.com/artist/5mz7JMAZx7XZg8UGnbs2x3) | [closure](https://open.spotify.com/album/0tBb5esOIO8nQ0j6qGNyn3) | 3:43 |
 
-Snapshot ID: `AAAAAJ/HggDfICYmWK8SmKjGpqcwrxlH`
+Snapshot ID: `AAAAAHWGpj0YfMw1L7wFYIvigcUEKixB`

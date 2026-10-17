@@ -1,61 +1,13 @@
 {
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Troye Sivan",
-  "num_followers": 34027,
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Olivia Rodrigo, Chappell Roan",
+  "num_followers": 34069,
   "original_name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBGqIdbkYSp5tSQoipwtU+lgT8p",
+  "snapshot_id": "AAAAAIOVy53Vnjdh14A3qYruoNpnIwoP",
   "tracks": [
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5iTekfXxLiU55JUINVxeeQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "FF",
-      "url": "https://open.spotify.com/track/2tTsOuRT1QUS9pNJ2vXgEK"
-    },
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
@@ -75,24 +27,44 @@
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R"
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 171352,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2026-10-16 12:06:18",
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
       },
       "artists": [
         {
@@ -100,25 +72,25 @@
           "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-10-09 10:24:18",
+      "added_at": "2026-10-16 12:06:18",
       "album": {
-        "name": "Day and Night (Continued)",
-        "url": "https://open.spotify.com/album/4mu0jAPhEFU1f8KYltS3g0"
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 180686,
-      "name": "Love Depressed",
-      "url": "https://open.spotify.com/track/7dob6HYh8OhMqUXdklI9l5"
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
       "added_at": "2026-10-09 10:24:18",
@@ -137,24 +109,20 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-10-09 10:24:18",
+      "added_at": "2026-10-16 12:06:18",
       "album": {
-        "name": "Don\u2019t Chart (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
+        "name": "Unloveu",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Don\u2019t Chart (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
+      "duration_ms": 232527,
+      "name": "Unloveu",
+      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
     },
     {
       "added_at": "2026-10-09 10:24:18",
@@ -173,20 +141,72 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2026-10-09 10:24:18",
+      "added_at": "2026-10-16 12:06:18",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 210665,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-10-09 10:24:18",
+      "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-10-16 12:06:18",
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "added_at": "2026-10-09 10:24:18",
@@ -203,6 +223,106 @@
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-10-16 12:06:18",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 222478,
+      "name": "Lasso The Moon",
+      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
+    },
+    {
+      "added_at": "2026-10-09 10:24:18",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "added_at": "2026-10-16 12:06:18",
+      "album": {
+        "name": "bow wow",
+        "url": "https://open.spotify.com/album/3ly3B4bXtuWage0TCWNJXt"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        },
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 149355,
+      "name": "bow wow",
+      "url": "https://open.spotify.com/track/3YlQvJ5tFm99e7wrvWQTAk"
+    },
+    {
+      "added_at": "2026-10-09 10:24:18",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "added_at": "2026-10-09 10:24:18",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2026-10-09 10:24:18",
+      "album": {
+        "name": "Day and Night (Continued)",
+        "url": "https://open.spotify.com/album/4mu0jAPhEFU1f8KYltS3g0"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 180686,
+      "name": "Love Depressed",
+      "url": "https://open.spotify.com/track/7dob6HYh8OhMqUXdklI9l5"
     },
     {
       "added_at": "2026-10-09 10:24:18",
@@ -239,8 +359,8 @@
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
@@ -248,97 +368,41 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "Less than a Lover",
-        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 145680,
-      "name": "Less than a Lover",
-      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "CLICK",
-        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5iTekfXxLiU55JUINVxeeQ"
       },
       "artists": [
         {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 159095,
-      "name": "CLICK",
-      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "Frequency Of Love",
-        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 278629,
-      "name": "That's Why I Love You (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "Draw You Out",
-        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "The Hunger Games",
-          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
-        }
-      ],
-      "duration_ms": 255984,
-      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/2tTsOuRT1QUS9pNJ2vXgEK"
     },
     {
       "added_at": "2026-10-09 10:24:18",
@@ -359,62 +423,54 @@
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
+      "duration_ms": 171352,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
     },
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "Groove Therapy",
-        "url": "https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb"
+        "name": "Don\u2019t Chart (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
       },
       "artists": [
         {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 166841,
-      "name": "She\u2019s Gonna Break My Heart",
-      "url": "https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3"
+      "duration_ms": 164200,
+      "name": "Don\u2019t Chart (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
     },
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "Small Town",
-        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        },
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 169981,
-      "name": "Small Town",
-      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+      "duration_ms": 210665,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
     },
     {
       "added_at": "2026-10-09 10:24:18",
@@ -439,42 +495,6 @@
     {
       "added_at": "2026-10-09 10:24:18",
       "album": {
-        "name": "RHYNO (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "RHYNO (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
       },
@@ -487,22 +507,6 @@
       "duration_ms": 186720,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
-    },
-    {
-      "added_at": "2026-10-09 10:24:18",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-10-09 10:24:18",

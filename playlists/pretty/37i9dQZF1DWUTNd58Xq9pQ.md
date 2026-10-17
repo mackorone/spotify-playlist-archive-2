@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Sign up for False Idols at Drumsheds <a href="https://register.broadwicklive.com/false\-idols\-london?ref=dsweb">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,868 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,871 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 16 | [Be Good](https://open.spotify.com/track/1W9d86MctMM8Hh76tWoGlS) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Be Good](https://open.spotify.com/album/1kkGfY3iZn6H43PFmRE3Nl) | 6:33 |
 | 17 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 |
 | 18 | [Muschi Muschi](https://open.spotify.com/track/3pqvIzV7DIS9orbtKlHAal) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [SLUT BOPZ VOL\. I](https://open.spotify.com/album/1bFC5vkhBXMF7Xz36e87rw) | 3:02 |
-| 19 | [The Daisy](https://open.spotify.com/track/0aegbRrg4oVF2kSMZwmnq8) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:38 |
-| 20 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
+| 19 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
+| 20 | [The Daisy](https://open.spotify.com/track/0aegbRrg4oVF2kSMZwmnq8) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:38 |
 | 21 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 |
 | 22 | [Act Bad](https://open.spotify.com/track/0ZZNZF3dZOtomDZiZLaMA7) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw) | [Maktub](https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh) | 4:47 |
 | 23 | [Hard Being Hot](https://open.spotify.com/track/5le32T6ZGpevk1rouFD6bT) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Hard Being Hot](https://open.spotify.com/album/7fW3f1aeQ6e9xnpItY9c5J) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 49 | [Moonlight](https://open.spotify.com/track/2flLSFm3o1HbThLXabDoum) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Moonlight](https://open.spotify.com/album/76tdnPDtupBVJiQPN67GTp) | 2:48 |
 | 50 | [Brat](https://open.spotify.com/track/0NVnlAuLfKeOxK0sxvJFKI) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ), [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Brat/Nasty](https://open.spotify.com/album/19gN9RaefCtvZoGUZc8YLC) | 2:32 |
 
-Snapshot ID: `AAAAAM5xLNeH9/dvy64w+jva103etaI8`
+Snapshot ID: `AAAAAGd3IBYfzgbBKGbkHVr0FW9y3yjI`

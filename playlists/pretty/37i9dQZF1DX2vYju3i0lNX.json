@@ -1,12 +1,12 @@
 {
   "description": "Mellow jazz for focus or unwinding.",
-  "num_followers": 1063336,
+  "num_followers": 1063435,
   "original_name": "Chilled Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJSz/b00+qredvq4c0gQ9oyHmDl",
+  "snapshot_id": "AAAAAICTFrXQCrpArgaxlwf6ewMrl74j",
   "tracks": [
     {
       "added_at": "2026-10-05 13:05:54",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/6kj0DVybNKiTAAUgpI9Z7H"
     },
     {
+      "added_at": "2026-10-16 08:44:04",
+      "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/03O6VfawDfS7MWVWCAQcHi"
+      },
+      "artists": [
+        {
+          "name": "Northbound Collective",
+          "url": "https://open.spotify.com/artist/0YZDRkFCZXUfQnZ13eBlqm"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/2g9P9lZx8AGCDbSKHXkYf0"
+    },
+    {
       "added_at": "2026-10-05 13:05:54",
       "album": {
         "name": "Eyes in Disguise",
@@ -103,6 +119,22 @@
       "duration_ms": 183713,
       "name": "Eyes in Disguise",
       "url": "https://open.spotify.com/track/46mSg6mP5utgig3ZlqxS3M"
+    },
+    {
+      "added_at": "2026-10-16 08:44:04",
+      "album": {
+        "name": "Chapter Three",
+        "url": "https://open.spotify.com/album/40InfJE1rAiRDK2U1xd0mY"
+      },
+      "artists": [
+        {
+          "name": "The Backridges",
+          "url": "https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia"
+        }
+      ],
+      "duration_ms": 192145,
+      "name": "Chapter Three",
+      "url": "https://open.spotify.com/track/3rDlSEtGsZvLBlqGhqnHpM"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -151,22 +183,6 @@
       "duration_ms": 174627,
       "name": "Where the light remains",
       "url": "https://open.spotify.com/track/2uKb3Q2OfbfHMI8dtVXWnP"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/2m1gssiOoE3sfylf1U90BU"
-      },
-      "artists": [
-        {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
-        }
-      ],
-      "duration_ms": 167477,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/3pD0feYnlhlGudk14U0a8s"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -299,18 +315,18 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "Spring Is Here Again",
-        "url": "https://open.spotify.com/album/4SmjYPZ6qipX4O70yz28hb"
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/2m1gssiOoE3sfylf1U90BU"
       },
       "artists": [
         {
-          "name": "Velvet Trio",
-          "url": "https://open.spotify.com/artist/3D7SabjKd1fq8a4qIEJ5dY"
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
         }
       ],
-      "duration_ms": 193097,
-      "name": "Spring Is Here Again",
-      "url": "https://open.spotify.com/track/7Cfxo7qHeDKJA1oup1IUd7"
+      "duration_ms": 167477,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/3pD0feYnlhlGudk14U0a8s"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -395,22 +411,6 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "As It Falls",
-        "url": "https://open.spotify.com/album/0ZoQBsYZdTqaZUtO93HLRR"
-      },
-      "artists": [
-        {
-          "name": "Derek Hines Trio",
-          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
-        }
-      ],
-      "duration_ms": 244383,
-      "name": "As It Falls",
-      "url": "https://open.spotify.com/track/5E2Ek6AU8gOPlCJjd813Io"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
         "name": "One six? Two fives!",
         "url": "https://open.spotify.com/album/1LHWxsmhplfdfpLabGIUJG"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 195649,
       "name": "Velvet Moon",
       "url": "https://open.spotify.com/track/0eYRyDyhscrw0CUqIrbrQB"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "Spring Is Here Again",
+        "url": "https://open.spotify.com/album/4SmjYPZ6qipX4O70yz28hb"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trio",
+          "url": "https://open.spotify.com/artist/3D7SabjKd1fq8a4qIEJ5dY"
+        }
+      ],
+      "duration_ms": 193097,
+      "name": "Spring Is Here Again",
+      "url": "https://open.spotify.com/track/7Cfxo7qHeDKJA1oup1IUd7"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -535,6 +551,22 @@
       "duration_ms": 157212,
       "name": "Undernoise",
       "url": "https://open.spotify.com/track/2ZLmw6YjstLFdGZz0wJ7Fx"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "As It Falls",
+        "url": "https://open.spotify.com/album/0ZoQBsYZdTqaZUtO93HLRR"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "duration_ms": 244383,
+      "name": "As It Falls",
+      "url": "https://open.spotify.com/track/5E2Ek6AU8gOPlCJjd813Io"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -1099,22 +1131,6 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "So, So Hungry for You",
-        "url": "https://open.spotify.com/album/5lOlPgwT0JfoMsHRyratkD"
-      },
-      "artists": [
-        {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
-        }
-      ],
-      "duration_ms": 305568,
-      "name": "So, So Hungry for You",
-      "url": "https://open.spotify.com/track/2Xl7lgmTmeTyt5AueuGOdF"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
         "name": "Let's Be In Love",
         "url": "https://open.spotify.com/album/50KonU2PiDTqvRJ53eHYHA"
       },
@@ -1303,6 +1319,22 @@
       "duration_ms": 259264,
       "name": "Hallow",
       "url": "https://open.spotify.com/track/1sn2vE2M6sYl767e5zscQ2"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "So, So Hungry for You",
+        "url": "https://open.spotify.com/album/5lOlPgwT0JfoMsHRyratkD"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "duration_ms": 305568,
+      "name": "So, So Hungry for You",
+      "url": "https://open.spotify.com/track/2Xl7lgmTmeTyt5AueuGOdF"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -2395,22 +2427,6 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "17 by the Look",
-        "url": "https://open.spotify.com/album/58xc7wyt8BxJEUu3HP13eI"
-      },
-      "artists": [
-        {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
-        }
-      ],
-      "duration_ms": 156281,
-      "name": "17 by the Look",
-      "url": "https://open.spotify.com/track/266aPE3eOF299KryetKBFJ"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
         "name": "My Wish",
         "url": "https://open.spotify.com/album/0MsM4zn5zQaK4nEBOqiF8L"
       },
@@ -2523,22 +2539,6 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "Solemnly Promising",
-        "url": "https://open.spotify.com/album/208MoAQUMS1dIncuScpudd"
-      },
-      "artists": [
-        {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
-        }
-      ],
-      "duration_ms": 215197,
-      "name": "Solemnly Promising",
-      "url": "https://open.spotify.com/track/2lxEx2C8RgzzOcauGXH43k"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
         "name": "Again and again",
         "url": "https://open.spotify.com/album/5yaFNgGYleoWI1XjqDnzXY"
       },
@@ -2583,6 +2583,22 @@
       "duration_ms": 161985,
       "name": "One to Another",
       "url": "https://open.spotify.com/track/4EuhB3CCebxISrpsTDgQ1E"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "17 by the Look",
+        "url": "https://open.spotify.com/album/58xc7wyt8BxJEUu3HP13eI"
+      },
+      "artists": [
+        {
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+        }
+      ],
+      "duration_ms": 156281,
+      "name": "17 by the Look",
+      "url": "https://open.spotify.com/track/266aPE3eOF299KryetKBFJ"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -2727,6 +2743,22 @@
       "duration_ms": 173803,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0V9MVTYjOPjzIrbjU8XrVd"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "Solemnly Promising",
+        "url": "https://open.spotify.com/album/208MoAQUMS1dIncuScpudd"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "duration_ms": 215197,
+      "name": "Solemnly Promising",
+      "url": "https://open.spotify.com/track/2lxEx2C8RgzzOcauGXH43k"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -2935,22 +2967,6 @@
       "duration_ms": 236333,
       "name": "Autumnal Ashes",
       "url": "https://open.spotify.com/track/7ehKsGUV1lmTQRFwLSHrrI"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
-        "name": "Not the worst case",
-        "url": "https://open.spotify.com/album/17jYGmbWi1DrBSBwWImTqZ"
-      },
-      "artists": [
-        {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
-        }
-      ],
-      "duration_ms": 229950,
-      "name": "Not the worst case",
-      "url": "https://open.spotify.com/track/56SvGKtz5pxpNjC5YfoBnY"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -3271,22 +3287,6 @@
       "duration_ms": 214186,
       "name": "Chasing Raindrops",
       "url": "https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
-        "name": "All I See In You",
-        "url": "https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM"
-      },
-      "artists": [
-        {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
-        }
-      ],
-      "duration_ms": 235050,
-      "name": "All I See In You",
-      "url": "https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP"
     }
   ],
   "unique_name": "Chilled Jazz",

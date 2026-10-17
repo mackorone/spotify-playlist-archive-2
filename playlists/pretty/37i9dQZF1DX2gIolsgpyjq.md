@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: mikey
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,784 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,793 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [euro trash girl 2](https://open.spotify.com/track/5dPir4tJQil6mBosEJEzdf) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB), [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV) | [euro trash girl 2](https://open.spotify.com/album/6eYHnfSwei7Lk4ycR72GZL) | 2:36 |
 | 50 | [Wear My Wolf](https://open.spotify.com/track/1PigX8jJKJ4qLBMtJD9Nq2) | [Monkeys with Internet](https://open.spotify.com/artist/0bW2q6QMjW62k7vT3DfW2X) | [Wear My Wolf](https://open.spotify.com/album/4MRzZXQMHq6RgB2f1Ginkq) | 3:30 |
 
-Snapshot ID: `AAAAAFIaZPy9a+E+ALURwpsLFmx0BxoT`
+Snapshot ID: `AAAAAFH2sKpeeajvQl7drrz5VO2YeN2x`

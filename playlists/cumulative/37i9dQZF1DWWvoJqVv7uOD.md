@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Noah Kahan
 
-924 songs - 2 day 2 hr 29 min
+926 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 | 2026-09-18 |  |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-02-04 | 2023-03-04 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-05-14 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-16 |  |
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-05-12 | 2024-04-13 |
 | [Life On The Moon](https://open.spotify.com/track/41da7D1IzeYqiFtLriTmdU) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/3zwVhRR9amRs0gBU2mEZ6a) | 2:56 | 2023-09-22 | 2023-12-02 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2023-04-22 |
@@ -535,7 +536,7 @@
 | [Love The Hell Out Of You](https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:25 | 2024-08-16 | 2025-09-21 |
 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 | 2025-02-14 | 2026-03-28 |
 | [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-08 | 2025-11-29 |
-| [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-09-05 |  |
+| [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-09-05 | 2026-10-17 |
 | [Lust Not Love](https://open.spotify.com/track/5koVy7p8bh0YcwUCUuu3op) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [Words From My Bedroom](https://open.spotify.com/album/0EYR5dwivh17s1lgiEoD7N) | 3:07 | 2022-11-11 | 2023-01-21 |
 | [Mad At You](https://open.spotify.com/track/3AiL2GpNg6Id6hTfgUvt2p) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Mad At You](https://open.spotify.com/album/1tfeWytB6j3m6yl9OA05mT) | 2:45 | 2022-05-27 | 2022-06-11 |
 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 | 2023-11-10 | 2024-10-26 |
@@ -599,7 +600,7 @@
 | [Never Change](https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:20 | 2023-01-20 | 2023-03-19 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-04 | 2023-04-22 |
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-21 | 2023-07-01 |
-| [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 | 2025-09-05 |  |
+| [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 | 2025-09-05 | 2026-10-17 |
 | [New York Confident](https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [New York Confident](https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2) | 2:27 | 2026-05-29 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2025-01-24 | 2025-05-24 |
 | [No Angels](https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 3:28 | 2024-03-15 | 2024-04-13 |
@@ -768,6 +769,7 @@
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-10 | 2024-05-18 |
 | [Still Have Love For You](https://open.spotify.com/track/2Lt4bMUuokKyC4r1puqefa) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/173IyxzOdHpenFKug42nGh) | 3:05 | 2023-10-24 | 2023-12-02 |
 | [Still Have Love For You](https://open.spotify.com/track/4XRk2TxSMtCUczDYnW9vzY) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/6owtgnHhaat8agT8cIrfVF) | 3:05 | 2023-08-25 | 2023-11-04 |
+| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-10-16 |  |
 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 | 2023-06-09 | 2023-09-30 |
 | [strangers again](https://open.spotify.com/track/38MltIuVQE5LeWoSCV7Wxz) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [strangers again](https://open.spotify.com/album/5LQsCqGtTU2k4WreRYF7vG) | 2:25 | 2024-08-16 | 2025-10-05 |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-10 | 2024-09-07 |

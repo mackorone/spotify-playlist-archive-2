@@ -1,12 +1,12 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 358966,
+  "num_followers": 359026,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALDARc+LgH430sLEWt8toYwFDzcx",
+  "snapshot_id": "AAAAAC/YyLADD+Xn4G4Cp1MbMF1pD4Pm",
   "tracks": [
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Miss It (At All)",
         "url": "https://open.spotify.com/album/1PpIp6eVoghdTRyTD20gdu"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 127480,
       "name": "Miss It (At All)",
       "url": "https://open.spotify.com/track/2nzuxOVjKggQgQG23AlwBu"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Higher Ground (Part 1)",
+        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Industrial Strain",
+      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Hole",
         "url": "https://open.spotify.com/album/04qteXG2NESXxT2sykzNz8"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 212413,
       "name": "Hole",
       "url": "https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Higher Ground (Part 1)",
-        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Industrial Strain",
-      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
       },
@@ -1815,26 +1835,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Echo (Deluxe Version)",
         "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
@@ -1851,6 +1851,26 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Badland Bandits",
+        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Stehreo",
+          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Badland Bandits",
+      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1879,26 +1899,6 @@
       "duration_ms": 254600,
       "name": "Rage",
       "url": "https://open.spotify.com/track/4efvHnBxgvaLqIUuMcnMCk"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Badland Bandits",
-        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        },
-        {
-          "name": "Stehreo",
-          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Badland Bandits",
-      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Till I Met You",
-        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 178846,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Till I Met You",
+        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
+        }
+      ],
+      "duration_ms": 195211,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2123,22 +2123,18 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+        "name": "City of Angels",
+        "url": "https://open.spotify.com/album/32BE5k6jCYrxWE5ht9Rscb"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
         }
       ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
+      "duration_ms": 170816,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/7puNbyB05EeQtuECaar90v"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2179,54 +2175,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "City of Angels",
-        "url": "https://open.spotify.com/album/32BE5k6jCYrxWE5ht9Rscb"
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
       },
       "artists": [
         {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 170816,
-      "name": "City of Angels",
-      "url": "https://open.spotify.com/track/7puNbyB05EeQtuECaar90v"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "AUTOPSY BUFFET",
-        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 134400,
-      "name": "AUTOPSY BUFFET",
-      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2247,6 +2211,42 @@
       "duration_ms": 156863,
       "name": "Kore",
       "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "AUTOPSY BUFFET",
+        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "AUTOPSY BUFFET",
+      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2291,6 +2291,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Take It Back",
         "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
       },
@@ -2331,26 +2351,6 @@
       "duration_ms": 214666,
       "name": "STOMPERS",
       "url": "https://open.spotify.com/track/2x0sxWxnaELYhUlDv6DSv3"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2455,6 +2455,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Echos",
+          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
+        }
+      ],
+      "duration_ms": 246193,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "SO FAR SO FAKE",
         "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
       },
@@ -2475,26 +2495,6 @@
       "duration_ms": 260571,
       "name": "SO FAR SO FAKE",
       "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
-      },
-      "artists": [
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
-          "name": "Echos",
-          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
-        }
-      ],
-      "duration_ms": 246193,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
     },
     {
       "added_at": "2026-09-18 15:22:42",

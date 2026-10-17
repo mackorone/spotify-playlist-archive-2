@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Jessie Mazin
 
-1,159 songs - 2 day 14 hr 34 min
+1,165 songs - 2 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 | 2026-04-24 | 2026-07-18 |
 | [Backseat \(All I Got\)](https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Backseat \(All I Got\)](https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR) | 2:33 | 2022-09-16 | 2022-12-24 |
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-14 | 2022-04-02 |
-| [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 | 2026-06-26 |  |
+| [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 | 2026-06-26 | 2026-10-17 |
 | [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-07-28 | 2023-08-12 |
 | [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 | 2024-04-19 |
 | [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 | 2025-08-22 | 2025-11-26 |
@@ -230,6 +230,7 @@
 | [Convertible in the Rain](https://open.spotify.com/track/1fZ8mppAUR8G9DHzDd8nID) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Convertible in the Rain](https://open.spotify.com/album/4Ef3H9zyvX7nmOCnagOjpp) | 3:52 | 2022-11-04 | 2022-12-31 |
 | [Convince Myself](https://open.spotify.com/track/23s1QNkajTtC5kRbMCrWNE) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Convince Myself](https://open.spotify.com/album/2qnVx4SGCy5qlwefWAT1ig) | 3:02 | 2023-09-15 | 2024-02-24 |
 | [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 | 2023-11-10 | 2024-03-02 |
+| [Cool On You](https://open.spotify.com/track/2whnzJ9ltpgvitX57bLTqz) | [Josephine Genais](https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC) | [Cool On You](https://open.spotify.com/album/7ravH6PuMD7kFjS1AS6QRC) | 3:55 | 2026-10-16 |  |
 | [COOL!](https://open.spotify.com/track/3MaXsz7owIstIvophs0dm3) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [COOL!](https://open.spotify.com/album/6tfaqFACwNtp8MjzubATFT) | 2:56 | 2024-03-08 | 2024-08-10 |
 | [Copout](https://open.spotify.com/track/3yrh9twRfAvbpwHw73qt92) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Copout](https://open.spotify.com/album/3rpxPx8NubbxauNXDTsFh8) | 2:38 | 2023-07-14 | 2023-09-19 |
 | [Copy Paste](https://open.spotify.com/track/0zOiWjLmortIZJiPM8MU9T) | [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Copy Paste](https://open.spotify.com/album/0ABkG7Us2D7La7plEig2ir) | 2:54 | 2024-10-11 | 2025-03-15 |
@@ -380,6 +381,8 @@
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-02 |
 | [girl talk](https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [tiny but scary](https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR) | 3:10 | 2024-08-09 | 2025-02-08 |
 | [Girl Who Comes Next](https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Girl Who Comes Next](https://open.spotify.com/album/3t2c2JUGJcBFMyTdbSq64a) | 3:25 | 2023-02-10 | 2023-03-11 |
+| [Girls' Girl](https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Blue Alchemy](https://open.spotify.com/album/14l4lt67zgEYveD4olBc52) | 2:59 | 2026-10-16 |  |
+| [Glad You're Happy](https://open.spotify.com/track/0P8aTiBuqNTtqxgLGv8XhM) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Love You, or Whatever](https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc) | 3:45 | 2026-10-16 |  |
 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 | 2025-09-26 | 2026-02-17 |
 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 | 2022-10-16 |
 | [god has a sense of humor](https://open.spotify.com/track/6HCAaG7XT5DUvrzXHbGnqs) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:50 | 2022-09-09 | 2022-12-24 |
@@ -684,6 +687,7 @@
 | [MAYBE](https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Maybe](https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM) | 3:14 | 2023-12-01 | 2024-08-17 |
 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 | 2024-02-09 | 2024-07-02 |
 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-08-02 | 2025-01-04 |
+| [Mayday \- demo](https://open.spotify.com/track/7445p1aASItE7TjSy6tWn0) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Mayday \(demo\)](https://open.spotify.com/album/2e1jWR6PJ7OlCXetM3zXWW) | 2:52 | 2026-10-16 |  |
 | [Me to You](https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Well Here We Are \- EP](https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s) | 3:03 | 2023-08-11 | 2023-09-16 |
 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 | 2025-08-29 | 2025-11-22 |
 | [mean!](https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [pretty ruthless](https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26) | 3:20 | 2026-07-10 | 2026-09-05 |
@@ -811,6 +815,7 @@
 | [Pretty Clever](https://open.spotify.com/track/2tuokOUfUCdjJ0UMaCHixP) | [Darcy Lane](https://open.spotify.com/artist/2Jp7AC0nIPSgOFOeX6N4Uh) | [Pretty Clever](https://open.spotify.com/album/5NqYGKayOtLVKKUDN3yMDG) | 3:09 | 2025-06-06 | 2025-07-19 |
 | [Pretty People](https://open.spotify.com/track/3mnmpbrInwnPja7LYlc1Ks) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [Pretty People](https://open.spotify.com/album/7l4VSlWK9D63JLHECO69u5) | 2:30 | 2022-01-14 | 2022-04-29 |
 | [pretty when u cry](https://open.spotify.com/track/5XVz2gm474WOD26Q3pp9PA) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [pretty when u cry](https://open.spotify.com/album/5o9b4Ff3zqrviSAtUfFt3w) | 3:38 | 2022-02-04 | 2022-08-06 |
+| [primadonna](https://open.spotify.com/track/7i5F2qBUH6UvG2ZJ8pwtLP) | [Blue](https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja) | [primadonna](https://open.spotify.com/album/3kXlnrMhGhYKHb4y3ALGgj) | 3:40 | 2026-10-16 |  |
 | [Prime Years](https://open.spotify.com/track/3gTtFwxQ5fbAwnbr75LxeV) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [The Summer I Lost My Lover](https://open.spotify.com/album/6LCJc8Rs72aH30ocmWoRaK) | 2:43 | 2023-07-21 | 2023-12-14 |
 | [Priority](https://open.spotify.com/track/3YS2XHzhnFyAEmfQbLIjaM) | [Ellye Lennon](https://open.spotify.com/artist/77rboyrzZ7IKcJWX1raGGM) | [Priority](https://open.spotify.com/album/7lEsXKTCD1OspayrdWKfgQ) | 3:46 | 2022-12-02 | 2023-02-04 |
 | [Problem Child](https://open.spotify.com/track/2QQTrwCupjGoBZYdWyia6v) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Problem Child](https://open.spotify.com/album/3ZSIBw7Q39iiFaPPQFgYrV) | 3:23 | 2024-03-15 | 2024-08-17 |
@@ -1152,6 +1157,7 @@
 | [You Must Be A Miracle](https://open.spotify.com/track/7hEF5DkbYDgUtkfKE9PaH7) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [You Must Be A Miracle](https://open.spotify.com/album/6Hgl1HxWQJVUhizKcVjOCO) | 3:18 | 2026-07-24 |  |
 | [you ruined phoebe bridgers](https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [i \(don't\) know you](https://open.spotify.com/album/3Vyl6gXOqLsiaao9xxUpn7) | 2:46 | 2022-01-14 | 2022-03-12 |
 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 | 2024-12-20 | 2025-02-11 |
+| [You Still Love Me Anyway](https://open.spotify.com/track/7zV2WzbxFaYxC3Uv4LBQwF) | [Ruby Poole](https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o) | [You Still Love Me Anyway](https://open.spotify.com/album/4W1JzgDQTHFnENEJqkoSQd) | 2:59 | 2026-10-16 |  |
 | [you were just drunk](https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [you were just drunk](https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA) | 2:56 | 2025-01-17 | 2025-05-23 |
 | [you were mine](https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX) | 3:41 | 2025-01-17 | 2025-06-07 |
 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-10-07 | 2022-12-10 |

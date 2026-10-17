@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n",
-  "num_followers": 327552,
+  "num_followers": 327642,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJ0Tjdytoz8+T2jXbrd3nXEs/5Q",
+  "snapshot_id": "AAAAAIipTMmX1awIiQlzUpFSi/J1bMqN",
   "tracks": [
     {
       "added_at": "2024-06-12 20:40:05",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
+        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
+        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "La Lola",
+      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 328906,
       "name": "El Duelo (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
-        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
-        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "La Lola",
-      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
     },
     {
       "added_at": "2024-06-12 20:40:05",

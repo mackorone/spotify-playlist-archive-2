@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1416843,
+  "num_followers": 1416972,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAElu6RffswTHibRyyB81aGr0erPx",
+  "snapshot_id": "AAAAAMQMMSIDiw/56ASgj9VjEFNETwLt",
   "tracks": [
     {
       "added_at": "2026-04-05 20:45:13",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 239827,
-      "name": "I Don't Wanna Stop",
-      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 476266,
       "name": "The Day That Never Comes",
       "url": "https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Black Rain (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 239827,
+      "name": "I Don't Wanna Stop",
+      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Shadow Zone",
         "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Primo Victoria (Re-Armed)",
-        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 250720,
-      "name": "Primo Victoria",
-      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -743,6 +727,22 @@
       "duration_ms": 213000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Primo Victoria (Re-Armed)",
+        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Primo Victoria",
+      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -875,8 +875,8 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 316493,
       "name": "Revolution Is My Name",
       "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -955,8 +955,8 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": "2026-04-05 20:45:13",

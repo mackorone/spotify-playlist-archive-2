@@ -802,7 +802,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "La Revoluci\u00f3n - Evolution (International Version)",
+        "url": "https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Besos Mojados",
+      "url": "https://open.spotify.com/track/0cpzO8YjhyR8JfLzfm5cOr"
+    },
+    {
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 204794,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6"
@@ -2536,6 +2554,24 @@
       "duration_ms": 165067,
       "name": "COMO T\u00da",
       "url": "https://open.spotify.com/track/3Frf311vkzSQtLUrtRFgba"
+    },
+    {
+      "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "album": {
@@ -2798,7 +2834,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
@@ -3701,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "album": {
         "name": "Diles",
         "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
       },
@@ -3978,7 +4032,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 163906,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/1bot94AA9sDNpktYCHmN78"
@@ -4074,6 +4128,36 @@
       "duration_ms": 211286,
       "name": "D\u00e9jame Pensar",
       "url": "https://open.spotify.com/track/0rqH7y08F8C8lcVBI8n2Sq"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jate Llevar (Remix)",
+        "url": "https://open.spotify.com/album/4O6gpYuqbMbWa7SbvzbebC"
+      },
+      "artists": [
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "simonpizarro",
+          "url": "https://open.spotify.com/artist/06km6u8PLi9auhDEUAiiuX"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "D\u00e9jate Llevar - Remix",
+      "url": "https://open.spotify.com/track/7sNKMBtIlFzCJQrxcA8qd0"
     },
     {
       "album": {
@@ -4712,7 +4796,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -5774,7 +5858,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 205360,
       "name": "ICE",
       "url": "https://open.spotify.com/track/6F0gdQ7Z1Zxt5Sq0EPt4Qc"
@@ -7632,7 +7716,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -8494,6 +8578,24 @@
       "duration_ms": 245217,
       "name": "Nena Sad Remix",
       "url": "https://open.spotify.com/track/3MDaMg89kr21WgU0ZFFHX7"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "album": {
@@ -10280,7 +10382,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/7CMj1OOS1ho4CPEQTFKzcN"
@@ -12435,6 +12537,24 @@
     },
     {
       "album": {
+        "name": "G\u00e9nesis",
+        "url": "https://open.spotify.com/album/3emn9mTsDGSGG5t9A0w6nj"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201531,
+      "name": "Te Siento Aki",
+      "url": "https://open.spotify.com/track/6FEUA9ZuTFx36RdPCGkemF"
+    },
+    {
+      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/3KRctwAg6GnZEfLTtPPFa2"
       },
@@ -12828,6 +12948,28 @@
       "duration_ms": 169622,
       "name": "Troka",
       "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
+    },
+    {
+      "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Tu Boda",
+      "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"
     },
     {
       "album": {
@@ -13501,6 +13643,24 @@
     },
     {
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
+    },
+    {
+      "album": {
         "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
         "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
       },
@@ -13638,7 +13798,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

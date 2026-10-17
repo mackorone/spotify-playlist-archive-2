@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
-428 songs - 23 hr 33 min
+430 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 | 2026-09-18 |  |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 | 2024-06-15 |
 | [lie](https://open.spotify.com/track/3fuy7iXa4vhVLCqDpqcfS6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 3:34 | 2023-08-15 | 2025-01-19 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2T8ZVV7QlRrsCtXUiAoBuK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:40 | 2026-10-16 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-12-06 | 2023-08-16 |
 | [Little by Little](https://open.spotify.com/track/4kVGV71oxRjr1pgAgbZwRd) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Little by Little](https://open.spotify.com/album/4VwxXvie3oXV5EfxC8nG4t) | 2:58 | 2023-08-28 | 2024-06-15 |
 | [Little Did I Know](https://open.spotify.com/track/5t1o6xvTRq7ZOCqnS1dYPw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Little Did I Know](https://open.spotify.com/album/6JhJcb6Ql2dSQv5mohmwJJ) | 2:37 | 2021-12-06 | 2023-08-16 |
@@ -379,6 +380,7 @@
 | [The Dead Ones](https://open.spotify.com/track/4SY4oS0sRxMErvCxo9xdsk) | [Lydia Kenny](https://open.spotify.com/artist/6qT8Z4I9qTAxpJkvPLM0Fa) | [The Dead Ones](https://open.spotify.com/album/6EYV72DNd5VFhaOXThRcAi) | 3:07 | 2026-09-25 |  |
 | [the dog](https://open.spotify.com/track/5HUW7EfyjG6sy6AnYUDGiA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [best of corook \(so far\)](https://open.spotify.com/album/6fsVvwHc566EXvlryeSp7N) | 2:46 | 2023-08-28 | 2024-06-15 |
 | [The Greatest](https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [The Greatest](https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ) | 3:13 | 2024-06-14 | 2026-07-11 |
+| [The Meds Don't Work](https://open.spotify.com/track/3K8TaROyhFvOOa3TPW6Cj8) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Meds Don't Work](https://open.spotify.com/album/6cXY3j41zT2YM4Y1lDcC8m) | 3:15 | 2026-10-16 |  |
 | [The New Kid](https://open.spotify.com/track/1Ahda2CRcgMBAfKAp9Z7GO) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The New Kid](https://open.spotify.com/album/0Hs5sLHBaGsh9Bn5AjZN0O) | 2:48 | 2023-10-14 | 2024-07-27 |
 | [The Present Moment](https://open.spotify.com/track/1H8Z4zRME4JMr0YOId9Wrg) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [The Thread](https://open.spotify.com/album/6x9IdAz7Br6NnlK7BBJubL) | 3:45 | 2026-07-24 |  |
 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 | 2025-01-31 |  |

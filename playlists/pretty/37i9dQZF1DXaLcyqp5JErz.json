@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 672125,
+  "num_followers": 672183,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL+2fYPNBTKbovrGBIIuMIEYuZ/N",
+  "snapshot_id": "AAAAAMpsPDur2Y10mySyc/EW6wpL4DNG",
   "tracks": [
     {
       "added_at": "2025-10-17 18:07:08",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Ana N\u00f3brega - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 342352,
+      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 319924,
       "name": "Faz Um Milagre em Mim",
       "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Ana N\u00f3brega - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 342352,
-      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc"
     },
     {
       "added_at": "2025-10-17 18:07:08",

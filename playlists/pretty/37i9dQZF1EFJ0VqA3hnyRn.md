@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 743 likes - 288 songs - 16 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 744 likes - 288 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 287 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 | 288 | [Movie](https://open.spotify.com/track/7M3exc7sKObiTQLM5nZDHm) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Graffiti](https://open.spotify.com/album/2BVLHDC0K5kHc4f7pZvNBn) | 4:04 |
 
-Snapshot ID: `AcfCiAAAAABEm00ZXT/kSY0TDKc0gph0`
+Snapshot ID: `AcfIKAAAAAAZb96CPMg0jshxvgXnwGmS`

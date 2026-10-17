@@ -1,12 +1,12 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234058,
+  "num_followers": 234057,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJMZmiE/HNexlYOL+TSLTq9reQQI",
+  "snapshot_id": "AAAAAHnNeVZ1gfNI3eGGcAgrY+iOflXA",
   "tracks": [
     {
       "added_at": "2026-06-18 23:01:00",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 195912,
-      "name": "Spill",
-      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Dinosaur",
@@ -463,6 +447,22 @@
       "duration_ms": 242757,
       "name": "Dinosaur",
       "url": "https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 195912,
+      "name": "Spill",
+      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "yeti",
@@ -737,20 +721,20 @@
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
     },
     {
-      "added_at": "2026-06-18 23:01:00",
+      "added_at": "2026-08-14 13:22:54",
       "album": {
-        "name": "{Awayland}",
-        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
         }
       ],
-      "duration_ms": 223935,
-      "name": "Nothing Arrived",
-      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -771,6 +755,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "{Awayland}",
+        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "Nothing Arrived",
+      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "strongboi",
         "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 243206,
       "name": "flame",
       "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
-    },
-    {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "If I Could",
-        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -815,6 +799,22 @@
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "can we just forget?",
-        "url": "https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG"
-      },
-      "artists": [
-        {
-          "name": "Baileyrp",
-          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
-        }
-      ],
-      "duration_ms": 283255,
-      "name": "can we just forget?",
-      "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
         "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 214549,
       "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
       "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "can we just forget?",
+        "url": "https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG"
+      },
+      "artists": [
+        {
+          "name": "Baileyrp",
+          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
+        }
+      ],
+      "duration_ms": 283255,
+      "name": "can we just forget?",
+      "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Citadel Band",
+        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
+      },
+      "artists": [
+        {
+          "name": "Loney dear",
+          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
+      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "it's a landslide",
         "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Citadel Band",
-        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
-      },
-      "artists": [
-        {
-          "name": "Loney dear",
-          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
-      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "I Can\u2019t Get My Head Around You",
         "url": "https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 209822,
       "name": "Why",
       "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     },
     {
       "added_at": "2026-06-18 23:01:00",

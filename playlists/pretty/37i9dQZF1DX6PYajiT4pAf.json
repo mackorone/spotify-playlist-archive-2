@@ -1,12 +1,12 @@
 {
   "description": "GRECAS, Estopa, Fontaines D.C. con ROSAL\u00cdA,  Nyno Vargas, mafalda cardenal y m\u00e1s novedades de la semana.",
-  "num_followers": 416094,
+  "num_followers": 416535,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBcT4CZyxSstSLr2/ykjGNEwHJE",
+  "snapshot_id": "AAAAABI0p7/wxooB05V+Dk74BeYwF/JF",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:54",
@@ -450,10 +450,14 @@
         {
           "name": "Anni B Sweet",
           "url": "https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 316000,
+      "name": "En mi olvido",
       "url": "https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV"
     },
     {
@@ -570,10 +574,14 @@
         {
           "name": "Lil Mess",
           "url": "https://open.spotify.com/artist/6eUMkeHdqGrQWPBCxGP297"
+        },
+        {
+          "name": "P. Muff",
+          "url": "https://open.spotify.com/artist/0rqurqehCS6w6qlbeLAXdv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 155831,
+      "name": "HAWAIANO",
       "url": "https://open.spotify.com/track/1peetS9DkYHBi7HlLTUwPL"
     },
     {
@@ -847,6 +855,26 @@
       "duration_ms": 222478,
       "name": "Lasso The Moon",
       "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
+    },
+    {
+      "added_at": "2026-10-15 22:01:54",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-15 22:01:54",
@@ -1164,8 +1192,8 @@
           "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 148250,
+      "name": "La H\u00fangara",
       "url": "https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk"
     },
     {
@@ -1284,8 +1312,8 @@
           "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 189096,
+      "name": "Royalties",
       "url": "https://open.spotify.com/track/2HvuTcZ1xqa1lgdSPP7moh"
     },
     {
@@ -1354,10 +1382,18 @@
         {
           "name": "Skip Waiters",
           "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "Serious Klein",
+          "url": "https://open.spotify.com/artist/118HlFjDgUCku033j3YD81"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 195918,
+      "name": "black entertaiNMENT (feat. Serious Klein)",
       "url": "https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6"
     }
   ],

@@ -6922,7 +6922,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 147157,
       "name": "DAL TACCO",
       "url": "https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI"
@@ -12142,6 +12142,28 @@
       "duration_ms": 226863,
       "name": "Karma (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp"
+    },
+    {
+      "album": {
+        "name": "KICHTA LOVA (feat. LILCR)",
+        "url": "https://open.spotify.com/album/4Hlww8NVHkkijLwDaZu7Pf"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        },
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "KICHTA LOVA (feat. LILCR)",
+      "url": "https://open.spotify.com/track/2bnG45ztHV2m26JsN3QyBi"
     },
     {
       "album": {

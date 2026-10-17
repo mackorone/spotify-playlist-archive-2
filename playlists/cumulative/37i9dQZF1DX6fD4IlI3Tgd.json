@@ -2360,10 +2360,32 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 241655,
       "name": "Sufriendo Por Ella",
       "url": "https://open.spotify.com/track/3QUWQm76mjSeF0jkviZume"
+    },
+    {
+      "album": {
+        "name": "Tabaco Camel",
+        "url": "https://open.spotify.com/album/4F6Kf0JvH4BPp2lembgkUm"
+      },
+      "artists": [
+        {
+          "name": "Noise Mafia",
+          "url": "https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS"
+        },
+        {
+          "name": "PETERBLUE",
+          "url": "https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Tabaco Camel",
+      "url": "https://open.spotify.com/track/3HwcjUtuaD4aR1wIXUvRvD"
     },
     {
       "album": {

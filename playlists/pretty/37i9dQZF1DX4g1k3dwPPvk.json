@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 333045,
+  "num_followers": 333081,
   "original_name": "Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4rzwiWfxROK+fPAM6tIttCmogk",
+  "snapshot_id": "AAAAAAJkNIvuw+lBxeAuYpCJyrSwvtTP",
   "tracks": [
     {
       "added_at": "2026-10-02 20:34:39",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-10-02 20:34:39",
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
+    },
+    {
+      "added_at": "2026-10-02 20:34:39",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 250106,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2026-10-02 20:34:39",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
     },
     {
       "added_at": "2026-10-02 20:34:39",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-10-02 20:34:39",
       "album": {
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+    },
+    {
+      "added_at": "2026-10-02 20:34:39",
+      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/5l3pCy5UhmqF4DDLvLRStW"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 309640,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/3bP3RLXPFnGM4vtiXmmadq"
-    },
-    {
-      "added_at": "2026-10-02 20:34:39",
-      "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     }
   ],
   "unique_name": "Los 90s",

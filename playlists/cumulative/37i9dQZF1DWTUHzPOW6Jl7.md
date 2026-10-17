@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-299 songs - 17 hr 26 min
+301 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Loyal \(feat\. Lil Wayne & Tyga\)](https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 4:24 | 2021-12-17 | 2025-10-18 |
 | [LUV](https://open.spotify.com/track/16Ah4QqH4mgYVXqfC4mdSd) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:48 | 2022-08-02 | 2023-03-25 |
 | [LUVAGIRL](https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [LUVAGIRL](https://open.spotify.com/album/0N1QxOvJmW0yCfvQb3QaAU) | 2:40 | 2026-04-03 | 2026-07-25 |
+| [Main Attraction \- Remix](https://open.spotify.com/track/0j14eHWV5jzB3pOitfCFE4) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Main Attraction \(Remix\)](https://open.spotify.com/album/2HVHWBKdXpqqEIVl3FtUui) | 3:04 | 2026-10-16 |  |
 | [Milkshake](https://open.spotify.com/track/2cMTIlktg3M9mXYqCPqw1J) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Milkshake \- Radio Mix](https://open.spotify.com/track/20OfBqKgvCCk47Xn2L7Q79) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5z6uI17hfQipj4ss4BOnOH) | 3:02 | 2022-08-02 | 2022-11-13 |
 | [Milkshake \- Radio Mix](https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:02 | 2022-05-23 | 2023-03-25 |
@@ -201,6 +202,7 @@
 | [Not Nice](https://open.spotify.com/track/4STaHtfguDMkWbPEo6Fwcx) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI) | 3:22 | 2021-12-17 | 2023-01-01 |
 | [Not Nice](https://open.spotify.com/track/4k45t4xh3k9JZ8qtqwGfyB) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Love My 10's R&B](https://open.spotify.com/album/40K3sTELcbfeib4OrPd2rw) | 3:22 | 2022-08-02 | 2023-01-03 |
 | [Not Nice](https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:22 | 2022-08-02 | 2024-04-19 |
+| [Nowhere Fast](https://open.spotify.com/track/2AIZY5H3xdQcpKn17WfSqB) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [ALOUD!](https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D) | 2:56 | 2026-10-16 |  |
 | [Obvious](https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Obvious](https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv) | 3:06 | 2026-04-10 |  |
 | [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 | 2025-06-06 | 2025-11-02 |
 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 | 2023-07-14 | 2024-03-23 |
@@ -221,7 +223,7 @@
 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2023-07-14 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-26 | 2025-03-01 |
 | [PUSH 2 START](https://open.spotify.com/track/6XODwIPXQmVJS1tRabXDiS) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 2:36 | 2025-02-28 | 2025-03-31 |
-| [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 | 2023-07-14 |  |
+| [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 | 2023-07-14 | 2026-10-17 |
 | [Reach Out](https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:39 | 2026-10-02 |  |
 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 | 2026-07-24 | 2026-10-03 |
 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 | 2026-07-24 | 2026-10-07 |
@@ -270,7 +272,7 @@
 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 | 2026-07-24 |  |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2021-12-17 |  |
 | [The One \- Main](https://open.spotify.com/track/3h3GCDFiFOdLu3aKGF48tU) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The One](https://open.spotify.com/album/7GXpfuIGY411TO168GbVyf) | 3:29 | 2021-12-17 | 2023-07-15 |
-| [The Way You Move](https://open.spotify.com/track/1mnuai6bn7yNwQ6IhxT4AC) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 2:50 | 2026-10-02 |  |
+| [The Way You Move](https://open.spotify.com/track/1mnuai6bn7yNwQ6IhxT4AC) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 2:50 | 2026-10-02 | 2026-10-17 |
 | [The Way You Move](https://open.spotify.com/track/3Eu9tmJEAEMmnD2WxUbHHi) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [The Way You Move](https://open.spotify.com/album/61quv4YYzbubnaozMSdMNZ) | 2:50 | 2025-08-22 | 2025-10-20 |
 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 | 2021-12-17 |  |
 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 | 2025-08-01 | 2025-08-24 |

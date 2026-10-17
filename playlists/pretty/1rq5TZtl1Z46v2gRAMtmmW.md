@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,027 likes - 102 songs - 6 hr 14 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,028 likes - 103 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 100 | [Staring at the Sun](https://open.spotify.com/track/2uVGeSqlfAZnF15koha3HY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:32 |
 | 101 | [Never Get Enough](https://open.spotify.com/track/7D0otIBdh3MwgZRirheB1C) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:55 |
 | 102 | [Is It Over Now?](https://open.spotify.com/track/50M4j3tQNa1K6OVq1ZLva0) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 3:39 |
+| 103 | [WYWD](https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [WYWD](https://open.spotify.com/album/5aV211595GuQbpbEAkhWIM) | 2:51 |
 
-Snapshot ID: `AAASNdXW1fIBZHfVwUGo1T+BObkqfOiT`
+Snapshot ID: `AAASNmHzB5tEvmK7tKtX/9HweeXsR/ag`

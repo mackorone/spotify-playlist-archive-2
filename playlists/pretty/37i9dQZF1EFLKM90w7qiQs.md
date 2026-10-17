@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 5 | [PSYCHO](https://open.spotify.com/track/1sacvpQLUIP71HBw1xw5Gu) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:42 |
 | 6 | [Feel Good](https://open.spotify.com/track/2yWtbIBhuwJ6GHR5X5qP4O) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Feel Good](https://open.spotify.com/album/6G5r7GZdbRkaKgC1GKxviw) | 3:01 |
 | 7 | [Don’t Need Love \(with GRACEY\)](https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Don't Need Love](https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN) | 3:15 |
-| 8 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 |
-| 9 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 8 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 9 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 |
 | 10 | [SLEEP TONIGHT \(THIS IS THE LIFE\) \- with R3HAB and Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [SLEEP TONIGHT \(THIS IS THE LIFE\) \[with R3HAB and Sam Feldt\]](https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru) | 2:16 |
 | 11 | [Feels Like Love](https://open.spotify.com/track/34l9fgIh11tKzMgXWVGKXg) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love](https://open.spotify.com/album/59dMCoozpF50lO75gFAd0D) | 2:49 |
 | 12 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 74 | [All That I Do \(feat\. Aleya Mae\)](https://open.spotify.com/track/307nMi0AaURnpFW6DKQmhd) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [All That I Do \(feat\. Aleya Mae\)](https://open.spotify.com/album/3c0o8iHzvSnt26nwvvB6xo) | 2:33 |
 | 75 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcfCkgAAAADPwiyOPry4ifFF14tK1sQ5`
+Snapshot ID: `AcfIMgAAAABfUp8edh2Pn05XiLRB7xzT`

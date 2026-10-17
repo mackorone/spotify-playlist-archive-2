@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Afro sounds crossing borders. Cover: Tml Vibez",
+  "description": "Afro sounds crossing borders. Cover: Victony",
   "name": "Big Mood",
   "tracks": [
     {
@@ -10505,6 +10505,28 @@
     },
     {
       "album": {
+        "name": "JUSTINA (feat. Ruger)",
+        "url": "https://open.spotify.com/album/5DyGzlE7Y0xtmtFmo4y4Z8"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128757,
+      "name": "JUSTINA (feat. Ruger)",
+      "url": "https://open.spotify.com/track/09kmmrYVi31ZrO01z15PVb"
+    },
+    {
+      "album": {
         "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
         "url": "https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP"
       },
@@ -18686,6 +18708,32 @@
       "duration_ms": 106909,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
+    },
+    {
+      "album": {
+        "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+      "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
     },
     {
       "album": {

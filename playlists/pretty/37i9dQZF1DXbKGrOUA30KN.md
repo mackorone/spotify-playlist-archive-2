@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,855 likes - 90 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,842 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 16 | [Pretty Girl](https://open.spotify.com/track/4TXeZhDInJT7osQTazk7Tt) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Pretty Girl](https://open.spotify.com/album/08k611hM5Bgd1GVb6SVgey) | 2:43 |
 | 17 | [Wolke 4](https://open.spotify.com/track/7cEISyO6QWsik3mbO9nUFC) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Wolke 4](https://open.spotify.com/album/4ZVi8tzbQDvb49jXMQYEKn) | 2:16 |
 | 18 | [Mama](https://open.spotify.com/track/1vrPxToRy7ACc7K3ewbO6v) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [PONYHOF EP](https://open.spotify.com/album/3BvCCoUjkiwKGdBfMtLT8X) | 2:44 |
-| 19 | [Track 1](https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [111](https://open.spotify.com/album/3EzxmPD75aFIKcqi0uWPU0) | 0:00 |
+| 19 | [HURRICANE](https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [111](https://open.spotify.com/album/3EzxmPD75aFIKcqi0uWPU0) | 2:44 |
 | 20 | [Utopia](https://open.spotify.com/track/0U54r5ANynDHtGesAabAVe) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Utopia](https://open.spotify.com/album/6eWkdOfdCQx7xskaqxovsQ) | 2:26 |
 | 21 | [Weltzeituhr](https://open.spotify.com/track/3AsljBZhQf4mKFiGDQrYgJ) | [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Weltzeituhr](https://open.spotify.com/album/1MQOnbmCb1l7iUyIoAAKX0) | 2:54 |
 | 22 | [KOPF AUS HERZ AUF](https://open.spotify.com/track/3XlF5qXcaqtINvTMPYLAKY) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [KOPF AUS HERZ AUF](https://open.spotify.com/album/3nZ3yNJ7CUaBG7hOK2bkKr) | 2:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [Keine Kriege](https://open.spotify.com/track/2o2Kpvj14Z2YIEiFNgOqo1) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [eine EP für mich](https://open.spotify.com/album/2Td7Zh9T3bqdRPGN5LxD9p) | 2:53 |
 | 90 | [Stille Kämpfe](https://open.spotify.com/track/5bwAUjXCeswq7BD1dX4hqV) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Stille Kämpfe](https://open.spotify.com/album/6i7nTqFylGp2JEqUIHCDxc) | 2:47 |
 
-Snapshot ID: `AAAAABSR7yeNi2elVTP0fWeOS3uI7Cpc`
+Snapshot ID: `AAAAADSMIUHqBa3//+bqTSsgDGqJKoI6`

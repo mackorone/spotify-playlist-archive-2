@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-201 songs - 11 hr 10 min
+202 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Heist](https://open.spotify.com/track/5cONIcZ21ba5694T4ayY5v) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Heist](https://open.spotify.com/album/458iD19nj4x8eBlO60rXU8) | 3:02 | 2023-06-30 |  |
 | [Hello](https://open.spotify.com/track/6BAnxKyld909yo6Pk1DO3r) | [OMFG](https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz) | [Hello](https://open.spotify.com/album/7lZoV4KNsiutw9uTkbZwnA) | 3:46 | 2018-12-06 | 2025-03-27 |
 | [Help! Oh Well...](https://open.spotify.com/track/67I4a68KuLZS40ZeMPegrL) | [SomeThingElseyt](https://open.spotify.com/artist/1lVDBUHFHFGNogAAqnmYDN) | [Help! Oh Well...](https://open.spotify.com/album/4KYhnvtyuXcZDHiid7xOgt) | 3:44 | 2025-01-25 |  |
+| [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 | 2026-10-17 |  |
 | [I Can't Fix You](https://open.spotify.com/track/3zAqapGmeTcDB4xES8LBUL) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Crusher\-P](https://open.spotify.com/artist/0gnBpQrAfWy73XpB4ZZZYX) | [I Can't Fix You](https://open.spotify.com/album/2TQ7CTgaJqTSmikvCcF2fR) | 4:38 | 2019-11-30 |  |
 | [I Don't Know What Sex Is \- Blue Version](https://open.spotify.com/track/4ADiEGK5cmQKTwc1YKdK21) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam](https://open.spotify.com/artist/6h1vSmU8EkgYqPFW7jckNG), [Bill](https://open.spotify.com/artist/3oKstmzHpDn18vb0SrDrQf) | [I Don't Know What Sex Is \(Blue Version\)](https://open.spotify.com/album/6idU42gjEnOsC88BHRRz5v) | 5:34 | 2018-12-06 |  |
 | [I Don't Wanna Be Free](https://open.spotify.com/track/1ibMPNtcyEwFFwtnVvmve1) | [Markiplier](https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef), [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [I Don't Wanna Be Free](https://open.spotify.com/album/5PpN4ODODnj5Bc7SlpUng4) | 2:22 | 2022-06-30 |  |

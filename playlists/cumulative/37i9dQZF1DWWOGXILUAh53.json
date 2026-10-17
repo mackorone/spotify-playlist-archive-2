@@ -2969,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228855,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d"
+    },
+    {
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -3914,6 +3932,28 @@
       "duration_ms": 243926,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2PdR3pwyRy4sgGVfwDzApr"
+    },
+    {
+      "album": {
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
     },
     {
       "album": {
@@ -5138,7 +5178,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 165407,
       "name": "Boston",
       "url": "https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"
@@ -12765,6 +12805,24 @@
     },
     {
       "album": {
+        "name": "NOTHING'S FAKE",
+        "url": "https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Fake or true",
+      "url": "https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"
+    },
+    {
+      "album": {
         "name": "Fall At Your Feet (with Dean Lewis)",
         "url": "https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY"
       },
@@ -13328,7 +13386,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156923,
       "name": "Feel It (Oh My Days)",
       "url": "https://open.spotify.com/track/0OSQ0TsQRyKBGGOTT5Wx2L"
@@ -18184,7 +18242,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 150671,
       "name": "Higher (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/68ROeDTnieAmMrQrMJlnsY"
@@ -30239,6 +30297,28 @@
     },
     {
       "album": {
+        "name": "Obsession (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154527,
+      "name": "Obsession (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
       },
@@ -30722,7 +30802,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176050,
       "name": "ONE CALL AWAY.",
       "url": "https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL"
@@ -33076,6 +33156,28 @@
       "duration_ms": 157125,
       "name": "Primadonna",
       "url": "https://open.spotify.com/track/0RFCJKLEIk9FBtyP8XlBHe"
+    },
+    {
+      "album": {
+        "name": "Everything, Briefly",
+        "url": "https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149050,
+      "name": "Promise You",
+      "url": "https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ"
     },
     {
       "album": {
@@ -45932,7 +46034,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 150245,
       "name": "Where She Come From",
       "url": "https://open.spotify.com/track/2W9cgPhvERaeE0BnM3CsKd"
@@ -46982,7 +47084,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187686,
       "name": "World Away",
       "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
@@ -47220,6 +47322,28 @@
       "duration_ms": 149333,
       "name": "WYD After",
       "url": "https://open.spotify.com/track/4p2nWFLNboE0yV5neQSV1E"
+    },
+    {
+      "album": {
+        "name": "WYWD",
+        "url": "https://open.spotify.com/album/5aV211595GuQbpbEAkhWIM"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171438,
+      "name": "WYWD",
+      "url": "https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou"
     },
     {
       "album": {

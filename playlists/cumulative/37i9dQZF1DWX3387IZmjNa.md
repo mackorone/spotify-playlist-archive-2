@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Gunna
 
-925 songs - 1 day 22 hr 27 min
+926 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 | 2021-08-20 | 2022-02-26 |
 | [ALRIGHT](https://open.spotify.com/track/5GgsKq6ZOwwu0a7DNFiNqf) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [ALRIGHT](https://open.spotify.com/album/3x5AQyyopacG4nZhYehT1o) | 2:36 | 2023-07-14 | 2023-07-29 |
 | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s) | 3:14 | 2026-06-26 | 2026-07-11 |
-| [Anemia Lover](https://open.spotify.com/track/5sItNh9MZhbszuGIQaTR6j) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [I Quit Rap](https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n) | 2:57 | 2026-09-18 |  |
+| [Anemia Lover](https://open.spotify.com/track/5sItNh9MZhbszuGIQaTR6j) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [I Quit Rap](https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n) | 2:57 | 2026-09-18 | 2026-10-17 |
 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS) | 3:28 | 2021-10-07\* | 2021-12-18 |
 | [Anita](https://open.spotify.com/track/7xHPjLPNyrVbIyGJmQwX5E) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe) | [This 2 Shall Pass](https://open.spotify.com/album/6jYeqcUwxI2GOK2gnXLEDH) | 2:49 | 2022-05-06 | 2022-06-18 |
 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2022-12-16 | 2023-01-14 |
@@ -589,6 +589,7 @@
 | [Out Of Time](https://open.spotify.com/track/5DBM2DrdMgci7C1agT396q) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [Out Of Time](https://open.spotify.com/album/2HCIO9kVQiavlOqUKVOVIH) | 2:45 | 2026-07-10 | 2026-08-01 |
 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2022-09-09 | 2022-09-24 |
 | [Outside \(Oouu Wahh\) \[feat\. Chikoruss\]](https://open.spotify.com/track/2fstmgxqa6LGyFuJZPolSc) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Outside \(Oouu Wahh\) \[feat\. Chikoruss\]](https://open.spotify.com/album/5qnCccGhOVeaUIdZk34yTX) | 1:54 | 2024-02-16 | 2024-02-24 |
+| [Outta My System \(Bx With A Bob\)](https://open.spotify.com/track/3QDvKezQandOrobWqjWdIm) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Laugh Now Cry Later](https://open.spotify.com/album/7mI18u91chIHQc35WQa6Ja) | 2:27 | 2026-10-16 |  |
 | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ) | 3:27 | 2026-07-31 |  |
 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 | 2022-04-08 | 2022-08-13 |
 | [P&E \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/5BwI8Y8sZjDL3qAEqF76hA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:30 | 2024-05-17 | 2024-08-10 |

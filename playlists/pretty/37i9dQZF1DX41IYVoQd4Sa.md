@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אביתר בנאי
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,550 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,562 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 37 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
 | 38 | [בסיבוב](https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [בסיבוב](https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i) | 3:06 |
 | 39 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
-| 40 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
-| 41 | [כישוף נגדי](https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj) | [כישוף נגדי](https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu) | 4:08 |
+| 40 | [כישוף נגדי](https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj) | [כישוף נגדי](https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu) | 4:08 |
+| 41 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
 | 42 | [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 |
 | 43 | [מראה לי את השקט](https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [מראה לי את השקט](https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI) | 3:36 |
 | 44 | [ח'ת שתיים](https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אני נינה](https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 49 | [כמו הדובים](https://open.spotify.com/track/1q0GlKlKUZsY7q69T5L6vz) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמו הדובים](https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y) | 3:47 |
 | 50 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 
-Snapshot ID: `AAAAAC1+KWS2hmjClA9NG7ysAeZli0oX`
+Snapshot ID: `AAAAABYKTcNU4NAs1xGg8IV9kFQ8q8lY`

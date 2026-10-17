@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 47438,
+  "num_followers": 47440,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMtRRvWweD8HMT4+4PDE6W6+MZSP",
+  "snapshot_id": "AAAAAIcIi0ZZ8FwmUEN2ohRlN1ALWqgk",
   "tracks": [
     {
       "added_at": "2026-10-16 00:02:01",
@@ -443,26 +443,22 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "Love is the New Gangsta",
-        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
         }
       ],
-      "duration_ms": 223666,
-      "name": "All That Matters (with Leon Thomas & AZ Chike)",
-      "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -499,22 +495,26 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "Fly U Out",
-        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Fly U Out",
-      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
+      "duration_ms": 223666,
+      "name": "All That Matters (with Leon Thomas & AZ Chike)",
+      "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -535,6 +535,26 @@
       "duration_ms": 222840,
       "name": "Coming Home (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
+        "name": "What You Need - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2QCIt3Hun6RkRBug3DIz27"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "What You Need - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/49ceA6VvdgxF5LmXRPeIFA"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -579,26 +599,6 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "What You Need - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2QCIt3Hun6RkRBug3DIz27"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "What You Need - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/49ceA6VvdgxF5LmXRPeIFA"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
         "name": "Do You Still Love Me?",
         "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206835,
-      "name": "For The Moment",
-      "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 228348,
       "name": "After The Club",
       "url": "https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 206835,
+      "name": "For The Moment",
+      "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 197720,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 106105,
-      "name": "CAN JUICE",
-      "url": "https://open.spotify.com/track/3Lty2YgO8rYeaZyiCrLedq"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
         "name": "To Dry a Tear",
         "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
@@ -883,22 +867,34 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+      "duration_ms": 106105,
+      "name": "CAN JUICE",
+      "url": "https://open.spotify.com/track/3Lty2YgO8rYeaZyiCrLedq"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -919,18 +915,22 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "U, Me & My Ego",
-        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
-      },
-      "artists": [
-        {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        }
-      ],
-      "duration_ms": 150201,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
         "name": "THE GENTLEMEN'S CLUB",
         "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 260629,
       "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
       "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "duration_ms": 150201,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "sweet talk",
-        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 146315,
-      "name": "sweet talk",
-      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
         "name": "Therapy at the Club",
         "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
       },
@@ -1119,26 +1103,38 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "T's & C's Apply",
-        "url": "https://open.spotify.com/album/381comodDFpQlXwdxvAix1"
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Tellaman",
-          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
-        },
-        {
-          "name": "Lusanda",
-          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
         }
       ],
-      "duration_ms": 176472,
-      "name": "LFTOS",
-      "url": "https://open.spotify.com/track/2kNlFphwGsURo77TMRjDpL"
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -1179,22 +1175,26 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "WWP",
-        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/381comodDFpQlXwdxvAix1"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
         }
       ],
-      "duration_ms": 177011,
-      "name": "DYNAMITE",
-      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
+      "duration_ms": 176472,
+      "name": "LFTOS",
+      "url": "https://open.spotify.com/track/2kNlFphwGsURo77TMRjDpL"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "added_at": "2026-10-16 00:02:01",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-10-16 00:02:01",
       "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
+    },
+    {
+      "added_at": "2026-10-16 00:02:01",
+      "album": {
         "name": "lonely (feat. L.A.X)",
         "url": "https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 164283,
       "name": "lonely (feat. L.A.X)",
       "url": "https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo"
-    },
-    {
-      "added_at": "2026-10-16 00:02:01",
-      "album": {
-        "name": "London Summers",
-        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "London Summers",
-      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     }
   ],
   "unique_name": "Cocoa Butter ",

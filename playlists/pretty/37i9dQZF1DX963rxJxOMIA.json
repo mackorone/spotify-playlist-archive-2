@@ -1,103 +1,35 @@
 {
-  "description": "Fino y elegante como Feid. ",
-  "num_followers": 223533,
+  "description": "Fino y elegante como Kris R. ",
+  "num_followers": 223549,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUUsKMq3YHmmfW4Rtoy++zDbnBG",
+  "snapshot_id": "AAAAALkOIgXL76XsHlnlddoHXndnVqW1",
   "tracks": [
     {
-      "added_at": "2026-09-18 04:59:36",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
-        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
         },
         {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
-        },
-        {
-          "name": "Baby Ranks",
-          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
         }
       ],
-      "duration_ms": 208168,
-      "name": "SE PUSO FEO",
-      "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
+      "duration_ms": 174418,
+      "name": "PLATO TIPICO",
+      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
     },
     {
-      "added_at": "2026-08-07 04:59:13",
-      "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
-    },
-    {
-      "added_at": "2026-08-21 04:59:11",
-      "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 225834,
-      "name": "BbY WOW",
-      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
-    },
-    {
-      "added_at": "2026-07-31 04:59:17",
-      "album": {
-        "name": "WASA WASA (El Party Pendiente con Spotify)",
-        "url": "https://open.spotify.com/album/3BBEYtt02pys1VsgQXk9pG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 152810,
-      "name": "WASA WASA - El Party Pendiente con Spotify",
-      "url": "https://open.spotify.com/track/6XbvK6wsNMblG8wYlFMSxZ"
-    },
-    {
-      "added_at": "2026-10-02 04:59:27",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
@@ -121,7 +53,99 @@
       "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
     },
     {
-      "added_at": "2026-09-04 04:59:32",
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "GALACTICOS",
+        "url": "https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU"
+      },
+      "artists": [
+        {
+          "name": "Bigg Danny",
+          "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "GALACTICOS",
+      "url": "https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "La Monda",
+        "url": "https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176481,
+      "name": "La Monda",
+      "url": "https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Casi Algo",
         "url": "https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb"
@@ -141,7 +165,51 @@
       "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
     },
     {
-      "added_at": "2026-08-07 04:59:13",
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "GAMINA",
+      "url": "https://open.spotify.com/track/5E6Mn8HCO1izFhRm2PFxNq"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        }
+      ],
+      "duration_ms": 208168,
+      "name": "SE PUSO FEO",
+      "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Mano al piso remix",
         "url": "https://open.spotify.com/album/7HlnR44j7zO6jhDjAzMWIp"
@@ -165,215 +233,7 @@
       "url": "https://open.spotify.com/track/4CibTBydFDLzQKyg6Vtr23"
     },
     {
-      "added_at": "2026-09-04 04:59:32",
-      "album": {
-        "name": "Paroliguelido",
-        "url": "https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS"
-      },
-      "artists": [
-        {
-          "name": "GeezyDee",
-          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Prodmonja",
-          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Paroliguelido",
-      "url": "https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K"
-    },
-    {
-      "added_at": "2026-08-21 04:59:11",
-      "album": {
-        "name": "La Perlita",
-        "url": "https://open.spotify.com/album/72ePILJ69fHPvY6ae6uMoC"
-      },
-      "artists": [
-        {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "La Perlita",
-      "url": "https://open.spotify.com/track/1gSIXZsZI1GskABhPMpwGE"
-    },
-    {
-      "added_at": "2026-06-26 04:59:10",
-      "album": {
-        "name": "ROMO",
-        "url": "https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 171028,
-      "name": "ROMO",
-      "url": "https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3"
-    },
-    {
-      "added_at": "2026-07-17 04:59:09",
-      "album": {
-        "name": "Isla Bonita",
-        "url": "https://open.spotify.com/album/3US50V3VCPozqqyMVb6Psw"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Isla Bonita",
-      "url": "https://open.spotify.com/track/52I53kGSl3G6uoR1Xk6HzX"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "Q Hubo Amor (Medell\u00edn)",
-        "url": "https://open.spotify.com/album/7lNBB4Mr7IaN4CYh6lQL2o"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 172072,
-      "name": "Q Hubo Amor (Medell\u00edn)",
-      "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"
-    },
-    {
-      "added_at": "2026-08-21 04:59:11",
-      "album": {
-        "name": "EL MOCO VERDE",
-        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "50 MIL PIEX",
-      "url": "https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0"
-    },
-    {
-      "added_at": "2026-07-10 04:59:17",
-      "album": {
-        "name": "La Monda",
-        "url": "https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176481,
-      "name": "La Monda",
-      "url": "https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH"
-    },
-    {
-      "added_at": "2026-08-28 04:59:14",
-      "album": {
-        "name": "mimosa",
-        "url": "https://open.spotify.com/album/5X1hoVn2c5yyf3CJBLTMX8"
-      },
-      "artists": [
-        {
-          "name": "lila sky",
-          "url": "https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH"
-        },
-        {
-          "name": "dj g2g",
-          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
-        }
-      ],
-      "duration_ms": 142937,
-      "name": "mimosa",
-      "url": "https://open.spotify.com/track/0fmreURNhbPSNCaFuSrtxO"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "EL PEOR HOMBRE DEL MUNDO",
-        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "PROV\u00d3CATE",
-      "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
-    },
-    {
-      "added_at": "2026-07-03 04:59:22",
-      "album": {
-        "name": "De Momento",
-        "url": "https://open.spotify.com/album/1KURkXi7M5EIYRYtJZqV6b"
-      },
-      "artists": [
-        {
-          "name": "YOVNGSAVAG3",
-          "url": "https://open.spotify.com/artist/1l3miIbGkglwtHfIbKGj7b"
-        },
-        {
-          "name": "El High",
-          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "De Momento",
-      "url": "https://open.spotify.com/track/3s8JvsmJUddD8zw7JuNNQ2"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Pico Y Chao (W Sound 08)",
         "url": "https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ"
@@ -397,62 +257,10 @@
       "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
-        "name": "COBRONA REMIX",
-        "url": "https://open.spotify.com/album/0K81v43EITD6fa2bWqC1is"
-      },
-      "artists": [
-        {
-          "name": "CARABIN3",
-          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Los Money Makers",
-          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
-        },
-        {
-          "name": "SVNTI",
-          "url": "https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN"
-        }
-      ],
-      "duration_ms": 211468,
-      "name": "COBRONA REMIX",
-      "url": "https://open.spotify.com/track/7dFRzhfVgfVUAGUAMslmdi"
-    },
-    {
-      "added_at": "2026-06-26 04:59:10",
-      "album": {
-        "name": "La Casa Del Trap",
-        "url": "https://open.spotify.com/album/4c6x92vxqC9HAp9E0ZSWAi"
-      },
-      "artists": [
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        },
-        {
-          "name": "El Americano 4KT",
-          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
-        }
-      ],
-      "duration_ms": 260970,
-      "name": "Mas Mujeres",
-      "url": "https://open.spotify.com/track/0nlCZbgwYS4DM2DIBKIOJV"
-    },
-    {
-      "added_at": "2026-07-10 04:59:17",
-      "album": {
-        "name": "EL PEOR HOMBRE DEL MUNDO",
-        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
+        "name": "CAPCANA COCOA",
+        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
       },
       "artists": [
         {
@@ -460,148 +268,36 @@
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Los Money Makers",
-          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 212783,
-      "name": "MERO TOTE",
-      "url": "https://open.spotify.com/track/26wRv00loYD9urTl85LFbI"
+      "duration_ms": 244000,
+      "name": "CAPCANA COCOA",
+      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
-        "name": "Las Mu\u00f1equitas (Remix)",
-        "url": "https://open.spotify.com/album/4nbP74VOG2T2FrBtckNIk4"
+        "name": "EL MOCO VERDE",
+        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
       },
       "artists": [
         {
-          "name": "Mr Plata",
-          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "El Americano 4KT",
-          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Las Mu\u00f1equitas - Remix",
-      "url": "https://open.spotify.com/track/4JZq1NlpsXqpqYra43QNEG"
+      "duration_ms": 244642,
+      "name": "50 MIL PIEX",
+      "url": "https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "MI EX",
-        "url": "https://open.spotify.com/album/4qQzvBTaaFB3ZGPZzG8TFv"
-      },
-      "artists": [
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "MI EX",
-      "url": "https://open.spotify.com/track/363f2yu0W2nJZPRqCh7i5P"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "BOMB\u00d3N",
-        "url": "https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 130148,
-      "name": "BOMB\u00d3N",
-      "url": "https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "GANAS",
-        "url": "https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T"
-      },
-      "artists": [
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Dimelo Magic",
-          "url": "https://open.spotify.com/artist/1s09WzlGc9wC1ChjTOiMtg"
-        },
-        {
-          "name": "OGBOOY",
-          "url": "https://open.spotify.com/artist/0FHcoqof3mhgLgcPGW8EAF"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "GANAS",
-      "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "PASI\u00d3N Y SEXO",
-        "url": "https://open.spotify.com/album/3rBYLiBQUm7DfNsTGoNSni"
-      },
-      "artists": [
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Los Money Makers",
-          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        }
-      ],
-      "duration_ms": 213919,
-      "name": "PASI\u00d3N Y SEXO",
-      "url": "https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2"
-    },
-    {
-      "added_at": "2026-09-11 04:59:20",
-      "album": {
-        "name": "Callaita Nunca",
-        "url": "https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd"
-      },
-      "artists": [
-        {
-          "name": "Keke Minowa",
-          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "Callaita Nunca",
-      "url": "https://open.spotify.com/track/4PoxLQG5P9ljEPeDvd0Amg"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
@@ -621,95 +317,7 @@
       "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
     },
     {
-      "added_at": "2026-09-11 04:59:20",
-      "album": {
-        "name": "LA SAPI\u00d3",
-        "url": "https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 117391,
-      "name": "LA SAPI\u00d3",
-      "url": "https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Que vuelta vox",
-      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
-    },
-    {
-      "added_at": "2026-08-19 23:50:37",
-      "album": {
-        "name": "Ag\u00edtese Bien Antes de Usar",
-        "url": "https://open.spotify.com/album/1IIRVxKUt8DiEMVbPVZg6s"
-      },
-      "artists": [
-        {
-          "name": "LA GURU",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Metale Moral",
-      "url": "https://open.spotify.com/track/23qbGPVcJdYO4SJbEm4yT4"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Verano Rosa",
-      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
-    },
-    {
-      "added_at": "2026-08-28 04:59:14",
-      "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "PORFA",
-      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
@@ -733,27 +341,371 @@
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
-        "name": "SE ME OLVIDA",
-        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+        "name": "Las Mu\u00f1equitas",
+        "url": "https://open.spotify.com/album/2w7YR5gaVkKxrUMfnfEEnz"
       },
       "artists": [
         {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Las Mu\u00f1equitas",
+      "url": "https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "EL PEOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "MERO TOTE",
+      "url": "https://open.spotify.com/track/26wRv00loYD9urTl85LFbI"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "BOMB\u00d3N",
+        "url": "https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 130148,
+      "name": "BOMB\u00d3N",
+      "url": "https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "GANAS",
+        "url": "https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Dimelo Magic",
+          "url": "https://open.spotify.com/artist/1s09WzlGc9wC1ChjTOiMtg"
+        },
+        {
+          "name": "OGBOOY",
+          "url": "https://open.spotify.com/artist/0FHcoqof3mhgLgcPGW8EAF"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "GANAS",
+      "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "LA AMENAZA",
+        "url": "https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ"
+      },
+      "artists": [
+        {
+          "name": "FANTA ROSARIO",
+          "url": "https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "DE MEDALLO PA MOROVIS",
+      "url": "https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "La Casa Del Trap",
+        "url": "https://open.spotify.com/album/4c6x92vxqC9HAp9E0ZSWAi"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "duration_ms": 260970,
+      "name": "Mas Mujeres",
+      "url": "https://open.spotify.com/track/0nlCZbgwYS4DM2DIBKIOJV"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "LA SAPI\u00d3",
+        "url": "https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 117391,
+      "name": "LA SAPI\u00d3",
+      "url": "https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Que vuelta vox",
+      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "Peli De Terror",
+        "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Peli De Terror",
+      "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "WASA WASA (El Party Pendiente con Spotify)",
+        "url": "https://open.spotify.com/album/3BBEYtt02pys1VsgQXk9pG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 152810,
+      "name": "WASA WASA - El Party Pendiente con Spotify",
+      "url": "https://open.spotify.com/track/6XbvK6wsNMblG8wYlFMSxZ"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "Paroliguelido",
+        "url": "https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Prodmonja",
+          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Paroliguelido",
+      "url": "https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "La Perlita",
+        "url": "https://open.spotify.com/album/72ePILJ69fHPvY6ae6uMoC"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 219759,
+      "name": "La Perlita",
+      "url": "https://open.spotify.com/track/1gSIXZsZI1GskABhPMpwGE"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "ROMO",
+        "url": "https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171028,
+      "name": "ROMO",
+      "url": "https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/3US50V3VCPozqqyMVb6Psw"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Isla Bonita",
+      "url": "https://open.spotify.com/track/52I53kGSl3G6uoR1Xk6HzX"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "Bachateo",
+        "url": "https://open.spotify.com/album/668X4yFxDAjWq2KU1KE7DY"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "duration_ms": 138976,
+      "name": "Bachateo",
+      "url": "https://open.spotify.com/track/6cgkodNEYEeUNxNFAr2oTZ"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "De Momento",
+        "url": "https://open.spotify.com/album/1KURkXi7M5EIYRYtJZqV6b"
+      },
+      "artists": [
+        {
+          "name": "YOVNGSAVAG3",
+          "url": "https://open.spotify.com/artist/1l3miIbGkglwtHfIbKGj7b"
+        },
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "De Momento",
+      "url": "https://open.spotify.com/track/3s8JvsmJUddD8zw7JuNNQ2"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "Ag\u00edtese Bien Antes de Usar",
+        "url": "https://open.spotify.com/album/1IIRVxKUt8DiEMVbPVZg6s"
+      },
+      "artists": [
+        {
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Metale Moral",
+      "url": "https://open.spotify.com/track/23qbGPVcJdYO4SJbEm4yT4"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 225373,
-      "name": "SE ME OLVIDA",
-      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
-      "added_at": "2026-03-26 18:21:05",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "FDSR",
         "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
@@ -773,7 +725,27 @@
       "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "PORFA",
+      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "OHNANA",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -789,7 +761,27 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
+      "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Soltera (W Sound 01)",
         "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
@@ -813,7 +805,7 @@
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
@@ -833,7 +825,7 @@
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "CLASSY 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
@@ -853,7 +845,7 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
-      "added_at": "2026-03-26 18:21:05",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Comerte a Besos (Remix)",
         "url": "https://open.spotify.com/album/46F1esWc3cNxz3aYveumej"
@@ -877,7 +869,7 @@
       "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -901,7 +893,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2026-03-26 18:21:05",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "OJITOS ROJOS (REMIX)",
         "url": "https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv"
@@ -925,7 +917,7 @@
       "url": "https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J"
     },
     {
-      "added_at": "2026-10-02 04:59:27",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "No Le Digas a Mi Novio",
         "url": "https://open.spotify.com/album/1Q6BaIiZREdJEO1acfF73l"
@@ -945,7 +937,7 @@
       "url": "https://open.spotify.com/track/50KexZ4gua7Wqfv0yDCYuu"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
@@ -965,7 +957,7 @@
       "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "La Santa",
         "url": "https://open.spotify.com/album/23PqJXcgcINtpP43VVpUfQ"
@@ -981,7 +973,7 @@
       "url": "https://open.spotify.com/track/0dasi56p3hRh48zW5DC0SE"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "KORAZONG",
         "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
@@ -997,7 +989,7 @@
       "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "YO y T\u00da",
         "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
@@ -1021,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Desde Antes",
         "url": "https://open.spotify.com/album/2M8U9CPDLmJwTEoMEXWDZl"
@@ -1041,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5Ulsi8075EHzP2chQqbv86"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
+      "added_at": "2026-10-16 04:59:28",
       "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"

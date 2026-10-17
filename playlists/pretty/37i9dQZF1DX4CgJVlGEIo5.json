@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 387358,
+  "num_followers": 387371,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2g2l2A6NFUt1CR9YR94ly3qOq7",
+  "snapshot_id": "AAAAAFJyIeVitCCrT4E1U5Sq/2e56Z6I",
   "tracks": [
     {
       "added_at": "2024-07-05 21:33:59",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Songs From The Ashes (PT. 1)",
         "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 282802,
       "name": "Nobody Opened The Door",
       "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2024-07-05 21:33:59",

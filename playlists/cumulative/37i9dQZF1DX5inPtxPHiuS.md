@@ -2,9 +2,9 @@
 
 ### [Rock Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5inPtxPHiuS)
 
-> ¡Disfruta con los grandes del rock colombiano! Foto: Árbol de Ojos
+> ¡Disfruta con los grandes del rock colombiano! Foto: Kidchen
 
-237 songs - 14 hr 41 min
+238 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aunque Pretendas Olvidar](https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Aunque Pretendas Olvidar](https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW) | 3:03 | 2024-09-20 | 2025-12-04 |
 | [Ave Nocturna](https://open.spotify.com/track/5tg6Zys0K50Vg3MLfWCoaz) | [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Ave Nocturna](https://open.spotify.com/album/5AJ5TqxKQlTgSETnbEEq2B) | 3:37 | 2022-03-11 | 2022-07-28 |
 | [Ave Nocturna](https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5) | [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Ave Nocturna](https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH) | 3:37 | 2022-06-24 | 2024-01-26 |
+| [Ay Carachas](https://open.spotify.com/track/0mbLyhECxVrL9318wVNwWO) | [Kidchen](https://open.spotify.com/artist/0rssDtHql43sHidf6XgMz8) | [Amalgama](https://open.spotify.com/album/5dUgQxv2SDI8lh66rFQbDg) | 2:38 | 2026-10-16 |  |
 | [Baracunatana](https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Lo Esencial](https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd) | 2:32 | 2022-03-11 |  |
 | [Barco de Papel](https://open.spotify.com/track/1ufmRhXT4AWHwSGak3ZO9T) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/2GQgIRVZ3XkqyiZKxHBDZP) | 3:31 | 2022-03-11 | 2022-09-16 |
 | [Barco de Papel](https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:32 | 2022-06-24 | 2024-04-19 |
@@ -72,7 +73,7 @@
 | [El Mar](https://open.spotify.com/track/1XUiUyDSMk8W0E237XXaGe) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [El Mar](https://open.spotify.com/album/1DYbQxch8QAmLyJbdrM5wp) | 3:01 | 2022-03-11 | 2022-07-26 |
 | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic) | 3:00 | 2022-10-01 | 2025-06-06 |
 | [El Pescador](https://open.spotify.com/track/0O9w6NAveGksTptvtBVslb) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [El Pescador](https://open.spotify.com/album/6U1wICRw8yqmjcDMS18QLP) | 3:58 | 2022-03-11 | 2022-07-21 |
-| [El Puñal](https://open.spotify.com/track/5Vsz6b8oL6dKROUwUzG336) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/6vQy3TOg127jMjCF9ZDsmB) | 4:23 | 2022-03-11 | 2022-07-29 |
+| [El Puñal](https://open.spotify.com/track/5Vsz6b8oL6dKROUwUzG336) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/6vQy3TOg127jMjCF9ZDsmB) | 4:23 | 2022-03-11 |  |
 | [El Puñal](https://open.spotify.com/track/6cO3H592rPALlR3XoUG0P9) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 4:23 | 2022-06-24 | 2024-04-19 |
 | [El Reflejo](https://open.spotify.com/track/1HcYDA5dwLeWHVTmNQf6XO) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [El Reflejo](https://open.spotify.com/album/6VawC8yDOjAfD168H2a3Vo) | 3:38 | 2026-04-24 |  |
 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 | 2022-03-11 |  |
@@ -185,7 +186,7 @@
 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 | 2023-03-02 |  |
 | [Quédate Cerca](https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd) | 3:35 | 2023-04-14 | 2024-04-19 |
 | [Quédate Cerca](https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2) | 3:35 | 2022-03-11 | 2023-05-19 |
-| [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 | 2023-02-14 |  |
+| [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 | 2023-02-14 | 2026-10-17 |
 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 | 2022-03-11 |  |
 | [Rock N' Love](https://open.spotify.com/track/3huPbQBjNT3Wc9NIs40euE) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Ruido](https://open.spotify.com/album/6pq2VbtUzngE1H9fBlba0V) | 4:31 | 2022-03-11 | 2022-07-25 |
 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 | 2022-03-11 | 2026-05-18 |
@@ -213,7 +214,7 @@
 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 | 2022-06-24 | 2024-04-19 |
 | [Somos coyotes](https://open.spotify.com/track/7zmzVpmiMZCIZgLInbY3ud) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/3ND4tL9NXYIRBBitw13bif) | 3:42 | 2022-03-11 | 2022-07-27 |
 | [Suspendida la Plenitud](https://open.spotify.com/track/49b7JVJNhXTJSDmRhqowwX) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Suspendida la Plenitud](https://open.spotify.com/album/25JAHE3P3o7BpMjyHKj7Qb) | 3:58 | 2022-03-11 | 2022-07-27 |
-| [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-03-11 |  |
+| [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-03-11 | 2026-10-17 |
 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 | 2023-04-14 | 2024-04-19 |
 | [Te Lastimé](https://open.spotify.com/track/5bHQmbPaDWjJ8TR5dpYXcz) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Calidosound](https://open.spotify.com/album/0C3DVr20JwpTVbeIgWJEF8) | 3:46 | 2022-03-11 | 2022-07-29 |
 | [Te Lastimé](https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Calidosound](https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj) | 3:46 | 2022-06-24 | 2024-04-19 |

@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 92378,
+  "num_followers": 92408,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmMAQj9pqSKq7D0VO6fT04+7mfU",
+  "snapshot_id": "AAAAAPyCzsThpx2lODO1C3lnW7g6eL3W",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:00:10",
+      "album": {
+        "name": "My Inspiration Vol.3",
+        "url": "https://open.spotify.com/album/1DJcwPSIGv8zCk93v7f1iF"
+      },
+      "artists": [
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "duration_ms": 252219,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/0kAq0wmIIsNPrk51n07F7x"
+    },
     {
       "added_at": "2026-10-09 04:01:02",
       "album": {
@@ -91,22 +107,6 @@
       "duration_ms": 241120,
       "name": "Between The Beats",
       "url": "https://open.spotify.com/track/2zyIojU16tXMkYj8Ik57cY"
-    },
-    {
-      "added_at": "2026-09-18 04:00:56",
-      "album": {
-        "name": "How Great Thou Art",
-        "url": "https://open.spotify.com/album/0CTZlCuXV7d50WlqFSxZ5S"
-      },
-      "artists": [
-        {
-          "name": "Marcus Anderson",
-          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
-        }
-      ],
-      "duration_ms": 269326,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa"
     },
     {
       "added_at": "2026-09-18 04:00:56",

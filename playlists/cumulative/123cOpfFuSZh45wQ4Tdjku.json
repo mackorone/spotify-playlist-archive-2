@@ -951,6 +951,32 @@
     },
     {
       "album": {
+        "name": "Bohemian Rhapsody",
+        "url": "https://open.spotify.com/album/18DzeRFxomHTMcPOlIPXom"
+      },
+      "artists": [
+        {
+          "name": "Suriw",
+          "url": "https://open.spotify.com/artist/3xDSGMxOFqMg9NeR3Pt5V5"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349860,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6EtvCdpRuCYwK4wZfbf1Mt"
+    },
+    {
+      "album": {
         "name": "Tundra Fox Music",
         "url": "https://open.spotify.com/album/5Mes2PsdAWigtNwpYE2wpv"
       },

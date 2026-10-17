@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 
 > Favoritlåtar för lugna och sköna stunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,846 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,839 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 61 | [Stockholm är för stort](https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Stockholm är för stort](https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk) | 3:05 |
 | 62 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 |
 | 63 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
-| 64 | [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 |
+| 64 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 | 65 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
-| 66 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 |
-| 67 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
+| 66 | [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 |
+| 67 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 |
 | 68 | [logical](https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8) | 3:51 |
 | 69 | [Det sista jag behöver](https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Det sista jag behöver](https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M) | 2:54 |
 | 70 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 72 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 |
 | 73 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 74 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
-| 75 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
-| 76 | [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 |
+| 75 | [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 |
+| 76 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
 | 77 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
 | 78 | [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 |
 | 79 | [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 96 | [I Don't Want To Be Loved](https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q) | 3:02 |
 | 97 | [It's Not Easy to Write a Love Song](https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [It's Not Easy to Write a Love Song](https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN) | 3:01 |
 | 98 | [I dina armar](https://open.spotify.com/track/4RT8RRIp5Asy5i9zg0IPOX) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [I dina armar](https://open.spotify.com/album/78oAKgGqyzH7aePn6IIB83) | 2:46 |
-| 99 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
-| 100 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 |
+| 99 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 |
+| 100 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
 
-Snapshot ID: `AAAAAAgjJh2gRuSC9USWt51yLhLLLPLH`
+Snapshot ID: `AAAAAEi9yE00aRCc+/eqo+2mD5jBwc+Y`

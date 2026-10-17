@@ -5837,6 +5837,28 @@
     },
     {
       "album": {
+        "name": "Open Up",
+        "url": "https://open.spotify.com/album/5Dnh2kVI6E4t4ecmlbPTte"
+      },
+      "artists": [
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+        },
+        {
+          "name": "devin xo",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132374,
+      "name": "Feels Easy",
+      "url": "https://open.spotify.com/track/1tTVe5i68OkoKbYV5gW0Xw"
+    },
+    {
+      "album": {
         "name": "Feels Like (La La La)",
         "url": "https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn"
       },
@@ -19866,24 +19888,6 @@
       "duration_ms": 115654,
       "name": "Toy",
       "url": "https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K"
-    },
-    {
-      "album": {
-        "name": "Open Up",
-        "url": "https://open.spotify.com/album/5Dnh2kVI6E4t4ecmlbPTte"
-      },
-      "artists": [
-        {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1tTVe5i68OkoKbYV5gW0Xw"
     },
     {
       "album": {

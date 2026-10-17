@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Hostia Pedagógica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,584 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,595 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Copa de Vino](https://open.spotify.com/track/2ugI1Acm46zkTfejjgLB3l) | [WISTIMBER](https://open.spotify.com/artist/2PCvP0taREKGddHdNdQuuY) | [Copa de Vino](https://open.spotify.com/album/3eKEdQWvkam3ziJYcY6ew6) | 3:12 |
 | 50 | [Tus Labios](https://open.spotify.com/track/6qINx6Ys8AEMlObqfVWuln) | [Todo Bien Todo Mal](https://open.spotify.com/artist/0uj2hj0Vurk8ZaGgH0BmJa) | [Malo para la educación, peor para la salud.](https://open.spotify.com/album/4mQGpySW9yRf5Oca3s2MXi) | 3:23 |
 
-Snapshot ID: `AAAAAHchHHjgccFNJrrTCPpix+0FxJgU`
+Snapshot ID: `AAAAALBOeFP04PCcLibXEg8Om/Qs7ND/`

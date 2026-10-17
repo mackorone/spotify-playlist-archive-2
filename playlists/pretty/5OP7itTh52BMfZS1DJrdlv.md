@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2026 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,242,366 likes - 100 songs - 5 hr 27 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,242,787 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 79 | [Everybody’s Home For Christmas](https://open.spotify.com/track/2xGXAjb8ES9dvT3uN0dPPT) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [Everybody’s Home For Christmas](https://open.spotify.com/album/3asg9jwDlFBZGfQ44e459o) | 2:28 |
 | 80 | [I'll Be Home for Christmas](https://open.spotify.com/track/0EJGgmA2uxiasDM5DmDKL1) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:24 |
 | 81 | [oíche chiúin \(silent night\)](https://open.spotify.com/track/5BhPAnwbjJkbIE3zMgCQoH) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [oíche chiúin \(silent night\)](https://open.spotify.com/album/5LkCo3rdSCJGLqIAOzQQSY) | 2:55 |
-| 82 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/6m0vO299PSkO0Zl5F4Gvd0) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:25 |
+| 82 | [What If I Call \(Merry Christmas, i miss you\)](https://open.spotify.com/track/0XYALktGbnHJ1TdW0Oz5KN) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [What If I Call \(Merry Christmas, i miss you\)](https://open.spotify.com/album/4tBtqVg9XCTtPkxHGynwNb) | 4:06 |
 | 83 | [The Little Drummer Boy \- Remastered 2006](https://open.spotify.com/track/0pAT3JUEjIiqUkwxE0vbBQ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:00 |
 | 84 | [Christmas in New England](https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF) | [Ryan Peter Murphy](https://open.spotify.com/artist/3Mtej0J9pd8zxe4vnbZcMP) | [Christmas in New England](https://open.spotify.com/album/2lOq547LxWZumv19kK2Aw4) | 4:04 |
 | 85 | [Where Are You Christmas \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 99 | [Believe](https://open.spotify.com/track/2vJAjPkVMPKkR3xd2wacZa) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 4:18 |
 | 100 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 |
 
-Snapshot ID: `AAAH070zRcMyDvsJ0MZsYrpEuYuWAn3H`
+Snapshot ID: `AAAH1xwrFEXULWx/5VF3fo/tI3djvKhT`

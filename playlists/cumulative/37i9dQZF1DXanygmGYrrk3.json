@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Julion \u00c1lvarez",
+  "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Banda El Recodo",
   "name": "Las Favoritas",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 175424,
       "name": "911 - En Vivo",
       "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 175925,
       "name": "Ahorita No",
       "url": "https://open.spotify.com/track/290x0tNmVqBlnlfrlky8fz"
@@ -826,6 +826,28 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
+    },
+    {
+      "album": {
+        "name": "Amor De Antes",
+        "url": "https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182240,
+      "name": "Amor De Antes",
+      "url": "https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i"
     },
     {
       "album": {
@@ -1097,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "MudaH",
+        "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "Atte El Insuperable",
+      "url": "https://open.spotify.com/track/0tgYhNMHWBIkJgW9xg8Vzi"
+    },
+    {
+      "album": {
         "name": "Aunque me duela",
         "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
@@ -1302,7 +1346,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
@@ -1346,6 +1390,46 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "album": {
+        "name": "Beretta (De Los Cerros La Escuela) [Remix]",
+        "url": "https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141177,
+      "name": "Beretta (De Los Cerros La Escuela) - Remix",
+      "url": "https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL"
+    },
+    {
+      "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/5qXGEEfjISmUrpo8LQu1Z1"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154411,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/3VlRPRxPMJTL7wCHYB3j0X"
     },
     {
       "album": {
@@ -2872,7 +2956,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 182917,
       "name": "Desv\u00e9late conmigo",
       "url": "https://open.spotify.com/track/0OjdgenD6rcxEt7quScAyc"
@@ -3000,6 +3084,24 @@
       "duration_ms": 201057,
       "name": "DOLCE",
       "url": "https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4"
+    },
+    {
+      "album": {
+        "name": "Donde Sea",
+        "url": "https://open.spotify.com/album/6qgLUZsNNRY17fCv5UfKWf"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166593,
+      "name": "Donde Sea",
+      "url": "https://open.spotify.com/track/6IWVwQM3O3Htvn2KQSbVzA"
     },
     {
       "album": {
@@ -3720,7 +3822,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 192876,
       "name": "El Del Palenque",
       "url": "https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6"
@@ -4948,7 +5050,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
@@ -6016,7 +6118,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 229103,
       "name": "La Loteria",
       "url": "https://open.spotify.com/track/19O9uQaDRYRfdHO8tyv7CF"
@@ -6208,7 +6310,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
@@ -6701,6 +6803,24 @@
     },
     {
       "album": {
+        "name": "Los Chismes",
+        "url": "https://open.spotify.com/album/6IvTNez44fw5xpiPzHv4c0"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/4MJCmFwGZV5kbThPt445IO"
+    },
+    {
+      "album": {
         "name": "LOS CUADROS",
         "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
       },
@@ -6908,6 +7028,24 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
+    },
+    {
+      "album": {
+        "name": "L\u00f3gica",
+        "url": "https://open.spotify.com/album/3oHngRBxbxjYe9iOTOXpqz"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "L\u00f3gica",
+      "url": "https://open.spotify.com/track/0fRXgcoGXC7a6VLAZMNk3z"
     },
     {
       "album": {
@@ -7220,6 +7358,24 @@
       "duration_ms": 140983,
       "name": "Me Acostumbre A Lo Bueno",
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
+    },
+    {
+      "album": {
+        "name": "Me Consulto El Padrino",
+        "url": "https://open.spotify.com/album/2osy2NXRGldVelrNmv0GcH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175034,
+      "name": "Me Consulto El Padrino",
+      "url": "https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D"
     },
     {
       "album": {
@@ -7998,7 +8154,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 224375,
       "name": "Mi \u00daltima Petici\u00f3n",
       "url": "https://open.spotify.com/track/4bbx4q2mzphOlPfwyQctaQ"
@@ -8737,6 +8893,24 @@
     },
     {
       "album": {
+        "name": "No Te Conformaste",
+        "url": "https://open.spotify.com/album/7r5bX1vosW6xWD75VlaVZa"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167578,
+      "name": "No Te Conformaste",
+      "url": "https://open.spotify.com/track/3nbNQAfg9ADEgFrDrpcqjz"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -9232,7 +9406,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
@@ -9736,7 +9910,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
@@ -10118,7 +10292,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 212250,
       "name": "Que Se Vaya",
       "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
@@ -10650,7 +10824,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
@@ -10980,7 +11154,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 149459,
       "name": "Seguro Le Doli\u00f3",
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
@@ -11636,7 +11810,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156471,
       "name": "Soy Un Joven",
       "url": "https://open.spotify.com/track/1JKvVPQLn78jcdT6ELIeKV"
@@ -11654,7 +11828,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 164937,
       "name": "So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"
@@ -12425,6 +12599,24 @@
     },
     {
       "album": {
+        "name": "Todo Pasa Por Algo",
+        "url": "https://open.spotify.com/album/2Ci0O6Uf86Mj0fNwDuygCl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152229,
+      "name": "Todo Pasa Por Algo",
+      "url": "https://open.spotify.com/track/2LuBsc272oGEUiQ9hqEL53"
+    },
+    {
+      "album": {
         "name": "Todos Hablan, Nada Saben",
         "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
       },
@@ -12666,7 +12858,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 181921,
       "name": "TU SI",
       "url": "https://open.spotify.com/track/0zLA16D7GXoT8K7XFaiCv3"
@@ -12804,7 +12996,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 194266,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
@@ -13001,6 +13193,24 @@
     },
     {
       "album": {
+        "name": "Una de 1500",
+        "url": "https://open.spotify.com/album/0TihxKcv6t62OvU7lENT3D"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189701,
+      "name": "Una de 1500",
+      "url": "https://open.spotify.com/track/6Ilsczlw22dSA0EcdNqZro"
+    },
+    {
+      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
       },
@@ -13042,6 +13252,46 @@
       "duration_ms": 143123,
       "name": "Unas Heladas",
       "url": "https://open.spotify.com/track/3tBQOzfAYaIbiZm2U5BsYx"
+    },
+    {
+      "album": {
+        "name": "Uncertain, TX (feat. Intocable) [Spanish Version]",
+        "url": "https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213382,
+      "name": "Uncertain, TX (feat. Intocable) - Spanish Version",
+      "url": "https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3"
+    },
+    {
+      "album": {
+        "name": "UNO PARA EL OTRO",
+        "url": "https://open.spotify.com/album/2HWYoPP10xV4KD68P4T6kw"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182370,
+      "name": "UNO PARA EL OTRO",
+      "url": "https://open.spotify.com/track/2NS5P8iCp2eMLRH3lj6UGa"
     },
     {
       "album": {
@@ -13216,6 +13466,24 @@
       "duration_ms": 183315,
       "name": "Vibra Perfecta",
       "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
+    },
+    {
+      "album": {
+        "name": "Reconectarme",
+        "url": "https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136915,
+      "name": "Vida Rockstar",
+      "url": "https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS"
     },
     {
       "album": {
@@ -13671,6 +13939,24 @@
     },
     {
       "album": {
+        "name": "Ya Estuvo Bueno",
+        "url": "https://open.spotify.com/album/7pztHDjdl3wvjhjpBebAob"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174865,
+      "name": "Ya Estuvo Bueno",
+      "url": "https://open.spotify.com/track/10qJgUxpJMToQ8X3D01NKZ"
+    },
+    {
+      "album": {
         "name": "Noches Sin Fin",
         "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
       },
@@ -13762,6 +14048,28 @@
       "duration_ms": 201400,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+    },
+    {
+      "album": {
+        "name": "Ya Se Puede",
+        "url": "https://open.spotify.com/album/2hXHpNUJCERjbesoXrIB6c"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174459,
+      "name": "Ya Se Puede",
+      "url": "https://open.spotify.com/track/03gvPXkyxlUsdJbt7OUOKn"
     },
     {
       "album": {
@@ -13996,7 +14304,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178552,
       "name": "\u00bfA Poco Te Decepcion\u00e9?",
       "url": "https://open.spotify.com/track/1eiZv0QfGHKNfASJB0KKvI"

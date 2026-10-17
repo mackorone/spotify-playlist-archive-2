@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 121025,
+  "num_followers": 121056,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOiB9LPV3ZfXMsEDQKRjf+eHU8p",
+  "snapshot_id": "AAAAANM4m2XSEl5saiIFcHLuRUSAIjq1",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:54",
@@ -583,22 +583,18 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
-        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
+        "name": "Tell 'Em Why",
+        "url": "https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Rocky Mountain Low - feat. Koe Wetzel",
-      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
+      "duration_ms": 166989,
+      "name": "Tell 'Em Why",
+      "url": "https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj"
     },
     {
       "added_at": "2026-08-28 04:01:54",
@@ -619,18 +615,22 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
-        "name": "Tell 'Em Why",
-        "url": "https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER"
+        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
       },
       "artists": [
         {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 166989,
-      "name": "Tell 'Em Why",
-      "url": "https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj"
+      "duration_ms": 168333,
+      "name": "Rocky Mountain Low - feat. Koe Wetzel",
+      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
     },
     {
       "added_at": "2026-08-28 04:01:54",

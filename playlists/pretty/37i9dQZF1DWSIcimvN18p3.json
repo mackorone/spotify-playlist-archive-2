@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Aldous Harding",
-  "num_followers": 335748,
+  "num_followers": 335768,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJPUXZp0x8sHqrG5xARuftEbfZzN",
+  "snapshot_id": "AAAAAGStv6S42ObZeobqHVL/PMHzZ1u6",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:12",
@@ -407,38 +407,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 284137,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 215689,
       "name": "Ketchum, ID",
       "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
-      },
-      "artists": [
-        {
-          "name": "Esther Rose",
-          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
+      },
+      "artists": [
+        {
+          "name": "Esther Rose",
+          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Not Dark Yet",
-        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
+        "name": "Home Plate (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
       },
       "artists": [
         {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        },
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 259917,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+      "duration_ms": 167200,
+      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
+      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Home Plate (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
+        "name": "Not Dark Yet",
+        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        },
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
-      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
+      "duration_ms": 259917,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Wreck You",
+      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 139800,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
         }
       ],
-      "duration_ms": 198186,
-      "name": "Wreck You",
-      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -1751,18 +1735,34 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+      "duration_ms": 246611,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Kentucky Borderline",
+      "url": "https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Kentucky Borderline",
-      "url": "https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc"
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Songs of Our Native Daughters",
-        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+        "name": "Polaroid Lovers",
+        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
       },
       "artists": [
         {
-          "name": "Our Native Daughters",
-          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 282586,
-      "name": "Quasheba, Quasheba",
-      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
+      "duration_ms": 180524,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Polaroid Lovers",
-        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
         }
       ],
-      "duration_ms": 180524,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+      "duration_ms": 282586,
+      "name": "Quasheba, Quasheba",
+      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "To Rise You Gotta Fall",
-        "url": "https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL"
-      },
-      "artists": [
-        {
-          "name": "Nicki Bluhm",
-          "url": "https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh"
-        }
-      ],
-      "duration_ms": 296387,
-      "name": "To Rise You Gotta Fall",
-      "url": "https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Hours Are the New Days",
         "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 244664,
       "name": "Hours Are the New Days",
       "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "To Rise You Gotta Fall",
+        "url": "https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL"
+      },
+      "artists": [
+        {
+          "name": "Nicki Bluhm",
+          "url": "https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh"
+        }
+      ],
+      "duration_ms": 296387,
+      "name": "To Rise You Gotta Fall",
+      "url": "https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE"
     },
     {
       "added_at": "2026-05-15 04:01:12",

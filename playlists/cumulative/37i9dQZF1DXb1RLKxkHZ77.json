@@ -4298,7 +4298,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 209664,
       "name": "Cinta Atau Kaca",
       "url": "https://open.spotify.com/track/4byi4wRiIPcoxjfqpmLb1P"
@@ -4756,7 +4756,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156899,
       "name": "Dah Sayang",
       "url": "https://open.spotify.com/track/3KAodUJMmCCFfvOUEkBgbe"
@@ -8067,6 +8067,24 @@
     },
     {
       "album": {
+        "name": "Jangan Jangan (Single)",
+        "url": "https://open.spotify.com/album/1iDYCRAMaqIy7s3Ej8CA1B"
+      },
+      "artists": [
+        {
+          "name": "Wani Kayrie",
+          "url": "https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Jangan Jangan",
+      "url": "https://open.spotify.com/track/39nyd63CJHOIlbMTVZwbFx"
+    },
+    {
+      "album": {
         "name": "Jangan Lepas Tanganku",
         "url": "https://open.spotify.com/album/3kGKqwSIBZRo4VelfWTWlb"
       },
@@ -9909,6 +9927,24 @@
     },
     {
       "album": {
+        "name": "Kisah Yang Hampir Sempurna",
+        "url": "https://open.spotify.com/album/7gJSKVaGwHeRdyZeo9CHrd"
+      },
+      "artists": [
+        {
+          "name": "Ara Johari",
+          "url": "https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189795,
+      "name": "Kisah Yang Hampir Sempurna",
+      "url": "https://open.spotify.com/track/147guKO3zoouNs4DLulvrM"
+    },
+    {
+      "album": {
         "name": "Kisah Yang Lain",
         "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
       },
@@ -10570,6 +10606,28 @@
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
+    },
+    {
+      "album": {
+        "name": "Langit Yang Asing",
+        "url": "https://open.spotify.com/album/5KHFPFhlvnE77kSypQTbfj"
+      },
+      "artists": [
+        {
+          "name": "Dalia Farhana",
+          "url": "https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg"
+        },
+        {
+          "name": "mimpi.",
+          "url": "https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231857,
+      "name": "Langit Yang Asing",
+      "url": "https://open.spotify.com/track/6vCm9LcHSBRmCY75w6Y6ie"
     },
     {
       "album": {
@@ -14372,6 +14430,24 @@
       "duration_ms": 204473,
       "name": "Pilihan",
       "url": "https://open.spotify.com/track/5r7cUjmlQT0YiXfzFTiRfS"
+    },
+    {
+      "album": {
+        "name": "Terkunci Di Kamu",
+        "url": "https://open.spotify.com/album/62v7qZ9JSdGYLl6NWNkL41"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206823,
+      "name": "Pintu Hati",
+      "url": "https://open.spotify.com/track/67I41J09p9pAnjHVtgOpjt"
     },
     {
       "album": {
@@ -19120,7 +19196,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 224000,
       "name": "Takkan Pernah",
       "url": "https://open.spotify.com/track/0iELiHJoMexn3eSMGUiiEc"
@@ -20018,7 +20094,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 228923,
       "name": "Tersenyum Lagi",
       "url": "https://open.spotify.com/track/4VLiWov8uwEDnK1X4cgJhk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Grace Carter
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,350 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,283 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 68 | [Class A](https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Symptoms of Me](https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs) | 2:29 |
 | 69 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
 
-Snapshot ID: `AAAAAJNwjzrk3C278j2JjQAuP8lfMPWx`
+Snapshot ID: `AAAAAALvOMdg8KTYcP4z0zlwpe5VgC7n`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Anni B Sweet.",
-  "num_followers": 200287,
+  "num_followers": 200274,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgrQBbYG9oMELm3pqVBD6krec8C",
+  "snapshot_id": "AAAAADRacWeaLwgmRfrrdoy8q/M2c4Uo",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:13",
@@ -18,10 +18,14 @@
         {
           "name": "Anni B Sweet",
           "url": "https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 316000,
+      "name": "En mi olvido",
       "url": "https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV"
     },
     {
@@ -156,8 +160,8 @@
           "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 148250,
+      "name": "La H\u00fangara",
       "url": "https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk"
     },
     {

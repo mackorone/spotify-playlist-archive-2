@@ -4,7 +4,7 @@
 
 > Fall deeply in love 💖 with this romantic playlist! Featuring soulful ballads, acoustic love songs &amp; intimate tracks from Ed Sheeran, Olivia Dean, Alex Warren, Bruno Mars, and more\. Perfect for date nights or dreaming of romance.
 
-340 songs - 20 hr 28 min
+341 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2021-09-13 |  |
 | [Kiss Somebody](https://open.spotify.com/track/1mJMD1VIQ7jWTP9DK2zmY0) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Kiss Somebody](https://open.spotify.com/album/2AQJVx5WiteEOyfmrY7Kgx) | 3:32 | 2021-09-13 | 2023-02-10 |
 | [L O V E](https://open.spotify.com/track/4m4aQLiPbWFyE07xRoJPhc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible \(Deluxe\)](https://open.spotify.com/album/5dXU3rx7fHkNJ1kTzvRQb3) | 2:50 | 2025-02-12 |  |
+| [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 | 2026-10-16 |  |
 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2025-01-14 |  |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2023-04-21 | 2025-01-15 |
 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 | 2026-08-07 |  |
@@ -259,7 +260,7 @@
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-02-01 |  |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [Ruin My Life](https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:10 | 2026-01-09 | 2026-04-16 |
-| [Running Home](https://open.spotify.com/track/2d0QRGVqmN3IunUZAHDUCU) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Running Home](https://open.spotify.com/album/11daOULnDqGxMe7B6CTt8t) | 3:44 | 2026-08-18 |  |
+| [Running Home](https://open.spotify.com/track/2d0QRGVqmN3IunUZAHDUCU) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Running Home](https://open.spotify.com/album/11daOULnDqGxMe7B6CTt8t) | 3:44 | 2026-08-18 | 2026-10-17 |
 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 | 2026-01-09 | 2026-04-16 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-01-11 |  |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-07-09 | 2026-09-12 |

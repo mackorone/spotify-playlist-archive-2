@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: Passa Tempo",
+  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: Masayoshi Fujita",
   "name": "New Ambient",
   "tracks": [
     {
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 306984,
       "name": "Airplane Song",
       "url": "https://open.spotify.com/track/43nQRR9f4IcH5qAaEoLZuJ"
@@ -3079,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "Appalachian Autumn",
+        "url": "https://open.spotify.com/album/36rMiqkcs0llx78zDG8zBD"
+      },
+      "artists": [
+        {
+          "name": "Chad Crouch",
+          "url": "https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq"
+        },
+        {
+          "name": "Listening Spot",
+          "url": "https://open.spotify.com/artist/0dcxqyKh7cKcO6o84ILa2m"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111687,
+      "name": "Appalachian Autumn, Pt. 1",
+      "url": "https://open.spotify.com/track/7gq7FnXkTs1DNWrFQZs9zX"
+    },
+    {
+      "album": {
         "name": "April (feat. Eric D. Johnson)",
         "url": "https://open.spotify.com/album/7FCkpgOvstSAnYw2uztzft"
       },
@@ -3974,7 +3996,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 300000,
       "name": "Auguries of Innocence: V. Of Innocence",
       "url": "https://open.spotify.com/track/3JZM8EE5R34V43oJGDnvHF"
@@ -4610,7 +4632,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 271228,
       "name": "Been here 12 - Flow to the sea at Hamaguri",
       "url": "https://open.spotify.com/track/3cviAijFPtdo2hSXm9M3wo"
@@ -5476,7 +5498,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 240826,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0KyMzxZEF3Z9gRcTOq6oJ7"
@@ -13941,6 +13963,24 @@
     },
     {
       "album": {
+        "name": "Forest of Tranquility",
+        "url": "https://open.spotify.com/album/68eOjBQbo8SgyAHvwJEjJO"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317056,
+      "name": "Forest of Tranquility",
+      "url": "https://open.spotify.com/track/4i5GezHuqc1Kl3rLNz2qNd"
+    },
+    {
+      "album": {
         "name": "Forest Park Ruins",
         "url": "https://open.spotify.com/album/6RuM2FeIXwiQM0gZCOSqYt"
       },
@@ -14670,7 +14710,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 302086,
       "name": "Funeral\uff1a\u846c\u9001",
       "url": "https://open.spotify.com/track/4aAZKTeSiIWDV74F7FSrRy"
@@ -18712,7 +18752,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 142871,
       "name": "intimacy gradient",
       "url": "https://open.spotify.com/track/37hynOv6uvvUdF2vgwwgk9"
@@ -22978,7 +23018,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 144000,
       "name": "Mim",
       "url": "https://open.spotify.com/track/681z9iUrYeH6PHyx4eKgjt"
@@ -24539,6 +24579,28 @@
     },
     {
       "album": {
+        "name": "Nectar Flow",
+        "url": "https://open.spotify.com/album/3PcsTMwAKKyjRT8GFh9c2F"
+      },
+      "artists": [
+        {
+          "name": "Simon Popp",
+          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
+        },
+        {
+          "name": "Polygonia",
+          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201409,
+      "name": "Nectar Flow",
+      "url": "https://open.spotify.com/track/48HFaOKlXVGlI4exf00DMf"
+    },
+    {
+      "album": {
         "name": "nen",
         "url": "https://open.spotify.com/album/4delrvapRx9DXUBXBUm4Y1"
       },
@@ -24882,7 +24944,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 330000,
       "name": "Nigredo Phase",
       "url": "https://open.spotify.com/track/1fRCPgaROpSH3naiooXknD"
@@ -27365,6 +27427,32 @@
     },
     {
       "album": {
+        "name": "Party Criminal (Yu Su's Drift Away Mix)",
+        "url": "https://open.spotify.com/album/2jbbTc1GJQ6iJI20KHIp2Z"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430003,
+      "name": "Party Criminal - Yu Su's Drift Away Mix",
+      "url": "https://open.spotify.com/track/61Ky9VyODp3HoLvkQVBmXg"
+    },
+    {
+      "album": {
         "name": "passage",
         "url": "https://open.spotify.com/album/5kb2a4O8Tb3wogojDkodvz"
       },
@@ -28653,6 +28741,24 @@
     },
     {
       "album": {
+        "name": "Corps Perdu",
+        "url": "https://open.spotify.com/album/0EdtcGlgcgoIuRoiNXypzU"
+      },
+      "artists": [
+        {
+          "name": "Lamin Fofana",
+          "url": "https://open.spotify.com/artist/6j6rR9uFQ6yYMDcxmqPMhf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Postcards from the Wreck",
+      "url": "https://open.spotify.com/track/2SPGoGGyFeVx85MWxeuide"
+    },
+    {
+      "album": {
         "name": "A/B (moments bleus la nuit)",
         "url": "https://open.spotify.com/album/3OOiHyGZA02nQCVxdM6pLE"
       },
@@ -29434,6 +29540,24 @@
       "duration_ms": 311431,
       "name": "Rainbow Road",
       "url": "https://open.spotify.com/track/4dYZJ2jXXGykSRBoOMqFb2"
+    },
+    {
+      "album": {
+        "name": "Pony Ride",
+        "url": "https://open.spotify.com/album/1ysYUeuiBLknSHdy6OzDnf"
+      },
+      "artists": [
+        {
+          "name": "George Ian Hewitt",
+          "url": "https://open.spotify.com/artist/2mcQtO7Xg2GvUi8d3QViAg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83306,
+      "name": "Randalls Island",
+      "url": "https://open.spotify.com/track/4TinB8NEywJGPODvHezdve"
     },
     {
       "album": {
@@ -30930,6 +31054,24 @@
       "duration_ms": 360000,
       "name": "Sahar",
       "url": "https://open.spotify.com/track/4RiGl4hYZFbi3WtzgfJZZW"
+    },
+    {
+      "album": {
+        "name": "Sail",
+        "url": "https://open.spotify.com/album/2Iok8w0AsrZUsHPGBZEPJI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255895,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/1eSyqPUKcmmIoRDRMsbpqh"
     },
     {
       "album": {
@@ -33380,6 +33522,28 @@
       "duration_ms": 176486,
       "name": "Soft Gradient Beckons",
       "url": "https://open.spotify.com/track/7304Lz5Dcpiub1XLsKY1es"
+    },
+    {
+      "album": {
+        "name": "Voyager, Vol. 2",
+        "url": "https://open.spotify.com/album/0ptuc6JMCf0lyu9O1eATmn"
+      },
+      "artists": [
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        },
+        {
+          "name": "Chris Bartels",
+          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126441,
+      "name": "Soft May",
+      "url": "https://open.spotify.com/track/56cOWdkdvpsS6IA0DBCUXW"
     },
     {
       "album": {
@@ -38655,6 +38819,24 @@
     },
     {
       "album": {
+        "name": "DJ-Kicks: Djrum",
+        "url": "https://open.spotify.com/album/3637Bps0b1qKRCV6aK6PiD"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174384,
+      "name": "Turning",
+      "url": "https://open.spotify.com/track/042KeEx4naJ045Ya46h1Dx"
+    },
+    {
+      "album": {
         "name": "Turns Out I'm Sentimental After All (Rom\u00e9o Poirier Rework)",
         "url": "https://open.spotify.com/album/6Jh7Z4S6u4xVPZtVvp87u4"
       },
@@ -40717,6 +40899,24 @@
     },
     {
       "album": {
+        "name": "We Are Unwritten Poems",
+        "url": "https://open.spotify.com/album/5iD67lTqpB0SBTL2wU1l4i"
+      },
+      "artists": [
+        {
+          "name": "Hior Chronik",
+          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174951,
+      "name": "We Are Unwritten Poems",
+      "url": "https://open.spotify.com/track/6GlLn22PDFr8m43I8gbLnT"
+    },
+    {
+      "album": {
         "name": "We Belong Here",
         "url": "https://open.spotify.com/album/45gALRPiymfcKtHDqTHtg4"
       },
@@ -42680,7 +42880,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 126413,
       "name": "your spark remains",
       "url": "https://open.spotify.com/track/6cCsqsv5emI6Uc8HHDdiO3"

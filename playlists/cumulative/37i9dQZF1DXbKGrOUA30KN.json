@@ -5987,6 +5987,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/3EzxmPD75aFIKcqi0uWPU0"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "HURRICANE",
+      "url": "https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU"
+    },
+    {
+      "album": {
         "name": "H\u00e4tte nie gedacht",
         "url": "https://open.spotify.com/album/3auZbOiuGozCgxz1NM81M0"
       },
@@ -12726,24 +12744,6 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
-    },
-    {
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/3EzxmPD75aFIKcqi0uWPU0"
-      },
-      "artists": [
-        {
-          "name": "LORI",
-          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,814 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,812 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 44 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
 | 45 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 46 | [I Need a Girl \(Pt\. 2\) \[feat\. Loon, Ginuwine, Mario Winans\]](https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
-| 47 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
-| 48 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 |
+| 47 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 |
+| 48 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 49 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
 | 50 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
 | 51 | [I Need a Girl \(Pt\. 1\) \[feat\. Usher & Loon\]](https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |
 | 100 | [Bump, Bump, Bump \(feat\. P\. Diddy\)](https://open.spotify.com/track/5tKbrFMvQJlG1reK5aDmkc) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Playlist: The Very Best Of Omarion](https://open.spotify.com/album/2fWjB2sGEPtte5tWTQlU4v) | 4:39 |
 
-Snapshot ID: `AAAAAOyFAyjZvRizgCPPQUA9XAQGL3vM`
+Snapshot ID: `AAAAAJfFPC6X4XzQ5b9fDSFUF18le2QZ`

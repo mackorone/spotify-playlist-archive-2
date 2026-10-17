@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 86288,
+  "num_followers": 86312,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMs633jq9yqywdjsK0snzbq9hnxV",
+  "snapshot_id": "AAAAAOeHXB9HkPQwaUCGslUJbYbQyp39",
   "tracks": [
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "JR JR",
-        "url": "https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK"
-      },
-      "artists": [
-        {
-          "name": "JR JR",
-          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 237546,
       "name": "Leave A Trace",
       "url": "https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "JR JR",
+        "url": "https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
+        "name": "Vallis Alps",
+        "url": "https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
         }
       ],
-      "duration_ms": 264523,
-      "name": "Flesh without Blood",
-      "url": "https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R"
+      "duration_ms": 324122,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1540,25 +1540,25 @@
           "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 224061,
-      "name": "Love Like Ghosts",
-      "url": "https://open.spotify.com/track/1Xca9HfuG65IL3ogdnNfTv"
+      "duration_ms": 274704,
+      "name": "Fool for Love",
+      "url": "https://open.spotify.com/track/34pj71vgxTPZxpqXOLYL1I"
     },
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Vallis Alps",
-        "url": "https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq"
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
       },
       "artists": [
         {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 324122,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu"
+      "duration_ms": 264523,
+      "name": "Flesh without Blood",
+      "url": "https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 274704,
-      "name": "Fool for Love",
-      "url": "https://open.spotify.com/track/34pj71vgxTPZxpqXOLYL1I"
+      "duration_ms": 224061,
+      "name": "Love Like Ghosts",
+      "url": "https://open.spotify.com/track/1Xca9HfuG65IL3ogdnNfTv"
     }
   ],
   "unique_name": "Best of Indie 2015",

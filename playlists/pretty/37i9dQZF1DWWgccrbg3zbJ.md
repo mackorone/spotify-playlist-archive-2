@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,726 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,999 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 10 | [Nova Bossa Nova](https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Nova Bossa Nova](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa) | 4:05 |
 | 11 | [Tarde em itapuã](https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Ophélie Gaillard](https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj), [Romain Lécuyer](https://open.spotify.com/artist/6KQoMDHBskwa6F66N0vZSZ) | [Alvorada](https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho) | 2:59 |
 | 12 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 3:40 |
-| 13 | [Photograph](https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:08 |
+| 13 | [Samba de Orfeu](https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [The Brasil Project Vol\. II](https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7) | 3:36 |
 | 14 | [A Felicidade](https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:04 |
-| 15 | [Samba de Orfeu](https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [The Brasil Project Vol\. II](https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7) | 3:36 |
+| 15 | [Photograph](https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:08 |
 | 16 | [Tristeza](https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Poeta e o Violão](https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF) | 4:06 |
 | 17 | [Gente Humilde](https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 2:27 |
 | 18 | [Diz Que Fui Por Ai](https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara](https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE) | 2:08 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 58 | [Dindi \- Live](https://open.spotify.com/track/3ZlYRldUJNor2B8ETwhT2I) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 5:20 |
 | 59 | [Sorriu Para Mim](https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [20 Grandes Sucessos De Joao Gilberto](https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h) | 3:04 |
 | 60 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn) | 6:01 |
-| 61 | [Águas De Março](https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Tom Jobim E Amigos](https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M) | 3:32 |
-| 62 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 |
-| 63 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 |
+| 61 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 |
+| 62 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 |
+| 63 | [Águas De Março](https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Tom Jobim E Amigos](https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M) | 3:32 |
 | 64 | [Doralice](https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, o Sorriso e a Flor](https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2) | 1:27 |
 | 65 | [Chega de Saudade](https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(42 Original Tracks\)](https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR) | 2:01 |
 | 66 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 69 | [Ela e Carioca](https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Brazil 2](https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT) | 3:04 |
 | 70 | [O Grande Amor](https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:27 |
 
-Snapshot ID: `AAAAAKq9qkxyogRNpjuBO6tLUHEPjfnu`
+Snapshot ID: `AAAAAOdmT5wHEvhk8t17DNKaOcA1x2gt`

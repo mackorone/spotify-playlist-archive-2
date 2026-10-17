@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,518 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,548 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 50 | [Pression](https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:35 |
 | 51 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 |
 | 52 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 |
-| 53 | [Buku Jero](https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Buku Jero](https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL) | 2:49 |
-| 54 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 |
+| 53 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 |
+| 54 | [Buku Jero](https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Buku Jero](https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL) | 2:49 |
 | 55 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 56 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 |
 | 57 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 64 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
 | 65 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
 | 66 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |
-| 67 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
-| 68 | [Mpiaka](https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mpiaka](https://open.spotify.com/album/2BUr0YXhxjIq3GGElU6izf) | 3:36 |
+| 67 | [Mpiaka](https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mpiaka](https://open.spotify.com/album/2BUr0YXhxjIq3GGElU6izf) | 3:36 |
+| 68 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
 | 69 | [Bijou](https://open.spotify.com/track/5EXEDVRvpKJw3eQ4epRrD7) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:05 |
 | 70 | [Ololo](https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3) | [Heaven Sam](https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Afro Live](https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx) | [Ololo](https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR) | 2:54 |
 | 71 | [No love](https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [No love](https://open.spotify.com/album/0n5zArvAPe7ZljF5p440pQ) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [C pas normal](https://open.spotify.com/track/01BN8m09yMyhKHJL3PDUzC) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [C pas normal](https://open.spotify.com/album/3uUgzic021PoofEn1wD2NK) | 2:44 |
 | 80 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 
-Snapshot ID: `AAAAAFDBWFvEr7SAqbfJyLNq7xE9If4k`
+Snapshot ID: `AAAAAGDhXLrHf/745X8o5qZO+2Lk9Cnz`

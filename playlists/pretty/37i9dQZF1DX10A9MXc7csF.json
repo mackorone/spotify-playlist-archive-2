@@ -1,13 +1,209 @@
 {
-  "description": "The new school of M\u00fasica Mexicana. Ely Romero y Adrian L Santos \ud83d\udcf8",
-  "num_followers": 199264,
+  "description": "The new school of M\u00fasica Mexicana. Emmanuel Cortes \ud83d\udcf8",
+  "num_followers": 199288,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1qwPxdgXho0SC5xsD9uKyjJ1SN",
+  "snapshot_id": "AAAAAMcgXcHfROkvfdZmkdtnpYb+kRXD",
   "tracks": [
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "Donde Sea",
+        "url": "https://open.spotify.com/album/6qgLUZsNNRY17fCv5UfKWf"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 166593,
+      "name": "Donde Sea",
+      "url": "https://open.spotify.com/track/6IWVwQM3O3Htvn2KQSbVzA"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "STAR (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 177942,
+      "name": "\u00daLTIMAMENTE",
+      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "duration_ms": 176504,
+      "name": "Cabez\u00f3n",
+      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "Como Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/4UIkqjWTrgOx2XMupXypX3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Como Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/7Kd9k8nYPq0RXT5rHu1JpY"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "Mi Civilizaci\u00f3n",
+        "url": "https://open.spotify.com/album/6WuFuI17rKq6buRcfv049d"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "Abel Bustillos",
+          "url": "https://open.spotify.com/artist/2YlgpU3Bj4LLN2RclY6RSE"
+        }
+      ],
+      "duration_ms": 222581,
+      "name": "Mi Civilizaci\u00f3n",
+      "url": "https://open.spotify.com/track/64iMcqtWuxcoatirwuEIsi"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "DR. STRANGE",
+        "url": "https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 163909,
+      "name": "DR. STRANGE",
+      "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "Los Santos",
+        "url": "https://open.spotify.com/album/7uSFTLmo6TZOU45cFAxqeK"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Los Santos",
+      "url": "https://open.spotify.com/track/5Ruua1465gWq8hkxagc2fX"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "FARMEANDO AURA",
+        "url": "https://open.spotify.com/album/5WFivnUHCYro9ovg05M8Iv"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 160376,
+      "name": "FARMEANDO AURA",
+      "url": "https://open.spotify.com/track/3hvPlOl1FQ689oWQvJei5U"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "La Rienda (Perfume De Vieja)",
+        "url": "https://open.spotify.com/album/2VczUN6MQ2WoYumesK4muX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
+        }
+      ],
+      "duration_ms": 145710,
+      "name": "La Rienda (Perfume De Vieja)",
+      "url": "https://open.spotify.com/track/2iu0CeFFEHBMrOnSMraLJJ"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "Beretta (De Los Cerros La Escuela) [Remix]",
+        "url": "https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 141177,
+      "name": "Beretta (De Los Cerros La Escuela) - Remix",
+      "url": "https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL"
+    },
+    {
+      "added_at": "2026-10-16 07:04:45",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/32ntJ4cjXHOAdS4yCvbhL5"
+      },
+      "artists": [
+        {
+          "name": "Santiago Duarte",
+          "url": "https://open.spotify.com/artist/7KerPyVUQ2OU73fFJCjeJI"
+        }
+      ],
+      "duration_ms": 205636,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/6afVwvKAcz7akvDVhr5Tvr"
+    },
     {
       "added_at": "2026-10-02 06:00:29",
       "album": {
@@ -903,22 +1099,6 @@
       "duration_ms": 197056,
       "name": "Me Refiero A Ti",
       "url": "https://open.spotify.com/track/7mJpjSIRck4aimoHmWbg5e"
-    },
-    {
-      "added_at": "2026-10-02 06:00:29",
-      "album": {
-        "name": "Fama",
-        "url": "https://open.spotify.com/album/1eU2XYHcIKSKtEvlvpMtXW"
-      },
-      "artists": [
-        {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
-        }
-      ],
-      "duration_ms": 142428,
-      "name": "Fama",
-      "url": "https://open.spotify.com/track/72RhZ13FHeIfsd4y4jZ3wn"
     }
   ],
   "unique_name": "M\u00fasica Mexicana Rising",

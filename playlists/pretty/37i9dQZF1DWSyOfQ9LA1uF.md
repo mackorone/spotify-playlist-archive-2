@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,553 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,565 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 40 | [Bad Girls \- Switch Remix](https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Bad Girls \(The Remixes\)](https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW) | 3:23 |
 | 41 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
 | 42 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
-| 43 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Shazam](https://open.spotify.com/artist/22gK1Q6l2AO3L8g7p4cgTW) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 |
-| 44 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
+| 43 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
+| 44 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Shazam](https://open.spotify.com/artist/22gK1Q6l2AO3L8g7p4cgTW) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 |
 | 45 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 | 46 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
 | 47 | [Waters of Nazareth \- Erol Alkan Remix](https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Waters of Nazareth \(The Remixes\)](https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ) | 6:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Genesis](https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd) | 3:54 |
 | 75 | [Fancy Footwork](https://open.spotify.com/track/24YW8RhBjRCX7fOWt3YlVR) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/2y70M2PR4IabZgN1wxttNx) | 3:18 |
 
-Snapshot ID: `AAAAAKPpnPBX4gHBFqxoEdMH5er4IJ/0`
+Snapshot ID: `AAAAAIMQf90Bf0HnwKRcJoKLjKgGvIXS`

@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 208325,
       "name": "Bad Advice - The Pool Sessions",
       "url": "https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49"
@@ -738,6 +738,24 @@
       "duration_ms": 237587,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+    },
+    {
+      "album": {
+        "name": "Triumph & Sadness",
+        "url": "https://open.spotify.com/album/3Onrfasx50u8B77giVCZlv"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154186,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/1WnjlZDmGC0s3ze28SUIPD"
     },
     {
       "album": {
@@ -3313,6 +3331,24 @@
     },
     {
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/5djeKb5t284cLlN8RkJwgA"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273421,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/7n2XAtVvXhn11drWv84vyQ"
+    },
+    {
+      "album": {
         "name": "Nothing at All / Good Times",
         "url": "https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3"
       },
@@ -4438,7 +4474,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 159581,
       "name": "I'll Never Say No",
       "url": "https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6"
@@ -9677,6 +9713,28 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/5aslOdgTszd8bhYQ69lrdW"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "The Dreamers",
+          "url": "https://open.spotify.com/artist/5Mv7KECpdKCLVQcTfbTjT4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188220,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3XU7fEXHM6EhAmMuf81ac0"
+    },
+    {
+      "album": {
         "name": "S\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb"
       },
@@ -10204,7 +10262,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 234326,
       "name": "This Ain't Your Song",
       "url": "https://open.spotify.com/track/7HbUeeuOhje4yP8zTzINEg"

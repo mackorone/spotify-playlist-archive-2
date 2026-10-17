@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJ1y7z+TC7yFg4Az06hoZaCvJqBDtB",
+  "snapshot_id": "AAAJ2YeZTC6dl5QD8OV0mm3iUMawuV/Y",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -13211,6 +13211,38 @@
       "duration_ms": 37640,
       "name": "raindrops (an angel cried)",
       "url": "https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk"
+    },
+    {
+      "added_at": "2026-10-17 00:40:00",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/5LtqJkOoeaAjN2vwLXldcC"
+    },
+    {
+      "added_at": "2026-10-17 00:40:07",
+      "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 41560,
+      "name": "Bd-R",
+      "url": "https://open.spotify.com/track/6xugCaKQQzLo0xnD3dZfjy"
     }
   ],
   "unique_name": "Zacklog",

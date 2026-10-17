@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,566 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,609 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NO BATIDÃO \- Slowed](https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:47 |
-| 2 | [TAKA LA DENTRO](https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr) | [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [TAKA LA DENTRO](https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE) | 1:29 |
-| 3 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
+| 2 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
+| 3 | [TAKA LA DENTRO](https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr) | [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [TAKA LA DENTRO](https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE) | 1:29 |
 | 4 | [TIKI TIKI \- Slowed](https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV) | [QMIIR](https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [TIKI TIKI](https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k) | 2:01 |
 | 5 | [Montagem Supersonic](https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk) | [KHAOS](https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [Mc Jajá](https://open.spotify.com/artist/1P2tOPRmSa1XzEdtIEYA9W) | [Montagem Supersonic](https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC) | 1:27 |
 | 6 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 32 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 33 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
 | 34 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
-| 35 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
+| 35 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 36 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
-| 37 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
+| 37 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
 | 38 | [MONTAGEM LADRAO](https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Itamar Mc](https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ) | [MONTAGEM LADRAO](https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO) | 1:15 |
 | 39 | [PSL \- Slowed](https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PSL](https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq) | 2:21 |
 | 40 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 1:57 |
 
-Snapshot ID: `AAAAAJspCbRFppbBfk2Q/heLYMd58BLp`
+Snapshot ID: `AAAAAMa1f42iIPzXzdqfjr9qC/SAWQjl`

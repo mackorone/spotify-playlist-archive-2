@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Pheelz
 
-240 songs - 11 hr 34 min
+241 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Ludo](https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:32 | 2026-03-16 | 2026-03-20 |
 | [Magba](https://open.spotify.com/track/7nO3P6A5TEYfUYXjDk5z5x) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [I D R I S](https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w) | 2:57 | 2025-10-24 | 2025-12-05 |
 | [MAJO](https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good II](https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y) | 2:47 | 2025-10-24 | 2026-05-22 |
-| [MAMACITA](https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [MAMACITA](https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR) | 2:57 | 2026-08-28 |  |
+| [MAMACITA](https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [MAMACITA](https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR) | 2:57 | 2026-08-28 | 2026-10-17 |
 | [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2026-03-16 | 2026-03-20 |
 | [Management](https://open.spotify.com/track/5kxMhIe7EvsRSkTT7Y8JYq) | [BIGKHALID](https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Management](https://open.spotify.com/album/3PVtMX98Q3vs8El1WEORgb) | 2:35 | 2026-05-22 | 2026-05-29 |
 | [Matter](https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Matter](https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb) | 2:49 | 2026-05-22 | 2026-07-29 |
@@ -238,6 +238,7 @@
 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 | 2025-10-24 | 2026-10-10 |
 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 | 2025-11-14 |  |
 | [Water](https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [All Hail Muyeez](https://open.spotify.com/album/050lle0DRA4195Robnvk2l) | 2:33 | 2026-08-28 |  |
+| [What A Feeling](https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [What A Feeling](https://open.spotify.com/album/233CXYAN2uRStnzufNSzHm) | 2:35 | 2026-10-16 |  |
 | [WHATS POPPING?¿](https://open.spotify.com/track/2jfUN624xpgD4GujBHQ75v) | [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [DaveTheOracle](https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z) | [Bobo Want 2 Sobobo](https://open.spotify.com/album/6YJtY2W1oHB1FMDXLIeeOT) | 2:12 | 2026-08-19 | 2026-08-28 |
 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 | 2025-10-24 | 2026-01-15 |
 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 | 2025-10-24 |  |

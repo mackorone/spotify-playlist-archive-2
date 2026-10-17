@@ -1,12 +1,12 @@
 {
   "description": "New music from Lost Frequencies, L2B, Ad\u00e8le Castillon, Bryan Mg and more...",
-  "num_followers": 54264,
+  "num_followers": 54430,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAaQv+3cSrcL8XBYCJg+z5g2GlQ",
+  "snapshot_id": "AAAAAN2JS8HVGMv500fP+g2tghFdyG0A",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:59",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/3rUPKvdhqJD7pGytdiozQv"
     },
     {
+      "added_at": "2026-10-16 08:52:31",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
       "added_at": "2026-10-15 22:01:59",
       "album": {
         "name": "Jeune Demoiselle",
@@ -271,6 +287,26 @@
       "duration_ms": 198591,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR"
+    },
+    {
+      "added_at": "2026-10-16 08:53:38",
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-10-15 22:01:59",
@@ -336,8 +372,8 @@
           "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 236226,
+      "name": "bell jar",
       "url": "https://open.spotify.com/track/6wRrsvclCs5MZahgt7qRFc"
     },
     {
@@ -430,6 +466,10 @@
         {
           "name": "Veertien",
           "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "Bix",
+          "url": "https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn"
         }
       ],
       "duration_ms": 148181,
@@ -651,6 +691,22 @@
     {
       "added_at": "2026-10-15 22:01:59",
       "album": {
+        "name": "BUENA ONDA",
+        "url": "https://open.spotify.com/album/0l2Rjrl8uem6Dm5J9BT8K6"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "duration_ms": 196265,
+      "name": "BUENA ONDA",
+      "url": "https://open.spotify.com/track/1bg7IHZzSoBXQyPStO6i3X"
+    },
+    {
+      "added_at": "2026-10-15 22:01:59",
+      "album": {
         "name": "Do You Want It",
         "url": "https://open.spotify.com/album/7l3WtfKjlo6ZfuhEAAkSGD"
       },
@@ -846,6 +902,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "duration_ms": 204884,
@@ -912,8 +972,8 @@
           "url": "https://open.spotify.com/artist/5VkemxUDiz46ZHPdvh0LX0"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 118250,
+      "name": "OnlyFans",
       "url": "https://open.spotify.com/track/1Im5Hja2RKTGyqQ8OEqJKe"
     },
     {
@@ -1199,6 +1259,22 @@
     {
       "added_at": "2026-10-15 22:01:59",
       "album": {
+        "name": "Tryo",
+        "url": "https://open.spotify.com/album/4Q9D6KUnvbuaknHfEOoYru"
+      },
+      "artists": [
+        {
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Petit d'homme",
+      "url": "https://open.spotify.com/track/46DzOOMGDjT1XueXMrnz7F"
+    },
+    {
+      "added_at": "2026-10-15 22:01:59",
+      "album": {
         "name": "GREEN MILE",
         "url": "https://open.spotify.com/album/0fz7EiGG2bqp4eECxRphkZ"
       },
@@ -1296,8 +1372,8 @@
           "url": "https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 150173,
+      "name": "Entre les deux",
       "url": "https://open.spotify.com/track/0PeEcvbMI819SFKntAKEq1"
     },
     {
@@ -1679,6 +1755,26 @@
     {
       "added_at": "2026-10-15 22:01:59",
       "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-10-15 22:01:59",
+      "album": {
         "name": "Spectral Eyes",
         "url": "https://open.spotify.com/album/0KoJgvW1kOgVy48U087nBM"
       },
@@ -1939,6 +2035,22 @@
       "duration_ms": 123750,
       "name": "KINKY",
       "url": "https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b"
+    },
+    {
+      "added_at": "2026-10-15 22:01:59",
+      "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb"
     },
     {
       "added_at": "2026-10-15 22:01:59",

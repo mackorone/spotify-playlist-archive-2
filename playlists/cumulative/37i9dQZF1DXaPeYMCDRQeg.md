@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-550 songs - 1 day 9 hr 22 min
+551 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Ivory](https://open.spotify.com/track/6wBAWqNNNWUpu2zxaqyC88) | [ziploq bag](https://open.spotify.com/artist/6JzIk06l66NVoAsqIYR9i8) | [Ivory](https://open.spotify.com/album/3B3dVRAqlBAuiVpIspOa2y) | 2:38 | 2026-01-09 |  |
 | [Jam \(feat\. Trey Songz, Ty Dolla $ign and Jamie Foxx\)](https://open.spotify.com/track/2IAaBzOLUtr2hqcwOItFWJ) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Islah \(Deluxe\)](https://open.spotify.com/album/5Hs43ta4vAYKRRRR7DKjt9) | 3:33 | 2025-06-24 | 2026-01-28 |
 | [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 | 2023-02-10 | 2024-02-01 |
+| [JUST MAYBE](https://open.spotify.com/track/654LRIgumqXYVc0e79hWOM) | [Angelo LeRoi](https://open.spotify.com/artist/4hLayOyRTBsFvYKkYQFyU7) | [Song of Solomon](https://open.spotify.com/album/6YZT5VWkUaWCXNylEjYXIV) | 2:58 | 2026-10-16 |  |
 | [Just Saying](https://open.spotify.com/track/2J23wFXB3E99p5jTRN1JjJ) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Pretty Girlz Run The World](https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh) | 2:27 | 2026-07-24 | 2026-08-22 |
 | [Keep It Lo](https://open.spotify.com/track/1rDQZor4MclkUhxkz4iNYn) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Bad Influence](https://open.spotify.com/album/5kGv5BuR9z5iVeJwrojX34) | 2:33 | 2023-02-10 | 2024-02-01 |
 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-09-20 | 2026-05-19 |

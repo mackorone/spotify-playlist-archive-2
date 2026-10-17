@@ -2,9 +2,9 @@
 
 ### [Starched](https://open.spotify.com/playlist/37i9dQZF1DX8IeJ8CDjZpj)
 
-> boot cut, extra heavy el almidón y el sombrero que no falte\. Kacey Musgraves, Intocable en portada.
+> boot cut, extra heavy el almidón y el sombrero que no falte\. Pepe Walker en portada.
 
-581 songs - 1 day 9 hr 43 min
+587 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 | 2025-08-18 | 2025-11-24 |
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2026-09-25 |  |
 | [Cielito Lindo](https://open.spotify.com/track/3XMHjiioE0J85S3B92flxj) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 4:01 | 2026-06-11 | 2026-09-26 |
+| [Cinnamon Girl](https://open.spotify.com/track/6Na1U6Gt5NlhomL7gjenKR) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Cinnamon Girl](https://open.spotify.com/album/4K320DsUR2XYqx2pnqgcDK) | 3:24 | 2026-10-16 |  |
 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 | 2026-01-09 | 2026-04-25 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2023-01-25 | 2025-07-30 |
 | [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 | 2025-07-29 | 2025-08-19 |
@@ -155,6 +156,7 @@
 | [El Polvorete](https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:48 | 2026-04-24 | 2026-06-12 |
 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 | 2026-07-06 | 2026-09-26 |
 | [El Rey](https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH) | 2:34 | 2026-06-11 | 2026-07-07 |
+| [El Sentimiento](https://open.spotify.com/track/4PpntNh5c9kgGoNERs727v) | [Isaveli Laina](https://open.spotify.com/artist/37dfV12XY35kkD8roaOSnj) | [El Sentimiento](https://open.spotify.com/album/6MlPxzsWGfMqFRWBL8Guiw) | 3:24 | 2026-10-16 |  |
 | [El siete mares](https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:38 | 2026-07-06 | 2026-09-26 |
 | [El Sinaloense](https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Memoria: Las Canciones Preferidas de Don Cruz](https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w) | 2:12 | 2026-06-11 | 2026-07-07 |
 | [El son de la negra](https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:59 | 2026-06-11 | 2026-09-26 |
@@ -508,6 +510,7 @@
 | [Tengo Que Colgar](https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 4:08 | 2026-01-09 | 2026-04-25 |
 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2026-09-25 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2026-09-25 |  |
+| [Terrenito](https://open.spotify.com/track/4k11onEHXQz0VULBlny9v1) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ) | [Ruta 77](https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR) | 2:58 | 2026-10-16 |  |
 | [Texas Girls Don't Fall In Love](https://open.spotify.com/track/3Ldf9i3RXY6ppZwx7pZl8J) | [Grupo Zenzio](https://open.spotify.com/artist/0phhTEgdg0vxSb5G3dPVsC) | [Texas Girls Don't Fall In Love](https://open.spotify.com/album/7JMGPPGbp8QZ5LpkipMFe1) | 3:10 | 2026-09-25 |  |
 | [The Ballad Of A Lonely Man](https://open.spotify.com/track/6cJlkAlOp1xu4noY3qFIn1) | [Vinny Tovar](https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV) | [From San Antone, With Love](https://open.spotify.com/album/1GfYV7bG9whkZtgGevSwk6) | 3:31 | 2026-09-25 |  |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2025-07-29 | 2025-08-19 |
@@ -547,11 +550,13 @@
 | [Unravel Me](https://open.spotify.com/track/5TVlcZRCVoJVi9OaDvGxEB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:05 | 2025-08-18 | 2025-09-06 |
 | [Unstoppable](https://open.spotify.com/track/059ACLUOyEcdruA2m9f2jd) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ) | 3:37 | 2026-01-09 | 2026-04-25 |
 | [Vanidosa](https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Corazón](https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY) | 3:17 | 2026-04-24 | 2026-06-12 |
+| [Varias Bocas](https://open.spotify.com/track/45FWkCX1YDcq4RmioHHEu6) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Ruta 77](https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR) | 2:57 | 2026-10-16 |  |
 | [Velas](https://open.spotify.com/track/30XtLd1cxbWxzodM8lXrIS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Velas](https://open.spotify.com/album/26R4zzccMTLiD6PXKkPjti) | 3:03 | 2026-09-25 |  |
 | [Ven Bailalo](https://open.spotify.com/track/2KtNeULMaw8sFkr8w13WWB) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Strictly Latin Dancing Come And Dance](https://open.spotify.com/album/395yG7il5B0i3V22UN37y2) | 4:12 | 2023-01-25 | 2025-07-30 |
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y) | 4:12 | 2023-01-25 | 2024-04-19 |
 | [Ven, Dime Que No](https://open.spotify.com/track/30WYI1AEFAhehTrpIvX46c) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [CD9](https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5) | 3:17 | 2025-11-23 | 2026-01-15 |
 | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l) | 4:19 | 2023-01-25 | 2026-04-25 |
+| [Vibra Inexplicable](https://open.spotify.com/track/2yZWbWSIYRQUchJqHRHiMb) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Ruta 77](https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR) | 3:29 | 2026-10-16 |  |
 | [Viva Mexico](https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK) | 2:28 | 2026-06-11 | 2026-09-26 |
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2023-01-25 | 2025-07-30 |
 | [Volvería](https://open.spotify.com/track/7Fh6jDbjjoyELGdlHjfLKl) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Volvería](https://open.spotify.com/album/3JB5cOPooKdhmP528Z3Uaa) | 3:00 | 2025-08-18 | 2025-11-24 |
@@ -589,5 +594,6 @@
 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2023-01-25 | 2025-07-30 |
 | [Ángel Cruel](https://open.spotify.com/track/7MawGk8MXp3aymMTgaCAGz) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [CD9](https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5) | 3:45 | 2025-11-23 | 2026-01-15 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2023-01-25 | 2025-07-30 |
+| [Última Lágrima \- En Vivo](https://open.spotify.com/track/1QtWsD4ZlorrMO30JXNbx1) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Última Lágrima \(En Vivo\)](https://open.spotify.com/album/0EOCaKGI9o9qbDyaZ3Phms) | 2:53 | 2026-10-16 |  |
 
 \*This playlist was first scraped on 2023-12-19. Prior content cannot be recovered.

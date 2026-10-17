@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Olivia Rodrigo, Chappell Roan
 
-4,140 songs - 9 day 9 hr 37 min
+4,141 songs - 9 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2127,6 +2127,7 @@
 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 | 2026-01-30 | 2026-03-20 |
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-22 | 2023-07-29 |
 | [Lie With Me](https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:19 | 2026-03-27 | 2026-05-01 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-15 |  |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-06-20 | 2024-07-19 |
 | [Life & Money](https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:05 | 2023-04-27 | 2023-06-02 |
 | [Life In The Dark](https://open.spotify.com/track/3nPe8kguVhPkgApTQrxC71) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [Felice County Fair \(A Celebration of The Felice Brothers\)](https://open.spotify.com/album/3KzKglgUmogktIg1YLo82f) | 3:55 | 2026-10-15 |  |
@@ -3663,7 +3664,7 @@
 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 | 2025-10-16 | 2025-11-14 |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-07-06 | 2023-08-05 |
 | [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-05-01 | 2025-06-06 |
-| [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 | 2026-10-15 |  |
+| [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Rohan Pinnock\-Hamilton](https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 | 2026-10-15 |  |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 | 2024-02-23 |
 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 | 2022-05-26 | 2022-06-25 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-03 | 2023-03-10 |

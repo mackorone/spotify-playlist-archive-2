@@ -1,15 +1,47 @@
 {
   "description": "A collection of beautiful songs by Indigenous artists. Cover: Elisapie",
-  "num_followers": 60642,
+  "num_followers": 60694,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPDtuCaNUSjPa6kyuESWfO5/s1K",
+  "snapshot_id": "AAAAAAMDN/JhHX5v0qOvdB98bTPPMXsC",
   "tracks": [
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
+      "album": {
+        "name": "Jeremy Dutcher Trio Live in Japan",
+        "url": "https://open.spotify.com/album/3kWNVH2Yb7KSeL4QdbN9yx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "duration_ms": 299210,
+      "name": "The Land That Held Them - Live in Japan",
+      "url": "https://open.spotify.com/track/1LUw9CyaC1QC9SdNzX4gAl"
+    },
+    {
+      "added_at": "2026-10-16 04:03:06",
+      "album": {
+        "name": "Petcimote Ote",
+        "url": "https://open.spotify.com/album/6bdKzMFTr3D3kynLZLOhxu"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Petcimote Ote",
+      "url": "https://open.spotify.com/track/5mdKZOm9YtRGGMIsiRKmaJ"
+    },
+    {
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Sinnatuumakka (Dreams)",
         "url": "https://open.spotify.com/album/04Rry2QpYeSmdRt50ZIuLX"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/2bZeUpwhBk8skDqgHMWpqi"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Iskw\u00eaw",
         "url": "https://open.spotify.com/album/6bHmF0MXOWZi9LSqKCCd2C"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/2iSTBOBNxK8O361WPsxRDq"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "FISH",
         "url": "https://open.spotify.com/album/18GNQvztxKza2q2cmk9Ysc"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/2BwYoMfANUJdGEGyEL1dD2"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Motewolonuwok",
         "url": "https://open.spotify.com/album/0GSKrVvb8FZlMfsBpTLFjL"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/7vjh9C0Dd2E9gm58AzWBy0"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Rearview",
         "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "This Is My Life",
         "url": "https://open.spotify.com/album/0GU3O4ftpO3fGSPH2SVDF9"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/144ST8KnASklkSUUVgbCSn"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Medicine Wheel",
         "url": "https://open.spotify.com/album/7AfK1Loj25IJe7HdzsbPjI"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/69DxXDSJWyrLHZ78LBRHz5"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Since 95",
         "url": "https://open.spotify.com/album/6d3NMaDVgvGNRqpYbnDvya"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/08MoHYHrP4t6QhGJvAOv19"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Neon Town",
         "url": "https://open.spotify.com/album/7mEqmkilvctmYwZegxYSal"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/1XOAvyG75esKqcVrU1905C"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "My Favorite Sin",
         "url": "https://open.spotify.com/album/5k4u4XGDimikKfnh40RPde"
@@ -177,7 +209,7 @@
       "url": "https://open.spotify.com/track/1xbtm7pIzl4q1Ijx7jrQ5m"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Comanche / White Lightning (Japan Stereo Mix 2026)",
         "url": "https://open.spotify.com/album/2iQRKWmm7WkxanayZMrR53"
@@ -193,7 +225,7 @@
       "url": "https://open.spotify.com/track/6ndUiNseNU1ar5vZeYt4Ms"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Trapline",
         "url": "https://open.spotify.com/album/3D3LsckIankBl1THtMQlJM"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/2xsazYPBuS6CRHDrjoqzEb"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology",
         "url": "https://open.spotify.com/album/5TEMjTAfk1m4ByGwDj7794"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/7AYfvCft2ambgSuxTi0Pxs"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Chickens in the Trailer Park",
         "url": "https://open.spotify.com/album/5WZKF7D9tnrenaKXop7vp8"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/5pyu7yJbZW3OpTWRwrXi6T"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Silent Warrior",
         "url": "https://open.spotify.com/album/1Qfmkij2s40dh2BQ5JCNPa"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/5tr1woX2TVOHfVcevcX8Vb"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "The Next Chapter",
         "url": "https://open.spotify.com/album/14IWeoFPWUzo8Q3sBYkmW9"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/4VRIu6gC73kFe1LMwH0EP0"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Hell of a Daydream",
         "url": "https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Country Groove",
         "url": "https://open.spotify.com/album/3rN3jRCndX9mKNuPdP8bfj"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/5ZyEr3ptTAPSYOjBGquhGm"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Loved You All Along",
         "url": "https://open.spotify.com/album/53SW1wC3QkXvEbE156AvbE"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/6WezXltnNDwOINzjcFdykZ"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Jade Turner",
         "url": "https://open.spotify.com/album/4pxOilsNIlOGg99cGfbf3l"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/3Ebx6YPc3XKgktnELRmDao"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "RED FUTURE",
         "url": "https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/2p1UpmRJBVHek5DKL0tbQa"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Rollin' & Tumblin'",
         "url": "https://open.spotify.com/album/0zH3VfkDhdbBBTl80Q5Lyz"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/33yETwxlok0VSSUqCKPwiK"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Chevy Beaulieu",
         "url": "https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/15dkTfTBwtG4tpz3hVbMYu"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Nation II Nation",
         "url": "https://open.spotify.com/album/5SKS3EwP2Ifv8ypqUrWB3h"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/6ZzHtu3SSeuG7vQ3LL7vjo"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Marvin Rainwater Country and Western Star",
         "url": "https://open.spotify.com/album/2JeYY2ptcMnRDUhMUQAvot"
@@ -429,7 +461,7 @@
       "url": "https://open.spotify.com/track/1iUHs4yDHpwJ11TXx5ZkkH"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Good Buddy",
         "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
@@ -445,7 +477,7 @@
       "url": "https://open.spotify.com/track/7s3LXB2IecZ0E3pijltHKu"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Further From the Country",
         "url": "https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO"
@@ -461,7 +493,7 @@
       "url": "https://open.spotify.com/track/2saySH2zRgmNq16TFZS27W"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Mud Blood Bone",
         "url": "https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU"
@@ -477,7 +509,7 @@
       "url": "https://open.spotify.com/track/3BPQQv6qsxpOC9oNF6KADf"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Straight Whiskey",
         "url": "https://open.spotify.com/album/61inFacS4vsCcqg0gMt4m8"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/5VoIfGr21Y6mkFZx6kaFBG"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Put Your Feathers On",
         "url": "https://open.spotify.com/album/51p944Re7VpiQylcRVMbMr"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/0mD9244Msu3YUuDuRZrfU4"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Sage My Soul",
         "url": "https://open.spotify.com/album/403Imnd6NTzDTbwxVAR2ZU"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/1xKHTdrOlDwXVfe6mG8apM"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/1cPNmlx4bKWmVgqcJC6dcb"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/6XJMZ8XIm5WehJTY4B7hoj"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/0BTzfUm1qXyeekX8MgMAMC"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/3eOUcXAIHTAO3414qIvyWQ"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Cruel Joke",
         "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/1ERgZKcOl3XCimALNr5VVw"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "The Legendary Sun Classics",
         "url": "https://open.spotify.com/album/3NVX14fsKVOBt8mPbUMgwj"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/1yDAzE81UefB7767FQktZw"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Can't Blame My Bloodline",
         "url": "https://open.spotify.com/album/6SRftTNoZYzsPfD8vOI24K"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/1W184HBj3KszLH1LfN92eH"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology",
         "url": "https://open.spotify.com/album/5TEMjTAfk1m4ByGwDj7794"
@@ -645,7 +677,7 @@
       "url": "https://open.spotify.com/track/7vtB525Mw0sXGk6WHPYybX"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Link Wray",
         "url": "https://open.spotify.com/album/6NYyr8iHYfYxCRrvFu0Xfi"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/64dByZjmB5NN5PiWZQdM2X"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "A Lot About A Little",
         "url": "https://open.spotify.com/album/3vki6Q7nFB6jldMTdGi5zg"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/2ZzSjyVPiCk7II9D37qnuW"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Life Is Calling My Name",
         "url": "https://open.spotify.com/album/3Vz0gEiqMYkfaop1UpOucD"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/1S7JYQDLO0L225OnLz4yza"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Longer Than A Little While",
         "url": "https://open.spotify.com/album/4BVIljEEJFxUaa3PFdphT5"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/7Bznuc6n1wwjHmOHK9Ceb6"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Woman in Color",
         "url": "https://open.spotify.com/album/5O8UYOmXvdRfMTuh3gQYRe"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/0NL25XcyfMwUAM2T3tEdvJ"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Good Buddy",
         "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/1igYV6bfAibN26GqVNNOGt"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Nasgino Inage Nidayulenvi (It Started in the Woods)",
         "url": "https://open.spotify.com/album/2skgWEWI01fzUwDKvhzm7d"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/7sqBTtGHz0hRaSZqkHmu6R"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Come Back Through",
         "url": "https://open.spotify.com/album/4wi7mHjnb1Pf4JwaUpqt9D"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/2yC5zUYKmBNckZVqziWsrA"
     },
     {
-      "added_at": "2026-09-30 12:18:02",
+      "added_at": "2026-10-16 04:03:06",
       "album": {
         "name": "Gypsy Blues",
         "url": "https://open.spotify.com/album/3QrMkRlHBBIaJJdwzoLZEP"

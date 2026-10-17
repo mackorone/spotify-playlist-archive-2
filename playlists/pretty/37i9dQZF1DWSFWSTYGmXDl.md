@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,718 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,733 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \(Spotify Singles Holiday\)](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
+| 1 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
 | 2 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
 | 3 | [The Christmas Song](https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Christmas Song](https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n) | 2:55 |
 | 4 | [2000 Miles \- Spotify Singles Holiday](https://open.spotify.com/track/1HftwnsmpwF97Q3hnbyYWg) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [2000 Miles \- Spotify Singles Holiday](https://open.spotify.com/album/4dEwGrcucC4SyfXviDQSlf) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 99 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 |
 | 100 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
 
-Snapshot ID: `AAAAABZPd7nE27h+u7WbhWE/N1hFjUiQ`
+Snapshot ID: `AAAAAG/MzGku4IlMI0iNcJlDvpvHlnWZ`

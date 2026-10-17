@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223987,
+  "num_followers": 224004,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN7h4sCpQ0b7n9c03ZwXvexUQPT2",
+  "snapshot_id": "AAAAAG0ldKh90tq/Vz/bKKSBZmaClc0S",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:33",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Respiro 1",
+        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 181984,
+      "name": "Respiro 1",
+      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
         "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 268002,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
       "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Respiro 1",
-        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 181984,
-      "name": "Respiro 1",
-      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Glass: Tissue No. 7 (Musical Moments)",
         "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 195712,
       "name": "Tissue No. 7",
       "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
         "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 254653,
       "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Gounod: Impromptu",
-        "url": "https://open.spotify.com/album/2ZpYMxheUrlhxyzQT75AOg"
+        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
       },
       "artists": [
         {
-          "name": "Charles Gounod",
-          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
-      "duration_ms": 137440,
-      "name": "Gounod: Impromptu",
-      "url": "https://open.spotify.com/track/7EBnS9yjKaR9lPqYhjPRQi"
+      "duration_ms": 142166,
+      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1171,22 +1171,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
+        "name": "Gounod: Impromptu",
+        "url": "https://open.spotify.com/album/2ZpYMxheUrlhxyzQT75AOg"
       },
       "artists": [
         {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+          "name": "Charles Gounod",
+          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
         },
         {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
         }
       ],
-      "duration_ms": 142166,
-      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
+      "duration_ms": 137440,
+      "name": "Gounod: Impromptu",
+      "url": "https://open.spotify.com/track/7EBnS9yjKaR9lPqYhjPRQi"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 139974,
       "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 98120,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Mozart 1791",
         "url": "https://open.spotify.com/album/74bgXk4SBoMqfcXoAAh7VQ"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 370546,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/06sgVDVY4sH0TkQSEl2TFU"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Devotions (String Quartet No 3): III.",
-        "url": "https://open.spotify.com/album/45vOywZwvefQaKNIhoyLrl"
-      },
-      "artists": [
-        {
-          "name": "Edmund Finnis",
-          "url": "https://open.spotify.com/artist/43AwXMZwny13kQZFMzMN75"
-        },
-        {
-          "name": "Solem Quartet",
-          "url": "https://open.spotify.com/artist/63YhBkgW5BOcyn95e9mqAw"
-        }
-      ],
-      "duration_ms": 255534,
-      "name": "Devotions (String Quartet No 3): III.",
-      "url": "https://open.spotify.com/track/0J1HEV58pUrMe0Rhh2Hcej"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Chordal Drift",
         "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 182965,
       "name": "Chordal Drift",
       "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Devotions (String Quartet No 3): III.",
+        "url": "https://open.spotify.com/album/45vOywZwvefQaKNIhoyLrl"
+      },
+      "artists": [
+        {
+          "name": "Edmund Finnis",
+          "url": "https://open.spotify.com/artist/43AwXMZwny13kQZFMzMN75"
+        },
+        {
+          "name": "Solem Quartet",
+          "url": "https://open.spotify.com/artist/63YhBkgW5BOcyn95e9mqAw"
+        }
+      ],
+      "duration_ms": 255534,
+      "name": "Devotions (String Quartet No 3): III.",
+      "url": "https://open.spotify.com/track/0J1HEV58pUrMe0Rhh2Hcej"
     },
     {
       "added_at": "2026-09-25 04:01:33",

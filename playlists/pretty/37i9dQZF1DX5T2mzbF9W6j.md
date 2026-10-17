@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,069 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,067 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 51 | [Ruchy pełne dźwięku](https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ruchy pełne dźwięku](https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk) | 2:53 |
 | 52 | [TAK TAK](https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [TAK TAK](https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV) | 3:24 |
 | 53 | [Nie wszystko złoto, co się świeci](https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB) | [Wojtek Szumański](https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI) | [Nie wszystko złoto, co się świeci](https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G) | 3:01 |
-| 54 | [Terapia dla par](https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Terapia dla par](https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De) | 4:01 |
-| 55 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
+| 54 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
+| 55 | [Terapia dla par](https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Terapia dla par](https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De) | 4:01 |
 | 56 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
 | 57 | [Bierz co jest](https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R) | [GOLEC UORKIESTRA](https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx) | [Bierz co jest](https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu) | 2:30 |
 | 58 | [Żebro](https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Plamy](https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P) | 3:31 |
 | 59 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
 | 60 | [Zanim Znikniesz](https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Zanim Znikniesz](https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew) | 3:06 |
 
-Snapshot ID: `AAAAAFmFokxyD85MGRHRo2D4mIJbLRNz`
+Snapshot ID: `AAAAAHvIaNEBdl5lAAU5qAAILb6AsmFS`

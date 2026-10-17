@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,542 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,543 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 49 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 |
 | 50 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
 
-Snapshot ID: `AAAAAGYzJShYq7H/rd1Xw4lXh4BH+KwD`
+Snapshot ID: `AAAAALFFWOGPZl1cZ6GDnIwVxmaVck+3`

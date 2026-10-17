@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Ay Candela",
+        "url": "https://open.spotify.com/album/0xgToUsAvgq6fj7eUA7XuY"
+      },
+      "artists": [
+        {
+          "name": "Les Castizos",
+          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
+        },
+        {
+          "name": "Allan Nunez",
+          "url": "https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206134,
+      "name": "Ay Candela",
+      "url": "https://open.spotify.com/track/4j6c94morGkqD7ilxmOsZg"
+    },
+    {
+      "album": {
         "name": "AY PAPI",
         "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
       },
@@ -1569,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Beso",
+        "url": "https://open.spotify.com/album/1pyz1y3vmDF0eE5eHSkLhP"
+      },
+      "artists": [
+        {
+          "name": "Ares Carter",
+          "url": "https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167232,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/0PqAzlMrQmIW5GqiKFBfoY"
+    },
+    {
+      "album": {
         "name": "Beso (Fruta Fresca)",
         "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
       },
@@ -2054,7 +2094,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 112750,
       "name": "B\u00e1ilalo",
       "url": "https://open.spotify.com/track/5fHis5m0EWAh4ZIWOOlUZQ"
@@ -6944,7 +6984,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 170893,
       "name": "Magalenha",
       "url": "https://open.spotify.com/track/650kG0vQyMypQcLSoTcrgU"
@@ -7600,7 +7640,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 200307,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
@@ -7710,7 +7750,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
@@ -8560,7 +8600,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
@@ -9640,7 +9680,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 225000,
       "name": "RECONTRECALOR - Radio Edit",
       "url": "https://open.spotify.com/track/1oPpwL0XRQ2I66v5VwrpMF"

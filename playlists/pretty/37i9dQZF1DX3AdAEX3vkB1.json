@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 342391,
+  "num_followers": 342451,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOxz99NI7TtIvMizFb4fThvPZJiW",
+  "snapshot_id": "AAAAAHm7P/MGjZNdscDW/fOE5jQ1w5w4",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Pure... '60s",
-        "url": "https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx"
-      },
-      "artists": [
-        {
-          "name": "Love Affair",
-          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Pure... '60s",
+        "url": "https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx"
+      },
+      "artists": [
+        {
+          "name": "Love Affair",
+          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Needles & Pins",
         "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
       },
@@ -1887,6 +1871,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Groovin' with Manfred Mann",
         "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
       },
@@ -1899,6 +1899,22 @@
       "duration_ms": 143400,
       "name": "Do Wah Diddy Diddy",
       "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Friday on My Mind",
+      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1931,22 +1947,6 @@
       "duration_ms": 175066,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Friday on My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Carrie Anne",
-      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The 50th Anniversary Collection",
         "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 166053,
       "name": "I Got You (I Feel Good)",
       "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Carrie Anne",
+      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Trojan Presents: Mod Ska",
-        "url": "https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq"
-      },
-      "artists": [
-        {
-          "name": "Millie Small",
-          "url": "https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT"
-        }
-      ],
-      "duration_ms": 122160,
-      "name": "My Boy Lollipop",
-      "url": "https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "20 All-Time Greatest Hits!",
         "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 125706,
       "name": "Papa's Got A Brand New Bag - Pt. 1",
       "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Trojan Presents: Mod Ska",
+        "url": "https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq"
+      },
+      "artists": [
+        {
+          "name": "Millie Small",
+          "url": "https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT"
+        }
+      ],
+      "duration_ms": 122160,
+      "name": "My Boy Lollipop",
+      "url": "https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2275,8 +2275,8 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn"
       },
       "artists": [
         {
@@ -2284,9 +2284,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered",
-      "url": "https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA"
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered",
+      "url": "https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2339,8 +2339,8 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn"
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
       },
       "artists": [
         {
@@ -2348,9 +2348,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered",
-      "url": "https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD"
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered",
+      "url": "https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA"
     }
   ],
   "unique_name": "60s Party",

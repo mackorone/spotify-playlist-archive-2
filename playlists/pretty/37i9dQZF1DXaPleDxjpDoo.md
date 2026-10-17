@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,207 likes - 175 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,309 likes - 175 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 174 | [Pesanteur](https://open.spotify.com/track/5pzmVX5w6AK7IEuuAGrCcO) | [Auremist](https://open.spotify.com/artist/66lfbXCNAo1TaYXiFnnaIE) | [Pesanteur](https://open.spotify.com/album/02U4nbAuQOUnU3BXdaeFgU) | 3:26 |
 | 175 | [The Ground Beneath](https://open.spotify.com/track/0DLDgts6WSS6c7JW9fpDWk) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [The Ground Beneath](https://open.spotify.com/album/78rNE8rWFyf7Nv5o29c6xS) | 3:01 |
 
-Snapshot ID: `AAAAAHVu3GlCSjJHxeKvO3yF6zKXKCfm`
+Snapshot ID: `AAAAALASTlj0WlHuRCAh8bKGqboQ5cnu`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Florence Road",
+  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Temper City",
   "name": "the new alt",
   "tracks": [
     {
@@ -7547,6 +7547,24 @@
     },
     {
       "album": {
+        "name": "bitE & body",
+        "url": "https://open.spotify.com/album/3GjGlbzdVXFl5ssBcS1Iry"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "bitE",
+      "url": "https://open.spotify.com/track/6nIotBUAn7IsUpe2wwmQHE"
+    },
+    {
+      "album": {
         "name": "Bite Me",
         "url": "https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv"
       },
@@ -7829,6 +7847,28 @@
     },
     {
       "album": {
+        "name": "Black Stars",
+        "url": "https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Black Stars - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm"
+    },
+    {
+      "album": {
         "name": "Glimmer of God",
         "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
       },
@@ -7952,6 +7992,28 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Blackstar",
+      "url": "https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2"
     },
     {
       "album": {
@@ -8283,6 +8345,24 @@
     },
     {
       "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226726,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C"
+    },
+    {
+      "album": {
         "name": "Blood In The Water",
         "url": "https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2"
       },
@@ -8604,7 +8684,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 160000,
       "name": "Blue Shadows (feat. Karen O)",
       "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
@@ -11678,7 +11758,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 180116,
       "name": "Caught Myself Believing",
       "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
@@ -14928,7 +15008,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 159653,
       "name": "crystallized",
       "url": "https://open.spotify.com/track/5yUwlZ1IS6Yg1FqyAqK9Ro"
@@ -19340,7 +19420,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187706,
       "name": "Drunk lullaby",
       "url": "https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW"
@@ -21557,6 +21637,28 @@
     },
     {
       "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+    },
+    {
+      "album": {
         "name": "Grief Chapter",
         "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
@@ -23276,6 +23378,40 @@
       "duration_ms": 237623,
       "name": "Flotando",
       "url": "https://open.spotify.com/track/0sil8cOyRbfgEacLt771GW"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -25022,6 +25158,24 @@
       "duration_ms": 207567,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/2L0GKmQTI4N1NGe21pDKiy"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/3ZhTfeef3Y6AkC7PEaGmRJ"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192662,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/1z8A0pBSko5gfFlCY2cflK"
     },
     {
       "album": {
@@ -31067,6 +31221,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168967,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy"
+    },
+    {
+      "album": {
         "name": "I Am Happy",
         "url": "https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F"
       },
@@ -31501,6 +31673,28 @@
     },
     {
       "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97693,
+      "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
+      "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
+    },
+    {
+      "album": {
         "name": "I Got Cracked",
         "url": "https://open.spotify.com/album/4bubPbLDMUekBjvHIrhgYe"
       },
@@ -31660,6 +31854,28 @@
       "duration_ms": 159506,
       "name": "I Kinda Like That",
       "url": "https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2"
+    },
+    {
+      "album": {
+        "name": "I know",
+        "url": "https://open.spotify.com/album/4vDMbZZODUPVWD6LsZg5h7"
+      },
+      "artists": [
+        {
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/1dtdCmWxgKAPVxK22OQShC"
     },
     {
       "album": {
@@ -34621,6 +34837,24 @@
     },
     {
       "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194205,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
+    },
+    {
+      "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
       },
@@ -36169,6 +36403,24 @@
     },
     {
       "album": {
+        "name": "KOYSAR",
+        "url": "https://open.spotify.com/album/4Sd40mLP119PKaSJrbKUEy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197110,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/6Xe1HtLCdWp3Citi2UKVRd"
+    },
+    {
+      "album": {
         "name": "as in progress",
         "url": "https://open.spotify.com/album/4ywGQ13kokX0rq53emZfMn"
       },
@@ -36296,6 +36548,24 @@
       "duration_ms": 162206,
       "name": "Lapdog",
       "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222478,
+      "name": "Lasso The Moon",
+      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
     },
     {
       "album": {
@@ -36672,6 +36942,24 @@
       "duration_ms": 190053,
       "name": "Leaving The Light",
       "url": "https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD"
+    },
+    {
+      "album": {
+        "name": "LEECH",
+        "url": "https://open.spotify.com/album/6nGS5qlPkOFxluAnBMHIT2"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187323,
+      "name": "LEECH",
+      "url": "https://open.spotify.com/track/6b1ZdCwHInrosE6YSXsvXz"
     },
     {
       "album": {
@@ -37256,6 +37544,28 @@
       "duration_ms": 170563,
       "name": "Lies",
       "url": "https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI"
+    },
+    {
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "album": {
@@ -42580,7 +42890,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 285333,
       "name": "Morphine",
       "url": "https://open.spotify.com/track/2QS9W9Y1B8WiUvUFItidSy"
@@ -43266,7 +43576,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 247694,
       "name": "My Whole World",
       "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
@@ -50128,7 +50438,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 212063,
       "name": "Powerless",
       "url": "https://open.spotify.com/track/5Da4Zmr1mTtG3PvOoXYGW3"
@@ -52318,7 +52628,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178928,
       "name": "Reverse Psychology",
       "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
@@ -55459,6 +55769,24 @@
     },
     {
       "album": {
+        "name": "Sex & Drugs",
+        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Sex & Drugs",
+      "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
+    },
+    {
+      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -56603,6 +56931,24 @@
     },
     {
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "album": {
         "name": "Sick",
         "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
       },
@@ -56900,7 +57246,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 155648,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
@@ -59885,6 +60231,24 @@
     },
     {
       "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/4yJ6xcyg1Rv7htmNxwSdX8"
+      },
+      "artists": [
+        {
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236453,
+      "name": "star",
+      "url": "https://open.spotify.com/track/6amVMTh1Lr08QA27a7FtCx"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/6ALceKygaMi66f4hNfSOUq"
       },
@@ -60520,7 +60884,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
@@ -64033,6 +64397,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Show On Earth",
+        "url": "https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334109,
+      "name": "The Greatest Show On Earth",
+      "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
+    },
+    {
+      "album": {
         "name": "The Hand",
         "url": "https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx"
       },
@@ -67438,7 +67820,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193716,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/1XzQ57ONjIpRYB878VuGnF"
@@ -72630,6 +73012,28 @@
       "duration_ms": 231670,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D"
     },
     {
       "album": {

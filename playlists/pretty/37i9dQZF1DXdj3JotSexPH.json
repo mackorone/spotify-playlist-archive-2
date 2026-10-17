@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYprhI9e01qZD0R20z1hBn0+J7b",
+  "snapshot_id": "AAAAAKX1K337FbjA7fVea/QNIrOfLC/m",
   "tracks": [
     {
       "added_at": "2026-04-13 15:38:24",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "LOS VOLTAJE",
         "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 99285,
       "name": "LOS VOLTAJE",
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Lioness",
-        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        }
-      ],
-      "duration_ms": 172515,
-      "name": "Lioness",
-      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "ESTA NOCHE",
-        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 68702,
-      "name": "ESTA NOCHE",
-      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Weekend Rockstar",
         "url": "https://open.spotify.com/album/6Y6XreGMhHRm3FIqHYjGXF"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 111725,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/0LIEtliIARSvMc5niYy0OX"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ESTA NOCHE",
+        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        }
+      ],
+      "duration_ms": 68702,
+      "name": "ESTA NOCHE",
+      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "He's A Pirate (Save Me)",
         "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 153125,
       "name": "He's A Pirate (Save Me)",
       "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "girl EDM (disc 1)",
         "url": "https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 127634,
       "name": "Angel Music",
       "url": "https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
-      },
-      "artists": [
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2075,30 +2075,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Halo (feat. Shibui)",
-        "url": "https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd"
-      },
-      "artists": [
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Shibui",
-          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Halo (feat. Shibui)",
-      "url": "https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "As The Pendulum Swings",
         "url": "https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd"
       },
@@ -2123,6 +2099,30 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Halo (feat. Shibui)",
+        "url": "https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Halo (feat. Shibui)",
+      "url": "https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Dem Not Ready",
         "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
       },
@@ -2135,6 +2135,30 @@
       "duration_ms": 277714,
       "name": "Dem Not Ready",
       "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "PULL ME CLOSER",
+        "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 199183,
+      "name": "PULL ME CLOSER",
+      "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2167,46 +2191,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "PULL ME CLOSER",
-        "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "PULL ME CLOSER",
-      "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "SICK FUCK",
         "url": "https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 178285,
       "name": "on our own",
       "url": "https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "The Basement",
-        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
-      },
-      "artists": [
-        {
-          "name": "Kissimjau",
-          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "The Basement",
-      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "take me by the hand (Aaron Hibell remix)",
         "url": "https://open.spotify.com/album/3XVJ9mW3dKjoXrMDpT9r1m"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 270533,
       "name": "take me by the hand - Aaron Hibell remix",
       "url": "https://open.spotify.com/track/6wtzU740nPNrISiUyFjLyc"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "The Basement",
+        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
-      },
-      "artists": [
-        {
-          "name": "Ogryzek",
-          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
-        }
-      ],
-      "duration_ms": 149522,
-      "name": "GLORY",
-      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
       },
@@ -2715,6 +2699,22 @@
       "duration_ms": 123316,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2859,6 +2859,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Sequ\u00eancia da Dz7",
         "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
       },
@@ -2875,22 +2891,6 @@
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
       "added_at": "2026-04-13 15:38:24",

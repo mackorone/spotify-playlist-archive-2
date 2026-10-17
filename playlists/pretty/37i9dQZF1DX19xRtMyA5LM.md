@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: HIGH SOCIETY, Qlas & Isabèl Usher, Saaff, 3robi & Lijpe, Zack Ink & Vic9 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,799 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,766 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 4 | [Volwassen Mannen Dingen](https://open.spotify.com/track/0Lkj781QAkBk8ClCu5QxFC) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Vic9](https://open.spotify.com/artist/7FGPqGAnNztJ6mQniyFLt9) | [Volwassen Mannen Dingen](https://open.spotify.com/album/2Y8TrsWQL0KnlEeKNE1Xdc) | 2:13 |
 | 5 | [METEN & WEGEN](https://open.spotify.com/track/28bjLDVYB7Eu7S1zDYEBTY) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 2:52 |
 | 6 | [Schijn je licht op mij](https://open.spotify.com/track/4h6oCJNPJ06eYT3M9jdCOq) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Schijn je licht op mij](https://open.spotify.com/album/0KSSoSWXL7s2IFgdK28Cve) | 2:09 |
-| 7 | [Team](https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo) | [Team](https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f) | 2:28 |
+| 7 | [Team](https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo), [Bix](https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn) | [Team](https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f) | 2:28 |
 | 8 | [HAYEK](https://open.spotify.com/track/5nQznbUUyIkJCiIiEjwTME) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [HAYEK](https://open.spotify.com/album/4BaYBsy0FlFCZpRfU4GTHr) | 2:04 |
 | 9 | [Fijnproever](https://open.spotify.com/track/1IMec53wbo65roDYmCnbdX) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 1:43 |
 | 10 | [Zak Je Toon](https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Zak Je Toon](https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar) | 2:05 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 23 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |
 | 24 | [Ring d’Anvers](https://open.spotify.com/track/7dONsabhDrIQGJsZ9ZpmYO) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [Ring d’Anvers](https://open.spotify.com/album/42wDka1eRqo4MlXiMnaGR1) | 2:16 |
 | 25 | [Meeting met de dood](https://open.spotify.com/track/7k4gZk44hQD1HRRh1QGuFc) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Meeting met de dood](https://open.spotify.com/album/3ZN6NMUY0QrLPApkCvhSLN) | 2:54 |
-| 26 | [HAC à DOS](https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU) | [247Loosey](https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH) | [HAC à DOS](https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI) | 2:21 |
+| 26 | [HAC à DOS](https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU) | [247Loosey](https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x) | [HAC à DOS](https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI) | 2:21 |
 | 27 | [TOKYO](https://open.spotify.com/track/1bDOSa2VxFDMOTd2tEsuNE) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:23 |
 | 28 | [Haast](https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE) | [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Haast](https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5) | 3:05 |
 | 29 | [Komt Goed](https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Komt Goed](https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Prada](https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Prada](https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf) | 2:00 |
 | 60 | [Macho Man](https://open.spotify.com/track/6dw2b4HlQgeeAuLFMgCOt0) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Macho Man](https://open.spotify.com/album/6aJEpnLt09zGWlK7SMPsRi) | 1:54 |
 
-Snapshot ID: `AAAAACJ4fFj0g19Erm6PTVu7Swag8Et0`
+Snapshot ID: `AAAAAGPso+YYHiKLWt+WI3bHamx1A0Md`

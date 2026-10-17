@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Dabda\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,762 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,769 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Unstable](https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp) | [Itzel](https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O) | [Unstable](https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI) | 2:54 |
 | 50 | [me, myself and cat](https://open.spotify.com/track/25zaajzCkPGYHF3rTalHti) | [Kyurin](https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp) | [me, myself and cat](https://open.spotify.com/album/3GikzttMcKZ0MxAP4XHYbv) | 3:09 |
 
-Snapshot ID: `AAAAAMBC/oXiZD3YRLEvNQ0H1pKosOkG`
+Snapshot ID: `AAAAAIXzXl96UHKv/EAyYOZljNq8sbIA`

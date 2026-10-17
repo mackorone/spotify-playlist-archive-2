@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Giuseppe Ottaviani and Hypaton
 
-1,389 songs - 3 day 10 hr 46 min
+1,390 songs - 3 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,13 +883,14 @@
 | [Only Now I See \- Mike Zaloxx Remix](https://open.spotify.com/track/61kUZ4u03R6SttbBpnm0oz) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Sharon Valerona](https://open.spotify.com/artist/5QqFl3TTNF95pndfKUr1Vb), [Mike Zaloxx](https://open.spotify.com/artist/3ouOviMDzZMb55MJp08Tu4) | [Only Now I See \(Mike Zaloxx Remix\)](https://open.spotify.com/album/01jMIce2Ryu6pctd6jrNih) | 3:51 | 2024-02-16 | 2025-03-22 |
 | [Only You](https://open.spotify.com/track/4mKV2PUwOBunCjDEAKGmjO) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Open Up The Night](https://open.spotify.com/album/7ciSmK610YFDPfw3hl4QCb) | 3:39 | 2023-09-29 | 2024-08-31 |
 | [Open Ocean](https://open.spotify.com/track/1uqdJXj0CSp8hCi8HoLC6q) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [Peetu S](https://open.spotify.com/artist/2G4Uvipvoj1FK1Fuetayle), [Emma Gillespie](https://open.spotify.com/artist/51XNkpCEypEY3z4ruyngRc) | [Open Ocean](https://open.spotify.com/album/3r5VMpvU4oGk8KA9NLOqLu) | 3:55 | 2024-10-25 | 2025-09-27 |
+| [Open The Night](https://open.spotify.com/track/3DdU6rhMoPIdOQG4iThhbL) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Open The Night](https://open.spotify.com/album/2Y8Ooix4RYAey0MykQRyqO) | 3:08 | 2026-10-15 |  |
 | [Open Your Eyes](https://open.spotify.com/track/0fXF7HLNe5JzlvqA2lDQbf) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Open Your Eyes](https://open.spotify.com/album/1iM33sKoAHsCaGU8ty4XPb) | 2:34 | 2023-08-25 | 2024-08-31 |
 | [Open Your Eyes](https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf) | [Suanda Music Radio Top 20 \(May 2022\)](https://open.spotify.com/album/2qRknvwmzLJAl0TF18dTMv) | 3:23 | 2022-05-20 | 2022-07-29 |
 | [Orange](https://open.spotify.com/track/3QDMRjEw9lwNlNesjFw0am) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Orange](https://open.spotify.com/album/2hRVRqscqI4SvBTm3H7Y7n) | 2:51 | 2026-03-27 | 2026-06-05 |
 | [Orbit 37](https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Orbit 37](https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM) | 2:54 | 2022-05-27 | 2023-05-20 |
 | [Orbital](https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Orbital](https://open.spotify.com/album/2yLAOO3R8McWCjTDJYF12F) | 3:29 | 2024-07-12 | 2025-05-17 |
 | [Orbital](https://open.spotify.com/track/1YP0dnGSrwpvMF18ONgO4C) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p) | [Orbital](https://open.spotify.com/album/1y8lbuql4l668IMedS8EkX) | 5:16 | 2025-05-16 | 2026-02-10 |
-| [Origins](https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Origins / ARP](https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw) | 3:32 | 2025-10-03 |  |
+| [Origins](https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Origins / ARP](https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw) | 3:32 | 2025-10-03 | 2026-10-17 |
 | [Orion](https://open.spotify.com/track/4jUfgt75bm6jogy5iMLVEZ) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Orion](https://open.spotify.com/album/0bzJlohenSutVgiW39yXI1) | 3:15 | 2024-07-26 | 2024-10-26 |
 | [Orkaan](https://open.spotify.com/track/0VFjEgr9njZFDUqOYvW4lT) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Orkaan](https://open.spotify.com/album/66lxk1HRuQvpRsplqxZaOT) | 3:15 | 2023-05-19 | 2023-06-10 |
 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-06-10 | 2022-07-16 |

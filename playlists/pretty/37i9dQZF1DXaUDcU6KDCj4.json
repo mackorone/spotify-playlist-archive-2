@@ -1,13 +1,285 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Sarah Julia",
-  "num_followers": 884707,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: June McDoom",
+  "num_followers": 884962,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3emnQCeMdbBTfHkR8pLdf+mda1",
+  "snapshot_id": "AAAAACgfvNEq2l9W1rGS1nZ2VK2lnn7D",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Human Angel",
+      "url": "https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "the afterparty",
+        "url": "https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 167820,
+      "name": "angela the traveller",
+      "url": "https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Felice County Fair (A Celebration of The Felice Brothers)",
+        "url": "https://open.spotify.com/album/3KzKglgUmogktIg1YLo82f"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Felice County Fair",
+          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "Life In The Dark",
+      "url": "https://open.spotify.com/track/3nPe8kguVhPkgApTQrxC71"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "I Know You Are (But What Am I Thinking)",
+      "url": "https://open.spotify.com/track/6lOCXWGSrd9rCOt3ziKlJk"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/3j2lqvYUUnQZ0GgkoGS4JD"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 153758,
+      "name": "33",
+      "url": "https://open.spotify.com/track/5rP1SqAtnoMHU655knRdlA"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "It Was My First Time",
+        "url": "https://open.spotify.com/album/6EhUzjYXlfFVT3lPXrosPy"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 181977,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/1a1YmkR6iJeTXUS4hx1kmJ"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Natural Law",
+        "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 147346,
+      "name": "Natural Law (ft. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "The Underworld",
+        "url": "https://open.spotify.com/album/3pelB3xfhorcKEPpSc27jM"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 361040,
+      "name": "the weight",
+      "url": "https://open.spotify.com/track/4TVeDcIxXMR46zcnA2ArKo"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/71XcylgBSlKpHvlN9AdDYz"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lima",
+          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
+        }
+      ],
+      "duration_ms": 275784,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/4cnX8YJt42Yp0SpBLD1Y4J"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "O what a name",
+        "url": "https://open.spotify.com/album/7HXnJQqEEIYDW2HATWc73O"
+      },
+      "artists": [
+        {
+          "name": "Dan Reeder",
+          "url": "https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD"
+        }
+      ],
+      "duration_ms": 124201,
+      "name": "O what a name",
+      "url": "https://open.spotify.com/track/0sWU5DtGxLEtx2myUgWaEM"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "low hanging fruit",
+        "url": "https://open.spotify.com/album/4Nw2AbIyNSsyOgxHWvSnpU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "duration_ms": 230926,
+      "name": "Soul Will Survive",
+      "url": "https://open.spotify.com/track/6Ngq7jRTlttTDAocDNnQ7m"
+    },
+    {
+      "added_at": "2026-10-16 04:01:39",
+      "album": {
+        "name": "laundry song",
+        "url": "https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 227541,
+      "name": "laundry song",
+      "url": "https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK"
+    },
     {
       "added_at": "2026-10-09 04:02:48",
       "album": {
@@ -2527,270 +2799,6 @@
       "duration_ms": 209924,
       "name": "Ugly things",
       "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Sage (Feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/7xOoOG9UTWxSnYWOiMEOor"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 173398,
-      "name": "Sage (Feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/6YqpwusGcdhwS4ZFp1D0CX"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Hey Big Dipper",
-        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 186806,
-      "name": "Hey Big Dipper",
-      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "A Horse Named Friday",
-        "url": "https://open.spotify.com/album/21qmtTkIwzYprRM6JjXFkH"
-      },
-      "artists": [
-        {
-          "name": "Theo Kandel",
-          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
-        },
-        {
-          "name": "Jackie Evans",
-          "url": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R"
-        }
-      ],
-      "duration_ms": 259107,
-      "name": "About Dreams",
-      "url": "https://open.spotify.com/track/0ygSWgTJrvmm5jIsxqp3sJ"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "High Priestess",
-        "url": "https://open.spotify.com/album/3j6WrxpRCgfSpSYn5weD2E"
-      },
-      "artists": [
-        {
-          "name": "Brennan Wedl",
-          "url": "https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh"
-        }
-      ],
-      "duration_ms": 160845,
-      "name": "High Priestess",
-      "url": "https://open.spotify.com/track/2ZiaJMx6LV7eoMhjTvNa2j"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Money On It",
-        "url": "https://open.spotify.com/album/6OiBNSbIjaLYMUSAuhROrS"
-      },
-      "artists": [
-        {
-          "name": "Josh Gilligan",
-          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
-        }
-      ],
-      "duration_ms": 185193,
-      "name": "Money On It",
-      "url": "https://open.spotify.com/track/388KCD3LPchYfoJn0xob7o"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "The Aftermath",
-        "url": "https://open.spotify.com/album/0XMrX0we7kxWHiItEzaUsP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 243421,
-      "name": "The Aftermath",
-      "url": "https://open.spotify.com/track/3O1MQzP5uUd0dG78nhBm2i"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Feel The Cold",
-        "url": "https://open.spotify.com/album/6EluIVtZFAVC8yBCMfLuoi"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 215565,
-      "name": "Feel The Cold",
-      "url": "https://open.spotify.com/track/6yABWz5onWwYfJR7PUoLfP"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Whittle",
-        "url": "https://open.spotify.com/album/09wegyQQh0f2RWIOfvHPkp"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 327214,
-      "name": "Whittle",
-      "url": "https://open.spotify.com/track/47NcN8R74VPXsgWImutSdw"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Night Fright",
-        "url": "https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml"
-      },
-      "artists": [
-        {
-          "name": "Biita Houdei",
-          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
-        }
-      ],
-      "duration_ms": 236676,
-      "name": "Night Fright",
-      "url": "https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Tonight's News",
-        "url": "https://open.spotify.com/album/6RhTHR04fDUA0WeRdhsxSq"
-      },
-      "artists": [
-        {
-          "name": "Ken Pomeroy",
-          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Sentimental Lady",
-      "url": "https://open.spotify.com/track/2ejbcu8msr3kkmX1HvDYaT"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "Dusty",
-        "url": "https://open.spotify.com/album/4WJlMyXOnpsEskUDWUkKdc"
-      },
-      "artists": [
-        {
-          "name": "Isaac Stalling",
-          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Dusty",
-      "url": "https://open.spotify.com/track/1sVWb96BHxmZ8sFNz03w8z"
-    },
-    {
-      "added_at": "2026-08-21 04:01:16",
-      "album": {
-        "name": "1:17AM",
-        "url": "https://open.spotify.com/album/7JZFB0rXlV1vxdqxYmlMLw"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 208282,
-      "name": "I've Always Loved You",
-      "url": "https://open.spotify.com/track/0xQBUCsPmAV0eMVf1O5wbZ"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 217205,
-      "name": "I Can\u2019t Wait",
-      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Big World",
-        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "What I Had",
-      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "For The Boys",
-        "url": "https://open.spotify.com/album/4LLlQtvQNtrVM7sMRLrSGi"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "For The Boys",
-      "url": "https://open.spotify.com/track/0S2pDnQzdCmDxHKOIh5taS"
     }
   ],
   "unique_name": "Fresh Folk",

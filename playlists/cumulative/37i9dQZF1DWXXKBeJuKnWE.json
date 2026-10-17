@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Artificial Icons",
+        "url": "https://open.spotify.com/album/2ezJLFii579hM9ZvclsM1f"
+      },
+      "artists": [
+        {
+          "name": "Defects",
+          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171217,
+      "name": "Critic",
+      "url": "https://open.spotify.com/track/6DAjDmB3BSdCXpmZqrDOCB"
+    },
+    {
+      "album": {
         "name": "critic",
         "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
       },
@@ -15226,24 +15244,6 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
-    },
-    {
-      "album": {
-        "name": "Artificial Icons",
-        "url": "https://open.spotify.com/album/2ezJLFii579hM9ZvclsM1f"
-      },
-      "artists": [
-        {
-          "name": "Defects",
-          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
-        }
-      ],
-      "date_added": "2026-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/6DAjDmB3BSdCXpmZqrDOCB"
     },
     {
       "album": {

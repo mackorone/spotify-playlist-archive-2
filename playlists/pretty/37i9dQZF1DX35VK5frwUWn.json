@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAEWw7LPLrOwl359BhUdJRm6WTCo",
+  "snapshot_id": "AAAAAIY26i5fHp8pptb3YlGYwpvp8tAc",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 278191,
-      "name": "Having Our Way (feat. Drake)",
-      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 337640,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 278191,
+      "name": "Having Our Way (feat. Drake)",
+      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Freddy Krueger (feat. Tee Grizzley)",
-        "url": "https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Freddy Krueger (feat. Tee Grizzley)",
-      "url": "https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "I Am Not A Human Being II (Deluxe)",
         "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 222866,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Freddy Krueger (feat. Tee Grizzley)",
+        "url": "https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Freddy Krueger (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2"
     },
     {
       "added_at": "2022-11-01 04:00:00",

@@ -4,7 +4,7 @@
 
 > The sound of the underground\. Cover: Destroy Boys
 
-911 songs - 2 day 6 hr 22 min
+911 songs - 2 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [CRANIUM](https://open.spotify.com/track/1JSzBPJqGdDbqPh5sDrntu) | [False Reality](https://open.spotify.com/artist/2UzhploNTDxWtJkr5BE3cm) | [FADED INTENTIONS](https://open.spotify.com/album/5kfP0YaA60oC5088JBfLwi) | 3:19 | 2026-02-06 | 2026-05-01 |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-04 | 2025-09-12 |
 | [Crestfallen](https://open.spotify.com/track/15tdjaSaSNFxjrKtj52kDZ) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Crestfallen](https://open.spotify.com/album/4Gh2aBuvIo91syfV3IaeYb) | 4:04 | 2026-07-24 |  |
+| [Critic](https://open.spotify.com/track/6DAjDmB3BSdCXpmZqrDOCB) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Artificial Icons](https://open.spotify.com/album/2ezJLFii579hM9ZvclsM1f) | 2:51 | 2026-10-16 |  |
 | [critic](https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [critic](https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm) | 2:26 | 2026-08-21 |  |
 | [Cross Your Heart](https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Cross Your Heart](https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM) | 3:38 | 2025-10-23 | 2025-12-06 |
 | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Mark Vollelunga](https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU) | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI) | 3:24 | 2025-09-11 | 2026-06-09 |
@@ -824,7 +825,6 @@
 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2024-04-11 | 2025-10-12 |
 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-14 | 2024-04-19 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2025-10-24 |
-| [Track 6](https://open.spotify.com/track/6DAjDmB3BSdCXpmZqrDOCB) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Artificial Icons](https://open.spotify.com/album/2ezJLFii579hM9ZvclsM1f) | 0:00 | 2026-10-16 |  |
 | [Tracksuit](https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Tracksuit](https://open.spotify.com/album/0DMYE3JEGsx1qllM7ZjjMH) | 2:30 | 2026-05-15 | 2026-06-13 |
 | [Trap Door](https://open.spotify.com/track/1APoykMkL5FUMFnjkQ4del) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Trap Door](https://open.spotify.com/album/0NN283X0D0uwZBLNEBNblj) | 4:22 | 2025-08-11 | 2025-10-04 |
 | [Trenches](https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Trenches](https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt) | 3:16 | 2024-11-08 | 2025-09-12 |

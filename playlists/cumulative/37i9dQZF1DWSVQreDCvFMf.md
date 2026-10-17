@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Eliza Maturan
 
-1,125 songs - 2 day 21 hr 40 min
+1,126 songs - 2 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [DANCE WITH ME](https://open.spotify.com/track/5q6J1vJEa0hEvVi2x0CYLe) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc), [Cozyivy](https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS), [$NPRD](https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6) | [DANCE WITH ME](https://open.spotify.com/album/63EnT6IyINg2wXeove6VaV) | 4:00 | 2026-05-01 | 2026-06-20 |
 | [Dance With My Mistakes](https://open.spotify.com/track/7jd9wJQLGgaXPjPXPJiiMB) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Dance With My Mistakes](https://open.spotify.com/album/6dHu65n9dIQZyXaFtaSehO) | 2:57 | 2025-04-07 | 2025-06-21 |
 | [Dapit hapon](https://open.spotify.com/track/0FmXwwndEuzyug70tZZLkQ) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [Dapit hapon](https://open.spotify.com/album/2sG87V9HXDgtXTd5FMUltl) | 3:04 | 2026-03-20 | 2026-06-20 |
-| [Dapit Hapon](https://open.spotify.com/track/2fLtn1PrNgT8BEVEdZBIom) | [Jose At Melodiya](https://open.spotify.com/artist/5Lr7OYrBSUhC4I8nGHutjd), [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [Dapit Hapon](https://open.spotify.com/album/5Sbome4yMoei2michARZB2) | 4:40 | 2026-08-21 |  |
+| [Dapit Hapon](https://open.spotify.com/track/2fLtn1PrNgT8BEVEdZBIom) | [Jose At Melodiya](https://open.spotify.com/artist/5Lr7OYrBSUhC4I8nGHutjd), [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [Dapit Hapon](https://open.spotify.com/album/5Sbome4yMoei2michARZB2) | 4:40 | 2026-08-21 | 2026-10-17 |
 | [Darating Din](https://open.spotify.com/track/0X3gTjlVns6kM9cJLjGdwY) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Darating Din](https://open.spotify.com/album/0XuqGNQFVjtXPrldqlgfHT) | 4:03 | 2024-10-18 | 2025-06-21 |
 | [Delikado](https://open.spotify.com/track/7DLY0iWhYVKTuXewK8oNCY) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [Delikado](https://open.spotify.com/album/67MgYExrsnq9DMi9Q6lMPc) | 3:39 | 2026-07-17 | 2026-09-04 |
 | [Delikado, Baby](https://open.spotify.com/track/6q3NuCI1HTpMtSKbNbshne) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Delikado, Baby](https://open.spotify.com/album/314uI5ZQOrE5VpiWdFjRlY) | 3:25 | 2024-07-02 | 2024-07-13 |
@@ -391,6 +391,7 @@
 | [Ikaw Lang](https://open.spotify.com/track/3yggn1rsLs9m7jYTjf3xRO) | [Jerome Banaay](https://open.spotify.com/artist/4YkvowYlmKG7m07nj31ymK) | [Ikaw Lang](https://open.spotify.com/album/2GqF73RNPHmywnrYsagSH2) | 3:19 | 2025-05-19 | 2025-10-25 |
 | [ikaw lang ang bossing ko](https://open.spotify.com/track/314IQcUw9Ge5iWScZFiYq0) | [neytan](https://open.spotify.com/artist/2SiPvwfKYm1TANEo8F0zyT) | [ikaw lang ang bossing ko](https://open.spotify.com/album/4guaa8LYGnFvSabu4GUpu6) | 4:48 | 2026-06-19 | 2026-08-27 |
 | [Ikaw Lang Naman](https://open.spotify.com/track/4szuUf7n5YBxHDQTEXgZP3) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Ikaw Lang Naman](https://open.spotify.com/album/2mYtLOcBXoPQIPxIFyQeNS) | 3:36 | 2026-09-25 |  |
+| [IKAW NA PALA](https://open.spotify.com/track/1EsVDGzgMtuCea8TJOYIbu) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [IKAW NA PALA](https://open.spotify.com/album/1Vn3jjy3XFso8HQyfJpCgb) | 3:17 | 2026-10-16 |  |
 | [Ikaw na yan eh](https://open.spotify.com/track/5R7JUpJZBY4rfSZgqbt6ex) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [Ikaw na yan eh](https://open.spotify.com/album/6Aubp9CmoVXbxTXzs90NxH) | 3:28 | 2025-10-13 | 2025-12-09 |
 | [Ikaw Sana \- Live](https://open.spotify.com/track/1RtiAzLeYtfJN6VOi2LkxW) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ikaw Sana \(Live\)](https://open.spotify.com/album/0QEX4myyLGNddWabjawOJW) | 6:27 | 2025-09-19 | 2025-11-29 |
 | [Ikaw Talaga.](https://open.spotify.com/track/4QCWlicxD9Jacap6CTW2hs) | [Patrick Kristoffer](https://open.spotify.com/artist/35WK3gcFIjOhmYF3AK6ZyL) | [Ikaw Talaga.](https://open.spotify.com/album/0Y0Fyzchhk3AlCZ8AX9Yhv) | 3:08 | 2026-01-23 | 2026-03-14 |

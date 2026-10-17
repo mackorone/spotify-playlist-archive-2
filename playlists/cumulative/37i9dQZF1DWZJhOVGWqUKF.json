@@ -16279,6 +16279,24 @@
     },
     {
       "album": {
+        "name": "Happy Little Accidents",
+        "url": "https://open.spotify.com/album/4SxK3w4iO6ZjpvpibLyzXa"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185886,
+      "name": "Shit Gets Real",
+      "url": "https://open.spotify.com/track/0VM2EeAodLr1h8bLwH9R4s"
+    },
+    {
+      "album": {
         "name": "Shivering",
         "url": "https://open.spotify.com/album/3GH5dRw5f3KBFIeNkzpFwk"
       },
@@ -19304,24 +19322,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "Happy Little Accidents",
-        "url": "https://open.spotify.com/album/4SxK3w4iO6ZjpvpibLyzXa"
-      },
-      "artists": [
-        {
-          "name": "ITCHY",
-          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/0VM2EeAodLr1h8bLwH9R4s"
     },
     {
       "album": {

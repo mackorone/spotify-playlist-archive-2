@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANQ3/sYbnD604DREAFlO+ewatwCh",
+  "snapshot_id": "AAAAADTmcLD+YNjqbBRPM/oWGxKANccb",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:26",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/5mj3HWXKVQiU6kQcl5infd"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 181384,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2wuD1A8AAc9t3y8SZvMCM0"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
         "name": "Playgrounds In Ruins (Deluxe)",
         "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -867,22 +883,6 @@
       "duration_ms": 237680,
       "name": "Milchstrass (feat. Aaron Asteria)",
       "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Chiara",
-        "url": "https://open.spotify.com/album/4pg04JvDoQrtj5Rm9EaFzH"
-      },
-      "artists": [
-        {
-          "name": "Miyu Hansen",
-          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
-        }
-      ],
-      "duration_ms": 179615,
-      "name": "Chiara",
-      "url": "https://open.spotify.com/track/5551U73Tlvael1eGzhINHD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 167026,
       "name": "What\u2019s a Girl Gotta Do?",
       "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/4pg04JvDoQrtj5Rm9EaFzH"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hansen",
+          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
+        }
+      ],
+      "duration_ms": 179615,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/5551U73Tlvael1eGzhINHD"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Different Life",
-        "url": "https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 163318,
-      "name": "Different Life",
-      "url": "https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Different Life",
+        "url": "https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 163318,
+      "name": "Different Life",
+      "url": "https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Don't Let Him Go",
-        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Don't Let Him Go",
-      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "These Walls",
         "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
+        "name": "Don't Let Him Go",
+        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 162929,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Too Tired",
-        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
         }
       ],
-      "duration_ms": 231520,
-      "name": "Too Tired",
-      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
+        "name": "Too Tired",
+        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "Too Tired",
+      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
         "name": "Moved On",
         "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
       },
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 148410,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Dreaming & Drowning",
-        "url": "https://open.spotify.com/album/17ybKwJ5HYnFFMcYssJgYX"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 207479,
-      "name": "Dreaming & Drowning",
-      "url": "https://open.spotify.com/track/7iP9aEysn6pKKsJbUksjIz"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Trapped in the Middle",
         "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 138443,
       "name": "Trapped in the Middle",
       "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "homemade dynamite",
+        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "duration_ms": 209415,
+      "name": "homemade dynamite",
+      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "homemade dynamite",
-        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
+        "name": "Dreaming & Drowning",
+        "url": "https://open.spotify.com/album/17ybKwJ5HYnFFMcYssJgYX"
       },
       "artists": [
         {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
         }
       ],
-      "duration_ms": 209415,
-      "name": "homemade dynamite",
-      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
+      "duration_ms": 207479,
+      "name": "Dreaming & Drowning",
+      "url": "https://open.spotify.com/track/7iP9aEysn6pKKsJbUksjIz"
     },
     {
       "added_at": "2026-10-15 22:01:26",

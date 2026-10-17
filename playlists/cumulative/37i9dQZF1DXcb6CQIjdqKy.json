@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Mitch Wong",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Tori Kelly & Jamie MacDonald",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -182,6 +182,28 @@
       "duration_ms": 185301,
       "name": "a lil Church (nobody\u2019s too lost)",
       "url": "https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1"
+    },
+    {
+      "album": {
+        "name": "Jamie MacDonald (Deluxe)",
+        "url": "https://open.spotify.com/album/0e9azjS6Hpyz4iMIgp1ANq"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206125,
+      "name": "A Million Chances (with Tori Kelly)",
+      "url": "https://open.spotify.com/track/1e1o6Io33r70Y2i6JnOtin"
     },
     {
       "album": {
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 369280,
       "name": "Always Been Jesus",
       "url": "https://open.spotify.com/track/5TtHnRmepkrPZwscSyBDWb"
@@ -1684,7 +1706,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 216015,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/0UvtjG6qhQQmbDyCbfZeey"
@@ -2404,6 +2426,24 @@
       "duration_ms": 464333,
       "name": "Been So Good (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
+    },
+    {
+      "album": {
+        "name": "before the world began",
+        "url": "https://open.spotify.com/album/4AaulFfSuy79gM9oUCZ3VE"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261597,
+      "name": "before the world began",
+      "url": "https://open.spotify.com/track/3oqjKpRNlNlC7usmofeVdN"
     },
     {
       "album": {
@@ -3174,7 +3214,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 413708,
       "name": "Breathe (feat. Titus Tucker & Rahkii)",
       "url": "https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD"
@@ -11600,7 +11640,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 220900,
       "name": "how it feels to live",
       "url": "https://open.spotify.com/track/2mAxlxo4HlDifY3Hthjtcy"
@@ -15175,6 +15215,28 @@
     },
     {
       "album": {
+        "name": "Promised Land (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kendra Benay",
+          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Let Me Say - Live",
+      "url": "https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5"
+    },
+    {
+      "album": {
         "name": "Let The Church Sing",
         "url": "https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx"
       },
@@ -15412,7 +15474,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204800,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/6OlXM5xkhNs8jcI56ax8zc"
@@ -18241,6 +18303,24 @@
     },
     {
       "album": {
+        "name": "IBHAR: The Chronicle (Chapter 3)",
+        "url": "https://open.spotify.com/album/3Sa1hzBGJkfQAv5d40y82m"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409685,
+      "name": "Nobody But You - Live",
+      "url": "https://open.spotify.com/track/2VoPuqrMwBEDPfTKT3jdUy"
+    },
+    {
+      "album": {
         "name": "Country Chapel",
         "url": "https://open.spotify.com/album/4fXxMiJGwvEOUwIlghN86T"
       },
@@ -20210,7 +20290,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 478285,
       "name": "Promised Land - Live",
       "url": "https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB"
@@ -23711,6 +23791,24 @@
     },
     {
       "album": {
+        "name": "FAITH OVER FAME",
+        "url": "https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194527,
+      "name": "SUPERHERO",
+      "url": "https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp"
+    },
+    {
+      "album": {
         "name": "Good Influence",
         "url": "https://open.spotify.com/album/1SZxSBHO3TiL3oqOVz6Ken"
       },
@@ -27156,7 +27254,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 181806,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2"
@@ -28497,6 +28595,24 @@
     },
     {
       "album": {
+        "name": "New Day New Life",
+        "url": "https://open.spotify.com/album/3nQlQCCBtXDJzVKnBFZYOW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291925,
+      "name": "Where Heaven Touches Earth",
+      "url": "https://open.spotify.com/track/0gd6l3cjvStkHpM3lTAoal"
+    },
+    {
+      "album": {
         "name": "Where My Joy Comes From",
         "url": "https://open.spotify.com/album/7JGSP8J3mwi4VdF81Xwvos"
       },
@@ -28714,6 +28830,24 @@
       "duration_ms": 400108,
       "name": "Whole Heart",
       "url": "https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji"
+    },
+    {
+      "album": {
+        "name": "Worth Everything",
+        "url": "https://open.spotify.com/album/2PEJzFepo0yBNtLma4flW6"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "Whole Heart",
+      "url": "https://open.spotify.com/track/5aOwxm0zEWCgjGeOnwKEFc"
     },
     {
       "album": {

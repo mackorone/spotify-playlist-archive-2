@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122475,
+  "num_followers": 122463,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV17gq2mT4PFFjeGOfY4MjFT5gwb96",
+  "snapshot_id": "AAAV2FC90h83yYSYYZPO7M3kILgZCx0p",
   "tracks": [
+    {
+      "added_at": "2026-10-16 14:26:02",
+      "album": {
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
+    },
     {
       "added_at": "2026-10-15 13:58:24",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Bruno X Spacc & T\. Danny
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,825 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,844 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 | 49 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 |
 | 50 | [BE VAGYOK ZÁRVA](https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [BE VAGYOK ZÁRVA](https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5) | 2:11 |
 
-Snapshot ID: `AAAAABJEnkne7M1bf75g3E5rT5JBmLIi`
+Snapshot ID: `AAAAADbsEtjWHqMvThrmjciXU6EWedu7`

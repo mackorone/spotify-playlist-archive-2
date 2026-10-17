@@ -650,7 +650,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 214400,
       "name": "afterglow**",
       "url": "https://open.spotify.com/track/5pfrO9fsIxKF1XxX3D1Pqx"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 155492,
       "name": "Buggy",
       "url": "https://open.spotify.com/track/5HzP8YYL1893UOmIrrD6FV"
@@ -3820,7 +3820,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 138857,
       "name": "Bust Up The Set",
       "url": "https://open.spotify.com/track/5lFJSn14SKP1TLZTfadAsT"
@@ -4970,7 +4970,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 185142,
       "name": "CLENCH MY FIST",
       "url": "https://open.spotify.com/track/620nKA2eC0ItixHC1pGHBA"
@@ -8546,7 +8546,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 150000,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2S6Wk5R4wMNSl7FEo2aoTX"
@@ -8688,6 +8688,24 @@
       "duration_ms": 163738,
       "name": "Fake Like That",
       "url": "https://open.spotify.com/track/0Zi7ROKAFzV5BMZvq0LmVd"
+    },
+    {
+      "album": {
+        "name": "NOTHING'S FAKE",
+        "url": "https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Fake or true",
+      "url": "https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"
     },
     {
       "album": {
@@ -16561,6 +16579,24 @@
     },
     {
       "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/2bYbFsfmAg6jrxapfAHjeg"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/0G24L0HnxskslJ0luwE6eJ"
+    },
+    {
+      "album": {
         "name": "lonely again..",
         "url": "https://open.spotify.com/album/2O5SXgWFYBHVyu7ziOMA6x"
       },
@@ -18587,6 +18623,28 @@
     },
     {
       "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/6N52uQkEp8b7m4V86ZaLrq"
+      },
+      "artists": [
+        {
+          "name": "zero point",
+          "url": "https://open.spotify.com/artist/01FrY7ADQlorpdhqH1j7qr"
+        },
+        {
+          "name": "Nyrus",
+          "url": "https://open.spotify.com/artist/4K129VU520mAbin25QcKfH"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/0K6BjzzhUqBmOvHvxqpRpG"
+    },
+    {
+      "album": {
         "name": "Never Adds Up (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/7IXwcsGgJwo2bHlGFFjkhe"
       },
@@ -19902,6 +19960,28 @@
       "duration_ms": 261333,
       "name": "Only Human - MPH Remix",
       "url": "https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM"
+    },
+    {
+      "album": {
+        "name": "Only one",
+        "url": "https://open.spotify.com/album/3p81u2wL3Bl7hoNDRvexSy"
+      },
+      "artists": [
+        {
+          "name": "phritz",
+          "url": "https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt"
+        },
+        {
+          "name": "Jukaa",
+          "url": "https://open.spotify.com/artist/0htf47H48mOHETJeWErDUb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Only one",
+      "url": "https://open.spotify.com/track/2UbOssp0YwkiL73JTAJUd4"
     },
     {
       "album": {
@@ -22820,7 +22900,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 185142,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
@@ -25690,7 +25770,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176142,
       "name": "STAR CEILING",
       "url": "https://open.spotify.com/track/5GR6bwFexHUIs1sXS1gH3b"
@@ -30321,6 +30401,24 @@
     },
     {
       "album": {
+        "name": "want you (if you want me)",
+        "url": "https://open.spotify.com/album/7CAU87QeZgIjm0D8ezezjK"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194030,
+      "name": "want you (if you want me)",
+      "url": "https://open.spotify.com/track/1GKyj57DLCUZWQxDibeilO"
+    },
+    {
+      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/17WI9aMbKTPCfoyzK5qb7L"
       },
@@ -30827,6 +30925,32 @@
     },
     {
       "album": {
+        "name": "wellplayed (feat. Allegra Miles)",
+        "url": "https://open.spotify.com/album/4Rs10ZDztL3fxehEoEKZI5"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        },
+        {
+          "name": "Conrad.",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        },
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173324,
+      "name": "wellplayed (feat. Allegra Miles)",
+      "url": "https://open.spotify.com/track/0rGJQ4fFoxfhBFFcG3jIPb"
+    },
+    {
+      "album": {
         "name": "Wet Peak Stars",
         "url": "https://open.spotify.com/album/58l8wpZzrtrxvyhIJbHwDB"
       },
@@ -31246,6 +31370,28 @@
       "duration_ms": 204137,
       "name": "Where Do We Go (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
+    },
+    {
+      "album": {
+        "name": "Where Have I Been",
+        "url": "https://open.spotify.com/album/6vT9IPmxMJ7FHvRQOdmxhE"
+      },
+      "artists": [
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Liv Grace Blue",
+          "url": "https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211007,
+      "name": "Where Have I Been",
+      "url": "https://open.spotify.com/track/6SLsBCEQaTCZ8MBgpWWPc0"
     },
     {
       "album": {

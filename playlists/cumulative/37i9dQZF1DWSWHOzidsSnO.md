@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Shonny.
 
-788 songs - 1 day 18 hr 44 min
+789 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 | 2022-03-09 | 2025-03-06 |
 | [Murió El Amor](https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:00 | 2022-08-03 | 2024-04-19 |
 | [Murió El Amor](https://open.spotify.com/track/55MDapQ9XrghnRPUCoSvQh) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Murió El Amor](https://open.spotify.com/album/4JgfiwhiBdF6RCmyrrdu6I) | 3:00 | 2022-11-02 | 2022-11-13 |
+| [Musa Paradisíaka](https://open.spotify.com/track/5qycAsLJTjWFqVuwNBNOtw) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft) | [Musa Paradisíaka](https://open.spotify.com/album/1msl6OCTSg7W9Xp6eRaD6A) | 2:05 | 2026-10-16 |  |
 | [Muñecas](https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Muñecas](https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR) | 2:36 | 2025-09-03 | 2025-11-06 |
 | [mándame un beso](https://open.spotify.com/track/4687LgeqxenrCH5jQw0rNe) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita \(deluxe\)](https://open.spotify.com/album/3mvmNH2vybNcYqEu7PtzqT) | 3:26 | 2026-02-04 | 2026-03-20 |
 | [mándame un beso](https://open.spotify.com/track/46fedM2fTd59tUabilqlUk) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita \(deluxe\)](https://open.spotify.com/album/6dIqmHcuEqEj0CTLLm3Aiv) | 3:26 | 2024-09-04 | 2024-10-03 |

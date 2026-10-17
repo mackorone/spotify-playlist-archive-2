@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Coraz\u00f3n Serrano, Maria Becerra",
-  "num_followers": 135872,
+  "num_followers": 135916,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6bRBSLRglL4T/7zeMY74XT9EoC",
+  "snapshot_id": "AAAAAPcQosuWGwR9eA61kXejjmFd+RXq",
   "tracks": [
     {
       "added_at": "2026-05-15 05:35:32",
@@ -679,22 +679,18 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "Cumbia y Cerveza",
-        "url": "https://open.spotify.com/album/0GOIkDiSw2mghVEF8KF90a"
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/6eXODfz6udhAGxmRNieHBn"
       },
       "artists": [
         {
           "name": "Grupo 5",
           "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 186857,
-      "name": "Cumbia y Cerveza",
-      "url": "https://open.spotify.com/track/29NOUJCryPob2OT7mvBAqY"
+      "duration_ms": 213577,
+      "name": "Propiedad Privada",
+      "url": "https://open.spotify.com/track/4ryB3aHkRLR6Dao9xf7bCh"
     },
     {
       "added_at": "2026-05-15 05:35:32",
@@ -779,18 +775,22 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/6eXODfz6udhAGxmRNieHBn"
+        "name": "Cumbia y Cerveza",
+        "url": "https://open.spotify.com/album/0GOIkDiSw2mghVEF8KF90a"
       },
       "artists": [
         {
           "name": "Grupo 5",
           "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 213577,
-      "name": "Propiedad Privada",
-      "url": "https://open.spotify.com/track/4ryB3aHkRLR6Dao9xf7bCh"
+      "duration_ms": 186857,
+      "name": "Cumbia y Cerveza",
+      "url": "https://open.spotify.com/track/29NOUJCryPob2OT7mvBAqY"
     },
     {
       "added_at": "2026-05-15 05:35:32",

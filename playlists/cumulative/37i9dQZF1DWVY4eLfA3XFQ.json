@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc83 Tech house operators, featuring GUDFELLA & Jackie Hollander",
+  "description": "50% techno, 50% house \ud83d\udc83 Tech house operators, featuring Torren Foot",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -342,6 +342,28 @@
       "duration_ms": 169545,
       "name": "2C2",
       "url": "https://open.spotify.com/track/5baB1M5AL3JQUzEyZbPfBF"
+    },
+    {
+      "album": {
+        "name": "313",
+        "url": "https://open.spotify.com/album/7e32wVYfeAYtC7tIBwGtv1"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "313",
+      "url": "https://open.spotify.com/track/08nAH7ZAxpc0qFAresvFrr"
     },
     {
       "album": {
@@ -3792,7 +3814,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 171350,
       "name": "Back Of The Club",
       "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
@@ -10726,6 +10748,24 @@
     {
       "album": {
         "name": "Come Around",
+        "url": "https://open.spotify.com/album/5LGcxj2J1SoyzYpJyTMHHH"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151637,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/3MGfY8JW7TVi4sybGQK2av"
+    },
+    {
+      "album": {
+        "name": "Come Around",
         "url": "https://open.spotify.com/album/4dd1PM2auq7wGx5KDV0IJc"
       },
       "artists": [
@@ -12217,6 +12257,28 @@
     },
     {
       "album": {
+        "name": "DANCE",
+        "url": "https://open.spotify.com/album/3c5PwiMAkymxCGu61skGwa"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/699Wr7tqt9R0J95A5Bc1Jp"
+    },
+    {
+      "album": {
         "name": "Dance All Day",
         "url": "https://open.spotify.com/album/2PnFBR5WNofysu20b3866g"
       },
@@ -12662,7 +12724,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 164307,
       "name": "Dangerous Cuisine",
       "url": "https://open.spotify.com/track/0yutbRdSqtqPVlgsiKHh34"
@@ -13991,6 +14053,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2Rtgk6bZWfnX6rPIDIxGFC"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222461,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/68HXIwiK1hbQaxz7pzmjcV"
+    },
+    {
+      "album": {
         "name": "Divine Call / Space Bang",
         "url": "https://open.spotify.com/album/0Cbhlc1FRklLjfIfw6l15M"
       },
@@ -15116,7 +15196,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
@@ -17095,6 +17175,24 @@
     },
     {
       "album": {
+        "name": "Planet 333",
+        "url": "https://open.spotify.com/album/7fvAmJLK9rhqCoH8tefNOi"
+      },
+      "artists": [
+        {
+          "name": "Casnova",
+          "url": "https://open.spotify.com/artist/6F70IVYLHKbzVyn5k3Ogag"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224827,
+      "name": "Eternal Rhythm",
+      "url": "https://open.spotify.com/track/5kEtRruoS6xW9FmXja36uV"
+    },
+    {
+      "album": {
         "name": "Every Day",
         "url": "https://open.spotify.com/album/2ic8qpKW6f6VCcsYgUo6MN"
       },
@@ -17926,7 +18024,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 167827,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0KBgbolVmph7Ms9KOgBQB4"
@@ -20719,6 +20817,28 @@
     },
     {
       "album": {
+        "name": "Fussin EP",
+        "url": "https://open.spotify.com/album/6ovzcERUhHBCITY4tgtenP"
+      },
+      "artists": [
+        {
+          "name": "JIMII",
+          "url": "https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf"
+        },
+        {
+          "name": "Enzo Fazz",
+          "url": "https://open.spotify.com/artist/16h4NGhvIa9uATRajhwEaM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238181,
+      "name": "Fussin'",
+      "url": "https://open.spotify.com/track/57WN0Yj0u49mf64qsgeQ3x"
+    },
+    {
+      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/1bH1PACzw0Q1JkI6szxA4m"
       },
@@ -22334,7 +22454,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 195803,
       "name": "Goddamn",
       "url": "https://open.spotify.com/track/55IFdkZVVpOlIW5EGGmaSB"
@@ -26138,7 +26258,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166875,
       "name": "I LUV IT",
       "url": "https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT"
@@ -28122,7 +28242,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 199283,
       "name": "JOLIE FILLE",
       "url": "https://open.spotify.com/track/5b6JPcRMITHl8GEMHNLxyv"
@@ -28638,7 +28758,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 186666,
       "name": "Keep Control",
       "url": "https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx"
@@ -29702,7 +29822,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 326769,
       "name": "LADIES & GENTLEMEN",
       "url": "https://open.spotify.com/track/248s42qe2Njb9yU99LSU88"
@@ -30248,7 +30368,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 160000,
       "name": "Let It Drop",
       "url": "https://open.spotify.com/track/570GfmaPCjck0y8IbLmgBn"
@@ -32618,7 +32738,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 133636,
       "name": "Louder",
       "url": "https://open.spotify.com/track/7qUWddGy7m9ZOAUM3wTjtr"
@@ -33734,7 +33854,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 257109,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/0aZdCqX0UKVLFqJHNqznvl"
@@ -40423,6 +40543,32 @@
     },
     {
       "album": {
+        "name": "Odd Boys",
+        "url": "https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Out of Sight, Out of Mind",
+      "url": "https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q"
+    },
+    {
+      "album": {
         "name": "Out The Door",
         "url": "https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y"
       },
@@ -46195,6 +46341,28 @@
     },
     {
       "album": {
+        "name": "Round & Round",
+        "url": "https://open.spotify.com/album/1GjQEO9PzVuFh1Zygb2aS0"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        },
+        {
+          "name": "RUMPUS",
+          "url": "https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170892,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/58l6WcfGQUVqa84HdrAodB"
+    },
+    {
+      "album": {
         "name": "Round the Block",
         "url": "https://open.spotify.com/album/2h73TATo16DZkW6jFDeg4g"
       },
@@ -48046,7 +48214,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 167272,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/0D84fEtggFiqtnE1lxovni"
@@ -48682,7 +48850,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 180000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4UJPTK0oVnnLP7psav3x5R"
@@ -51166,7 +51334,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176029,
       "name": "Star Time - Bubble Mix",
       "url": "https://open.spotify.com/track/6f39Cv7XRmu4dtWuNmhUr0"
@@ -53606,6 +53774,28 @@
       "duration_ms": 124130,
       "name": "Techno Disco (feat. Kay Elizabeth)",
       "url": "https://open.spotify.com/track/5VmpigDDjTlFFQUBXMwZDO"
+    },
+    {
+      "album": {
+        "name": "Technophobic",
+        "url": "https://open.spotify.com/album/2ju2koJrez6HY33SumVcSh"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Modapit",
+          "url": "https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166818,
+      "name": "Technophobic",
+      "url": "https://open.spotify.com/track/3pIO1TRLTvHfYsGcjr1ZNp"
     },
     {
       "album": {
@@ -60770,6 +60960,32 @@
       "duration_ms": 193139,
       "name": "When The Bass Kicks In",
       "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
+    },
+    {
+      "album": {
+        "name": "When We're Dancing",
+        "url": "https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205871,
+      "name": "When We're Dancing",
+      "url": "https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso"
     },
     {
       "album": {

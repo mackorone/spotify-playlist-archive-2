@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,309 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,371 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Return](https://open.spotify.com/track/27dz78zrS9wPNKS9fMyyy4) | [nazah](https://open.spotify.com/artist/2sDgomDoVHXaDCzOkJywqr), [Bee\-Z](https://open.spotify.com/artist/5wpJnu9heGGmNbcqHPP0fn), [Bolu Adubi](https://open.spotify.com/artist/5FtN1hg0H67ud872MQu6nk), [Perdie](https://open.spotify.com/artist/4753bps0Q9AIeYRJwRqInM) | [Return](https://open.spotify.com/album/0MRJlowm9b5BgROiM5Da7l) | 2:50 |
+| 1 | [Return](https://open.spotify.com/track/27dz78zrS9wPNKS9fMyyy4) | [nazah](https://open.spotify.com/artist/2sDgomDoVHXaDCzOkJywqr), [Bee\-Z](https://open.spotify.com/artist/5wpJnu9heGGmNbcqHPP0fn), [Bolu Adubi](https://open.spotify.com/artist/5FtN1hg0H67ud872MQu6nk), [perdie](https://open.spotify.com/artist/58UzEWjRL5RE7h1Du7wNfH) | [Return](https://open.spotify.com/album/0MRJlowm9b5BgROiM5Da7l) | 2:50 |
 | 2 | [tropic of capricorn](https://open.spotify.com/track/29dc2WJ4t01L98MJYFGWuZ) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 8:35 |
 | 3 | [Rumination](https://open.spotify.com/track/5mS21XPztr14Nb6E8C1Pgx) | [Charles Overton](https://open.spotify.com/artist/1K98DJ68l2U9IRZTxHQed4) | [Rumination](https://open.spotify.com/album/1bW4lCqvwXFCIt0BEUJGt1) | 5:07 |
 | 4 | [Welcome to the Citadel](https://open.spotify.com/track/1TDi31CL50Yop4avqq4gpD) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Welcome To The Citadel](https://open.spotify.com/album/4byokKsdfLAMB1HBlke5KZ) | 6:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Night and Day](https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa) | [April Varner](https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b) | [Night and Day](https://open.spotify.com/album/7EFN2ZSFgxtuvZy0Ntuk6s) | 5:02 |
 | 50 | [notte brava](https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m) | [Dario Jacque](https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm) | [SANG](https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH) | 2:31 |
 
-Snapshot ID: `AAAAAPnWqBIddRvG/+5JxCLgZcU+0Q0j`
+Snapshot ID: `AAAAAMy9tX89g6SJpmyseN9rSmoE5igh`

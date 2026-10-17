@@ -124537,6 +124537,24 @@
     },
     {
       "album": {
+        "name": "ALBERT",
+        "url": "https://open.spotify.com/album/2pTBQvzZXEZutm2fy8dfX2"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "Kose meg",
+      "url": "https://open.spotify.com/track/4mgXMjQp1i4WC8XhArq0Nw"
+    },
+    {
+      "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
       },
@@ -124570,6 +124588,24 @@
       "duration_ms": 92417,
       "name": "Kostervind",
       "url": "https://open.spotify.com/track/7JYl3H8SZlj197n6MAno5y"
+    },
+    {
+      "album": {
+        "name": "KOYSAR",
+        "url": "https://open.spotify.com/album/4KR3nXEF1tS3c4bOh6nuzX"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195870,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/716d7YjHJsPjzZ9nVfafC8"
     },
     {
       "album": {
@@ -128207,6 +128243,32 @@
     },
     {
       "album": {
+        "name": "LEFT RIGHT (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "LEFT RIGHT (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
+    },
+    {
+      "album": {
         "name": "legacy",
         "url": "https://open.spotify.com/album/0cpaIg4lBPJwwIaGTTP6l2"
       },
@@ -130212,6 +130274,28 @@
       "duration_ms": 224507,
       "name": "LIES",
       "url": "https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D"
+    },
+    {
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "album": {
@@ -160971,7 +161055,7 @@
     },
     {
       "album": {
-        "name": "Obsession",
+        "name": "Obsession (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39"
       },
       "artists": [
@@ -189492,6 +189576,28 @@
       "duration_ms": 166800,
       "name": "SexOnTheBeat",
       "url": "https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w"
+    },
+    {
+      "album": {
+        "name": "ALBERT",
+        "url": "https://open.spotify.com/album/2pTBQvzZXEZutm2fy8dfX2"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        },
+        {
+          "name": "Faza",
+          "url": "https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216638,
+      "name": "Sexsymbol (feat. Faza)",
+      "url": "https://open.spotify.com/track/6zhqiptcdaG9YfPAmDdu97"
     },
     {
       "album": {
@@ -220876,6 +220982,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "date_added": "2026-10-15",
@@ -225564,42 +225674,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "ALBERT",
-        "url": "https://open.spotify.com/album/2pTBQvzZXEZutm2fy8dfX2"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/6zhqiptcdaG9YfPAmDdu97"
-    },
-    {
-      "album": {
-        "name": "ALBERT",
-        "url": "https://open.spotify.com/album/2pTBQvzZXEZutm2fy8dfX2"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/4mgXMjQp1i4WC8XhArq0Nw"
     },
     {
       "album": {

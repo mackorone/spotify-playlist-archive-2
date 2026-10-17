@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172125,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y"
@@ -4744,7 +4744,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204966,
       "name": "Soarin'",
       "url": "https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu"
@@ -6325,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "\u3055\u306a\u304c\u3089\u30ed\u30f3\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/250LpstRy6HPHxPaABRjUm"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183850,
+      "name": "\u3055\u306a\u304c\u3089\u30ed\u30f3\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/4fksLHcbww26MwMJ2FdLqr"
+    },
+    {
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -7674,6 +7692,28 @@
       "duration_ms": 189533,
       "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
       "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
+    },
+    {
+      "album": {
+        "name": "\u6d99\u306e\u6cb3",
+        "url": "https://open.spotify.com/album/3hhjZ6pIGXNGtxS8PNem13"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        },
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "\u6d99\u306e\u6cb3",
+      "url": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG"
     },
     {
       "album": {

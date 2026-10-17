@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams, Liviu Teodorescu
 
-583 songs - 1 day 3 hr 28 min
+583 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Closure](https://open.spotify.com/track/7L6ZTbU0dqfSx7rGQeajl8) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Elvana Gjata](https://open.spotify.com/artist/6Cej574CUx7dHKuRHBPNp0) | [Closure](https://open.spotify.com/album/0LIfGybTQagQa5WxQZJ0uP) | 2:47 | 2026-07-16 | 2026-09-25 |
 | [Combinația](https://open.spotify.com/track/1gSp7gOutMRYnwghqiWBwx) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Combinația](https://open.spotify.com/album/7pmpfptMe5NF4cjs0wYqn7) | 2:34 | 2025-08-07 | 2026-02-13 |
 | [Compromis](https://open.spotify.com/track/2iUFBWn0r43yVWxS99R8Lz) | [Karmen](https://open.spotify.com/artist/2S3C9sCcaSXmGzH4dVoiHF) | [Compromis](https://open.spotify.com/album/37jrMjKiHDLlKwGnm9hRcz) | 2:26 | 2024-11-07 | 2024-11-29 |
+| [Cristale](https://open.spotify.com/track/20OLGtskxkjQeU7pzBfwLj) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [NOSFE](https://open.spotify.com/artist/0MvOpXzkqyFOyom1rrm4NM) | [17](https://open.spotify.com/album/29l9kuVI2PN1ue2M7NaXaC) | 2:28 | 2026-10-15 |  |
 | [CROCO](https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [CROCO](https://open.spotify.com/album/5ZtZOLqn1enQcfHNJMJ9QH) | 2:10 | 2026-02-26 | 2026-03-20 |
 | [Cu Tălpile Goale](https://open.spotify.com/track/5eMX92EXE1FFV0JCixVkXD) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Cu Tălpile Goale](https://open.spotify.com/album/0R7eK1bGzwk5UBJ7IKoZWE) | 2:33 | 2025-07-03 | 2026-02-27 |
 | [Culoarea ta](https://open.spotify.com/track/4fblpPuUuzhn9FnUGESyIq) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Culoarea ta](https://open.spotify.com/album/0dn3wdwGfcJ6z2uX3Fp58Y) | 3:06 | 2024-06-27 | 2024-08-23 |
@@ -534,7 +535,6 @@
 | [Tot ce avem e azi](https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Tot ce avem e azi](https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE) | 3:03 | 2025-07-10 | 2025-08-22 |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-06-27 | 2024-07-19 |
 | [Totul Pe Nimic](https://open.spotify.com/track/3ki2hTuCBdfuRRHU91il4x) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Totul Pe Nimic](https://open.spotify.com/album/05uNXr8ZcRGYE7hBKJphpJ) | 2:55 | 2026-09-10 |  |
-| [Track 6](https://open.spotify.com/track/20OLGtskxkjQeU7pzBfwLj) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw) | [17](https://open.spotify.com/album/29l9kuVI2PN1ue2M7NaXaC) | 0:00 | 2026-10-15 |  |
 | [Trandafiri](https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Trandafiri](https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5) | 2:22 | 2025-05-15 | 2025-08-22 |
 | [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 | 2025-09-18 | 2026-02-27 |
 | [Trenul](https://open.spotify.com/track/0tkYAGQjYLqTnZSF17X7qy) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Trenul](https://open.spotify.com/album/7oRBj3hViUmgyV0EvNTO5R) | 2:54 | 2026-10-01 | 2026-10-03 |

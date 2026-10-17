@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 315114,
+  "num_followers": 315209,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+HJQrzvdD7C0cfC0rc7E9qiKP2",
+  "snapshot_id": "AAAAANIcoqobCDTxCLazY6EdhXWIm10x",
   "tracks": [
     {
       "added_at": "2026-07-16 23:50:42",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Desde El Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 218413,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music Vol. II",
-        "url": "https://open.spotify.com/album/7FrqHN8S3QQNnN9Z7ZHXhI"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 191906,
       "name": "Yo Te Necesito",
       "url": "https://open.spotify.com/track/4dlJmzbFkjvut4QjJM8LPe"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music Vol. II",
+        "url": "https://open.spotify.com/album/7FrqHN8S3QQNnN9Z7ZHXhI"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Las Romanticas Favoritas de Fuerza Regida",
-        "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "No Puedo Olvidarla",
-      "url": "https://open.spotify.com/track/7b1TG0vsbfYWRvMtnR4t7Z"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Abriendo Caminos",
         "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 197933,
       "name": "C\u00f3mo Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Las Romanticas Favoritas de Fuerza Regida",
+        "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "No Puedo Olvidarla",
+      "url": "https://open.spotify.com/track/7b1TG0vsbfYWRvMtnR4t7Z"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
+        "name": "Te Voy a Hacer Feliz",
+        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Sort\u00e9",
+          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
+        }
+      ],
+      "duration_ms": 260263,
+      "name": "Se Va Muriendo M\u00ed Alma",
+      "url": "https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
         "name": "Navidad Con La Regida",
         "url": "https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Te Voy a Hacer Feliz",
-        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Sort\u00e9",
-          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
-        }
-      ],
-      "duration_ms": 260263,
-      "name": "Se Va Muriendo M\u00ed Alma",
-      "url": "https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Por Eso...Gracias",
         "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 210733,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
     },
     {
       "added_at": "2026-07-16 23:50:42",

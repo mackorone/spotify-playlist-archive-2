@@ -4,7 +4,7 @@
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
 
-366 songs - 18 hr 19 min
+366 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,6 @@
 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 | 2025-06-19 | 2026-09-18 |
 | [Tout ira mieux demain](https://open.spotify.com/track/1m4itVNI3P6yGSA3Ptni9P) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Intérieur Vie](https://open.spotify.com/album/3mnH4p3JR7XSuQoQGmbMnx) | 3:30 | 2023-09-08 | 2024-01-19 |
 | [Toute la vie](https://open.spotify.com/track/7I8MDzoGI7GVB4bFUwg1hG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Toute la vie](https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ) | 3:29 | 2021-12-02 | 2022-03-02 |
-| [Track 13](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 0:00 | 2026-10-15 |  |
 | [Triste fête](https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:40 | 2022-04-14 | 2023-11-18 |
 | [Tristesse](https://open.spotify.com/track/0gv9l2E8gtjImlE0PDtIJs) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:31 | 2023-09-08 | 2023-10-14 |
 | [Trop bonnes](https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/1d5vTrUDJ7OrB5KaLg4lIx) | 2:32 | 2023-04-11 | 2023-07-12 |
@@ -359,6 +358,7 @@
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-10-04 | 2024-01-19 |
 | [y'a rien de plus chiant que la joie](https://open.spotify.com/track/2qpfUuhooMWT7m3o6Jg0CB) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [y'a rien de plus chiant que la joie](https://open.spotify.com/album/1ApHah4ETKmbD3pSpO9mBB) | 2:13 | 2023-01-24 | 2023-03-11 |
 | [Y'a un monde](https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Y'a un monde](https://open.spotify.com/album/5LZOhA2ItAo67jrYJ5dPmV) | 4:28 | 2026-09-17 |  |
+| [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 | 2026-10-15 |  |
 | [Zendaya](https://open.spotify.com/track/5GoYPbTlQbdXPoUWTsrLoK) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [Zendaya / Ligne 9](https://open.spotify.com/album/7lYkPiBwYXF8xRdSVWNhPl) | 2:30 | 2025-06-19 | 2025-11-13 |
 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 | 2026-09-17 | 2026-09-25 |
 | [À force](https://open.spotify.com/track/2OXsC8IbL0V5SXNRGr1kCA) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:17 | 2024-03-11 | 2024-04-11 |

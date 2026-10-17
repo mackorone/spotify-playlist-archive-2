@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 70's! Cover: The Cats",
-  "num_followers": 99710,
+  "num_followers": 99719,
   "original_name": "70's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEBZP7qkkdLr09+/lH9UxOMXuRGU",
+  "snapshot_id": "AAAAAImojYU//Nny36XYDEBqRSgQ9P5X",
   "tracks": [
     {
       "added_at": "2024-08-28 19:18:25",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 247592,
       "name": "Georgy Porgy",
       "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Song Of The Marching Children",
-        "url": "https://open.spotify.com/album/02TCJof1N14NB16zBOk6ds"
-      },
-      "artists": [
-        {
-          "name": "Earth & Fire",
-          "url": "https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo"
-        }
-      ],
-      "duration_ms": 385626,
-      "name": "Storm And Thunder",
-      "url": "https://open.spotify.com/track/7uzbAYvAnH49ld7ZH96jo2"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Sing For The Day (Remastered)",
         "url": "https://open.spotify.com/album/5zAQQh5Pi5jBvDOOGJHXJP"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 263320,
       "name": "Sing For The Day",
       "url": "https://open.spotify.com/track/0SG5YrgInjzKOBhKFpGygu"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Song Of The Marching Children",
+        "url": "https://open.spotify.com/album/02TCJof1N14NB16zBOk6ds"
+      },
+      "artists": [
+        {
+          "name": "Earth & Fire",
+          "url": "https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo"
+        }
+      ],
+      "duration_ms": 385626,
+      "name": "Storm And Thunder",
+      "url": "https://open.spotify.com/track/7uzbAYvAnH49ld7ZH96jo2"
     },
     {
       "added_at": "2024-08-28 19:18:25",

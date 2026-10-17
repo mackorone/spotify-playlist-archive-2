@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Siri Xander",
-  "num_followers": 85463,
+  "num_followers": 85513,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOUWMVgmH9q4GxE+VWuF/TX3iMKS",
+  "snapshot_id": "AAAAAH5RftlW8iJvrocWjrBlIxgl1OqC",
   "tracks": [
     {
       "added_at": "2026-08-27 11:24:03",
@@ -95,6 +95,26 @@
       "duration_ms": 237841,
       "name": "Pon Vizhi",
       "url": "https://open.spotify.com/track/2Fg13KXXr1tTQukjeKagqa"
+    },
+    {
+      "added_at": "2026-10-16 09:42:13",
+      "album": {
+        "name": "Classic Aval Music",
+        "url": "https://open.spotify.com/album/5IPKZthnZJOyhX5lNZN8PC"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "VINXI",
+          "url": "https://open.spotify.com/artist/62R0MubK1LiZSQyii2iSnm"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Classic Aval Music",
+      "url": "https://open.spotify.com/track/2bZnygpzbwjFtDWHdQL8F9"
     },
     {
       "added_at": "2026-09-21 14:27:29",

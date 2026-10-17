@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: MARBLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,093 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,130 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Semoga Nanti](https://open.spotify.com/track/0RSKTd73kcQVe0smlDO8cS) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Dan Ternyata Aku Cukup](https://open.spotify.com/album/04rABPREg1mVy6QvWubST3) | 3:32 |
 | 100 | [Bangga](https://open.spotify.com/track/1NajyXjwvpw1E9XTCWFSep) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Bangga](https://open.spotify.com/album/3rOE34WAo8hBki0cSMGLmd) | 3:25 |
 
-Snapshot ID: `AAAAAE4T5Pp78Nevaq2k7fO/FJN/b695`
+Snapshot ID: `AAAAAMp5OWH5bbmq+Uf0qqGsVqUbf/t6`

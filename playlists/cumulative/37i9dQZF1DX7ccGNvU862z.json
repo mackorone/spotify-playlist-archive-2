@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM, KT KRATAE",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ben Bizzy",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 132173,
       "name": "2Night",
       "url": "https://open.spotify.com/track/0Vnv87x7NpNVyNxH5ukysU"
+    },
+    {
+      "album": {
+        "name": "330",
+        "url": "https://open.spotify.com/album/0DvIcQHGsO1SN74RtDUAys"
+      },
+      "artists": [
+        {
+          "name": "Bangkokboy",
+          "url": "https://open.spotify.com/artist/2HLElSllbwwiTppPlCwVFL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117230,
+      "name": "330",
+      "url": "https://open.spotify.com/track/13az0dud01LE52J07lxXT7"
     },
     {
       "album": {
@@ -950,7 +968,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 286927,
       "name": "Be",
       "url": "https://open.spotify.com/track/6xqg3lZF0ylaqoQ2kGNXWI"
@@ -3805,6 +3823,28 @@
     },
     {
       "album": {
+        "name": "LABELESS",
+        "url": "https://open.spotify.com/album/1Pk0rMVTTLL0ruje6ly6ti"
+      },
+      "artists": [
+        {
+          "name": "TG TIGER",
+          "url": "https://open.spotify.com/artist/3AjJfEa2qZ4DEHjaw0WMTw"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Introvert",
+      "url": "https://open.spotify.com/track/1CZUL1vHioQwDhVJJW6qQt"
+    },
+    {
+      "album": {
         "name": "IOS",
         "url": "https://open.spotify.com/album/1KYCgrmUFOsDytDgx0U8WA"
       },
@@ -4126,7 +4166,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 239964,
       "name": "LAME SHIT",
       "url": "https://open.spotify.com/track/39Sceab5rQTMEbluJIUv1y"
@@ -7904,7 +7944,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 210000,
       "name": "Taxi Driver",
       "url": "https://open.spotify.com/track/3C1mzkWf7VNXQROA50e4zY"
@@ -12456,7 +12496,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 264960,
       "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ"
@@ -12674,6 +12714,28 @@
       "duration_ms": 167079,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e25 - High",
       "url": "https://open.spotify.com/track/5sW5R4Ofm9zfBuN1jX8MsV"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e27\u0e14\u0e2b\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/1Gk6SYaQyOSaezjzvCc5Ms"
+      },
+      "artists": [
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        },
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u0e1b\u0e27\u0e14\u0e2b\u0e31\u0e27",
+      "url": "https://open.spotify.com/track/2Ht7KR4hqeG7b5S9SLja6c"
     },
     {
       "album": {
@@ -12933,6 +12995,32 @@
     },
     {
       "album": {
+        "name": "\u0e1d\u0e31\u0e19\u0e44\u0e23\u0e49\u0e23\u0e32\u0e04\u0e32",
+        "url": "https://open.spotify.com/album/5eWE1ImH4yK3zWGWt6bDPr"
+      },
+      "artists": [
+        {
+          "name": "Twopee Southside",
+          "url": "https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn"
+        },
+        {
+          "name": "Jaii TaitosmitH",
+          "url": "https://open.spotify.com/artist/53Hm7EpDfCtRO9XMCBI8Iq"
+        },
+        {
+          "name": "4Moze Taitosmith",
+          "url": "https://open.spotify.com/artist/4zF7xkJuDaFRqVdyzfUiIX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277506,
+      "name": "\u0e1d\u0e31\u0e19\u0e44\u0e23\u0e49\u0e23\u0e32\u0e04\u0e32",
+      "url": "https://open.spotify.com/track/2uEblnXIgHu0p7uMyNZGUO"
+    },
+    {
+      "album": {
         "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
         "url": "https://open.spotify.com/album/47Ym1CxnLXUN40au3otFsv"
       },
@@ -13060,6 +13148,28 @@
       "duration_ms": 222439,
       "name": "\u0e1e\u0e27\u0e01\u0e01\u0e39\u0e40\u0e14\u0e47\u0e01\u0e0a\u0e25",
       "url": "https://open.spotify.com/track/5D7f7WJXLooIKr1QuIxtAW"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e2d\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/0ZzWXObnHyXOvqwoenkwQS"
+      },
+      "artists": [
+        {
+          "name": "9tokyo",
+          "url": "https://open.spotify.com/artist/3FxGLtMGpuO4myzWo0gktr"
+        },
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231495,
+      "name": "\u0e1e\u0e2d\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/1xHQCGX8m1q4JG9TRgUQR0"
     },
     {
       "album": {
@@ -13368,7 +13478,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 197304,
       "name": "\u0e20\u0e32\u0e27\u0e19\u0e32",
       "url": "https://open.spotify.com/track/42QTYhKCIdE22M7Xr0kVcu"
@@ -13579,6 +13689,28 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e35\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e21\u0e32\u0e40\u0e25\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/19qauIcYRLzFgVpbNLH9Y6"
+      },
+      "artists": [
+        {
+          "name": "NAMEMT",
+          "url": "https://open.spotify.com/artist/22i4rMtrvKnWENQSiD3xXU"
+        },
+        {
+          "name": "xanearmt",
+          "url": "https://open.spotify.com/artist/1ISnIU1lTcItCa9kb4JSGI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179965,
+      "name": "\u0e21\u0e35\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e21\u0e32\u0e40\u0e25\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/5xNZ78hKIfqFY92SIYMP6E"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e35\u0e40\u0e2b\u0e35\u0e49\u0e22\u0e44\u0e23\u0e41\u0e1b\u0e25\u0e01",
         "url": "https://open.spotify.com/album/44MAPIsNqb4kHCouVAo5uW"
       },
@@ -13770,7 +13902,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 215714,
       "name": "\u0e22\u0e31\u0e07\u0e44\u0e07\u0e01\u0e47\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/1zP5IYbYe1Gi1BaiGJEK64"
@@ -14964,7 +15096,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 174199,
       "name": "\u0e27\u0e19\u0e27\u0e32\u0e22 ;(",
       "url": "https://open.spotify.com/track/4DlLZVEkw1XY2LjzyaLDcL"
@@ -19712,6 +19844,28 @@
       "duration_ms": 215433,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e08\u0e1a\u0e25\u0e07",
       "url": "https://open.spotify.com/track/6V7GxMakhJl94OiNhgcAbl"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e19\u0e2d\u0e19 (feat. Jh4y)",
+        "url": "https://open.spotify.com/album/1HqIMyStveJmhdO1pWVxX2"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        },
+        {
+          "name": "Jh4y",
+          "url": "https://open.spotify.com/artist/01yGyVB1FyqBdpe7usXZ9o"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e19\u0e2d\u0e19 (feat. Jh4y)",
+      "url": "https://open.spotify.com/track/7CEI8483QwH7Arph4HNVwl"
     },
     {
       "album": {

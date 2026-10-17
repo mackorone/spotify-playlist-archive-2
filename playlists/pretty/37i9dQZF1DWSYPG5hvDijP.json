@@ -1,13 +1,357 @@
 {
-  "description": "Naya Hindi Hip-Hop! Cover: SHREY, aardicy, Strafe & RiJ",
-  "num_followers": 24008,
+  "description": "Naya Hindi Hip-Hop! Cover: Albela",
+  "num_followers": 24033,
   "original_name": "New Rap Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3Xn/R5efIOCryWZ9MudFW5qJfL",
+  "snapshot_id": "AAAAAIfBk6DD5pgOaQF8+d6lxhpbzKHL",
   "tracks": [
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Beetta Waqt Hi Dawai Hai",
+        "url": "https://open.spotify.com/album/50Jsmk04AdYwwanAnB0iag"
+      },
+      "artists": [
+        {
+          "name": "Albela",
+          "url": "https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO"
+        },
+        {
+          "name": "Encore ABJ",
+          "url": "https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy"
+        }
+      ],
+      "duration_ms": 260687,
+      "name": "Sangeet",
+      "url": "https://open.spotify.com/track/2lcQQbP3xkwSpaoPPlh3Sr"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Log Kehte Hai",
+        "url": "https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp"
+      },
+      "artists": [
+        {
+          "name": "Poet Shaf",
+          "url": "https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b"
+        }
+      ],
+      "duration_ms": 235181,
+      "name": "Log Kehte Hai",
+      "url": "https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "TOP SHOTTA (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/785ZM44geWdhtTY0AQtXke"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "duration_ms": 187252,
+      "name": "TOP SHOTTA - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/657FXlwQJdX6kwrkXyuj0S"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "VVVV VOL. 2",
+        "url": "https://open.spotify.com/album/1m2FkAT18SmqCJEzKnYzIW"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        }
+      ],
+      "duration_ms": 143225,
+      "name": "BLOWUP",
+      "url": "https://open.spotify.com/track/5Oys598jBje9v92awHRXzZ"
+    },
+    {
+      "added_at": "2026-10-09 12:22:45",
+      "album": {
+        "name": "Hustle 5 - Episode 18",
+        "url": "https://open.spotify.com/album/7E8sc50J8Uaeu4w6gEn7W1"
+      },
+      "artists": [
+        {
+          "name": "Dflacko",
+          "url": "https://open.spotify.com/artist/29EZU832cmCBp3idxrKpdM"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "duration_ms": 175950,
+      "name": "Bye Kartos",
+      "url": "https://open.spotify.com/track/4wN4EiDQ40rAkuJhqdrIHx"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "CHAL CHAL BAMAI",
+        "url": "https://open.spotify.com/album/2877QsEafMV9uWKOB7qg4X"
+      },
+      "artists": [
+        {
+          "name": "Mc Flu",
+          "url": "https://open.spotify.com/artist/6dKzdxMFApAlURkjM6pSlW"
+        },
+        {
+          "name": "Aarvi Dubey",
+          "url": "https://open.spotify.com/artist/6Y6FYyiXZ4DG0j7dVJg3Uf"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "CHAL CHAL BAMAI",
+      "url": "https://open.spotify.com/track/0pBllMWLmyZODYFMsFAv0i"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/7Gkw7rmmlHsvnxnCytmFtm"
+      },
+      "artists": [
+        {
+          "name": "Young Aytee",
+          "url": "https://open.spotify.com/artist/7eEc91UP4LiMMNOGg2fAzY"
+        },
+        {
+          "name": "dox",
+          "url": "https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/6x2kBaxYOGC8mdPMDtYCbD"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Scammer",
+        "url": "https://open.spotify.com/album/5zxqozQzSqyOWPQOLGTFJP"
+      },
+      "artists": [
+        {
+          "name": "BELLICOSE",
+          "url": "https://open.spotify.com/artist/7gYcyd5Xh2BclqWDrchzHo"
+        },
+        {
+          "name": "BRUTAL BABA",
+          "url": "https://open.spotify.com/artist/36cO0grAw5TZDagS9odTPS"
+        },
+        {
+          "name": "Earghzm",
+          "url": "https://open.spotify.com/artist/6Ff49O39e3hCrSafKhNUN1"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Scammer",
+      "url": "https://open.spotify.com/track/6IhtMgW9kLgUTfLtjJ0Buf"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Run Karta Game",
+        "url": "https://open.spotify.com/album/0IfzIVNfbT2tFBzc5StUEL"
+      },
+      "artists": [
+        {
+          "name": "Anjaan",
+          "url": "https://open.spotify.com/artist/41L4a2Av6AVNyTwupqw4Ga"
+        },
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/0Iz7sX6HvTM8C0mreUBmRJ"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Run Karta Game",
+      "url": "https://open.spotify.com/track/1BBKUMpWCoAYQKhtLRZblw"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "MILF",
+        "url": "https://open.spotify.com/album/6SdeyhYeM6f1WJxX4a0wRX"
+      },
+      "artists": [
+        {
+          "name": "Frappe Ash",
+          "url": "https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH"
+        },
+        {
+          "name": "Wheatish Brown",
+          "url": "https://open.spotify.com/artist/4K86FK2rdMRPKpqVoBCNLE"
+        }
+      ],
+      "duration_ms": 171610,
+      "name": "Lose My Number",
+      "url": "https://open.spotify.com/track/1uZl5xtODRfwM44LwYt8Bq"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "charag",
+        "url": "https://open.spotify.com/album/5qbTY2De1vRkwRgeC9ENKS"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "duration_ms": 220950,
+      "name": "mijaz",
+      "url": "https://open.spotify.com/track/6QNNSuziXWdF69eEsepsfp"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Hood Hood",
+        "url": "https://open.spotify.com/album/5PLFw1MSrNTohlPkhM8hsC"
+      },
+      "artists": [
+        {
+          "name": "Happy Shrivastava",
+          "url": "https://open.spotify.com/artist/2Nq0lKCkGz4E3nfSgW762o"
+        }
+      ],
+      "duration_ms": 112660,
+      "name": "Hood Hood",
+      "url": "https://open.spotify.com/track/364o1YST5AtJKg5zJQYZ2n"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Baby Run",
+        "url": "https://open.spotify.com/album/1BuZuzAzsiL5nAmD7RDuQz"
+      },
+      "artists": [
+        {
+          "name": "FOREN",
+          "url": "https://open.spotify.com/artist/2Twp2I5RxNBoiW3SctJHJ3"
+        }
+      ],
+      "duration_ms": 201477,
+      "name": "Baby Run",
+      "url": "https://open.spotify.com/track/3Xst08tNLqNMPdXzUrj1q3"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Paisa Toh Bahut Hai",
+        "url": "https://open.spotify.com/album/5EunajeWedX5bXkTBxviyk"
+      },
+      "artists": [
+        {
+          "name": "Shantanu",
+          "url": "https://open.spotify.com/artist/2Fbbl2LqgmqMLrL71chON3"
+        }
+      ],
+      "duration_ms": 154550,
+      "name": "Paisa Toh Bahut Hai",
+      "url": "https://open.spotify.com/track/61aF6OSg5tK3fTLorzwOb6"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Guldasta",
+        "url": "https://open.spotify.com/album/2QevWyeVzx91E18lKIcvxu"
+      },
+      "artists": [
+        {
+          "name": "saksham dhyani",
+          "url": "https://open.spotify.com/artist/4UAFxXN3ovNQvlDlICUhx5"
+        },
+        {
+          "name": "Akash Raturi",
+          "url": "https://open.spotify.com/artist/457OeTZAHzomrx5vdJUQMa"
+        },
+        {
+          "name": "Maven Music",
+          "url": "https://open.spotify.com/artist/7qsUZEko6gauCXtSdrOelW"
+        },
+        {
+          "name": "GHILDIYAL",
+          "url": "https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Hawa Mai Gum",
+      "url": "https://open.spotify.com/track/7Gl4mUPfxHEGhdTeoZnkkO"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Jaane Mere Ram",
+        "url": "https://open.spotify.com/album/7Bskr4eCoBCFGQbCDbXyWr"
+      },
+      "artists": [
+        {
+          "name": "Vayuu",
+          "url": "https://open.spotify.com/artist/40Bskx3RWM3MffYEToOWJY"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Jaane Mere Ram",
+      "url": "https://open.spotify.com/track/48aaKpu1c1srZhRj6tgHiH"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/41s2ef6T8EwMmCu27upqWy"
+      },
+      "artists": [
+        {
+          "name": "Parth Kamboj",
+          "url": "https://open.spotify.com/artist/3nPa0lkAwrXNg0ceAhUDlF"
+        }
+      ],
+      "duration_ms": 144207,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/3t7tyGtMWPO9ON07NgrQVm"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "ONE OF A KIND",
+        "url": "https://open.spotify.com/album/1Y2detzyQYRx6mp9RVe64H"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        },
+        {
+          "name": "YUNG DSA",
+          "url": "https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "MODUS OPERANDI",
+      "url": "https://open.spotify.com/track/4Mazk72kDQJ8HqrDGCb7OM"
+    },
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
@@ -59,26 +403,6 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "AABHAARI HOON",
-        "url": "https://open.spotify.com/album/7M5zh2u8StzveWk4mSsD9z"
-      },
-      "artists": [
-        {
-          "name": "vichaar",
-          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
-        },
-        {
-          "name": "ISHH",
-          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "AABHAARI HOON",
-      "url": "https://open.spotify.com/track/0TvBGs9qgh5NC9Zmx1LuNi"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
         "name": "Pistachio",
         "url": "https://open.spotify.com/album/4O4fZ7sNkUR4m4Jker0xgz"
       },
@@ -113,48 +437,24 @@
       "url": "https://open.spotify.com/track/1MFJSYZGaXMDgHPZO3q6vo"
     },
     {
-      "added_at": "2026-10-09 12:22:45",
+      "added_at": "2026-10-16 12:41:41",
       "album": {
-        "name": "Hustle 5 - Episode 18",
-        "url": "https://open.spotify.com/album/7E8sc50J8Uaeu4w6gEn7W1"
+        "name": "Kya Bata",
+        "url": "https://open.spotify.com/album/09TZ0CBgJcOGbCjFN7TbEs"
       },
       "artists": [
         {
-          "name": "Dflacko",
-          "url": "https://open.spotify.com/artist/29EZU832cmCBp3idxrKpdM"
+          "name": "Sashwat",
+          "url": "https://open.spotify.com/artist/6WDcM5HzhOssmNxlC1twpB"
         },
         {
-          "name": "Aditya Pushkarna",
-          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+          "name": "Shauk",
+          "url": "https://open.spotify.com/artist/7GZQqgpRKJMTehxFDPmVt3"
         }
       ],
-      "duration_ms": 175950,
-      "name": "Bye Kartos",
-      "url": "https://open.spotify.com/track/4wN4EiDQ40rAkuJhqdrIHx"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "YAMMA YAMMA",
-        "url": "https://open.spotify.com/album/3mY2PewGnmkjFnB3MHPiRM"
-      },
-      "artists": [
-        {
-          "name": "Parimal Shais",
-          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
-        },
-        {
-          "name": "Yashraj",
-          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
-        },
-        {
-          "name": "Kim The Beloved",
-          "url": "https://open.spotify.com/artist/2lXkftiHxP34fKQl8W6hCC"
-        }
-      ],
-      "duration_ms": 157713,
-      "name": "YAMMA YAMMA",
-      "url": "https://open.spotify.com/track/4vrpEiIykwn5iFnneIXICo"
+      "duration_ms": 117504,
+      "name": "Kya Bata",
+      "url": "https://open.spotify.com/track/4ZSHIAHWW4J94xb0y29R06"
     },
     {
       "added_at": "2026-10-09 12:22:45",
@@ -183,38 +483,26 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "Homies Are Destiny",
-        "url": "https://open.spotify.com/album/68n0HdyCO7IKpGHiWifhwu"
+        "name": "YAMMA YAMMA",
+        "url": "https://open.spotify.com/album/3mY2PewGnmkjFnB3MHPiRM"
       },
       "artists": [
         {
-          "name": "MC ROCKET",
-          "url": "https://open.spotify.com/artist/3yA9xEkNkDWRAOajfNXJW0"
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
         },
         {
-          "name": "DR.RASAL",
-          "url": "https://open.spotify.com/artist/0nf6eyiKK5MFQqHpmVkW0B"
-        }
-      ],
-      "duration_ms": 230272,
-      "name": "Homies Are Destiny",
-      "url": "https://open.spotify.com/track/4jO7W7p9bLckfKQ1VJ5TzR"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "FINEST MF",
-        "url": "https://open.spotify.com/album/62IhxfQ7ZRWdvM9AsH3J6r"
-      },
-      "artists": [
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
         {
-          "name": "8CTRL",
-          "url": "https://open.spotify.com/artist/0SZI7o0l7PAyfvIKDDm3DV"
+          "name": "Kim The Beloved",
+          "url": "https://open.spotify.com/artist/2lXkftiHxP34fKQl8W6hCC"
         }
       ],
-      "duration_ms": 113167,
-      "name": "Gen-Z",
-      "url": "https://open.spotify.com/track/5qiIh0sgDvMUcceEbyr0l4"
+      "duration_ms": 157713,
+      "name": "YAMMA YAMMA",
+      "url": "https://open.spotify.com/track/4vrpEiIykwn5iFnneIXICo"
     },
     {
       "added_at": "2026-10-09 12:22:45",
@@ -235,82 +523,6 @@
       "duration_ms": 140283,
       "name": "8PETI",
       "url": "https://open.spotify.com/track/1iAYiO3r0b97An9iA9dyOV"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Mehfooz",
-        "url": "https://open.spotify.com/album/0DAFiq7hfFwlvNMuXjIHk3"
-      },
-      "artists": [
-        {
-          "name": "THE RDX",
-          "url": "https://open.spotify.com/artist/1y3JioFDwjWNWRu3sADndA"
-        }
-      ],
-      "duration_ms": 210752,
-      "name": "Mehfooz",
-      "url": "https://open.spotify.com/track/3mmon7gcTCSbe3urZckM41"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Makaveli",
-        "url": "https://open.spotify.com/album/40Lqobwx03WFUrmPzYf0qB"
-      },
-      "artists": [
-        {
-          "name": "Rishi Sehgal",
-          "url": "https://open.spotify.com/artist/1gweejVfJD3pbH3tUNsmXm"
-        }
-      ],
-      "duration_ms": 116071,
-      "name": "Makaveli",
-      "url": "https://open.spotify.com/track/1fHB0OeJ38Rv4LzFeoUPbj"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "ONE OF A KIND",
-        "url": "https://open.spotify.com/album/1Y2detzyQYRx6mp9RVe64H"
-      },
-      "artists": [
-        {
-          "name": "YUNG SAMMY",
-          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
-        },
-        {
-          "name": "Calm",
-          "url": "https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE"
-        },
-        {
-          "name": "Wamp",
-          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
-        }
-      ],
-      "duration_ms": 184071,
-      "name": "GANG & HOODIES",
-      "url": "https://open.spotify.com/track/0ThCEz3hZpBTftDPKh2XUp"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Maar Dena",
-        "url": "https://open.spotify.com/album/173PIJRUr1C4s1gCyhK085"
-      },
-      "artists": [
-        {
-          "name": "Silent Attack",
-          "url": "https://open.spotify.com/artist/2SV9uCVS1nyqhVMRXfiVmM"
-        },
-        {
-          "name": "nuvoices",
-          "url": "https://open.spotify.com/artist/2uUDVhVkKynzUJknr80mpA"
-        }
-      ],
-      "duration_ms": 174687,
-      "name": "Maar Dena",
-      "url": "https://open.spotify.com/track/4thHWD0gXJoMIlDTJKwdQT"
     },
     {
       "added_at": "2026-10-09 12:22:45",
@@ -381,6 +593,22 @@
       "url": "https://open.spotify.com/track/08FASzm7PiJKc0Tg9yxJEJ"
     },
     {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Daaire",
+        "url": "https://open.spotify.com/album/47rPhYA7VBDUu6Ww1DSyoF"
+      },
+      "artists": [
+        {
+          "name": "Dizlaw",
+          "url": "https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU"
+        }
+      ],
+      "duration_ms": 146905,
+      "name": "Daaire",
+      "url": "https://open.spotify.com/track/1wwpCdP373gOaZhLxqeyRh"
+    },
+    {
       "added_at": "2026-10-09 12:22:45",
       "album": {
         "name": "One Last Chance",
@@ -423,26 +651,6 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "Hooked on You",
-        "url": "https://open.spotify.com/album/6gDIJr1KlK0P02mtv7PgIx"
-      },
-      "artists": [
-        {
-          "name": "Agsy",
-          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
-        },
-        {
-          "name": "Bob.B Randhawa",
-          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
-        }
-      ],
-      "duration_ms": 146326,
-      "name": "Hooked on You",
-      "url": "https://open.spotify.com/track/6MWOoBgbMGXWAABVl3YiO7"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
         "name": "ONE OF A KIND",
         "url": "https://open.spotify.com/album/1Y2detzyQYRx6mp9RVe64H"
       },
@@ -465,6 +673,26 @@
       "url": "https://open.spotify.com/track/5Df9dhgFwGlk2kwq7bXBZe"
     },
     {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Hustle 5 - Episode 12",
+        "url": "https://open.spotify.com/album/05PJOGRq9bkrHVvNYhTdnX"
+      },
+      "artists": [
+        {
+          "name": "SickLot",
+          "url": "https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "duration_ms": 152832,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/0ZM4Sq2L0z6PTorf8ZNTUU"
+    },
+    {
       "added_at": "2026-10-09 12:22:45",
       "album": {
         "name": "SAFAL (Red Bull 64 Bars)",
@@ -483,6 +711,30 @@
       "duration_ms": 167666,
       "name": "SAFAL - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/1Rc8HH8HNlclwmvobJD2WK"
+    },
+    {
+      "added_at": "2026-10-16 12:41:41",
+      "album": {
+        "name": "Bullets",
+        "url": "https://open.spotify.com/album/14HEPX03wfuzTuuRECRYGb"
+      },
+      "artists": [
+        {
+          "name": "Rexx",
+          "url": "https://open.spotify.com/artist/3z3IzN8aZTFHYb4cmIK9Fb"
+        },
+        {
+          "name": "Deepanshu Ruhela",
+          "url": "https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE"
+        },
+        {
+          "name": "AFL COLLECTIVE",
+          "url": "https://open.spotify.com/artist/34ZSfwUZfYGHv2D9FNsOQy"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Bullets",
+      "url": "https://open.spotify.com/track/13XMFaO3VlIqRgCtb72wqJ"
     },
     {
       "added_at": "2026-10-09 12:22:45",
@@ -507,22 +759,6 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "charag",
-        "url": "https://open.spotify.com/album/5qbTY2De1vRkwRgeC9ENKS"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
-        }
-      ],
-      "duration_ms": 144146,
-      "name": "thikana",
-      "url": "https://open.spotify.com/track/7HcR5IBcEPwrrIESWo6JsJ"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
         "name": "F**k Around & Find Out",
         "url": "https://open.spotify.com/album/2ga1Nxtmvfl1ngwSDCtOzY"
       },
@@ -539,38 +775,6 @@
       "duration_ms": 123000,
       "name": "Need A Room",
       "url": "https://open.spotify.com/track/4SsVg4mMPdr8upFtjtlvlJ"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "HIATUS",
-        "url": "https://open.spotify.com/album/0MQmMsWVvdqQqlmMAsHpA9"
-      },
-      "artists": [
-        {
-          "name": "XTACY",
-          "url": "https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/5sQ69ABg0Unwjjtm2zbpZF"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Ek Aur Sin",
-        "url": "https://open.spotify.com/album/3ipDr9b084HrWdaaoXuPTT"
-      },
-      "artists": [
-        {
-          "name": "Xake",
-          "url": "https://open.spotify.com/artist/6ZG396JU7n4YIhJO2var22"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Jab Talak",
-      "url": "https://open.spotify.com/track/0WrMKSh2LRFuV6XMaXAq4v"
     },
     {
       "added_at": "2026-10-09 12:22:45",
@@ -711,26 +915,6 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "UNDERDOG SHIT (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/1wyNvbe4M9W9MDWg3GijBh"
-      },
-      "artists": [
-        {
-          "name": "vichaar",
-          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
-        },
-        {
-          "name": "Karan Kanchan",
-          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
-        }
-      ],
-      "duration_ms": 160326,
-      "name": "UNDERDOG SHIT - Red Bull 64 Bars",
-      "url": "https://open.spotify.com/track/4vIHnp07ywhdEHJGDMHhvF"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
         "name": "Mindset",
         "url": "https://open.spotify.com/album/45LP3xCXhYdchmCYcEnsF1"
       },
@@ -815,34 +999,6 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "NO FORMULA",
-        "url": "https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7"
-      },
-      "artists": [
-        {
-          "name": "Raga",
-          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
-        },
-        {
-          "name": "Ikka",
-          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
-        },
-        {
-          "name": "SEYSEY",
-          "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
-        },
-        {
-          "name": "Finvy",
-          "url": "https://open.spotify.com/artist/2ck3EG60jD1iMYZ6oCIcdV"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "I Get It",
-      "url": "https://open.spotify.com/track/011twVXCQn9jE91TXROUa3"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
         "name": "Flames",
         "url": "https://open.spotify.com/album/5oiY8KhtGVcBo5huycVCtc"
       },
@@ -899,30 +1055,6 @@
       "duration_ms": 172500,
       "name": "Kya Chahiye?",
       "url": "https://open.spotify.com/track/1ThZ1nH0AH7AbBvfkNLow5"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Kheecha Taani",
-        "url": "https://open.spotify.com/album/0xY7gwyAGifRmSEM2DADzB"
-      },
-      "artists": [
-        {
-          "name": "Saar Punch",
-          "url": "https://open.spotify.com/artist/5nSbJVmWf7ywOr1nOESsVn"
-        },
-        {
-          "name": "Pranay Parti",
-          "url": "https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy"
-        },
-        {
-          "name": "Arpan Kumar",
-          "url": "https://open.spotify.com/artist/7GnixGIHmy6H04qIGK69aq"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Kheecha Taani",
-      "url": "https://open.spotify.com/track/57cdjAncfpSBR6CeHtaCfa"
     },
     {
       "added_at": "2026-10-09 12:22:45",
@@ -1175,22 +1307,6 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "Self Talk",
-        "url": "https://open.spotify.com/album/5ixWgVZLckdLfPxMI4EQug"
-      },
-      "artists": [
-        {
-          "name": "Suyash Parasher",
-          "url": "https://open.spotify.com/artist/7mL47j0V6LmUeERZjNQOth"
-        }
-      ],
-      "duration_ms": 237484,
-      "name": "Self Talk",
-      "url": "https://open.spotify.com/track/1dkgxJzydtpVxq6B1X5e4y"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
         "name": "Love Rap 2",
         "url": "https://open.spotify.com/album/0LuKay5HlpRyHunvfh1lJc"
       },
@@ -1243,46 +1359,6 @@
       "duration_ms": 180021,
       "name": "KATS N DAWGS",
       "url": "https://open.spotify.com/track/38brMm4LYHp0yVtaMxqsLu"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "P-TALK",
-        "url": "https://open.spotify.com/album/4GiWvvnP8DkvKVRGNMB822"
-      },
-      "artists": [
-        {
-          "name": "Fidato",
-          "url": "https://open.spotify.com/artist/3DPKaTfzGrqVHXHp9USXuu"
-        }
-      ],
-      "duration_ms": 189815,
-      "name": "P-TALK",
-      "url": "https://open.spotify.com/track/0sDuE5YZvFXljyEBgBKpEe"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Hope You Get It",
-        "url": "https://open.spotify.com/album/5sIPiKXW7MOmwt7OE1H66m"
-      },
-      "artists": [
-        {
-          "name": "Smoke",
-          "url": "https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy"
-        },
-        {
-          "name": "Buzz",
-          "url": "https://open.spotify.com/artist/1GeFQ8NYeZlf49RxLSKUW1"
-        },
-        {
-          "name": "Farhan Khan",
-          "url": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
-        }
-      ],
-      "duration_ms": 229473,
-      "name": "Kuch Dino Se",
-      "url": "https://open.spotify.com/track/6YLuqzORSOWsMaj7c9G6N1"
     },
     {
       "added_at": "2026-10-09 12:22:45",
@@ -1379,70 +1455,6 @@
     {
       "added_at": "2026-10-09 12:22:45",
       "album": {
-        "name": "19th June",
-        "url": "https://open.spotify.com/album/1KqlR5JchxGoW6hQTf4Rja"
-      },
-      "artists": [
-        {
-          "name": "DirteeVibez",
-          "url": "https://open.spotify.com/artist/2T8IRmv2Gr2Zx5801MgbK7"
-        },
-        {
-          "name": "JORDAN WORDAMN",
-          "url": "https://open.spotify.com/artist/17dBdWeU2e9wSGeOfR81St"
-        },
-        {
-          "name": "Aadh pratapi",
-          "url": "https://open.spotify.com/artist/2DitYt0a5fKLtRnl7o1wts"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "19th June",
-      "url": "https://open.spotify.com/track/1HMo4GlQ5L4e97IESZXutF"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "ONE OF A KIND",
-        "url": "https://open.spotify.com/album/1Y2detzyQYRx6mp9RVe64H"
-      },
-      "artists": [
-        {
-          "name": "YUNG SAMMY",
-          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
-        },
-        {
-          "name": "Wamp",
-          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
-        }
-      ],
-      "duration_ms": 115037,
-      "name": "EVERYBODY KNOWS",
-      "url": "https://open.spotify.com/track/5190f4wRmw9tIKedCvBWRK"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Bragging Rights",
-        "url": "https://open.spotify.com/album/6y1rXsfu9KXk5KIwixNc53"
-      },
-      "artists": [
-        {
-          "name": "yungsta",
-          "url": "https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB"
-        },
-        {
-          "name": "Nikhil - Swapnil",
-          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Technicolour Dreams",
-      "url": "https://open.spotify.com/track/5ukdxVQ6Fo6QdJEW5gBVwf"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
         "name": "Fareb",
         "url": "https://open.spotify.com/album/3xIyfpvjrKkMa0W72vL3Wl"
       },
@@ -1519,22 +1531,6 @@
       "duration_ms": 155200,
       "name": "Dhingana",
       "url": "https://open.spotify.com/track/1vDOnRFrsEAnRvT45Quf2q"
-    },
-    {
-      "added_at": "2026-10-09 12:22:45",
-      "album": {
-        "name": "Drishyam: The Conclusion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4OWLuM8E8AhOxPLuXUq8oe"
-      },
-      "artists": [
-        {
-          "name": "Karma",
-          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
-        }
-      ],
-      "duration_ms": 140124,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/77HwIOVQO4OdPWmILhmp4S"
     }
   ],
   "unique_name": "New Rap Hindi",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,838 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,856 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 70 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
 | 71 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
 | 72 | [Not Alone](https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Not Alone](https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE) | 2:53 |
-| 73 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
-| 74 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
+| 73 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
+| 74 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
 | 75 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
 | 76 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 |
 | 77 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
 | 78 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
-| 79 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
-| 80 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
+| 79 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
+| 80 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
 
-Snapshot ID: `AAAAAKy+qbe3DeyL/r9B8+GxIcLUGqsW`
+Snapshot ID: `AAAAABa2Lj6GW9c/Z9TvvqrzWnreaZ0r`

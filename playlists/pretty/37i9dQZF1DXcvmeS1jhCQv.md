@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,894 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,938 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 5 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
 | 6 | [Church Bells](https://open.spotify.com/track/2c7JU7iNZ4DO1arCsKtsoC) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Church Bells](https://open.spotify.com/album/7Gw42YnewWCUpHfpTrwAOg) | 3:49 |
 | 7 | [How Lonely](https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [How Lonely](https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl) | 3:45 |
-| 8 | [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 |
+| 8 | [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Rohan Pinnock\-Hamilton](https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 |
 | 9 | [Tie Your Laces](https://open.spotify.com/track/6w5FfhPgSJotleH0rEWJxl) | [OLORUNNS](https://open.spotify.com/artist/5rM4tRVmdeMeUip9BxT9P6) | [Tie Your Laces](https://open.spotify.com/album/48ovJhAJlfjgOysgEhWU6T) | 3:14 |
 | 10 | [Where Is Gone?](https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Where Is Gone?](https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi) | 5:16 |
 | 11 | [decembers](https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [decembers](https://open.spotify.com/album/0jnUhRL2wuWzc59MaZ3D8h) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [The Crowd Was Singing Wonderwall](https://open.spotify.com/track/7B5Ih7H5cyxJjzARLhGUY6) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Crowd Was Singing Wonderwall](https://open.spotify.com/album/1b3kP8SfVqLdi5AMtWhPsQ) | 4:00 |
 | 100 | [Sixteen](https://open.spotify.com/track/5jMgYPWRj0cDcpv8rJrbO1) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Doomsday...Don't Leave Me Here](https://open.spotify.com/album/41cGERYiX0rB1MTrKZbmBG) | 3:28 |
 
-Snapshot ID: `AAAAAN3ULESlgpI/0D6J+6qJH6UMOk8F`
+Snapshot ID: `AAAAALhM1+/tyLHOxDS3LrSXfG35z7Ch`

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 153101,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/3MjMOCVA0CxsLUM2tVNKhk"
@@ -1935,6 +1935,28 @@
     },
     {
       "album": {
+        "name": "Glory In The Highest",
+        "url": "https://open.spotify.com/album/2KAXYPQkXTPhyjH7c6WlCF"
+      },
+      "artists": [
+        {
+          "name": "Co Campbell",
+          "url": "https://open.spotify.com/artist/7DrN33FjivpGOZN364ajdd"
+        },
+        {
+          "name": "Omega Sparx",
+          "url": "https://open.spotify.com/artist/1Klr6MQLx3SDdpWcTGcJKd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Glory In The Highest",
+      "url": "https://open.spotify.com/track/2TXRtRzIRBVJmLfH2lRHYa"
+    },
+    {
+      "album": {
         "name": "Go Tell It On The Mountain",
         "url": "https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US"
       },
@@ -2156,7 +2178,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202450,
       "name": "Good News - A Christmas Medley",
       "url": "https://open.spotify.com/track/66jMlKAjm4Qmz6g00RdtMN"
@@ -3170,6 +3192,24 @@
       "duration_ms": 189053,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/4JXAww1nKt38s1Z4gFcYAS"
+    },
+    {
+      "album": {
+        "name": "It's Christmas Time Again",
+        "url": "https://open.spotify.com/album/2Ygs6TBLmVIvA1b5MnIUPN"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180749,
+      "name": "It's Christmas Time Again",
+      "url": "https://open.spotify.com/track/6P5zJ67QpuAIBmTuzJHT4C"
     },
     {
       "album": {

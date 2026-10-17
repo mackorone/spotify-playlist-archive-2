@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202413,
       "name": "Aquel diciembre",
       "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
@@ -6122,7 +6122,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 157478,
       "name": "El Sombrero y La Camisa",
       "url": "https://open.spotify.com/track/4p6fcGUvYftongzpzjTrN9"
@@ -13923,6 +13923,24 @@
     },
     {
       "album": {
+        "name": "pido X ti",
+        "url": "https://open.spotify.com/album/1l9j7o5Nw0SGLEXnOljOTO"
+      },
+      "artists": [
+        {
+          "name": "Zhamira ",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157664,
+      "name": "pido X ti",
+      "url": "https://open.spotify.com/track/1FuxCZaIJJgkvrXpK6pLRC"
+    },
+    {
+      "album": {
         "name": "9 months & 50 hours",
         "url": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA"
       },
@@ -15654,7 +15672,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177829,
       "name": "si la ves",
       "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
@@ -16840,7 +16858,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 161285,
       "name": "Te hacen falta dos",
       "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
@@ -17083,6 +17101,28 @@
     },
     {
       "album": {
+        "name": "Tengo Ganas 2.0",
+        "url": "https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159419,
+      "name": "Tengo Ganas 2.0",
+      "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"
+    },
+    {
+      "album": {
         "name": "tensi\u00f3n",
         "url": "https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX"
       },
@@ -17244,6 +17284,28 @@
       "duration_ms": 183278,
       "name": "todav\u00edA",
       "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
+    },
+    {
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
     },
     {
       "album": {
@@ -18134,6 +18196,24 @@
       "duration_ms": 156377,
       "name": "Universidad",
       "url": "https://open.spotify.com/track/2XbsqBrOdYjm0OLBEepID7"
+    },
+    {
+      "album": {
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170083,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
     },
     {
       "album": {

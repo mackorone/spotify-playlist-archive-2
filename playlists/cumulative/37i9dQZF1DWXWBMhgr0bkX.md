@@ -4,7 +4,7 @@
 
 > New pop releases from the UK & Ireland 🌟 cover: Victor Ray
 
-1,485 songs - 3 day 4 hr 42 min
+1,487 songs - 3 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [CHOOSY](https://open.spotify.com/track/6bKGIXgqSvHjAkyvtuIgXu) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [CHOOSY](https://open.spotify.com/album/058RpZKxVdRkZ8CnhxIED7) | 2:18 | 2026-08-20 | 2026-10-09 |
 | [Church in the Morning](https://open.spotify.com/track/3xSRAS1Phe2NuC6xq7IS9V) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Church in the Morning](https://open.spotify.com/album/3JGjyCYhWBO9aVnUBdrDUE) | 2:38 | 2025-04-07 | 2025-05-02 |
 | [city girls](https://open.spotify.com/track/7DqMRjCWi5YBYziZ5xWBXM) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [city girls](https://open.spotify.com/album/3so4zHDxNkX71xGbCbMGrI) | 2:42 | 2025-07-17 | 2025-08-15 |
+| [Clickbait](https://open.spotify.com/track/1GXTAOPCzjlF8UkyFxQm4c) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To...Do A Fan Edition](https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R) | 3:07 | 2026-10-15 |  |
 | [Climbing Boots](https://open.spotify.com/track/1EmHM2EFSLgOFfroKd8Gju) | [James McVey](https://open.spotify.com/artist/1LXsEmvNi2vdi1oOfVTK3r) | [Climbing Boots](https://open.spotify.com/album/72n4QC6ANllRa4FFLbxJ1r) | 3:30 | 2025-04-17 | 2025-05-09 |
 | [Clique](https://open.spotify.com/track/0LWAD6e2TGlpBlSq0YoUVG) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Clique](https://open.spotify.com/album/5IaJ82DJrzgFYhZ0sXS9Ur) | 1:51 | 2026-07-02 | 2026-07-31 |
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-19 | 2025-07-25 |
@@ -647,6 +648,7 @@
 | [I Could Try To Change](https://open.spotify.com/track/77rqGhdAqwUAPXu92MiQGv) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [The Container](https://open.spotify.com/album/6cg00BnOYNX6LMoaMBx0YF) | 2:53 | 2025-03-21 | 2025-04-04 |
 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-09-05 | 2024-11-22 |
 | [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 | 2026-08-13 | 2026-09-26 |
+| [I don't have you at all now](https://open.spotify.com/track/5d6xOhSzA3cRPfrLxGNdn0) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Should I block him?](https://open.spotify.com/album/7nHwDJZvplX7WKGgIWZM8n) | 3:09 | 2026-10-15 |  |
 | [I Don't Know Me](https://open.spotify.com/track/6T0LlxJeSMgFHzKPWf4NfM) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [I Don't Know Me](https://open.spotify.com/album/0VZYPuxvzFxaJEViCCcoIm) | 2:51 | 2026-01-09 | 2026-02-13 |
 | [I Don't Like Being Alone](https://open.spotify.com/track/5PADgTbJR6XlCHg4IzG3i0) | [Pippa Crossland](https://open.spotify.com/artist/1swXaEPVO4MZAaJ3gh738N) | [We're Being Honest](https://open.spotify.com/album/2SmSMndiRDXSaGvf32X2ow) | 3:30 | 2025-06-05 | 2025-07-11 |
 | [I DON'T WANNA FISH](https://open.spotify.com/track/1uczFpoWLv0Xsh33V4DxSf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [I DON'T WANNA FISH](https://open.spotify.com/album/1MokIHVCmfWzWzYkFfzCIg) | 2:38 | 2025-05-15 | 2025-06-06 |
@@ -842,6 +844,7 @@
 | [Loving You Is Easy](https://open.spotify.com/track/58KeGsuLVCSQ0Q72HFQENb) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Loving You Is Easy](https://open.spotify.com/album/2JCp1kF49ufLVygJ8ddaGw) | 3:22 | 2025-08-28 | 2025-09-26 |
 | [Loyalty](https://open.spotify.com/track/1Ltayziaf8EYz1bUUQWDD8) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Loyalty](https://open.spotify.com/album/7w3LUwzj8vPBRW2SkR9f15) | 2:40 | 2025-03-28 | 2025-04-18 |
 | [Lucky Doll](https://open.spotify.com/track/4bEt6Lv0d54q6Qy4v0cTQX) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Lucky Doll](https://open.spotify.com/album/3FSKct8kaW41vnYBfFbMaa) | 2:20 | 2025-07-03 | 2025-07-25 |
+| [Lucy, When You Wake Up](https://open.spotify.com/track/55pJywjwL9pwNwQs2Wrdfc) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Funny Little Feeling](https://open.spotify.com/album/7zL5EuHdLX5SZfDaU7R78s) | 3:34 | 2026-10-15 |  |
 | [lullaby](https://open.spotify.com/track/6SiuoXT6PWWOJIB4HIM58d) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [lullaby](https://open.spotify.com/album/2ZiiQyPCdL2dsF3Tdn34I4) | 3:04 | 2025-04-24 | 2025-05-16 |
 | [LYING](https://open.spotify.com/track/2qbohFSDPNG92x2stESnOD) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [LYING](https://open.spotify.com/album/3KIwOtyAr8L0UPMvba7uC1) | 3:03 | 2025-12-12 | 2026-02-06 |
 | [ma na’isni](https://open.spotify.com/track/264pRJzxYHJdTvuuvgNlfB) | [Maria Taktouk](https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL) | [ma na’isni](https://open.spotify.com/album/7tA7HkegCgdZFAxKC3ishK) | 1:55 | 2026-06-11 | 2026-07-17 |
@@ -1382,7 +1385,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 1](https://open.spotify.com/track/5d6xOhSzA3cRPfrLxGNdn0) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Should I block him?](https://open.spotify.com/album/7nHwDJZvplX7WKGgIWZM8n) | 0:00 | 2026-10-15 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [tried everything](https://open.spotify.com/track/2Rw7rfyamcD0pHfhuHTgZp) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [tried everything](https://open.spotify.com/album/5sHPvxkTibczgvQVMEqV57) | 2:42 | 2026-04-30 | 2026-06-19 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |

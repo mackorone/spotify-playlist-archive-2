@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Jessie Mazin",
-  "num_followers": 219447,
+  "num_followers": 219456,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEaijvM1H2xmlLj1dtmmgC9Iti2v",
+  "snapshot_id": "AAAAADN9LqrMu12IlmMPm+nCoDdrq4E8",
   "tracks": [
     {
       "added_at": "2026-09-25 04:02:41",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu"
     },
     {
+      "added_at": "2026-10-16 04:01:37",
+      "album": {
+        "name": "You Still Love Me Anyway",
+        "url": "https://open.spotify.com/album/4W1JzgDQTHFnENEJqkoSQd"
+      },
+      "artists": [
+        {
+          "name": "Ruby Poole",
+          "url": "https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "You Still Love Me Anyway",
+      "url": "https://open.spotify.com/track/7zV2WzbxFaYxC3Uv4LBQwF"
+    },
+    {
+      "added_at": "2026-10-16 04:01:37",
+      "album": {
+        "name": "primadonna",
+        "url": "https://open.spotify.com/album/3kXlnrMhGhYKHb4y3ALGgj"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "primadonna",
+      "url": "https://open.spotify.com/track/7i5F2qBUH6UvG2ZJ8pwtLP"
+    },
+    {
       "added_at": "2026-10-09 19:51:23",
       "album": {
         "name": "stick around",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/6IlTd37lZeRsz4rSQ02PPv"
     },
     {
+      "added_at": "2026-10-16 04:01:37",
+      "album": {
+        "name": "I Love You, or Whatever",
+        "url": "https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Glad You're Happy",
+      "url": "https://open.spotify.com/track/0P8aTiBuqNTtqxgLGv8XhM"
+    },
+    {
       "added_at": "2026-10-09 19:51:23",
       "album": {
         "name": "I Cried a River Through Palm Springs",
@@ -55,6 +103,26 @@
       "duration_ms": 206517,
       "name": "I Cried a River Through Palm Springs",
       "url": "https://open.spotify.com/track/6DLuIYuFrlRfxwNOAVT33Z"
+    },
+    {
+      "added_at": "2026-10-16 04:01:37",
+      "album": {
+        "name": "Blue Alchemy",
+        "url": "https://open.spotify.com/album/14l4lt67zgEYveD4olBc52"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        },
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "duration_ms": 179041,
+      "name": "Girls' Girl",
+      "url": "https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk"
     },
     {
       "added_at": "2026-10-09 19:51:23",
@@ -89,6 +157,22 @@
       "url": "https://open.spotify.com/track/1ZbNK6bnHOhHxae8HeNuyN"
     },
     {
+      "added_at": "2026-10-16 04:01:37",
+      "album": {
+        "name": "Mayday (demo)",
+        "url": "https://open.spotify.com/album/2e1jWR6PJ7OlCXetM3zXWW"
+      },
+      "artists": [
+        {
+          "name": "Tadhg Nolan",
+          "url": "https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mayday - demo",
+      "url": "https://open.spotify.com/track/7445p1aASItE7TjSy6tWn0"
+    },
+    {
       "added_at": "2026-09-27 02:49:04",
       "album": {
         "name": "I HATE YOU DON'T LEAVE ME !",
@@ -119,6 +203,22 @@
       "duration_ms": 232903,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
+    },
+    {
+      "added_at": "2026-10-16 04:01:37",
+      "album": {
+        "name": "Cool On You",
+        "url": "https://open.spotify.com/album/7ravH6PuMD7kFjS1AS6QRC"
+      },
+      "artists": [
+        {
+          "name": "Josephine Genais",
+          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
+        }
+      ],
+      "duration_ms": 235659,
+      "name": "Cool On You",
+      "url": "https://open.spotify.com/track/2whnzJ9ltpgvitX57bLTqz"
     },
     {
       "added_at": "2026-10-09 19:51:23",
@@ -971,22 +1071,6 @@
       "duration_ms": 146217,
       "name": "Super Superficial",
       "url": "https://open.spotify.com/track/04Dkv6Mde5HWHPiH4hdtfN"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "Bad Girl July",
-        "url": "https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 241996,
-      "name": "Bad Girl July",
-      "url": "https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk"
     },
     {
       "added_at": "2026-06-12 04:56:00",

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 27083,
+  "num_followers": 27095,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN6b5XJRFZPk2NiFQO1wsQdyx61x",
+  "snapshot_id": "AAAAAGRlmV71RH/qniz4LIPybOeti9ky",
   "tracks": [
     {
       "added_at": "2025-06-06 00:01:27",
@@ -277,6 +277,22 @@
       "url": "https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N"
     },
     {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
+        "url": "https://open.spotify.com/album/34iGN4Hin3dvnQvvFTDMh1"
+      },
+      "artists": [
+        {
+          "name": "Chinedu Ndubueze",
+          "url": "https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr"
+        }
+      ],
+      "duration_ms": 218079,
+      "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
+      "url": "https://open.spotify.com/track/22cqS8goF7fniCFchDok6o"
+    },
+    {
       "added_at": "2026-09-25 00:01:16",
       "album": {
         "name": "Already Loved",
@@ -295,22 +311,6 @@
       "duration_ms": 226605,
       "name": "Already Loved",
       "url": "https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
-        "url": "https://open.spotify.com/album/34iGN4Hin3dvnQvvFTDMh1"
-      },
-      "artists": [
-        {
-          "name": "Chinedu Ndubueze",
-          "url": "https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr"
-        }
-      ],
-      "duration_ms": 218079,
-      "name": "\u1ecc\u0300r\u00e1nm\u1ecdn\u00ed\u1e63\u1eb9\u0301 f\u00e0y\u00e0t\u00ed",
-      "url": "https://open.spotify.com/track/22cqS8goF7fniCFchDok6o"
     },
     {
       "added_at": "2026-01-30 00:01:25",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-09-25 00:01:16",
       "album": {
-        "name": "REDEEMED",
-        "url": "https://open.spotify.com/album/0taxK9X7Hzyhs7U14Qjc1o"
-      },
-      "artists": [
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        },
-        {
-          "name": "Loveroom NextGen",
-          "url": "https://open.spotify.com/artist/3YNm415mw4dRYhKYKui39m"
-        }
-      ],
-      "duration_ms": 209684,
-      "name": "REDEEMED",
-      "url": "https://open.spotify.com/track/18oSLr0nINKjtvCAQZB8qr"
-    },
-    {
-      "added_at": "2026-09-25 00:01:16",
-      "album": {
         "name": "You Are Worthy (Live)",
         "url": "https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go"
       },
@@ -693,20 +673,24 @@
       "url": "https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN"
     },
     {
-      "added_at": "2026-02-13 00:01:36",
+      "added_at": "2026-09-25 00:01:16",
       "album": {
-        "name": "uptown",
-        "url": "https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe"
+        "name": "REDEEMED",
+        "url": "https://open.spotify.com/album/0taxK9X7Hzyhs7U14Qjc1o"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        },
+        {
+          "name": "Loveroom NextGen",
+          "url": "https://open.spotify.com/artist/3YNm415mw4dRYhKYKui39m"
         }
       ],
-      "duration_ms": 123428,
-      "name": "uptown",
-      "url": "https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs"
+      "duration_ms": 209684,
+      "name": "REDEEMED",
+      "url": "https://open.spotify.com/track/18oSLr0nINKjtvCAQZB8qr"
     },
     {
       "added_at": "2026-10-02 00:01:22",
@@ -729,20 +713,20 @@
       "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"
     },
     {
-      "added_at": "2026-08-28 00:01:39",
+      "added_at": "2026-02-13 00:01:36",
       "album": {
-        "name": "I Choose Joy",
-        "url": "https://open.spotify.com/album/3y068coIwQHk5zWV9S1PB6"
+        "name": "uptown",
+        "url": "https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe"
       },
       "artists": [
         {
-          "name": "Henrisoul",
-          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 328750,
-      "name": "I Choose Joy",
-      "url": "https://open.spotify.com/track/45mxfVFTZFoCgKeR1LfSFi"
+      "duration_ms": 123428,
+      "name": "uptown",
+      "url": "https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -769,22 +753,6 @@
       "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
     },
     {
-      "added_at": "2026-09-25 00:01:16",
-      "album": {
-        "name": "GIVE YOU PRAISE",
-        "url": "https://open.spotify.com/album/5LCSwbL1BhSmmrIR8OSiYH"
-      },
-      "artists": [
-        {
-          "name": "Blessing Lopez",
-          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
-        }
-      ],
-      "duration_ms": 144089,
-      "name": "GIVE YOU PRAISE",
-      "url": "https://open.spotify.com/track/08tt8cd8Eu0kIM4ErA3f4g"
-    },
-    {
       "added_at": "2026-10-09 00:01:37",
       "album": {
         "name": "Tinotenda",
@@ -803,6 +771,38 @@
       "duration_ms": 190865,
       "name": "Tinotenda",
       "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
+    },
+    {
+      "added_at": "2026-08-28 00:01:39",
+      "album": {
+        "name": "I Choose Joy",
+        "url": "https://open.spotify.com/album/3y068coIwQHk5zWV9S1PB6"
+      },
+      "artists": [
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        }
+      ],
+      "duration_ms": 328750,
+      "name": "I Choose Joy",
+      "url": "https://open.spotify.com/track/45mxfVFTZFoCgKeR1LfSFi"
+    },
+    {
+      "added_at": "2026-09-25 00:01:16",
+      "album": {
+        "name": "GIVE YOU PRAISE",
+        "url": "https://open.spotify.com/album/5LCSwbL1BhSmmrIR8OSiYH"
+      },
+      "artists": [
+        {
+          "name": "Blessing Lopez",
+          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
+        }
+      ],
+      "duration_ms": 144089,
+      "name": "GIVE YOU PRAISE",
+      "url": "https://open.spotify.com/track/08tt8cd8Eu0kIM4ErA3f4g"
     },
     {
       "added_at": "2026-09-11 00:01:55",
@@ -905,24 +905,20 @@
       "url": "https://open.spotify.com/track/3e9DW3f8CszsEt37W8sEgs"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
+      "added_at": "2026-10-02 00:01:22",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/7COB9XEGRVL3O1K1MnPWRH"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4kv1jaXLYy9OkBUv4UtKlX"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        },
-        {
-          "name": "Dells TMX",
-          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
+          "name": "Ayiba",
+          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
         }
       ],
-      "duration_ms": 159690,
-      "name": "Redeemer - Live",
-      "url": "https://open.spotify.com/track/1tLr2VSB1MVThE4AyblWg7"
+      "duration_ms": 196754,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0hNG58Y9aRpGW8ECtDEqu9"
     },
     {
       "added_at": "2026-10-02 00:01:22",
@@ -941,20 +937,24 @@
       "url": "https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb"
     },
     {
-      "added_at": "2026-10-02 00:01:22",
+      "added_at": "2026-08-21 00:01:32",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4kv1jaXLYy9OkBUv4UtKlX"
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/7COB9XEGRVL3O1K1MnPWRH"
       },
       "artists": [
         {
-          "name": "Ayiba",
-          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Dells TMX",
+          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
         }
       ],
-      "duration_ms": 196754,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0hNG58Y9aRpGW8ECtDEqu9"
+      "duration_ms": 159690,
+      "name": "Redeemer - Live",
+      "url": "https://open.spotify.com/track/1tLr2VSB1MVThE4AyblWg7"
     },
     {
       "added_at": "2026-09-25 00:01:16",
@@ -1065,54 +1065,6 @@
       "url": "https://open.spotify.com/track/6O0L0N1TKQpAbWg5VREspl"
     },
     {
-      "added_at": "2026-09-04 00:01:11",
-      "album": {
-        "name": "Love Never Fails (Live)",
-        "url": "https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh"
-      },
-      "artists": [
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Awesome God - Live",
-      "url": "https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "My Testimony Go Loud",
-        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
-      },
-      "artists": [
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "duration_ms": 254571,
-      "name": "My Testimony Go Loud",
-      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
-    },
-    {
-      "added_at": "2026-06-12 00:01:28",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
-    },
-    {
       "added_at": "2026-04-17 00:01:38",
       "album": {
         "name": "My Praise (Live Recording)",
@@ -1131,6 +1083,54 @@
       "duration_ms": 628504,
       "name": "My Praise - Live Recording",
       "url": "https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1"
+    },
+    {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "My Testimony Go Loud",
+        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "duration_ms": 254571,
+      "name": "My Testimony Go Loud",
+      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
+    },
+    {
+      "added_at": "2026-09-04 00:01:11",
+      "album": {
+        "name": "Love Never Fails (Live)",
+        "url": "https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh"
+      },
+      "artists": [
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Awesome God - Live",
+      "url": "https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe"
+    },
+    {
+      "added_at": "2026-06-12 00:01:28",
+      "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
     },
     {
       "added_at": "2026-03-27 00:01:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-18 00:01:36",
       "album": {
-        "name": "MY PRAISE",
-        "url": "https://open.spotify.com/album/5b2gLVsnN2F0zEw6BqF9hB"
-      },
-      "artists": [
-        {
-          "name": "Joshua Israel PF",
-          "url": "https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F"
-        }
-      ],
-      "duration_ms": 461634,
-      "name": "MY PRAISE",
-      "url": "https://open.spotify.com/track/2ZGP7KnF359WArpZhifwDW"
-    },
-    {
-      "added_at": "2026-09-18 00:01:36",
-      "album": {
         "name": "YGML",
         "url": "https://open.spotify.com/album/1RIrF1XOYMnmKc6AjM8NfS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 155457,
       "name": "YGML",
       "url": "https://open.spotify.com/track/4Oguo9loZcERniR4Wyudpy"
+    },
+    {
+      "added_at": "2026-09-18 00:01:36",
+      "album": {
+        "name": "MY PRAISE",
+        "url": "https://open.spotify.com/album/5b2gLVsnN2F0zEw6BqF9hB"
+      },
+      "artists": [
+        {
+          "name": "Joshua Israel PF",
+          "url": "https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F"
+        }
+      ],
+      "duration_ms": 461634,
+      "name": "MY PRAISE",
+      "url": "https://open.spotify.com/track/2ZGP7KnF359WArpZhifwDW"
     },
     {
       "added_at": "2026-10-02 00:01:22",
@@ -1253,6 +1253,42 @@
       "url": "https://open.spotify.com/track/2OOFMS6Ip8fKrCzbEpVyNX"
     },
     {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "Ebelebe",
+        "url": "https://open.spotify.com/album/1TETKjVUVuHyFnMPxyZy5S"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 205249,
+      "name": "Ebelebe",
+      "url": "https://open.spotify.com/track/2QuMz77tAyTxt4v8qm0sbl"
+    },
+    {
+      "added_at": "2026-04-03 00:01:53",
+      "album": {
+        "name": "looking for You",
+        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "looking for You",
+      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
+    },
+    {
       "added_at": "2026-09-18 00:01:36",
       "album": {
         "name": "Expression",
@@ -1273,22 +1309,6 @@
       "url": "https://open.spotify.com/track/6Gq0pwrijTGZj6HQIskVDi"
     },
     {
-      "added_at": "2026-04-03 00:01:53",
-      "album": {
-        "name": "looking for You",
-        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "looking for You",
-      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
-    },
-    {
       "added_at": "2026-05-01 00:02:20",
       "album": {
         "name": "No Pressure",
@@ -1303,26 +1323,6 @@
       "duration_ms": 165624,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/1BJgbTphIqyS2IDe5L8gPY"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "Ebelebe",
-        "url": "https://open.spotify.com/album/1TETKjVUVuHyFnMPxyZy5S"
-      },
-      "artists": [
-        {
-          "name": "Uniekgrace",
-          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 205249,
-      "name": "Ebelebe",
-      "url": "https://open.spotify.com/track/2QuMz77tAyTxt4v8qm0sbl"
     },
     {
       "added_at": "2026-08-07 00:01:02",
@@ -1345,20 +1345,20 @@
       "url": "https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi"
     },
     {
-      "added_at": "2026-08-07 00:01:02",
+      "added_at": "2026-10-09 00:01:37",
       "album": {
-        "name": "Sinner 2 Winner",
-        "url": "https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob"
+        "name": "Oruko Jesu",
+        "url": "https://open.spotify.com/album/5Iwgp2RyVAYu4r0caOXzZ5"
       },
       "artists": [
         {
-          "name": "Natalie Okri",
-          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+          "name": "TESTIMONY JAGA",
+          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
         }
       ],
-      "duration_ms": 162405,
-      "name": "Sinner 2 Winner",
-      "url": "https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y"
+      "duration_ms": 278901,
+      "name": "Oruko Jesu",
+      "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
     },
     {
       "added_at": "2026-07-31 00:01:31",
@@ -1379,6 +1379,22 @@
       "duration_ms": 159869,
       "name": "Eyes On Jesus",
       "url": "https://open.spotify.com/track/4kSsy1CmVypWszcp6i8QBV"
+    },
+    {
+      "added_at": "2026-08-07 00:01:02",
+      "album": {
+        "name": "Sinner 2 Winner",
+        "url": "https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        }
+      ],
+      "duration_ms": 162405,
+      "name": "Sinner 2 Winner",
+      "url": "https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y"
     },
     {
       "added_at": "2026-08-21 00:01:32",
@@ -1425,20 +1441,20 @@
       "url": "https://open.spotify.com/track/13dUU8tvT6juLVhhcPSt0C"
     },
     {
-      "added_at": "2026-10-09 00:01:37",
+      "added_at": "2026-10-02 00:01:22",
       "album": {
-        "name": "Oruko Jesu",
-        "url": "https://open.spotify.com/album/5Iwgp2RyVAYu4r0caOXzZ5"
+        "name": "Thank You Jesus (Amapiano)",
+        "url": "https://open.spotify.com/album/5KBUE0OHb3fnfE1yWGok8k"
       },
       "artists": [
         {
-          "name": "TESTIMONY JAGA",
-          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
+          "name": "ToLmusic",
+          "url": "https://open.spotify.com/artist/4cCnxbnfiFhwZQnEmQf5Dt"
         }
       ],
-      "duration_ms": 278901,
-      "name": "Oruko Jesu",
-      "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
+      "duration_ms": 213529,
+      "name": "Thank You Jesus - Amapiano",
+      "url": "https://open.spotify.com/track/7qbTn2bNnoFSuW0skjyzFw"
     },
     {
       "added_at": "2026-08-28 00:01:39",
@@ -1459,22 +1475,6 @@
       "duration_ms": 111676,
       "name": "Follow",
       "url": "https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i"
-    },
-    {
-      "added_at": "2026-10-02 00:01:22",
-      "album": {
-        "name": "Thank You Jesus (Amapiano)",
-        "url": "https://open.spotify.com/album/5KBUE0OHb3fnfE1yWGok8k"
-      },
-      "artists": [
-        {
-          "name": "ToLmusic",
-          "url": "https://open.spotify.com/artist/4cCnxbnfiFhwZQnEmQf5Dt"
-        }
-      ],
-      "duration_ms": 213529,
-      "name": "Thank You Jesus - Amapiano",
-      "url": "https://open.spotify.com/track/7qbTn2bNnoFSuW0skjyzFw"
     },
     {
       "added_at": "2026-08-07 00:01:02",
@@ -1513,20 +1513,28 @@
       "url": "https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK"
     },
     {
-      "added_at": "2026-09-11 00:01:55",
+      "added_at": "2026-08-14 00:01:29",
       "album": {
-        "name": "MY EL ROI",
-        "url": "https://open.spotify.com/album/6NS9FQCIGnh2n6y6qBwOdN"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/5fs2RETOQhsDuBUUalf4ZY"
       },
       "artists": [
         {
-          "name": "Emmasings",
-          "url": "https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7"
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Lapel J Datpastorboi",
+          "url": "https://open.spotify.com/artist/1XAFWrXyu7iWY0ZixxUYL6"
         }
       ],
-      "duration_ms": 176000,
-      "name": "MY EL ROI",
-      "url": "https://open.spotify.com/track/4Kb5wpTN9Oe0fdJ9F9hDib"
+      "duration_ms": 161781,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5bKRpBxsrcsJYZ2K9o4nSa"
     }
   ],
   "unique_name": "Higher",

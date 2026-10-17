@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: DannyLux, Ckdageneral
 
-456 songs - 23 hr 46 min
+457 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2023-11-30 | 2024-07-30 |
 | [Vente](https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Vente](https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA) | 3:02 | 2024-01-12 | 2024-04-19 |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 | 2023-05-27 |
+| [Viento](https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Viento](https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU) | 3:05 | 2026-10-16 |  |
 | [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 | 2023-11-29 | 2025-07-05 |
 | [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-06-30 | 2024-01-04 |
 | [VOLVER](https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:05 | 2023-12-15 | 2024-04-19 |

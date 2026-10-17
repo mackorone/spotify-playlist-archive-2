@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 101908,
+  "num_followers": 101953,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGSjmZmcaAeajyi41JqWMW/RHY/2",
+  "snapshot_id": "AAAAAO2H4uJxuo7Gcw+8aAnEnMs495cM",
   "tracks": [
     {
       "added_at": "2026-10-02 20:36:42",
@@ -239,18 +239,22 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
-        "name": "Para vosotros canto",
-        "url": "https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t"
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+          "name": "La Dimensi\u00f3n Latina",
+          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Y Te Vas",
-      "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2026-10-02 20:36:42",
@@ -271,22 +275,18 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+        "name": "Para vosotros canto",
+        "url": "https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t"
       },
       "artists": [
         {
-          "name": "La Dimensi\u00f3n Latina",
-          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
-        },
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+      "duration_ms": 279506,
+      "name": "Y Te Vas",
+      "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
     },
     {
       "added_at": "2026-10-02 20:36:42",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+        "name": "Sus Mas Grandes Exit",
+        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
         }
       ],
-      "duration_ms": 205196,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
+      "duration_ms": 275600,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
     },
     {
       "added_at": "2026-10-02 20:36:42",
@@ -407,18 +407,18 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
       "artists": [
         {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 275600,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
+      "duration_ms": 205196,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
     },
     {
       "added_at": "2026-10-02 20:36:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Compa Steve y Adriel Favela en portada.\n",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Ilusion Eterno a en portada.\n",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190520,
       "name": "Adios Eterno",
       "url": "https://open.spotify.com/track/2iX8rlBlhVm7srjoFszWQd"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 226821,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 155155,
       "name": "C\u00f3mo Te Va?",
       "url": "https://open.spotify.com/track/6wnqKE9Tjp6aAZSJNRvx5e"
@@ -2549,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "Deb\u00ed besarte",
+        "url": "https://open.spotify.com/album/0535FyRchIZALTjbkaBOhV"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224869,
+      "name": "Deb\u00ed besarte",
+      "url": "https://open.spotify.com/track/6RaMjuTijuazx36Wi1YCks"
+    },
+    {
+      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -2600,7 +2618,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 221663,
       "name": "DEMENCIA",
       "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
@@ -3423,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "ERA LA BUENA",
+        "url": "https://open.spotify.com/album/18Xt7CHK7HDEuBbMm0pd9e"
+      },
+      "artists": [
+        {
+          "name": "Giovanni V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/4uwo70JDuIt4LDWDUb1WlT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282677,
+      "name": "ERA LA BUENA",
+      "url": "https://open.spotify.com/track/6pjatyRngm8lP5GrvpvGfv"
+    },
+    {
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/32ZKCZmJhdMhdkWugnVqyE"
       },
@@ -4174,7 +4210,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 224378,
       "name": "Hermosura de Mujer",
       "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
@@ -5330,7 +5366,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 155612,
       "name": "LO QUE QUIERAS DARME",
       "url": "https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53"
@@ -5435,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/32ntJ4cjXHOAdS4yCvbhL5"
+      },
+      "artists": [
+        {
+          "name": "Santiago Duarte",
+          "url": "https://open.spotify.com/artist/7KerPyVUQ2OU73fFJCjeJI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205636,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/6afVwvKAcz7akvDVhr5Tvr"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas de Cristal",
         "url": "https://open.spotify.com/album/5ivJ6AFxmQy1DBcaEVVJpg"
       },
@@ -5472,6 +5526,24 @@
       "duration_ms": 229621,
       "name": "L\u00e1grimas De Dolor",
       "url": "https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD"
+    },
+    {
+      "album": {
+        "name": "L\u00f3gica",
+        "url": "https://open.spotify.com/album/3oHngRBxbxjYe9iOTOXpqz"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "L\u00f3gica",
+      "url": "https://open.spotify.com/track/0fRXgcoGXC7a6VLAZMNk3z"
     },
     {
       "album": {
@@ -5900,6 +5972,28 @@
       "duration_ms": 276900,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/5dCkGth7tNwJzX19iKKKKr"
+    },
+    {
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
     },
     {
       "album": {
@@ -8032,7 +8126,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 192747,
       "name": "Perdimos la Tradici\u00f3n",
       "url": "https://open.spotify.com/track/4ZLW9sdglQ9CrUQByHAoTN"
@@ -8622,6 +8716,24 @@
       "duration_ms": 213915,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2a8q3CS5vCPezW8xFUGuo3"
+    },
+    {
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/11HKHpT3qO0HnRf4sMaurq"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186529,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/4br4zFlJph6OI5FFy6ZCBx"
     },
     {
       "album": {
@@ -9498,7 +9610,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 216141,
       "name": "Sad Valentine",
       "url": "https://open.spotify.com/track/7hGOwCENx4DspZO86iFGFC"
@@ -9596,7 +9708,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 175876,
       "name": "Se Antoja",
       "url": "https://open.spotify.com/track/42NMqjhCekgQpH47VT3Btc"
@@ -9614,7 +9726,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 171224,
       "name": "se fue",
       "url": "https://open.spotify.com/track/1KCz0aKX8syLE5bDxo7jmE"
@@ -9896,7 +10008,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206680,
       "name": "Si Un D\u00eda Me Extra\u00f1as",
       "url": "https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j"
@@ -10546,7 +10658,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 240597,
       "name": "Tanto Dolor",
       "url": "https://open.spotify.com/track/59sxYBYwmm0q9HYwwYA5nT"
@@ -11143,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "Toqu\u00e9 Fondo",
+        "url": "https://open.spotify.com/album/4P0Oo4atX7d92DccbKsTm5"
+      },
+      "artists": [
+        {
+          "name": "Muriel",
+          "url": "https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204674,
+      "name": "Toqu\u00e9 Fondo",
+      "url": "https://open.spotify.com/track/62ZEngCJfQZG1BSDkkfsC7"
+    },
+    {
+      "album": {
         "name": "Torre Infiel",
         "url": "https://open.spotify.com/album/6lUn3cb3PApIx1LX0PeLnO"
       },
@@ -11172,7 +11302,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213846,
       "name": "TRAES FAMITA",
       "url": "https://open.spotify.com/track/2n8dheUxYdPblcw2COfl0f"
@@ -12518,7 +12648,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 169537,
       "name": "Ya No Me Duele Tanto",
       "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"

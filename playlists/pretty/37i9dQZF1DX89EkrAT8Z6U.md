@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,798 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,836 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 31 | [COWBELL WARRIORS!](https://open.spotify.com/track/21N4kygnrmdLUmQ27DE9Lu) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS!](https://open.spotify.com/album/46FHwDwhiaKjZQnquBcMff) | 2:29 |
 | 32 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
 | 33 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
-| 34 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
-| 35 | [Bombs Away](https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Bombs Away](https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL) | 2:26 |
+| 34 | [Bombs Away](https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Bombs Away](https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL) | 2:26 |
+| 35 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 36 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
 | 37 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
 | 38 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 43 | [TOOLIE BEAM](https://open.spotify.com/track/6wjR1iV0PmJRBJGsRyukSY) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [TOOLIE BEAM](https://open.spotify.com/album/0hnk0FclQcfKpAbKc9Qsxv) | 2:35 |
 | 44 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
 | 45 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
-| 46 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 |
-| 47 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 46 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 47 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 |
 | 48 | [ghost in the shell \(feat\. SXMPRA\)](https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:37 |
 | 49 | [Mami!](https://open.spotify.com/track/4M1CMx1FyAGyrOf4zEkBGR) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Mami!](https://open.spotify.com/album/6bGRRZ4QeRXLBrBxy3YroG) | 1:44 |
 | 50 | [Break Shit](https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Break Shit](https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA) | 1:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [Break My Heart Again](https://open.spotify.com/track/08fJKZPSYONHJ49Sf4ri64) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Break My Heart Again](https://open.spotify.com/album/4bENQxh42sLJXZVFmtcbTD) | 4:00 |
 | 75 | [SOLO](https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [anoravt](https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK) | [SOLO](https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB) | 2:51 |
 
-Snapshot ID: `AAAAALmkKDGHzwhN0KzuV8ZyCa/03ZhF`
+Snapshot ID: `AAAAAMKLa7pOYtpeCd5NhXSh2eiMnvuU`

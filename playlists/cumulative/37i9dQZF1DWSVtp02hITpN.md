@@ -4,7 +4,7 @@
 
 > Pop you need to hear! Cover: Jamie Miller
 
-1,048 songs - 2 day 7 hr 58 min
+1,049 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-23 | 2025-11-28 |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-10-03 | 2025-01-17 |
 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 | 2026-09-17 | 2026-10-09 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-15 |  |
 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 | 2024-07-26 | 2024-08-30 |
 | [Lifestyle](https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [it's just my opinion](https://open.spotify.com/album/2rzEI7LluM2fWaE2an24eC) | 3:13 | 2026-05-08 | 2026-06-20 |
 | [Light Up](https://open.spotify.com/track/0MbXd5ORajlik2wu7g1trU) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:24 | 2026-03-27 | 2026-04-03 |

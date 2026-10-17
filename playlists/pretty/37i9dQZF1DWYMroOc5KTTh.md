@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,773 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,880 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 33 | [Touch](https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Touch](https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm) | 3:41 |
 | 34 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 | 35 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
-| 36 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 36 | [You and Me](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Renaissance](https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9) | 3:34 |
 | 37 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 38 | [Pull Up](https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pull Up](https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR) | 2:35 |
-| 39 | [You and Me](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Renaissance](https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9) | 3:34 |
+| 39 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 40 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 |
 | 41 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |
 | 42 | [Take Our Time](https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Take Our Time](https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 |
 | 50 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 |
 
-Snapshot ID: `AAAAAI4iB1pIipIgjenhpbhoGi9P7Rgt`
+Snapshot ID: `AAAAALCqLVuzUvy4YWT/cumbm8pCR1wg`

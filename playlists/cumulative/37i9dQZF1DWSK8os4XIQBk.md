@@ -4,7 +4,7 @@
 
 > Ella Langley, and the biggest hits in country music.
 
-1,010 songs - 2 day 6 hr 48 min
+1,011 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Broken Branches \(feat\. John Anderson, Riley Green\)](https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [John Anderson](https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Broken Branches](https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8) | 3:17 | 2025-06-13 | 2025-07-19 |
 | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK) | 3:06 | 2024-08-16 | 2025-01-18 |
 | [Broken Umbrella](https://open.spotify.com/track/0ODIBayjlu9eskZhuWINAD) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Sky Full Of Stars](https://open.spotify.com/album/61YQphetN76rhyTm9hxPsR) | 2:43 | 2021-12-31 | 2022-07-02 |
-| [Broken Window Serenade](https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/304hLSMc8ZSHvMsh9YS4Jk) | 5:46 | 2026-05-01 |  |
+| [Broken Window Serenade](https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/304hLSMc8ZSHvMsh9YS4Jk) | 5:46 | 2026-05-01 | 2026-10-17 |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-12-30 | 2023-05-27 |
 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 | 2025-04-25 |  |
 | [Budweiser](https://open.spotify.com/track/0BOTj4tOIfzYLihod1gsui) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Party In The Back](https://open.spotify.com/album/59nmdA2FySwbzYkZiboJ4L) | 2:41 | 2022-12-02 | 2023-06-24 |
@@ -510,6 +510,7 @@
 | [Let Your Boys Be Country](https://open.spotify.com/track/1v1bVyUOVYDpXRIcAJ24iQ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Let Your Boys Be Country](https://open.spotify.com/album/7wA7u0gOJcHNl3EITL4674) | 3:16 | 2023-08-25 | 2024-05-18 |
 | [Let Your Boys Be Country](https://open.spotify.com/track/23bEisUvcSmIELLy4CMhkN) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw) | 3:16 | 2023-11-17 | 2024-04-19 |
 | [Let Your Horses Run](https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run](https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd) | 2:59 | 2024-06-28 | 2025-07-19 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-16 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-05 | 2025-01-04 |
 | [Life](https://open.spotify.com/track/5ta8NyQiixodcCinI6jjS6) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life](https://open.spotify.com/album/4zRPTUJpjsQ9j4wEA4z9wB) | 3:52 | 2022-10-14 | 2022-11-12 |
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-05-12 | 2023-11-25 |

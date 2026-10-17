@@ -1,12 +1,12 @@
 {
   "description": "Let these calm Jazz tracks lull you to sleep.",
-  "num_followers": 1676764,
+  "num_followers": 1677403,
   "original_name": "Jazz for Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA3X5+mX477GdXoJaC6peVGtSev2",
+  "snapshot_id": "AAAAADdFSje5Kps+NIiL0Ye/whTDf6p9",
   "tracks": [
     {
       "added_at": "2026-09-18 07:37:38",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/4obimW3tEIq9VyZPu9H49X"
     },
     {
+      "added_at": "2026-10-16 09:14:35",
+      "album": {
+        "name": "Halfway To Somewhere",
+        "url": "https://open.spotify.com/album/1JmZ4VaIcjVOqO7unakgZm"
+      },
+      "artists": [
+        {
+          "name": "uniqlesse",
+          "url": "https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72"
+        }
+      ],
+      "duration_ms": 129237,
+      "name": "Halfway To Somewhere",
+      "url": "https://open.spotify.com/track/0JyokWjQl9sfihnoD4Mned"
+    },
+    {
       "added_at": "2026-09-18 07:37:38",
       "album": {
         "name": "Late Bloom",
@@ -183,38 +199,6 @@
       "duration_ms": 173200,
       "name": "Listening to the Distance",
       "url": "https://open.spotify.com/track/6fw45XDVkbibckw76QbbWJ"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "Night Letters",
-        "url": "https://open.spotify.com/album/6efIG2eK0GIjruVjXG4jiS"
-      },
-      "artists": [
-        {
-          "name": "Ilse Fisher",
-          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
-        }
-      ],
-      "duration_ms": 158233,
-      "name": "Night Letters",
-      "url": "https://open.spotify.com/track/5xHil2thv4x5C8oYJcXtdd"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "Blue Silence",
-        "url": "https://open.spotify.com/album/17xQRf0dL4g1x1kLSVnH07"
-      },
-      "artists": [
-        {
-          "name": "Henriette Martin",
-          "url": "https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Blue Silence",
-      "url": "https://open.spotify.com/track/0295FJTxkUdnpDeAAewFOG"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -295,6 +279,22 @@
       "duration_ms": 171000,
       "name": "On A Warm Night In Lisbon",
       "url": "https://open.spotify.com/track/34E2TbVqRLstlweZjEOhBI"
+    },
+    {
+      "added_at": "2026-10-16 09:14:35",
+      "album": {
+        "name": "When the House Fell Silent",
+        "url": "https://open.spotify.com/album/67X7jE6M9MtUfhjohYpSVF"
+      },
+      "artists": [
+        {
+          "name": "Lecce Mchano",
+          "url": "https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR"
+        }
+      ],
+      "duration_ms": 136502,
+      "name": "When the House Fell Silent",
+      "url": "https://open.spotify.com/track/4OrMBZ8SQc7aEuzMw9Q6Xb"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -379,6 +379,38 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
+        "name": "Blue Silence",
+        "url": "https://open.spotify.com/album/17xQRf0dL4g1x1kLSVnH07"
+      },
+      "artists": [
+        {
+          "name": "Henriette Martin",
+          "url": "https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Blue Silence",
+      "url": "https://open.spotify.com/track/0295FJTxkUdnpDeAAewFOG"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
+        "name": "Night Letters",
+        "url": "https://open.spotify.com/album/6efIG2eK0GIjruVjXG4jiS"
+      },
+      "artists": [
+        {
+          "name": "Ilse Fisher",
+          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
+        }
+      ],
+      "duration_ms": 158233,
+      "name": "Night Letters",
+      "url": "https://open.spotify.com/track/5xHil2thv4x5C8oYJcXtdd"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
         "name": "Almost Like Being There",
         "url": "https://open.spotify.com/album/2TSrjEBSus0QHMDxeXptKZ"
       },
@@ -423,6 +455,22 @@
       "duration_ms": 194750,
       "name": "The Echo of Us",
       "url": "https://open.spotify.com/track/6GixKW2Z0BzdEim77bNGj6"
+    },
+    {
+      "added_at": "2026-10-16 09:14:35",
+      "album": {
+        "name": "Nothing Moves Quickly Here",
+        "url": "https://open.spotify.com/album/29SLQngYuGhaWgsGKCxUU4"
+      },
+      "artists": [
+        {
+          "name": "Laura Romano",
+          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+        }
+      ],
+      "duration_ms": 156166,
+      "name": "Nothing Moves Quickly Here",
+      "url": "https://open.spotify.com/track/2wmvVgoX2ZhR8JhiIdQYvE"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -487,22 +535,6 @@
       "duration_ms": 169866,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/07gvHmyzYEd8iLHurOwFZT"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "My Song For You",
-        "url": "https://open.spotify.com/album/1k1lxc5Z6fnORNWyTWFJWZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Colin Peterson",
-          "url": "https://open.spotify.com/artist/7ErYC9A5R0d0CLaTZkMIXt"
-        }
-      ],
-      "duration_ms": 141570,
-      "name": "My Song For You",
-      "url": "https://open.spotify.com/track/1O3hnQx0Pe2gdupIFtZSdD"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -695,6 +727,22 @@
       "duration_ms": 136704,
       "name": "Softly, a Serenade",
       "url": "https://open.spotify.com/track/0fWlB34j6N4t7Db1MG9Fmz"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
+        "name": "My Song For You",
+        "url": "https://open.spotify.com/album/1k1lxc5Z6fnORNWyTWFJWZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Colin Peterson",
+          "url": "https://open.spotify.com/artist/7ErYC9A5R0d0CLaTZkMIXt"
+        }
+      ],
+      "duration_ms": 141570,
+      "name": "My Song For You",
+      "url": "https://open.spotify.com/track/1O3hnQx0Pe2gdupIFtZSdD"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -1035,22 +1083,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "A Place to Call Home",
-        "url": "https://open.spotify.com/album/1tTiYnJpXD4ibm0Qs1cRfR"
-      },
-      "artists": [
-        {
-          "name": "J. Alke",
-          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
-        }
-      ],
-      "duration_ms": 149091,
-      "name": "A Place to Call Home",
-      "url": "https://open.spotify.com/track/66hpEbQeqEJvjfLuW9KsAI"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "Back to Work",
         "url": "https://open.spotify.com/album/6sWQwNflszFT1A3XUKzJnG"
       },
@@ -1175,6 +1207,22 @@
       "duration_ms": 168966,
       "name": "Look at the Moon",
       "url": "https://open.spotify.com/track/50UZdAaPu71v0haQr2vLKg"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
+        "name": "A Place to Call Home",
+        "url": "https://open.spotify.com/album/1tTiYnJpXD4ibm0Qs1cRfR"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "duration_ms": 149091,
+      "name": "A Place to Call Home",
+      "url": "https://open.spotify.com/track/66hpEbQeqEJvjfLuW9KsAI"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -1723,22 +1771,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/7K6kTK2SnRfJegPTFUojsf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Schr\u00f6der",
-          "url": "https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN"
-        }
-      ],
-      "duration_ms": 170756,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/7eTSFAOVW9mKWHO2dpYIcX"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "Passing Time",
         "url": "https://open.spotify.com/album/0Had12L7iHS4sg3ZH9INvc"
       },
@@ -1943,6 +1975,22 @@
       "duration_ms": 171344,
       "name": "I'll Do Anything for You",
       "url": "https://open.spotify.com/track/383GSTDTkLQ98ZIcxjpoic"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/7K6kTK2SnRfJegPTFUojsf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Schr\u00f6der",
+          "url": "https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN"
+        }
+      ],
+      "duration_ms": 170756,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/7eTSFAOVW9mKWHO2dpYIcX"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -2299,22 +2347,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Nadine",
-        "url": "https://open.spotify.com/album/772JBxu58FqPTklAJIVNUO"
-      },
-      "artists": [
-        {
-          "name": "Dawn Huntley",
-          "url": "https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/44SuXlqYJX4d2qk8ISGoHN"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "Where Sound Becomes Distance",
         "url": "https://open.spotify.com/album/1OJrNDYQKOpiZYnryNhVMd"
       },
@@ -2359,22 +2391,6 @@
       "duration_ms": 143600,
       "name": "Simple Changes",
       "url": "https://open.spotify.com/track/0LEkKeAuqIbTiEljbuLMUL"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "Moonlit Whispers",
-        "url": "https://open.spotify.com/album/2KVF4HwNUKItZm6B5oeoA3"
-      },
-      "artists": [
-        {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Moonlit Whispers",
-      "url": "https://open.spotify.com/track/3uBWcFVdGorvEUhvjCqi72"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -2523,6 +2539,22 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
+        "name": "Moonlit Whispers",
+        "url": "https://open.spotify.com/album/2KVF4HwNUKItZm6B5oeoA3"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Moonlit Whispers",
+      "url": "https://open.spotify.com/track/3uBWcFVdGorvEUhvjCqi72"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
         "name": "Unmarked Paths",
         "url": "https://open.spotify.com/album/0niTxPAnzBOJ0OPQqamFzm"
       },
@@ -2539,18 +2571,18 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Floating between your words",
-        "url": "https://open.spotify.com/album/06HpM4qVrQZlgaRs5cFcAD"
+        "name": "Nadine",
+        "url": "https://open.spotify.com/album/772JBxu58FqPTklAJIVNUO"
       },
       "artists": [
         {
-          "name": "Laura Romano",
-          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+          "name": "Dawn Huntley",
+          "url": "https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s"
         }
       ],
-      "duration_ms": 146300,
-      "name": "Floating between your words",
-      "url": "https://open.spotify.com/track/2R10v5xG1S5aoCKzwT5CId"
+      "duration_ms": 157933,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/44SuXlqYJX4d2qk8ISGoHN"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -2811,22 +2843,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Strollin in the Park",
-        "url": "https://open.spotify.com/album/1ZrgW0At3UG29JBvZoOnKK"
-      },
-      "artists": [
-        {
-          "name": "Noah Wenger",
-          "url": "https://open.spotify.com/artist/61K16AcuP4yczd1ZH6u0fm"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Strollin in the Park",
-      "url": "https://open.spotify.com/track/4Ao2tGbc6AG1b7U51EktJI"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "When shadows fall",
         "url": "https://open.spotify.com/album/314JkcRJ3k6bAZkSu5Nf0m"
       },
@@ -2859,34 +2875,18 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "The gentle kind of blue",
-        "url": "https://open.spotify.com/album/0ixxw6w3mV64PUZHxDm2T7"
+        "name": "Strollin in the Park",
+        "url": "https://open.spotify.com/album/1ZrgW0At3UG29JBvZoOnKK"
       },
       "artists": [
         {
-          "name": "Laura Romano",
-          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+          "name": "Noah Wenger",
+          "url": "https://open.spotify.com/artist/61K16AcuP4yczd1ZH6u0fm"
         }
       ],
-      "duration_ms": 143654,
-      "name": "The gentle kind of blue",
-      "url": "https://open.spotify.com/track/5FTAiWsy7XMHOjd1jYV3Li"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/1yfASIKHgeXoWasPQwWMeI"
-      },
-      "artists": [
-        {
-          "name": "Alec Taylor",
-          "url": "https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd"
-        }
-      ],
-      "duration_ms": 124750,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/5fhlriWxzZWNOCAL9z9AwG"
+      "duration_ms": 164622,
+      "name": "Strollin in the Park",
+      "url": "https://open.spotify.com/track/4Ao2tGbc6AG1b7U51EktJI"
     }
   ],
   "unique_name": "Jazz for Sleep",

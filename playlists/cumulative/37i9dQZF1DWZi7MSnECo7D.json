@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Barreira (Migalha)",
+        "url": "https://open.spotify.com/album/68qE5Nv3qyN6txWJxZjO0X"
+      },
+      "artists": [
+        {
+          "name": "Monza",
+          "url": "https://open.spotify.com/artist/6ObFhfPgXL9AfJufWk8BfP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "Barreira (Migalha)",
+      "url": "https://open.spotify.com/track/4ms4pKeFbOgYwuxBPZeFY6"
+    },
+    {
+      "album": {
         "name": "Ao Vivo na Argentina",
         "url": "https://open.spotify.com/album/51XlyGF3Blula76b4YUPCO"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218410,
       "name": "cada passo \u00e9 uma montanha",
       "url": "https://open.spotify.com/track/6rdZNdCX3c1bCTJKMeY0AN"
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166749,
       "name": "Casos de Col\u00f4mbia",
       "url": "https://open.spotify.com/track/7iVdVEANzcCXpYpLRzsd6w"
@@ -4774,7 +4792,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156399,
       "name": "Deixa o Sol Me Queimar",
       "url": "https://open.spotify.com/track/4nNdpTQnf6edG2D1uRr61S"
@@ -10848,7 +10866,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 205382,
       "name": "Musa - Batata Boy Remix",
       "url": "https://open.spotify.com/track/17zjbTc884pSYpiqlz263q"
@@ -11066,6 +11084,24 @@
       "duration_ms": 182230,
       "name": "Nada Vai Mudar",
       "url": "https://open.spotify.com/track/4lRljFMS2sUYJWouc5jNYZ"
+    },
+    {
+      "album": {
+        "name": "Naruto Ultimate Ninja Storm 2",
+        "url": "https://open.spotify.com/album/0Y05jPtagjdXlQL4iRJNbK"
+      },
+      "artists": [
+        {
+          "name": "meton\u00edmia",
+          "url": "https://open.spotify.com/artist/2t9LUSR1oAfVJxUKuoLVmk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257298,
+      "name": "Naruto Ultimate Ninja Storm 2",
+      "url": "https://open.spotify.com/track/5Gxv9hQIC0gRSXLIrN8hJ5"
     },
     {
       "album": {
@@ -11644,7 +11680,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 142500,
       "name": "n\u00e3o d\u00e1 tempo",
       "url": "https://open.spotify.com/track/4ORuj7og3tiEu3pV28Ek53"
@@ -11724,6 +11760,24 @@
       "duration_ms": 230950,
       "name": "N\u00e3o Leve a Mal",
       "url": "https://open.spotify.com/track/0XKoKz5CJDrn6IeMUOS6t1"
+    },
+    {
+      "album": {
+        "name": "Cinco Idades",
+        "url": "https://open.spotify.com/album/5xaThwITDEXKw4gctdZ4ru"
+      },
+      "artists": [
+        {
+          "name": "pietro amarelo corrida",
+          "url": "https://open.spotify.com/artist/5oyQDDcvYeL8ZAyQ5Edj8t"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446026,
+      "name": "N\u00e3o Me Deixe Ir Embora",
+      "url": "https://open.spotify.com/track/2PDgWcoY0VOsjXm1XxXWIE"
     },
     {
       "album": {
@@ -18676,7 +18730,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 251371,
       "name": "voc\u00ea flutua?",
       "url": "https://open.spotify.com/track/0aG28IoMrqCTZv9Santu0R"
@@ -19294,7 +19348,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 191620,
       "name": "\u00c9 O Pico, \u00c9 O \u00c1pice",
       "url": "https://open.spotify.com/track/5NrMukASd1cr5GOnh600Ir"

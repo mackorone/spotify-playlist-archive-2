@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Andien
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,953 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,956 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 85 | [Melangkah](https://open.spotify.com/track/1AsUYV5VVVOM929Atpv2Ci) | [Shenyliega](https://open.spotify.com/artist/4Esc2aeoedwHLQOz8OUOH1) | [Melangkah](https://open.spotify.com/album/41MWIeumV1baZTikmNzora) | 2:46 |
 | 86 | [Kau Semestaku](https://open.spotify.com/track/1i7YxoudHNgL4O4Q6sSiQQ) | [Andrea Lee](https://open.spotify.com/artist/66DXhk7mq7Wj3MolBsx9tO) | [Kau Semestaku](https://open.spotify.com/album/0x95mfdXUHOP6YxQorX6QF) | 3:12 |
 | 87 | [Ku Kira?](https://open.spotify.com/track/5nbXupmn3FSXrjw3e319as) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90) | [Ku Kira?](https://open.spotify.com/album/24dsE11OZytcpqztlhvFLK) | 3:29 |
-| 88 | [2 Manusia](https://open.spotify.com/track/4SlOgZJuM6ZP3DGTDwiZSt) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Original Soundtrack Musikal Perahu Kertas](https://open.spotify.com/album/7qxz6BOHVOzwHUKtztYGPZ) | 3:31 |
+| 88 | [2 Manusia](https://open.spotify.com/track/4SlOgZJuM6ZP3DGTDwiZSt) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Original Soundtrack Musikal Perahu Kertas \(Live in Jakarta/ 2026 Feb\)](https://open.spotify.com/album/7qxz6BOHVOzwHUKtztYGPZ) | 3:31 |
 | 89 | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/track/2oCwCA993mA26HpPRxYppU) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Siapa Suruh Jatuh Cinta?](https://open.spotify.com/album/5VecZTVhy0Dijjt7nIOH71) | 3:06 |
 | 90 | [Jerih Penat](https://open.spotify.com/track/2TRl0xZRrqCDwgS5iayBXx) | [Syifa Mahirah](https://open.spotify.com/artist/1ZvFdGH1sdzN3wB7CcS4Zk) | [Jerih Penat](https://open.spotify.com/album/37RlA5c0vWSn05SkfgE77e) | 3:44 |
 | 91 | [Masih Ada Hari](https://open.spotify.com/track/7eKSVZkUEySWCc8i9fLESb) | [Gracilya](https://open.spotify.com/artist/4hPx5Nton09msHxLh4Xlwq) | [Masih Ada Hari](https://open.spotify.com/album/7GB7mKELK4RaikKmdmhFKU) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 99 | [Lembar Biru](https://open.spotify.com/track/2udnv6JwOA2gSJdmmx5Rrk) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Lembar Biru](https://open.spotify.com/album/2QaBwbWoOhQi4fv5s9COx1) | 3:15 |
 | 100 | [Baby July](https://open.spotify.com/track/6qLQbcKX71JBae01vAoIim) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Forevermore](https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc) | 3:19 |
 
-Snapshot ID: `AAAAAN6QA+Ftr1q+69jUUXirFfGe9D3w`
+Snapshot ID: `AAAAADFpc53JEqYum9hszxTox9abzdC3`

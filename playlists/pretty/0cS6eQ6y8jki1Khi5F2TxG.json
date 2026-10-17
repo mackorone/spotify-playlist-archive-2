@@ -1,12 +1,12 @@
 {
   "description": "Music is Universal\ud83c\udf08 Party with this pride playlist full of LGBTQIA+ anthems and iconic pop songs, with Lady Gaga, Chappell Roan, Troye Sivan and more! ",
-  "num_followers": 24935,
+  "num_followers": 24930,
   "original_name": "Pride Party Playlist  | Amsterdam pride 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AABIkE2tH+1hP1Yz/wpmQ2L/MDXBPpe+",
+  "snapshot_id": "AABIkUw9DYUiuaxV6xWuu4q2J3P4sAQA",
   "tracks": [
     {
       "added_at": "2026-07-28 13:08:43",
@@ -23,6 +23,26 @@
       "duration_ms": 260252,
       "name": "Born This Way",
       "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "added_at": "2026-10-16 09:05:46",
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-07-28 13:08:43",

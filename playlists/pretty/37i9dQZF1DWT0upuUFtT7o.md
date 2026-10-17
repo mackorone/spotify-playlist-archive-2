@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Dogs on Shady Lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,231 likes - 74 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,278 likes - 74 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 73 | [1 By One](https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T) | [Ideas By Ab](https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk) | [1 By One](https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe) | 2:09 |
 | 74 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |
 
-Snapshot ID: `AAAAAEMnl6NBTra7h/mBy/nSx9IbR1pu`
+Snapshot ID: `AAAAAJJEBfpZK+2piHGRflUnmjWUpKj1`

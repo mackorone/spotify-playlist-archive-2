@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-604 songs - 1 day 8 hr 57 min
+606 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [First Light](https://open.spotify.com/track/2mAmzLJzgXFmiunBbHkMKc) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [Every Cloud..](https://open.spotify.com/album/2rGMvYYDXc2TwUiefl1kwH) | 2:57 | 2025-11-04 |  |
 | [Fix Me](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ) | [CAKES](https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Fix Me](https://open.spotify.com/album/1wxSeFkiRvvvYlWrGAhWGU) | 2:59 | 2025-07-04 |  |
 | [Flames \(feat\. Ruel\)](https://open.spotify.com/track/4JiuLIWKkLH2iluzOhXh5Y) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Flames \(feat\. Ruel\) \[Lastlings Remix\]](https://open.spotify.com/album/79jCjSW0TiYcTKhJLeQ9Hk) | 3:36 | 2021-06-12 | 2021-07-17 |
+| [Float Away](https://open.spotify.com/track/6YFshVjEuciyy6n1wcShxm) | [Reiny](https://open.spotify.com/artist/7h94PcS9flGlPpsM66SD24), [EZIA](https://open.spotify.com/artist/0NlGvbM8SmFXmaBb6pu1qg) | [Float Away](https://open.spotify.com/album/5urQIrG7qXSDnSJHTnd41D) | 2:38 | 2026-10-16 |  |
 | [For You](https://open.spotify.com/track/0OI2vd19P36SiBrrXjse3w) | [Maone](https://open.spotify.com/artist/3lHCbPkaSUJPiqQ9ZJLEOj) | [For You](https://open.spotify.com/album/4ob30Xa8SQR8vzs4sas7yh) | 2:53 | 2022-02-11 | 2022-06-07 |
 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2025-07-30 |  |
 | [FORMATIONS](https://open.spotify.com/track/1DRLIUG8HFTBfJOFYaByZn) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 2:57 | 2024-02-23 | 2025-06-28 |
@@ -377,6 +378,7 @@
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-04-29 |
 | [NOT ENOUGH](https://open.spotify.com/track/74CDlN3Gdxff2u0nyc4KeA) | [ASK YOUR FRIENDS](https://open.spotify.com/artist/4NnFcjLPmbYq2OTAFPVDC0) | [NOT ENOUGH](https://open.spotify.com/album/6UBf3sJ31WAnWp4lckqpyN) | 3:05 | 2026-08-28 |  |
 | [Nothing Compares](https://open.spotify.com/track/5uK5imfy8JK9LNRLax5hwT) | [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g), [Thomas Sykes](https://open.spotify.com/artist/5YMczOrhIIwKHbOVV6VpNf) | [Nothing Compares](https://open.spotify.com/album/2nVYXhKU2ivwctV3TULWLC) | 2:40 | 2021-12-10 | 2026-01-06 |
+| [Nothing Like You](https://open.spotify.com/track/5OFpSjwWDSLLMt2ntXunSP) | [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Nothing Like You](https://open.spotify.com/album/3j24444FwGv3BYwu4si4cw) | 2:46 | 2026-10-16 |  |
 | [Numb](https://open.spotify.com/track/2cdCC1aCXbvz9tXFOR6CxR) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO) | 3:50 | 2021-03-06 | 2022-02-19 |
 | [Numb](https://open.spotify.com/track/7rBpjxstrSsuOLqnuOC028) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Numb](https://open.spotify.com/album/0wM4Ss4GefFaHkJsaAEzLK) | 3:50 | 2020-09-13\* | 2021-03-06 |
 | [Off My Mind](https://open.spotify.com/track/5vYHf0DY2jhfl8MFiNuVXv) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Off My Mind](https://open.spotify.com/album/2EH3bMjoWwEh3OtYoaIxsr) | 3:01 | 2024-02-23 | 2024-11-09 |

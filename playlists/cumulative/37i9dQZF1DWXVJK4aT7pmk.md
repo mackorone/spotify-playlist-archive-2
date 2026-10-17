@@ -4,7 +4,7 @@
 
 > Catch the hottest Punjabi tracks\. Cover: Karan Aujla
 
-234 songs - 11 hr 55 min
+235 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 | 2025-06-13 | 2025-09-06 |
 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 | 2025-07-18 | 2026-06-06 |
 | [Courtside](https://open.spotify.com/track/5wqMM6wOwXmX4rc1C3lUkd) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [Courtside](https://open.spotify.com/album/5RC38LZqWgK6w9DmqIJJY9) | 2:48 | 2025-05-23 | 2025-08-30 |
+| [Crazy4U](https://open.spotify.com/track/2bvTF18ny11LZOz0uRuOEq) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Crazy4U](https://open.spotify.com/album/7xkNinsFBJgny5p4XZZfBS) | 2:00 | 2026-10-16 |  |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2024-01-04 | 2024-11-15 |
 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 | 2025-09-26 | 2025-12-13 |
 | [Daytona](https://open.spotify.com/track/1dlCoq7vdDnuAzo3DYPTY4) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 | 2025-08-29 | 2025-10-25 |
@@ -85,7 +86,7 @@
 | [DXB](https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 3:26 | 2025-10-24 | 2026-02-28 |
 | [Enigma](https://open.spotify.com/track/6EXYmo6wuxDey1qBV4WbJW) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:01 | 2026-06-05 | 2026-10-09 |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2024-01-04 | 2024-08-03 |
-| [EX\-FILES](https://open.spotify.com/track/4pFgcMU0LSo73Df61Cge6U) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [EX\-FILES](https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U) | 3:16 | 2026-08-14 |  |
+| [EX\-FILES](https://open.spotify.com/track/4pFgcMU0LSo73Df61Cge6U) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [EX\-FILES](https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U) | 3:16 | 2026-08-14 | 2026-10-17 |
 | [Eyes on Me](https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Eyes on Me](https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW) | 2:34 | 2026-05-15 |  |
 | [Famous Enough](https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 4:00 | 2024-04-26 | 2024-07-23 |
 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 | 2026-02-06 | 2026-06-27 |

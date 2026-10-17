@@ -4,7 +4,7 @@
 
 > mostly furry
 
-569 songs - 1 day 3 hr 40 min
+570 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Black Goo Zone](https://open.spotify.com/track/0pxSg6zPFFeMNgQS3z1VeL) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:51 | 2024-12-24 |  |
 | [Blue Bird](https://open.spotify.com/track/1p22iYZzkbVdjKhVjWPnNk) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Blue Bird](https://open.spotify.com/album/1KouYdQgreczfMEKX3gotS) | 4:01 | 2023-11-20 |  |
 | [BODY THE PISTOL](https://open.spotify.com/track/6vIJIAUr2OplD5uYavcfzB) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [BODY THE PISTOL](https://open.spotify.com/album/3eFLCWIeCjBWjDH5Ik5hBG) | 2:38 | 2026-08-24 |  |
+| [Bohemian Rhapsody](https://open.spotify.com/track/6EtvCdpRuCYwK4wZfbf1Mt) | [Suriw](https://open.spotify.com/artist/3xDSGMxOFqMg9NeR3Pt5V5), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [Bohemian Rhapsody](https://open.spotify.com/album/18DzeRFxomHTMcPOlIPXom) | 5:49 | 2026-10-16 |  |
 | [Boom](https://open.spotify.com/track/1eVFe5XVz5ucyQoBB76fYj) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Tundra Fox Music](https://open.spotify.com/album/5Mes2PsdAWigtNwpYE2wpv) | 3:08 | 2023-12-07 |  |
 | [Boy Kisser](https://open.spotify.com/track/67AQyaNi33N6fo8HB59b3j) | [Furrivana](https://open.spotify.com/artist/2NpJJZgFqodNGnBWk1MMut), [Connor Ruri](https://open.spotify.com/artist/4kQcaLgXALExu9AY3An7xd) | [We should like totally KISS](https://open.spotify.com/album/6Zd4E8vVL11OE1ZCbMzjLx) | 4:44 | 2023-11-18 |  |
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-11-18 |  |

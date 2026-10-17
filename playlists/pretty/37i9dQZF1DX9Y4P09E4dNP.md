@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,741 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,753 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 6 | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9) | 3:00 |
 | 7 | [Darkest Style](https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W) | [D Global](https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Darkest Style](https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3) | 2:18 |
 | 8 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 |
-| 9 | [Your Body \(Craze\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Craze\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 |
+| 9 | [Your Body \(Crazy\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Crazy\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 |
 | 10 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 |
 | 11 | [Biggest Nathaniel](https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1) | [N.E records](https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Biggest Nathaniel](https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf) | 2:51 |
 | 12 | [No Issues](https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [No Issues](https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn) | 3:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 84 | [Ogyidinii](https://open.spotify.com/track/2A7CXqUhxgfVudeFJPkz7x) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Ogyidinii](https://open.spotify.com/album/3QwCLyRyCBALkU8bUzxbB5) | 3:35 |
 | 85 | [Bra](https://open.spotify.com/track/2enxlrBiKpWhiazVAzsJlq) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:59 |
 
-Snapshot ID: `AAAAAEzTYuN2FfH/K206fYEAL1W+8kIY`
+Snapshot ID: `AAAAAOt9Z1QpIfJzWVBjDMaJFh+Qe34F`

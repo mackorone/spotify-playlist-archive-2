@@ -1,12 +1,12 @@
 {
   "description": "Essential songs of India's beloved crooner.",
-  "num_followers": 1287549,
+  "num_followers": 1287734,
   "original_name": "This Is Arijit Singh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwk8hFuLP2j+fZCsBwrRUHMOPl6",
+  "snapshot_id": "AAAAAIvJSVFwSQ/fGUypZNowTvE5Qb+O",
   "tracks": [
     {
       "added_at": "2026-09-25 04:07:43",
@@ -105,6 +105,30 @@
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
+      "added_at": "2026-10-16 09:28:59",
+      "album": {
+        "name": "Udta Teer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5w8BWgvkabp4eWuP0YgR3A"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 217764,
+      "name": "Chann (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/2oxJR1QaLRhLMDVZGhf2y2"
+    },
+    {
       "added_at": "2026-09-25 04:07:43",
       "album": {
         "name": "Aavan Jaavan (From \"WAR 2\")",
@@ -155,30 +179,6 @@
       "duration_ms": 264805,
       "name": "Tera Yaar Hoon Main",
       "url": "https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg"
-    },
-    {
-      "added_at": "2026-09-25 04:07:43",
-      "album": {
-        "name": "Pehla Pyaar Doosri Baar",
-        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
-      },
-      "artists": [
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 221021,
-      "name": "Purane Din",
-      "url": "https://open.spotify.com/track/3gqea65hpdOFJ4YFkUEKLb"
     },
     {
       "added_at": "2026-09-25 04:07:43",
@@ -303,38 +303,6 @@
     {
       "added_at": "2026-09-25 04:07:43",
       "album": {
-        "name": "Zamaana Lage (From \"Metro ... In Dino\")",
-        "url": "https://open.spotify.com/album/7BpW3kwzoeLX4RFWJVvjGx"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shashwat Singh",
-          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
-        },
-        {
-          "name": "Qaisar-Ul-Jafri",
-          "url": "https://open.spotify.com/artist/5SMMGwEnXqIWXvhfBfV6BD"
-        },
-        {
-          "name": "Sandeep Shrivastava",
-          "url": "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "Zamaana Lage (From \"Metro ... In Dino\")",
-      "url": "https://open.spotify.com/track/76ec1a1bkFfOqoVf6e7nae"
-    },
-    {
-      "added_at": "2026-09-25 04:07:43",
-      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -355,6 +323,30 @@
       "duration_ms": 194857,
       "name": "Heeriye (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
+    },
+    {
+      "added_at": "2026-09-25 04:07:43",
+      "album": {
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 221021,
+      "name": "Purane Din",
+      "url": "https://open.spotify.com/track/3gqea65hpdOFJ4YFkUEKLb"
     },
     {
       "added_at": "2026-09-25 04:07:43",

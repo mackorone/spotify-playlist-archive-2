@@ -1,12 +1,12 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63448,
+  "num_followers": 63451,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIUzw7DatoDEiQ33DSlaC26BXcAe",
+  "snapshot_id": "AAAAAL709s6ypjuJU2oVb15muDA9NonW",
   "tracks": [
     {
       "added_at": "2026-10-09 16:26:26",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
+        "url": "https://open.spotify.com/album/2jKA1kSLnqgKrClUHEQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 184700,
+      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
+      "url": "https://open.spotify.com/track/3Iw89WZFV0bsQh83TN6pJn"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "Neptu\u300cDeep into you\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/5Tq9FtQXJxcO1CO32GYAoC"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 206997,
       "name": "\u5186\u74b0\u306eRefraction",
       "url": "https://open.spotify.com/track/48f8tr0Mi0Fkqn4pnd46Uc"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
-        "url": "https://open.spotify.com/album/2jKA1kSLnqgKrClUHEQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 184700,
-      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
-      "url": "https://open.spotify.com/track/3Iw89WZFV0bsQh83TN6pJn"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
+        "url": "https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
+      "url": "https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "\u7460\u7483\u8309\u8389\u300c\u541b\u604b\u5fd7\u9858\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/3vD9fOvl57rX25QxKy1eY9"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 209257,
       "name": "\u5927\u3044\u306a\u308b\u611b\u306e\u524d\u306b\u5168\u3066\u306f\u5de1\u308a\u6765\u308b",
       "url": "https://open.spotify.com/track/05FwtB4rNLak1Ie0z0AVmd"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
-        "url": "https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
-      "url": "https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "M\u2200N\u2200\u300c\u55aa\u5931\u5bd3\u610f -LOST BALLADE-\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/5zux0yQaIObjz2e8HHbflS"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 199200,
       "name": "\u55aa\u5931\u5bd3\u610f -LOST BALLADE-",
       "url": "https://open.spotify.com/track/6uQgJRvVHunJPkz4T6mb4D"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
     },
     {
       "added_at": "2026-10-09 16:26:26",

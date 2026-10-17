@@ -1,12 +1,12 @@
 {
   "description": "The sound of the underground. Cover: Destroy Boys",
-  "num_followers": 487396,
+  "num_followers": 487359,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLpI+gUuMTvhmkbWiMcJLHYJxXP",
+  "snapshot_id": "AAAAAOwQjhFD0HZW4RKCLRANaaDJlsJz",
   "tracks": [
     {
       "added_at": "2026-10-16 00:00:12",
@@ -168,8 +168,8 @@
           "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 171217,
+      "name": "Critic",
       "url": "https://open.spotify.com/track/6DAjDmB3BSdCXpmZqrDOCB"
     },
     {
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "TANZNEID",
-        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 187642,
-      "name": "Heartclub",
-      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "Bleeding Heart",
         "url": "https://open.spotify.com/album/02TN5COA7e3uh96dRwLPBr"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
+        "name": "TANZNEID",
+        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 187642,
+      "name": "Heartclub",
+      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
         "name": "The Sword That Never Bends",
         "url": "https://open.spotify.com/album/1hw6fav6T9LRREMG3HRInR"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 226796,
       "name": "The Sword That Never Bends",
       "url": "https://open.spotify.com/track/4Rxlwrod7V5fN1blhkhzq7"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 210937,
-      "name": "Beautiful Again",
-      "url": "https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -499,18 +483,18 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "DOOM LOOP",
-        "url": "https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC"
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
       },
       "artists": [
         {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 240973,
-      "name": "DOOM LOOP",
-      "url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT"
+      "duration_ms": 210937,
+      "name": "Beautiful Again",
+      "url": "https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -527,6 +511,22 @@
       "duration_ms": 205173,
       "name": "Fortress Down",
       "url": "https://open.spotify.com/track/63SaN607accD2T4mLJFDRd"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "DOOM LOOP",
+        "url": "https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "DOOM LOOP",
+      "url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "dark heaven",
-        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 212272,
-      "name": "dark heaven",
-      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "Zero Day",
         "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 145129,
       "name": "Zero Day",
       "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "dark heaven",
+        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 212272,
+      "name": "dark heaven",
+      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Crucified",
-        "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 263972,
-      "name": "Crucified",
-      "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "An Ending In Itself",
         "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+        "name": "Crucified",
+        "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
+      "duration_ms": 263972,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -687,6 +671,22 @@
       "duration_ms": 146058,
       "name": "critic",
       "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "CUT_it",
-        "url": "https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 194597,
-      "name": "CUT_it",
-      "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "rehearsed",
         "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 110346,
       "name": "rehearsed",
       "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "CUT_it",
+        "url": "https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 194597,
+      "name": "CUT_it",
+      "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "From A Distance",
-        "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
-      },
-      "artists": [
-        {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
-        }
-      ],
-      "duration_ms": 203314,
-      "name": "Swept From Under (Call of the Void)",
-      "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "split",
         "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 131004,
       "name": "split",
       "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 203314,
+      "name": "Swept From Under (Call of the Void)",
+      "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
+        "name": "Last One Here",
+        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Last One Here",
+      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Last One Here",
-        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
-      },
-      "artists": [
-        {
-          "name": "Rev3rent",
-          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Last One Here",
-      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "Sx",
         "url": "https://open.spotify.com/album/7IZsiyiB3C0ZUA4osa6EXv"
       },
@@ -979,70 +979,6 @@
       "duration_ms": 242805,
       "name": "Sx",
       "url": "https://open.spotify.com/track/1ruMyUArnbPivLRjeHyOWH"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
-        "name": "Modern Life Is Lonely",
-        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 282726,
-      "name": "Modern Life Is Lonely",
-      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
-        "name": "NOISE",
-        "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 162760,
-      "name": "NOISE",
-      "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
-        "name": "Armour Of Angels",
-        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
-      },
-      "artists": [
-        {
-          "name": "Guilt Trip",
-          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
-      },
-      "artists": [
-        {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1063,18 +999,66 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 188062,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "Armour Of Angels",
+        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 162760,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1099,6 +1083,22 @@
       "duration_ms": 200287,
       "name": "Growing Different Limbs",
       "url": "https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "Death To Something",
         "url": "https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4"
       },
@@ -1183,18 +1167,34 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "\u2060Lucid Love",
-        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 210555,
-      "name": "Lucid Love",
-      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1215,18 +1215,34 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Fangs",
-        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
       },
       "artists": [
         {
-          "name": "Loathe",
-          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Fangs",
-      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "duration_ms": 262784,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1259,22 +1275,6 @@
       "duration_ms": 219665,
       "name": "Live by the Sword",
       "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
-      },
-      "artists": [
-        {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
-        }
-      ],
-      "duration_ms": 262784,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 223941,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "Doom Tripping",
         "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 223941,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
         "name": "Kill Me First",
         "url": "https://open.spotify.com/album/2SAoqo4aCJO8wshF6Lf1dX"
       },
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Pins",
-        "url": "https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu"
+        "name": "we are unpeople",
+        "url": "https://open.spotify.com/album/3wiGXFOSEkkNOtxBJJG56Q"
       },
       "artists": [
         {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
         }
       ],
-      "duration_ms": 241254,
-      "name": "Pins",
-      "url": "https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK"
+      "duration_ms": 255166,
+      "name": "haunted",
+      "url": "https://open.spotify.com/track/70gWe4I2nBmb5zo0Wa5Uv0"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
+        "name": "Pins",
+        "url": "https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 241254,
+      "name": "Pins",
+      "url": "https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 245350,
       "name": "St. Catherine's Wheel",
       "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
-        "name": "MISSING",
-        "url": "https://open.spotify.com/album/2UWQDA2qWX7liC1h0HqNvN"
-      },
-      "artists": [
-        {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "MISSING",
-      "url": "https://open.spotify.com/track/2doVEgUhYXZbNw6u8J1f9m"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "we are unpeople",
-        "url": "https://open.spotify.com/album/3wiGXFOSEkkNOtxBJJG56Q"
+        "name": "MISSING",
+        "url": "https://open.spotify.com/album/2UWQDA2qWX7liC1h0HqNvN"
       },
       "artists": [
         {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
         }
       ],
-      "duration_ms": 255166,
-      "name": "haunted",
-      "url": "https://open.spotify.com/track/70gWe4I2nBmb5zo0Wa5Uv0"
+      "duration_ms": 150967,
+      "name": "MISSING",
+      "url": "https://open.spotify.com/track/2doVEgUhYXZbNw6u8J1f9m"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Blunt Force Blues",
-        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 251505,
-      "name": "Blunt Force Blues",
-      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
-    },
-    {
-      "added_at": "2026-10-16 00:00:12",
-      "album": {
         "name": "NETWORK",
         "url": "https://open.spotify.com/album/6gMcQzQGSD2j83ZBIDpA3i"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Chosen Hell",
-        "url": "https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7"
+        "name": "Blunt Force Blues",
+        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
       },
       "artists": [
         {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 158413,
-      "name": "Chosen Hell",
-      "url": "https://open.spotify.com/track/2KpZs2PLyA2ZA3Rea2SqzJ"
+      "duration_ms": 251505,
+      "name": "Blunt Force Blues",
+      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
     },
     {
       "added_at": "2026-10-16 00:00:12",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
+        "name": "Love Is Not Enough",
+        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 168323,
+      "name": "Bad Faith",
+      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
+    },
+    {
+      "added_at": "2026-10-16 00:00:12",
+      "album": {
         "name": "BLOODLETTING",
         "url": "https://open.spotify.com/album/1A0ggLaki9qLKWqBvss54a"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-10-16 00:00:12",
       "album": {
-        "name": "Love Is Not Enough",
-        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
+        "name": "Chosen Hell",
+        "url": "https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7"
       },
       "artists": [
         {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
         }
       ],
-      "duration_ms": 168323,
-      "name": "Bad Faith",
-      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
+      "duration_ms": 158413,
+      "name": "Chosen Hell",
+      "url": "https://open.spotify.com/track/2KpZs2PLyA2ZA3Rea2SqzJ"
     },
     {
       "added_at": "2026-10-16 00:00:12",

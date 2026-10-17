@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume! October ambassador: <a href=\"spotify:artist:6OOF9nSZbNw4etK0InqtEZ\">CVNTS</a>",
-  "num_followers": 14514,
+  "num_followers": 14511,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCAeeD3dOOafYBA52tCGzJP5TMY",
+  "snapshot_id": "AAAAAEke1nt8Q/zGICswe5ddO9ks2r3V",
   "tracks": [
     {
       "added_at": "2026-10-06 22:00:25",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Wanneer Is Het Genoeg?",
+        "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
+      },
+      "artists": [
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Wanneer Is Het Genoeg?",
+      "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/1ablmD9hjxK5WLl6O58Fgg"
       },
@@ -607,18 +623,46 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Wanneer Is Het Genoeg?",
-        "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
+        "name": "Trial & Error",
+        "url": "https://open.spotify.com/album/57sG1gu8jeTmnWYR2Ss9sb"
       },
       "artists": [
         {
-          "name": "OLIVIA",
-          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+          "name": "BIRTHE",
+          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
         }
       ],
-      "duration_ms": 165436,
-      "name": "Wanneer Is Het Genoeg?",
-      "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
+      "duration_ms": 228800,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/43lD6s1AJLws5e2EEk8fjY"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/0v7u9mo0TGR8I4O8aGjTB0"
+      },
+      "artists": [
+        {
+          "name": "Roxy Rosa",
+          "url": "https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg"
+        },
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Gorrsowtu",
+          "url": "https://open.spotify.com/artist/5VF7ryU1UplU9ixHIE5qAP"
+        }
+      ],
+      "duration_ms": 124874,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6yDO4pqOSpr1akgjjTGdDe"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -655,50 +699,6 @@
       "duration_ms": 191645,
       "name": "Zaterdag",
       "url": "https://open.spotify.com/track/3XqcbsV9bgzQZ04CvkR24Q"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/0v7u9mo0TGR8I4O8aGjTB0"
-      },
-      "artists": [
-        {
-          "name": "Roxy Rosa",
-          "url": "https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg"
-        },
-        {
-          "name": "ADF Antje",
-          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
-        },
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Gorrsowtu",
-          "url": "https://open.spotify.com/artist/5VF7ryU1UplU9ixHIE5qAP"
-        }
-      ],
-      "duration_ms": 124874,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6yDO4pqOSpr1akgjjTGdDe"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Trial & Error",
-        "url": "https://open.spotify.com/album/57sG1gu8jeTmnWYR2Ss9sb"
-      },
-      "artists": [
-        {
-          "name": "BIRTHE",
-          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/43lD6s1AJLws5e2EEk8fjY"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "De Verdrietige Meneer",
-        "url": "https://open.spotify.com/album/4xP3o67XVgqNPJpQXCVfUp"
-      },
-      "artists": [
-        {
-          "name": "Else Lena",
-          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
-        }
-      ],
-      "duration_ms": 199928,
-      "name": "De Verdrietige Meneer",
-      "url": "https://open.spotify.com/track/5WuICyjAjSNZQi3pGbAu3z"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Gianni",
         "url": "https://open.spotify.com/album/0HRvk6rOkS2nUIGzJfH4BA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 182426,
       "name": "Gianni",
       "url": "https://open.spotify.com/track/3bZCTz8RuBTvcYXoVFxWga"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "De Verdrietige Meneer",
+        "url": "https://open.spotify.com/album/4xP3o67XVgqNPJpQXCVfUp"
+      },
+      "artists": [
+        {
+          "name": "Else Lena",
+          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+        }
+      ],
+      "duration_ms": 199928,
+      "name": "De Verdrietige Meneer",
+      "url": "https://open.spotify.com/track/5WuICyjAjSNZQi3pGbAu3z"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5l68gFaOzLobugsFw1n2BN"
+        "name": "Something Perfect",
+        "url": "https://open.spotify.com/album/2eQDu24S8h6K7of2gJNv0c"
       },
       "artists": [
         {
-          "name": "Veya",
-          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
+          "name": "OGENE",
+          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/5C4KgyogyD9HVRKtKXJWEO"
+      "duration_ms": 159380,
+      "name": "Far from Great",
+      "url": "https://open.spotify.com/track/1vHOmltnmayJaFIndCznVp"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Something Perfect",
-        "url": "https://open.spotify.com/album/2eQDu24S8h6K7of2gJNv0c"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5l68gFaOzLobugsFw1n2BN"
       },
       "artists": [
         {
-          "name": "OGENE",
-          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
+          "name": "Veya",
+          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
         }
       ],
-      "duration_ms": 159380,
-      "name": "Far from Great",
-      "url": "https://open.spotify.com/track/1vHOmltnmayJaFIndCznVp"
+      "duration_ms": 191306,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5C4KgyogyD9HVRKtKXJWEO"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/44QpVZIGqCT4OCU5PougQT"
-      },
-      "artists": [
-        {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "De dagen",
         "url": "https://open.spotify.com/album/5yJXfOssStBnFWjsSkP1ra"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 155368,
       "name": "Tranen Voor De Dorst",
       "url": "https://open.spotify.com/track/7y3dWG3ygFd9wKtf2Z9UWx"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/44QpVZIGqCT4OCU5PougQT"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Already Lost",
-        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
-      },
-      "artists": [
-        {
-          "name": "Caro",
-          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Already Lost",
-      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Wit Licht",
         "url": "https://open.spotify.com/album/3zHlnwOLJuXHdY7tEsjPkd"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 217049,
       "name": "Wit Licht",
       "url": "https://open.spotify.com/track/7Bl9UfRxtmvzO67RAPyQqW"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Already Lost",
+        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
+      },
+      "artists": [
+        {
+          "name": "Caro",
+          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
+        }
+      ],
+      "duration_ms": 218926,
+      "name": "Already Lost",
+      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/3ZGPb9uQBroN0o26CK2GXZ"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Ewbank",
-          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1a6Kg9KhFMXD3BnyOXUKSD"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "The Writer (Choir versions Live in the St Antonius Church)",
         "url": "https://open.spotify.com/album/3I1SZQyMrFUI79zw5Ve0Qp"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 195464,
       "name": "Fanatical radical - Choir versions Live in the St Antonius Church",
       "url": "https://open.spotify.com/track/2JNcsFTuUvTSoKsin1lyTZ"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/3ZGPb9uQBroN0o26CK2GXZ"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ewbank",
+          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1a6Kg9KhFMXD3BnyOXUKSD"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
+      },
+      "artists": [
+        {
+          "name": "Sandrien",
+          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Sad Bitches",
         "url": "https://open.spotify.com/album/5o5zjnSBBapOvrLmUSwdOS"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 191554,
       "name": "Sad Bitches",
       "url": "https://open.spotify.com/track/3yNQW3ygXKf8BHJGebpPqI"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Eventjes",
-        "url": "https://open.spotify.com/album/5rBszwlnFviFMcBcU5Gxdz"
-      },
-      "artists": [
-        {
-          "name": "Anna van Zon",
-          "url": "https://open.spotify.com/artist/20qMYvU9T1zbvSvfMFua6A"
-        }
-      ],
-      "duration_ms": 180090,
-      "name": "Eventjes",
-      "url": "https://open.spotify.com/track/28bjwlN83oLvzh3rgE01kh"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
+        "name": "Eventjes",
+        "url": "https://open.spotify.com/album/5rBszwlnFviFMcBcU5Gxdz"
       },
       "artists": [
         {
-          "name": "Sandrien",
-          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
+          "name": "Anna van Zon",
+          "url": "https://open.spotify.com/artist/20qMYvU9T1zbvSvfMFua6A"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
+      "duration_ms": 180090,
+      "name": "Eventjes",
+      "url": "https://open.spotify.com/track/28bjwlN83oLvzh3rgE01kh"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha"
-      },
-      "artists": [
-        {
-          "name": "Amani",
-          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "I'll Do It Myself",
         "url": "https://open.spotify.com/album/5ZifGri1bN6NC0XnUBXFKa"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 147293,
       "name": "I'll Do It Myself",
       "url": "https://open.spotify.com/track/2iV6HI3qmjfT2pddW2hfWk"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha"
+      },
+      "artists": [
+        {
+          "name": "Amani",
+          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ"
     },
     {
       "added_at": "2026-10-06 22:00:25",

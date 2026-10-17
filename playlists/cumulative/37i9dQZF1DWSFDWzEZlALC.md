@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-2,012 songs - 3 day 22 hr 36 min
+2,012 songs - 3 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 | 2025-10-23 | 2026-01-30 |
 | [Denkmal](https://open.spotify.com/track/58zHoX9U5VlSXLUUmWTfe2) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:17 | 2024-02-13 | 2024-02-16 |
 | [Denkst du noch an mich?](https://open.spotify.com/track/4Sy4s75ZIslof3ggwq6ekC) | [Tom Blanc](https://open.spotify.com/artist/1ZGjNQCPK5Rl7D5u1kbXc3) | [Denkst du noch an mich?](https://open.spotify.com/album/2yLIMYSgBUzCTmV0zLbJhp) | 2:25 | 2024-12-05 | 2024-12-20 |
+| [Deppata Bua](https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [aus dem Koffer](https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j) | 3:17 | 2026-10-15 |  |
 | [der beste sommer meines lebens](https://open.spotify.com/track/6HXx5dApSjHU2Y0clXM8eQ) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [der beste sommer meines lebens](https://open.spotify.com/album/0k5PqjWO0skt1qcxWuQfHk) | 2:56 | 2026-06-26 | 2026-07-17 |
 | [der Himmel brennt in Europa](https://open.spotify.com/track/2RM2M3AkjvIe0izpUtr9Nu) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [der Himmel brennt in Europa](https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X) | 3:25 | 2025-11-06 | 2026-02-06 |
 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 | 2026-01-15 | 2026-02-13 |
@@ -1424,6 +1425,7 @@
 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 | 2023-04-13 | 2026-02-15 |
 | [RIP](https://open.spotify.com/track/3vqML7qAPUXH7AbtESolBY) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Goldie](https://open.spotify.com/album/24QB7vyHwRrU1irXktaWMM) | 3:13 | 2023-11-09 | 2024-01-26 |
 | [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [SILHOUETTEN](https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj) | 2:18 | 2026-02-19 | 2026-03-06 |
+| [Riss in der Fassade](https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Verstr!ckt](https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q) | 2:15 | 2026-10-15 |  |
 | [Ritalin](https://open.spotify.com/track/4LWIAz3HVqCaqmHnMV62el) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm), [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T) | [Ritalin](https://open.spotify.com/album/0pvZwnFhVmFkpAXwikxiEg) | 2:43 | 2025-08-28 | 2025-09-26 |
 | [ritter](https://open.spotify.com/track/679zQ5HfMFbZHY3sbc4iaF) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [ritter](https://open.spotify.com/album/3xxwcLQAj5GxbNkSlWFhlB) | 2:51 | 2023-05-25 | 2023-06-16 |
 | [rohbeton](https://open.spotify.com/track/0U7dAKXYI6RMd4D1RuXdyw) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [rohbeton](https://open.spotify.com/album/609CS2jCvMY64FiiqiAGgd) | 2:18 | 2024-08-15 | 2024-09-20 |
@@ -1703,8 +1705,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 1](https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [aus dem Koffer](https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j) | 0:00 | 2026-10-15 |  |
-| [Track 8](https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Verstr!ckt](https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q) | 0:00 | 2026-10-15 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [traum](https://open.spotify.com/track/4rJ7Mu1pTf7XGyvX08VBmM) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [traum](https://open.spotify.com/album/510TUxmx6oG5bd3MUwN4an) | 2:10 | 2026-09-24 |  |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |

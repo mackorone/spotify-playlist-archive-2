@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring SOB x RBE, T.I., Fenix Flexin, Shaboozey &amp; more.
 
-246 songs - 10 hr 59 min
+247 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Mardi Gras \(Go Crazy\) \- PBM Version](https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Mardi Gras \(Go Crazy\) \[PBM Version\]](https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz) | 2:54 | 2025-09-29 |  |
 | [Me And Mike](https://open.spotify.com/track/4wwACmcnLZWd5MAdNPE6mP) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Me And Mike](https://open.spotify.com/album/69oFLAcQKRkhTOowDPMCJW) | 2:19 | 2024-03-30 | 2025-02-01 |
 | [Midnight in Hawaii 2](https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Midnight in Hawaii 2](https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m) | 3:18 | 2025-10-06 |  |
+| [Missing Home](https://open.spotify.com/track/3B18FHfCzhBzqGTy1CQVuH) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Day by Day, Shway Shway](https://open.spotify.com/album/40qljUA8WPAsuSTyO9JyGN) | 2:38 | 2026-10-16 |  |
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 | 2025-02-01 |
 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-09-24 |  |
 | [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 | 2026-05-11 |  |

@@ -14203,6 +14203,24 @@
     },
     {
       "album": {
+        "name": "PRAISE",
+        "url": "https://open.spotify.com/album/2aG8BXFCuU5r6ys9aL8DLm"
+      },
+      "artists": [
+        {
+          "name": "Yel",
+          "url": "https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "ALMOND JOY",
+      "url": "https://open.spotify.com/track/4JBWIzJG9Y37GtP7Pi11bF"
+    },
+    {
+      "album": {
         "name": "Almost",
         "url": "https://open.spotify.com/album/4XtWsRvS6odiRbtS9VJpra"
       },
@@ -16162,6 +16180,24 @@
       "duration_ms": 204240,
       "name": "and you (Feat. ZICO)",
       "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
+    },
+    {
+      "album": {
+        "name": "<LOVE&POP> pt.2",
+        "url": "https://open.spotify.com/album/0nui9KVjjgQGiyKPFsNbPB"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Andless",
+      "url": "https://open.spotify.com/track/1W5v9eqmHWglEcKInhgbca"
     },
     {
       "album": {
@@ -34496,6 +34532,24 @@
       "duration_ms": 179871,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
+    },
+    {
+      "album": {
+        "name": "bluende",
+        "url": "https://open.spotify.com/album/1FcAVoJkX4jxxtP0sI7hGn"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "bluende",
+      "url": "https://open.spotify.com/track/5VFfD5DVzQNGo7HOcmqCyT"
     },
     {
       "album": {
@@ -66821,6 +66875,24 @@
     },
     {
       "album": {
+        "name": "DON'T STOP",
+        "url": "https://open.spotify.com/album/6lpjlOyzJHyH7eUkOYRh96"
+      },
+      "artists": [
+        {
+          "name": "TEEN TOP",
+          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "DON'T STOP",
+      "url": "https://open.spotify.com/track/2P1lqCikTS3zSfVhue9ehR"
+    },
+    {
+      "album": {
         "name": "Don't Tell My Papa",
         "url": "https://open.spotify.com/album/2Mxm0aqGb4dFaEf6kj8kFP"
       },
@@ -78754,6 +78826,36 @@
       "duration_ms": 189786,
       "name": "Everything Everywhere All At Once",
       "url": "https://open.spotify.com/track/470bzkVuKgKHV5KddrDsLx"
+    },
+    {
+      "album": {
+        "name": "2MC",
+        "url": "https://open.spotify.com/album/5SEq8bfVOGTCCj5ndi8hFl"
+      },
+      "artists": [
+        {
+          "name": "2MC",
+          "url": "https://open.spotify.com/artist/7iDeQ82JcRfNzjFIN2KjEW"
+        },
+        {
+          "name": "O'Domar",
+          "url": "https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw"
+        },
+        {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Everything Everywhere All at Once (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/4rQ8ZXyOvPS2h7JwJZZj50"
     },
     {
       "album": {
@@ -185711,6 +185813,24 @@
     },
     {
       "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1bbff8xB6Bk59qgFqON2BT"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Next Chapter",
+      "url": "https://open.spotify.com/track/0eTzMGetnDvA6G3QpQc2d4"
+    },
+    {
+      "album": {
         "name": "Next Christmas",
         "url": "https://open.spotify.com/album/55vNbdOuHsToD6xMDhyvB8"
       },
@@ -211124,6 +211244,24 @@
       "duration_ms": 203120,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/4dAW5RVBgrrDV0p8uZO3Hz"
+    },
+    {
+      "album": {
+        "name": "Confessions of a Lonely Heart",
+        "url": "https://open.spotify.com/album/5WkPO28CXngFj8ET2d6pyj"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/5iLRXdRtpB9AOqV8exoBi8"
     },
     {
       "album": {
@@ -312826,6 +312964,24 @@
       "duration_ms": 220736,
       "name": "\uadf8\ub7ec\uc790 (Let's do that)",
       "url": "https://open.spotify.com/track/185Ghf4jvEdFB0Z8u8fj04"
+    },
+    {
+      "album": {
+        "name": "\uadf8\ub7f0 \uac74 \uc911\uc694\ud558\uc9c0 \uc54a\uc544",
+        "url": "https://open.spotify.com/album/2oiK62IyqlMu2qtFLANnCZ"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205677,
+      "name": "\uadf8\ub7f0 \uac74 \uc911\uc694\ud558\uc9c0 \uc54a\uc544",
+      "url": "https://open.spotify.com/track/4qfig1YGMCPe7CiyrI8xwJ"
     },
     {
       "album": {

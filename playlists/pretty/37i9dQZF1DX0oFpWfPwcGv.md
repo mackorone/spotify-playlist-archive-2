@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,879 likes - 75 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,888 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 37 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 |
 | 38 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
 | 39 | [Stand on the Word \- Studio Version](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
-| 40 | [Saturday](https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE) | [Norma Jean Wright](https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM) | [Norma Jean](https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ) | 6:06 |
-| 41 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
+| 40 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
+| 41 | [Saturday](https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE) | [Norma Jean Wright](https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM) | [Norma Jean](https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ) | 6:06 |
 | 42 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 |
 | 43 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
 | 44 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/3GUvckJgUl90ATgDkfbJn7) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/7cfrgUXpftlEhRNukBA3iR) | 4:01 |
 | 75 | [Never Too Much \- 12" Version](https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu) | 5:39 |
 
-Snapshot ID: `AAAAACFr3XuSIwSr1NeMajtVpAvokHzh`
+Snapshot ID: `AAAAANEr15FykuDBO4LifOiwkwVQkIvz`

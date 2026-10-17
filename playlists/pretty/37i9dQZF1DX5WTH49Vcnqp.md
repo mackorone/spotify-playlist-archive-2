@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,039 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,994 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Romanticize](https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Romanticize](https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0) | 3:35 |
 | 75 | [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 |
 
-Snapshot ID: `AAAAAEgLo+Pp7arwHCjxw4jQJjP2Yikw`
+Snapshot ID: `AAAAAKcB7Xs8yzA/X7UXZOesHKHV8sbQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,657 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,607 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 16 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 |
 | 17 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
 | 18 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 |
-| 19 | [Track 5](https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU) | [Luso](https://open.spotify.com/album/214sHCmITqZqhAr6lzSSda) | 0:00 |
+| 19 | [Libera](https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Margaridas](https://open.spotify.com/artist/2s7Kara3RovkRHclzCt9jn) | [Luso](https://open.spotify.com/album/214sHCmITqZqhAr6lzSSda) | 4:55 |
 | 20 | [No Me Dejes Solo](https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/7BmWnXvx1CD6vtxtBd0czc) | 2:50 |
 | 21 | [Vidrado Em Você](https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Vidrado Em Você](https://open.spotify.com/album/2EjRuOYSlELWIleNx7lDbe) | 2:14 |
 | 22 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Tequila & Ibiza](https://open.spotify.com/track/19txbPBxw2UAX5OaFattUc) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [BESH.](https://open.spotify.com/artist/5JRnZxSb8XULQul9lyb2Yy) | [Tequila & Ibiza](https://open.spotify.com/album/5JJocmovUqPUBYPPv5wy8k) | 2:55 |
 | 75 | [Más Cara](https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:35 |
 
-Snapshot ID: `AAAAAKL93deElm4bZVhlnWg4G2EwwZ+u`
+Snapshot ID: `AAAAABDqzeXLDAxRvlknL8jtzo8K3pUZ`

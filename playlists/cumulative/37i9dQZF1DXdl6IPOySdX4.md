@@ -4,7 +4,7 @@
 
 > you up?
 
-588 songs - 1 day 8 hr 36 min
+589 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-12 | 2024-04-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-28 | 2023-06-02 |
 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 | 2022-02-11 | 2024-04-24 |
+| [High All The Time \(feat\. G\-Eazy\)](https://open.spotify.com/track/7aBHTd1qfoO6gUDGFOhCPT) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [High All The Time \(feat\. G\-Eazy\)](https://open.spotify.com/album/2emAr44ZSMVO0S1jIf9rgI) | 2:57 | 2026-10-16 |  |
 | [High Enough \- Slowed](https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [High Enough \(Slowed\)](https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR) | 3:21 | 2022-02-04 | 2023-01-05 |
 | [High For This](https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:07 | 2022-03-25 | 2022-04-19 |
 | [Hold On Tight](https://open.spotify.com/track/6oPY6kNFFkgViDDYkrRM96) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Hold On Tight](https://open.spotify.com/album/4ytAsi4C0cCiKpJL9iOlSm) | 2:20 | 2026-06-05 | 2026-10-09 |
@@ -283,7 +284,7 @@
 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 | 2022-10-28 | 2022-11-12 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2025-12-29 |  |
 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-01-09 | 2026-05-26 |
-| [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 | 2026-06-05 |  |
+| [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 | 2026-06-05 | 2026-10-17 |
 | [Jane Doe](https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Jane Doe](https://open.spotify.com/album/4dtUttZLZbbkp6cN52zDy2) | 2:44 | 2022-11-11 | 2022-11-19 |
 | [Jasmine](https://open.spotify.com/track/2SmWEmmOmI8K5DnkmJHXUr) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Jasmine](https://open.spotify.com/album/2FmZoNP9JBB0fmzbNw4VSo) | 3:57 | 2025-08-08 | 2025-09-18 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-18 | 2023-09-13 |

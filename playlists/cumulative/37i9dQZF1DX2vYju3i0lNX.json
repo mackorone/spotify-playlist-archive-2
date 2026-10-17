@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 235050,
       "name": "All I See In You",
       "url": "https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP"
@@ -4122,6 +4122,24 @@
       "duration_ms": 161792,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H"
+    },
+    {
+      "album": {
+        "name": "Chapter Three",
+        "url": "https://open.spotify.com/album/40InfJE1rAiRDK2U1xd0mY"
+      },
+      "artists": [
+        {
+          "name": "The Backridges",
+          "url": "https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192145,
+      "name": "Chapter Three",
+      "url": "https://open.spotify.com/track/3rDlSEtGsZvLBlqGhqnHpM"
     },
     {
       "album": {
@@ -12191,6 +12209,24 @@
     },
     {
       "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/03O6VfawDfS7MWVWCAQcHi"
+      },
+      "artists": [
+        {
+          "name": "Northbound Collective",
+          "url": "https://open.spotify.com/artist/0YZDRkFCZXUfQnZ13eBlqm"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/2g9P9lZx8AGCDbSKHXkYf0"
+    },
+    {
+      "album": {
         "name": "Leave Your Umbrella at Home",
         "url": "https://open.spotify.com/album/05ap7L64mGjQP9plKI35Vf"
       },
@@ -15568,7 +15604,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 229950,
       "name": "Not the worst case",
       "url": "https://open.spotify.com/track/56SvGKtz5pxpNjC5YfoBnY"

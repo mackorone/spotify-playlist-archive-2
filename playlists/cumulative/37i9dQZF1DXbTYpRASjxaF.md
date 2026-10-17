@@ -4,7 +4,7 @@
 
 > copos pro alto, cada um com o seu\. Foto: Vitinho RB, MD Chefe
 
-600 songs - 1 day 6 hr 33 min
+601 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Amo Te Ver de Juju](https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 | 2023-10-20 | 2023-11-11 |
 | [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 | 2024-09-27 | 2025-02-22 |
 | [Amor É F\*Da](https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Amor É F\*Da](https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU) | 2:31 | 2026-06-08 |  |
+| [Amor É F\*da 2](https://open.spotify.com/track/6sQMYNNkWaZ7pvZyzXq6tw) | [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod.Jay\-C](https://open.spotify.com/artist/2uuwFjqmWlrhouHBaiUllY) | [Amor É F\*da 2](https://open.spotify.com/album/7bTDF7amcSP4ldR0ByQad0) | 2:13 | 2026-10-16 |  |
 | [Aonde Eu Sou Cria](https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Aonde Eu Sou Cria](https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1) | 2:34 | 2022-03-18 | 2022-04-02 |
 | [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 | 2025-02-21 | 2025-03-06 |
 | [Aquecimento da Xereca \(Remix\)](https://open.spotify.com/track/6Bfev8nYsY4kDjVbZk06qk) | [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Khamarinha](https://open.spotify.com/artist/1aWWrG0LM53V1ilVsiFAFI), [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0) | [Aquecimento da Xereca \(Remix\)](https://open.spotify.com/album/1zD95qhBpVJGEmlh70GECn) | 2:41 | 2023-08-25 | 2023-09-02 |

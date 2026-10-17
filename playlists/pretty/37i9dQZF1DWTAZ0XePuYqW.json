@@ -1,13 +1,29 @@
 {
-  "description": "UTILITY & Vv Pete's got that big energy. ",
-  "num_followers": 57160,
+  "description": "B2K's got that big energy. ",
+  "num_followers": 57174,
   "original_name": "Bounce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG8vEQ57S/oTG5xotTxZvb0EeSVt",
+  "snapshot_id": "AAAAAO0O8rYzqDqvn0Pj8mtHJS8loZ8W",
   "tracks": [
+    {
+      "added_at": "2026-10-17 00:13:43",
+      "album": {
+        "name": "Lil Freak",
+        "url": "https://open.spotify.com/album/2mWcr2R2jFzgcBNjCl20dm"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        }
+      ],
+      "duration_ms": 160742,
+      "name": "Lil Freak",
+      "url": "https://open.spotify.com/track/0s5xdk6ueWF2BFhab7tBUn"
+    },
     {
       "added_at": "2026-10-09 04:01:09",
       "album": {
@@ -115,6 +131,22 @@
     {
       "added_at": "2026-10-09 04:01:09",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 284420,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o"
+    },
+    {
+      "added_at": "2026-10-09 04:01:09",
+      "album": {
         "name": "Double Up (Miami Bass Remix)",
         "url": "https://open.spotify.com/album/2T9TdmiRggwtlAs70cYztZ"
       },
@@ -137,20 +169,24 @@
       "url": "https://open.spotify.com/track/7Es1fXTYr762iYXfA9htV3"
     },
     {
-      "added_at": "2026-10-09 04:01:09",
+      "added_at": "2026-10-17 00:13:43",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj"
+        "name": "Off Top (feat. Leila Dey)",
+        "url": "https://open.spotify.com/album/2Ocu7Vh6vGaYbUgQwiVyax"
       },
       "artists": [
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "DJ Agile",
+          "url": "https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed"
+        },
+        {
+          "name": "Leila Dey",
+          "url": "https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp"
         }
       ],
-      "duration_ms": 284420,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o"
+      "duration_ms": 168358,
+      "name": "Off Top (feat. Leila Dey)",
+      "url": "https://open.spotify.com/track/4gDFGQYW7JKS3VGD9bUrFF"
     },
     {
       "added_at": "2026-10-09 04:01:09",
@@ -783,26 +819,6 @@
     {
       "added_at": "2026-10-09 04:01:09",
       "album": {
-        "name": "Which One",
-        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 169134,
-      "name": "Which One (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
-    },
-    {
-      "added_at": "2026-10-09 04:01:09",
-      "album": {
         "name": "Get Motivated ft. jstlbby",
         "url": "https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG"
       },
@@ -935,38 +951,6 @@
       "duration_ms": 207856,
       "name": "get down on it",
       "url": "https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI"
-    },
-    {
-      "added_at": "2026-10-09 04:01:09",
-      "album": {
-        "name": "95 South",
-        "url": "https://open.spotify.com/album/2vq6pGthUZehQCtrToxqYX"
-      },
-      "artists": [
-        {
-          "name": "The Cool Kids",
-          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Sir Michael Rocks",
-          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
-        },
-        {
-          "name": "Chuck Inglish",
-          "url": "https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "95 South",
-      "url": "https://open.spotify.com/track/45Nc6oQkbwLOQ3Os3wTghx"
     }
   ],
   "unique_name": "Bounce",

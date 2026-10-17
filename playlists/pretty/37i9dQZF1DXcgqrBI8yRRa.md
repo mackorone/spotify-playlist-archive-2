@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Trending rn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,280 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,342 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 59 | [OFE NSALA](https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [OFE NSALA](https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi) | 2:10 |
 | 60 | [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 |
 
-Snapshot ID: `AAAAAHOB0KMLwFd7iKoBSHPgWERmdaw5`
+Snapshot ID: `AAAAAHtOn7JJUul1o+lv05bLCMOISbJb`

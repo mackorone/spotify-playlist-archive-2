@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Langa \(Spotify <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,945 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,934 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Team](https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo) | [Team](https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f) | 2:28 |
+| 1 | [Team](https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo), [Bix](https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn) | [Team](https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f) | 2:28 |
 | 2 | [Hier Moet Je Zijn](https://open.spotify.com/track/0QytZ7N8hA0fWvUnzOagGJ) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Hier Moet Je Zijn](https://open.spotify.com/album/3QCVQB39KgOe6phxHC2O3c) | 1:52 |
 | 3 | [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 |
 | 4 | [1 OP 1](https://open.spotify.com/track/2fmkLZl2utQlqGZ7ycLJb1) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |
 | 70 | [Maak Me Niet Heet](https://open.spotify.com/track/0npU90BM992t07Oh3hfaYb) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 3:09 |
 
-Snapshot ID: `AAAAAIy+XdXSrZA9atJGZ0o9NEoKFc5X`
+Snapshot ID: `AAAAAFydoeHM4F9EomAyeeiEaLeCP+Yi`

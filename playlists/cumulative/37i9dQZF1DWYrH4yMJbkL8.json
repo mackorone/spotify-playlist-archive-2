@@ -13439,6 +13439,24 @@
     },
     {
       "album": {
+        "name": "Petcimote Ote",
+        "url": "https://open.spotify.com/album/6bdKzMFTr3D3kynLZLOhxu"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "Petcimote Ote",
+      "url": "https://open.spotify.com/track/5mdKZOm9YtRGGMIsiRKmaJ"
+    },
+    {
+      "album": {
         "name": "Life Is Calling My Name",
         "url": "https://open.spotify.com/album/5IacTLfa0A8B8w4r0LUK6X"
       },
@@ -18000,6 +18018,24 @@
       "duration_ms": 232706,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/2mQocJ9mjee0Qj55RJADTT"
+    },
+    {
+      "album": {
+        "name": "Jeremy Dutcher Trio Live in Japan",
+        "url": "https://open.spotify.com/album/3kWNVH2Yb7KSeL4QdbN9yx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299210,
+      "name": "The Land That Held Them - Live in Japan",
+      "url": "https://open.spotify.com/track/1LUw9CyaC1QC9SdNzX4gAl"
     },
     {
       "album": {

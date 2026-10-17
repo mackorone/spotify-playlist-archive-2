@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,105 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,236 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 49 | [A Summer Place](https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:34 |
 | 50 | [You Always Hurt The One You Love](https://open.spotify.com/track/42og107RMzQPsQUIJBSUbD) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 3:09 |
 
-Snapshot ID: `AAAAAGu49TDvlNckGvpcYrmHmYAVgVq8`
+Snapshot ID: `AAAAAHCkZO556CmkotNkxvCJfpOtxKau`

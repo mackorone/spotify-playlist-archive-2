@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Young Cister is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902,150 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902,023 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PARTY EN CASA](https://open.spotify.com/track/3OjutiddXU6Z5t3xirIYTd) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [PARTY EN CASA](https://open.spotify.com/album/7kACKxVn0ZVY3DKAqlXwlu) | 3:20 |
 | 2 | [50 MIL PIEX](https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 4:04 |
-| 3 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
+| 3 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
 | 4 | [VAMO A VEL](https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [VAMO A VEL](https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI) | 4:00 |
 | 5 | [Jukiar](https://open.spotify.com/track/4vwFOaUnVhK9R6TMmnXKGl) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Jukiar](https://open.spotify.com/album/6Y6UejW92VRsyOlszGLaZU) | 3:08 |
 | 6 | [Ola <3](https://open.spotify.com/track/2AFpFQhm977RUDYPErX0RQ) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/1K6SNXJZd9AdDiUKFGdMw9) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 49 | [AMNESIA](https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [ITALO MIXTAPE VOL\. 3](https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK) | 2:47 |
 | 50 | [Kobe Brray](https://open.spotify.com/track/7l0P7PKi5SjdOyln7vWgN1) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Kobe Brray](https://open.spotify.com/album/2lvkKE5JBo1gYjoc8cFPgu) | 2:38 |
 
-Snapshot ID: `AAAAAPLgCq66vasPpTvJIxbyf/IUAJw8`
+Snapshot ID: `AAAAAIjLJqqqZeya50LJ2rXWLKtHwsaV`

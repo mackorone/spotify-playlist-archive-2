@@ -4,7 +4,7 @@
 
 > A collection of beautiful songs by Indigenous artists\. Cover: Elisapie
 
-1,109 songs - 2 day 17 hr 4 min
+1,111 songs - 2 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Perseverance](https://open.spotify.com/track/3FKDqwZkBNe67km1iZxo8x) | [Northern Cree](https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq) | [Ôskimacîtahowin: A New Beginning](https://open.spotify.com/album/4GfjNENX210Fh5hmsHIRho) | 2:20 | 2024-01-12 | 2024-02-10 |
 | [Peruvian Dream \(Part 2\)](https://open.spotify.com/track/4wJmsExYWKEpxOWnzx2Ocy) | [Willie Dunn](https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6), [Jerry Saddleback](https://open.spotify.com/artist/11bJUSPH1VZtn5NTbFAWjI) | [Native North America \(Vol\. 1\) : Aboriginal Folk, Rock, And Country 1966\-1985](https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen) | 5:33 | 2023-09-08 | 2023-10-21 |
 | [Pesos](https://open.spotify.com/track/4jJzztq6p0TARBUjF2ah8d) | [Pj Vegas](https://open.spotify.com/artist/4oMLCILpjPEjuhdVq1wz0s) | [Pesos](https://open.spotify.com/album/0VMub9qKMt6SXTBL8YfXJK) | 2:01 | 2024-02-09 | 2024-03-09 |
+| [Petcimote Ote](https://open.spotify.com/track/5mdKZOm9YtRGGMIsiRKmaJ) | [Laura Niquay](https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z) | [Petcimote Ote](https://open.spotify.com/album/6bdKzMFTr3D3kynLZLOhxu) | 3:43 | 2026-10-16 |  |
 | [Pickup Truck](https://open.spotify.com/track/6lmHD77pq3BkNmu7v9sDiw) | [Shane Yellowbird](https://open.spotify.com/artist/2t3j0S2yZVeuMS0aBt6Miq) | [Life Is Calling My Name](https://open.spotify.com/album/5IacTLfa0A8B8w4r0LUK6X) | 4:09 | 2023-07-28 | 2023-09-09 |
 | [Pickup Truck](https://open.spotify.com/track/1S7JYQDLO0L225OnLz4yza) | [Shane Yellowbird](https://open.spotify.com/artist/2t3j0S2yZVeuMS0aBt6Miq) | [Life Is Calling My Name](https://open.spotify.com/album/3Vz0gEiqMYkfaop1UpOucD) | 4:11 | 2026-08-14 |  |
 | [Pieces](https://open.spotify.com/track/6LD0gIqdueMxiH3xPDKWRE) | [Leonard Sumner](https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5) | [Thunderbird](https://open.spotify.com/album/404e7x6YmiTvr8fWZCLbII) | 3:13 | 2022-08-12 | 2024-10-10 |
@@ -955,6 +956,7 @@
 | [The Feeling](https://open.spotify.com/track/3eRAXv7i5B15V5eGhpmBUu) | [NEW Horizon.](https://open.spotify.com/artist/2ldnOOE2kIRJZk1z0qg07Z) | [Vol\. 4](https://open.spotify.com/album/5WMuyieRsCMozHzkSjuMFa) | 3:48 | 2025-07-25 | 2025-08-29 |
 | [The Game](https://open.spotify.com/track/6HvYEU4mOdhVS68AxredhA) | [Kelly Fraser](https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW) | [Sedna](https://open.spotify.com/album/31GEU4ydpqEpOLRTlA2TFk) | 2:46 | 2024-08-09 | 2024-09-07 |
 | [The Healer](https://open.spotify.com/track/2mQocJ9mjee0Qj55RJADTT) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:52 | 2023-06-02 | 2024-01-13 |
+| [The Land That Held Them \- Live in Japan](https://open.spotify.com/track/1LUw9CyaC1QC9SdNzX4gAl) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Jeremy Dutcher Trio Live in Japan](https://open.spotify.com/album/3kWNVH2Yb7KSeL4QdbN9yx) | 4:59 | 2026-10-16 |  |
 | [The Language of Fishermen](https://open.spotify.com/track/6dhETCBdu71NZzbC8iQb3m) | [Evan Redsky](https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s) | [The Language Of Fishermen](https://open.spotify.com/album/0CzDwsiTfNekbgvra9sKON) | 4:03 | 2025-11-14 | 2026-01-23 |
 | [The Lucky Ones \- THE LAUNCH](https://open.spotify.com/track/7lHLe9ZyA55dTRWcd6a6Y4) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [The Lucky Ones \(THE LAUNCH\)](https://open.spotify.com/album/75PVMDtjzTkVKJgOXys5z4) | 2:59 | 2024-09-06 | 2024-10-10 |
 | [The Man In Love](https://open.spotify.com/track/1yDAzE81UefB7767FQktZw) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [The Legendary Sun Classics](https://open.spotify.com/album/3NVX14fsKVOBt8mPbUMgwj) | 1:53 | 2026-05-08 |  |

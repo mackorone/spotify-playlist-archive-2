@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Inolvidable Banda Agua De La Llave \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Chiquis \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190767,
       "name": "Alergico Al Amor",
       "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 145562,
       "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
       "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
@@ -628,6 +628,24 @@
       "duration_ms": 149264,
       "name": "Amanec\u00ed Con Ganas",
       "url": "https://open.spotify.com/track/3BMallCxdW0F7JOZPdafQo"
+    },
+    {
+      "album": {
+        "name": "Amar De Verdad",
+        "url": "https://open.spotify.com/album/05C1CBbMRLU8hIIWEiu4W7"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210329,
+      "name": "Amar De Verdad",
+      "url": "https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm"
     },
     {
       "album": {
@@ -3245,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/0G7YY6UdNn7qd6ECZHYBfH"
+      },
+      "artists": [
+        {
+          "name": "Cristian Ciriaco",
+          "url": "https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212787,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
+    },
+    {
+      "album": {
         "name": "Ni Diablo Ni Santo",
         "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
       },
@@ -4054,7 +4090,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 209408,
       "name": "El Cheque",
       "url": "https://open.spotify.com/track/1pu03lHxBYYxZe9BuInz7S"
@@ -4152,6 +4188,24 @@
       "duration_ms": 199125,
       "name": "El Contagio",
       "url": "https://open.spotify.com/track/1RNlQ9Eb06bzOrvwEd0n47"
+    },
+    {
+      "album": {
+        "name": "El Corrido De Zacatecas",
+        "url": "https://open.spotify.com/album/77Ly1dS1mi8GS1SIUz3ckO"
+      },
+      "artists": [
+        {
+          "name": "Banda Autentica de Jerez",
+          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174892,
+      "name": "El Corrido De Zacatecas",
+      "url": "https://open.spotify.com/track/0eS7olHK2jMzJXHMRJ9whx"
     },
     {
       "album": {
@@ -4504,7 +4558,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 133984,
       "name": "El Mando De Los Aretes",
       "url": "https://open.spotify.com/track/6NCTfGA892dpbuc7FjHGnF"
@@ -9193,6 +9247,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Perris",
+        "url": "https://open.spotify.com/album/4Dxoh1BqN03wVod0jum9l9"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185169,
+      "name": "M\u00e1s Perris",
+      "url": "https://open.spotify.com/track/5lqSgMAQiwK54xtinq7KaP"
+    },
+    {
+      "album": {
         "name": "M\u00e9xico M\u00e1gico",
         "url": "https://open.spotify.com/album/1GDqUa6VwlvzKLxXlqf54C"
       },
@@ -9466,7 +9538,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 160605,
       "name": "No He Avanzado Nada",
       "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
@@ -11928,7 +12000,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213777,
       "name": "Reproches Al Viento",
       "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
@@ -12132,6 +12204,28 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
+    },
+    {
+      "album": {
+        "name": "Se Acabaron las Caricias (En Vivo)",
+        "url": "https://open.spotify.com/album/0pXIW8hYYyQxMLYyesfXD3"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        },
+        {
+          "name": "Jorge Luis Cabrera",
+          "url": "https://open.spotify.com/artist/0tSQnyjGOexMSjWFCFxi7q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Se Acabaron las Caricias - En Vivo",
+      "url": "https://open.spotify.com/track/73EzcyVRTPG4qFuzFfOezX"
     },
     {
       "album": {
@@ -14159,6 +14253,24 @@
     },
     {
       "album": {
+        "name": "Todo Pasa Por Algo",
+        "url": "https://open.spotify.com/album/2Ci0O6Uf86Mj0fNwDuygCl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152229,
+      "name": "Todo Pasa Por Algo",
+      "url": "https://open.spotify.com/track/2LuBsc272oGEUiQ9hqEL53"
+    },
+    {
+      "album": {
         "name": "Todo Que Ver",
         "url": "https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV"
       },
@@ -14677,6 +14789,24 @@
     },
     {
       "album": {
+        "name": "Una de 1500",
+        "url": "https://open.spotify.com/album/0TihxKcv6t62OvU7lENT3D"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189701,
+      "name": "Una de 1500",
+      "url": "https://open.spotify.com/track/6Ilsczlw22dSA0EcdNqZro"
+    },
+    {
+      "album": {
         "name": "Puras Pa Pistear Volumen 1",
         "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
       },
@@ -14866,7 +14996,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187434,
       "name": "Vale M\u00e1s Que Reces",
       "url": "https://open.spotify.com/track/03Svr4GkEGdHeB8wTRg8w8"

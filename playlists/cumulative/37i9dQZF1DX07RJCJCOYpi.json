@@ -9769,6 +9769,28 @@
     },
     {
       "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT"
+    },
+    {
+      "album": {
         "name": "Vocation",
         "url": "https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa"
       },

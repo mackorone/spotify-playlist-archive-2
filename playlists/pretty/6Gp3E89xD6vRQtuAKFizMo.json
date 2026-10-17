@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43225,
+  "num_followers": 43222,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa4Aepno+iFRabGe9Oq+8ez+HxBBGc",
+  "snapshot_id": "AAAa5Hb+ph4QOQAKv0OILt/p3qBeJeoa",
   "tracks": [
+    {
+      "added_at": "2026-10-16 16:22:59",
+      "album": {
+        "name": "VOLTAGE",
+        "url": "https://open.spotify.com/album/6NziwvJZ0mbrAxD2SkSaTt"
+      },
+      "artists": [
+        {
+          "name": "MNK",
+          "url": "https://open.spotify.com/artist/0TYdomuRjpH9Am01X437vU"
+        },
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "duration_ms": 175315,
+      "name": "VOLTAGE",
+      "url": "https://open.spotify.com/track/5m2wqzWp0CL3Vfod3do5MG"
+    },
+    {
+      "added_at": "2026-10-16 16:22:35",
+      "album": {
+        "name": "Girls On The Floor",
+        "url": "https://open.spotify.com/album/0si4cKSIIIBl7BGiKTpQTK"
+      },
+      "artists": [
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        },
+        {
+          "name": "HYPRS",
+          "url": "https://open.spotify.com/artist/4amG72ZsjSqS35XJvoTLnH"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "Girls On The Floor",
+      "url": "https://open.spotify.com/track/7B8zDBrodBQU2QoROjkPDz"
+    },
     {
       "added_at": "2026-10-09 04:26:56",
       "album": {

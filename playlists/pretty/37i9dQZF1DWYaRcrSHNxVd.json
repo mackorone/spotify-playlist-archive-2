@@ -1,12 +1,12 @@
 {
   "description": "Songs to skate to.\n",
-  "num_followers": 347413,
+  "num_followers": 347485,
   "original_name": "Skate Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHYtNPva8AawHhMWK2jaoOtdMu6",
+  "snapshot_id": "AAAAAJcdN/k9j0Y1dq4EGim/Fv/2WoK1",
   "tracks": [
     {
       "added_at": "2026-03-19 14:37:15",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-03-19 14:37:15",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
-    },
-    {
-      "added_at": "2026-03-19 14:37:15",
-      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2026-03-19 14:37:15",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "sdp interlude",
+      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
     },
     {
       "added_at": "2026-03-19 14:37:15",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-03-19 14:37:15",
       "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
-    },
-    {
-      "added_at": "2026-03-19 14:37:15",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2026-03-19 14:37:15",
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2026-03-19 14:37:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-03-19 14:37:15",
       "album": {
-        "name": "DS2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "The Percocet & Stripper Joint",
-      "url": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
-    },
-    {
-      "added_at": "2026-03-19 14:37:15",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 227893,
       "name": "Everything I Am",
       "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
+    },
+    {
+      "added_at": "2026-03-19 14:37:15",
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "The Percocet & Stripper Joint",
+      "url": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
     },
     {
       "added_at": "2026-03-19 14:37:15",

@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39610,
+  "num_followers": 39625,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEvqNHRP+d/3rX+sITxU8rYqbd/l",
+  "snapshot_id": "AAAAAP4YeySTtzZDnSV3KDf8FwPRab5G",
   "tracks": [
     {
       "added_at": "2026-09-24 07:16:44",
@@ -871,18 +871,26 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
-        "name": "Punyachi Maina",
-        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
+        "name": "Girlz",
+        "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
       },
       "artists": [
         {
-          "name": "Dj Abhijeet",
-          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        },
+        {
+          "name": "Kavita Raam",
+          "url": "https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS"
+        },
+        {
+          "name": "Mugdha Karhade",
+          "url": "https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b"
         }
       ],
-      "duration_ms": 96052,
-      "name": "Punyachi Maina",
-      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
+      "duration_ms": 216166,
+      "name": "Aaichya Gavat",
+      "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
     }
   ],
   "unique_name": "Marathi Workout",

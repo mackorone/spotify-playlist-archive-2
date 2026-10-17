@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 540155,
+  "num_followers": 540197,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALP/CkmSo0ifVFZOk38lAWfReACn",
+  "snapshot_id": "AAAAAClFCkgtu/ec8GcIh2hpOhWFlY3Z",
   "tracks": [
     {
       "added_at": "2025-11-24 12:49:27",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
-      },
-      "artists": [
-        {
-          "name": "The Fall of Troy",
-          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "F.C.P.R.E.M.I.X.",
-      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 219266,
       "name": "The Artist In The Ambulance",
       "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
+      },
+      "artists": [
+        {
+          "name": "The Fall of Troy",
+          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "F.C.P.R.E.M.I.X.",
+      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "You Can't Spell Slaughter Without Laughter",
-        "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
-      },
-      "artists": [
-        {
-          "name": "I Set My Friends On Fire",
-          "url": "https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Things That Rhyme With Orange",
-      "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "On Letting Go",
         "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 257693,
       "name": "The Difference Between Medicine And Poison Is In The Dose",
       "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "You Can't Spell Slaughter Without Laughter",
+        "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
+      },
+      "artists": [
+        {
+          "name": "I Set My Friends On Fire",
+          "url": "https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Things That Rhyme With Orange",
+      "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "The Days Of The Phoenix",
-      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Juturna",
         "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 200800,
       "name": "Act Appalled",
       "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "The Days Of The Phoenix",
+      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "The New Black",
-      "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "After The Eulogy",
         "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 253440,
       "name": "Rookie",
       "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "The New Black",
+      "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
     },
     {
       "added_at": "2025-11-24 12:49:27",

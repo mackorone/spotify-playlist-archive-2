@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: ROLE MODEL",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: AD\u00c9LA",
   "name": "Pop Live",
   "tracks": [
     {
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 267066,
       "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
       "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
@@ -3046,6 +3046,28 @@
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
+    },
+    {
+      "album": {
+        "name": "Mr. Know It All (Live)",
+        "url": "https://open.spotify.com/album/0ZH2hONdITXSoReKeUIcth"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Freak Freely",
+          "url": "https://open.spotify.com/artist/7hRxXRvEY8a47x6j5j6bUy"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202857,
+      "name": "Mr. Know It All - Live",
+      "url": "https://open.spotify.com/track/0cwHaIBAlI4J3DwSVZU3CO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > BFLQuatro, AangenaamBK, Impy, ENDS en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,319 likes - 80 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,326 likes - 80 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 13 | [Schade](https://open.spotify.com/track/3wsIcNtPMtoxecw2aodQmi) | [Hendriks](https://open.spotify.com/artist/5MXvJOVt68Xblvb81ZL2Ra) | [Schade](https://open.spotify.com/album/73ccKsNUCDVPUzjGDB3Oxr) | 2:56 |
 | 14 | [Way2Deep](https://open.spotify.com/track/28WZP2EKAbbAnaTZsugoJI) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb) | [Way2Deep](https://open.spotify.com/album/2gSoX36hK0w5V3oUqiSKpW) | 2:52 |
 | 15 | [Irri](https://open.spotify.com/track/3GzBS9bL6qKxshzCMhso4N) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5) | [Irri](https://open.spotify.com/album/42OZxvvMtMq5kYNuRfIq82) | 2:08 |
-| 16 | [HAC à DOS](https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU) | [247Loosey](https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH) | [HAC à DOS](https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI) | 2:21 |
+| 16 | [HAC à DOS](https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU) | [247Loosey](https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x) | [HAC à DOS](https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI) | 2:21 |
 | 17 | [NIEMANDNODIG](https://open.spotify.com/track/1q8SdjVKBAOXX46U8OwxDy) | [Genna](https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT) | [NIEMANDNODIG](https://open.spotify.com/album/61rFQEOKqf6DvD0hk60KrE) | 2:22 |
 | 18 | [MOLLY](https://open.spotify.com/track/1rG3dyW8fgfXxIe89LUKG1) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [MOLLY](https://open.spotify.com/album/4FA5LUJAYo9xvQrFaBBTcc) | 3:02 |
 | 19 | [Laatste Traan](https://open.spotify.com/track/22ROusbimwU9qbJkkLinVo) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6), [Shahira](https://open.spotify.com/artist/1nh2Zl6dYA56usVMhNkZgZ) | [Laatste Traan](https://open.spotify.com/album/6KCptbiA0LoR2oGqEH9Xoq) | 2:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 79 | [Ren & Stimpy](https://open.spotify.com/track/0f4ebxJoebCa0CUfSB8UJ0) | [Dada 7x](https://open.spotify.com/artist/3tsm4RW17sqEVfUPjIGb6K) | [Ren & Stimpy](https://open.spotify.com/album/6CWS6wVOHWqbZA1vCi5a6z) | 3:19 |
 | 80 | [DOWN](https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [DOWN](https://open.spotify.com/album/07KHg4MG5lDqA3rWLxDZ2g) | 1:36 |
 
-Snapshot ID: `AAAAAByVBuN2rl4iBCRYhk+ssV15zUx6`
+Snapshot ID: `AAAAACkdgXiCBMyI4rTG7hHWnpLJEvkP`

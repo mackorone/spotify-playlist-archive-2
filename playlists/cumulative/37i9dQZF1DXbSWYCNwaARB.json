@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "<LOVE&POP> pt.2",
+        "url": "https://open.spotify.com/album/4xzONnGPY3wEMHOSsmeJEf"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Andless",
+      "url": "https://open.spotify.com/track/54E6zLaoW4ofXKaXhLVu3G"
+    },
+    {
+      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },

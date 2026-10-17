@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,814 likes - 70 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,940 likes - 70 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 46 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
 | 47 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 | 48 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 |
-| 49 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
-| 50 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
+| 49 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
+| 50 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
 | 51 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 |
 | 52 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 53 | [Euphoric Avenue](https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Macro](https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj) | 3:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
 | 70 | [Señora Chichera](https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Dubamerica](https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX) | 5:36 |
 
-Snapshot ID: `AAAAANFXJNekQ1c0xBMsDx4AN2dsy8RD`
+Snapshot ID: `AAAAAJ79qtpAWqha1cqYO4JGFo/MIyan`

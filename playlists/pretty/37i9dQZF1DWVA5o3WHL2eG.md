@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,694 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,689 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
 | 20 | [ich fühle was, was du nicht siehst](https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [ich fühle was, was du nicht siehst](https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W) | 2:57 |
 | 21 | [Hübsche Männer](https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Hübsche Männer](https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG) | 1:48 |
-| 22 | [Ich versteh es jetzt](https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ich versteh es jetzt](https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr) | 2:35 |
+| 22 | [SOS](https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [SOS](https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj) | 2:17 |
 | 23 | [Audacity](https://open.spotify.com/track/1UUptXuoSwtWIoj76gn0Fn) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:35 |
-| 24 | [SOS](https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [SOS](https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj) | 2:17 |
+| 24 | [Ich versteh es jetzt](https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ich versteh es jetzt](https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr) | 2:35 |
 | 25 | [New Era](https://open.spotify.com/track/0sF1TJMDGYxKvu9pp1JQkQ) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [New Era](https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv) | 3:13 |
 | 26 | [Ich und Ich Selbst](https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS) | [Malina](https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF) | [Ich und Ich Selbst](https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace) | 2:36 |
 | 27 | [Colours](https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Colours](https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp) | 3:02 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 31 | [Le Vol](https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Le Vol](https://open.spotify.com/album/5Qzl6dr6ufoO2LTUVjodsR) | 3:51 |
 | 32 | [Cette fille](https://open.spotify.com/track/2L7ztl8IsIqV8gqT5aC9K6) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Cette fille](https://open.spotify.com/album/0Q6XIIxtQPNCREd3RlA2ks) | 2:42 |
 | 33 | [Again & Again](https://open.spotify.com/track/6skvajckE4Edfz9dF7A9GS) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ) | [Again & Again](https://open.spotify.com/album/6Edcf68syzdUAK2IvwEq7O) | 2:09 |
-| 34 | [Breaking Me](https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Breaking Me](https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy) | 2:37 |
-| 35 | [Neues Leben](https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Typologie eines Lebens](https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB) | 3:01 |
+| 34 | [Neues Leben](https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Typologie eines Lebens](https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB) | 3:01 |
+| 35 | [Breaking Me](https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Breaking Me](https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy) | 2:37 |
 | 36 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
 | 37 | [crocodile tears](https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [crocodile tears](https://open.spotify.com/album/34EWrOMyFRJWTiP3BRtV6o) | 2:50 |
 | 38 | [Save You](https://open.spotify.com/track/0yRy7vY6LV9071w4kS0MCO) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [Save You](https://open.spotify.com/album/6F5GN6Jhh60wjYQ28IIrR9) | 4:09 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/track/5LMrjomC6YqJslM3yjE3Bj) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/album/6qcFf9GgBhfz4NXeT384CK) | 3:09 |
 | 41 | [be something](https://open.spotify.com/track/5uv6ABamjf6Xzjc5Kb2Z3W) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [BODYSCANNER](https://open.spotify.com/album/60qluYjAHDpgyFzVV0gXdG) | 4:54 |
 | 42 | [nebelschwadengrau](https://open.spotify.com/track/3BmSV3De4VMcUpICTFjlFQ) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [nebelschwadengrau](https://open.spotify.com/album/4dfRHYoDIZuCZ5nYfYhbSu) | 3:16 |
-| 43 | [The Pretender](https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Apply Autonomy](https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh) | 3:32 |
-| 44 | [Brombeeren unter Dornen](https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Wenn ich ehrlich bin](https://open.spotify.com/album/5oSiw98KsjZSFc8jxArj6i) | 2:36 |
+| 43 | [Brombeeren unter Dornen](https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Wenn ich ehrlich bin](https://open.spotify.com/album/5oSiw98KsjZSFc8jxArj6i) | 2:36 |
+| 44 | [The Pretender](https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Apply Autonomy](https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh) | 3:32 |
 | 45 | [Kippe danach](https://open.spotify.com/track/1Qibw04eDR9tZu8rwDBU5U) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kippe danach](https://open.spotify.com/album/5jhQj3mNO5bCkGpwMm9GjV) | 2:36 |
-| 46 | [Roter Faden](https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Roter Faden](https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe) | 3:18 |
-| 47 | [Spirit](https://open.spotify.com/track/3JoamIoZCD6RMwmep3nPhF) | [Tamara Wirth](https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI) | [Esoteric Reality EP](https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60) | 6:34 |
-| 48 | [ZWEITAUSENDZWEI](https://open.spotify.com/track/3LJMrvMbnZjSwLV89DzoFn) | [ENNI](https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW) | [ZWEITAUSENDZWEI](https://open.spotify.com/album/1edS9EQKc7RXZenMKLUaN2) | 2:31 |
-| 49 | [Take The Leap](https://open.spotify.com/track/2JDzgjjvHNoOjmEKpvWlSl) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Take The Leap](https://open.spotify.com/album/1oGZgAfnCjyROiwakn7MiE) | 3:11 |
+| 46 | [Spirit](https://open.spotify.com/track/3JoamIoZCD6RMwmep3nPhF) | [Tamara Wirth](https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI) | [Esoteric Reality EP](https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60) | 6:34 |
+| 47 | [Roter Faden](https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Roter Faden](https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe) | 3:18 |
+| 48 | [Take The Leap](https://open.spotify.com/track/2JDzgjjvHNoOjmEKpvWlSl) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Take The Leap](https://open.spotify.com/album/1oGZgAfnCjyROiwakn7MiE) | 3:11 |
+| 49 | [ZWEITAUSENDZWEI](https://open.spotify.com/track/3LJMrvMbnZjSwLV89DzoFn) | [ENNI](https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW) | [ZWEITAUSENDZWEI](https://open.spotify.com/album/1edS9EQKc7RXZenMKLUaN2) | 2:31 |
 | 50 | [Brauch Dich Nicht](https://open.spotify.com/track/1Um35IfeTi2tQw1TIavJaK) | [VANY](https://open.spotify.com/artist/438hcLBzFiTYwOffWeBkWj) | [Brauch Dich Nicht](https://open.spotify.com/album/5rIz3jjk5GPUBvPuuhPYsF) | 2:50 |
 
-Snapshot ID: `AAAAANKrP5gPihJBVkqep2mn13W2cHEU`
+Snapshot ID: `AAAAAFQ4OaZn6YQO6brCtFzmpqD77Xl5`

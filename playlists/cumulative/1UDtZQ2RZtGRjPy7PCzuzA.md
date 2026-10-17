@@ -4,7 +4,7 @@
 
 > 
 
-2,198 songs - 5 day 7 hr 7 min
+2,199 songs - 5 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2112,6 +2112,7 @@
 | [Whip It Up](https://open.spotify.com/track/3QIxJ9Ef3voU8DdOKDQA4p) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3mF2k0Aa9czJf0WsX5fFUh) | 2:10 | 2026-05-05 |  |
 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2025-12-31 |  |
 | [White Horse](https://open.spotify.com/track/5yKB8qcTSflDercM2PXwot) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 3:54 | 2025-05-31 |  |
+| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-10-16 |  |
 | [white xmas](https://open.spotify.com/track/7g5DlwyMdGDvcExDg5H2BA) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:26 | 2023-11-17 | 2026-05-30 |
 | [Who Lives, Who Dies, Who Tells Your Story](https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:37 | 2024-07-13 |  |
 | [Who Said](https://open.spotify.com/track/62vwAuRxiRQ4EmoQZaqCHX) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:43 | 2026-09-12 |  |

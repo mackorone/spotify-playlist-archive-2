@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,052 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,065 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 44 | [Shark Ethic](https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV) | 3:40 |
 | 45 | [Blindfold](https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq) | [Indecision](https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM) | [Unorthodox](https://open.spotify.com/album/43x6i9LnpamFuzgOguORon) | 1:48 |
 | 46 | [Firestorm](https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [1991\-2001 \(Forever True\)](https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H) | 3:51 |
-| 47 | [Here to Stay](https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 2:24 |
+| 47 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
 | 48 | [Blistered](https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 2:27 |
 | 49 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
 | 50 | [Hail Destroyer](https://open.spotify.com/track/6ltuf6egc9J496H2JyvSq7) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/5IgBHly6pTFCWxFoHr6DqU) | 3:16 |
 
-Snapshot ID: `AAAAAI+3tbT6ag5q75WEtUNHvq+HdybE`
+Snapshot ID: `AAAAAH9IHE3D8U5dfHjXa+N2HnEOiF82`

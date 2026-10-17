@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Las favoritas de los patrones. Arley P\u00e9rez en portada.",
+  "description": "Las favoritas de los patrones. Alem\u00ed Bustos en portada.",
   "name": "Corridos Chakalosos",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 199017,
       "name": "Alfredito Beltran",
       "url": "https://open.spotify.com/track/3vvDBex51GoTyVImRySZVj"
@@ -246,6 +246,24 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "album": {
+        "name": "Arriba la Seriesada",
+        "url": "https://open.spotify.com/album/1a19Bb715RBlYwlzuiYfWC"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159027,
+      "name": "Arriba la Seriesada",
+      "url": "https://open.spotify.com/track/4psiCRwWpM1jMgWKsxq7gR"
     },
     {
       "album": {
@@ -646,7 +664,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 171322,
       "name": "CDN",
       "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 157500,
       "name": "Cholo 7",
       "url": "https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq"
@@ -984,10 +1002,32 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 175515,
       "name": "Compton",
       "url": "https://open.spotify.com/track/26d4MdcZ4la9pwDQjOW4H3"
+    },
+    {
+      "album": {
+        "name": "Corrido De Chimal (En Vivo)",
+        "url": "https://open.spotify.com/album/0KegLmKvqAzuVQcE8XyDEi"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        },
+        {
+          "name": "Los Rayos De Mexicali",
+          "url": "https://open.spotify.com/artist/6HGdCgGxBuXFOR9sHaqC1w"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Corrido De Chimal - En Vivo",
+      "url": "https://open.spotify.com/track/1xebUMJQFOebfVocSsm6k2"
     },
     {
       "album": {
@@ -1002,7 +1042,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206461,
       "name": "David De Los Acme",
       "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
@@ -1144,7 +1184,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 182896,
       "name": "Delta",
       "url": "https://open.spotify.com/track/0E3e4EZKheJbBbisNcSR1c"
@@ -1376,7 +1416,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176066,
       "name": "El 04",
       "url": "https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw"
@@ -1530,7 +1570,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 247944,
       "name": "El 7 Tito Beltr\u00e1n",
       "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
@@ -1548,7 +1588,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 188999,
       "name": "El 90 Menor",
       "url": "https://open.spotify.com/track/397Y4fmU5NK4nKPgtX5Hun"
@@ -1588,7 +1628,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 222743,
       "name": "EL AGUACATE",
       "url": "https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s"
@@ -1740,7 +1780,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 142435,
       "name": "El Capo",
       "url": "https://open.spotify.com/track/1G6UuYgVNFi54L0wXQfMhO"
@@ -2048,7 +2088,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 226944,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
@@ -2172,7 +2212,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 222757,
       "name": "El Felino",
       "url": "https://open.spotify.com/track/0Wa3Es8GUOAqbTLq25t7Lc"
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 143263,
       "name": "El Guerrillero",
       "url": "https://open.spotify.com/track/4AAEYgoLtaYan4S9tk3gw5"
@@ -2502,7 +2542,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 191146,
       "name": "El Jessy",
       "url": "https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2"
@@ -2538,7 +2578,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 216125,
       "name": "El Joven Marcial",
       "url": "https://open.spotify.com/track/6KF1RCq07lYMTFf4rm8nad"
@@ -2698,7 +2738,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 154352,
       "name": "El Muchacho de la Barba",
       "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
@@ -2742,7 +2782,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158256,
       "name": "El MZ",
       "url": "https://open.spotify.com/track/4psEpQw9DE6obSR22aGPh9"
@@ -2888,7 +2928,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 189760,
       "name": "El Papas Fries",
       "url": "https://open.spotify.com/track/3ZEA2pABY0I96ThGiv1k44"
@@ -2914,7 +2954,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 154948,
       "name": "El Pato Nada",
       "url": "https://open.spotify.com/track/5VAgX7bB4WFZWTIOdmlwLm"
@@ -3107,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "El Refinado",
+        "url": "https://open.spotify.com/album/6s8rxyqHQOhYL3guAD1q8Z"
+      },
+      "artists": [
+        {
+          "name": "Pablito Osorio",
+          "url": "https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "El Refinado",
+      "url": "https://open.spotify.com/track/7lHYGNQMwyvXEbLogOK23u"
+    },
+    {
+      "album": {
         "name": "EL RELOJITO",
         "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
       },
@@ -3286,7 +3344,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 254574,
       "name": "El Tridente",
       "url": "https://open.spotify.com/track/1bmUugYG02gffIeviNQguI"
@@ -3526,7 +3584,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158493,
       "name": "EXOTIC\u00d3N",
       "url": "https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw"
@@ -3810,7 +3868,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 136544,
       "name": "Isidro Mi Nombre",
       "url": "https://open.spotify.com/track/1AJUETPhTAuNcZ9XWSLsoh"
@@ -3882,7 +3940,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218099,
       "name": "Javi 28",
       "url": "https://open.spotify.com/track/1apRKhU6Fs8MOyqbJkcj5v"
@@ -4238,7 +4296,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 144979,
       "name": "La Gente De Durango",
       "url": "https://open.spotify.com/track/5SoFa549wQYFrsj7fxyyFh"
@@ -4358,7 +4416,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 168304,
       "name": "La Segunda Letra",
       "url": "https://open.spotify.com/track/3Thvmerj0JCGMmDocrppbj"
@@ -5102,7 +5160,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 167402,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
@@ -6263,6 +6321,24 @@
     },
     {
       "album": {
+        "name": "Tierra De Los Cabrera",
+        "url": "https://open.spotify.com/album/3XifPFeNZGgSuWCEu24T17"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166169,
+      "name": "Tierra De Los Cabrera",
+      "url": "https://open.spotify.com/track/1X5Qv1lduDAysYBpL0woOu"
+    },
+    {
+      "album": {
         "name": "Toca Batear",
         "url": "https://open.spotify.com/album/7hNK4GPqNuEYvcX0s1SLnT"
       },
@@ -6394,7 +6470,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 148522,
       "name": "Un Antes y Un Despu\u00e9s",
       "url": "https://open.spotify.com/track/6B6qzSyFwkF1xV8t2zHpOP"
@@ -6434,7 +6510,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 179492,
       "name": "Versos de Nazario",
       "url": "https://open.spotify.com/track/0tyPhCyOtvbf3ApfRWqHfl"

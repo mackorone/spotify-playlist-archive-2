@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 705323,
+  "num_followers": 705388,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYTVurKQ/GTd6aYa+opesqugBWH",
+  "snapshot_id": "AAAAAKkZ0Wy3pBRB2F+KXuCCIcg7jWoh",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob"
     },
     {
-      "added_at": "2023-01-11 15:25:58",
-      "album": {
-        "name": "Forgotten 90's Alternative",
-        "url": "https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT"
-      },
-      "artists": [
-        {
-          "name": "Adorable",
-          "url": "https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv"
-        }
-      ],
-      "duration_ms": 305387,
-      "name": "Sunshine Smile",
-      "url": "https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Loveless",
@@ -527,6 +511,22 @@
       "duration_ms": 319226,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+    },
+    {
+      "added_at": "2023-01-11 15:25:58",
+      "album": {
+        "name": "Forgotten 90's Alternative",
+        "url": "https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT"
+      },
+      "artists": [
+        {
+          "name": "Adorable",
+          "url": "https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv"
+        }
+      ],
+      "duration_ms": 305387,
+      "name": "Sunshine Smile",
+      "url": "https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "return",
-        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 122752,
-      "name": "flip",
-      "url": "https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "m b v",
@@ -607,6 +591,22 @@
       "duration_ms": 330906,
       "name": "in another way",
       "url": "https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "return",
+        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 122752,
+      "name": "flip",
+      "url": "https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dead Cities, Red Seas & Lost Ghosts",
-        "url": "https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Run Into Flowers",
-      "url": "https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dead Cities, Red Seas & Lost Ghosts",
+        "url": "https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Run Into Flowers",
+      "url": "https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
-      },
-      "artists": [
-        {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Long Holiday",
-      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Back to Land",
         "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 318560,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+      },
+      "artists": [
+        {
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Long Holiday",
+      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Blue Line Baby",
+        "url": "https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 270918,
       "name": "Sugar for the Pill",
       "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Blue Line Baby",
-        "url": "https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U"
     },
     {
       "added_at": "2021-06-03 02:39:04",

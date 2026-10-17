@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141280,
+      "name": "C-1",
+      "url": "https://open.spotify.com/track/4QlsJhb8vqR4DnoEoNUZ1k"
+    },
+    {
+      "album": {
         "name": "Cabron Yo Puedo",
         "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187240,
       "name": "Casquillos De Mi Cuerno",
       "url": "https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa"
@@ -1665,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Corridos Ke Mandan",
+        "url": "https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Cristaleros Michoacanos - Banda",
+      "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde el Hangar",
         "url": "https://open.spotify.com/album/1C9TBlicNWqtn9FnIVeabt"
       },
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201367,
       "name": "Cuando No Estas Conmigo",
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
@@ -2092,7 +2128,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 188450,
       "name": "De Su Vida Me Ir\u00e9",
       "url": "https://open.spotify.com/track/2o1xzYqSsLMHzCVPdoasbT"
@@ -3554,6 +3590,24 @@
       "duration_ms": 176700,
       "name": "El Tarachi",
       "url": "https://open.spotify.com/track/1GOoInDuc7fLTDYLaKP8hN"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147520,
+      "name": "El Terr\u00f3n",
+      "url": "https://open.spotify.com/track/2VQ66m1O2NELSZ5d5a4aMQ"
     },
     {
       "album": {
@@ -5560,7 +5614,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166900,
       "name": "Le\u00f1a De Pirul",
       "url": "https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y"
@@ -6530,7 +6584,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 266150,
       "name": "MIS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J"
@@ -7493,6 +7547,24 @@
     },
     {
       "album": {
+        "name": "Tributo A Chalino S\u00e1nchez",
+        "url": "https://open.spotify.com/album/6TYxG0qGRb9n7xODWYEfWd"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158546,
+      "name": "Pescadores De Ensenada",
+      "url": "https://open.spotify.com/track/25b1wDkGKQpKuATJpdXv8N"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o Y Realidad",
         "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
       },
@@ -8074,6 +8146,24 @@
       "duration_ms": 266794,
       "name": "Quererte Jam\u00e1s",
       "url": "https://open.spotify.com/track/5fJripoipdaljU9HbCl3JH"
+    },
+    {
+      "album": {
+        "name": "Plaza Nueva",
+        "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215426,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/4uaVCoRT6DA2tvw2OAY04n"
     },
     {
       "album": {
@@ -10746,6 +10836,24 @@
       "duration_ms": 200849,
       "name": "Ya Nos Va Mejor",
       "url": "https://open.spotify.com/track/6OXp9rUM32eWH8nd9TPDBp"
+    },
+    {
+      "album": {
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/390lbrBqhZnfff1J5guKzR"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Ya Que Met\u00ed la Pata",
+      "url": "https://open.spotify.com/track/0aDWHZnSetAoBeIiPWl38K"
     },
     {
       "album": {

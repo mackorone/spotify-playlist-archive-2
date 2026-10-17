@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Riley Green
+> Trending for a reason \- the home of country's future monster hits\. Cover: Lainey Wilson
 
-721 songs - 1 day 15 hr 9 min
+723 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-21 | 2024-08-10 |
 | [I Can Run](https://open.spotify.com/track/6n5fYSmXOs9NKPxvAEWSos) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 3:45 | 2024-06-21 | 2024-11-16 |
 | [I Can't Love You Any More](https://open.spotify.com/track/3Sm47s5VbZs7cHzEdqC4Tc) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Midtown Diaries](https://open.spotify.com/album/50zMs3AwxduoOoQoN17955) | 3:14 | 2021-12-17 | 2022-03-26 |
-| [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 | 2026-05-01 |  |
+| [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 | 2026-05-01 | 2026-10-17 |
 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 | 2021-12-17 | 2022-02-19 |
 | [I Don’t Smoke](https://open.spotify.com/track/4Qp7t5e0oDrYbdgOaLLpOt) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am \(Repack\)](https://open.spotify.com/album/3D6sOqU3M5mTEX8o7DFFSw) | 3:00 | 2022-02-18 | 2022-07-23 |
 | [I Found You](https://open.spotify.com/track/5XSwZlJnAceZ0Gb057vbol) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Found You](https://open.spotify.com/album/1Jjv7LOTu05PDBTWufIi81) | 3:26 | 2022-09-30 | 2023-05-06 |
@@ -339,6 +339,7 @@
 | [In Case You Missed It](https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [In Case You Missed It](https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1) | 2:45 | 2025-04-18 | 2025-08-02 |
 | [In Loving Melody](https://open.spotify.com/track/6cxaI4HZgh9JpDKnzX8qQd) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Dustpiles](https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo) | 3:23 | 2026-08-14 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-04 | 2024-04-06 |
+| [Indebted](https://open.spotify.com/track/1aHyyc7V0M3CdkVeaWSAkP) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Long Life Living for a Lover Boy](https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8) | 4:17 | 2026-10-16 |  |
 | [Independent With You](https://open.spotify.com/track/3e90277REF5UJoUrZQPnIY) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Independent With You](https://open.spotify.com/album/3KXIuxq6GgclGOfde5I0mK) | 2:42 | 2022-05-13 | 2022-10-02 |
 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 | 2024-05-10 | 2024-10-12 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-06 | 2025-07-26 |
@@ -357,6 +358,7 @@
 | [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-07-25 | 2026-03-14 |
 | [Key to Life](https://open.spotify.com/track/2Mt1eUJXN4QMeH6hh0rpUr) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Pronounced BEAR](https://open.spotify.com/album/7cNdBHLEbwYGakUYG6GbUa) | 3:15 | 2022-01-21 | 2022-05-14 |
 | [Key West & Colorado](https://open.spotify.com/track/0K9q7Z82z3BygBWznLCqXL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Key West & Colorado](https://open.spotify.com/album/0FDFEgqvnVxMw84e9xgNEL) | 3:26 | 2022-08-19 | 2023-06-24 |
+| [Kinda Love It](https://open.spotify.com/track/49uiGJL2F4Nj56cCLCQG4W) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Kinda Love It](https://open.spotify.com/album/1m3Jun2PjCQAOL72bBExnT) | 3:27 | 2026-10-16 |  |
 | [Land](https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Land](https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr) | 3:23 | 2026-05-29 | 2026-09-19 |
 | [Lasso](https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Lasso](https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc) | 2:09 | 2025-05-02 | 2025-10-11 |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-24 | 2024-02-03 |
@@ -649,7 +651,7 @@
 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-30 | 2024-12-07 |
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-06-07 | 2025-03-15 |
 | [Wannabe](https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wannabe](https://open.spotify.com/album/0pXgJekW0XCYpsXpmEkht2) | 2:30 | 2026-04-24 | 2026-08-22 |
-| [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 | 2026-07-31 |  |
+| [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 | 2026-07-31 | 2026-10-17 |
 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-03-18 | 2022-05-14 |
 | [Wasting All These Tears](https://open.spotify.com/track/4flWHSLV6ut0sPu0nQ1lCE) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/3ZGKM41lZMynyRwVgGPmez) | 3:15 | 2023-04-14 | 2024-04-06 |
 | [Watching You 2.0](https://open.spotify.com/track/5mMzJ5hJop4tKupdj2Dr21) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Elijah Atkins](https://open.spotify.com/artist/0huQrXy37wUDkKQoLYWDpy) | [Watching You 2.0](https://open.spotify.com/album/4nsgUzxtmoSjDJXG3XJ8E9) | 3:57 | 2025-05-30 | 2025-07-05 |

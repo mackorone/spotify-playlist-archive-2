@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe tijdloze muziek. Cover: Teddy Swims",
-  "num_followers": 446188,
+  "num_followers": 446163,
   "original_name": "Altijd Goed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgXZ/puBFzYrlJGdmxbeIk4XAv+",
+  "snapshot_id": "AAAAAGJe7gcYWyGm5mDsXkuQBwXKoKp9",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:29",
@@ -55,6 +55,26 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-10-15 22:00:29",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-15 22:00:29",
@@ -200,8 +220,8 @@
           "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 197822,
+      "name": "Don't Say It",
       "url": "https://open.spotify.com/track/5DrChTVsNNFMbRYsalIh4y"
     },
     {

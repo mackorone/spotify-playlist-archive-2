@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,910 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,953 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 49 | [Safety Belt](https://open.spotify.com/track/3bd3f5BXwLs2p7kRHY5a8j) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Kalawa Jazmee Classics: Thebe, The Top Dawg](https://open.spotify.com/album/0PSKT9iKGBHpTxJ5IdDjl0) | 4:15 |
 | 50 | [Skangkgata](https://open.spotify.com/track/70e5LboOZBwRrbwZb36ISE) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Tempy Life](https://open.spotify.com/album/6QLge9AA2UY7zgR7DNtaUN) | 4:23 |
 
-Snapshot ID: `AAAAAIusbe1ZbMnOs1HLQdHgp2szrja1`
+Snapshot ID: `AAAAADpXJ4v6QeWIU9UDhNO20GBWHwZB`

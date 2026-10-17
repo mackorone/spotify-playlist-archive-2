@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 71 | [Te Necesito](https://open.spotify.com/track/5x5kN5Qx1zptllSZV42jfh) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:55 |
 | 72 | [Fantasía](https://open.spotify.com/track/40rXWke6SnXiGkSmaT8ZUr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:55 |
 | 73 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
-| 74 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
-| 75 | [Supuestamente](https://open.spotify.com/track/1ZBU5DSoYQwaZVgep6pfn2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:18 |
+| 74 | [Supuestamente](https://open.spotify.com/track/1ZBU5DSoYQwaZVgep6pfn2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:18 |
+| 75 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
 | 76 | [Victoria](https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Victoria](https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58) | 3:43 |
 | 77 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
 | 78 | [Controla](https://open.spotify.com/track/5nLD8KconUyMSZ6jDeDkka) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Controla](https://open.spotify.com/album/3OWhDiU7fyirftPglyJPkQ) | 3:28 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 223 | [bad guy / Taki Taki \- X Factor Recording](https://open.spotify.com/track/1Rv2K9eIcpL2ELwcmXIZn0) | [V5](https://open.spotify.com/artist/1roSWM1RIG9K5RzA9Kde42) | [bad guy / Taki Taki \(X Factor Recording\)](https://open.spotify.com/album/1sjDnvyBzs92Pz1KMXbPhb) | 2:36 |
 | 224 | [Arrástratre](https://open.spotify.com/track/0GqjbBwlMlVmL46UuEHfn3) | [Naldo](https://open.spotify.com/artist/6DRt41Pol3BrSYwsbiO3Fo), [Negro 3Mil](https://open.spotify.com/artist/3YeAwK3vA1KBV6MMH0U2yH) | [Sangre Nueva 2](https://open.spotify.com/album/0mHhTsYHn8VBPpong8vcQv) | 4:21 |
 
-Snapshot ID: `AcfCkgAAAACApvyJOQljVyj8H1SgJKRq`
+Snapshot ID: `AcfIMgAAAADdXbJUJLDxC/gP4cGGLuRe`

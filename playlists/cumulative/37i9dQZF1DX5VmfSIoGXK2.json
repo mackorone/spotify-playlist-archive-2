@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond \ud83c\udf0e featuring Dublon",
+  "description": "the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond \ud83c\udf1e featuring B\u00e5rd Berg",
   "name": "Jazz House",
   "tracks": [
     {
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218389,
       "name": "freedom",
       "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
@@ -2737,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Langt Langt Borte",
+        "url": "https://open.spotify.com/album/5vUr2ZOqCy10uXQw91E2xo"
+      },
+      "artists": [
+        {
+          "name": "B\u00e5rd Berg",
+          "url": "https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260823,
+      "name": "Langt Langt Borte",
+      "url": "https://open.spotify.com/track/0sn7xBlZMxUjdQe4uWNUh1"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/0qXcnkrQb1VAkRSFCoNagG"
       },
@@ -2898,6 +2916,24 @@
       "duration_ms": 234105,
       "name": "Love is Here",
       "url": "https://open.spotify.com/track/6HLEYfLDzrhy720GRlQ5sA"
+    },
+    {
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/54HrjTJa25YQY979EU5j0A"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350655,
+      "name": "Love is Here - Club Mix",
+      "url": "https://open.spotify.com/track/2u8EHkjT0MDQ4ZwmWoLV0S"
     },
     {
       "album": {
@@ -4361,6 +4397,28 @@
     },
     {
       "album": {
+        "name": "Sax Track",
+        "url": "https://open.spotify.com/album/05OI5HSR5RtKe4N0s1vDXE"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "Cyan Lu",
+          "url": "https://open.spotify.com/artist/7iEZxg7glVG3AzqMIkpEYg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314892,
+      "name": "Sax Track",
+      "url": "https://open.spotify.com/track/7qhVqs4kdA7CBHiurhd6Mk"
+    },
+    {
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6TCm6IHzYsuPIsH52F9a42"
       },
@@ -4376,7 +4434,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 199379,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/72isHTzdTf3GcFkBcsT0i4"
@@ -4456,7 +4514,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 219116,
       "name": "Shed a Tear",
       "url": "https://open.spotify.com/track/0hjy7BKQQOpSyJ5Zbq1po6"

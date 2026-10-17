@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Cloonee",
+  "description": "The world's biggest dance & electronic hits. Cover: Sara Landry",
   "name": "mint",
   "tracks": [
     {
@@ -5552,7 +5552,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 262170,
       "name": "Comes and Goes",
       "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
@@ -8588,7 +8588,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156428,
       "name": "Electrify",
       "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
@@ -9475,6 +9475,28 @@
     },
     {
       "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "album": {
         "name": "Lost, Found & Forgotten...",
         "url": "https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2"
       },
@@ -9556,6 +9578,28 @@
       "duration_ms": 158769,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "album": {
+        "name": "Divine Intervention",
+        "url": "https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287933,
+      "name": "Feel 4 U (feat. Saint Monet)",
+      "url": "https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"
     },
     {
       "album": {
@@ -9790,6 +9834,28 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
     },
     {
       "album": {
@@ -10771,6 +10837,28 @@
     },
     {
       "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
+    },
+    {
+      "album": {
         "name": "Friction",
         "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
       },
@@ -11254,7 +11342,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 372480,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
@@ -15200,7 +15288,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 210923,
       "name": "In This Bih'",
       "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
@@ -16832,7 +16920,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198772,
       "name": "Leaving (feat. Tristan Henry)",
       "url": "https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo"
@@ -20217,6 +20305,32 @@
     },
     {
       "album": {
+        "name": "Movement EP",
+        "url": "https://open.spotify.com/album/1TELAVQkMosWbsgwWJTiVf"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5ykLR5Vvk8BmajyW6duOf5"
+    },
+    {
+      "album": {
         "name": "Move & Flow",
         "url": "https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK"
       },
@@ -22948,6 +23062,24 @@
       "duration_ms": 159666,
       "name": "Out Of My Body (feat. EJAE)",
       "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
+    },
+    {
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/2butoupcYhsMrCOWpM54nw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR"
     },
     {
       "album": {
@@ -26643,6 +26775,28 @@
     },
     {
       "album": {
+        "name": "Sentimental Ultra",
+        "url": "https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Sentimental Ultra",
+      "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
+    },
+    {
+      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -27592,7 +27746,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201296,
       "name": "Silver Lines (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
@@ -27680,6 +27834,28 @@
       "duration_ms": 151520,
       "name": "Skip",
       "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
+    },
+    {
+      "album": {
+        "name": "Slipping Away",
+        "url": "https://open.spotify.com/album/7EXVGfPuGsVuqkEjVIdZak"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259459,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/2nbye27S8Nv1JSrmxl1Ycf"
     },
     {
       "album": {
@@ -27892,7 +28068,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 179500,
       "name": "So Many Things To Say",
       "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
@@ -29710,7 +29886,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201557,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
@@ -31254,6 +31430,32 @@
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
+    },
+    {
+      "album": {
+        "name": "Think of You",
+        "url": "https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204884,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
     },
     {
       "album": {
@@ -33472,7 +33674,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 189398,
       "name": "What A Life (feat. Florence Arman)",
       "url": "https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,359 likes - 120 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,443 likes - 120 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 119 | [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 |
 | 120 | [Finally](https://open.spotify.com/track/2KvGd7HRj5IjbnXg0bA4gr) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r), [Minstrel Peace](https://open.spotify.com/artist/5iogUTW4sd2cwohdDYv2nm), [Zinny D'more](https://open.spotify.com/artist/6Ryr0ua2vnXgl6UHnwSfyX) | [In Christ We Trust \(The Album\)](https://open.spotify.com/album/5QUHx6GQGZgtoQEj2RNy4g) | 2:24 |
 
-Snapshot ID: `AAAAALDa0f2N9ZvT0LM3MiHe8PsONFGM`
+Snapshot ID: `AAAAAF9vJZQIQ322fSOV8qo0gezGESl3`

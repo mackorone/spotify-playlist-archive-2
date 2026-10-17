@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "Blue Alchemy",
+        "url": "https://open.spotify.com/album/14l4lt67zgEYveD4olBc52"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        },
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179041,
+      "name": "Girls' Girl",
+      "url": "https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk"
+    },
+    {
+      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },

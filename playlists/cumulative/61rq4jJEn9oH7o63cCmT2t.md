@@ -4,7 +4,7 @@
 
 > I am horrifically aware of my spine
 
-73 songs - 4 hr 4 min
+74 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 | 2024-09-16 | 2024-12-08 |
 | [Jam Eater Blues](https://open.spotify.com/track/7Ai1XcLGYp3XHvdnG9QLhO) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jam Eater Blues](https://open.spotify.com/album/50BmgetAf64rSs8oFunijs) | 3:10 | 2024-11-10 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2023-06-03 |  |
+| [Living Lo\-Fi](https://open.spotify.com/track/3YCLqUEnvuOcIv3pRx0AXY) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Middle Spoon](https://open.spotify.com/album/2I66US2IlW5AVBgiIMCSIg) | 2:54 | 2026-10-17 |  |
 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-05 |  |
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2024-09-19 |  |
 | [Moonsickness](https://open.spotify.com/track/4lOEGaLwY4yN2WFfGIq2Tr) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 5:14 | 2024-01-17 |  |

@@ -4,11 +4,12 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-229 songs - 13 hr 24 min
+232 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 Hours](https://open.spotify.com/track/3DJOR1jYuKOrgu2B3ROIWK) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd) | 3:26 | 2026-04-10 |  |
+| [Adem Uit Adem In](https://open.spotify.com/track/46jmrLsm5R65DtFErMIQy8) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Adem Uit Adem In](https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj) | 2:47 | 2026-10-16 |  |
 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 | 2025-07-04 | 2025-09-13 |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-07-04 | 2025-09-13 |
 | [all i need](https://open.spotify.com/track/449zwwLd5mT6AmRZMFJC96) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [all i need](https://open.spotify.com/album/1gK0aKOhqwRRASeRhD2hRQ) | 3:33 | 2025-07-04 | 2026-02-18 |
@@ -42,6 +43,7 @@
 | [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 | 2025-10-31 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-07-04 | 2026-02-18 |
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2025-07-04 | 2025-11-08 |
+| [Canção Pra Dois](https://open.spotify.com/track/0RVRvmYO2IBv96Y9Qf3JrC) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [Semitrópico](https://open.spotify.com/album/1xiZNq2nKPwevEr6J4OPjJ) | 4:14 | 2026-10-16 |  |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-07-04 | 2026-07-04 |
 | [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 | 2026-08-21 |  |
 | [Cowboy](https://open.spotify.com/track/1j6NNt6UDZVjrjijLFTKc7) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:04 | 2026-10-02 |  |
@@ -212,6 +214,7 @@
 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 | 2026-02-19 | 2026-06-19 |
 | [Turbulentie](https://open.spotify.com/track/01IWBNOH5JcGbLbafHHJqr) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Turbulentie](https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh) | 3:01 | 2025-07-04 | 2026-01-15 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-07-04 |  |
+| [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 | 2026-10-16 |  |
 | [Vampire Bat](https://open.spotify.com/track/2CPIpG09HlF32VnpgIObGj) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/6IkkusO0kzVnUDME4dTmdY) | 3:26 | 2025-08-08 | 2025-10-11 |
 | [Waar Ben Jij](https://open.spotify.com/track/5MfppCV3LbvXdQV6UXx7Xp) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Waar Ben Jij](https://open.spotify.com/album/6hlHpnyjty0fwvPT3Ro7Fp) | 3:43 | 2026-05-08 | 2026-06-19 |
 | [Wacht Op Mij](https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wacht Op Mij](https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV) | 3:06 | 2025-10-10 |  |

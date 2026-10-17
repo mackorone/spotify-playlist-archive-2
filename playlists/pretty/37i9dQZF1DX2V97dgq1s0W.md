@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The voices shaping R&B\. Cover: Nao
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,584 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,602 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 69 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
 | 70 | [Price Of It All](https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Price Of It All \(Music From the Original Series "Bait"\)](https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96) | 3:04 |
 
-Snapshot ID: `AAAAAPpqvztmizyBst1cTpdwTytQza5J`
+Snapshot ID: `AAAAAH+LpvrE8HrcpD/8ObIxqzSqSCvV`

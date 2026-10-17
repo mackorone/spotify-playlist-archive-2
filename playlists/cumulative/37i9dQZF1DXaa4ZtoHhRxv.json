@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Diplo",
+  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Kygo & Ava Max",
   "name": "Country EDM",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 123221,
       "name": "Amarillo By Morning - Club Version",
       "url": "https://open.spotify.com/track/6FFo67DrQZyzoBtybGcbUL"
@@ -358,6 +358,28 @@
       "duration_ms": 164241,
       "name": "Beautiful Drug (feat. Avicii) - Remix",
       "url": "https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck"
+    },
+    {
+      "album": {
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
     },
     {
       "album": {
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 308876,
       "name": "Jolene - Destructo Remix",
       "url": "https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE"
@@ -4703,6 +4725,28 @@
     },
     {
       "album": {
+        "name": "Spirits (MC4D Version)",
+        "url": "https://open.spotify.com/album/6CU1SYn96Z69SKAyDkygKa"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239142,
+      "name": "Spirits (MC4D Version)",
+      "url": "https://open.spotify.com/track/3ezlSJ1x6REwzPP3Gf2UxX"
+    },
+    {
+      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -5598,7 +5642,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 150337,
       "name": "Wagon Wheel - Club Version",
       "url": "https://open.spotify.com/track/2JwzWdbX2WmUDWW1brxm06"

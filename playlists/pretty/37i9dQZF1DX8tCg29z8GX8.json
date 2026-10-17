@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 22085,
+  "num_followers": 22097,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAATqwyubKJ3Pap5crGuLhO2flFKj",
+  "snapshot_id": "AAAAAOErRNQiLWOFAKSUGcYRWcYER7eA",
   "tracks": [
     {
       "added_at": "2026-10-16 00:32:30",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-10-16 00:32:30",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-10-16 00:32:30",
-      "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 175130,
       "name": "Lomo Lomo",
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+    },
+    {
+      "added_at": "2026-10-16 00:32:30",
+      "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-10-16 00:32:30",
@@ -595,22 +595,22 @@
     {
       "added_at": "2026-10-16 00:32:30",
       "album": {
-        "name": "Signature (with Lasmid)",
-        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
+        "name": "Lonely World",
+        "url": "https://open.spotify.com/album/09FHjhBG2ymGRc7IHEKyZD"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
         },
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 162935,
-      "name": "Signature (with Lasmid)",
-      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
+      "duration_ms": 186240,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/0wA8CNc2GD1YIQyXEfbj4t"
     },
     {
       "added_at": "2026-10-16 00:32:30",
@@ -631,22 +631,22 @@
     {
       "added_at": "2026-10-16 00:32:30",
       "album": {
-        "name": "Lonely World",
-        "url": "https://open.spotify.com/album/09FHjhBG2ymGRc7IHEKyZD"
+        "name": "Signature (with Lasmid)",
+        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
       },
       "artists": [
         {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/0wA8CNc2GD1YIQyXEfbj4t"
+      "duration_ms": 162935,
+      "name": "Signature (with Lasmid)",
+      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
     },
     {
       "added_at": "2026-10-16 00:32:30",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-10-16 00:32:30",
       "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
+    },
+    {
+      "added_at": "2026-10-16 00:32:30",
+      "album": {
         "name": "Aso II",
         "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
       },
@@ -1307,22 +1327,18 @@
     {
       "added_at": "2026-10-16 00:32:30",
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+        "name": "TREASURE",
+        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
+      "duration_ms": 132000,
+      "name": "TREASURE",
+      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
     },
     {
       "added_at": "2026-10-16 00:32:30",
@@ -1339,22 +1355,6 @@
       "duration_ms": 157388,
       "name": "Lord Knows",
       "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
-    },
-    {
-      "added_at": "2026-10-16 00:32:30",
-      "album": {
-        "name": "TREASURE",
-        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "TREASURE",
-      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
     },
     {
       "added_at": "2026-10-16 00:32:30",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-10-16 00:32:30",
       "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 173033,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "added_at": "2026-10-16 00:32:30",
+      "album": {
         "name": "BADDIES <3 MOLIY",
         "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 170078,
       "name": "ACCRA GIRLS",
       "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
-    },
-    {
-      "added_at": "2026-10-16 00:32:30",
-      "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 173033,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
     },
     {
       "added_at": "2026-10-16 00:32:30",

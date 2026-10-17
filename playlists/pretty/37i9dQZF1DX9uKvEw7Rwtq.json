@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 128443,
+  "num_followers": 128475,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAESjTgaZNW36OIVfxyjd3KdSM7xA",
+  "snapshot_id": "AAAAAP2clnXldv7DpQ4Zw5dsCAqVJ9US",
   "tracks": [
     {
       "added_at": "2026-10-05 15:36:40",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay"
       },
       "artists": [
         {
-          "name": "From Somewhere Quiet",
-          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu"
+      "duration_ms": 176373,
+      "name": "Glaciers",
+      "url": "https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay"
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB"
       },
       "artists": [
         {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
         }
       ],
-      "duration_ms": 176373,
-      "name": "Glaciers",
-      "url": "https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw"
+      "duration_ms": 186466,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/5NgsejOQl60B4vHYoKHO5y"
-      },
-      "artists": [
-        {
-          "name": "From Somewhere Quiet",
-          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
-        }
-      ],
-      "duration_ms": 87240,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/7yfUPnUe3VUDCah5xwvwI7"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/5NgsejOQl60B4vHYoKHO5y"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "duration_ms": 87240,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/7yfUPnUe3VUDCah5xwvwI7"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "The Ever Shifting Fields",
         "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
       },
@@ -403,38 +403,6 @@
       "duration_ms": 277133,
       "name": "In Collusion with the Waves",
       "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Leaving Home",
-        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 332704,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Homebound",
-        "url": "https://open.spotify.com/album/5DPNryeFPiGOjZBUGJvIiI"
-      },
-      "artists": [
-        {
-          "name": "From Somewhere Quiet",
-          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
-        }
-      ],
-      "duration_ms": 152120,
-      "name": "Homebound",
-      "url": "https://open.spotify.com/track/3OcipTW9lV7WLaHXIdA93h"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -475,6 +443,38 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Leaving Home",
+        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 332704,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Homebound",
+        "url": "https://open.spotify.com/album/5DPNryeFPiGOjZBUGJvIiI"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "duration_ms": 152120,
+      "name": "Homebound",
+      "url": "https://open.spotify.com/track/3OcipTW9lV7WLaHXIdA93h"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Timewave Zero",
         "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Old Joy",
-        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 101337,
-      "name": "Path to Springs",
-      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "41 Longfield Street Late \u201880s",
-        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
+        "name": "Old Joy",
+        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
       },
       "artists": [
         {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 474353,
-      "name": "Secret City",
-      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+      "duration_ms": 101337,
+      "name": "Path to Springs",
+      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -579,6 +559,26 @@
       "duration_ms": 260346,
       "name": "Total Perspective Vortex",
       "url": "https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "41 Longfield Street Late \u201880s",
+        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 474353,
+      "name": "Secret City",
+      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Blurring",
-        "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
-      },
-      "artists": [
-        {
-          "name": "Vivienne Eastwood",
-          "url": "https://open.spotify.com/artist/70MmXzSdRlMVKHTpM85Jmu"
-        }
-      ],
-      "duration_ms": 216237,
-      "name": "Fog",
-      "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "I Can't Lock In",
         "url": "https://open.spotify.com/album/28FfMdBj1y33x3AC78RY5Y"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 184424,
       "name": "I Can't Lock In",
       "url": "https://open.spotify.com/track/0AZu7PlRQmgzncJh4nGzrB"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Blurring",
+        "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
+      },
+      "artists": [
+        {
+          "name": "Vivienne Eastwood",
+          "url": "https://open.spotify.com/artist/70MmXzSdRlMVKHTpM85Jmu"
+        }
+      ],
+      "duration_ms": 216237,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
-      },
-      "artists": [
-        {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "VIII",
-      "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "VIII",
+      "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+      },
+      "artists": [
+        {
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Sakura In Blossom",
         "url": "https://open.spotify.com/album/08KQ0Ga7FFrIg1V3CH6QRE"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 141428,
       "name": "Sakura In Blossom",
       "url": "https://open.spotify.com/track/3APiPBmfAeo2sUwaBOwUKH"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "I Dreamt Our Whole City Burned",
-        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 284076,
-      "name": "I Dreamt Our Whole City Burned",
-      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Chronos",
         "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 355360,
       "name": "Abschied",
       "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "I Dreamt Our Whole City Burned",
+        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 284076,
+      "name": "I Dreamt Our Whole City Burned",
+      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "The Blurred Horizon",
+        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+      },
+      "artists": [
+        {
+          "name": "Tuesday The Sky",
+          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "The Blurred Horizon",
+      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 283200,
       "name": "A Letter from the Past",
       "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "The Blurred Horizon",
-        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
-      },
-      "artists": [
-        {
-          "name": "Tuesday The Sky",
-          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "The Blurred Horizon",
-      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1243,22 +1243,6 @@
       "duration_ms": 236000,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Acknowledge Kindness",
-        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
-      },
-      "artists": [
-        {
-          "name": "The Reds, Pinks and Purples",
-          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
-        }
-      ],
-      "duration_ms": 178428,
-      "name": "Blue Heron Lake",
-      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Acknowledge Kindness",
+        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "duration_ms": 178428,
+      "name": "Blue Heron Lake",
+      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "soft silence",
         "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 80937,
       "name": "soft silence",
       "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Noise",
+          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1363,22 +1379,6 @@
       "duration_ms": 150129,
       "name": "The Last Mile",
       "url": "https://open.spotify.com/track/2yelkinCXd64Uoy70jnwQT"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
-      },
-      "artists": [
-        {
-          "name": "Interstellar Noise",
-          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
     },
     {
       "added_at": "2026-10-05 15:36:40",

@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "Ruta 77",
+        "url": "https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/1Gj7cfVDn5dKSiHzBWgk5q"
+    },
+    {
+      "album": {
         "name": "HAASHVILLE",
         "url": "https://open.spotify.com/album/3z71IM4XCA5UMiORkkr66P"
       },
@@ -188,7 +210,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
@@ -311,6 +333,28 @@
     },
     {
       "album": {
+        "name": "BAR",
+        "url": "https://open.spotify.com/album/1khfBnZJdzbHmY5cJGwGDV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183913,
+      "name": "BAR",
+      "url": "https://open.spotify.com/track/3rAFjj4zSIUpA18P8tRuyZ"
+    },
+    {
+      "album": {
         "name": "Bartender I'll Take Two",
         "url": "https://open.spotify.com/album/6SQuLISq4Rb7eMvjkkTn57"
       },
@@ -322,7 +366,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218063,
       "name": "Bartender I'll Take Two",
       "url": "https://open.spotify.com/track/5xr9LifX1cb8oRoCMzqEVC"
@@ -575,6 +619,42 @@
     },
     {
       "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/22RqDWRI67ixEJb6KxeyK8"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213649,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/5P8jblieOpniI73tEboMYf"
+    },
+    {
+      "album": {
+        "name": "Contigo S\u00ed Dan Ganas",
+        "url": "https://open.spotify.com/album/052Tn0P9rgtIsuLBTgb7mS"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "Contigo S\u00ed Dan Ganas",
+      "url": "https://open.spotify.com/track/2ro5otYXGolpRDbjl3R2Np"
+    },
+    {
+      "album": {
         "name": "Country'd Look Good On You",
         "url": "https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO"
       },
@@ -651,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Cowboy Reggaeton",
+        "url": "https://open.spotify.com/album/0sV1kYWxzR6K11p9dwAjlU"
+      },
+      "artists": [
+        {
+          "name": "Cash Cortes",
+          "url": "https://open.spotify.com/artist/4PRsDz38Pho7HP2e9V4vXz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "Cowboy Reggaeton",
+      "url": "https://open.spotify.com/track/6fr3UGdUwl9G0H0pCSdeZv"
+    },
+    {
+      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/4vkqPJ5odJpdDKBOPV338B"
       },
@@ -724,7 +822,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
@@ -865,6 +963,24 @@
     },
     {
       "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "Dosis",
+      "url": "https://open.spotify.com/track/6VUGq7Gi6q5luloeeROI6W"
+    },
+    {
+      "album": {
         "name": "Down Here",
         "url": "https://open.spotify.com/album/6UWvFvtdmemHeFzWuBUlOW"
       },
@@ -928,6 +1044,28 @@
       "duration_ms": 179226,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/2omj4J6W4cL2cOU4Tjz0Sr"
+    },
+    {
+      "album": {
+        "name": "Ruta 77",
+        "url": "https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210705,
+      "name": "DQTD",
+      "url": "https://open.spotify.com/track/6d7IqPuFFgP59UzuJKG0DA"
     },
     {
       "album": {
@@ -1168,7 +1306,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 209076,
       "name": "God Blessed Texas - Dios Bendijo Tejas",
       "url": "https://open.spotify.com/track/4k8tSZNNYWAaKJf6yAW8Cr"
@@ -2008,7 +2146,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 232640,
       "name": "Late",
       "url": "https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF"
@@ -2290,7 +2428,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172124,
       "name": "Mal Necesario",
       "url": "https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu"
@@ -2604,7 +2742,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 191233,
       "name": "No Soy Yo - That Girl - Spanish Version",
       "url": "https://open.spotify.com/track/4dZdl2cOAPZBTltbb7BWJc"
@@ -3974,6 +4112,24 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "album": {
+        "name": "Yellow Roses",
+        "url": "https://open.spotify.com/album/23aRCwBl2NouJJa8dWMt61"
+      },
+      "artists": [
+        {
+          "name": "Vinny Tovar",
+          "url": "https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234021,
+      "name": "Yellow Roses",
+      "url": "https://open.spotify.com/track/1LVw27vqTxELtJi6kz78tM"
     },
     {
       "album": {

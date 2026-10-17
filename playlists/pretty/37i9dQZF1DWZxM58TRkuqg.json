@@ -1,13 +1,33 @@
 {
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Lafa Pratomo, Ari Lesmana, White Chorus",
-  "num_followers": 789014,
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Judika, Tiroy Sihotang",
+  "num_followers": 788990,
   "original_name": "Puncak Klasemen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADjFoYiZ4HlqyK1rzKusJyx3j2SS",
+  "snapshot_id": "AAAAAPaz+MgQNCMvG0vTKUvnu/F+py4J",
   "tracks": [
+    {
+      "added_at": "2026-10-16 05:52:07",
+      "album": {
+        "name": "Maukah Kau Menikah Denganku?",
+        "url": "https://open.spotify.com/album/0sTN6uIgTfg5foiUDXAcOJ"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Tiroy Sihotang",
+          "url": "https://open.spotify.com/artist/4j3ddH7rNFJtEGOPu9XCPj"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Maukah Kau Menikah Denganku?",
+      "url": "https://open.spotify.com/track/003fbsliPwJfMgylqwcoyV"
+    },
     {
       "added_at": "2026-10-08 17:51:53",
       "album": {
@@ -33,6 +53,26 @@
       "url": "https://open.spotify.com/track/3nBGItIJq4HoLQy4wu0305"
     },
     {
+      "added_at": "2026-10-16 05:52:07",
+      "album": {
+        "name": "Lebih Beruntung Sedikit",
+        "url": "https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 241215,
+      "name": "Lebih Beruntung Sedikit",
+      "url": "https://open.spotify.com/track/0NNoaEAeftkCLPMYmpcGsX"
+    },
+    {
       "added_at": "2026-10-08 17:51:53",
       "album": {
         "name": "Terkunci Di Kamu",
@@ -47,6 +87,22 @@
       "duration_ms": 206823,
       "name": "Pintu Hati",
       "url": "https://open.spotify.com/track/67I41J09p9pAnjHVtgOpjt"
+    },
+    {
+      "added_at": "2026-10-16 05:52:07",
+      "album": {
+        "name": "MARBLES",
+        "url": "https://open.spotify.com/album/4NARgADquipnlhx9XzjsUZ"
+      },
+      "artists": [
+        {
+          "name": "Marbles",
+          "url": "https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Tak Ingin Pulang",
+      "url": "https://open.spotify.com/track/3Qs3UyQWrcMBZusrE5eNZm"
     },
     {
       "added_at": "2026-10-08 17:51:53",
@@ -99,6 +155,22 @@
       "duration_ms": 274430,
       "name": "Tanda Cinta",
       "url": "https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen"
+    },
+    {
+      "added_at": "2026-10-16 05:52:07",
+      "album": {
+        "name": "permata hatiku",
+        "url": "https://open.spotify.com/album/2ycyXk2hubXDQ3bCW5FbmJ"
+      },
+      "artists": [
+        {
+          "name": "Daun Jatuh",
+          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "permata hatiku",
+      "url": "https://open.spotify.com/track/6nvLNYD1IUxv4vJUcIfOJy"
     },
     {
       "added_at": "2026-10-08 17:51:53",
@@ -1691,6 +1763,22 @@
     {
       "added_at": "2026-10-08 17:51:53",
       "album": {
+        "name": "Telat!",
+        "url": "https://open.spotify.com/album/0bk9Cm5TdubCQj3LbwUDpD"
+      },
+      "artists": [
+        {
+          "name": "Maisha Kanna",
+          "url": "https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "Telat!",
+      "url": "https://open.spotify.com/track/1NalriTQmBmSbkg0FBfw0D"
+    },
+    {
+      "added_at": "2026-10-08 17:51:53",
+      "album": {
         "name": "Never Ours",
         "url": "https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu"
       },
@@ -1719,22 +1807,6 @@
       "duration_ms": 230333,
       "name": "Melayang",
       "url": "https://open.spotify.com/track/61LkdLYN1uMt4hpe59r2kJ"
-    },
-    {
-      "added_at": "2026-10-08 17:51:53",
-      "album": {
-        "name": "Telat!",
-        "url": "https://open.spotify.com/album/0bk9Cm5TdubCQj3LbwUDpD"
-      },
-      "artists": [
-        {
-          "name": "Maisha Kanna",
-          "url": "https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "Telat!",
-      "url": "https://open.spotify.com/track/1NalriTQmBmSbkg0FBfw0D"
     }
   ],
   "unique_name": "Puncak Klasemen",

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-812 songs - 2 day 2 hr 32 min
+813 songs - 2 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-03 | 2026-03-18 |
 | [Get Lost Blues](https://open.spotify.com/track/68TaMRM7uQyrVZz6oW1lrW) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/1P6cd5pDxmFNFZedAMWwh1) | 3:47 | 2025-10-17 | 2025-11-28 |
 | [Get up on Your Feet](https://open.spotify.com/track/54QamBb8HwxpfeiTFNwaKZ) | [Jangle Wave](https://open.spotify.com/artist/46IbeWIF6yDPAZ1Me3Mrqv) | [Get up on Your Feet](https://open.spotify.com/album/3VGwnfhp3TtamNolKFcFvd) | 3:34 | 2026-09-07 | 2026-09-20 |
+| [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 | 2026-10-16 |  |
 | [Ghostprint](https://open.spotify.com/track/5wBXiMvviukja7UJui6WCk) | [santyskies](https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv) | [Don’t let the overshadow](https://open.spotify.com/album/2cEf0VRnSzQtBTh9E4Iafq) | 4:40 | 2026-01-11 | 2026-03-18 |
 | [Girl Gone Bad](https://open.spotify.com/track/0CfgCWKXlUNGNO2IGpT6WF) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 4:56 | 2025-09-01 | 2025-11-28 |
 | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO) | [Whiskey South](https://open.spotify.com/artist/3FW9jdn2u4rDfo73WkfLsk) | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/album/3EQVs1LxN2BAc1rSHHp9iB) | 2:49 | 2026-01-27 | 2026-03-18 |

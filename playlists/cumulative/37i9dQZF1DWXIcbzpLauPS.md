@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Showing Teeth
 
-1,707 songs - 4 day 7 hr 37 min
+1,708 songs - 4 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Dirge](https://open.spotify.com/track/4tS7QOYoendjupkCIPQ9Em) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [There Are Things Worse Than Death \- EP](https://open.spotify.com/album/5DXsxOvyvZ9uAdfjpBcU7B) | 3:40 | 2021-12-17 | 2022-02-18 |
 | [Dirt](https://open.spotify.com/track/0pyFy1WKgJ64vTI73iLRvc) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dirt](https://open.spotify.com/album/3Bm3vw6rxLUGI2RiD4HdUY) | 3:33 | 2026-10-09 |  |
 | [Disappear](https://open.spotify.com/track/1c04Lv2KJB8gs5Szgf48yo) | [Annalynn](https://open.spotify.com/artist/3VBnJPcfaEGWPpON1aaVIX) | [Disappear](https://open.spotify.com/album/5gYmaHKa0j8GHgpnCqonWz) | 4:19 | 2023-07-14 | 2024-01-13 |
+| [Discarded](https://open.spotify.com/track/2F4ku4srnF1RCK0GzqgoDN) | [Diamond Construct](https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG) | [Discarded](https://open.spotify.com/album/3wwbKjtM2zX3VdQZpXBhrg) | 3:41 | 2026-10-09 |  |
 | [Disclosure](https://open.spotify.com/track/6o56ET8RCtfQTczMrUsCzQ) | [HAWK](https://open.spotify.com/artist/29f2mFV3WUYNmmrhHKV9rX), [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Disclosure](https://open.spotify.com/album/3cibP6VYknES6QUccch6CJ) | 3:38 | 2025-05-09 | 2025-05-31 |
 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 | 2021-12-17 | 2022-04-02 |
 | [Disease](https://open.spotify.com/track/0pgq34BPcxMI2mbcPM2asZ) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [Disease](https://open.spotify.com/album/0DKBiS0Zg1aJf1cMsAydL5) | 3:13 | 2022-07-13 | 2022-07-23 |
@@ -672,7 +673,7 @@
 | [Goliath](https://open.spotify.com/track/55Ii97UbyIZUnetbkDGqEi) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Goliath](https://open.spotify.com/album/0gwrB0QxrhKb2U5Jr1PF2i) | 5:09 | 2024-11-22 | 2024-12-19 |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2023-07-14 | 2025-03-31 |
 | [Gone Forever](https://open.spotify.com/track/4awOKs7I5SBo52LVEhic7W) | [If I Were You](https://open.spotify.com/artist/64eAZjkDzPIGbBuiANH78Y) | [Gone Forever](https://open.spotify.com/album/4Ar55s9oBJB3uyt2eMJeDl) | 3:19 | 2026-06-16 | 2026-09-05 |
-| [Gone Too Soon](https://open.spotify.com/track/1nJSbkUStfQgIuArPvjoiV) | [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Gone Too Soon](https://open.spotify.com/album/1Cl49JgMu0nn4IO4N8KyBy) | 3:45 | 2025-08-22 |  |
+| [Gone Too Soon](https://open.spotify.com/track/1nJSbkUStfQgIuArPvjoiV) | [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Gone Too Soon](https://open.spotify.com/album/1Cl49JgMu0nn4IO4N8KyBy) | 3:45 | 2025-08-22 | 2026-10-17 |
 | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 | 2026-03-02 |  |
 | [Good People](https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Peter Rono](https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j) | [Empty Heaven](https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf) | 2:51 | 2022-07-13 | 2022-07-19 |
 | [GOODBYE](https://open.spotify.com/track/33UpuHGggCndb1SLEQwgNw) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Devon Duarte](https://open.spotify.com/artist/5HgWYtdIGEFeNSFWpxqQl5) | [GOODBYE](https://open.spotify.com/album/7B6d0sG6UgKyhHwsHQF8LC) | 3:12 | 2022-07-13 | 2022-07-22 |

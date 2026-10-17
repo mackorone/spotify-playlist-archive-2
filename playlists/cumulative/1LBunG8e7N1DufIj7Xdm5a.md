@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,889 songs - 11 day 1 hr 16 min
+4,891 songs - 11 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/track/5kqcCwru3Oz2lg7WdWQhhy) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/album/2YgS8QXiJs9yxOVDHTwZO7) | 2:36 | 2026-03-06 |  |
 | [Always](https://open.spotify.com/track/1n76KlBMMNrhShu9SbbBPz) | [Girl Venom](https://open.spotify.com/artist/2BQW3kmiIoIubGEHApdrUN) | [Always](https://open.spotify.com/album/6GF96G1DxeAc8soFd66iQt) | 5:17 | 2025-11-16 |  |
 | [Always The Best](https://open.spotify.com/track/0OXj73SVPdLAllhoPa0tVw) | [Gr!t](https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2) | [House Star](https://open.spotify.com/album/67cjkHorallGw6UJ9tVGwl) | 6:48 | 2026-08-28 |  |
+| [Always You and I](https://open.spotify.com/track/21VD4mfZ3FUGNN4MvKmXLJ) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl), [Cathrine Restad\-Hvalby](https://open.spotify.com/artist/0B9DYx33j8xGopYcFNpzqc) | [Always You and I](https://open.spotify.com/album/5DMrlFAmeAMIJHajphsvRE) | 3:40 | 2026-10-16 |  |
 | [Alza Le Mani](https://open.spotify.com/track/4TMGmpr0iuU0f5VnMQwNyn) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Alza Le Mani](https://open.spotify.com/album/3VbUhT0Tn6m6vcdPW3Z0Gt) | 3:43 | 2025-08-27 |  |
 | [AMAHIT](https://open.spotify.com/track/3GsapAiKC0nNg5UY9yjsJn) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8), [Thokoza](https://open.spotify.com/artist/28mEM3nWxeF5CBz8DLiWkj), [Zainley](https://open.spotify.com/artist/6Ej1M9ib9lNpcApq2xxRV9), [Crazy Max](https://open.spotify.com/artist/4vFiFIFAuRHAaSJAjiseEF), [Junior Jay](https://open.spotify.com/artist/1TsSsOFAqFYUqbdeDK3veK) | [AMAHIT](https://open.spotify.com/album/79yttXnkQbrgP85ESTpfb7) | 4:07 | 2025-06-04 |  |
 | [Amanecer](https://open.spotify.com/track/2mbpjOVwM7dDfukfXmLjEI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Tocar la lluvia](https://open.spotify.com/album/1YPCa52lWFtLNr16GgANuh) | 2:24 | 2026-04-12 |  |
@@ -1962,6 +1963,7 @@
 | [Hlala nami](https://open.spotify.com/track/7pG7fp8Q4hk2uZLMIE1boI) | [Ntozakhe](https://open.spotify.com/artist/01hnYOuTJR8AkKUcTTv4A6) | [Yiso lesikhathi](https://open.spotify.com/album/3S82kuoGkC04Y1B7HWDSmb) | 4:07 | 2025-06-04 |  |
 | [Ho riso](https://open.spotify.com/track/7vZyF9p7bUV652DLzd8YRq) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Affetti d'aerofagismo](https://open.spotify.com/album/5WquDWAAfgcnVTRM5m1CUG) | 2:20 | 2026-02-01 |  |
 | [ho riso](https://open.spotify.com/track/1UWyDZ8kSbDESi8Uwuidsz) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [acustica](https://open.spotify.com/album/6lQngfE6PQjzuAQgJzw70b) | 2:31 | 2026-02-01 |  |
+| [Hoi Hoi Helsinki \- 2.0 Version](https://open.spotify.com/track/6mSQWVTLFzvKKplsx2qZkP) | [Miciz](https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW) | [Hoi Hoi Helsinki \(2.0 Version\)](https://open.spotify.com/album/3rXFnECY3rKLsOgAJgO4iA) | 4:18 | 2026-10-16 |  |
 | [Hola](https://open.spotify.com/track/4evUj2FDmvFKRktifGSL1w) | [Tiziano Bak Bacarani](https://open.spotify.com/artist/03eDUUGnhtm4xBtxkZBIgM) | [Hola](https://open.spotify.com/album/4otfU4e5f82uPAztOJewoU) | 3:50 | 2025-06-05 |  |
 | [Hold Me](https://open.spotify.com/track/6VBJCuihzB8nrRLbG7glqY) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:12 | 2025-06-05 |  |
 | [Hold On](https://open.spotify.com/track/2MgRsq3PLtGVqex5MkBlUD) | [Belle Sisoski](https://open.spotify.com/artist/1bNd6DQP6ZstuJ2FsFQO6a) | [Hold On](https://open.spotify.com/album/273VxdJ35wo36poWBhxVUg) | 5:36 | 2025-12-04 |  |

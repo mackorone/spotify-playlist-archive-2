@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-319 songs - 17 hr 59 min
+324 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Atlantis](https://open.spotify.com/track/3frjrXxQkPbIXLrfxQ0NzE) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Atlantis](https://open.spotify.com/album/3y01EIiIHvN4pTYsUX1L7s) | 3:00 | 2025-07-18 | 2025-08-16 |
 | [Audrey Hepburn](https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 3:06 | 2025-10-10 |  |
 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-07-18 | 2026-02-07 |
+| [Baby steps](https://open.spotify.com/track/7AqTaMPfAGBtAqtcTvbAtl) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I think I spoke too soon](https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL) | 2:53 | 2026-10-16 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-18 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-07-18 | 2026-02-07 |
 | [Basis](https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Basis](https://open.spotify.com/album/3FlNNW7jjryAR5uTeGi19R) | 2:54 | 2025-10-10 | 2026-02-07 |
@@ -110,9 +111,11 @@
 | [Grow as We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2025-07-18 |  |
 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 | 2026-02-06 |  |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-07-18 | 2026-02-07 |
+| [Hannah Montana](https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Hannah Montana](https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X) | 3:33 | 2026-10-16 |  |
 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 | 2025-07-18 | 2025-09-06 |
 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 | 2026-08-07 |  |
 | [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 | 2025-10-24 | 2026-01-31 |
+| [Heartless](https://open.spotify.com/track/1OKcjiHEQK5ZAlI8XtAWOg) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Lovesick](https://open.spotify.com/album/6tXhwhNRi6rtIvbdvofSsD) | 2:50 | 2026-10-16 |  |
 | [Heaven](https://open.spotify.com/track/0nOf80Plej41Dkmeoo8Rv7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:26 | 2026-05-27 |  |
 | [Hello Darlin](https://open.spotify.com/track/4RzLqL2zvMPj1BkRHWtH0G) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Hello Darlin](https://open.spotify.com/album/1RIyJXwicQDu3Nn2zJmENv) | 2:51 | 2025-07-18 | 2025-12-13 |
 | [Hers](https://open.spotify.com/track/6mzUk2aoQYz1tW1B2g9Si4) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Hers](https://open.spotify.com/album/2vkbx2ffTVKZPU9IbH89Z5) | 3:32 | 2026-09-11 |  |
@@ -150,9 +153,11 @@
 | [Kiss of Life](https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:50 | 2026-08-25 |  |
 | [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 | 2026-03-20 | 2026-04-18 |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-18 |  |
+| [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 | 2026-10-16 |  |
 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 | 2026-08-07 |  |
 | [less](https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:13 | 2026-08-25 |  |
 | [Let You In](https://open.spotify.com/track/2OqGfyw3dx6GikP01EwLYf) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Let You In](https://open.spotify.com/album/4mo9EM8C3Q2UXjvIexBSwY) | 3:58 | 2026-01-09 |  |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2T8ZVV7QlRrsCtXUiAoBuK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:40 | 2026-10-16 |  |
 | [Light Over You](https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [Light Over You](https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy) | 2:56 | 2026-03-06 | 2026-09-19 |
 | [Little Black Dress](https://open.spotify.com/track/6PlcDrN7nKvMB2caDnlWS2) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Little Black Dress](https://open.spotify.com/album/5jSuvKgusy6isCP4pdqGXs) | 3:16 | 2025-10-10 | 2026-02-07 |
 | [Little House](https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV) | 2:30 | 2025-11-28 |  |

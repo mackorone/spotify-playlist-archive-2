@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,963 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,985 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 43 | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q) | [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl) | 3:20 |
 | 44 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
 | 45 | [New Thing \- Live](https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z) | [New Thing \(Live\)](https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa) | 4:31 |
-| 46 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
-| 47 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 |
+| 46 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 |
+| 47 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 48 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
 | 49 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 50 | [alright <3](https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [alright <3](https://open.spotify.com/album/4vn8PhGIvol3OtMPriOFiq) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 99 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 100 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
 
-Snapshot ID: `AAAAAJrdUVa8rZKl9SOjQpl/KJZsuZYl`
+Snapshot ID: `AAAAAHXKDVCVKaWzPktZakk12mAbYPss`

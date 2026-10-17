@@ -4,7 +4,7 @@
 
 > Music is Universal🌈 Party with this pride playlist full of LGBTQIA+ anthems and iconic pop songs, with Lady Gaga, Chappell Roan, Troye Sivan and more!
 
-100 songs - 5 hr 51 min
+101 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dress](https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:50 | 2025-07-28 |  |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-07-28 |  |
 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 | 2025-07-28 |  |
+| [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 | 2026-10-16 |  |
 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 | 2025-07-28 |  |
 | [Firework](https://open.spotify.com/track/16v8EJEdpDpgGa3fNqkbg2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/0UXLvW8T9wOYUwlh9Vs5Hb) | 3:47 | 2025-07-28 |  |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-07-28 |  |

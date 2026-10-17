@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,302,209 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,302,145 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 77 | [Summertime Sadness](https://open.spotify.com/track/33CeM8NI7tfrNgciVOFMoo) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \(Deluxe Version\)](https://open.spotify.com/album/4F5dVhgk569Du5cLfal3t5) | 4:24 |
 | 78 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
 | 79 | [Unfinished Business](https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Unfinished Business](https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR) | 3:29 |
-| 80 | [If By Chance](https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 5:03 |
-| 81 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
+| 80 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
+| 81 | [If By Chance](https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 5:03 |
 | 82 | [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 |
 | 83 | [All of the Stars](https://open.spotify.com/track/3SZLtkoHoECHHuOnNkNCuS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Fault In Our Stars: Music From The Motion Picture](https://open.spotify.com/album/7bXOViTvx6EHXuYFuI2yfj) | 3:54 |
 | 84 | [Lost](https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:39 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 124 | [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 |
 | 125 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |
 | 126 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
-| 127 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB) | 3:25 |
-| 128 | [Sign of the Times](https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Sign of the Times](https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR) | 5:40 |
+| 127 | [Sign of the Times](https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Sign of the Times](https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR) | 5:40 |
+| 128 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB) | 3:25 |
 | 129 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 |
 | 130 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 |
 | 131 | [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 141 | [Coping](https://open.spotify.com/track/0RjKWagIjeOoxpsiCT4gls) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Coping](https://open.spotify.com/album/5Uzut3AAcwTy72vusYP7lk) | 3:10 |
 | 142 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 |
 | 143 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/4BtHfpTtfi9RrM36dv5Qww) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Eternal Love](https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp) | 4:14 |
-| 144 | [Photograph](https://open.spotify.com/track/5tIJb0C5rIbiDijHl41byE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Photograph](https://open.spotify.com/album/7jbD7K0FaZO2dn4stH2SXA) | 4:18 |
+| 144 | [Bruises](https://open.spotify.com/track/5KfSsgAJGrZc3VrcPLFVMo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/1L78MAHMB04EPgZGoJN2nZ) | 3:38 |
 | 145 | [Sad Song \(feat\. Elena Coats\)](https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Elena Coats](https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ) | [Somewhere Somehow](https://open.spotify.com/album/1d5UvO6jHEchSbMIV0qrTM) | 3:46 |
-| 146 | [Stone Cold](https://open.spotify.com/track/3ioJ2eGWcONEvna37MpsiE) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/4HLTw1RgvSZkSLAc3pU9kU) | 3:11 |
-| 147 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 |
-| 148 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 |
-| 149 | [Bruises](https://open.spotify.com/track/5KfSsgAJGrZc3VrcPLFVMo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/1L78MAHMB04EPgZGoJN2nZ) | 3:38 |
-| 150 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:02 |
+| 146 | [Keep Holding On](https://open.spotify.com/track/58Mmq9tDlN7jiUqmvugggD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Keep Holding On](https://open.spotify.com/album/0cuF4UYoABFPKE6GZ6Lqq8) | 3:59 |
+| 147 | [Photograph](https://open.spotify.com/track/5tIJb0C5rIbiDijHl41byE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Photograph](https://open.spotify.com/album/7jbD7K0FaZO2dn4stH2SXA) | 4:18 |
+| 148 | [Stone Cold](https://open.spotify.com/track/3ioJ2eGWcONEvna37MpsiE) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/4HLTw1RgvSZkSLAc3pU9kU) | 3:11 |
+| 149 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 |
+| 150 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 |
 
-Snapshot ID: `AAAAAB5BUtXu1j5OXPMs3ZQM4gsZKZOy`
+Snapshot ID: `AAAAALlswTnIO0cgCaNdmbsTvEku/7FF`

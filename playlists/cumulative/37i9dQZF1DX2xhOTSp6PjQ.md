@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover: Sminofu
 
-333 songs - 1 day 1 hr 57 min
+333 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Luqale sakudlala](https://open.spotify.com/track/7pfoxzRahKsNhDMejTE14u) | [G\-Jealous](https://open.spotify.com/artist/0FbbF0rKiD7zN90OMJqCn7) | [Luqale sakudlala](https://open.spotify.com/album/1aqGyinECF4WLGCPOPG1xT) | 3:39 | 2026-09-17 |  |
 | [Luyazenzela](https://open.spotify.com/track/18z13CvLX9wuxVfbE3Lhnv) | [Phangandawo](https://open.spotify.com/artist/3irECGtZGGBOARaZElSiLb), [Shenge](https://open.spotify.com/artist/1xIivPK6sC42jpYgBl45v4), [Mjabulisi](https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS) | [Luyazenzela](https://open.spotify.com/album/5UOGjj9wPp6u69IHy1vVaP) | 4:00 | 2025-08-29 |  |
 | [Ma\-Afrika](https://open.spotify.com/track/1mUHR6Q0gxFJgQaVSKnfGk) | [Ihhashi Elimhlophe](https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21) | [Ma\-Afrika](https://open.spotify.com/album/1OJEDA2DBUQqHu42ZJBYpw) | 4:07 | 2025-08-29 | 2026-08-28 |
+| [Madagascar](https://open.spotify.com/track/6zrSV6339hY4MjN9JoJ6cb) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [iTekisi](https://open.spotify.com/album/0WcvW7hJWCFvf4lP6uKO9E) | 4:20 | 2026-10-15 |  |
 | [Masiyeke](https://open.spotify.com/track/01fXzOTgIyzNwWTBahteZB) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Sipho](https://open.spotify.com/album/16QKAhgay0amx5AgBIwFo0) | 4:21 | 2023-01-30 | 2023-11-24 |
 | [Masiyembo](https://open.spotify.com/track/0G4iC2UTqq0dE65KRqqhC9) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U), [Sihle Kona](https://open.spotify.com/artist/0UJaLaZkvRM9B91fxW4GDa) | [Kuyabongwa](https://open.spotify.com/album/5ZEowNb3KsMZfmMCnOW8b8) | 3:10 | 2023-02-23 | 2023-03-25 |
 | [Mawalawala](https://open.spotify.com/track/0ehYWFeYfsH3S4dSuPj1zL) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [NO CHANCE](https://open.spotify.com/album/6te22nhwMSwD2mlRwqLXhL) | 6:12 | 2023-11-23 | 2026-07-24 |
@@ -270,7 +271,6 @@
 | [Thenjiwe](https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9) | [Mfiliseni Magubane](https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs) | [Izwe Lihle Ngabantu](https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i) | 4:45 | 2018-09-25 | 2023-02-01 |
 | [Thuma Mina Baba](https://open.spotify.com/track/1fbiyYNG1LfWyTksDcgEEH) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi Ubaba](https://open.spotify.com/album/497oVjt1dseOC4GOzEtHiK) | 4:10 | 2018-09-25 | 2023-02-01 |
 | [Thuma mina baba](https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi ubaba](https://open.spotify.com/album/3bnl8oEQHcYwzDR9kC6IBE) | 4:10 | 2018-09-25 | 2022-07-29 |
-| [Track 8](https://open.spotify.com/track/6zrSV6339hY4MjN9JoJ6cb) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [iTekisi](https://open.spotify.com/album/0WcvW7hJWCFvf4lP6uKO9E) | 0:00 | 2026-10-15 |  |
 | [U XA](https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg) | [UMnotho](https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd), [Mjabulisi](https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS) | [U XA](https://open.spotify.com/album/6bgrhWDlYyAGIIeUz7Ppjk) | 3:23 | 2026-07-23 |  |
 | [Ubambo lwami](https://open.spotify.com/track/7lqlmV3prYYMQvyswraACT) | [uMdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC), [Mjolisi](https://open.spotify.com/artist/1WVxTF7mgVH51W5qTSSKY7) | [Uyinja](https://open.spotify.com/album/0oCCoXAo3PJn6oTKnoY2Sz) | 4:54 | 2025-06-27 |  |
 | [Ubasela ama\-Ex](https://open.spotify.com/track/5Z41KRKlonoT7McWnIPCrY) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 4:31 | 2025-04-24 | 2026-09-04 |

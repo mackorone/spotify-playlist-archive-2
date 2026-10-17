@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
 
-207 songs - 13 hr 24 min
+208 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Forever Mistletoe](https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2) | 3:55 | 2024-11-29 |  |
 | [Generous God \(Gloria\)](https://open.spotify.com/track/6WS8XlgxOp6rEqZGAjj0CY) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [The Gift](https://open.spotify.com/album/2wC0LQeUpBAEUqW4Ca0J41) | 4:07 | 2023-12-02 |  |
 | [Give Me A Star](https://open.spotify.com/track/2vbCMcecSWwccm1ojWKOaZ) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:35 | 2021-12-24 |  |
+| [Glory In The Highest](https://open.spotify.com/track/2TXRtRzIRBVJmLfH2lRHYa) | [Co Campbell](https://open.spotify.com/artist/7DrN33FjivpGOZN364ajdd), [Omega Sparx](https://open.spotify.com/artist/1Klr6MQLx3SDdpWcTGcJKd) | [Glory In The Highest](https://open.spotify.com/album/2KAXYPQkXTPhyjH7c6WlCF) | 2:21 | 2026-10-16 |  |
 | [Glory To The Lamb](https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 5:40 | 2021-12-24 |  |
 | [Go Tell](https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 5:24 | 2021-12-24 | 2025-06-02 |
 | [Go Tell It](https://open.spotify.com/track/6ctaxJwvmHge2hYFIXNg3L) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Go Tell It](https://open.spotify.com/album/3FXpr2csTJXhaICxq2qWN4) | 4:20 | 2025-11-16 |  |
@@ -106,7 +107,7 @@
 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 | 2021-12-24 |  |
 | [Jolly Jolly Christmas](https://open.spotify.com/track/3l4g9GZb9uIyjuugmzZ6EU) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Jolly Jolly Christmas](https://open.spotify.com/album/26oW5OBv0YFbVDhZMmLCM1) | 2:22 | 2024-11-29 |  |
 | [Joy \(Reason\) \- Live Performance](https://open.spotify.com/track/4sm47w4dxRX4FlIu1f8m8L) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\) \[Live Performance\]](https://open.spotify.com/album/1rUeVA4CBS7nB7YYvujwRv) | 2:34 | 2025-12-07 |  |
-| [Joy And Peace](https://open.spotify.com/track/36yPEvoCUgx7Ugfzb3iljD) | [Sensere](https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh), [Adolphus Scottie Scott](https://open.spotify.com/artist/0ypuyNuV9j7t3S31fxC3Wb) | [Joy And Peace](https://open.spotify.com/album/4kQ4Q1seAg2Cxch5dNO9IK) | 3:58 | 2025-11-28 |  |
+| [Joy And Peace](https://open.spotify.com/track/36yPEvoCUgx7Ugfzb3iljD) | [Sensere](https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh), [Adolphus Scottie Scott](https://open.spotify.com/artist/0ypuyNuV9j7t3S31fxC3Wb) | [Joy And Peace](https://open.spotify.com/album/4kQ4Q1seAg2Cxch5dNO9IK) | 3:58 | 2025-11-28 | 2026-10-17 |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 |  |
 | [Joy to the World](https://open.spotify.com/track/2Xarvk1Y1pX0PgQEk4jMZU) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [Joy to the World](https://open.spotify.com/album/2ei11H4CTrurq6KYKfPwlg) | 3:34 | 2022-11-26 | 2022-12-11 |
 | [Joy To The World \(feat\. Alex Isley\)](https://open.spotify.com/track/59MIBKUD1FSQvettQGHpSz) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [In December](https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op) | 5:27 | 2024-11-17 |  |

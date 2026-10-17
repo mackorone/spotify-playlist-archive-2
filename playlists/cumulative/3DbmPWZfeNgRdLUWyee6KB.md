@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,601 songs - 3 day 21 hr 17 min
+1,602 songs - 3 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1590,6 +1590,7 @@
 | [Your Silence Is Deadly](https://open.spotify.com/track/3ohK0x2FlMSCHSyepX4h0Q) | [Linda Imperial](https://open.spotify.com/artist/0ulH2qWVGdDxSNcCzj4hgA) | [Your Silence Is Deadly](https://open.spotify.com/album/2XcJhbHfWGlAZDPxhNUTHZ) | 3:28 | 2026-09-04 | 2026-10-03 |
 | [Yours](https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Yours](https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H) | 3:10 | 2025-11-26 | 2026-01-05 |
 | [You’re My Home](https://open.spotify.com/track/2C65Zq20H3kl5g5hqpGHq8) | [Ryan woollard](https://open.spotify.com/artist/05GAeBHIoOtFhm6Or5d8kF) | [You’re My Home](https://open.spotify.com/album/2nZRCKWz7qd3waBAdZ94t8) | 4:01 | 2026-03-12 | 2026-04-12 |
+| [Zulf\-E\-Paresha \- 3 Am Version](https://open.spotify.com/track/7gg7OYPDwEUefgsaaHMRhn) | [Avesh Khan](https://open.spotify.com/artist/2K6Qes78gnXr5Z8hV8DcSn) | [Zulf\-E\-Paresha \(3 Am Version\)](https://open.spotify.com/album/2BaHPRdEsJa2evDn7BFtFi) | 3:41 | 2026-10-16 |  |
 | [¡Sálvese quien pueda!](https://open.spotify.com/track/3N2kTdJIK0inDmclvAnXGk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¡Sálvese quien pueda!](https://open.spotify.com/album/3ca7xs9oyiaoYsXWdBVN4G) | 3:38 | 2025-11-25 | 2026-01-05 |
 | [¿Me Vas a Amar Hasta El Final?](https://open.spotify.com/track/6uKlzmnvRUApUP5N2W16d5) | [Elio Ocampo](https://open.spotify.com/artist/6ytMeTFgXUIo5HtdCxKI1E) | [A Mess With No Solution](https://open.spotify.com/album/01jzx2n41mmV8lcwOS3ECd) | 2:54 | 2026-04-13 | 2026-05-14 |
 | [¿Vampiro o Ladrón?](https://open.spotify.com/track/7KXOz98ntMZ8eeovE9pv6N) | [Angel](https://open.spotify.com/artist/5XFum7bQUnhp2U8h2zdJGV) | [¿Vampiro o Ladrón?](https://open.spotify.com/album/2qg0w5is7kIreSaDwx7n0k) | 3:41 | 2026-05-29 | 2026-07-03 |

@@ -1,12 +1,12 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 318143,
+  "num_followers": 318158,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGEVa0kRsEqflXzsjdiWetZqcQoQ",
+  "snapshot_id": "AAAAAIHiXzQecAGsBHIxMgioukmAqaa1",
   "tracks": [
     {
       "added_at": "2024-07-05 22:18:14",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "IDC AT ALL",
-        "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "IDC AT ALL",
-      "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Honeycrash",
         "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Honda Civic",
-        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
+        "name": "IDC AT ALL",
+        "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
       },
       "artists": [
         {
-          "name": "Lauran Hibberd",
-          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Honda Civic",
-      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
+      "duration_ms": 201320,
+      "name": "IDC AT ALL",
+      "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -663,6 +647,22 @@
       "duration_ms": 249600,
       "name": "Over The Threshold",
       "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Honda Civic",
+        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Honda Civic",
+      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Always Get This Way",
         "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 174258,
       "name": "Always Get This Way",
       "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Too Many Things",
-        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 155893,
-      "name": "Too Many Things",
-      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 155893,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "you don't like me like that",
-        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "you don't like me like that",
-      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "you don't like me like that",
+        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "you don't like me like that",
+      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
     },
     {
       "added_at": "2024-07-05 22:18:14",

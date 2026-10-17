@@ -3551,6 +3551,36 @@
     },
     {
       "album": {
+        "name": "Expensive Taste",
+        "url": "https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339417,
+      "name": "Champagne Wishes",
+      "url": "https://open.spotify.com/track/6X0GUwX9bx4DN85x8meUtR"
+    },
+    {
+      "album": {
         "name": "CHANNEL No3",
         "url": "https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw"
       },
@@ -7194,7 +7224,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 285805,
       "name": "Friendly Hallucinations",
       "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"

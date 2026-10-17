@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Dance Is Math",
+        "url": "https://open.spotify.com/album/5fBgbbY3p73ynUP7TJAstS"
+      },
+      "artists": [
+        {
+          "name": "Fenrick",
+          "url": "https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Dance Is Math",
+      "url": "https://open.spotify.com/track/5f12PBvlqhsj4F04PgpgRb"
+    },
+    {
+      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN"
       },
@@ -10410,6 +10428,24 @@
       "duration_ms": 159677,
       "name": "Under The Moonlight",
       "url": "https://open.spotify.com/track/6LnPMGaiR8zMI0gWrvuoF8"
+    },
+    {
+      "album": {
+        "name": "Universe EP",
+        "url": "https://open.spotify.com/album/1fdqdu1i6CZ9mIYFimO5DD"
+      },
+      "artists": [
+        {
+          "name": "Acid Asian",
+          "url": "https://open.spotify.com/artist/4rYbneiWL3QPCzKfjFK3fe"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/1yoNzFr224UubDTCR7N739"
     },
     {
       "album": {

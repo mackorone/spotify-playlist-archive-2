@@ -4352,7 +4352,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 269326,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa"
@@ -5820,6 +5820,24 @@
       "duration_ms": 283760,
       "name": "Look Both Ways",
       "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+    },
+    {
+      "album": {
+        "name": "My Inspiration Vol.3",
+        "url": "https://open.spotify.com/album/1DJcwPSIGv8zCk93v7f1iF"
+      },
+      "artists": [
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252219,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/0kAq0wmIIsNPrk51n07F7x"
     },
     {
       "album": {

@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 219000,
       "name": "Bansanka",
       "url": "https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf"
@@ -4714,7 +4714,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -29172,7 +29172,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 326842,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
@@ -34880,7 +34880,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 209671,
       "name": "STYLE",
       "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
@@ -35592,6 +35592,28 @@
       "duration_ms": 174146,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/1DzXeVnrXrHT6hciDfbGLf"
+      },
+      "artists": [
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        },
+        {
+          "name": "A2O SOUL",
+          "url": "https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/1DWMei2F4L94avyzZh3Ms9"
     },
     {
       "album": {
@@ -38876,7 +38898,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 216280,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"

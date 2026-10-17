@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 49 | [We're Makin' Up](https://open.spotify.com/track/5cIeWT5M7BcnQIg3qn2ZEv) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 3:03 |
 | 50 | [Good Year for the Outlaw](https://open.spotify.com/track/1zow1J6ivxXvaqyEYmxbn4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:34 |
 
-Snapshot ID: `as7GAAAAAAClhudBQUhsw7dmbPCMFo9J`
+Snapshot ID: `atAXgAAAAABgPekm7ahXMK/RmW18lD+J`

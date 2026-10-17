@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-240 songs - 17 hr 24 min
+241 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Stray](https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [The Beautiful World](https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD) | 2:58 | 2025-01-31 |  |
 | [Symmetry](https://open.spotify.com/track/04xvAfowaRbutabkOUzILY) | [Alexander John](https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Symmetry](https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG) | 3:19 | 2025-06-05 |  |
 | [Synthetic Recollections](https://open.spotify.com/track/1ptINfwzu3HEt20AaratNK) | [Junocomplex](https://open.spotify.com/artist/29C60yGepeXp2OCG4m35ce) | [Synthetic Recollections](https://open.spotify.com/album/13ujN2yQIhyIwvVWKffRa6) | 3:48 | 2022-02-11 | 2022-03-18 |
-| [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 | 2022-02-11 |  |
+| [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 | 2022-02-11 | 2026-10-17 |
 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 | 2022-02-11 | 2025-10-03 |
 | [The Eternal \- 2007 Remaster](https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 6:04 | 2022-02-11 |  |
 | [the hardest part](https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC) | [undercurrent.](https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO) | [the hardest part](https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz) | 1:41 | 2026-03-20 | 2026-06-13 |
@@ -229,6 +229,7 @@
 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 | 2022-02-11 | 2026-03-21 |
 | [Thought of You](https://open.spotify.com/track/7GOGLPdwOkhLvHkYx6yA2r) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 3:48 | 2023-01-09 | 2024-12-13 |
 | [thoughts inside my head](https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY) | [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [thoughts inside my head](https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA) | 2:14 | 2026-02-27 | 2026-06-02 |
+| [tired](https://open.spotify.com/track/2NycFZTupxahlGyI1H1oGb) | [Money Flip](https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz) | [tired](https://open.spotify.com/album/1VdIwG4stVmFhBgZXanjtR) | 1:20 | 2026-09-23 |  |
 | [Too Much Love](https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Too Much Love](https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U) | 2:13 | 2026-02-27 |  |
 | [try to find you](https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX) | [Inlirium](https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib) | [try to find you](https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU) | 1:39 | 2026-05-15 | 2026-06-13 |
 | [Tómið Titrar](https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 6:45 | 2022-11-09 | 2025-02-28 |

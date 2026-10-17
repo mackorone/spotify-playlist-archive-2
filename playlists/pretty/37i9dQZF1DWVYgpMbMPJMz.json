@@ -1,13 +1,29 @@
 {
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Roosevelt Stewart",
-  "num_followers": 1623391,
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Josh Baldwin",
+  "num_followers": 1623409,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMdrhGaDR7Ykfh15uSh66FEmWdqK",
+  "snapshot_id": "AAAAAEbU65H3HbzwIXNwCdTCrwU8xWmV",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:42:44",
+      "album": {
+        "name": "Worth Everything",
+        "url": "https://open.spotify.com/album/2PEJzFepo0yBNtLma4flW6"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Whole Heart",
+      "url": "https://open.spotify.com/track/5aOwxm0zEWCgjGeOnwKEFc"
+    },
     {
       "added_at": "2026-10-09 04:08:34",
       "album": {
@@ -159,6 +175,26 @@
       "duration_ms": 294000,
       "name": "GREATNESS",
       "url": "https://open.spotify.com/track/0oGLqmZ6444crY4vt3Kjru"
+    },
+    {
+      "added_at": "2026-10-16 04:42:44",
+      "album": {
+        "name": "Promised Land (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kendra Benay",
+          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Let Me Say - Live",
+      "url": "https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -353,6 +389,26 @@
       "url": "https://open.spotify.com/track/1dqyWKC9XTP03pqhFd3zXU"
     },
     {
+      "added_at": "2026-10-16 04:42:44",
+      "album": {
+        "name": "Psalms, Vol. 3",
+        "url": "https://open.spotify.com/album/3sQaSdmdi5IqMIUrm3Fg9f"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Lucy James",
+          "url": "https://open.spotify.com/artist/4dbKmqTkkJ5dm7tWedJLih"
+        }
+      ],
+      "duration_ms": 289288,
+      "name": "Salvation Belongs to You - Psalm 3",
+      "url": "https://open.spotify.com/track/4k8yvre9iIwDjijObl2nBC"
+    },
+    {
       "added_at": "2026-10-09 04:08:34",
       "album": {
         "name": "give + take (Live)",
@@ -437,6 +493,26 @@
       "url": "https://open.spotify.com/track/3JguJhYBHNBUTGxIMJBthz"
     },
     {
+      "added_at": "2026-10-16 04:42:44",
+      "album": {
+        "name": "I Can't Get Enough",
+        "url": "https://open.spotify.com/album/5PYEntsPekkjKRTI6fROoW"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Anjin Teal",
+          "url": "https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc"
+        }
+      ],
+      "duration_ms": 305840,
+      "name": "I Can't Get Enough",
+      "url": "https://open.spotify.com/track/4UnHmFRSS1rYUUtDtB4bRv"
+    },
+    {
       "added_at": "2026-10-09 04:08:34",
       "album": {
         "name": "I Will Follow",
@@ -467,22 +543,6 @@
       "duration_ms": 260391,
       "name": "Over and Over Again",
       "url": "https://open.spotify.com/track/42AOaOTebpjOa5u7Cpu769"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
-        "name": "The Stone Is Rolled",
-        "url": "https://open.spotify.com/album/7jzNpjXPqZPpJExQWnPMqF"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 248426,
-      "name": "The Stone Is Rolled",
-      "url": "https://open.spotify.com/track/2Z03iujCPYRLOHse67Ppzw"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -519,6 +579,26 @@
       "duration_ms": 262935,
       "name": "AMAZING!",
       "url": "https://open.spotify.com/track/6sBqTPsiudzkESXDpPI6t5"
+    },
+    {
+      "added_at": "2026-10-16 04:42:44",
+      "album": {
+        "name": "God Did It (Dios Lo Hizo) [Live]",
+        "url": "https://open.spotify.com/album/4qBYirhiY2CHM4eoyytUOr"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        },
+        {
+          "name": "Planetshakers Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/7qFoOJ83QEGQFCgBeFMhkP"
+        }
+      ],
+      "duration_ms": 248722,
+      "name": "God Did It (Dios Lo Hizo) - Live",
+      "url": "https://open.spotify.com/track/4YHP0zDlIbDHeXOmiUOOmh"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -703,22 +783,6 @@
     {
       "added_at": "2026-10-09 04:08:34",
       "album": {
-        "name": "Praise Upon Praise",
-        "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 244664,
-      "name": "Praise Upon Praise",
-      "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
         "name": "All Saints",
         "url": "https://open.spotify.com/album/7nUTDyYt6MDoPZIsvoccU7"
       },
@@ -735,30 +799,6 @@
     {
       "added_at": "2026-10-09 04:08:34",
       "album": {
-        "name": "CRISTO (Ingl\u00e9s/Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/3ABQFxUoKmbFzPVL6MHcyK"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Austin Benjamin",
-          "url": "https://open.spotify.com/artist/1mLZGJNyogDspBWiSgAfcR"
-        }
-      ],
-      "duration_ms": 406843,
-      "name": "CRISTO (Ingl\u00e9s/Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/3bU3Rv06nnFepEacgUwzYT"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
         "name": "When You're In The Room",
         "url": "https://open.spotify.com/album/5QrP58DRf8eY6EbwlAfD53"
       },
@@ -771,30 +811,6 @@
       "duration_ms": 296660,
       "name": "The Lord Is Here",
       "url": "https://open.spotify.com/track/43pTyhLJ4zWIsdAO9tHtbz"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
-        "name": "WITNESS",
-        "url": "https://open.spotify.com/album/6IHSchKQlkzCKFE8ra7Qgy"
-      },
-      "artists": [
-        {
-          "name": "Red Worship",
-          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        },
-        {
-          "name": "Jonathan Stamper",
-          "url": "https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA"
-        }
-      ],
-      "duration_ms": 317624,
-      "name": "The Name of Jesus",
-      "url": "https://open.spotify.com/track/1Wxr8BSobPPqgN5CcHe1GU"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -879,22 +895,6 @@
       "duration_ms": 325791,
       "name": "Praise The Lord Forever",
       "url": "https://open.spotify.com/track/7uCnLOu70IDBrrHUyspQzX"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
-        "name": "One Desire (Live in the UK)",
-        "url": "https://open.spotify.com/album/4uHZ6TcIuFVyNiZyCGbA8A"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 680756,
-      "name": "One Desire - Live in the UK",
-      "url": "https://open.spotify.com/track/7CGPhZmitIUvbylF9ilOSj"
     },
     {
       "added_at": "2026-10-09 04:08:34",

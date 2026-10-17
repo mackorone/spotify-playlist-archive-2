@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: DYGL  \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,153 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,195 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 2 | [根深](https://open.spotify.com/track/3u3lVdfq47YR5AHGNFO0LE) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [致走到這裡的](https://open.spotify.com/album/2mxHsnMn7LBiL6gFGXNNW6) | 3:37 |
 | 3 | [ERIDANIA](https://open.spotify.com/track/15uJ0pBTEmmdHcnlQz4dAh) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [LIBEROSIS](https://open.spotify.com/album/3UtaKn7ZkdQbLbs03vHN3b) | 3:54 |
 | 4 | [losing day](https://open.spotify.com/track/49aPNg6BfrtsmRHP5UdWfG) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [losing day](https://open.spotify.com/album/6FGBPy6c3qwggfEORbbkvE) | 6:20 |
-| 5 | [Track 1](https://open.spotify.com/track/7GGOKe8Pn1jVzNIw3MzAc8) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Little Miss Matched](https://open.spotify.com/album/75JSLtDKrPyrfmrNEWTaNC) | 0:00 |
+| 5 | [FIG For Dummies](https://open.spotify.com/track/7GGOKe8Pn1jVzNIw3MzAc8) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Little Miss Matched](https://open.spotify.com/album/75JSLtDKrPyrfmrNEWTaNC) | 2:39 |
 | 6 | [HANA](https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 5:02 |
 | 7 | [bow wow](https://open.spotify.com/track/3xYJXzaB3dTT9g6UqQD1bo) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4), [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [bow wow](https://open.spotify.com/album/4x0putRWieOZix3J94EWWL) | 2:29 |
 | 8 | [Burgers42](https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Burgers42](https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Peppa’s summer](https://open.spotify.com/track/4F6aflDvbZOpUciaWrWAIo) | [Ân ngờ](https://open.spotify.com/artist/3Myoe574gxIKLU5bKqjkFk), [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [0 Ngờ](https://open.spotify.com/album/7zhnx9rH8ShNiNchhqTNI9) | 4:03 |
 | 100 | [Sea Glass](https://open.spotify.com/track/2u883GiP4G01Qaj1uIX0et) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [Sea Glass](https://open.spotify.com/album/6OYARdj7NKR0B3d9edwCXO) | 2:58 |
 
-Snapshot ID: `AAAAABalokUhCjyRAy29YgBnyPc5O2ku`
+Snapshot ID: `AAAAANyM3cxenswjObGCBSBD7nIDxMEX`

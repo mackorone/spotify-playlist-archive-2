@@ -1,12 +1,12 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 165332,
+  "num_followers": 165324,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJe095YpvAPjI/SBnpX9LRD38hAm",
+  "snapshot_id": "AAAAAIHGxUfbh3tfZkn/7J7uVnFKYPzO",
   "tracks": [
     {
       "added_at": "2025-11-12 17:50:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 212577,
-      "name": "infinite source",
-      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "A Song To Sing",
         "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 179928,
       "name": "A Song To Sing",
       "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "Nose On The Grindstone",
-      "url": "https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "Nose On The Grindstone",
+      "url": "https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2203,26 +2203,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Looks Like The End Of The Road",
-      "url": "https://open.spotify.com/track/4Yw2zhsCsAVkKKcVJPDrmy"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Reconstruction",
         "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
       },
@@ -2263,6 +2243,26 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4Yw2zhsCsAVkKKcVJPDrmy"
     },
     {
       "added_at": "2025-11-12 17:50:29",

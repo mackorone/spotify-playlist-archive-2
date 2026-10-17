@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the American songbook classics. Cover: Miles Davis",
-  "num_followers": 182322,
+  "num_followers": 182366,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4jm0nu3LNAFdeB+JnpNfYcqliU",
+  "snapshot_id": "AAAAAOX6npFhXrkVhtQBm98QxcC1VQwm",
   "tracks": [
     {
       "added_at": "2026-05-28 09:37:04",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 309666,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 515039,
       "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
       "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 399000,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Wailing With Lou",
         "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 380240,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 399000,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Pres and Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 410666,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Piano In The Background (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 199573,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Piano In The Background (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1319,18 +1319,34 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
+      "duration_ms": 363026,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 447760,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1355,34 +1371,18 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 447760,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 363026,
-      "name": "What Is This Thing Called Love?",
-      "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Small Groups: 1941-1945",
-        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Quintet",
-          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+        "name": "Small Groups: 1941-1945",
+        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Benny Goodman Quintet",
+          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Afternoon In Paris",
-      "url": "https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP"
+      "duration_ms": 183160,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1699,6 +1683,22 @@
       "duration_ms": 191146,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Afternoon In Paris",
+      "url": "https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Work From Home with Count Basie",
-        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 163599,
-      "name": "It's Only A Paper Moon",
-      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The Jazz Messengers",
         "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 333493,
       "name": "It's You or No One",
       "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Work From Home with Count Basie",
+        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 163599,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
     },
     {
       "added_at": "2026-05-28 09:37:04",

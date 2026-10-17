@@ -4973,6 +4973,24 @@
     },
     {
       "album": {
+        "name": "A flor do recome\u00e7o",
+        "url": "https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT"
+      },
+      "artists": [
+        {
+          "name": "Salvador Sobral",
+          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201851,
+      "name": "Homem louco",
+      "url": "https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu"
+    },
+    {
+      "album": {
         "name": "Hora de Ponta",
         "url": "https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5"
       },
@@ -10834,24 +10852,6 @@
       "duration_ms": 217013,
       "name": "Tiques de Rico",
       "url": "https://open.spotify.com/track/1SgsfPW9jh3LdicCpr0ggh"
-    },
-    {
-      "album": {
-        "name": "A flor do recome\u00e7o",
-        "url": "https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT"
-      },
-      "artists": [
-        {
-          "name": "Salvador Sobral",
-          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu"
     },
     {
       "album": {

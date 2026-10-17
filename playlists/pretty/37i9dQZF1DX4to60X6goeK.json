@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77012,
+  "num_followers": 77021,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMC4YMDPinvG2G9leCGLIAcHG6s",
+  "snapshot_id": "AAAAACyXL1dCFK7gTwZQNWOytA2NX7bd",
   "tracks": [
     {
       "added_at": "2026-10-02 09:59:15",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Planet Dust (Latte Remix)",
-        "url": "https://open.spotify.com/album/6lveuYxSFFgdgL1VMOGiJT"
-      },
-      "artists": [
-        {
-          "name": "Bad Company UK",
-          "url": "https://open.spotify.com/artist/4AAf6BI1IJxvkqv98mDHin"
-        },
-        {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
-        }
-      ],
-      "duration_ms": 358620,
-      "name": "Planet Dust - Latte Remix",
-      "url": "https://open.spotify.com/track/2mWKhxXzTebK51PqWoDsVv"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
         "name": "Hijack",
         "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 155913,
       "name": "Hijack",
       "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
+        "name": "Planet Dust (Latte Remix)",
+        "url": "https://open.spotify.com/album/6lveuYxSFFgdgL1VMOGiJT"
+      },
+      "artists": [
+        {
+          "name": "Bad Company UK",
+          "url": "https://open.spotify.com/artist/4AAf6BI1IJxvkqv98mDHin"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        }
+      ],
+      "duration_ms": 358620,
+      "name": "Planet Dust - Latte Remix",
+      "url": "https://open.spotify.com/track/2mWKhxXzTebK51PqWoDsVv"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
+        "name": "Goose Chase",
+        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "duration_ms": 180344,
+      "name": "Goose Chase",
+      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
         "name": "Satellite (SOTA Remix)",
         "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
-        "name": "Goose Chase",
-        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 180344,
-      "name": "Goose Chase",
-      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
         "name": "Go Hard / Wednesday",
         "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 267586,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
     },
     {
       "added_at": "2026-10-02 09:59:15",

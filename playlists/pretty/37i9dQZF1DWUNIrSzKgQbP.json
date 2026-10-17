@@ -1,12 +1,12 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1629998,
+  "num_followers": 1629819,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUX1Duf/vus1iXZIFgtmD1Oj6Tb",
+  "snapshot_id": "AAAAAEhx26K5uOj/knub3nyNgPR4+aM4",
   "tracks": [
     {
       "added_at": "2026-07-09 23:27:48",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Wishing Stone",
-        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Wishing Stone",
-      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "JVC",
         "url": "https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/26NtL6qvVuRqFrpimqxSwx"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Would It Kill Ya",
         "url": "https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 165500,
       "name": "Would It Kill Ya",
       "url": "https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 217648,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Such Love Does",
         "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 163698,
       "name": "Artichoke",
       "url": "https://open.spotify.com/track/4bM74eqvr4Pr9CmYeDYOht"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 217648,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw"
     },
     {
       "added_at": "2026-07-09 23:27:48",

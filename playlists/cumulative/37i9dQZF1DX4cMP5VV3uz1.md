@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-734 songs - 1 day 18 hr 9 min
+735 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Back 2 Dance](https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Back 2 Dance](https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1) | 2:52 | 2025-01-17 | 2025-06-13 |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-08 | 2025-05-09 |
 | [BAD BOY](https://open.spotify.com/track/1CdJUMDI868MDRZXEF0Vzt) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [BAD BOY](https://open.spotify.com/album/6tpAQ0U2U8qblcluGpw83C) | 2:16 | 2025-04-17 | 2025-06-13 |
+| [Bad Boy Flows](https://open.spotify.com/track/2ciwhvkH8vxYI8SBhFAYRY) | [Gray](https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y) | [Bad Boy Flows](https://open.spotify.com/album/6xAt9yuZuGIeiZUkHQZnJy) | 2:41 | 2026-10-16 |  |
 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 | 2025-02-28 | 2025-11-14 |
 | [Bad Boy Sound](https://open.spotify.com/track/01lMETOJim0OHTjm58kTpP) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [MC Det](https://open.spotify.com/artist/5PRWbPr1SH9b9zqud4vM63) | [Bad Boy Sound](https://open.spotify.com/album/0u8ZhD9UF6avntLFjY48im) | 3:21 | 2025-02-07 | 2025-10-03 |
 | [Bad Decisions](https://open.spotify.com/track/48TJKpliEWAurs5fMSbRAZ) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Cameron Warren](https://open.spotify.com/artist/6IQYJzN5PeAnBEONnt6Ta8) | [Babylon](https://open.spotify.com/album/6n6QkIZ8Wpo4vlP6q5UaZ7) | 3:15 | 2024-10-03 | 2024-10-19 |
@@ -405,7 +406,7 @@
 | [Mob Deep](https://open.spotify.com/track/0WpgioIi0lNOaYHrMaRn2S) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Mob Deep](https://open.spotify.com/album/2TjLCvrgccR5RjdACRDZgC) | 3:57 | 2025-05-22 | 2026-01-23 |
 | [Moments](https://open.spotify.com/track/6fdr24Ns8PoBQ8wGwuupRr) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Moments](https://open.spotify.com/album/2Qkuca2YzJW0cSPiGrPXmR) | 3:47 | 2022-09-30 | 2023-09-22 |
 | [Monolith](https://open.spotify.com/track/0eAWY0FfeEg7O0oCEKyn11) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Monolith](https://open.spotify.com/album/0rK9vXi9V8LRz0beKfhn1u) | 5:12 | 2025-07-03 | 2026-01-23 |
-| [Monster](https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Monster](https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H) | 2:59 | 2026-02-13 |  |
+| [Monster](https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Monster](https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H) | 2:59 | 2026-02-13 | 2026-10-17 |
 | [Mood](https://open.spotify.com/track/14pFCy9Wnkpt1SWJxQJZ6I) | [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt), [JoSoSick](https://open.spotify.com/artist/4plADgQTqVwQboafH6KsGL) | [Mood](https://open.spotify.com/album/0G6B8ftsjom1AvlFT3qXnj) | 3:28 | 2026-07-06 |  |
 | [Mosh Pit \(feat\. Haribo\)](https://open.spotify.com/track/2g3NNzNps6fCjsbcA91yH6) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Mosh Pit / Dance](https://open.spotify.com/album/4dZO0gDZhi5aKzIoaVkqk7) | 4:10 | 2023-05-19 | 2023-07-28 |
 | [MOTION](https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [MOTION](https://open.spotify.com/album/2nbddblRCfy4MTsOwVoutS) | 3:13 | 2025-07-03 | 2026-01-23 |

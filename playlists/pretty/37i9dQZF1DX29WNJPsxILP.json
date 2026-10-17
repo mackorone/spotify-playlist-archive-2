@@ -1,12 +1,12 @@
 {
   "description": "Best of Hindi Hip-Hop! Cover: Karma",
-  "num_followers": 163153,
+  "num_followers": 163170,
   "original_name": "RAP 91 Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOsUX347FzvBEixccexVS4L2QxVM",
+  "snapshot_id": "AAAAAM6uJOW3wHwD/uQZEWlkwnmIeoPW",
   "tracks": [
     {
       "added_at": "2026-10-09 12:51:40",
@@ -29,32 +29,68 @@
       "url": "https://open.spotify.com/track/2NZ2UcSBpVYLMfAmiGc6dT"
     },
     {
-      "added_at": "2026-10-09 12:51:40",
+      "added_at": "2026-10-16 12:19:08",
       "album": {
-        "name": "Choozay (From \"Udta Teer\")",
-        "url": "https://open.spotify.com/album/2WqjkiwpP8Ks3qMt41epWo"
+        "name": "NO FORMULA",
+        "url": "https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
         },
         {
-          "name": "Emiway Bantai",
-          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG"
         },
         {
-          "name": "Jigar Saraiya",
-          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
         }
       ],
-      "duration_ms": 205262,
-      "name": "Choozay (From \"Udta Teer\")",
-      "url": "https://open.spotify.com/track/01rADlnzHr3ezpa225Glpa"
+      "duration_ms": 189295,
+      "name": "Part of the Plan",
+      "url": "https://open.spotify.com/track/06Be61d0UC2430tMB9JrRw"
+    },
+    {
+      "added_at": "2026-10-16 12:19:08",
+      "album": {
+        "name": "UNDERDOG SHIT (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/1wyNvbe4M9W9MDWg3GijBh"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "duration_ms": 160326,
+      "name": "UNDERDOG SHIT - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/4vIHnp07ywhdEHJGDMHhvF"
+    },
+    {
+      "added_at": "2026-10-16 12:19:08",
+      "album": {
+        "name": "Hustle 5 - Episode 1",
+        "url": "https://open.spotify.com/album/7AkhiJT2Ff75LRqWHmvQT8"
+      },
+      "artists": [
+        {
+          "name": "Dhadkan",
+          "url": "https://open.spotify.com/artist/57JOmmcrq0tuWiOmXqYfHL"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "duration_ms": 219516,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/0xOlab5Y5HFFn29mEt3dQR"
     },
     {
       "added_at": "2026-10-02 05:00:05",
@@ -129,6 +165,34 @@
       "url": "https://open.spotify.com/track/351dCswaJ118gyxKoIlmbV"
     },
     {
+      "added_at": "2026-10-09 12:51:40",
+      "album": {
+        "name": "Choozay (From \"Udta Teer\")",
+        "url": "https://open.spotify.com/album/2WqjkiwpP8Ks3qMt41epWo"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 205262,
+      "name": "Choozay (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/01rADlnzHr3ezpa225Glpa"
+    },
+    {
       "added_at": "2026-10-02 05:00:05",
       "album": {
         "name": "Utha Patak",
@@ -167,6 +231,26 @@
       "duration_ms": 169893,
       "name": "AABHAARI HOON",
       "url": "https://open.spotify.com/track/0TvBGs9qgh5NC9Zmx1LuNi"
+    },
+    {
+      "added_at": "2026-10-16 12:19:08",
+      "album": {
+        "name": "Hustle 5 - Episode 20",
+        "url": "https://open.spotify.com/album/1a6i4Df761IgbLPk9pGey8"
+      },
+      "artists": [
+        {
+          "name": "whysoKai",
+          "url": "https://open.spotify.com/artist/6yCPQJ2eFDzdhaSVcM7h8q"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "duration_ms": 178742,
+      "name": "Subtle Starboy",
+      "url": "https://open.spotify.com/track/19xwDOl9suKxudBRENTRA5"
     },
     {
       "added_at": "2026-10-02 05:00:05",
@@ -263,26 +347,6 @@
       "duration_ms": 155562,
       "name": "Mast",
       "url": "https://open.spotify.com/track/5o3STtBAtkeqPBw69ZUZWs"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "Hustle 5 - Episode 10",
-        "url": "https://open.spotify.com/album/2iT2C0zfFKOvgynAPpEOUv"
-      },
-      "artists": [
-        {
-          "name": "whysoKai",
-          "url": "https://open.spotify.com/artist/6yCPQJ2eFDzdhaSVcM7h8q"
-        },
-        {
-          "name": "Aditya Pushkarna",
-          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
-        }
-      ],
-      "duration_ms": 155844,
-      "name": "DAMN IT RABBIT",
-      "url": "https://open.spotify.com/track/41P5ixs4bxZENT3IvvxOSw"
     },
     {
       "added_at": "2026-10-02 05:00:05",
@@ -527,26 +591,6 @@
     {
       "added_at": "2026-10-02 05:00:05",
       "album": {
-        "name": "How Much a Rhyme Costs?",
-        "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
-      },
-      "artists": [
-        {
-          "name": "Karma",
-          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
-        },
-        {
-          "name": "Raftaar",
-          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
-        }
-      ],
-      "duration_ms": 204095,
-      "name": "Karta Kya Hai",
-      "url": "https://open.spotify.com/track/55rsHTpDenL0DajypexEI6"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
         "name": "Hustle 5 - Episode 2",
         "url": "https://open.spotify.com/album/6cFK70n0Pc4efHUXQOkWnd"
       },
@@ -683,26 +727,6 @@
       "duration_ms": 153333,
       "name": "Dua",
       "url": "https://open.spotify.com/track/6khIvDBic1d3weeALlkLIc"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "Hustle 5 - Episode 12",
-        "url": "https://open.spotify.com/album/05PJOGRq9bkrHVvNYhTdnX"
-      },
-      "artists": [
-        {
-          "name": "SickLot",
-          "url": "https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6"
-        },
-        {
-          "name": "Aditya Pushkarna",
-          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
-        }
-      ],
-      "duration_ms": 152832,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/0ZM4Sq2L0z6PTorf8ZNTUU"
     },
     {
       "added_at": "2026-10-02 05:00:05",
@@ -911,22 +935,6 @@
       "duration_ms": 209361,
       "name": "Classmate",
       "url": "https://open.spotify.com/track/0xKEqBJh5uYsjM4yYRdmyJ"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "Laying Low",
-        "url": "https://open.spotify.com/album/7nQrnBnkXx1BUTM5Qa4te7"
-      },
-      "artists": [
-        {
-          "name": "vichaar",
-          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Laying Low",
-      "url": "https://open.spotify.com/track/1CADvUV2bCufzrTvjNadmF"
     },
     {
       "added_at": "2026-10-02 05:00:05",
@@ -1159,70 +1167,6 @@
     {
       "added_at": "2026-10-02 05:00:05",
       "album": {
-        "name": "Rum, Racks & Roses",
-        "url": "https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu"
-      },
-      "artists": [
-        {
-          "name": "Aniket Raturi",
-          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
-        },
-        {
-          "name": "KALAM INK",
-          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Dooriyaan",
-      "url": "https://open.spotify.com/track/6X7v8svA1VDvf2moH1ak4T"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "Alif Laila (Part 2)",
-        "url": "https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i"
-      },
-      "artists": [
-        {
-          "name": "Farhan Khan",
-          "url": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "DRJ Sohail",
-          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
-        }
-      ],
-      "duration_ms": 180821,
-      "name": "Ajnabi",
-      "url": "https://open.spotify.com/track/6YjBJcOL9dvUhdzhvW0Z3M"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "Kala Khatta",
-        "url": "https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043"
-      },
-      "artists": [
-        {
-          "name": "Bali",
-          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
-        },
-        {
-          "name": "AN1K8T",
-          "url": "https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6"
-        }
-      ],
-      "duration_ms": 149696,
-      "name": "Sad Gaana",
-      "url": "https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
         "name": "TAX",
         "url": "https://open.spotify.com/album/6GVbLAebCu28akVbn0pa9A"
       },
@@ -1291,26 +1235,6 @@
     {
       "added_at": "2026-10-02 05:00:05",
       "album": {
-        "name": "Regret",
-        "url": "https://open.spotify.com/album/48y1lb2W155CpRSwfgY6ZR"
-      },
-      "artists": [
-        {
-          "name": "KALAM INK",
-          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
-        },
-        {
-          "name": "CJ CHIRAG",
-          "url": "https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV"
-        }
-      ],
-      "duration_ms": 249056,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/3LaUpvYmlVkxaQSNTKDDfK"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
         "name": "Bhala Kyun",
         "url": "https://open.spotify.com/album/4LOMwtCuIoTwddmvBsxta6"
       },
@@ -1371,62 +1295,6 @@
     {
       "added_at": "2026-10-02 05:00:05",
       "album": {
-        "name": "Log Kehte Hai",
-        "url": "https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp"
-      },
-      "artists": [
-        {
-          "name": "Poet Shaf",
-          "url": "https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b"
-        }
-      ],
-      "duration_ms": 235181,
-      "name": "Log Kehte Hai",
-      "url": "https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "Neelam Aur Neeli",
-        "url": "https://open.spotify.com/album/1tmmSAoYzkejkmWrSjMm1Z"
-      },
-      "artists": [
-        {
-          "name": "Encore ABJ",
-          "url": "https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6WlM9OTz4gFXoyU0QYgs9F"
-        },
-        {
-          "name": "RiJ",
-          "url": "https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y"
-        }
-      ],
-      "duration_ms": 264007,
-      "name": "Neelam Aur Neeli",
-      "url": "https://open.spotify.com/track/3OLFtvSeIizKQgsgrvK235"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "The Last Talk",
-        "url": "https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm"
-      },
-      "artists": [
-        {
-          "name": "The Singh",
-          "url": "https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14"
-        }
-      ],
-      "duration_ms": 180678,
-      "name": "The Last Talk",
-      "url": "https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
         "name": "MAMAFICATION",
         "url": "https://open.spotify.com/album/61p43immTbGdNHL3UBQM84"
       },
@@ -1443,6 +1311,26 @@
       "duration_ms": 178653,
       "name": "NMC Ka Dagga (with Prathamesh)",
       "url": "https://open.spotify.com/track/51pdqv6Vhk8WWqRZzMAuid"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "How Much a Rhyme Costs?",
+        "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "duration_ms": 204095,
+      "name": "Karta Kya Hai",
+      "url": "https://open.spotify.com/track/55rsHTpDenL0DajypexEI6"
     },
     {
       "added_at": "2026-10-02 05:00:05",
@@ -1471,26 +1359,6 @@
       "duration_ms": 196530,
       "name": "RAAT KHATAM",
       "url": "https://open.spotify.com/track/5ouEJmTeRmpnE3jDcUalQ4"
-    },
-    {
-      "added_at": "2026-10-02 05:00:05",
-      "album": {
-        "name": "BOHOT AJEEB ARTIST",
-        "url": "https://open.spotify.com/album/1S16lAF2I5TWqJ2SClP3lq"
-      },
-      "artists": [
-        {
-          "name": "Albela",
-          "url": "https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO"
-        },
-        {
-          "name": "Dronark",
-          "url": "https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Niyat Kharaab Hai",
-      "url": "https://open.spotify.com/track/5kjmrSUYFhhYVEhD8wkgho"
     },
     {
       "added_at": "2026-10-02 05:00:05",
@@ -1531,6 +1399,150 @@
       "duration_ms": 208500,
       "name": "Mann Ke Raaz",
       "url": "https://open.spotify.com/track/5eKN0T4WY8P4ZhqpO78BOm"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "BOHOT AJEEB ARTIST",
+        "url": "https://open.spotify.com/album/1S16lAF2I5TWqJ2SClP3lq"
+      },
+      "artists": [
+        {
+          "name": "Albela",
+          "url": "https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO"
+        },
+        {
+          "name": "Dronark",
+          "url": "https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Niyat Kharaab Hai",
+      "url": "https://open.spotify.com/track/5kjmrSUYFhhYVEhD8wkgho"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "Regret",
+        "url": "https://open.spotify.com/album/48y1lb2W155CpRSwfgY6ZR"
+      },
+      "artists": [
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        },
+        {
+          "name": "CJ CHIRAG",
+          "url": "https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV"
+        }
+      ],
+      "duration_ms": 249056,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/3LaUpvYmlVkxaQSNTKDDfK"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "Rum, Racks & Roses",
+        "url": "https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu"
+      },
+      "artists": [
+        {
+          "name": "Aniket Raturi",
+          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
+        },
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Dooriyaan",
+      "url": "https://open.spotify.com/track/6X7v8svA1VDvf2moH1ak4T"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "Alif Laila (Part 2)",
+        "url": "https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i"
+      },
+      "artists": [
+        {
+          "name": "Farhan Khan",
+          "url": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "duration_ms": 180821,
+      "name": "Ajnabi",
+      "url": "https://open.spotify.com/track/6YjBJcOL9dvUhdzhvW0Z3M"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "Kala Khatta",
+        "url": "https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043"
+      },
+      "artists": [
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "AN1K8T",
+          "url": "https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6"
+        }
+      ],
+      "duration_ms": 149696,
+      "name": "Sad Gaana",
+      "url": "https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "Neelam Aur Neeli",
+        "url": "https://open.spotify.com/album/1tmmSAoYzkejkmWrSjMm1Z"
+      },
+      "artists": [
+        {
+          "name": "Encore ABJ",
+          "url": "https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6WlM9OTz4gFXoyU0QYgs9F"
+        },
+        {
+          "name": "RiJ",
+          "url": "https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y"
+        }
+      ],
+      "duration_ms": 264007,
+      "name": "Neelam Aur Neeli",
+      "url": "https://open.spotify.com/track/3OLFtvSeIizKQgsgrvK235"
+    },
+    {
+      "added_at": "2026-10-02 05:00:05",
+      "album": {
+        "name": "The Last Talk",
+        "url": "https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm"
+      },
+      "artists": [
+        {
+          "name": "The Singh",
+          "url": "https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14"
+        }
+      ],
+      "duration_ms": 180678,
+      "name": "The Last Talk",
+      "url": "https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH"
     }
   ],
   "unique_name": "RAP 91 Hindi",

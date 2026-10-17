@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,772 songs - 4 day 6 hr 59 min
+1,773 songs - 4 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-10-03 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-20 | 2021-05-23 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-11 | 2022-05-13 |
-| [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 | 2025-11-24 | 2026-09-12 |
+| [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 | 2025-11-24 |  |
 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 | 2025-05-22 | 2025-06-21 |
 | [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 | 2025-05-20 | 2025-06-19 |
 | [Greatest Works of Art](https://open.spotify.com/track/6kbc35XZMhs9y9SEpAJKLJ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Greatest Works of Art](https://open.spotify.com/album/014D4QX0zLjN25inbVf8SL) | 4:04 | 2022-07-09 | 2022-07-16 |
@@ -440,7 +440,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-08-24 |
 | [Happy Virus \(DK Solo\)](https://open.spotify.com/track/7AQ53o110Mhvt1a2mtGP6V) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:14 | 2025-05-27 | 2025-05-31 |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-17 | 2023-04-03 |
-| [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 | 2026-10-13 |  |
+| [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 | 2026-10-13 | 2026-10-17 |
 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-30 | 2026-08-01 |
 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 | 2026-08-01 |  |
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 | 2023-11-09 |
@@ -717,6 +717,7 @@
 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-19 | 2026-10-10 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-17 | 2024-09-28 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-05-20 | 2021-07-04 |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-10-16 |  |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2024-10-18 | 2024-11-08 |
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2024-11-13 | 2024-11-29 |
 | [No\. 29](https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 1:38 | 2026-03-21 | 2026-03-23 |
@@ -772,7 +773,7 @@
 | [Paradise](https://open.spotify.com/track/0M0LPSeg23xSAELGs2TbXf) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 3:09 | 2023-05-17 | 2023-05-19 |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2023-11-13 | 2023-11-17 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta) | 2:46 | 2025-11-08 | 2025-11-10 |
-| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-26 |  |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-26 | 2026-10-17 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2026-04-25 |
 | [PEDAL](https://open.spotify.com/track/4Bu0DkOTWHyT5E1DDMjt42) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [更好](https://open.spotify.com/album/0FKC566l6cp7gHF0QXe9G3) | 2:57 | 2025-10-02 | 2025-10-05 |
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:33 | 2023-04-22 | 2023-04-24 |
@@ -1315,7 +1316,7 @@
 | [在這座城市遺失了你 \(戲劇《他們創業的那些鳥事》插曲\)](https://open.spotify.com/track/1Ytgo9ipdlTsf6wlg6sXf3) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 5:57 | 2021-03-27\* | 2023-01-16 |
 | [坍塌](https://open.spotify.com/track/12KW27pCsJKG4ZJ7bnIaFw) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:33 | 2026-09-25 | 2026-09-27 |
 | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/track/5mQKqKNAINBrhl5MCXeDPi) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/album/3iBaI177ig9AIswqdDMzp7) | 4:27 | 2022-10-22 | 2022-10-30 |
-| [多遠都要在一起](https://open.spotify.com/track/55d0jw269HE9pbOt5ntCo8) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:37 | 2026-01-02 |  |
+| [多遠都要在一起](https://open.spotify.com/track/55d0jw269HE9pbOt5ntCo8) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:37 | 2026-01-02 | 2026-10-17 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-07-07 | 2024-01-07 |
 | [夜曲](https://open.spotify.com/track/1oLmDOpJtIMFdRFBXdnOvj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC) | 3:48 | 2024-12-07 | 2024-12-20 |
 | [夜曲](https://open.spotify.com/track/5rzlpdJ1LDX5VcARtsPKC8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 3:48 | 2024-12-13 | 2024-12-16 |
@@ -1576,7 +1577,7 @@
 | [湘女多情](https://open.spotify.com/track/2B8vNkGx8sXH6U9bugIEqJ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:58 | 2026-03-26 | 2026-04-10 |
 | [湘女多情](https://open.spotify.com/track/5YUQbuyl3jrunVHO2yMyMj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN) | 3:58 | 2026-03-28 | 2026-03-30 |
 | [满天星辰不及你](https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM) | [yccc](https://open.spotify.com/artist/688ekAE2qdQA7jJbmqcXGL) | [满天星辰不及你](https://open.spotify.com/album/6AvfkqnDNGX27Lz7C02mIt) | 3:36 | 2022-11-05 | 2022-11-22 |
-| [演员](https://open.spotify.com/track/5Sib99jpYybZAicUMETb3h) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初学者](https://open.spotify.com/album/6fxZNu6wYqd7GDCVsFOAcw) | 4:21 | 2025-10-08 | 2026-10-16 |
+| [演员](https://open.spotify.com/track/5Sib99jpYybZAicUMETb3h) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初学者](https://open.spotify.com/album/6fxZNu6wYqd7GDCVsFOAcw) | 4:21 | 2025-10-08 |  |
 | [炙愛 \- 女聲版](https://open.spotify.com/track/3CEkc8f1UDvI7kohz3ARpA) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Am I Who I Am](https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1) | 3:01 | 2021-03-27\* | 2023-10-01 |
 | [為你寫下這首情歌](https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為你寫下這首情歌](https://open.spotify.com/album/7clyQmQE4BgF0XULsArbiZ) | 4:01 | 2022-12-15 | 2023-01-19 |
 | [為妳寫的歌](https://open.spotify.com/track/5qmtIGToI36Z9sNE7bvghH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:17 | 2025-03-02 | 2025-03-12 |

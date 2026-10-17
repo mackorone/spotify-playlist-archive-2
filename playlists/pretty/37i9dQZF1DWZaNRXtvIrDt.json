@@ -1,12 +1,12 @@
 {
-  "description": "A new world of alternative electronic music. Cover: Sam Alfred",
-  "num_followers": 128665,
+  "description": "A new world of alternative electronic music. Cover: Eden Burns",
+  "num_followers": 128657,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACwELm22HYAHDnPB/Pz/dcqrOZEd",
+  "snapshot_id": "AAAAADiA4HsTk95OYGts4whQDtCrFWur",
   "tracks": [
     {
       "added_at": "2026-10-01 14:00:09",
@@ -27,6 +27,138 @@
       "duration_ms": 266097,
       "name": "Cash Cure the Pain",
       "url": "https://open.spotify.com/track/1rRDI12yFOspPqTN3Ga12V"
+    },
+    {
+      "added_at": "2026-10-01 14:00:09",
+      "album": {
+        "name": "PUMP!",
+        "url": "https://open.spotify.com/album/4I4IfbtW5zz4Pr22BQjNAu"
+      },
+      "artists": [
+        {
+          "name": "Caleb Jackson",
+          "url": "https://open.spotify.com/artist/3YRKJG9dgxTToWLfQnp3h3"
+        }
+      ],
+      "duration_ms": 235038,
+      "name": "PUMP!",
+      "url": "https://open.spotify.com/track/7huj6KMjlyawZDeZfn2KOi"
+    },
+    {
+      "added_at": "2026-10-16 04:02:25",
+      "album": {
+        "name": "Expression On Your Face / Fembot",
+        "url": "https://open.spotify.com/album/0IXzSs819M2QT126j6heUM"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 218011,
+      "name": "Expression On Your Face - Robyn Remix",
+      "url": "https://open.spotify.com/track/6aPloFOrVltPzjn2SYNxCj"
+    },
+    {
+      "added_at": "2026-10-16 04:02:25",
+      "album": {
+        "name": "DJ-Kicks: Djrum",
+        "url": "https://open.spotify.com/album/3637Bps0b1qKRCV6aK6PiD"
+      },
+      "artists": [
+        {
+          "name": "Skee Mask",
+          "url": "https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ"
+        }
+      ],
+      "duration_ms": 305831,
+      "name": "Flip",
+      "url": "https://open.spotify.com/track/6D88ZSLo9KDMKagsKyovSQ"
+    },
+    {
+      "added_at": "2026-10-16 04:02:25",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
+    },
+    {
+      "added_at": "2026-07-16 14:00:25",
+      "album": {
+        "name": "Ordinary Badman",
+        "url": "https://open.spotify.com/album/0G9GXFwO58VA6N5zuShJ90"
+      },
+      "artists": [
+        {
+          "name": "Hugh B",
+          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
+        }
+      ],
+      "duration_ms": 222557,
+      "name": "Make U Want It",
+      "url": "https://open.spotify.com/track/44RSuo0MAKDUUpiOrLJbWz"
+    },
+    {
+      "added_at": "2026-10-16 04:02:25",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5sV43JXMs6AI5hk9mlQ7KU"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        },
+        {
+          "name": "DJ Swisha",
+          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
+        }
+      ],
+      "duration_ms": 262285,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6pRl3q116U4k2xv2dR03r1"
+    },
+    {
+      "added_at": "2026-10-16 04:02:25",
+      "album": {
+        "name": "jg",
+        "url": "https://open.spotify.com/album/5cxZwJZQ60UloQeadHuFrf"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "S\u00f8lv",
+          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
+        }
+      ],
+      "duration_ms": 236885,
+      "name": "Waiting - ft S\u00f8lv",
+      "url": "https://open.spotify.com/track/1dUMQ5YyJfxd7wYzmtXb0o"
     },
     {
       "added_at": "2026-10-01 14:00:09",
@@ -53,20 +185,20 @@
       "url": "https://open.spotify.com/track/09RtwKxixeK1qx6K6rjbJG"
     },
     {
-      "added_at": "2026-10-01 14:00:09",
+      "added_at": "2026-10-16 04:02:25",
       "album": {
-        "name": "PUMP!",
-        "url": "https://open.spotify.com/album/4I4IfbtW5zz4Pr22BQjNAu"
+        "name": "HUMANiSE",
+        "url": "https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe"
       },
       "artists": [
         {
-          "name": "Caleb Jackson",
-          "url": "https://open.spotify.com/artist/3YRKJG9dgxTToWLfQnp3h3"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 235038,
-      "name": "PUMP!",
-      "url": "https://open.spotify.com/track/7huj6KMjlyawZDeZfn2KOi"
+      "duration_ms": 338262,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6"
     },
     {
       "added_at": "2026-10-01 14:00:09",
@@ -95,22 +227,6 @@
     {
       "added_at": "2026-07-16 14:00:25",
       "album": {
-        "name": "Ordinary Badman",
-        "url": "https://open.spotify.com/album/0G9GXFwO58VA6N5zuShJ90"
-      },
-      "artists": [
-        {
-          "name": "Hugh B",
-          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
-        }
-      ],
-      "duration_ms": 222557,
-      "name": "Make U Want It",
-      "url": "https://open.spotify.com/track/44RSuo0MAKDUUpiOrLJbWz"
-    },
-    {
-      "added_at": "2026-07-16 14:00:25",
-      "album": {
         "name": "Cold at the Top (Shanti Celeste Remix)",
         "url": "https://open.spotify.com/album/26Pql0k7TczNyZBCPOLyAf"
       },
@@ -127,42 +243,6 @@
       "duration_ms": 353444,
       "name": "Cold at the Top - Shanti Celeste Remix",
       "url": "https://open.spotify.com/track/68Y4z8FEhHDStugmExZpuB"
-    },
-    {
-      "added_at": "2026-06-25 14:00:47",
-      "album": {
-        "name": "DIGITiSE",
-        "url": "https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        },
-        {
-          "name": "Pat Alvarez",
-          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "DIGITiSE",
-      "url": "https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Waaalk",
-        "url": "https://open.spotify.com/album/2jDwGQw9Xi02RkNuTquVuV"
-      },
-      "artists": [
-        {
-          "name": "Kuzco",
-          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
-        }
-      ],
-      "duration_ms": 323440,
-      "name": "Waaalk",
-      "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
     },
     {
       "added_at": "2026-08-27 20:00:11",
@@ -185,36 +265,20 @@
       "url": "https://open.spotify.com/track/13ADKoNailGRb5y2CpzUYf"
     },
     {
-      "added_at": "2026-07-23 14:00:27",
+      "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Rhinestones",
-        "url": "https://open.spotify.com/album/7KddMJsM3Lu69J9Bbtqy9H"
+        "name": "Waaalk",
+        "url": "https://open.spotify.com/album/2jDwGQw9Xi02RkNuTquVuV"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/7iSFSY5b9LgkwJgw1oAkjZ"
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
         }
       ],
-      "duration_ms": 378447,
-      "name": "Rhinestones",
-      "url": "https://open.spotify.com/track/1qnqa1tedA0zJIb6xvHzY6"
-    },
-    {
-      "added_at": "2026-08-03 03:01:30",
-      "album": {
-        "name": "Jomox",
-        "url": "https://open.spotify.com/album/0AiFx5KOe51ZbpG05xNk82"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Jomox",
-      "url": "https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v"
+      "duration_ms": 323440,
+      "name": "Waaalk",
+      "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
     },
     {
       "added_at": "2026-07-16 14:00:25",
@@ -233,6 +297,22 @@
       "url": "https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb"
     },
     {
+      "added_at": "2026-07-23 14:00:27",
+      "album": {
+        "name": "Mind Reader",
+        "url": "https://open.spotify.com/album/6hrSOzmapAUgFQiyzHl6X7"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "duration_ms": 379286,
+      "name": "Mind Reader",
+      "url": "https://open.spotify.com/track/5ot7fwHAE8j6gvS6eAIBRr"
+    },
+    {
       "added_at": "2026-07-16 14:00:25",
       "album": {
         "name": "Thunder EP",
@@ -249,24 +329,36 @@
       "url": "https://open.spotify.com/track/7FIqV18aiAsJpoeiE8pF7F"
     },
     {
-      "added_at": "2026-06-25 14:00:47",
+      "added_at": "2026-08-03 03:01:30",
       "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/26sj4Z6eywTIWHNBmN5Sw0"
+        "name": "Jomox",
+        "url": "https://open.spotify.com/album/0AiFx5KOe51ZbpG05xNk82"
       },
       "artists": [
         {
-          "name": "CC:DISCO!",
-          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
-        },
-        {
-          "name": "Manuel Darquart",
-          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 341500,
-      "name": "Don't You Want My Love",
-      "url": "https://open.spotify.com/track/6WeFRRqIox3cCwDRAQuLZ5"
+      "duration_ms": 176840,
+      "name": "Jomox",
+      "url": "https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v"
+    },
+    {
+      "added_at": "2026-07-23 14:00:27",
+      "album": {
+        "name": "Rhinestones",
+        "url": "https://open.spotify.com/album/7KddMJsM3Lu69J9Bbtqy9H"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/7iSFSY5b9LgkwJgw1oAkjZ"
+        }
+      ],
+      "duration_ms": 378447,
+      "name": "Rhinestones",
+      "url": "https://open.spotify.com/track/1qnqa1tedA0zJIb6xvHzY6"
     },
     {
       "added_at": "2026-08-27 20:00:11",
@@ -297,6 +389,42 @@
       "url": "https://open.spotify.com/track/5DXWCJDhpdGHI2oq5CEGDr"
     },
     {
+      "added_at": "2026-06-25 14:00:47",
+      "album": {
+        "name": "DIGITiSE",
+        "url": "https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Pat Alvarez",
+          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "DIGITiSE",
+      "url": "https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf"
+    },
+    {
+      "added_at": "2026-08-27 20:00:11",
+      "album": {
+        "name": "Emerald Web",
+        "url": "https://open.spotify.com/album/1giV4u6ARwOSNz4dcrP7qJ"
+      },
+      "artists": [
+        {
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Emerald Web",
+      "url": "https://open.spotify.com/track/1oR5NzGJ9L4PSZcexlhFr4"
+    },
+    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "COULD BE WRONG",
@@ -311,54 +439,6 @@
       "duration_ms": 186046,
       "name": "COULD BE WRONG",
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
-    },
-    {
-      "added_at": "2026-07-23 14:00:27",
-      "album": {
-        "name": "Mind Reader",
-        "url": "https://open.spotify.com/album/6hrSOzmapAUgFQiyzHl6X7"
-      },
-      "artists": [
-        {
-          "name": "Human Movement",
-          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
-        }
-      ],
-      "duration_ms": 379286,
-      "name": "Mind Reader",
-      "url": "https://open.spotify.com/track/5ot7fwHAE8j6gvS6eAIBRr"
-    },
-    {
-      "added_at": "2026-07-23 14:00:27",
-      "album": {
-        "name": "Unfold Me",
-        "url": "https://open.spotify.com/album/0xKFlbqRurBLyANvAN3JE7"
-      },
-      "artists": [
-        {
-          "name": "Juicy Romance",
-          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
-        }
-      ],
-      "duration_ms": 163317,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/4r9vSPOFseeHuKVafFDCTU"
-    },
-    {
-      "added_at": "2026-07-16 14:00:25",
-      "album": {
-        "name": "Mind Blow",
-        "url": "https://open.spotify.com/album/1qbysUgSQFiOffnHALIO91"
-      },
-      "artists": [
-        {
-          "name": "CLIFFORD",
-          "url": "https://open.spotify.com/artist/6o83wCOMMLEQyR8F3GWppf"
-        }
-      ],
-      "duration_ms": 320597,
-      "name": "Mind Blow",
-      "url": "https://open.spotify.com/track/26vQCdnaD8OujkbrUInBSF"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -465,22 +545,6 @@
       "url": "https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK"
     },
     {
-      "added_at": "2026-08-27 20:00:11",
-      "album": {
-        "name": "Emerald Web",
-        "url": "https://open.spotify.com/album/1giV4u6ARwOSNz4dcrP7qJ"
-      },
-      "artists": [
-        {
-          "name": "Jensen Interceptor",
-          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Emerald Web",
-      "url": "https://open.spotify.com/track/1oR5NzGJ9L4PSZcexlhFr4"
-    },
-    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "Both Of Us",
@@ -511,6 +575,26 @@
       "duration_ms": 149772,
       "name": "Shoreditch",
       "url": "https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W"
+    },
+    {
+      "added_at": "2026-10-16 04:02:25",
+      "album": {
+        "name": "MEANT TO BE",
+        "url": "https://open.spotify.com/album/6MoccCZq9aCOif59XMqkxp"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 178185,
+      "name": "MEANT TO BE",
+      "url": "https://open.spotify.com/track/7zJxlGeNQU0ABxIifFTStj"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -843,94 +927,6 @@
       "duration_ms": 186666,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "C'est Toi",
-        "url": "https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF"
-      },
-      "artists": [
-        {
-          "name": "LNRT",
-          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "C'est Toi",
-      "url": "https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "HARDSTYLE 2",
-        "url": "https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        }
-      ],
-      "duration_ms": 286285,
-      "name": "HARDSTYLE 2",
-      "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Naisha",
-          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
-        }
-      ],
-      "duration_ms": 232984,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     }
   ],
   "unique_name": "Portal",

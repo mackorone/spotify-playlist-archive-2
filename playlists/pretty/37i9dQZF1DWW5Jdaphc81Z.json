@@ -1,12 +1,12 @@
 {
   "description": "mykonos season is here.",
-  "num_followers": 220652,
+  "num_followers": 220697,
   "original_name": "Mykonos Calling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJR7ByisyXJeP7+NCLBre1Wfzlbe",
+  "snapshot_id": "AAAAAEPC/E4SF7pOZR/pTFj/vP8VEDwx",
   "tracks": [
     {
       "added_at": "2026-08-27 21:01:11",
@@ -387,30 +387,22 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Forever (feat. Malou & Yuna)",
-        "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Forever (feat. Malou & Yuna)",
-      "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -455,6 +447,54 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Forever (feat. Malou & Yuna)",
+        "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Forever (feat. Malou & Yuna)",
+      "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Assunto / Window Shake",
+        "url": "https://open.spotify.com/album/46I9p8xZmYec27ppxJdbR2"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "SOLANCE",
+          "url": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Assunto",
+      "url": "https://open.spotify.com/track/1uQLmsSdOT0F4iXpCDN1sZ"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
       },
@@ -487,26 +527,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Assunto / Window Shake",
-        "url": "https://open.spotify.com/album/46I9p8xZmYec27ppxJdbR2"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "SOLANCE",
-          "url": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Assunto",
-      "url": "https://open.spotify.com/track/1uQLmsSdOT0F4iXpCDN1sZ"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Beso (Fruta Fresca)",
         "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
       },
@@ -523,6 +543,26 @@
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "This Rhythm (feat. RAHH)",
+        "url": "https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "This Rhythm (feat. RAHH)",
+      "url": "https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -547,46 +587,6 @@
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "This Rhythm (feat. RAHH)",
-        "url": "https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "RAHH",
-          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "This Rhythm (feat. RAHH)",
-      "url": "https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "A Gira",
-        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 152325,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Jackie B",
         "url": "https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "A Gira",
+        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 152325,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Milkshake 20 (Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
       },
       "artists": [
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
         },
         {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
         }
       ],
-      "duration_ms": 176949,
-      "name": "Milkshake 20 - Alex Wann Remix",
-      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
+      "duration_ms": 256488,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0HB4odbGJbgR0ffA4rJoxS"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "The Reset",
-        "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         },
         {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
         }
       ],
-      "duration_ms": 256488,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0HB4odbGJbgR0ffA4rJoxS"
+      "duration_ms": 176949,
+      "name": "Milkshake 20 - Alex Wann Remix",
+      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
     },
     {
       "added_at": "2026-08-27 21:01:11",

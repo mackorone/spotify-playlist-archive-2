@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,605 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,616 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 |
 | 50 | [Safar](https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kimaya](https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03) | 4:36 |
 
-Snapshot ID: `AAAAALALTYyi7djobqNzvwrZrprf+bjd`
+Snapshot ID: `AAAAADZ/EgISrK5ocKkHaxd2RAIiteLx`

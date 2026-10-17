@@ -5789,6 +5789,28 @@
     },
     {
       "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5OMOHQHGLrJAUEXHxL5LNa"
+      },
+      "artists": [
+        {
+          "name": "Anni B Sweet",
+          "url": "https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "En mi olvido",
+      "url": "https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV"
+    },
+    {
+      "album": {
         "name": "La Casa House",
         "url": "https://open.spotify.com/album/1e9qOWj1WzFJzmEzNWgvzN"
       },
@@ -8718,6 +8740,24 @@
       "duration_ms": 208179,
       "name": "La Grieta (Una casa)",
       "url": "https://open.spotify.com/track/7yZ3xzcjqS5QVPesRuvvLO"
+    },
+    {
+      "album": {
+        "name": "Por Los Signos",
+        "url": "https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw"
+      },
+      "artists": [
+        {
+          "name": "EDDI CIRCA",
+          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "La H\u00fangara",
+      "url": "https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk"
     },
     {
       "album": {
@@ -17222,42 +17262,6 @@
       "duration_ms": 160124,
       "name": "TRABAJAR EN VERANO",
       "url": "https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT"
-    },
-    {
-      "album": {
-        "name": "Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5OMOHQHGLrJAUEXHxL5LNa"
-      },
-      "artists": [
-        {
-          "name": "Anni B Sweet",
-          "url": "https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV"
-    },
-    {
-      "album": {
-        "name": "Por Los Signos",
-        "url": "https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw"
-      },
-      "artists": [
-        {
-          "name": "EDDI CIRCA",
-          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk"
     },
     {
       "album": {

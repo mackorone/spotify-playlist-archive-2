@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,378 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,408 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [October Nights](https://open.spotify.com/track/33iFfeY7WZ37MVgvaOwp97) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [October Nights](https://open.spotify.com/album/3Kpop9c8APS7fy7skeV7Ty) | 3:36 |
-| 2 | [Things Are Looking Up](https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [A Simple Man](https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG) | 3:57 |
-| 3 | [FaceTime](https://open.spotify.com/track/5cfSKHoXLA7F9eLGUgMrpg) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [FaceTime](https://open.spotify.com/album/61om1gZ99vIyd1rSKGEtw8) | 3:49 |
-| 4 | [You and Me](https://open.spotify.com/track/6TMdQwrtqoP7DdC29TSFMS) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [You and Me](https://open.spotify.com/album/6OwzNhcLXB8dIm9bpGVZQz) | 4:32 |
-| 5 | [Between The Beats](https://open.spotify.com/track/2zyIojU16tXMkYj8Ik57cY) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Between The Beats](https://open.spotify.com/album/5pjFDSaEtMdUKr7nnGUa0u) | 4:01 |
-| 6 | [How Great Thou Art](https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [How Great Thou Art](https://open.spotify.com/album/0CTZlCuXV7d50WlqFSxZ5S) | 4:29 |
+| 1 | [Lost Without You](https://open.spotify.com/track/0kAq0wmIIsNPrk51n07F7x) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [My Inspiration Vol.3](https://open.spotify.com/album/1DJcwPSIGv8zCk93v7f1iF) | 4:12 |
+| 2 | [October Nights](https://open.spotify.com/track/33iFfeY7WZ37MVgvaOwp97) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [October Nights](https://open.spotify.com/album/3Kpop9c8APS7fy7skeV7Ty) | 3:36 |
+| 3 | [Things Are Looking Up](https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [A Simple Man](https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG) | 3:57 |
+| 4 | [FaceTime](https://open.spotify.com/track/5cfSKHoXLA7F9eLGUgMrpg) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [FaceTime](https://open.spotify.com/album/61om1gZ99vIyd1rSKGEtw8) | 3:49 |
+| 5 | [You and Me](https://open.spotify.com/track/6TMdQwrtqoP7DdC29TSFMS) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [You and Me](https://open.spotify.com/album/6OwzNhcLXB8dIm9bpGVZQz) | 4:32 |
+| 6 | [Between The Beats](https://open.spotify.com/track/2zyIojU16tXMkYj8Ik57cY) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Between The Beats](https://open.spotify.com/album/5pjFDSaEtMdUKr7nnGUa0u) | 4:01 |
 | 7 | [Cool Spice](https://open.spotify.com/track/5EHh1z5EqEwq9DdCjGU4RB) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Cool Spice](https://open.spotify.com/album/02NkDaCubIqKyzMCvRYsa8) | 4:28 |
 | 8 | [Apparently Not!](https://open.spotify.com/track/0w4A0ufbo7ZEvZ0ELrwtp1) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Apparently Not!](https://open.spotify.com/album/6ldLFMy4iCgxZMZHnKiCsU) | 4:29 |
 | 9 | [Boomerang](https://open.spotify.com/track/4kKurnXOYBSI6Xpvb6MXGg) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Boomerang](https://open.spotify.com/album/3XytLSoZlu5MXoYZCD5Brf) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Always \- Radio Version](https://open.spotify.com/track/73PcO9gphwQvjP6mgs7dkM) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Always \(Radio Version\)](https://open.spotify.com/album/1jphI1oDCBNRMExCdiccGL) | 4:11 |
 | 100 | [Love Crash](https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF), [Phil Denny](https://open.spotify.com/artist/4pN9L2TSzYcFFS5FL4Hppz) | [Love Crash](https://open.spotify.com/album/3tbZWfRBaLOcr2h5IDvW53) | 3:49 |
 
-Snapshot ID: `AAAAAKmMAQj9pqSKq7D0VO6fT04+7mfU`
+Snapshot ID: `AAAAAPyCzsThpx2lODO1C3lnW7g6eL3W`

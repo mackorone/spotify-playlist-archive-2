@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con KAROL G, rusowsky y Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,002,099 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,001,914 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 8 | [DE MEDALLO PA MOROVIS](https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LA AMENAZA](https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ) | 2:58 |
 | 9 | [VAMO A VEL](https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [VAMO A VEL](https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI) | 4:00 |
 | 10 | [AL GOLPITO](https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Nueva Línea](https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 3:27 |
-| 11 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
+| 11 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
 | 12 | [ELLA](https://open.spotify.com/track/2ICW3dFsmiZ3DVBXoVYPNw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [ELLA](https://open.spotify.com/album/6RRFJcuGdn2Oz6TGlnBms6) | 3:34 |
 | 13 | [Bachateo](https://open.spotify.com/track/6cgkodNEYEeUNxNFAr2oTZ) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [COLVISION COMPANY](https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE), [Pty Audio](https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p), [Frvnz\_la\_F](https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk) | [Bachateo](https://open.spotify.com/album/668X4yFxDAjWq2KU1KE7DY) | 2:18 |
 | 14 | [UNA CARTA](https://open.spotify.com/track/0f55FABsQs9PcormwKD7Me) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [UNA CARTA](https://open.spotify.com/album/7ClHMhKpFaFogm1M87LY0R) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 99 | [CONTRABANDO](https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 2:55 |
 | 100 | [NUEVA YORK](https://open.spotify.com/track/5U3sC7aA5NxoMSeI1kmO2n) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 3:34 |
 
-Snapshot ID: `AAAAAL8RBQFs26Ax85z9BphKbb0EsVVc`
+Snapshot ID: `AAAAAHTtu/hAX9XLEG/NfsoKbwQlcHbK`

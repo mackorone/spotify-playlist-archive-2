@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Fernando Daniel
 
-600 songs - 1 day 7 hr 28 min
+600 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [História Que Ficou](https://open.spotify.com/track/5GunpOgwidkHbSg98zfEYJ) | [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH) | [História Que Ficou](https://open.spotify.com/album/4CoEXOvhiPx999UeieM8bN) | 3:30 | 2026-06-25 | 2026-10-02 |
 | [Hoje eu vi o Mundo](https://open.spotify.com/track/4Pay0YqbgxSqJgZBrEGkks) | [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi), [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Hoje eu vi o Mundo](https://open.spotify.com/album/0gNwToU5Q32Ftr390wdWwj) | 4:25 | 2025-10-09 | 2025-10-24 |
 | [HOJE TEM](https://open.spotify.com/track/27qMXEJjDpbd1fr4SKxswN) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [HOJE TEM](https://open.spotify.com/album/3rqHBjTiYbb5BekHM97r19) | 2:51 | 2026-08-06 |  |
+| [Homem louco](https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO) | [A flor do recomeço](https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT) | 3:21 | 2026-10-15 |  |
 | [Hora de Ponta](https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7) | [Hora de Ponta](https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5) | 3:16 | 2025-01-17 | 2025-11-15 |
 | [Houvesse Mais Tempo](https://open.spotify.com/track/6j5yQLewppYrEiGdON4E5W) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Houvesse Mais Tempo](https://open.spotify.com/album/119jUwxTkF6iZlcBccjtfz) | 3:05 | 2026-10-01 |  |
 | [Há Algo Em Ti](https://open.spotify.com/track/2p4mTIPgG0rOLvIHh9x588) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Há Algo Em Ti](https://open.spotify.com/album/2aerklK61ud4O4sel9io7X) | 2:59 | 2024-09-19 | 2025-03-21 |
@@ -560,7 +561,6 @@
 | [Tina](https://open.spotify.com/track/0cGZQqrXnlnBfU7uqHY1eh) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Tina](https://open.spotify.com/album/6Hw55O1N1t5l25805KLcd7) | 2:50 | 2026-05-07 | 2026-06-26 |
 | [Tipicamente Casados](https://open.spotify.com/track/0yvE6oZRThZMSbiBDJ4ukO) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF), [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Tipicamente Casados](https://open.spotify.com/album/0KmP74mANKebm78UJHfvL1) | 2:57 | 2026-05-28 | 2026-08-07 |
 | [Tiques de Rico](https://open.spotify.com/track/1SgsfPW9jh3LdicCpr0ggh) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi) | [Tiques de Rico](https://open.spotify.com/album/3077eqHhvWjs1OoudI0gxn) | 3:37 | 2025-06-26 | 2025-12-19 |
-| [Track 1](https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO) | [A flor do recomeço](https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT) | 0:00 | 2026-10-15 |  |
 | [Trata Bem Dela](https://open.spotify.com/track/4FFYBy5h6JPia0XCDVHCDF) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Reencontro](https://open.spotify.com/album/2NLUDAehZRgYDG3ZyYY9px) | 2:29 | 2026-10-15 |  |
 | [Trigueirinha](https://open.spotify.com/track/5J02C6BJEWlRZKcoaIyz0F) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Trigueirinha](https://open.spotify.com/album/3Wa6egHHQhOzETuD1Oz7XD) | 2:39 | 2026-04-16 |  |
 | [Tristeza](https://open.spotify.com/track/2ff0DqG4icPsm0N6M4em6h) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:58 | 2025-03-14 | 2025-04-04 |

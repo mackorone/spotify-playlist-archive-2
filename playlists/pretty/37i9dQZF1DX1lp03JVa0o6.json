@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest dance hits! Cover: Prospa, KETTAMA",
-  "num_followers": 449776,
+  "num_followers": 449768,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFF8TheZ2T0PGmmOBRrBfGwJXrN",
+  "snapshot_id": "AAAAALdZPZM38fUAsXQSuLGu/WGXSyU2",
   "tracks": [
     {
       "added_at": "2026-10-15 13:00:26",
@@ -66,6 +66,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "duration_ms": 204884,

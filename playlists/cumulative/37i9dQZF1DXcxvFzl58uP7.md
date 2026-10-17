@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,056 songs - 2 day 6 hr 48 min
+1,058 songs - 2 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Backboard](https://open.spotify.com/track/2B97yOwPdVbkrg84pnyu33) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:55 | 2022-04-29 | 2022-07-27 |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-09-08 | 2025-02-23 |
 | [bad day](https://open.spotify.com/track/5612zrK8d3HhPCobx2Kuci) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [bad day](https://open.spotify.com/album/7vTPUsgBPNHmB3T1hoQOJO) | 2:04 | 2021-05-06 | 2021-05-28 |
-| [Bad Dream](https://open.spotify.com/track/6NtuOaVGMCYLHWTEOQ92tU) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Bad Dream](https://open.spotify.com/album/3Xh6tD8rBPCM470xDVZc11) | 3:53 | 2026-08-21 |  |
+| [Bad Dream \- Alternate Version](https://open.spotify.com/track/6NtuOaVGMCYLHWTEOQ92tU) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Bad Dream \(Alternate Version\)](https://open.spotify.com/album/3Xh6tD8rBPCM470xDVZc11) | 3:53 | 2026-08-21 |  |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-04 | 2022-07-13 |
 | [baggage](https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [baggage](https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE) | 2:10 | 2023-08-18 | 2024-04-24 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-12-14 | 2025-12-24 |
@@ -293,7 +293,7 @@
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2024-04-23 | 2025-04-09 |
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2020-08-11 | 2023-08-26 |
 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2023-01-12 | 2023-08-26 |
-| [energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 | 2026-06-23 |  |
+| [energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 | 2026-06-23 | 2026-10-17 |
 | [Erase](https://open.spotify.com/track/4luBGXcgpFQPPAtcF4zEdv) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Erase](https://open.spotify.com/album/5CQJNJ3aHoWhegy4Xp7LcC) | 3:56 | 2019-07-30\* | 2021-05-26 |
 | [Eternally 12](https://open.spotify.com/track/6mEP1cofyVXsJ9oDAeaRIt) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Eternally 12](https://open.spotify.com/album/1cQ9w7Zzb53KdTyuswFh02) | 4:01 | 2019-07-31 | 2021-05-28 |
 | [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 | 2024-05-03 | 2024-09-02 |
@@ -678,6 +678,7 @@
 | [Olive Juice](https://open.spotify.com/track/3cqOsgr7n1HkitkaJ6F6zL) | [Black Pool](https://open.spotify.com/artist/4lglBegCfNnjzAqs9DBQXm) | [Olive Juice](https://open.spotify.com/album/5BXQQUbDeo0q3YWx4aoE9n) | 3:17 | 2020-03-04 | 2021-08-28 |
 | [On My Own](https://open.spotify.com/track/1s69fMQrQVZoISSWCODjnw) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [On My Own](https://open.spotify.com/album/2CPrzkoLuFcxQsq6h6oTBq) | 3:14 | 2021-10-08 | 2022-04-19 |
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2021-09-10 | 2022-04-15 |
+| [on your shoulders](https://open.spotify.com/track/02Pqy45XxE5MK2vX5uUFGq) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [angels on my mind](https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3) | 3:10 | 2026-10-16 |  |
 | [Only in the West](https://open.spotify.com/track/4A3yBa4C3Zy6UAGxIyv1XD) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Only in the West](https://open.spotify.com/album/5KeSEPeI8r6FHGWmFNOsCt) | 3:01 | 2019-07-30\* | 2021-05-25 |
 | [oops](https://open.spotify.com/track/0qd44jugFi3s8CC8N8l3Bc) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/7CRLVLjGplbDfqJqTpOZ07) | 3:03 | 2021-10-25 | 2022-06-11 |
 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2023-09-29 |  |
@@ -789,6 +790,7 @@
 | [sex is good \(but have you tried\)](https://open.spotify.com/track/1Py2kWpJuFb3ga3OjWmSJM) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [sex is good \(but have you tried\)](https://open.spotify.com/album/3gjqaqdDbiveU9hALQFhwK) | 3:35 | 2021-04-30 | 2021-05-27 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-24 |  |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-10 | 2022-12-15 |
+| [Shapeshifter](https://open.spotify.com/track/45pDy6LFv6YOIeTMCPmBfv) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Opal](https://open.spotify.com/album/5CQKgkEBcYr4NtJZzIRvcv) | 3:18 | 2026-10-16 |  |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2021-06-04 | 2022-12-15 |
 | [She Likes My Style](https://open.spotify.com/track/5xlT9ftd8x7Wj7qsrBlGNg) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh) | [She Likes My Style](https://open.spotify.com/album/26PbqymykCuTWZFzsKH5re) | 3:16 | 2022-04-29 | 2022-05-04 |
 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 | 2019-08-29 | 2021-08-27 |
@@ -933,7 +935,7 @@
 | [three days](https://open.spotify.com/track/5A2r83uvDlxSBsgbfQ2zCv) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [three days](https://open.spotify.com/album/03QHPO8UISM00EjTxjnze4) | 2:13 | 2023-09-29 | 2024-04-24 |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-03-08 | 2023-06-10 |
 | [Time](https://open.spotify.com/track/2SGkMuS51SU1fHbdYFnM3L) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Time](https://open.spotify.com/album/0dcOPtUArPLZwPbdISiUks) | 4:25 | 2022-06-14 | 2022-07-29 |
-| [time waits](https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY) | 3:19 | 2024-04-23 |  |
+| [time waits](https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY) | 3:19 | 2024-04-23 | 2026-10-17 |
 | [time with u](https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [time with u](https://open.spotify.com/album/1tVh41SOFeDI2oDT0jPXBX) | 2:37 | 2024-01-12 | 2024-02-16 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-07-14 |  |
 | [Tired](https://open.spotify.com/track/04ozhTSGzWczDk4nZ7aSzD) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Tired](https://open.spotify.com/album/0YTiGFVneX92drRFP1jlPC) | 2:27 | 2021-06-25 | 2022-04-18 |

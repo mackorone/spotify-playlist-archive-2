@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Malaysia.",
-  "num_followers": 202607,
+  "num_followers": 202615,
   "original_name": "Top 50 - Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MmRIqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MmWX0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Teh Hijau",
         "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Sesi Potret",
         "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "iqro'",
         "url": "https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/2ImWVGyYTRMi64861WCCcq"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "iqro'",
         "url": "https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/1sVQuuvFDKu6vklPVeiUXT"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -193,55 +193,7 @@
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Bahagia Lagi",
-        "url": "https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX"
-      },
-      "artists": [
-        {
-          "name": "Piche Kota",
-          "url": "https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM"
-        }
-      ],
-      "duration_ms": 227415,
-      "name": "Bahagia Lagi",
-      "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Kita Lewati Berdua",
-        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
-      },
-      "artists": [
-        {
-          "name": "Overnight",
-          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
-        }
-      ],
-      "duration_ms": 239629,
-      "name": "Kita Lewati Berdua",
-      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -257,7 +209,55 @@
       "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Bahagia Lagi",
+        "url": "https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX"
+      },
+      "artists": [
+        {
+          "name": "Piche Kota",
+          "url": "https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM"
+        }
+      ],
+      "duration_ms": 227415,
+      "name": "Bahagia Lagi",
+      "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Kita Lewati Berdua",
+        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
+      },
+      "artists": [
+        {
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
+        }
+      ],
+      "duration_ms": 239629,
+      "name": "Kita Lewati Berdua",
+      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -277,23 +277,23 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Astaga Bercanda",
         "url": "https://open.spotify.com/album/03NBHdtrGXlm3VHkjFAiSY"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/03fkIoNyruY4N2Pa5CqTvv"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -329,7 +329,39 @@
       "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Nadhif (laman berikutnya)",
+        "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 279649,
+      "name": "kota ini tak sama tanpamu",
+      "url": "https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -349,55 +381,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Nadhif (laman berikutnya)",
-        "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 279649,
-      "name": "kota ini tak sama tanpamu",
-      "url": "https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Dayang Nurfaizah",
-        "url": "https://open.spotify.com/album/5I6b16jmnf5nIIelgi8L4f"
-      },
-      "artists": [
-        {
-          "name": "Dayang Nurfaizah",
-          "url": "https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Lelaki Teragung",
-      "url": "https://open.spotify.com/track/6g4ZuCOfJyY48vCaxA4yRu"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Nadhif (laman berikutnya)",
         "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
@@ -413,7 +397,7 @@
       "url": "https://open.spotify.com/track/0ql6fgz8qk0pAEKrGeSppJ"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Percuma",
         "url": "https://open.spotify.com/album/5DqqBHhwbOrT754X7zIc5H"
@@ -429,7 +413,39 @@
       "url": "https://open.spotify.com/track/5DvWURTD6NDpr1xT9PA2jk"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Dayang Nurfaizah",
+        "url": "https://open.spotify.com/album/5I6b16jmnf5nIIelgi8L4f"
+      },
+      "artists": [
+        {
+          "name": "Dayang Nurfaizah",
+          "url": "https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Lelaki Teragung",
+      "url": "https://open.spotify.com/track/6g4ZuCOfJyY48vCaxA4yRu"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4"
+      },
+      "artists": [
+        {
+          "name": "Ifan Seventeen",
+          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "Jangan Paksa Rindu",
+      "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Terbang (Original Soundtrack From Tarung: Unforgiven)",
         "url": "https://open.spotify.com/album/4bTdIzNK1TsWiNZ1gMZzAf"
@@ -445,23 +461,23 @@
       "url": "https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "MMG (My Mine Gueh)",
+        "url": "https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Naykilla",
+          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+      "duration_ms": 193090,
+      "name": "MMG (My Mine Gueh)",
+      "url": "https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -485,55 +501,23 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "Ifan Seventeen",
-          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 245226,
-      "name": "Jangan Paksa Rindu",
-      "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "MMG (My Mine Gueh)",
-        "url": "https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM"
-      },
-      "artists": [
-        {
-          "name": "Naykilla",
-          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
-        }
-      ],
-      "duration_ms": 193090,
-      "name": "MMG (My Mine Gueh)",
-      "url": "https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "MARKERS AND SUCH PENS FLASHDISKS",
         "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
@@ -549,7 +533,7 @@
       "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "FILM NOIR",
         "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
@@ -565,87 +549,7 @@
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Blue.",
         "url": "https://open.spotify.com/album/10F8PeC10SDFw1ve8S6aDZ"
@@ -665,7 +569,87 @@
       "url": "https://open.spotify.com/track/0euhFPZ2tlFElQzppQCzCw"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Nalar",
         "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
@@ -685,7 +669,55 @@
       "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
@@ -705,39 +737,23 @@
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Romancinta",
         "url": "https://open.spotify.com/album/1dqV2O8kV4flijwKc2s9e0"
@@ -753,7 +769,23 @@
       "url": "https://open.spotify.com/track/5XCNHa4uhsI3zYdbVHZaGE"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Nadhif",
+        "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "penjaga hati",
+      "url": "https://open.spotify.com/track/6i9Ci0IN1q1GcnhdbKU7kZ"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "EUNOIA",
         "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
@@ -769,7 +801,23 @@
       "url": "https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
+      "album": {
+        "name": "Hafiz",
+        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "duration_ms": 263480,
+      "name": "Bahagiamu Deritaku",
+      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
+    },
+    {
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "Overexposed (Deluxe)",
         "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
@@ -789,39 +837,7 @@
       "url": "https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c"
     },
     {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Nadhif",
-        "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "penjaga hati",
-      "url": "https://open.spotify.com/track/6i9Ci0IN1q1GcnhdbKU7kZ"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
+      "added_at": "2026-10-16 14:19:48",
       "album": {
         "name": "MARKERS AND SUCH PENS FLASHDISKS",
         "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
@@ -835,22 +851,6 @@
       "duration_ms": 271477,
       "name": "Foto kita blur",
       "url": "https://open.spotify.com/track/5POrnkQAprvkordH0kB25O"
-    },
-    {
-      "added_at": "2026-10-15 15:53:37",
-      "album": {
-        "name": "Hafiz",
-        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
-      },
-      "artists": [
-        {
-          "name": "Hafiz Suip",
-          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
-        }
-      ],
-      "duration_ms": 263480,
-      "name": "Bahagiamu Deritaku",
-      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
     }
   ],
   "unique_name": "Top 50 - Malaysia",

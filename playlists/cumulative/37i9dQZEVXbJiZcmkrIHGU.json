@@ -40584,7 +40584,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 216800,
       "name": "In the End",
       "url": "https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH"
@@ -40602,7 +40602,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -52008,6 +52008,24 @@
       "duration_ms": 194986,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/5Xcb4aJZdpgpYQLGme2bbZ"
+    },
+    {
+      "album": {
+        "name": "Liebe & Hass",
+        "url": "https://open.spotify.com/album/6lPrIDfR2zbVm1vgEHEVWl"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151151,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1Zw36y4nEKdQZhlYcs3mXE"
     },
     {
       "album": {
@@ -80750,7 +80768,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -80786,7 +80804,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -82936,7 +82954,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"

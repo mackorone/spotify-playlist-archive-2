@@ -1,13 +1,81 @@
 {
   "description": "the best underground club tracks \u2764\ufe0f\u200d\ud83d\udd25 ft. BIIANCO \u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 75523,
+  "num_followers": 75555,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL8f7J3x541CqZtBrN8cuXle2v/R",
+  "snapshot_id": "AAAAANUQPsXjlt3FhVQPuh7TWvsNNaJq",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:01:56",
+      "album": {
+        "name": "Cash4Gold / Close2Mine",
+        "url": "https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX"
+      },
+      "artists": [
+        {
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+        }
+      ],
+      "duration_ms": 192861,
+      "name": "Cash4Gold",
+      "url": "https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW"
+    },
+    {
+      "added_at": "2026-08-21 17:13:23",
+      "album": {
+        "name": "where_the_drummer_at?",
+        "url": "https://open.spotify.com/album/5IxKj56NYEWf1LqSqkhhNq"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 195208,
+      "name": "where_the_drummer_at?",
+      "url": "https://open.spotify.com/track/6pwFszXCXChNmckOdoJA8c"
+    },
+    {
+      "added_at": "2026-09-18 04:02:28",
+      "album": {
+        "name": "Pele De Mar",
+        "url": "https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6"
+      },
+      "artists": [
+        {
+          "name": "\u00d8TTA",
+          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
+        }
+      ],
+      "duration_ms": 350913,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4"
+    },
+    {
+      "added_at": "2026-10-16 04:01:56",
+      "album": {
+        "name": "VERSATILE",
+        "url": "https://open.spotify.com/album/0yBvSzDExpYZssufurNVYg"
+      },
+      "artists": [
+        {
+          "name": "INVT",
+          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 210265,
+      "name": "VERSATILE",
+      "url": "https://open.spotify.com/track/2SzI2GJUL0ErVz4yu1MnJL"
+    },
     {
       "added_at": "2026-10-09 04:01:54",
       "album": {
@@ -61,36 +129,20 @@
       "url": "https://open.spotify.com/track/6pfneSkqIy8wgcZMzgjH3h"
     },
     {
-      "added_at": "2026-08-21 17:13:23",
+      "added_at": "2026-10-16 04:01:56",
       "album": {
-        "name": "where_the_drummer_at?",
-        "url": "https://open.spotify.com/album/5IxKj56NYEWf1LqSqkhhNq"
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/17870e8DfatUUXt4PBjMN7"
       },
       "artists": [
         {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+          "name": "Skee Mask",
+          "url": "https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ"
         }
       ],
-      "duration_ms": 195208,
-      "name": "where_the_drummer_at?",
-      "url": "https://open.spotify.com/track/6pwFszXCXChNmckOdoJA8c"
-    },
-    {
-      "added_at": "2026-09-18 04:02:28",
-      "album": {
-        "name": "Pele De Mar",
-        "url": "https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6"
-      },
-      "artists": [
-        {
-          "name": "\u00d8TTA",
-          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
-        }
-      ],
-      "duration_ms": 350913,
-      "name": "RIO",
-      "url": "https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4"
+      "duration_ms": 305831,
+      "name": "Flip",
+      "url": "https://open.spotify.com/track/2XsXJpCGusfI6vQMMmiiDG"
     },
     {
       "added_at": "2026-10-09 04:01:54",
@@ -123,6 +175,22 @@
       "duration_ms": 186666,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
+    },
+    {
+      "added_at": "2026-10-16 04:01:56",
+      "album": {
+        "name": "Majestic Animals",
+        "url": "https://open.spotify.com/album/6mJ2QvmS0YBGQBEX2SaAik"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Tapir Spectrum",
+      "url": "https://open.spotify.com/track/40omkrnEXZXHlskbKr87W0"
     },
     {
       "added_at": "2026-10-09 04:01:54",
@@ -171,6 +239,22 @@
       "duration_ms": 173936,
       "name": "Auto Fake",
       "url": "https://open.spotify.com/track/369pfKXBOmzv4OoRdNyGlR"
+    },
+    {
+      "added_at": "2026-10-16 04:01:56",
+      "album": {
+        "name": "Gravitational Scar",
+        "url": "https://open.spotify.com/album/6rCnw2WJvVOO38dwx97LEM"
+      },
+      "artists": [
+        {
+          "name": "Marcel Dettmann",
+          "url": "https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP"
+        }
+      ],
+      "duration_ms": 295058,
+      "name": "Gravitational Scar",
+      "url": "https://open.spotify.com/track/04CG9ORQ0lRjtuJydng3kb"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -351,22 +435,6 @@
       "duration_ms": 352500,
       "name": "Pantano",
       "url": "https://open.spotify.com/track/6CuSDrasmVmA10pZnQKT9T"
-    },
-    {
-      "added_at": "2026-08-25 15:07:12",
-      "album": {
-        "name": "STRICTLY 4 MY UNCS",
-        "url": "https://open.spotify.com/album/4hPKQKWcKYjZgdOm3CReC6"
-      },
-      "artists": [
-        {
-          "name": "DJ Young Brown",
-          "url": "https://open.spotify.com/artist/6gQYKDgb1lC8aZLNh5yN0H"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "PUT UR ASS IN DA AIR",
-      "url": "https://open.spotify.com/track/3U6fC3lXQ1Tc7taKmWIujJ"
     },
     {
       "added_at": "2026-10-02 04:02:06",
@@ -709,42 +777,6 @@
       "url": "https://open.spotify.com/track/16npxHfsCig9DMAtoy19UO"
     },
     {
-      "added_at": "2026-09-04 04:01:33",
-      "album": {
-        "name": "Bank Storm",
-        "url": "https://open.spotify.com/album/4Qe62HE3FBFbi5wAuCDUJc"
-      },
-      "artists": [
-        {
-          "name": "moktar",
-          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Bank Storm",
-      "url": "https://open.spotify.com/track/6HX8WkPl9lMW4p19mvhGlI"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
-        "name": "The Equation",
-        "url": "https://open.spotify.com/album/32b1TLhQkUD4Sxw0BSe9tI"
-      },
-      "artists": [
-        {
-          "name": "AceMo",
-          "url": "https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX"
-        },
-        {
-          "name": "Swami Sound",
-          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
-        }
-      ],
-      "duration_ms": 306940,
-      "name": "Kelly Criterion",
-      "url": "https://open.spotify.com/track/0Irv1oQnVpFPwa53gk7EZI"
-    },
-    {
       "added_at": "2026-09-18 04:02:28",
       "album": {
         "name": "In-Ear Mix",
@@ -759,22 +791,6 @@
       "duration_ms": 228000,
       "name": "In-Ear Mix",
       "url": "https://open.spotify.com/track/6AazaZzUSUNF4udJncnAbF"
-    },
-    {
-      "added_at": "2026-09-11 04:02:11",
-      "album": {
-        "name": "Glizzy",
-        "url": "https://open.spotify.com/album/3J1dOVt7Su7Ct92e2Sy8cB"
-      },
-      "artists": [
-        {
-          "name": "Ploy",
-          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
-        }
-      ],
-      "duration_ms": 430098,
-      "name": "Glizzy",
-      "url": "https://open.spotify.com/track/20XHLOv7vEvfELxUW4g5Fb"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1587,22 +1603,6 @@
       "duration_ms": 258000,
       "name": "head space",
       "url": "https://open.spotify.com/track/2fQw85bsefLmWX1gR9QBbj"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Paradisi Artificiali",
-        "url": "https://open.spotify.com/album/1CfuQnHyvgAjAhxfYTDUv4"
-      },
-      "artists": [
-        {
-          "name": "Polygonia",
-          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
-        }
-      ],
-      "duration_ms": 389380,
-      "name": "Zwm",
-      "url": "https://open.spotify.com/track/680XnTPrwriHGZCaC0YXea"
     },
     {
       "added_at": "2026-06-25 22:01:45",

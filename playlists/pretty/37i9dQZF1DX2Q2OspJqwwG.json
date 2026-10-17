@@ -1,12 +1,12 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia.",
-  "num_followers": 38975,
+  "num_followers": 38986,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0iWbfPA9JZLUnhuGm8EJKKII59",
+  "snapshot_id": "AAAAAF1DzPZAmSVVesiyqhok0cfopROj",
   "tracks": [
     {
       "added_at": "2026-10-12 13:41:47",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2026-10-12 13:41:47",
       "album": {
-        "name": "EYES CLOSED (with ZAYN)",
-        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
       "artists": [
         {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 181375,
-      "name": "EYES CLOSED (with ZAYN)",
-      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2026-10-12 13:41:47",
@@ -1411,22 +1407,6 @@
     {
       "added_at": "2026-10-12 13:41:47",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-      "added_at": "2026-10-12 13:41:47",
-      "album": {
         "name": "You Stole The Show",
         "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "added_at": "2026-10-12 13:41:47",
+      "album": {
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
       "added_at": "2026-10-12 13:41:47",

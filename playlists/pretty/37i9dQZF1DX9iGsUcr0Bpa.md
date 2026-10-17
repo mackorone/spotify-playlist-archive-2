@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Trina
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,936 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,981 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 23 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
 | 24 | [Here We Go \(feat\. Kelly Rowland\)](https://open.spotify.com/track/6b3CWHNAKiJRqmgz6ZcWaB) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:50 |
 | 25 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 |
-| 26 | [Supersonic](https://open.spotify.com/track/3G3lahQSMk4BHnap1i853u) | [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Supersonic The Album](https://open.spotify.com/album/0iYRcCHvNapsAaN15ChZOH) | 3:52 |
+| 26 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
 | 27 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
-| 28 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
+| 28 | [Supersonic](https://open.spotify.com/track/3G3lahQSMk4BHnap1i853u) | [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Supersonic The Album](https://open.spotify.com/album/0iYRcCHvNapsAaN15ChZOH) | 3:52 |
 | 29 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 30 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 31 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 50 | [Hot Spot](https://open.spotify.com/track/27vsyn5d9HPSkeLleEnL1x) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [Chyna Doll](https://open.spotify.com/album/4J79JcO99vj9Nq0iKMXcVw) | 3:50 |
 
-Snapshot ID: `AAAAAKy4V0hzzObYzkTrzfb4UP/m9zi1`
+Snapshot ID: `AAAAAH+RMS2OIzaiSAXZ1dCUmw0Z3vPa`

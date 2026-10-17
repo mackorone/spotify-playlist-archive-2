@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Granuja & DeeJohend
 
-160 songs - 8 hr 51 min
+161 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Chainin](https://open.spotify.com/track/42dCEaxA1L1t7wXdKkbE0b) | [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [BAD KIRI](https://open.spotify.com/album/0wxhTdtWESjly1ngyJdom8) | 3:20 | 2026-09-11 |  |
 | [Coctel Espacial](https://open.spotify.com/track/1JySgFKxTEWqfzoxWZd33U) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Coctel Espacial](https://open.spotify.com/album/4wnzzKCaQ0yYYDVHNV0tBk) | 3:46 | 2022-02-25 | 2023-11-25 |
 | [Contando Gotas](https://open.spotify.com/track/7Fa30eh4kPGdNGBBYEoD9U) | [Maco Maat](https://open.spotify.com/artist/29W1vGuAmmxv2FhBDxmCg9), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Erguirse](https://open.spotify.com/album/56xfnP2QlEOV4tEWc9LJtX) | 2:02 | 2023-12-01 | 2024-08-24 |
+| [Criollo](https://open.spotify.com/track/0lRK1b5XNhXCOnLS8weLuY) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Medellín A Solas](https://open.spotify.com/album/4q7CQXkGuVcTVHh8r0F6BR) | 3:21 | 2026-10-16 |  |
 | [Dando Saltos](https://open.spotify.com/track/5vGSJRUnhGvQoxEBtn6vez) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Serenata Sin Mariachis](https://open.spotify.com/album/35t877YggZ2nnsg5lhC5JD) | 2:16 | 2022-02-25 |  |
 | [De la Cuna al Ataud](https://open.spotify.com/track/6IvOJYhT1frsjHtYQYHKhl) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Full Nelson](https://open.spotify.com/artist/4R98y7MxLluiK7NVDB3Ur9) | [Real](https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5) | 4:10 | 2022-02-25 |  |
 | [De nuevo en esto](https://open.spotify.com/track/33iRwpRjqxK2vTSZ8zVx7m) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Afromak](https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK) | [De nuevo en esto](https://open.spotify.com/album/2JoL0e92xRfRw4nF3YVpqY) | 3:38 | 2024-12-13 | 2025-07-05 |
@@ -54,7 +55,7 @@
 | [En los Brazos de Morfeo](https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [En los Brazos de Morfeo](https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd) | 3:26 | 2024-08-30 |  |
 | [Esperar](https://open.spotify.com/track/1ZxNzA5MUmoOWdJfcG30L7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Gloria Lara](https://open.spotify.com/album/5Kigef3dPtMD3jWFMHJU4b) | 3:23 | 2022-11-25 | 2023-11-25 |
 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 | 2022-02-25 |  |
-| [Estado Mental](https://open.spotify.com/track/2MdCEO1ghH4VHGDouv2huM) | [PNO](https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf) | [Joyas del Underground](https://open.spotify.com/album/2ZS9MDcx1df7pckFZnDLGJ) | 3:42 | 2025-03-14 |  |
+| [Estado Mental](https://open.spotify.com/track/2MdCEO1ghH4VHGDouv2huM) | [PNO](https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf) | [Joyas del Underground](https://open.spotify.com/album/2ZS9MDcx1df7pckFZnDLGJ) | 3:42 | 2025-03-14 | 2026-10-17 |
 | [Estilo Libre](https://open.spotify.com/track/3tevQpo4mQZGOJXDIviIuH) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Estilo Libre](https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ) | 2:12 | 2023-08-25 | 2024-03-02 |
 | [Fachada](https://open.spotify.com/track/0c7rO85nBLGvFzmPTDWZ0N) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx) | [Pangea](https://open.spotify.com/album/1Jo2XDCbuC5DPeihutxNEH) | 3:26 | 2026-04-10 |  |
 | [Felicidad](https://open.spotify.com/track/0vWJNqdavYDYF21IQBlBFS) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Felicidad](https://open.spotify.com/album/4986un74KXepy88FQq1VdD) | 3:55 | 2022-12-16 |  |

@@ -6747,6 +6747,32 @@
     },
     {
       "album": {
+        "name": "Freeze Dance",
+        "url": "https://open.spotify.com/album/2vebLHE9xpuT0rwQwvMDOL"
+      },
+      "artists": [
+        {
+          "name": "Ms. Appleberry",
+          "url": "https://open.spotify.com/artist/7gjGsSnJnSzAnh6wxZCqBQ"
+        },
+        {
+          "name": "Aprende Peque",
+          "url": "https://open.spotify.com/artist/4XlzIQZZT9mbPjZtIHGhXG"
+        },
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99041,
+      "name": "Freeze Dance",
+      "url": "https://open.spotify.com/track/4bCBQYBVx2qsx2lx1jwkDU"
+    },
+    {
+      "album": {
         "name": "Freight Train",
         "url": "https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd"
       },

@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Fontaines D.C.
 
-1,606 songs - 3 day 18 hr 43 min
+1,607 songs - 3 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [blindspot](https://open.spotify.com/track/0SqZvFpQbApABMTzwQ4rXh) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:27 | 2024-03-08 | 2024-03-09 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-18 | 2023-07-28 |
 | [Blood on the Bone](https://open.spotify.com/track/2neNFxrx4wiAemOcykU7NO) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Blood on the Bone](https://open.spotify.com/album/1HEJyjclrdNapUGwNs9Pl0) | 3:45 | 2026-05-14 | 2026-07-14 |
+| [Blood On The Dashboard](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 3:24 | 2026-10-15 |  |
 | [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [PLAY!](https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu) | 3:16 | 2025-11-28 | 2026-04-17 |
 | [Bloodline](https://open.spotify.com/track/4j4rbZs658sxsDefOzq5Gu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [MIXED EMOTIONS](https://open.spotify.com/album/2fbZbR42v9wRJ8aojApy5Z) | 3:11 | 2025-05-08 | 2025-07-25 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-09-11 | 2025-10-17 |
@@ -1279,6 +1280,7 @@
 | [Spades](https://open.spotify.com/track/1KKJZCtjS3oHLhphrssLtw) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Spades](https://open.spotify.com/album/56Jq5qTNs3dsm3bYrhj7Hp) | 5:54 | 2025-01-17 | 2025-04-11 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-10 | 2025-01-24 |
 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 | 2025-08-14 | 2025-09-12 |
+| [Spectral Eyes](https://open.spotify.com/track/2Cm1DpUSghzhyF2CgeX3En) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [High Noon](https://open.spotify.com/album/0i1oRaV8TclThtEcQLpluN) | 4:09 | 2026-10-15 |  |
 | [Spilt Milk](https://open.spotify.com/track/6pTyPM8SarPdIgzhz8TdCp) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Spilt Milk](https://open.spotify.com/album/7D7MAvyT9YAMjs8cKcNgA7) | 4:24 | 2026-09-17 |  |
 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-08-31 | 2023-09-15 |
 | [Spiral Again \- Single Edit](https://open.spotify.com/track/3dAs0a9mfbfqePzC0ChGeS) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Spiral Again / Forever](https://open.spotify.com/album/3eggvC1TSW1vOB2ZYyo5eG) | 3:56 | 2026-07-10 | 2026-07-31 |
@@ -1459,7 +1461,6 @@
 | [Tourniquet](https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Tourniquet](https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56) | 4:00 | 2026-10-01 |  |
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 | 2025-11-28 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 | 2026-01-16 |
-| [Track 2](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 0:00 | 2026-10-15 |  |
 | [trainers](https://open.spotify.com/track/23vLeNNP8fSyjyW8E7ruLg) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [rl stine](https://open.spotify.com/album/1Kr3GUqBV7mcSFLE7UD0AQ) | 2:45 | 2025-10-02 | 2025-10-31 |
 | [Trash Puppy](https://open.spotify.com/track/1ywFs89j3YEMzc69fYRDdZ) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/2QhlzKJweHYmtFZByf51qc) | 3:08 | 2023-11-17 | 2023-11-18 |
 | [Trash Puppy](https://open.spotify.com/track/3oTsGbcgAedlZwLY2425L0) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/6YwvYiSdEW6AULeLF5imiQ) | 3:08 | 2023-11-17 | 2024-01-19 |

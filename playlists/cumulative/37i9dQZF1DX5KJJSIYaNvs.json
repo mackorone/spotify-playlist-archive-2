@@ -6817,6 +6817,32 @@
     },
     {
       "album": {
+        "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
+        "url": "https://open.spotify.com/album/6cymyHiuW740FNY167iqBU"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178954,
+      "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
+      "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
+    },
+    {
+      "album": {
         "name": "Jahan Se Chale The (From \"Auron Mein Kahan Dum Tha\")",
         "url": "https://open.spotify.com/album/2sPf93BPbJvyF55CHaR3aI"
       },
@@ -13958,7 +13984,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 214400,
       "name": "Saanware",
       "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"

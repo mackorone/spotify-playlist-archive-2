@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 71 songs - 3 hr 58 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 69 | [Bones Don't Rust](https://open.spotify.com/track/2bTmOHrY6iF7fIm06UBY4C) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/1FuIR1555IFwDe3YkUgVml) | 2:24 |
 | 70 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 |
 | 71 | [Craigslist](https://open.spotify.com/track/1drv4FMcCNrhBCL6S0vxjz) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:53 |
+| 72 | [Living Lo\-Fi](https://open.spotify.com/track/3YCLqUEnvuOcIv3pRx0AXY) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Middle Spoon](https://open.spotify.com/album/2I66US2IlW5AVBgiIMCSIg) | 2:54 |
 
-Snapshot ID: `AAAAUqrMgzngrFPUh+gLh7ZyYYuiC+ql`
+Snapshot ID: `AAAAU2Rk3Fy3epozIuPsWrvDcAM/MX7W`

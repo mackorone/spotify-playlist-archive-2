@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: DIFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,246 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,234 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [CHANEL](https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 3:23 |
 | 50 | [ANAMNISEIS](https://open.spotify.com/track/6nt2JfQgd1ruVkA4zdNzYC) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Hoodie No](https://open.spotify.com/artist/6tJ6x7j0z8rpLA4PXTTPeY), [Younggbeatz](https://open.spotify.com/artist/5jF0NtCmF4JWI7NxdcsHmE) | [ANAMNISEIS](https://open.spotify.com/album/5tAWfFFELLrkyX8H85UgjL) | 2:56 |
 
-Snapshot ID: `AAAAALlhOQB++h2CJch9KGw9E4M+U0jr`
+Snapshot ID: `AAAAAGKAgzq+YB3ZnwwwDtJ+VVy1IDRC`

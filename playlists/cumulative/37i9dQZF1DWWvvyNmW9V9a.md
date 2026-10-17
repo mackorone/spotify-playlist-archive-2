@@ -4,7 +4,7 @@
 
 > every single night...
 
-2,869 songs - 6 day 5 hr 14 min
+2,873 songs - 6 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-19 | 2024-08-17 |
 | [deathmatch](https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:41 | 2022-11-18 | 2023-02-04 |
 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 | 2024-06-28 | 2024-07-27 |
+| [December](https://open.spotify.com/track/0fRUI9Za9WmVqnN8U2fAZ2) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [December](https://open.spotify.com/album/60cGJFX6vy6JxUODLUMJbS) | 2:22 | 2026-10-16 |  |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-10 | 2024-06-22 |
 | [Deeply Still In Love](https://open.spotify.com/track/2jAQzmhwPPcc6jBx4w664w) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 4:02 | 2026-05-15 | 2026-08-01 |
 | [DEFENSELESS](https://open.spotify.com/track/6BldH7peblFKnRUxHX0Ms8) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [DEFENSELESS](https://open.spotify.com/album/1iUmL0eYABJ74DcFBx6F7A) | 2:30 | 2025-09-26 | 2025-10-25 |
@@ -938,6 +939,7 @@
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 | 2024-10-12 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-20 | 2022-12-07 |
 | [Give A Little](https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Give A Little](https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi) | 2:55 | 2026-03-13 | 2026-04-18 |
+| [Glad You're Happy](https://open.spotify.com/track/0P8aTiBuqNTtqxgLGv8XhM) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Love You, or Whatever](https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc) | 3:45 | 2026-10-16 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 | 2022-10-08 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-04-01 | 2022-04-07 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-15 | 2023-07-01 |
@@ -2168,6 +2170,7 @@
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2023-11-16 | 2024-03-05 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2023-02-11 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-09-07 | 2022-10-15 |
+| [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 | 2026-10-16 |  |
 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 | 2023-07-21 | 2023-08-09 |
 | [sick of myself](https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [sick of myself](https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b) | 2:21 | 2023-09-08 | 2023-10-28 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-10-12 | 2023-01-14 |
@@ -2255,6 +2258,7 @@
 | [Somewhere](https://open.spotify.com/track/3GPybyy3AiWaWGfUTaIZh6) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Somewhere](https://open.spotify.com/album/4jTq7j1OnDNGUhoenowReN) | 4:32 | 2025-06-27 | 2025-08-30 |
 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 | 2024-02-23 | 2024-04-07 |
 | [sophie](https://open.spotify.com/track/7bAuvtfAlZUGjbyfpROElB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [notes from the in between](https://open.spotify.com/album/4ipfzElbLc0BrThhomRH6h) | 2:36 | 2026-04-10 | 2026-07-04 |
+| [Sorry](https://open.spotify.com/track/3dhSscAi765CP5IXEIy0BT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on \(deluxe\)](https://open.spotify.com/album/1qbGwfRKoupCptOicxgdMc) | 2:51 | 2026-10-16 |  |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-28 | 2025-05-28 |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-14 | 2023-07-29 |
 | [Sorry to Your Next Ex](https://open.spotify.com/track/3MmSF1hLnAHBrpF4A0fY9d) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Sorry to Your Next Ex](https://open.spotify.com/album/2lvlrdFQRBNcgok4O4QKGK) | 2:51 | 2022-03-18 | 2022-04-23 |
@@ -2755,7 +2759,7 @@
 | [When Emma Falls in Love \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:12 | 2023-07-07 | 2023-07-15 |
 | [When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:54 | 2022-03-01 | 2022-06-09 |
 | [When I'm Gone](https://open.spotify.com/track/1V0IcqF0eIvimiUtBk62lW) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [When I'm Gone](https://open.spotify.com/album/2G6TE8tQJBuQdzK05gY9W2) | 2:20 | 2023-05-26 | 2023-06-10 |
-| [When In Rome](https://open.spotify.com/track/0CfLsX61bPV9E4pjjvwNZw) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [When In Rome](https://open.spotify.com/album/04Z2u8LxyvHF76JFKv5Tbn) | 3:04 | 2026-09-11 |  |
+| [when in rome](https://open.spotify.com/track/0CfLsX61bPV9E4pjjvwNZw) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [when in rome](https://open.spotify.com/album/04Z2u8LxyvHF76JFKv5Tbn) | 3:04 | 2026-09-11 |  |
 | [When It Rains](https://open.spotify.com/track/3QZTCVkRbtZG3Jp4vwhV1F) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When It Rains](https://open.spotify.com/album/5rknaasYykSFpXCMy5m4Zh) | 2:49 | 2024-07-05 | 2024-07-27 |
 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 | 2024-04-12 | 2024-05-16 |
 | [when she was mine](https://open.spotify.com/track/3BFOZt5LkXJsLRGUxh8Niv) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [when she was mine](https://open.spotify.com/album/10yFloJYBN139PsYz0TxZr) | 2:25 | 2022-09-30 | 2022-10-27 |

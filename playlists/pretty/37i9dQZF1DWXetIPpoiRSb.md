@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next level pop 🫧 cover: say now
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,599 likes - 88 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,570 likes - 88 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 87 | [Gold](https://open.spotify.com/track/5s7xCUGbNucmHPiR1Wa6bs) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Château Brute](https://open.spotify.com/album/2mOz0X4LF1VPrNZJyM4ldQ) | 2:45 |
 | 88 | [heart 4 heart](https://open.spotify.com/track/0xmfyVJFrFSTWcUxjnNo9D) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [fall in love with the dj \(deluxe\)](https://open.spotify.com/album/1KgxaU2u9eZoJ6TZO11Evo) | 3:18 |
 
-Snapshot ID: `AAAAAD3AQDU+izwS9Y76RlURMZ0wsRzV`
+Snapshot ID: `AAAAAHE/uf+MF7c903h1pj63DeatMQx8`

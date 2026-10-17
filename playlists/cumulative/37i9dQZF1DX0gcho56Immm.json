@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: haloplus+",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Alba Akvama",
   "name": "Cph+",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 318666,
       "name": "Avril",
       "url": "https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy"
@@ -1512,6 +1512,24 @@
       "duration_ms": 141176,
       "name": "dog-tired",
       "url": "https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH"
+    },
+    {
+      "album": {
+        "name": "We'll Make Our Beds When We Get Home",
+        "url": "https://open.spotify.com/album/6uaGeylNaoK6G74Ysng4ho"
+      },
+      "artists": [
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96641,
+      "name": "Don't Cry For Me Now",
+      "url": "https://open.spotify.com/track/3kOXHlqHeuhke4tNk0MhmM"
     },
     {
       "album": {
@@ -4401,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "Pass Me By",
+        "url": "https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7"
+      },
+      "artists": [
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Pass Me By",
+      "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
+    },
+    {
+      "album": {
         "name": "Perfectly Blue",
         "url": "https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2"
       },
@@ -6074,6 +6110,24 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3"
+      },
+      "artists": [
+        {
+          "name": "nikocorlin",
+          "url": "https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142411,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf"
     },
     {
       "album": {

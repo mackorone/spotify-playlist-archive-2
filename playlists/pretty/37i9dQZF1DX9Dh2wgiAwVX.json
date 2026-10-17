@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tu dosis de energ\u00eda para alegrarte el d\u00eda!",
-  "num_followers": 1782923,
+  "num_followers": 1782869,
   "original_name": "Hits Alegres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqEihbNVI87TbbS1Cl7PLlybZwh",
+  "snapshot_id": "AAAAAAQ2sTUl0GP1RIaYq09F1JopxIvX",
   "tracks": [
     {
       "added_at": "2026-10-13 15:25:02",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "RETRICA",
+      "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -935,6 +951,22 @@
       "duration_ms": 201233,
       "name": "EL BACHAT\u00d3N DE LA L",
       "url": "https://open.spotify.com/track/3RHT8N9fhgqsD6KGDrquaW"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -1015,22 +1047,6 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "RETRICA",
-      "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
-        "name": "La Falda",
-        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "La Falda",
-      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
       "added_at": "2026-10-13 15:25:02",

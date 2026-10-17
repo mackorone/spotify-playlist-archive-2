@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Interplanetary Criminal",
-  "num_followers": 108122,
+  "num_followers": 108143,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKuMtzjNMGFBJw++/AQ0szYNlfXq",
+  "snapshot_id": "AAAAAKbDcuPhBMaxmIHLELf1pNXOJVVw",
   "tracks": [
     {
       "added_at": "2026-10-15 23:00:20",
@@ -211,7 +211,7 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Lock Off",
+        "name": "LOCK OFF",
         "url": "https://open.spotify.com/album/26l6Jkp5eDrblVQ7T1I8F8"
       },
       "artists": [
@@ -221,7 +221,7 @@
         }
       ],
       "duration_ms": 160446,
-      "name": "Lock Off",
+      "name": "LOCK OFF",
       "url": "https://open.spotify.com/track/4mlIb7yCPMoYcqNreirfPB"
     },
     {
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Super High",
-        "url": "https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 194096,
-      "name": "Super High",
-      "url": "https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "Long Goodbye",
         "url": "https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 214222,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "Super High",
+        "url": "https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 194096,
+      "name": "Super High",
+      "url": "https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Cura\u00e7ao Blue",
-        "url": "https://open.spotify.com/album/5col3FZw0PX9Kcjrkp7UzR"
-      },
-      "artists": [
-        {
-          "name": "Drinks On Me",
-          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Cura\u00e7ao Blue",
-      "url": "https://open.spotify.com/track/5e45o43SZT4j9JGCWmzY8j"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "Empty Eyes",
         "url": "https://open.spotify.com/album/3F8ITp8qdcmfnwduX3hBge"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 188830,
       "name": "Empty Eyes",
       "url": "https://open.spotify.com/track/0dURBqJ57Tpd0919VKRltm"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "Cura\u00e7ao Blue",
+        "url": "https://open.spotify.com/album/5col3FZw0PX9Kcjrkp7UzR"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Cura\u00e7ao Blue",
+      "url": "https://open.spotify.com/track/5e45o43SZT4j9JGCWmzY8j"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "No Tomorrow",
-        "url": "https://open.spotify.com/album/7GY2i0VlmrKs8XJLHac4ZL"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 234738,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/5EMkQjEd9ITYi1Pf2WfDZw"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW"
       },
@@ -1239,18 +1223,34 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "SMOOTH",
-        "url": "https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV"
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/7GY2i0VlmrKs8XJLHac4ZL"
       },
       "artists": [
         {
-          "name": "Ben Gerrans",
-          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
         }
       ],
-      "duration_ms": 204285,
-      "name": "SMOOTH",
-      "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
+      "duration_ms": 234738,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/5EMkQjEd9ITYi1Pf2WfDZw"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "Want Ur Love",
+        "url": "https://open.spotify.com/album/4qyhkXx2HKvCbNUs76PSVu"
+      },
+      "artists": [
+        {
+          "name": "J Wax",
+          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
+        }
+      ],
+      "duration_ms": 228776,
+      "name": "Want Ur Love",
+      "url": "https://open.spotify.com/track/1MrpMoc4dXAblkcH1jWx4d"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -1267,6 +1267,22 @@
       "duration_ms": 205162,
       "name": "Draw a Line",
       "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "SMOOTH",
+        "url": "https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "SMOOTH",
+      "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -1291,34 +1307,22 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Deejay",
-        "url": "https://open.spotify.com/album/3UZ3GaJ0Pt5pD6Y0A4hn67"
+        "name": "Gotta Have It",
+        "url": "https://open.spotify.com/album/5gxDE36TyHAZ0Dv8V7SAqJ"
       },
       "artists": [
         {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 246113,
-      "name": "Deejay",
-      "url": "https://open.spotify.com/track/4Sk2H29XVt3ixGlMrkeJ5c"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Want Ur Love",
-        "url": "https://open.spotify.com/album/4qyhkXx2HKvCbNUs76PSVu"
-      },
-      "artists": [
+          "name": "Faster Horses",
+          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
+        },
         {
-          "name": "J Wax",
-          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
+          "name": "Mass Medium",
+          "url": "https://open.spotify.com/artist/4XpxlgcEnxaBDaAO7V1XvH"
         }
       ],
-      "duration_ms": 228776,
-      "name": "Want Ur Love",
-      "url": "https://open.spotify.com/track/1MrpMoc4dXAblkcH1jWx4d"
+      "duration_ms": 183021,
+      "name": "Gotta Have It",
+      "url": "https://open.spotify.com/track/3uRbDTbV1cux3narst5tIh"
     }
   ],
   "unique_name": "New UK Garage",

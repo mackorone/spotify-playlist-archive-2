@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,615 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,649 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 74 | [sail away \(acoustic\)](https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm) | 2:51 |
 | 75 | [Harley Darling \- Acoustic](https://open.spotify.com/track/322f2YoWzoItz0jasljmXR) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Harley Darling \(Acoustic\)](https://open.spotify.com/album/5M0sJQ4t6ZCg57VH9kENUG) | 2:50 |
 
-Snapshot ID: `AAAAAL1MZ8lLqxNDVaVw9TNmggtofz/g`
+Snapshot ID: `AAAAAB0gY/IA0gXWROK6RLn6uyWqNBiO`

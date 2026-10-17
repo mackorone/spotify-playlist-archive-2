@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 212000,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/0ErfnegLWcgfEu4TOmfql5"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 293076,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1qK42qPK3EeBkC5vyv5MM9"
@@ -2897,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "El Gallo Celoso",
+        "url": "https://open.spotify.com/album/3qwKU6NmVTrt6jjQU9lX0Z"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "El Gallo Celoso",
+      "url": "https://open.spotify.com/track/5ehlpaAQnRLBB18cl7xKjr"
+    },
+    {
+      "album": {
         "name": "El Jefe",
         "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
       },
@@ -3086,6 +3104,24 @@
       "duration_ms": 167093,
       "name": "El Rogon",
       "url": "https://open.spotify.com/track/1vGwqa4aF0mp3a8YddIpGV"
+    },
+    {
+      "album": {
+        "name": "El Sentimiento",
+        "url": "https://open.spotify.com/album/6MlPxzsWGfMqFRWBL8Guiw"
+      },
+      "artists": [
+        {
+          "name": "Isaveli Laina",
+          "url": "https://open.spotify.com/artist/37dfV12XY35kkD8roaOSnj"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204277,
+      "name": "El Sentimiento",
+      "url": "https://open.spotify.com/track/4PpntNh5c9kgGoNERs727v"
     },
     {
       "album": {
@@ -6640,7 +6676,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206458,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
@@ -7873,6 +7909,28 @@
     },
     {
       "album": {
+        "name": "Para no verte m\u00e1s",
+        "url": "https://open.spotify.com/album/3SmOhI7jMLRNHF5XDmHwot"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158016,
+      "name": "Para no verte m\u00e1s",
+      "url": "https://open.spotify.com/track/4tXu0v34Yo7tBbUIFaExch"
+    },
+    {
+      "album": {
         "name": "Fuego Contra Fuego",
         "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
@@ -8098,7 +8156,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 157413,
       "name": "Pienso En Ti",
       "url": "https://open.spotify.com/track/6ZA4xgOuvzkWc8ow843Q3t"
@@ -8544,7 +8602,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183400,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/6rlEimbr93IVM54XKgCE4M"
@@ -10473,6 +10531,24 @@
     },
     {
       "album": {
+        "name": "Tengo Tanto Que Contarte",
+        "url": "https://open.spotify.com/album/3CjTpwASXWWR6fXClifnfJ"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Tengo Tanto Que Contarte",
+      "url": "https://open.spotify.com/track/0s3o3YfC6noO44kDcIY6qq"
+    },
+    {
+      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/0NWj3VxIJpP40pz9aYNIHv"
       },
@@ -11448,6 +11524,28 @@
       "duration_ms": 209440,
       "name": "Verde Mas All\u00e1",
       "url": "https://open.spotify.com/track/0Mvjbhh3DHbG83cInmwXSl"
+    },
+    {
+      "album": {
+        "name": "Ruta 77",
+        "url": "https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209260,
+      "name": "Vibra Inexplicable",
+      "url": "https://open.spotify.com/track/2yZWbWSIYRQUchJqHRHiMb"
     },
     {
       "album": {

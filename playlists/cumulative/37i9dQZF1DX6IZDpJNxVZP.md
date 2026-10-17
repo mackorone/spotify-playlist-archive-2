@@ -4,7 +4,7 @@
 
 > Celebrate the season with these fun and spooky tracks
 
-401 songs - 17 hr 38 min
+403 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bumps in the Night](https://open.spotify.com/track/5JzhuMnBiO3GEG7dZ5RVIK) | [KB Whirly](https://open.spotify.com/artist/7B2JoMPGHMLWXKfuhLa892) | [Bumps in the Night](https://open.spotify.com/album/22T70YwMgTaTl9saldJGDO) | 2:36 | 2021-09-10 | 2024-09-21 |
 | [C\-H\-R\-I\-S\-T\-M\-A\-S](https://open.spotify.com/track/3tJ4PU9Lnfz7qGvMRAmPV7) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [C\-H\-R\-I\-S\-T\-M\-A\-S](https://open.spotify.com/album/6DhqPNbs5AJzuGqmZtgorG) | 3:12 | 2024-11-21 | 2026-09-01 |
 | [Calling All the Monsters](https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [A.N.T\. Farm](https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA) | 3:26 | 2025-09-29 |  |
+| [Can You Find the Ghost?](https://open.spotify.com/track/5NfJ9lbDsDqAbEtHPf50Uk) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Can You Find the Ghost?](https://open.spotify.com/album/3rjF8u9m5Dco6GUC5zYoUy) | 2:24 | 2026-10-16 |  |
 | [Candy Girl](https://open.spotify.com/track/7JWdD53mrh74GCdkHR531r) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:34 | 2021-09-10 |  |
 | [Casper The Friendly Ghost](https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 1:22 | 2021-08-30 | 2024-09-21 |
 | [Cha Cha Christmas](https://open.spotify.com/track/05xoEgJbtTw7nd7fD6bKMl) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [A Christmas Celebration](https://open.spotify.com/album/1WVYDKSR1wPc4zMTui96aY) | 2:22 | 2025-11-14 | 2026-09-01 |
@@ -299,6 +300,7 @@
 | [Spooky Halloween Sounds](https://open.spotify.com/track/0FfgMJRnYNODbeiDdGnOwu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 4:58 | 2021-08-30 | 2024-04-19 |
 | [Spooky Halloween Sounds](https://open.spotify.com/track/6YDdozyjB3omVQKL9NrBs6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 4:58 | 2022-10-11 | 2022-11-14 |
 | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW) | 2:53 | 2023-10-02 |  |
+| [Spooky or Silly](https://open.spotify.com/track/2wptYyv0vrpCe97GQZ9CIF) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Ozzy Fox](https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i) | [Disney Jr\. Music: Ozzy Fox \- Halloween](https://open.spotify.com/album/3uSw7eULEMikBTsuYGitb4) | 1:51 | 2026-10-16 |  |
 | [Spooky Party](https://open.spotify.com/track/3qAhbAWsDTLV2DpL3yuuxb) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [The Best Tees](https://open.spotify.com/artist/0iMbhQ3qjEbpzE5c8vU8pp) | [Spooky Party](https://open.spotify.com/album/50lsphXHwwnzab521OijpQ) | 2:33 | 2023-10-02 |  |
 | [Spooky Scary Skeletons](https://open.spotify.com/track/23CapPzaS2M5sxiwPPY6Vk) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Halloween Songs for Kids](https://open.spotify.com/album/2EIRjiTdro7HTVZkNBHmRA) | 2:52 | 2026-10-02 |  |
 | [Spooky Sounds](https://open.spotify.com/track/6IvQD1HKpSfTzEdiN42iui) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 4:58 | 2021-08-30 | 2024-09-21 |

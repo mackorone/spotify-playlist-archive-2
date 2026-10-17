@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 281747,
+  "num_followers": 281766,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJpOpqdWpVZsuAimToO9xL2693/B",
+  "snapshot_id": "AAAAAG/cRnLxQuLyCJV276eQvrTTmxAn",
   "tracks": [
     {
       "added_at": "2026-08-14 03:00:55",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Voc\u00ea",
+        "url": "https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sousa Bossa",
+          "url": "https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ"
+        }
+      ],
+      "duration_ms": 213550,
+      "name": "Voc\u00ea",
+      "url": "https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Saudade Demais",
         "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 264000,
       "name": "Isabel Tchau",
       "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Voc\u00ea",
-        "url": "https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sousa Bossa",
-          "url": "https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ"
-        }
-      ],
-      "duration_ms": 213550,
-      "name": "Voc\u00ea",
-      "url": "https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Joao",
+        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 272556,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TgO9jAdOOber4wK9Sn6FN"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Joao",
-        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Eu Sambo Mesmo",
-      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Terra-M\u00e3e",
+        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
+      },
+      "artists": [
+        {
+          "name": "Carla Casarim",
+          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
+        }
+      ],
+      "duration_ms": 216701,
+      "name": "Brasil Geral",
+      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Ataraxia",
         "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 225040,
       "name": "Al\u00e9m da Bossa",
       "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Terra-M\u00e3e",
-        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
-      },
-      "artists": [
-        {
-          "name": "Carla Casarim",
-          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
-        }
-      ],
-      "duration_ms": 216701,
-      "name": "Brasil Geral",
-      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Mano Que Zuera",
-        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        }
-      ],
-      "duration_ms": 270386,
-      "name": "Duro Na Queda",
-      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "All or Nothing at All",
-        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
+        "name": "Mano Que Zuera",
+        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
       },
       "artists": [
         {
-          "name": "Billy Sides Trio",
-          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
         }
       ],
-      "duration_ms": 375108,
-      "name": "All or Nothing at All",
-      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
+      "duration_ms": 270386,
+      "name": "Duro Na Queda",
+      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -831,6 +815,22 @@
       "duration_ms": 264722,
       "name": "Girls from Bela Vista",
       "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "All or Nothing at All",
+        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
+      },
+      "artists": [
+        {
+          "name": "Billy Sides Trio",
+          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
+        }
+      ],
+      "duration_ms": 375108,
+      "name": "All or Nothing at All",
+      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
-      },
-      "artists": [
-        {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Liberdade, vai",
         "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 231500,
       "name": "Liberdade, vai",
       "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
+      },
+      "artists": [
+        {
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Baden",
+        "url": "https://open.spotify.com/album/2rbLM0aXQdSZDsQV1wKcFQ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Camarero",
+          "url": "https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO"
+        }
+      ],
+      "duration_ms": 192618,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/3IQzfVsRY5lyDz5TOlnrHM"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "O Samba, a Roseira e o Vento",
         "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Baden",
-        "url": "https://open.spotify.com/album/2rbLM0aXQdSZDsQV1wKcFQ"
+        "name": "Autoral",
+        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Camarero",
-          "url": "https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO"
+          "name": "Hamleto Stamato",
+          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
         }
       ],
-      "duration_ms": 192618,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/3IQzfVsRY5lyDz5TOlnrHM"
+      "duration_ms": 240458,
+      "name": "Cris",
+      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Autoral",
-        "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
-      },
-      "artists": [
-        {
-          "name": "Hamleto Stamato",
-          "url": "https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI"
-        }
-      ],
-      "duration_ms": 240458,
-      "name": "Cris",
-      "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Liberta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 176065,
       "name": "Liberta\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Rapaz de Bem",
+        "url": "https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Jackson",
+          "url": "https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP"
+        }
+      ],
+      "duration_ms": 209830,
+      "name": "Rapaz de Bem",
+      "url": "https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1291,22 +1307,6 @@
       "duration_ms": 191232,
       "name": "A paz que desejamos",
       "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Rapaz de Bem",
-        "url": "https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Jackson",
-          "url": "https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP"
-        }
-      ],
-      "duration_ms": 209830,
-      "name": "Rapaz de Bem",
-      "url": "https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Muito \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
-      },
-      "artists": [
-        {
-          "name": "Sammy Silva Band",
-          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Muito \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Media\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 151109,
       "name": "Media\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Muito \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
+      },
+      "artists": [
+        {
+          "name": "Sammy Silva Band",
+          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Muito \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
     },
     {
       "added_at": "2026-08-14 03:00:55",

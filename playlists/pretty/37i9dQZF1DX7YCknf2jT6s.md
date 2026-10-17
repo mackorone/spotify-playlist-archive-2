@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Julian Lage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,364 likes - 104 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,368 likes - 104 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 103 | [Compassion \(feat\. Flying Lotus, Immanuel Wilkins, David Virelles\)](https://open.spotify.com/track/0HnzJayzmv01DGyBV1J8na) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [David Virelles](https://open.spotify.com/artist/2yHMWN7OFCTJ9ZiGSVU0F8), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Compassion](https://open.spotify.com/album/655tfMuWbx5lzrx6gLxUQZ) | 4:45 |
 | 104 | [Uzalo](https://open.spotify.com/track/5fKqhPqp3870idM9vAGDZP) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Thabo Sikhakhane](https://open.spotify.com/artist/64JbR3gFMOgojfpuxVFe6L) | [L I N D A](https://open.spotify.com/album/7x2JzSfNmUlyePxPt7aiKQ) | 4:34 |
 
-Snapshot ID: `AAAAAD8llmxHFjDuDAcsup+bFR50/zW3`
+Snapshot ID: `AAAAABUAuOoO3pUR9jjasWN8VDXBmvgF`

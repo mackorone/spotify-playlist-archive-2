@@ -4,7 +4,7 @@
 
 > roots run deep with Flatland Cavalry
 
-503 songs - 1 day 6 hr 14 min
+506 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [American Gothic \(feat\. Hailey Whitters\)](https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [bon aqua EP](https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA) | 3:15 | 2023-03-24 | 2023-08-21 |
 | [Anchor](https://open.spotify.com/track/5sifcquvqFxD3t5Ye53cqc) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Leavin’ This Holler](https://open.spotify.com/album/52bUS8lAEmMsbtgqq8ngLE) | 5:39 | 2024-09-13 |  |
 | [Appalachian Ohio](https://open.spotify.com/track/4i22Zkdfs3xZ1yEZ8SsJGc) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Geneva](https://open.spotify.com/album/5M7nUpM2HeDgXn4eNoIqjK) | 3:33 | 2026-01-16 |  |
+| [Appalachian Raised](https://open.spotify.com/track/4fIHkwFU2L36TqKrDtUWey) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Appalachian Raised](https://open.spotify.com/album/3cAZNZ7KJYzfzGaiimK2fR) | 3:43 | 2026-10-16 |  |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2023-02-24 | 2023-03-25 |
 | [August](https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [August](https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ) | 3:47 | 2024-08-28 |  |
 | [Ballad Of A Southern Man](https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 3:40 | 2023-02-24 | 2023-12-09 |
@@ -344,6 +345,7 @@
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2026-03-07 |
 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 | 2023-08-20 | 2026-01-17 |
 | [Place They Call Home \(feat\. Flatland Cavalry\)](https://open.spotify.com/track/5sS10ZzQaKnlPmLEKp5LvG) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Place They Call Home \(feat\. Flatland Cavalry\)](https://open.spotify.com/album/55AgLQr3mz9uzBfEtxufbc) | 3:28 | 2025-01-24 |  |
+| [Plainsman \(feat\. Turnpike Troubadours\)](https://open.spotify.com/track/3fvDMzxUvLoVbbTCDVdj4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:46 | 2026-10-16 |  |
 | [Playin' On The Tracks](https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Playin' On The Tracks](https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp) | 2:39 | 2023-06-02 | 2023-08-21 |
 | [Playing God Again](https://open.spotify.com/track/4EQR5qi9TxhbjF443YrxBk) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Playing God Again](https://open.spotify.com/album/4sveXhWrrVVldwABR35rBH) | 2:44 | 2023-05-05 | 2023-06-17 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-02-24 |  |
@@ -362,7 +364,7 @@
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-13 | 2025-01-11 |
 | [River Run](https://open.spotify.com/track/4cns2rtLADG9gaNlItD8mR) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:11 | 2023-05-22 | 2023-07-01 |
 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:11 | 2023-03-24 | 2023-06-01 |
-| [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 | 2025-07-04 |  |
+| [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 | 2025-07-04 | 2026-10-17 |
 | [Riverbank](https://open.spotify.com/track/2STQ5fSQcIm3S2lBSYa0db) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Songs From The Holler](https://open.spotify.com/album/43uEBtVgq9LStAuhfme33c) | 3:25 | 2025-02-28 |  |
 | [Rodeo Money](https://open.spotify.com/track/1cSjK6jDelAxuBypzWsJ7R) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Rodeo Money](https://open.spotify.com/album/2f2ENXEtPErgBXvvhTCBH2) | 3:47 | 2023-02-24 | 2023-12-09 |
 | [Rollin' Stone](https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Rollin' Stone](https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB) | 2:31 | 2024-10-25 |  |
@@ -508,6 +510,7 @@
 | [You Don't Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 | 2024-07-02 | 2026-02-21 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2024-08-28 |  |
+| [You'll Get By](https://open.spotify.com/track/7lPkjiujKlBKiBpNm52lll) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 4:18 | 2026-10-16 |  |
 | [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 | 2026-08-28 |  |
 | [Young Heart](https://open.spotify.com/track/1lrMhK5zQJYTarnm2UggNZ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Young Heart](https://open.spotify.com/album/6LfENbSpcG3QX421jC5eYz) | 2:50 | 2023-11-10 | 2023-12-09 |
 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 | 2026-01-30 |  |

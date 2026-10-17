@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: ITCHY
 
-1,137 songs - 2 day 16 hr 53 min
+1,137 songs - 2 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,6 +873,7 @@
 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 | 2026-04-30 | 2026-08-07 |
 | [Shed Your Skin](https://open.spotify.com/track/6qPZi0an9of1lO3O0Y5VJn) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Axis Mundi](https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT) | 4:53 | 2026-10-01 |  |
 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 | 2026-04-02 | 2026-05-08 |
+| [Shit Gets Real](https://open.spotify.com/track/0VM2EeAodLr1h8bLwH9R4s) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Happy Little Accidents](https://open.spotify.com/album/4SxK3w4iO6ZjpvpibLyzXa) | 3:05 | 2026-10-15 |  |
 | [Shivering](https://open.spotify.com/track/51cAhMu907C41i2IpL4pUy) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Shivering](https://open.spotify.com/album/3GH5dRw5f3KBFIeNkzpFwk) | 2:58 | 2025-05-08 | 2025-05-16 |
 | [Show People](https://open.spotify.com/track/0IpPOFT27z0LcJRKNKHKgA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp), [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Show People](https://open.spotify.com/album/3hNBopSMLbcielb5lBaLos) | 3:43 | 2024-11-14 | 2024-11-22 |
 | [Showbiz](https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Showbiz](https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5) | 2:45 | 2024-06-27 | 2025-03-07 |
@@ -1037,7 +1038,6 @@
 | [too far gone](https://open.spotify.com/track/6hkp7TNulqDK5BruldgB6j) | [rosecoloredworld](https://open.spotify.com/artist/463Zbm3YPy7aKLqX1LBycF) | [too far gone](https://open.spotify.com/album/08mjFRr5oPWwWrlf4QR8Ro) | 3:04 | 2026-01-09 | 2026-01-16 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-12-05 |
 | [Total Annihilation](https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Total Annihilation](https://open.spotify.com/album/5yM0f4ArMFsiRXZC11hHGX) | 6:50 | 2025-09-25 | 2025-10-03 |
-| [Track 7](https://open.spotify.com/track/0VM2EeAodLr1h8bLwH9R4s) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Happy Little Accidents](https://open.spotify.com/album/4SxK3w4iO6ZjpvpibLyzXa) | 0:00 | 2026-10-15 |  |
 | [Trance](https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Trance](https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8) | 3:07 | 2024-12-19 | 2025-02-07 |
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-01 | 2024-08-09 |
 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 | 2025-12-12 |

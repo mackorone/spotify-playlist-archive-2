@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 111879,
+  "num_followers": 111927,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0RiFi1v4xC8W+vAiHwgWtNQx3O",
+  "snapshot_id": "AAAAAPRlMNQ6YVHU55AThFU/QAezuHos",
   "tracks": [
     {
       "added_at": "2026-08-27 10:33:18",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-08-27 10:33:18",
       "album": {
+        "name": "Aadavari Matalaku Ardhalu Veruley",
+        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 319686,
+      "name": "Emaindhi Eevela",
+      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
+    },
+    {
+      "added_at": "2026-08-27 10:33:18",
+      "album": {
         "name": "Mahanati",
         "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 146819,
       "name": "Nee Neeli Kannullona",
       "url": "https://open.spotify.com/track/2yu7RgQlNTwvyUPk7lsD9j"
-    },
-    {
-      "added_at": "2026-08-27 10:33:18",
-      "album": {
-        "name": "Aadavari Matalaku Ardhalu Veruley",
-        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 319686,
-      "name": "Emaindhi Eevela",
-      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
     },
     {
       "added_at": "2026-08-27 10:33:18",

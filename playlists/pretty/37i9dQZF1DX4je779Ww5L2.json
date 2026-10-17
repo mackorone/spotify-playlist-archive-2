@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190101,
+  "num_followers": 190093,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFjrYXiCmGTcOvgmqmG0CLoAdQPJ",
+  "snapshot_id": "AAAAAO6HPtZoY2jufHvWyXkd4fMBRewF",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Days on Days on Days",
-        "url": "https://open.spotify.com/album/3z4zr0RKLtTgooYVUnDfJ3"
-      },
-      "artists": [
-        {
-          "name": "High Hi",
-          "url": "https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Days on Days on Days",
-      "url": "https://open.spotify.com/track/5tca4r6i2Ej7VE2hLp9G16"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/7cd7roz7SRwSDhvS7Q3pwC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 216202,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/7G5HqMfPuRLvoTVfBg6FPu"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Days on Days on Days",
+        "url": "https://open.spotify.com/album/3z4zr0RKLtTgooYVUnDfJ3"
+      },
+      "artists": [
+        {
+          "name": "High Hi",
+          "url": "https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Days on Days on Days",
+      "url": "https://open.spotify.com/track/5tca4r6i2Ej7VE2hLp9G16"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "walk the line",
         "url": "https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 215253,
       "name": "walk the line",
       "url": "https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Muddy Water",
-        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
-      },
-      "artists": [
-        {
-          "name": "DeNohr",
-          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "I Don't Feel",
         "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 208944,
       "name": "I Don't Feel",
       "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Muddy Water",
+        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
+      },
+      "artists": [
+        {
+          "name": "DeNohr",
+          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Morning Star",
-        "url": "https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT"
-      },
-      "artists": [
-        {
-          "name": "Pitou",
-          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Morning Star",
-      "url": "https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Getting Up",
         "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 274719,
       "name": "Getting Up",
       "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Morning Star",
+        "url": "https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        }
+      ],
+      "duration_ms": 294813,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "the bed-ties",
-        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
-      },
-      "artists": [
-        {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Try Try Try (Acoustic Version)",
         "url": "https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 179981,
       "name": "Try Try Try - Acoustic Version",
       "url": "https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Rush Hour Traffic",
-        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+        "name": "the bed-ties",
+        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
       },
       "artists": [
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
         }
       ],
-      "duration_ms": 264346,
-      "name": "Rush Hour Traffic",
-      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+      "duration_ms": 220080,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Silver Linings (Unplugged)",
-        "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
-      },
-      "artists": [
-        {
-          "name": "Roufaida",
-          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Silver Linings - Unplugged",
-      "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Baby Blue (Acoustic)",
         "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 185114,
       "name": "Baby Blue - Acoustic",
       "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Silver Linings (Unplugged)",
+        "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
+      },
+      "artists": [
+        {
+          "name": "Roufaida",
+          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Silver Linings - Unplugged",
+      "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Collection of Goodbyes: Escapades III",
-        "url": "https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz"
-      },
-      "artists": [
-        {
-          "name": "Brennt Vanneste",
-          "url": "https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1"
-        }
-      ],
-      "duration_ms": 173766,
-      "name": "Everything Bends Towards You",
-      "url": "https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
       },
@@ -1587,34 +1571,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "So do I",
-        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+        "name": "Collection of Goodbyes: Escapades III",
+        "url": "https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz"
       },
       "artists": [
         {
-          "name": "PIMSKIN",
-          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+          "name": "Brennt Vanneste",
+          "url": "https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1"
         }
       ],
-      "duration_ms": 128326,
-      "name": "So do I",
-      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
-      },
-      "artists": [
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
+      "duration_ms": 173766,
+      "name": "Everything Bends Towards You",
+      "url": "https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1635,6 +1603,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
+      },
+      "artists": [
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "Queen-Size Life",
         "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 216690,
       "name": "Queen-Size Life",
       "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "So do I",
+        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "So do I",
+      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
     }
   ],
   "unique_name": "rustig aan",

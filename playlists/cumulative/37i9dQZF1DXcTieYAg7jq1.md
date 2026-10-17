@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Paige Fish
 
-604 songs - 1 day 10 hr 2 min
+606 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Better With You](https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Better With You](https://open.spotify.com/album/6ezo2KxwPTWq0Ov5IyIx22) | 2:13 | 2023-06-09 | 2026-03-14 |
 | [Big Dipper](https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Big Dipper](https://open.spotify.com/album/08xdtJQENlsg6GD8NHnFOJ) | 3:08 | 2025-02-07 | 2026-03-21 |
 | [Big Dumb Heart](https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart](https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm) | 3:36 | 2023-11-10 | 2026-03-14 |
-| [Big Star](https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Big Star](https://open.spotify.com/album/01IYN4SUBDMYXXs6F3LWVG) | 4:15 | 2025-09-19 |  |
+| [Big Star](https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Big Star](https://open.spotify.com/album/01IYN4SUBDMYXXs6F3LWVG) | 4:15 | 2025-09-19 | 2026-10-17 |
 | [Bitter Sweet](https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Bitter Sweet](https://open.spotify.com/album/5BBJTkjsZeOSGpiczply0t) | 3:01 | 2023-05-19 | 2023-10-07 |
 | [Bittersweet Escape](https://open.spotify.com/track/7m048jBthqhBF62d67E1kM) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Bittersweet Escape](https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed) | 2:47 | 2026-07-10 |  |
 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 | 2021-12-03 | 2022-10-01 |
@@ -228,7 +228,7 @@
 | [HOLLYWOODLAND](https://open.spotify.com/track/3hFGWEdCfGKSjyrbM3IPsi) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [HOLLYWOODLAND](https://open.spotify.com/album/5tFVKRNk4AmAywYFbgTyrz) | 2:47 | 2026-08-21 |  |
 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 | 2021-12-24 | 2023-01-28 |
 | [Home](https://open.spotify.com/track/1oqv2RGjVEZxJtJTvXg9LD) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [Home](https://open.spotify.com/album/5MglSYFILutKSr7d5ZECeS) | 2:55 | 2022-03-04 | 2022-07-28 |
-| [Home Sweet Home](https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:28 | 2025-11-21 |  |
+| [Home Sweet Home](https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:28 | 2025-11-21 | 2026-10-17 |
 | [HOME TO MOTHER](https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2) | 3:16 | 2026-05-08 | 2026-09-12 |
 | [Homebody](https://open.spotify.com/track/1mJnwJFcJ1cafchDZawVLf) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Homebody](https://open.spotify.com/album/5jWexOFu2dK8zT46xMp5t7) | 2:35 | 2022-03-04 | 2024-02-17 |
 | [Honest Man](https://open.spotify.com/track/5aXZpsS16SJ1pVwgGJ8KPV) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Honesty Project](https://open.spotify.com/album/3jQoorsVblS8wPG4DbK6OR) | 4:04 | 2025-09-05 | 2026-02-07 |
@@ -463,6 +463,7 @@
 | [Saint](https://open.spotify.com/track/6f6FKPRVzfZWVQBarW574H) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Saint](https://open.spotify.com/album/3SVZKcujNG8IIZCPj6T7PO) | 4:41 | 2021-12-03 | 2022-07-24 |
 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 | 2026-06-26 |  |
 | [Seasonal Love](https://open.spotify.com/track/4XsIjNzaTd19Kuldexl3RA) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Seasonal Love](https://open.spotify.com/album/2KZ8y2pZtmF6MSUOwWrJoG) | 3:05 | 2023-03-17 | 2023-04-15 |
+| [Serendipity](https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d) | [Mel Raeburn](https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj) | [Serendipity](https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo) | 3:22 | 2026-10-16 |  |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 | 2026-04-11 |
 | [She’s Gonna Break My Heart](https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Groove Therapy](https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb) | 2:46 | 2026-09-25 |  |
 | [Shock!](https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Shock!](https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4) | 3:48 | 2026-07-21 |  |
@@ -544,6 +545,7 @@
 | [The Dust](https://open.spotify.com/track/3Gg5r4GChsrKPOUbtN9PTY) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Air](https://open.spotify.com/album/1xDQ9p2dKLWa8FmcgcAdmm) | 2:45 | 2022-05-20 | 2023-06-17 |
 | [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-01-06 | 2023-04-29 |
 | [The Good Ones](https://open.spotify.com/track/2NUn1Hn7bCY4ez5UC80yu8) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Blessing In Disguise](https://open.spotify.com/album/3jaNfRfY6X4UXHDSalOvUn) | 2:40 | 2025-08-15 | 2026-07-25 |
+| [The Kardashians](https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Songs From The Wedding Cake](https://open.spotify.com/album/50t0TEz7Owjimd7bakSpkg) | 4:05 | 2026-10-16 |  |
 | [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 | 2023-02-10 | 2023-03-11 |
 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 | 2022-05-20 | 2024-06-01 |
 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 | 2025-07-18 | 2026-07-11 |

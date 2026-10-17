@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: あいみょん
 
-3,918 songs - 10 day 9 hr 14 min
+3,919 songs - 10 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1830,7 +1830,7 @@
 | [STAY TRUE](https://open.spotify.com/track/0OYy0GM53pUulSzILKdb1f) | [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [STAY TRUE](https://open.spotify.com/album/0iFafxYa1T0kAI9uECfknn) | 3:24 | 2025-02-04 | 2025-02-12 |
 | [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 | 2024-02-21 |
 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 | 2022-05-29 | 2022-09-09 |
-| [stay with me](https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [stay with me](https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37) | 3:03 | 2026-04-07 |  |
+| [stay with me](https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [stay with me](https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37) | 3:03 | 2026-04-07 | 2026-10-17 |
 | [STEADY](https://open.spotify.com/track/4vW94ySzXDzcPYk7pHPXh6) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [STEADY](https://open.spotify.com/album/7JoZ8WRmgvcFZ6R370GUes) | 5:12 | 2022-05-29 | 2022-07-14 |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-05-31 | 2022-07-20 |
 | [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 | 2023-04-13 | 2023-04-19 |
@@ -2725,6 +2725,7 @@
 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 | 2025-04-08 | 2025-11-19 |
 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 | 2023-07-25 | 2024-12-05 |
 | [サマータイム・ブルース](https://open.spotify.com/track/3p2EfPkTncUEGp0vuRxAGz) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サマータイム・ブルース](https://open.spotify.com/album/2nRZF4bBVc5KL3MKuuPBpk) | 3:46 | 2024-08-06 | 2024-09-11 |
+| [サヨナラとバトン](https://open.spotify.com/track/5M3j6N5CpMgOrzuBge17JZ) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [サヨナラとバトン](https://open.spotify.com/album/2CeR5TzZJBE0VatfvUATJW) | 3:49 | 2026-10-14 |  |
 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 | 2023-03-07 | 2024-01-08 |
 | [シガレット](https://open.spotify.com/track/0lgcczt1InYEkAaVgafnBT) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X), [xea](https://open.spotify.com/artist/2MPXNbCsA4FaU2858MfpsH) | [シガレット](https://open.spotify.com/album/1ynfZq6Rezs0iFVaNDXHMq) | 2:46 | 2023-10-19 | 2023-10-25 |
 | [シスター](https://open.spotify.com/track/3xOBKXSmG2EwNi5k1uRziK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [シスター](https://open.spotify.com/album/7BwoXwHdRIDQSvk2FNRJMd) | 3:00 | 2023-09-26 | 2023-09-28 |

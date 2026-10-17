@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1865497,
+  "num_followers": 1865427,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC+Ubv4TwESB6oFxaKlpwLrzYljS",
+  "snapshot_id": "AAAAAIhHNUDGD5QpPftY5lEiXo9E6+QM",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:12",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/7MPCcaGYJLT6EHz22EmaZ0"
-      },
-      "artists": [
-        {
-          "name": "Bay Ledges",
-          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/6tdjyoaesC0pXHA7QD8oEw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 139530,
       "name": "Field Song.",
       "url": "https://open.spotify.com/track/3GQhw9mkicZjJ8cPAwbs3P"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/7MPCcaGYJLT6EHz22EmaZ0"
+      },
+      "artists": [
+        {
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6tdjyoaesC0pXHA7QD8oEw"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "Here Goes Nothing",
+        "url": "https://open.spotify.com/album/59k3cmuaTlZ1Ei1T93zmeA"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "duration_ms": 236474,
+      "name": "Here Goes Nothing",
+      "url": "https://open.spotify.com/track/7vU4qjZlGitheGQBuGYOZY"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "Upstate",
         "url": "https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Here Goes Nothing",
-        "url": "https://open.spotify.com/album/59k3cmuaTlZ1Ei1T93zmeA"
-      },
-      "artists": [
-        {
-          "name": "Late Night Thoughts",
-          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
-        }
-      ],
-      "duration_ms": 236474,
-      "name": "Here Goes Nothing",
-      "url": "https://open.spotify.com/track/7vU4qjZlGitheGQBuGYOZY"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "Is Joy Easy",
-        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Is Joy Easy",
-      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -707,6 +691,22 @@
       "duration_ms": 229660,
       "name": "Gang\u2019s Back Together Again",
       "url": "https://open.spotify.com/track/1I8VOBgKZg44cdCeDERMXM"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "Is Joy Easy",
+        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Is Joy Easy",
+      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/2Va2fcsc6K3k9q0YZv2K9M"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/71vTcEAzho6KibO9OyG4GL"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "Celia",
-        "url": "https://open.spotify.com/album/2Va2fcsc6K3k9q0YZv2K9M"
-      },
-      "artists": [
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Celia",
-      "url": "https://open.spotify.com/track/71vTcEAzho6KibO9OyG4GL"
     },
     {
       "added_at": "2026-10-09 04:02:12",

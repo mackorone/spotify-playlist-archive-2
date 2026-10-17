@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,968 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,970 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 49 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
 | 50 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:08 |
 
-Snapshot ID: `AAAAAL64xKeXB97yn0+0gy1LKtDXPKAJ`
+Snapshot ID: `AAAAAO4vw25TlR/C3ugPpCJWCwjvCn7E`

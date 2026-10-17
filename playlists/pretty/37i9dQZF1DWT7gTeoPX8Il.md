@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,034 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,070 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 33 | [Sesal Separuh Nyawa](https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y) | [Alyah](https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ) | [Sesal Separuh Nyawa](https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3) | 4:19 |
 | 34 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 |
 | 35 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
-| 36 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
-| 37 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
+| 36 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
+| 37 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
 | 38 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
 | 39 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |
 | 40 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 49 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
 | 50 | [masih ada waktunya](https://open.spotify.com/track/35ycHFidHC9uMvSfcQcUzg) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [masih ada waktunya](https://open.spotify.com/album/6s0GsQTvbGxhUw4YqN2LW4) | 4:07 |
 
-Snapshot ID: `AAAAAEatPCd5yCMbZJZNIWhNL3l5cbVI`
+Snapshot ID: `AAAAAAyxmRkdGw+bvJrFvjxDIxO3tVqx`

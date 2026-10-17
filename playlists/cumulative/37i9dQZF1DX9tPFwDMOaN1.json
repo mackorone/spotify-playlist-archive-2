@@ -10641,6 +10641,28 @@
     },
     {
       "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
+      },
+      "artists": [
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        },
+        {
+          "name": "A2O LITE",
+          "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
+    },
+    {
+      "album": {
         "name": "HOPE ON THE STREET VOL.1",
         "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
       },
@@ -14926,7 +14948,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 168466,
       "name": "Surfin' Boy",
       "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"

@@ -3175,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "Canton Strut",
+        "url": "https://open.spotify.com/album/2JzTFDrTAZpkkndLO5RSNc"
+      },
+      "artists": [
+        {
+          "name": "Don Glori",
+          "url": "https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201842,
+      "name": "Canton Strut",
+      "url": "https://open.spotify.com/track/1NNN1R9ONTvkCCWtoTDT4d"
+    },
+    {
+      "album": {
         "name": "Capacity to Love",
         "url": "https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK"
       },
@@ -3626,6 +3644,24 @@
       "duration_ms": 196000,
       "name": "CHASING THE SUN",
       "url": "https://open.spotify.com/track/0qUqOkPmWP9o7e3GgM3Fgg"
+    },
+    {
+      "album": {
+        "name": "JAZZED",
+        "url": "https://open.spotify.com/album/5PRUWAFoMJiqQDcwlgG8Kr"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/2mc9swZTGYpPg1eJtKB5Zp"
     },
     {
       "album": {
@@ -5238,7 +5274,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 278959,
       "name": "Don\u2019t Stop The Music (with Nick Hakim, Robert Glasper)",
       "url": "https://open.spotify.com/track/582a1u4ziN01BgLtXDacQb"
@@ -6500,6 +6536,24 @@
       "duration_ms": 208978,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
+    },
+    {
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192449,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
     },
     {
       "album": {
@@ -13598,7 +13652,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 407546,
       "name": "Ndiaga Niaw",
       "url": "https://open.spotify.com/track/4VHbG3PPxLKbuGBm9kW4I8"
@@ -14010,7 +14064,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 154813,
       "name": "Not For A Lack Of Trying",
       "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
@@ -14618,7 +14672,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 266200,
       "name": "Only When I Lose Myself",
       "url": "https://open.spotify.com/track/0qLNTKzDvt2s2srGjZBM7y"
@@ -16598,6 +16652,28 @@
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4IQuLra1KorSLrHtkE9llq"
+    },
+    {
+      "album": {
+        "name": "Sax Track",
+        "url": "https://open.spotify.com/album/05OI5HSR5RtKe4N0s1vDXE"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "Cyan Lu",
+          "url": "https://open.spotify.com/artist/7iEZxg7glVG3AzqMIkpEYg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314892,
+      "name": "Sax Track",
+      "url": "https://open.spotify.com/track/7qhVqs4kdA7CBHiurhd6Mk"
     },
     {
       "album": {
@@ -19228,7 +19304,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 165876,
       "name": "The Best Things Happen While You're Dancing",
       "url": "https://open.spotify.com/track/4m0TCAd9hKenEoyTu6D24l"

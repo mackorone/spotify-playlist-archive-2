@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Chloe Slater
 
-505 songs - 1 day 4 hr 35 min
+506 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,8 @@
 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 | 2024-04-15 | 2025-08-20 |
 | [Up in the Air](https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Up in the Air](https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a) | 2:40 | 2023-10-27 | 2024-08-25 |
 | [Us](https://open.spotify.com/track/0MHk5hdrpXn8FheU5s8slm) | [Ryan McMullan](https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G) | [Us](https://open.spotify.com/album/1xzrwQQTf3sELgamREi9j0) | 2:24 | 2024-10-06 | 2024-10-12 |
-| [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 | 2025-06-06 |  |
+| [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 | 2025-06-06 | 2026-10-17 |
+| [Vermilion Reptilian](https://open.spotify.com/track/7D6aIZblEJNDGaTfrqdT02) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Poor Advice](https://open.spotify.com/album/3ThL2DprG4nlpYk1V10xxB) | 3:27 | 2026-10-08 |  |
 | [Vice Versa](https://open.spotify.com/track/0pOh1U2tIdIHvMDFZXNNp1) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Vice Versa](https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC) | 2:43 | 2026-07-16 | 2026-10-09 |
 | [Vivian](https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC) | [Arkayla](https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50) | [Back To Belle Vue](https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp) | 3:18 | 2026-08-20 |  |
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-07-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,458 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,606 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 33 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 |
 | 34 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 |
 | 35 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
-| 36 | [Il veliero \- Remastered](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 6:01 |
-| 37 | [No Tengo Dinero](https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:20 |
+| 36 | [No Tengo Dinero](https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:20 |
+| 37 | [Il veliero \- Remastered](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 6:01 |
 | 38 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 |
 | 39 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 61 | [For You \- Original Album](https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 5:53 |
 | 62 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
 | 63 | [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 |
-| 64 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
+| 64 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
 | 65 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 |
-| 66 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
+| 66 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
 | 67 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
 | 68 | [Another World](https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Another World](https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp) | 4:41 |
 | 69 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 71 | [Discoteca Eterna](https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Discoteca Eterna](https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY) | 3:25 |
 | 72 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
 | 73 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
-| 74 | [ITVLO](https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [ITVLO](https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR) | 4:47 |
-| 75 | [Ancora](https://open.spotify.com/track/4oJnLY71i5d7lIwelHcM5Z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Ninfa](https://open.spotify.com/artist/7lI1jlVGLfPzKWZONZx77a) | [Tipo Cosi](https://open.spotify.com/album/0EBhGMQZe2nEZCdqejtRzD) | 4:13 |
+| 74 | [Ancora](https://open.spotify.com/track/4oJnLY71i5d7lIwelHcM5Z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Ninfa](https://open.spotify.com/artist/7lI1jlVGLfPzKWZONZx77a) | [Tipo Cosi](https://open.spotify.com/album/0EBhGMQZe2nEZCdqejtRzD) | 4:13 |
+| 75 | [ITVLO](https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [ITVLO](https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR) | 4:47 |
 
-Snapshot ID: `AAAAAACQ6MzcROCi5O4uZtTCYzI5WDET`
+Snapshot ID: `AAAAAN+o6cTeB6RHsEf5xHQya5dtgRjn`

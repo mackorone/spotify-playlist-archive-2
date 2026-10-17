@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > De bästa indielåtarna \- klassiker som Dansa Fastän, Shoreline och Helgen v\. 48!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,799 likes - 45 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,800 likes - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
 | 45 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 |
 
-Snapshot ID: `AAAAALuUAX8OVpcgK38k6FWxHmqNd6zQ`
+Snapshot ID: `AAAAAAxqzSXW8YV1asC7HIbfoxd3tW0j`

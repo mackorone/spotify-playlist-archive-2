@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Solana
 
-926 songs - 1 day 18 hr 28 min
+926 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 | 2025-09-19 | 2026-01-29 |
 | [Dodge](https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:28 | 2025-04-04 | 2025-07-26 |
 | [Don julio](https://open.spotify.com/track/0pSvdqdPJsQERhVWKjcfhi) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Air drop](https://open.spotify.com/album/63FjH5BrOGQCsCa8NdZcz3) | 2:39 | 2024-06-28 | 2024-09-13 |
+| [Don't Say Bye](https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH) | [Something To Die For](https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT) | 2:57 | 2026-10-16 |  |
 | [Don't Suffer \(feat\. Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 | 2026-03-20 | 2026-04-21 |
 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 | 2025-04-11 | 2026-01-29 |
 | [Double Am](https://open.spotify.com/track/6H5PGFoKZhAN94wFFFrSYl) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Double Am](https://open.spotify.com/album/5z4lRK368xiXjq3F4H29Ox) | 3:12 | 2026-09-11 | 2026-09-26 |
@@ -838,7 +839,6 @@
 | [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 | 2026-05-26 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-28 | 2024-11-08 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-06 |
-| [Track 4](https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Something To Die For](https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT) | 0:00 | 2026-10-16 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 | 2025-04-08 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,444 likes - 39 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,461 likes - 39 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

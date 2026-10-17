@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,855 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,952 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 64 | [Ya Saken Albi](https://open.spotify.com/track/50x4cUPlmajTIHp0LRHqqj) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX), [Elias Naser](https://open.spotify.com/artist/561DiR7jvCZPfVL3rVaAMx) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 7:31 |
 | 65 | [Ya Miyet Halla](https://open.spotify.com/track/3gJrHg4YpvfsaNkIlW1YMM) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX), [Romeo Lahoud](https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 3:07 |
 | 66 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
-| 67 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 |
+| 67 | [Yamme Ma Baaref](https://open.spotify.com/track/1TwtEM3Pazor5Jp41MWLLM) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV), [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Oriental Evening](https://open.spotify.com/album/1h4i7x3JQWdRcmAHrpZTyD) | 5:04 |
 | 68 | [Hal El Garih](https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl) | 3:21 |
 | 69 | [Etuel Omrak 2](https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX), [Youness Al Eben](https://open.spotify.com/artist/7B998bAW7QS8Oij1onMYLe) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 5:29 |
 | 70 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
 | 71 | [Asmar](https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw) | 5:33 |
-| 72 | [Yamme Ma Baaref](https://open.spotify.com/track/1TwtEM3Pazor5Jp41MWLLM) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV), [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Oriental Evening](https://open.spotify.com/album/1h4i7x3JQWdRcmAHrpZTyD) | 5:04 |
+| 72 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 |
 | 73 | [E’tazalt El Gharam](https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [E'tazalt El Gharam](https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17) | 7:47 |
 | 74 | [El Atlal](https://open.spotify.com/track/7rZPVMXSYn63KC2Fco2vr6) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 39:54 |
 | 75 | [Amm Yess'alouni Aleyk](https://open.spotify.com/track/1IzvSfblwi7EJuIjQbGXvL) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Khodni Habibi](https://open.spotify.com/album/1uZKkPLUIu7hIQcQqp8Ihp) | 5:57 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 89 | [Bezkor Min Zaman](https://open.spotify.com/track/2J8Hv5n1bhChym2jRmkh2D) | [Joseph Nassif](https://open.spotify.com/artist/35VaEMzsyBIfcJl8MsWR6F) | [Rahbaniyat, Vol\. 3](https://open.spotify.com/album/2F0BJE1hHzG41WH6ExveJm) | 3:01 |
 | 90 | [Aam Yes'alouni Aalayk](https://open.spotify.com/track/3M8GG5xKAM602ArbAQtSRB) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Best Of Magida El Roumi Vol.1](https://open.spotify.com/album/7helIvwqlQOERqtOidRIvi) | 5:57 |
 
-Snapshot ID: `AAAAAJOTR/bLzWV+33Wloc9xB/y1gWz9`
+Snapshot ID: `AAAAAHRLYMoHe75vl+1Qn1iX9pH7yTGy`

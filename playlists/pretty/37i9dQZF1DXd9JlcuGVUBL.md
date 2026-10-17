@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: Glen Rozi en Bernice Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,091 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,098 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 49 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 |
 | 50 | [Choosin' Texas](https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ) | 7:01 |
 
-Snapshot ID: `AAAAANqRT5KlYE5d42q1GSAPFyOjwUnT`
+Snapshot ID: `AAAAAAHAvUwbXo8aZkGWUHbaNVwj2511`

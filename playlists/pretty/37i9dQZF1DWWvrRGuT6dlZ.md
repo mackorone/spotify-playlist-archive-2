@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Shahera Sam\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,379 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,384 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 39 | [刚好的Just nice](https://open.spotify.com/track/1Epv1zjABotwO1NTdWNR0J) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [刚好的Just nice](https://open.spotify.com/album/1WAeAtrSoYA4EhHhGBwUat) | 3:19 |
 | 40 | [Bebas](https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA) | [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp) | [Bebas](https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG) | 3:55 |
 
-Snapshot ID: `AAAAAADaa1CzbtGnp9134sS3SRnNpeBJ`
+Snapshot ID: `AAAAAK8AQYUb+SmHU5M4XE603YHDUG+e`

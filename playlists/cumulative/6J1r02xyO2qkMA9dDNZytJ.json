@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/7zWECQMAXkUgVtrKMhs0JE"
+      },
+      "artists": [
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179596,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0RV2d2QxIDG4FeBPSZdrL6"
+    },
+    {
+      "album": {
         "name": "Any Fonque",
         "url": "https://open.spotify.com/album/48eX7KziQJo6vNHQwkLhB8"
       },
@@ -412,6 +430,24 @@
       "duration_ms": 164285,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/7DVBNud2HvZ4C4Mfcw3v8w"
+    },
+    {
+      "album": {
+        "name": "Bag Lady",
+        "url": "https://open.spotify.com/album/0FmrAdFpBwTaQD2MiWXTJx"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184208,
+      "name": "Bag Lady",
+      "url": "https://open.spotify.com/track/2QsDgAVzyhLchBDute2p3j"
     },
     {
       "album": {
@@ -854,7 +890,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 215415,
       "name": "Burn Down The House",
       "url": "https://open.spotify.com/track/3UAjb2l27IPhq6Zqo4LKHc"
@@ -2172,7 +2208,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 154000,
       "name": "Function",
       "url": "https://open.spotify.com/track/1TzkhmV7nWq3gquoiDf4QH"
@@ -2410,6 +2446,24 @@
       "duration_ms": 145798,
       "name": "Girl 2.0",
       "url": "https://open.spotify.com/track/2WL3V5U4xXbqy7rPzUMLl6"
+    },
+    {
+      "album": {
+        "name": "Girls Are Dancin'",
+        "url": "https://open.spotify.com/album/26cLblybPjmxg0kUTgjxHZ"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164661,
+      "name": "Girls Are Dancin'",
+      "url": "https://open.spotify.com/track/6Gs4G9karDw8JOVVuqRXbI"
     },
     {
       "album": {
@@ -2675,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/3eAUas65bbWHqpK37soLsd"
+      },
+      "artists": [
+        {
+          "name": "Sophia Guerrero",
+          "url": "https://open.spotify.com/artist/2vr2Zel4lL47VOq86RCEHi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185694,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4YRObhyuEk5acraBjdBucQ"
+    },
+    {
+      "album": {
         "name": "Hause Muzica",
         "url": "https://open.spotify.com/album/6zB5vx2vd40tYEn3MHigOr"
       },
@@ -2808,6 +2880,24 @@
       "duration_ms": 189767,
       "name": "High On Me",
       "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3Q4ghzhBKl1oExpEf0d1TE"
+      },
+      "artists": [
+        {
+          "name": "Kim Fai",
+          "url": "https://open.spotify.com/artist/2WHJZ8pA3nkhvDAoTDwsp2"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1lCWlSOW1gVDOfEyIbgKcc"
     },
     {
       "album": {
@@ -3022,7 +3112,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184850,
       "name": "I Rhyme Quick",
       "url": "https://open.spotify.com/track/6w9IOQBGiQOjv1J1YWhM3i"
@@ -3102,7 +3192,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206769,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/4jVNEf7cw9lTJFi7Yxpf3n"
@@ -3618,7 +3708,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187500,
       "name": "La La Land",
       "url": "https://open.spotify.com/track/5hYSsLVQ6Isk6YZrnsBj4E"
@@ -3800,7 +3890,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193358,
       "name": "Let Me Be In Your Arms",
       "url": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi"
@@ -3916,6 +4006,24 @@
       "duration_ms": 181874,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2BuV5iXq2xn04ze6c4T533"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/6twfd8i3qAEhNqr6XH8NWu"
+      },
+      "artists": [
+        {
+          "name": "La Madone",
+          "url": "https://open.spotify.com/artist/21EpNwakAOgzzs77fNTcF6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4CO0PVmhyPfjG4F2iSSfs9"
     },
     {
       "album": {
@@ -4499,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4Xrhh1KIHnF75euIaB5R2G"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/1usXazJyIWEURYCP0IYtah"
+    },
+    {
+      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g"
       },
@@ -4630,7 +4756,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 168750,
       "name": "On My Body",
       "url": "https://open.spotify.com/track/0vQ4YFifqvMn2GNqOfmpGl"
@@ -5124,7 +5250,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 155156,
       "name": "Pongo",
       "url": "https://open.spotify.com/track/0rc03JgMbXOMjacmMia40b"
@@ -5164,7 +5290,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177230,
       "name": "Pop That Cat",
       "url": "https://open.spotify.com/track/0P0Kb3YoN3zGFk3caJ7FUn"
@@ -5299,6 +5425,32 @@
     },
     {
       "album": {
+        "name": "Pumping Jumping EP",
+        "url": "https://open.spotify.com/album/6yFn4ZyTB00Y3w6SOteu8f"
+      },
+      "artists": [
+        {
+          "name": "Luke Andrews",
+          "url": "https://open.spotify.com/artist/4HXTQukv28KsVXxf1uXQoA"
+        },
+        {
+          "name": "Owen Andrews",
+          "url": "https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s"
+        },
+        {
+          "name": "FM From B",
+          "url": "https://open.spotify.com/artist/4LSn15kUOU7AfxeF0kcepF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186068,
+      "name": "Pumping Jumping",
+      "url": "https://open.spotify.com/track/77z7VZLloHqEKvgt3Wk6L8"
+    },
+    {
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/2mT5fBPAL8IyF6Em6QEP23"
       },
@@ -5388,6 +5540,24 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+    },
+    {
+      "album": {
+        "name": "Show Me EP",
+        "url": "https://open.spotify.com/album/3FkBGjQDSYq2pecjdf1vhg"
+      },
+      "artists": [
+        {
+          "name": "Jhonsson",
+          "url": "https://open.spotify.com/artist/3lEWpjF1EusAR62FnmNdgy"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219166,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/5U5OXc3dAAZ9PhrtWHeIc4"
     },
     {
       "album": {
@@ -5751,6 +5921,24 @@
     },
     {
       "album": {
+        "name": "Show Me EP",
+        "url": "https://open.spotify.com/album/3FkBGjQDSYq2pecjdf1vhg"
+      },
+      "artists": [
+        {
+          "name": "Jhonsson",
+          "url": "https://open.spotify.com/artist/3lEWpjF1EusAR62FnmNdgy"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167738,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1Z8IxvdIcwTAKfgGER5J36"
+    },
+    {
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/67LUT24xBnb3qT172RtVQy"
       },
@@ -5938,7 +6126,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 180234,
       "name": "Spin Doctor",
       "url": "https://open.spotify.com/track/3T6wDXinzcU67UYY0E04lx"
@@ -6462,7 +6650,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 150476,
       "name": "The Pipe",
       "url": "https://open.spotify.com/track/3mKlPnkgFeLgFRosxNCb3x"
@@ -6870,7 +7058,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 329068,
       "name": "Universe - Extended Mix",
       "url": "https://open.spotify.com/track/0zxZrRzVqlp1GUy71Nj2Sj"

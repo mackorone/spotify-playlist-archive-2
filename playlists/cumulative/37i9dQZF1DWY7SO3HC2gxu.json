@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music across Africa. Cover: One Dow",
+  "description": "Best blends of Electronic music across Africa. Cover: Mura",
   "name": "Oontz",
   "tracks": [
     {
@@ -216,6 +216,32 @@
       "duration_ms": 475826,
       "name": "All Around Me",
       "url": "https://open.spotify.com/track/7xNFU5TAW1RYwAooRGP7Nu"
+    },
+    {
+      "album": {
+        "name": "All I Have Is You",
+        "url": "https://open.spotify.com/album/1Gs0eOi7KQerg9iZGAcOE5"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo Gi",
+          "url": "https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c"
+        },
+        {
+          "name": "Lyrik Shoxen",
+          "url": "https://open.spotify.com/artist/0jjpeyvhBAYC47mJuQyEAt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160327,
+      "name": "All I Have Is You",
+      "url": "https://open.spotify.com/track/1jg4Isq37GbCVevC9UmMAh"
     },
     {
       "album": {
@@ -4045,6 +4071,32 @@
     },
     {
       "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/7kaCLt55rFhgJCgVUyJQv7"
+      },
+      "artists": [
+        {
+          "name": "Lovince Mckenzie",
+          "url": "https://open.spotify.com/artist/4dTlGjltanfIiMqXrPD8eZ"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/0il40iEmUHWiLvMV6RUc67"
+    },
+    {
+      "album": {
         "name": "LOST IN CHAMPAGNE",
         "url": "https://open.spotify.com/album/2xoJSwOnhtWJNqgjTaASHV"
       },
@@ -6863,6 +6915,32 @@
     },
     {
       "album": {
+        "name": "Murata",
+        "url": "https://open.spotify.com/album/79vNvcRr5wS1OD1jHTGT1A"
+      },
+      "artists": [
+        {
+          "name": "Mura",
+          "url": "https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282711,
+      "name": "Rehe Mbeeca",
+      "url": "https://open.spotify.com/track/1dzmly5SqxBabBlavjJx2U"
+    },
+    {
+      "album": {
         "name": "Rejea",
         "url": "https://open.spotify.com/album/4rs8VykAwag9z1bLgt62FQ"
       },
@@ -6890,6 +6968,36 @@
       "duration_ms": 324124,
       "name": "Rejea",
       "url": "https://open.spotify.com/track/3MjZ6n10mT0wTcPo5vzvU1"
+    },
+    {
+      "album": {
+        "name": "Revere (Da Capo & Euggy Remix)",
+        "url": "https://open.spotify.com/album/2rrBB6Hmfqnv65VeVpXIVm"
+      },
+      "artists": [
+        {
+          "name": "Aluku Rebels",
+          "url": "https://open.spotify.com/artist/2KOqQU8pfhrMSK3YpfQ6YC"
+        },
+        {
+          "name": "Ezzymusica",
+          "url": "https://open.spotify.com/artist/2YWeuI8LDv8hQbgoBa5jpb"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        },
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450714,
+      "name": "Revere - Da Capo & Euggy Remix",
+      "url": "https://open.spotify.com/track/2ZYLhFcNH2xU9431Ty1MeI"
     },
     {
       "album": {
@@ -6964,6 +7072,36 @@
       "duration_ms": 188000,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/0OeUYIHgqQy4XJVnBVxlmH"
+    },
+    {
+      "album": {
+        "name": "Murata",
+        "url": "https://open.spotify.com/album/79vNvcRr5wS1OD1jHTGT1A"
+      },
+      "artists": [
+        {
+          "name": "Mura",
+          "url": "https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Ally Fresh",
+          "url": "https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1nhVskO05VfB7wY7IdHS5I"
     },
     {
       "album": {
@@ -7547,6 +7685,28 @@
     },
     {
       "album": {
+        "name": "Sioni",
+        "url": "https://open.spotify.com/album/6CUxIxCHQRZg9jDBex1uWL"
+      },
+      "artists": [
+        {
+          "name": "Mitranoo",
+          "url": "https://open.spotify.com/artist/36uchXA2YUqz6NDQqdUlcR"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410000,
+      "name": "Sioni - Original Mix",
+      "url": "https://open.spotify.com/track/5HMLoIl1zANdODBY0hVb7a"
+    },
+    {
+      "album": {
         "name": "Soko Soko",
         "url": "https://open.spotify.com/album/1ZSkVnqYPwsHshIv4oa8ch"
       },
@@ -8016,6 +8176,32 @@
       "duration_ms": 147500,
       "name": "TAKE ME",
       "url": "https://open.spotify.com/track/0FOCWLCt1UJZjYoSXDOBvz"
+    },
+    {
+      "album": {
+        "name": "Tete",
+        "url": "https://open.spotify.com/album/6J90d92GI2PJJYIWws5sMT"
+      },
+      "artists": [
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Bijoy",
+          "url": "https://open.spotify.com/artist/64hO4ng44CisYirBSB64za"
+        },
+        {
+          "name": "Koceila Chougar",
+          "url": "https://open.spotify.com/artist/6HjDnaMCDzaWLyQ9aVWeg7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148760,
+      "name": "Tete",
+      "url": "https://open.spotify.com/track/2ifaTL4VccEf6M9vADqi1D"
     },
     {
       "album": {
@@ -8761,6 +8947,32 @@
     },
     {
       "album": {
+        "name": "UNDER THE SKY",
+        "url": "https://open.spotify.com/album/7MC0GAqLvVXrfl741BPnQT"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        },
+        {
+          "name": "Hafex",
+          "url": "https://open.spotify.com/artist/1br3nylz7tCq82qiwd4j6d"
+        },
+        {
+          "name": "Madd Natt",
+          "url": "https://open.spotify.com/artist/1zOoTQ12nBSFRuP7FsIRry"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "UNDER THE SKY",
+      "url": "https://open.spotify.com/track/1vvYDWtHV44oTHufNKPhRU"
+    },
+    {
+      "album": {
         "name": "Unfiltered Dreams (Original Mix)",
         "url": "https://open.spotify.com/album/3VkM6kZHzAkKV7WzWSyiHa"
       },
@@ -9286,6 +9498,60 @@
       "duration_ms": 188095,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/47VSYynhzx6dHmBIys0xyy"
+    },
+    {
+      "album": {
+        "name": "Weka Ngoma",
+        "url": "https://open.spotify.com/album/6cqVbOtfEQpddlQz0DfgaT"
+      },
+      "artists": [
+        {
+          "name": "The Safari Oontz Collective",
+          "url": "https://open.spotify.com/artist/54yEitVj118MSzyvtHLk0A"
+        },
+        {
+          "name": "Mike Muema",
+          "url": "https://open.spotify.com/artist/46LpuM1VDVP6Kwhbxj5hwv"
+        },
+        {
+          "name": "CheffK",
+          "url": "https://open.spotify.com/artist/38JrlbIJN2nq5z6b4eV3oe"
+        },
+        {
+          "name": "Zippie Nyumu",
+          "url": "https://open.spotify.com/artist/5LGAJWLY5XCG3SXVElw8JW"
+        },
+        {
+          "name": "Analo Kanga",
+          "url": "https://open.spotify.com/artist/2SveTLRE8NLCVXKsy7xs3o"
+        },
+        {
+          "name": "Kato Change",
+          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
+        },
+        {
+          "name": "DJayPaps",
+          "url": "https://open.spotify.com/artist/1de8H9NN6wiUOb7UMFVywT"
+        },
+        {
+          "name": "Samsoo",
+          "url": "https://open.spotify.com/artist/48wweHFvLUo6XiShthVrAm"
+        },
+        {
+          "name": "Treasure",
+          "url": "https://open.spotify.com/artist/6Ri0KzsnWF769wntsCPU7l"
+        },
+        {
+          "name": "V3",
+          "url": "https://open.spotify.com/artist/4xagn0YxAGuzFesJr09Cyb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467692,
+      "name": "Weka Ngoma",
+      "url": "https://open.spotify.com/track/6tQJboVdvKhGVgHyhzT4H0"
     },
     {
       "album": {

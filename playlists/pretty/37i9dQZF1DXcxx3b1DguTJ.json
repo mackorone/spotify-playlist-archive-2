@@ -1,12 +1,12 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 169977,
+  "num_followers": 170001,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMOLHK+8ocR0QfoiyLCFV+Enp6k8",
+  "snapshot_id": "AAAAAPBJTjTfcWFBpFUEMdBioPzbPr12",
   "tracks": [
     {
       "added_at": "2024-08-23 02:54:08",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
-        "name": "Solo Lo Mejor - 20 Exitos",
-        "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Popurri Juan Gabriel Medley",
-      "url": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
         "name": "NUEVA ERA",
         "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
+        "name": "Solo Lo Mejor - 20 Exitos",
+        "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Popurri Juan Gabriel Medley",
+      "url": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
     },
     {
       "added_at": "2024-08-23 02:54:08",

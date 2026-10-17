@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Maluma, Andrés Cepeda
 
-386 songs - 20 hr 13 min
+388 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 | 2026-05-01 |  |
 | [Culpables](https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Culpables](https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA) | 3:53 | 2023-02-17 | 2023-07-01 |
 | [CUMPLEAÑOS \(ira\)](https://open.spotify.com/track/5cBQJXTvA7AJntqI1u63h7) | [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [MELODRAMÁTICA](https://open.spotify.com/album/7bVxT8Bs6nMH2mkIOmBB0p) | 3:09 | 2026-03-18 | 2026-03-27 |
-| [Curándote](https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curándote](https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm) | 2:22 | 2025-12-05 |  |
+| [Curándote](https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curándote](https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm) | 2:22 | 2025-12-05 | 2026-10-17 |
 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 | 2024-02-16 | 2024-04-19 |
 | [CÁLLATE](https://open.spotify.com/track/5kTGxJQVACs4mJmO7Emzuc) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [CÁLLATE](https://open.spotify.com/album/7LQ8ReCFjrLR1iC4xPkYKk) | 2:52 | 2025-08-29 | 2025-11-22 |
 | [Cámara Lenta](https://open.spotify.com/track/2Ur0FiCEof5GoKsZDR9eyR) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [Cámara Lenta](https://open.spotify.com/album/3NXbBQrzVnzHfBKhwcm1Nl) | 3:15 | 2023-02-17 | 2023-03-18 |
@@ -226,6 +226,7 @@
 | [Mujer me estas matando](https://open.spotify.com/track/3yRZpzvjJjj4b9lXqiSf7G) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Mujer me estas matando](https://open.spotify.com/album/3CyVwbAOlkLESikxgGQqVH) | 2:43 | 2026-10-09 |  |
 | [Mundos Aparte](https://open.spotify.com/track/5sfnG7xd8angYVfT9RgdgQ) | [Wamba](https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB) | [Mundos Aparte](https://open.spotify.com/album/1X6UZEiG0dCcwaz8n0gUMO) | 2:44 | 2023-02-17 | 2024-05-04 |
 | [Muriendo en Vida](https://open.spotify.com/track/1cP7B6Fn6hOzZnvoKVOyBo) | [Sinisterra](https://open.spotify.com/artist/46hFpNlGbQT8hFf233H29I) | [Muriendo en Vida](https://open.spotify.com/album/5HzmWdLS7wuVNcjd8sBRZB) | 2:45 | 2023-03-09 | 2025-05-10 |
+| [Musa Paradisíaka](https://open.spotify.com/track/5qycAsLJTjWFqVuwNBNOtw) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft) | [Musa Paradisíaka](https://open.spotify.com/album/1msl6OCTSg7W9Xp6eRaD6A) | 2:05 | 2026-10-16 |  |
 | [Máquina del Tiempo](https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Máquina del Tiempo](https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM) | 2:33 | 2023-09-15 | 2024-06-29 |
 | [Nada Personal \- Sesión en Vivo](https://open.spotify.com/track/2kuGLyyrHlPrrgMGOEiFmV) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal \(Sesión en Vivo\)](https://open.spotify.com/album/53GjFCPEvM4HBdbCziA7P3) | 5:17 | 2024-04-26 | 2024-07-27 |
 | [Nadie Me Vuelve A Joder](https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Nadie Me Vuelve A Joder](https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr) | 2:41 | 2023-04-28 | 2023-06-10 |
@@ -263,7 +264,7 @@
 | [Pasa](https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:13 | 2023-02-17 |  |
 | [Pasajero](https://open.spotify.com/track/58Kapn2wnORftUX3GAZ1b4) | [Lala Moré](https://open.spotify.com/artist/0z5FIYdXQFbwyRkliO8HsK) | [Pasajero](https://open.spotify.com/album/0zh0nvckpA0K7kFftzLiBq) | 2:53 | 2023-05-19 | 2023-06-24 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-23 | 2023-11-11 |
-| [Perfecta](https://open.spotify.com/track/1JPCPOhvzCTEBAholSpt3T) | [Nia Sierra](https://open.spotify.com/artist/3ELKb8yF5ZV6oP7BWEjZEb) | [Perfecta](https://open.spotify.com/album/3Cqb31rcK84oAlVebjOsOo) | 2:30 | 2024-06-28 |  |
+| [Perfecta](https://open.spotify.com/track/1JPCPOhvzCTEBAholSpt3T) | [Nia Sierra](https://open.spotify.com/artist/3ELKb8yF5ZV6oP7BWEjZEb) | [Perfecta](https://open.spotify.com/album/3Cqb31rcK84oAlVebjOsOo) | 2:30 | 2024-06-28 | 2026-10-17 |
 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 | 2026-09-25 |  |
 | [Planeta](https://open.spotify.com/track/4rFB9ALhEivDQfGZ0XR4ih) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Planeta](https://open.spotify.com/album/4acHHuwfEyhY1ZL381voCz) | 2:34 | 2024-08-02 | 2024-09-27 |
 | [Planetas](https://open.spotify.com/track/2WzigCWeKa1LrTPbe6nUJq) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Planetas](https://open.spotify.com/album/5BsM6aELM0cxx7l67nP0EK) | 2:59 | 2023-02-17 | 2026-09-19 |
@@ -343,6 +344,7 @@
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2023-02-17 |  |
 | [Te Voy a Amar](https://open.spotify.com/track/6G6DiIkasBrTbARK74U7kv) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Te Voy a Amar](https://open.spotify.com/album/5Nbmpy3j7Bsk5Fi2AUSQYh) | 3:38 | 2023-02-17 |  |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-11-03 | 2024-05-17 |
+| [Tengo Ganas 2.0](https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tengo Ganas 2.0](https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk) | 2:39 | 2026-10-16 |  |
 | [Tengo Que Partir](https://open.spotify.com/track/5NP1C17UB2I1UN2a9Tkx2o) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Tengo Que Partir](https://open.spotify.com/album/62kKOrrZQoLgYooL5dmDh3) | 3:12 | 2023-03-17 | 2023-04-29 |
 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 | 2023-10-27 | 2024-02-17 |
 | [Teresa](https://open.spotify.com/track/4cgEbCOaaN0nzhAZvJinb8) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Teresa](https://open.spotify.com/album/2g4WfH84dp88AXNqaY9jaw) | 3:34 | 2025-11-07 | 2025-12-20 |

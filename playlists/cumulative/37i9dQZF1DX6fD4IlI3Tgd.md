@@ -4,7 +4,7 @@
 
 > Guaracha, dame guaracha\. <br/>Aquí puro brainrot criollo\. Foto: PETERBLUE
 
-134 songs - 7 hr 49 min
+135 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/track/30ZPCyUqNsNRfBGwltMOjE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Max\-Africana](https://open.spotify.com/artist/56t1JMFLdAwMU8z1BO4JF0) | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/album/05Va152RyB3CWhCEMWTaxg) | 3:47 | 2023-08-18 | 2024-04-19 |
 | [Slam Dunk](https://open.spotify.com/track/3yqaLwHTDy5zAnUArbDl7k) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [Slam Dunk](https://open.spotify.com/album/5rprTcBXjcpQAfUBvJ0Amy) | 3:18 | 2026-06-19 |  |
 | [Stone Heart](https://open.spotify.com/track/5YOJz5JRAew8Y9lVweh99D) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Stone Heart](https://open.spotify.com/album/2DHsZvpEUaRM5S67xt5Lif) | 3:12 | 2023-08-18 | 2026-06-20 |
-| [Sufriendo Por Ella](https://open.spotify.com/track/3QUWQm76mjSeF0jkviZume) | [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [Latin Tools Vol.1](https://open.spotify.com/album/01alOKnXpafPTqikzcTDZK) | 4:01 | 2026-06-19 |  |
+| [Sufriendo Por Ella](https://open.spotify.com/track/3QUWQm76mjSeF0jkviZume) | [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [Latin Tools Vol.1](https://open.spotify.com/album/01alOKnXpafPTqikzcTDZK) | 4:01 | 2026-06-19 | 2026-10-17 |
+| [Tabaco Camel](https://open.spotify.com/track/3HwcjUtuaD4aR1wIXUvRvD) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS), [PETERBLUE](https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz) | [Tabaco Camel](https://open.spotify.com/album/4F6Kf0JvH4BPp2lembgkUm) | 3:22 | 2026-10-16 |  |
 | [Tamos de Fiesta \- Remix](https://open.spotify.com/track/6OQHg2To0EDiaj4XyfJuBz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Tamos de Fiesta \(Remix\)](https://open.spotify.com/album/2qQ3Xr5jANxRww4AFN1ga2) | 2:22 | 2023-08-18 | 2026-06-20 |
 | [Tatara Tatara Tatara](https://open.spotify.com/track/14L0j1Kke8HZKStLfHgg8k) | [Nico Parga](https://open.spotify.com/artist/1ah3rkTMCdKDGtshxvCUyo), [Fercho Pargas](https://open.spotify.com/artist/1G0dGR1jzIc18grfeYTX90) | [PAPUX](https://open.spotify.com/album/5G7T6miMR7L6f8w1ZBXZCz) | 4:17 | 2026-06-19 |  |
 | [TEKETEKE](https://open.spotify.com/track/57DVPc2raEhdYqNmEHuClm) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [XOXO](https://open.spotify.com/album/7wn92jI9a19UFekP9Sa9oU) | 5:49 | 2026-06-19 |  |

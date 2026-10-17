@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "The Normal Album",
+        "url": "https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ"
+      },
+      "artists": [
+        {
+          "name": "Will Wood",
+          "url": "https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291715,
+      "name": "I / Me / Myself",
+      "url": "https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr"
+    },
+    {
+      "album": {
         "name": "I Can't Fix You",
         "url": "https://open.spotify.com/album/2TQ7CTgaJqTSmikvCcF2fR"
       },

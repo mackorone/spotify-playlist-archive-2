@@ -1,13 +1,29 @@
 {
-  "description": "Your shortcut to the best new Hip Hop. Cover: Gunna",
-  "num_followers": 499510,
+  "description": "Your shortcut to the best new Hip Hop. Cover: Gucci Mane",
+  "num_followers": 499474,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOpywiAzwrW0fzrL7EWEefEnYCc",
+  "snapshot_id": "AAAAAJ+/xT8w9+v2BTMKCiCgwaRnJW4x",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:01:10",
+      "album": {
+        "name": "pop it",
+        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 138866,
+      "name": "pop it",
+      "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
+    },
     {
       "added_at": "2026-09-04 00:00:23",
       "album": {
@@ -27,6 +43,50 @@
       "duration_ms": 116571,
       "name": "GASS (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y"
+    },
+    {
+      "added_at": "2026-10-16 04:01:54",
+      "album": {
+        "name": "Shroom Clouds (feat. reggie & Jeremih)",
+        "url": "https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Shroom Clouds (feat. reggie & Jeremih)",
+      "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
+    },
+    {
+      "added_at": "2026-10-16 04:01:54",
+      "album": {
+        "name": "Lambo pass by (feat. OJ da Juiceman)",
+        "url": "https://open.spotify.com/album/0sxD77LnEeh7Z7bqH69mN7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "OJ Da Juiceman",
+          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
+        }
+      ],
+      "duration_ms": 173974,
+      "name": "Lambo pass by (feat. OJ da Juiceman)",
+      "url": "https://open.spotify.com/track/5Bl2UDbq6lOT2U2YXbJ7Dq"
     },
     {
       "added_at": "2026-10-01 14:00:06",
@@ -49,20 +109,44 @@
       "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
     },
     {
-      "added_at": "2026-10-09 04:01:10",
+      "added_at": "2026-10-16 04:01:54",
       "album": {
-        "name": "pop it",
-        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv"
+        "name": "Effortless",
+        "url": "https://open.spotify.com/album/5aetSrrhTetpi8jXtxpcaW"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Kerser",
+          "url": "https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7"
         }
       ],
-      "duration_ms": 138866,
-      "name": "pop it",
-      "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
+      "duration_ms": 245142,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/5O3wwWyc6xJKJpCdyOge1R"
+    },
+    {
+      "added_at": "2026-10-16 04:01:54",
+      "album": {
+        "name": "LEFT RIGHT (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "LEFT RIGHT (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
     },
     {
       "added_at": "2026-10-09 04:01:10",
@@ -85,6 +169,58 @@
       "url": "https://open.spotify.com/track/0dxJI4SkkFHj13Yd2z3mlU"
     },
     {
+      "added_at": "2026-09-29 06:53:42",
+      "album": {
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/6WO9D5X0NcFoh2CtpIbC4U"
+      },
+      "artists": [
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/2jOqLrfpMZBOHMsdFQ39rm"
+    },
+    {
+      "added_at": "2026-10-16 04:01:54",
+      "album": {
+        "name": "Chiltern Firehouse .",
+        "url": "https://open.spotify.com/album/3aOq7YwgI0lUGkmQmGno7I"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 146655,
+      "name": "Chiltern Firehouse .",
+      "url": "https://open.spotify.com/track/4qS0HFIVCwj0AS3zR7hdyi"
+    },
+    {
+      "added_at": "2026-09-29 06:53:42",
+      "album": {
+        "name": "Fire In The Booth",
+        "url": "https://open.spotify.com/album/4nJoo0KMh4ALT2UL57f6D8"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Fire In The Booth",
+      "url": "https://open.spotify.com/track/1yIuPXnyODACJxaX9DjCuY"
+    },
+    {
       "added_at": "2026-09-18 04:23:24",
       "album": {
         "name": "My Forte",
@@ -99,22 +235,6 @@
       "duration_ms": 151179,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
-    },
-    {
-      "added_at": "2026-09-29 06:53:42",
-      "album": {
-        "name": "Crossed Out",
-        "url": "https://open.spotify.com/album/6IER78BO9TmP5O6nNLp2jQ"
-      },
-      "artists": [
-        {
-          "name": "J Emz",
-          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Crossed Out",
-      "url": "https://open.spotify.com/track/3zOsjeYUu2MFa0qRP8PcLO"
     },
     {
       "added_at": "2026-10-02 00:03:30",
@@ -139,18 +259,54 @@
     {
       "added_at": "2026-09-29 06:53:42",
       "album": {
-        "name": "Fire In The Booth",
-        "url": "https://open.spotify.com/album/4nJoo0KMh4ALT2UL57f6D8"
+        "name": "Crossed Out",
+        "url": "https://open.spotify.com/album/6IER78BO9TmP5O6nNLp2jQ"
       },
       "artists": [
         {
-          "name": "Wretch 32",
-          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+          "name": "J Emz",
+          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Fire In The Booth",
-      "url": "https://open.spotify.com/track/1yIuPXnyODACJxaX9DjCuY"
+      "duration_ms": 187200,
+      "name": "Crossed Out",
+      "url": "https://open.spotify.com/track/3zOsjeYUu2MFa0qRP8PcLO"
+    },
+    {
+      "added_at": "2026-09-04 00:00:23",
+      "album": {
+        "name": "Yiccen",
+        "url": "https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 138773,
+      "name": "Yiccen",
+      "url": "https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt"
+    },
+    {
+      "added_at": "2026-09-29 06:53:42",
+      "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/4f8Y1PpbmWEvwSrgqOpvF0"
+      },
+      "artists": [
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "MATEK",
+          "url": "https://open.spotify.com/artist/6W1873QQeyM22YAo1dm8uY"
+        }
+      ],
+      "duration_ms": 133368,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/7ynnIE2JkTcPfpWaH1DxMy"
     },
     {
       "added_at": "2026-09-18 04:23:24",
@@ -179,42 +335,6 @@
       "duration_ms": 194424,
       "name": "Lottery 4.0 (feat. Jeremih, Rick Ross & Skillibeng)",
       "url": "https://open.spotify.com/track/30Vn2g5NWfVedvshn1dgFj"
-    },
-    {
-      "added_at": "2026-09-29 06:53:42",
-      "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/4f8Y1PpbmWEvwSrgqOpvF0"
-      },
-      "artists": [
-        {
-          "name": "UTILITY",
-          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
-        },
-        {
-          "name": "MATEK",
-          "url": "https://open.spotify.com/artist/6W1873QQeyM22YAo1dm8uY"
-        }
-      ],
-      "duration_ms": 133368,
-      "name": "Player",
-      "url": "https://open.spotify.com/track/7ynnIE2JkTcPfpWaH1DxMy"
-    },
-    {
-      "added_at": "2026-09-04 00:00:23",
-      "album": {
-        "name": "Yiccen",
-        "url": "https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 138773,
-      "name": "Yiccen",
-      "url": "https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt"
     },
     {
       "added_at": "2026-09-18 04:23:24",
@@ -329,6 +449,22 @@
       "url": "https://open.spotify.com/track/3nIZYfa1Ij4XrarJd1TNXP"
     },
     {
+      "added_at": "2026-10-16 04:01:54",
+      "album": {
+        "name": "FLVRS",
+        "url": "https://open.spotify.com/album/31rYZoE118VyRXgeRLRxX6"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "FLVRS",
+      "url": "https://open.spotify.com/track/2SRayuy1osHQ4kgidjDRuJ"
+    },
+    {
       "added_at": "2026-09-18 04:23:24",
       "album": {
         "name": "kylie",
@@ -395,22 +531,6 @@
       "duration_ms": 116073,
       "name": "PRINCE OF THE SCENE",
       "url": "https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6"
-    },
-    {
-      "added_at": "2026-09-29 06:53:42",
-      "album": {
-        "name": "Goat",
-        "url": "https://open.spotify.com/album/6WO9D5X0NcFoh2CtpIbC4U"
-      },
-      "artists": [
-        {
-          "name": "Lisi",
-          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/2jOqLrfpMZBOHMsdFQ39rm"
     },
     {
       "added_at": "2026-08-20 14:00:38",
@@ -1279,22 +1399,6 @@
       "duration_ms": 267586,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/3KzqPheSwyNSvYtjtOtmP4"
-    },
-    {
-      "added_at": "2026-08-06 14:00:16",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/3TOp1uIbREUOqYUwuXq269"
-      },
-      "artists": [
-        {
-          "name": "Yung Maynie",
-          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
-        }
-      ],
-      "duration_ms": 161296,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/6uJNfV05iUiCpyWidj7HrG"
     }
   ],
   "unique_name": "A1",

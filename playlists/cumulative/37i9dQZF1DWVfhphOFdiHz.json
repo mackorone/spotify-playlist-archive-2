@@ -4863,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "(it comes to me in waves)",
+        "url": "https://open.spotify.com/album/51sy14BwE6CslpGUm28cau"
+      },
+      "artists": [
+        {
+          "name": "Hollis",
+          "url": "https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256400,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/3ebSciePaS2SPy8Rq03VRD"
+    },
+    {
+      "album": {
         "name": "Hell's Belles",
         "url": "https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD"
       },
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193039,
       "name": "Home Depot",
       "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
@@ -9486,7 +9504,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204173,
       "name": "SAND",
       "url": "https://open.spotify.com/track/32w2m2sYyVq9oglWFtgC9N"
@@ -10016,6 +10034,24 @@
       "duration_ms": 138053,
       "name": "SLAP ME IN THE FACE",
       "url": "https://open.spotify.com/track/0HQPkNb17LKJdclvwGR3sc"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1m9LbRtekfGQm3Q635GlND"
+      },
+      "artists": [
+        {
+          "name": "Now, Now",
+          "url": "https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260546,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/5xHbllWdvBHs6LGAWVk3Hl"
     },
     {
       "album": {

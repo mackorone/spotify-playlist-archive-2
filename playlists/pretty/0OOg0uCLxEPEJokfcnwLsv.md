@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,390 likes - 56 songs - 3 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,389 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,29 +40,23 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 30 | [Hey Jane](https://open.spotify.com/track/4wkekjbUEO1d4txjxm4umF) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 3:22 |
 | 31 | [New Age \(Promo\)](https://open.spotify.com/track/3wy959j1xWgbXFqMBRP6sS) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [New Age](https://open.spotify.com/album/77QeTIYP5ncHLOLApybVHp) | 3:33 |
 | 32 | [BAIT](https://open.spotify.com/track/2uVSAVSODR0UyYzIZG9AY7) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [BAIT](https://open.spotify.com/album/0HkWj6I4OOaAfAHuIciqBS) | 3:49 |
-| 33 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 |
-| 34 | [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 |
-| 35 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
-| 36 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
-| 37 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 |
-| 38 | [It's Just an Act](https://open.spotify.com/track/0gA0sbktF61KIXJfkE6Kpn) | [Lizard Brain Trust](https://open.spotify.com/artist/1NTh40qQFwp4j8xerCD1js) | [It's Just an Act](https://open.spotify.com/album/6bVxbVsb0xRVgH4u6HFhfu) | 2:36 |
-| 39 | [Bad Medicine](https://open.spotify.com/track/5Cpj9SqRd6tON7qOQIYQhy) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Bad Medicine](https://open.spotify.com/album/418PEdXOglBn0sDniDXMdf) | 2:16 |
-| 40 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 |
-| 41 | [Power](https://open.spotify.com/track/3tfHumqKKjYOGC0DlfjM49) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Power](https://open.spotify.com/album/7IkJYzGSBxOuoidbs9a4vw) | 2:04 |
-| 42 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 |
-| 43 | [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 |
-| 44 | [Kimberly Clark](https://open.spotify.com/track/06QggER0hHCYmRIfOW3Igr) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Kimberly Clark](https://open.spotify.com/album/3Sv8C39VaBa1lTjkAcyQrr) | 4:57 |
-| 45 | [Growth Extractors](https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Growth Extractors](https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor) | 2:50 |
-| 46 | [Delusional Daydream](https://open.spotify.com/track/2WtIj15qAaG0lfeWyjvPOU) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Delusional Daydream](https://open.spotify.com/album/2oe6AdaailGYT0AAjlD8k6) | 3:17 |
-| 47 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
-| 48 | [Close To The Sun](https://open.spotify.com/track/3MWOzg0jhCbJOOQZEIKQhD) | [Diopter](https://open.spotify.com/artist/167b5d6MTZVu8prM9XkT7C) | [Close To The Sun](https://open.spotify.com/album/4e9LqsBC4LfHMkOGruVzBy) | 4:22 |
-| 49 | [Orange Slice Memory](https://open.spotify.com/track/71IgFgauHKNpetUKU3uDN3) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Enter! Plastic City / Orange Slice Memory](https://open.spotify.com/album/6xLpoRjVBhQVDX4Hm3Mn4k) | 2:58 |
-| 50 | [Auntie Emma](https://open.spotify.com/track/4NjykIq1UmzxaGlOKd1sRm) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Auntie Emma](https://open.spotify.com/album/50EX9qCftb1U3d1PshCKkQ) | 2:56 |
-| 51 | [Bruised](https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Expectations](https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h) | 3:49 |
-| 52 | [Los Cuadros](https://open.spotify.com/track/2sS07vonHvpJnpki5a8NQ1) | [Zarza](https://open.spotify.com/artist/2uOCM25IUsCJXRZenMEr7l) | [Los Cuadros / La Mujer de Blanco: Parte I](https://open.spotify.com/album/210YJMofBY2znygVZXbV3g) | 4:41 |
-| 53 | [Why](https://open.spotify.com/track/5FFX1vAs5yODkw76iHDB6U) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Why](https://open.spotify.com/album/1rVmJDMzgfXv1enZfIWeUZ) | 3:33 |
-| 54 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
-| 55 | [Avocado Eldorado](https://open.spotify.com/track/5T8utfxKwgAyFSef2lTbN1) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Avocado Eldorado](https://open.spotify.com/album/4Xm8ZhHuEq9Gr5Msgr1CRs) | 3:06 |
-| 56 | [The Way](https://open.spotify.com/track/6oP9yeVKCl1cCqS7ue6lkB) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:20 |
+| 33 | [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 |
+| 34 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
+| 35 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
+| 36 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 |
+| 37 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 |
+| 38 | [Kimberly Clark](https://open.spotify.com/track/06QggER0hHCYmRIfOW3Igr) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Kimberly Clark](https://open.spotify.com/album/3Sv8C39VaBa1lTjkAcyQrr) | 4:57 |
+| 39 | [Growth Extractors](https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Growth Extractors](https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor) | 2:50 |
+| 40 | [Delusional Daydream](https://open.spotify.com/track/2WtIj15qAaG0lfeWyjvPOU) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Delusional Daydream](https://open.spotify.com/album/2oe6AdaailGYT0AAjlD8k6) | 3:17 |
+| 41 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
+| 42 | [Close To The Sun](https://open.spotify.com/track/3MWOzg0jhCbJOOQZEIKQhD) | [Diopter](https://open.spotify.com/artist/167b5d6MTZVu8prM9XkT7C) | [Close To The Sun](https://open.spotify.com/album/4e9LqsBC4LfHMkOGruVzBy) | 4:22 |
+| 43 | [Orange Slice Memory](https://open.spotify.com/track/71IgFgauHKNpetUKU3uDN3) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Enter! Plastic City / Orange Slice Memory](https://open.spotify.com/album/6xLpoRjVBhQVDX4Hm3Mn4k) | 2:58 |
+| 44 | [Auntie Emma](https://open.spotify.com/track/4NjykIq1UmzxaGlOKd1sRm) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Auntie Emma](https://open.spotify.com/album/50EX9qCftb1U3d1PshCKkQ) | 2:56 |
+| 45 | [Bruised](https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Expectations](https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h) | 3:49 |
+| 46 | [Los Cuadros](https://open.spotify.com/track/2sS07vonHvpJnpki5a8NQ1) | [Zarza](https://open.spotify.com/artist/2uOCM25IUsCJXRZenMEr7l) | [Los Cuadros / La Mujer de Blanco: Parte I](https://open.spotify.com/album/210YJMofBY2znygVZXbV3g) | 4:41 |
+| 47 | [Why](https://open.spotify.com/track/5FFX1vAs5yODkw76iHDB6U) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Why](https://open.spotify.com/album/1rVmJDMzgfXv1enZfIWeUZ) | 3:33 |
+| 48 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
+| 49 | [Avocado Eldorado](https://open.spotify.com/track/5T8utfxKwgAyFSef2lTbN1) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Avocado Eldorado](https://open.spotify.com/album/4Xm8ZhHuEq9Gr5Msgr1CRs) | 3:06 |
+| 50 | [The Way](https://open.spotify.com/track/6oP9yeVKCl1cCqS7ue6lkB) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:20 |
 
-Snapshot ID: `AAAHOq8vJ+ftdinNbNiAJlgvBTY/dc5i`
+Snapshot ID: `AAAHPAsmT98W610JgTu7NUAwZ6De8BNS`

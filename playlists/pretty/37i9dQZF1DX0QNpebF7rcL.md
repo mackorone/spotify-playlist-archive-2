@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,764 likes - 103 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,794 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Chase](https://open.spotify.com/track/6Gdu1MtqKLxfV5WZDbA1Wz) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [The Chase](https://open.spotify.com/album/7eThSUjhy5X0FzBrkCujnx) | 4:40 |
-| 2 | [Time Traveler](https://open.spotify.com/track/3PX8cejGswBx9E04v7uDa6) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI), [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc) | [Time Traveler](https://open.spotify.com/album/0MaT5IHTiJqVmCimKUmrQG) | 4:24 |
+| 1 | [Loving You](https://open.spotify.com/track/5qxlupUnYuOtvejpVZGVmZ) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI), [Devon Allman](https://open.spotify.com/artist/5O5nBuQStX2FGY5rRZG0ny), [Larry Doc Watkins](https://open.spotify.com/artist/5Bj5iJqoa5W1JTfy19wvtl) | [Loving You](https://open.spotify.com/album/2RA2RCrvy0WXbbGcVG3Kzw) | 3:51 |
+| 2 | [The Chase](https://open.spotify.com/track/6Gdu1MtqKLxfV5WZDbA1Wz) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [The Chase](https://open.spotify.com/album/7eThSUjhy5X0FzBrkCujnx) | 4:40 |
 | 3 | [Emily](https://open.spotify.com/track/5D1BeoqqkzCXRlanfHKLia) | [Tora Trio](https://open.spotify.com/artist/5tIBZGUDcpDlahR8M8NXEm), [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Emily](https://open.spotify.com/album/0D9Ulk8dAeRcjHX9HWc36U) | 4:11 |
 | 4 | [Reborn](https://open.spotify.com/track/0qBR7JwZ4IephpMpU7KcwS) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Reborn](https://open.spotify.com/album/3INlNOKvqPbbBcvLt9GKwV) | 3:11 |
 | 5 | [Lady On The Rise](https://open.spotify.com/track/5PHQkUPR0b5Dhaf6KdU6RG) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Lady On The Rise](https://open.spotify.com/album/0AiUwhjyio00B25Pyf1VzE) | 3:17 |
@@ -107,9 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 97 | [All My Life](https://open.spotify.com/track/0VDUH9ExYWe5XGRmqu3VHk) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [The Invisible Man](https://open.spotify.com/album/75jZ7YB5g4bwiA5XAFSMX0) | 3:09 |
 | 98 | [Drunk on Your Love](https://open.spotify.com/track/3bEiLUc6SNYVtJr1FgcN4k) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Drifter](https://open.spotify.com/album/3K3Pd91BolfUsaTUhp6jZR) | 3:42 |
 | 99 | [I'm Feeling You](https://open.spotify.com/track/2ZPHgYiKcROxotVsU4sKwq) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [Blues In My DNA](https://open.spotify.com/album/6sbnHnKPNk1mtR6eK33A5j) | 4:37 |
-| 100 | [Day Of Reckoning](https://open.spotify.com/track/3jORWVR5pvIwGYngJeByeu) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Day Of Reckoning](https://open.spotify.com/album/72JDzIsYdbstVnIMYAAtaU) | 4:26 |
-| 101 | [Serves Me Right To Suffer](https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Do The Rump!](https://open.spotify.com/album/5InV64uPrnaEVFjxxFlhrK) | 3:49 |
-| 102 | [Blame It On Eve](https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:32 |
-| 103 | [Issa](https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Issa](https://open.spotify.com/album/6iTIRtJvk0JyRsmtXz2TDe) | 3:26 |
+| 100 | [Serves Me Right To Suffer](https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Do The Rump!](https://open.spotify.com/album/5InV64uPrnaEVFjxxFlhrK) | 3:49 |
 
-Snapshot ID: `AAAAAFskGaWVqVDRnadqC0Rloc0+b2MH`
+Snapshot ID: `AAAAAKo58EyR0d4IJHlhPqSMUR+QZJej`

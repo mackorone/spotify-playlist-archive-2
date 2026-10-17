@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 825175,
+  "num_followers": 825199,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZ/FMqT7EoZBhVr5LIWaBFcOAb0",
+  "snapshot_id": "AAAAADt4dKoJzJupK/t3aCDTBk3l9br+",
   "tracks": [
     {
       "added_at": "2026-09-22 01:57:25",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Liars Linger",
-        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
+        "name": "Sinners of the Seven Seas",
+        "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
       },
       "artists": [
         {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
         }
       ],
-      "duration_ms": 367063,
-      "name": "Liars Linger",
-      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
+      "duration_ms": 180930,
+      "name": "Sinners of the Seven Seas",
+      "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -647,34 +647,38 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Sinners of the Seven Seas",
-        "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
+        "name": "Liars Linger",
+        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
       },
       "artists": [
         {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
         }
       ],
-      "duration_ms": 180930,
-      "name": "Sinners of the Seven Seas",
-      "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
+      "duration_ms": 367063,
+      "name": "Liars Linger",
+      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
     },
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/064UVjs0ry86dP8JLssD45"
+        "name": "Vultures Die Alone",
+        "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
       "artists": [
         {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        },
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
         }
       ],
-      "duration_ms": 316306,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M"
+      "duration_ms": 252893,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -711,22 +715,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Vultures Die Alone",
-        "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/064UVjs0ry86dP8JLssD45"
       },
       "artists": [
         {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
-        },
-        {
-          "name": "Cyan Kicks",
-          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
         }
       ],
-      "duration_ms": 252893,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
+      "duration_ms": 316306,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Avatar - The Final Incarnation -",
-        "url": "https://open.spotify.com/album/2m2b32krMNh0QJDoHpbdU6"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 320724,
-      "name": "Avatar - The Final Incarnation -",
-      "url": "https://open.spotify.com/track/3pVsVG4BRX4orlvLpL42rj"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 261480,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Avatar - The Final Incarnation -",
+        "url": "https://open.spotify.com/album/2m2b32krMNh0QJDoHpbdU6"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 320724,
+      "name": "Avatar - The Final Incarnation -",
+      "url": "https://open.spotify.com/track/3pVsVG4BRX4orlvLpL42rj"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Queen of Shadow",
-        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 247349,
-      "name": "Moth to a Flame",
-      "url": "https://open.spotify.com/track/3nRzfRi5pdXe2aA9rbE0S8"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 320546,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Queen of Shadow",
+        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 247349,
+      "name": "Moth to a Flame",
+      "url": "https://open.spotify.com/track/3nRzfRi5pdXe2aA9rbE0S8"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Heavy Metal Viking",
-        "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
-      },
-      "artists": [
-        {
-          "name": "Brothers of Metal",
-          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
-        }
-      ],
-      "duration_ms": 231356,
-      "name": "Heavy Metal Viking",
-      "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "One Of Us Will Be Next",
         "url": "https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 261240,
       "name": "One Of Us Will Be Next",
       "url": "https://open.spotify.com/track/35bKgNh5mdHvtOsHUBHgEW"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Heavy Metal Viking",
+        "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "duration_ms": 231356,
+      "name": "Heavy Metal Viking",
+      "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Oceans Above, Stars Below",
-        "url": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ"
-      },
-      "artists": [
-        {
-          "name": "Triosphere",
-          "url": "https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG"
-        }
-      ],
-      "duration_ms": 281973,
-      "name": "Shorelines",
-      "url": "https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Rune (2025)",
         "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 406269,
       "name": "The Rune (2025)",
       "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Oceans Above, Stars Below",
+        "url": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ"
+      },
+      "artists": [
+        {
+          "name": "Triosphere",
+          "url": "https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG"
+        }
+      ],
+      "duration_ms": 281973,
+      "name": "Shorelines",
+      "url": "https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "Cicada",
         "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 271693,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
-      },
-      "artists": [
-        {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Thunderfist Chronicles (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9"
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
       "artists": [
         {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
         }
       ],
-      "duration_ms": 263121,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "The Thunderfist Chronicles (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 263121,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Survival of Mankind",
-        "url": "https://open.spotify.com/album/5jtg4TupNSaLLZYtBtpFh9"
-      },
-      "artists": [
-        {
-          "name": "Dragonland",
-          "url": "https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71"
-        }
-      ],
-      "duration_ms": 246471,
-      "name": "Survival of Mankind",
-      "url": "https://open.spotify.com/track/4mZI916WYg2ddnIHaz6L7W"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "I'll Be Thunder",
-        "url": "https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y"
+        "name": "Survival of Mankind",
+        "url": "https://open.spotify.com/album/5jtg4TupNSaLLZYtBtpFh9"
       },
       "artists": [
         {
-          "name": "Equilibrium",
-          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+          "name": "Dragonland",
+          "url": "https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71"
         }
       ],
-      "duration_ms": 200228,
-      "name": "I'll Be Thunder",
-      "url": "https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k"
+      "duration_ms": 246471,
+      "name": "Survival of Mankind",
+      "url": "https://open.spotify.com/track/4mZI916WYg2ddnIHaz6L7W"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1703,6 +1687,22 @@
       "duration_ms": 281187,
       "name": "A Lesser King",
       "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "I'll Be Thunder",
+        "url": "https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "I'll Be Thunder",
+      "url": "https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k"
     }
   ],
   "unique_name": "Epic & Melodic",

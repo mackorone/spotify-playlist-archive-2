@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-532 songs - 1 day 1 hr 6 min
+533 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 | 2026-04-04 |
 | [Lotus River Dawn](https://open.spotify.com/track/2V6Ld2fLYbY2MSk3fC1JjX) | [Jade Spirit](https://open.spotify.com/artist/3KNtyFOfcME4NLV6WoPDz6) | [Lotus River Dawn](https://open.spotify.com/album/7oI44hno2Aez1v7PUEGP7s) | 2:20 | 2026-07-03 |  |
 | [Lumenfall](https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Lumenfall](https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ) | 2:39 | 2026-04-03 | 2026-09-22 |
-| [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2026-08-19 |  |
+| [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2026-08-19 | 2026-10-17 |
 | [Lúnaris](https://open.spotify.com/track/7ottqeiDfzhvwfobW4tfBc) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Lúnaris](https://open.spotify.com/album/3yZZHbaqERyyHeCXwsoPQz) | 2:29 | 2026-08-19 | 2026-10-14 |
 | [Manipura](https://open.spotify.com/track/6aIwo3IbhqllcTWPDBsnYY) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Manipura](https://open.spotify.com/album/7HEjtDjMGvbkHm7mr0RQNR) | 2:45 | 2026-01-08 | 2026-02-05 |
 | [Meadow’s Fountain](https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [OHM](https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb) | 3:00 | 2023-04-28 | 2025-05-22 |
@@ -476,6 +476,7 @@
 | [To Walk Alone](https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [To Walk Alone](https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07) | 2:31 | 2026-08-19 |  |
 | [Topaz Nature](https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Topaz Nature](https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be) | 3:00 | 2026-09-21 |  |
 | [Trace](https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL) | [Cuatico](https://open.spotify.com/artist/7uwkc1ZXfm0rVruHw8a91m) | [Trace](https://open.spotify.com/album/7ubIk8MvGIJ4TYXTiGGPOF) | 2:17 | 2026-01-08 | 2026-04-04 |
+| [Tranquil Mind](https://open.spotify.com/track/5aGajOQCwMN6ua6qimbh9J) | [Eves Haven](https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT) | [Tranquil Mind](https://open.spotify.com/album/3NJPrsejVnPTjUn13MkgM4) | 2:30 | 2026-09-21 |  |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2023-04-28 | 2024-04-02 |
 | [Tranquility](https://open.spotify.com/track/3qoGayotW8LH4rmjuYiB9r) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Tranquility](https://open.spotify.com/album/58nrqDQObWPfNLTcBSJw9H) | 2:23 | 2026-08-19 |  |
 | [Transcendent Pools](https://open.spotify.com/track/3zxKbETJMvNUEbQJsng8hs) | [Brave Olgot](https://open.spotify.com/artist/36ZUkDeMXc5THGh3Wzls66) | [Transcendent Pools](https://open.spotify.com/album/2PdNceP5p7zyrqQXlC33bm) | 2:39 | 2026-07-03 | 2026-08-26 |

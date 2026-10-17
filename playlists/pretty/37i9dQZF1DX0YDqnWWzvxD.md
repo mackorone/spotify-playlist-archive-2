@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,786 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,922 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,19 +78,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 68 | [Silhouette](https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Silhouette](https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9) | 2:49 |
 | 69 | [Unbroken Flow](https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn) | [Anzan](https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA), [Tomas Walker](https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr) | [Zen Music for Relaxation Vol\. 1 & 2](https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts) | 2:06 |
 | 70 | [Inner Calmness](https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK) | [Arijit Ghoshal](https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86) | [Relaxation and Meditation in Bollywood](https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm) | 6:46 |
-| 71 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 |
+| 71 | [Hands of Love](https://open.spotify.com/track/5thzPpq4bX8deK5qYzcbx5) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/31baJpqQCjXr2tG7Bo8WrJ) | 3:35 |
 | 72 | [A Peaceful Music](https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE) | [Mitchell Solaris](https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU) | [Relaxation \- Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation](https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv) | 5:17 |
-| 73 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |
-| 74 | [Hands of Love](https://open.spotify.com/track/5thzPpq4bX8deK5qYzcbx5) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/31baJpqQCjXr2tG7Bo8WrJ) | 3:35 |
+| 73 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 |
+| 74 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |
 | 75 | [Attention Caller](https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Hyper Focus](https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am) | 3:23 |
 | 76 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
 | 77 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Forest Bathing](https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
-| 78 | [Swasa](https://open.spotify.com/track/5W8G3QUUFXMhe1RpYR40ms) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:30 |
+| 78 | [Poornam](https://open.spotify.com/track/7JRb8YV4LFbRv0ULSw1Qjs) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:04 |
 | 79 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
 | 80 | [Beauty of Hope](https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV) | [José Ramos](https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz) | [Beauty of Hope](https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D) | 2:40 |
 | 81 | [Savasana Yoga](https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq) | [Kundalini Yoga Group](https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV) | [Surya Namaskar Yoga – Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises](https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu) | 3:35 |
 | 82 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |
-| 83 | [Poornam](https://open.spotify.com/track/7JRb8YV4LFbRv0ULSw1Qjs) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:04 |
+| 83 | [Swasa](https://open.spotify.com/track/5W8G3QUUFXMhe1RpYR40ms) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:30 |
 | 84 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
 | 85 | [Breathing In](https://open.spotify.com/track/3JdKepSqQszC0g7NIDDcFl) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [Breathing In](https://open.spotify.com/album/1WuIBoOzsSprBaSAz04bkz) | 2:30 |
 | 86 | [Closing Meditation](https://open.spotify.com/track/1d25xxmGKe134EkAn9s6AG) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live in Love, Vol\. 2](https://open.spotify.com/album/4jBwmGefP4zLBpJ3UN1gC2) | 6:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 99 | [Blue Dunes](https://open.spotify.com/track/3nHM0vcX17s8pBDcGIozHQ) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Blue Dunes](https://open.spotify.com/album/4N4vqojadhjwZCBKFyzMBv) | 2:48 |
 | 100 | [Arms Around Sleep](https://open.spotify.com/track/1ZdOVQclzc6XDJAJQKxu1u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Wake:Sleep](https://open.spotify.com/album/0Cd1W132OG9F3UJw8g0Oha) | 9:51 |
 
-Snapshot ID: `AAAAAAswDLFP6RSWtq40SthO3zuXRFSf`
+Snapshot ID: `AAAAAOqedX4swu+OwpYIEbX2FW7h53B2`

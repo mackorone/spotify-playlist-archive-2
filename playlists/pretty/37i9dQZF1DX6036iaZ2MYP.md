@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,783 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,979 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 2 | [IKEBE 3000](https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [IKEBE 3000](https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL) | 3:17 |
 | 3 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
 | 4 | [FRE$H](https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [FRE$H](https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3) | 2:18 |
-| 5 | [Track 13](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 0:00 |
+| 5 | [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 |
 | 6 | [If You Like](https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 2:42 |
 | 7 | [Somayé](https://open.spotify.com/track/1bBoK40Rb0LvRDXyJSxCYj) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Somayé](https://open.spotify.com/album/3Snvr2LuIWIFTSCvLZI73h) | 2:09 |
 | 8 | [Comfort](https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Comfort](https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Alhaja](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 2:08 |
 | 50 | [Pourquoi ??](https://open.spotify.com/track/1BLdz8Hfb3my3XKJapaMYG) | [Dayarga](https://open.spotify.com/artist/5PcBbqK2yMNnbp7c3hRDuX) | [Pourquoi ??](https://open.spotify.com/album/6Qn1X8h93QFtKfdu0mwQ5W) | 2:17 |
 
-Snapshot ID: `AAAAAOkH4937CfAWGfD6w5jHo/C7uItl`
+Snapshot ID: `AAAAAJkrz22g+pzVflW+cE0CtqteZSJu`

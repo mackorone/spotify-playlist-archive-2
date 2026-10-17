@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "456",
+        "url": "https://open.spotify.com/album/1x7P0DZJfjgudtSgQpgxR3"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "456",
+      "url": "https://open.spotify.com/track/4SU737Kw8An25yekcF3UFk"
+    },
+    {
+      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/6JEJjc8OLNOPzUnc8AkfVR"
       },
@@ -3628,6 +3646,32 @@
       "duration_ms": 138157,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
+    },
+    {
+      "album": {
+        "name": "Piks.",
+        "url": "https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "Serious Klein",
+          "url": "https://open.spotify.com/artist/118HlFjDgUCku033j3YD81"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "black entertaiNMENT (feat. Serious Klein)",
+      "url": "https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6"
     },
     {
       "album": {
@@ -8366,7 +8410,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 259540,
       "name": "Driving Miss Daisy",
       "url": "https://open.spotify.com/track/5Pw1JjIwTA5pG2M9B8sGOB"
@@ -8692,7 +8736,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 138318,
       "name": "Ember (Remind Me)",
       "url": "https://open.spotify.com/track/0190y3IO7OwDMqRZeYjB9P"
@@ -10724,6 +10768,24 @@
       "duration_ms": 190588,
       "name": "Free",
       "url": "https://open.spotify.com/track/1sDHnW7KdjZ3ephPYF6qXE"
+    },
+    {
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/3pwFGUUHPPQo25cHgi7VLM"
+      },
+      "artists": [
+        {
+          "name": "Kuzi Cee",
+          "url": "https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196204,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6WbBIHGT730kbo2vcJxdII"
     },
     {
       "album": {
@@ -14290,7 +14352,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 280948,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/1BoEK6Id0VsxS0grIMVEFi"
@@ -15084,7 +15146,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 167032,
       "name": "Jesus Piece",
       "url": "https://open.spotify.com/track/5WLS8pJjY4gxXi66grPhHk"
@@ -16769,6 +16831,24 @@
     },
     {
       "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/4r6YKXlIvj4lwy2g1sdiPy"
+      },
+      "artists": [
+        {
+          "name": "Kreesha Turner",
+          "url": "https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197819,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/3Mhdx60TGNT2I4sH50Ztxc"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj"
       },
@@ -17182,6 +17262,24 @@
       "duration_ms": 134249,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/13bfgUVzFatSYQPkZ4euTe"
+    },
+    {
+      "album": {
+        "name": "I GUESS I REMEMBER IT WRONG",
+        "url": "https://open.spotify.com/album/4WWV438AxXEQQ7u1xvRfh6"
+      },
+      "artists": [
+        {
+          "name": "OVI WOOD",
+          "url": "https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "LOST IT ALL",
+      "url": "https://open.spotify.com/track/6GcTaBQ8cw8ukPrU1fJd4T"
     },
     {
       "album": {
@@ -20905,6 +21003,24 @@
     },
     {
       "album": {
+        "name": "Good 4 The Soul",
+        "url": "https://open.spotify.com/album/3KUBP2D5GudUhn17slxgxY"
+      },
+      "artists": [
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Notice Me Notice You",
+      "url": "https://open.spotify.com/track/2XQtFizUFgUMnZ7BoAyAuJ"
+    },
+    {
+      "album": {
         "name": "Nowadays",
         "url": "https://open.spotify.com/album/4qzxGrMZh9jRDERur589za"
       },
@@ -21068,6 +21184,28 @@
       "duration_ms": 141624,
       "name": "Off The Edge",
       "url": "https://open.spotify.com/track/217mh6loey8Q1WxFJ2qcVq"
+    },
+    {
+      "album": {
+        "name": "Off Top (feat. Leila Dey)",
+        "url": "https://open.spotify.com/album/2Ocu7Vh6vGaYbUgQwiVyax"
+      },
+      "artists": [
+        {
+          "name": "DJ Agile",
+          "url": "https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed"
+        },
+        {
+          "name": "Leila Dey",
+          "url": "https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "Off Top (feat. Leila Dey)",
+      "url": "https://open.spotify.com/track/4gDFGQYW7JKS3VGD9bUrFF"
     },
     {
       "album": {
@@ -24742,7 +24880,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 179286,
       "name": "Ricky",
       "url": "https://open.spotify.com/track/5J37sfapbsuaLMQShJXTc1"
@@ -27458,7 +27596,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 102000,
       "name": "Solana's Interlude",
       "url": "https://open.spotify.com/track/5RTtCcD9WCbVGtu6lhrDk2"
@@ -31842,7 +31980,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 143546,
       "name": "TWIST ME UP",
       "url": "https://open.spotify.com/track/78gXTB5nFHO98gml1HIm7U"

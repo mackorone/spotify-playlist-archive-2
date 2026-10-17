@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1260847,
+  "num_followers": 1261032,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjfOm9XSGRPm2YCNU7FSI9VLPii",
+  "snapshot_id": "AAAAAE/QnfEB/e1zL5An3mOtgsMD8R+O",
   "tracks": [
     {
       "added_at": "2025-11-20 11:28:56",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-11-20 11:28:56",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2025-11-20 11:28:56",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 297293,
       "name": "Rumba Quimbumba",
       "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
+    },
+    {
+      "added_at": "2025-11-20 11:28:56",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2025-11-20 11:28:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-20 11:28:56",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
-    },
-    {
-      "added_at": "2025-11-20 11:28:56",
-      "album": {
         "name": "Para Siempre (20) Exitos",
         "url": "https://open.spotify.com/album/6Vhn8eayljHTmBrptRb9IB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 276813,
       "name": "Yo Soy Tu Maestro",
       "url": "https://open.spotify.com/track/760Gu5DFBFjADZq5HvCHrR"
+    },
+    {
+      "added_at": "2025-11-20 11:28:56",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
     },
     {
       "added_at": "2025-11-20 11:28:56",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-11-20 11:28:56",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
+      "duration_ms": 213000,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn"
     }
   ],
   "unique_name": "100% Cumbia",

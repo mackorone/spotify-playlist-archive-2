@@ -4,7 +4,7 @@
 
 > kun det nyeste danske rap øverst 👀  Artigeardit på cover!!
 
-654 songs - 1 day 3 hr 58 min
+655 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Payback \(feat\. RH\)](https://open.spotify.com/track/01oiNNLfj1N5n8McYBq3kt) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [Payback \(feat\. RH\)](https://open.spotify.com/album/77T0zKbTYx05Fcb5qIeFNB) | 2:29 | 2023-09-29 | 2024-04-05 |
 | [Piger \(feat\. ICEKIID\)](https://open.spotify.com/track/2krMpiq40MNAIo6weIBonY) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:24 | 2026-02-12 | 2026-04-10 |
 | [Pilot](https://open.spotify.com/track/4bdhr8csdbOX690DKsBOnH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Pilot](https://open.spotify.com/album/5MacHtaCqoCziU1bOY8bu2) | 3:00 | 2025-03-13 | 2025-06-13 |
+| [PIZZAMAN](https://open.spotify.com/track/6nzYAba8pQ9bzHKRnXDFJV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [PIZZAMAN](https://open.spotify.com/album/1dCOXSPtIE3T2aP6VoEx4i) | 2:27 | 2026-10-16 |  |
 | [Planet](https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Planet](https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi) | 3:53 | 2026-03-26 | 2026-06-26 |
 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 | 2025-06-19 | 2026-04-10 |
 | [Poison Ivy](https://open.spotify.com/track/03dQMcWzjly8qC5Yd5hblh) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Poison Ivy](https://open.spotify.com/album/1ZDIBDL88klUFwKthupCm5) | 2:21 | 2024-03-07 | 2024-05-14 |

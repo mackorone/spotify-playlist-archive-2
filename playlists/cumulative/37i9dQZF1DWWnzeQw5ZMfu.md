@@ -2,9 +2,9 @@
 
 ### [Pop Live](https://open.spotify.com/playlist/37i9dQZF1DWWnzeQw5ZMfu)
 
-> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ROLE MODEL
+> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ADÉLA
 
-274 songs - 20 hr 41 min
+275 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Just Can't Get Enough \- Live at Rose Bowl, Pasadena, CA \- June 18, 1988](https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [101 \(Live\)](https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h) | 4:01 | 2022-04-14 | 2025-01-18 |
 | [Just Can't Get Enough \- Live at Rose Bowl, Pasadena, CA, 18/6/1988](https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [101](https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg) | 4:01 | 2022-04-29 | 2024-04-02 |
 | [Kill This Love \- Live](https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2021 'THE SHOW' LIVE](https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi) | 3:11 | 2023-08-18 | 2025-01-18 |
-| [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 | 2022-04-14 |  |
+| [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 | 2022-04-14 | 2026-10-17 |
 | [Land Of Confusion \- Live From Helsinki,Finland/2007](https://open.spotify.com/track/79q1innJON7NybaUwagqpv) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Live Over Europe 2007](https://open.spotify.com/album/6DviLZLFXtlqsNysPchTuU) | 5:11 | 2022-04-14 | 2022-07-29 |
 | [last night's mascara \- live from Short n' Sweet Tour](https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara \(live from Short n' Sweet Tour\)](https://open.spotify.com/album/2RyExw05UDb33LK7uoz302) | 2:45 | 2024-11-25 | 2025-01-18 |
 | [Latch \- Live From Madison Square Garden](https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 8:06 | 2022-04-14 | 2024-11-26 |
@@ -172,6 +172,7 @@
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live music from Concerts](https://open.spotify.com/album/3A7eg1VKPfqLard0TWTH5r) | 4:59 | 2023-09-01 | 2023-11-06 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/6EvFLeZ3aUYoagV6K92cqq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:59 | 2022-04-14 | 2022-07-24 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Stadium Rockers](https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y) | 4:59 | 2022-04-14 | 2023-09-09 |
+| [Mr\. Know It All \- Live](https://open.spotify.com/track/0cwHaIBAlI4J3DwSVZU3CO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Freak Freely](https://open.spotify.com/artist/7hRxXRvEY8a47x6j5j6bUy) | [Mr\. Know It All \(Live\)](https://open.spotify.com/album/0ZH2hONdITXSoReKeUIcth) | 3:22 | 2026-10-16 |  |
 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 | 2023-08-18 | 2025-01-18 |
 | [My Love Is Your Love \- Live from Late Show with David Letterman](https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 3:46 | 2022-04-14 | 2025-01-18 |
 | [New Americana \- Live From Webster Hall](https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:19 | 2022-04-29 | 2025-01-18 |

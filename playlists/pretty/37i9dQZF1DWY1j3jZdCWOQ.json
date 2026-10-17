@@ -1,12 +1,12 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 595065,
+  "num_followers": 595142,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxfcQcmsHh/wJQ03LwhgKSFMdYH",
+  "snapshot_id": "AAAAADp2MfSbs0TDtjTmftyopRQIudYI",
   "tracks": [
     {
       "added_at": "2026-04-07 21:11:18",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -579,6 +563,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "icantbelieveiletyougetaway",
-        "url": "https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 135880,
-      "name": "icantbelieveiletyougetaway",
-      "url": "https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Digital Silence",
         "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 198026,
       "name": "Digital Silence",
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "icantbelieveiletyougetaway",
+        "url": "https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 135880,
+      "name": "icantbelieveiletyougetaway",
+      "url": "https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Sorry, Mom",
         "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
       },
@@ -2347,34 +2363,18 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
+        "name": "Good Girls (Don\u2019t Get Used)",
+        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Party Favors",
-        "url": "https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 160518,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn"
+      "duration_ms": 215402,
+      "name": "Good Girls (Don\u2019t Get Used)",
+      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2395,6 +2395,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 160518,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2427,22 +2443,6 @@
       "duration_ms": 202319,
       "name": "Lotta True Crime",
       "url": "https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Good Girls (Don\u2019t Get Used)",
-        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 215402,
-      "name": "Good Girls (Don\u2019t Get Used)",
-      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
     },
     {
       "added_at": "2026-04-07 21:11:18",

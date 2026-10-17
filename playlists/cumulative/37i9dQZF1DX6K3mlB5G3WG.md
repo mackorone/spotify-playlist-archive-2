@@ -4,7 +4,7 @@
 
 > Angelina Mango in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,887 songs - 8 day 8 hr 58 min
+3,890 songs - 8 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-08 | 2025-06-06 |
 | [Blister Sunrise](https://open.spotify.com/track/6KmnrYGLTStjxonyQYRPbU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Blister Sunrise](https://open.spotify.com/album/0YloSzp3b1YxEdYOxfbA5T) | 3:20 | 2026-09-03 | 2026-09-25 |
 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 | 2026-10-15 |  |
+| [Blood On The Dashboard](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 3:24 | 2026-10-15 |  |
 | [Blood Running](https://open.spotify.com/track/6JyxdCQlx9FCtwsisAkEqW) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Blood Running](https://open.spotify.com/album/6tCRyFae2MWKK7ChG4iCg2) | 2:53 | 2025-10-02 | 2025-10-24 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2025-06-06 |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-08-16 |
@@ -1901,6 +1902,7 @@
 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 | 2024-10-10 | 2024-11-15 |
 | [Libera](https://open.spotify.com/track/1NAaV2LX56KprCyZZGZ5gw) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Libera](https://open.spotify.com/album/6MtuMSQKEVbc76dw0NIzGQ) | 2:42 | 2025-10-02 | 2025-10-24 |
 | [lie to me](https://open.spotify.com/track/762QbgsEwLAQ2ev76EXLrs) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [lie to me](https://open.spotify.com/album/6LF6dA9L155MBeBdreL184) | 2:51 | 2026-04-09 | 2026-05-08 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-15 |  |
 | [Life On The Line](https://open.spotify.com/track/6zp4523IH32wZBDWklk5iB) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Life On The Line](https://open.spotify.com/album/2nBkY9DjQvHoAhZJSaG5QI) | 2:07 | 2025-01-30 | 2025-02-21 |
 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-28 | 2025-03-21 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-09 | 2024-09-13 |
@@ -2671,6 +2673,7 @@
 | [Poteva piovere](https://open.spotify.com/track/5V8uyik5T6uzBEuVfqsAPc) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Poteva piovere](https://open.spotify.com/album/1Yp5jcutprfBdOqqSoddV4) | 3:16 | 2024-10-10 | 2024-11-01 |
 | [Potevamo fare schifo insieme](https://open.spotify.com/track/7FLt6SkjRi9pQM0HrtJ9KH) | [SARAFINE](https://open.spotify.com/artist/6uejEU9tKd16IvCqvf2n5E) | [Potevamo fare schifo insieme](https://open.spotify.com/album/6UGIlKxUZ8B4Kywp2BrB0E) | 3:25 | 2026-03-26 | 2026-04-17 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-27 | 2024-07-27 |
+| [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 | 2026-10-15 |  |
 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 | 2025-01-23 | 2025-02-14 |
 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 | 2026-01-15 | 2026-02-13 |
 | [Precipitando](https://open.spotify.com/track/66dPIcMkaUhlPiknMRwSS8) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [Precipitando](https://open.spotify.com/album/33XNv76gD9ZLAs1UCAfZ7W) | 3:24 | 2026-01-29 | 2026-02-20 |
@@ -3518,7 +3521,6 @@
 | [TRA LE LUNE E LE DUNE](https://open.spotify.com/track/1SjWttp0uxEZFDjfVpTdN0) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:06 | 2025-11-06 | 2025-11-28 |
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-12 | 2025-03-07 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2025-01-10 |
-| [Track 2](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 0:00 | 2026-10-15 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-15 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-04-03 |
 | [Traitor](https://open.spotify.com/track/6RJUH9V6OBskrZlKhudD7p) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [MegaHits 2025 \- Die Erste](https://open.spotify.com/album/5tuEP1oRBPT1A3hsrsSkdw) | 2:28 | 2025-01-16 | 2025-02-12 |
@@ -3637,6 +3639,7 @@
 | [Unicorn](https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Tales of a Failed Shapeshifter](https://open.spotify.com/album/2RL64278RxtHMgDH04qzex) | 2:28 | 2026-02-26 | 2026-03-27 |
 | [Universo](https://open.spotify.com/track/6VVG1DKQLTXIZ8r4eLyIRm) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Universo](https://open.spotify.com/album/1wfgCR78RQ9C6QqeD9CyvV) | 3:25 | 2024-10-10 | 2024-11-15 |
 | [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 | 2026-10-15 |  |
+| [uno+1](https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e) | 2:50 | 2026-10-15 |  |
 | [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 | 2025-10-09 | 2025-10-31 |
 | [Un’ora di follia](https://open.spotify.com/track/5hojWT0xph2Xi1TkRQQWSv) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Un’ora di follia](https://open.spotify.com/album/7Kgc8z9VisZxj3hUxQMk6F) | 2:57 | 2025-05-05 | 2025-06-06 |
 | [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 | 2026-02-25 | 2026-03-27 |

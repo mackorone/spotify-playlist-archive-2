@@ -1,28 +1,28 @@
 {
   "description": "Uplift your spirit with these faith-filled folk melodies. Cover: Rend Collective",
-  "num_followers": 40233,
+  "num_followers": 40277,
   "original_name": "Faith & Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGbcVs3Z6rtTUdXzUxi/t6VAjAR",
+  "snapshot_id": "AAAAANZCxZgXGTBgbYn6fUXDSD8Nh1b8",
   "tracks": [
     {
-      "added_at": "2026-09-19 03:33:22",
+      "added_at": "2026-10-16 09:39:32",
       "album": {
-        "name": "The Evergreen Season",
-        "url": "https://open.spotify.com/album/7vTRCOz0d6jK4bzGXgOh2I"
+        "name": "SOUND OF FREEDOM (PSALM 27)",
+        "url": "https://open.spotify.com/album/3vAc3fzs1EpnNczAr2zRrT"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "LOST & FOUND",
+          "url": "https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo"
         }
       ],
-      "duration_ms": 168091,
-      "name": "Runaway Heart",
-      "url": "https://open.spotify.com/track/0rs9AALYmrjP1vQarBJkPl"
+      "duration_ms": 158709,
+      "name": "SOUND OF FREEDOM (PSALM 27)",
+      "url": "https://open.spotify.com/track/54fxKzlXkKDPSOozfU4yKT"
     },
     {
       "added_at": "2026-09-19 03:33:22",
@@ -39,6 +39,62 @@
       "duration_ms": 163328,
       "name": "sundays",
       "url": "https://open.spotify.com/track/7audgOVGbxdHuInGTq2FHP"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "Wretched",
+        "url": "https://open.spotify.com/album/4d3Qbnd2cZbtaI23QVFhQy"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        },
+        {
+          "name": "Salem Lee",
+          "url": "https://open.spotify.com/artist/1u5Wv2X6keaZkjxIUNxyf6"
+        }
+      ],
+      "duration_ms": 178549,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/3GDhdPOfCKaD9pJXtMlbbK"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "You'll Provide",
+        "url": "https://open.spotify.com/album/00eKLraFplS4tY6zU2h60z"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        },
+        {
+          "name": "Dylan Stiles",
+          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "You'll Provide",
+      "url": "https://open.spotify.com/track/0YeOZlK1bODwKArCSHyzaK"
+    },
+    {
+      "added_at": "2026-09-19 03:33:22",
+      "album": {
+        "name": "The Evergreen Season",
+        "url": "https://open.spotify.com/album/7vTRCOz0d6jK4bzGXgOh2I"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 168091,
+      "name": "Runaway Heart",
+      "url": "https://open.spotify.com/track/0rs9AALYmrjP1vQarBJkPl"
     },
     {
       "added_at": "2026-09-19 03:33:22",
@@ -71,38 +127,6 @@
       "duration_ms": 214872,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/115KAd9VbsmqjrGVRbsIVC"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/1ZgYmQn4Xhr4cL1lpLZl4T"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
-        }
-      ],
-      "duration_ms": 176330,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/4hKbIO9ibvhl9BtYgWZE5U"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 233152,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5"
     },
     {
       "added_at": "2026-09-19 03:33:22",
@@ -167,22 +191,6 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "Splinters",
-        "url": "https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg"
-      },
-      "artists": [
-        {
-          "name": "Hailey Hutcheson",
-          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
         "name": "Pray For You",
         "url": "https://open.spotify.com/album/1dSpwYMBGkEk2ejly43bCk"
       },
@@ -211,26 +219,6 @@
       "duration_ms": 172028,
       "name": "tide",
       "url": "https://open.spotify.com/track/5cnpqXnGR6EvPbagw5HMiq"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
-        "name": "Do It All Alone",
-        "url": "https://open.spotify.com/album/3uvW02kB4reiUy84wBmqpK"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        },
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 172738,
-      "name": "Do It All Alone",
-      "url": "https://open.spotify.com/track/4r52cNLmKqWVMMyaHYXikF"
     },
     {
       "added_at": "2026-09-19 03:33:22",
@@ -271,26 +259,6 @@
       "duration_ms": 250101,
       "name": "Still Waters (Psalm 23) - Acoustic",
       "url": "https://open.spotify.com/track/3Q9W1stYm98AVSNKbw7iGQ"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
-        "name": "Laodicea",
-        "url": "https://open.spotify.com/album/1kp9TRZpYAYnSg4ZE4rUmk"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        },
-        {
-          "name": "Dylan Stiles",
-          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Laodicea",
-      "url": "https://open.spotify.com/track/0fN17jyC7BpKqlQC3jAYun"
     },
     {
       "added_at": "2026-09-19 03:33:22",
@@ -447,26 +415,6 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "Can You Tell",
-        "url": "https://open.spotify.com/album/4y4tKRrEJQwofQGhLW7K8H"
-      },
-      "artists": [
-        {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
-        },
-        {
-          "name": "Caylie Bryant",
-          "url": "https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O"
-        }
-      ],
-      "duration_ms": 196208,
-      "name": "Can You Tell",
-      "url": "https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
         "name": "All That I Am",
         "url": "https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN"
       },
@@ -559,22 +507,6 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/2mCeisXdEX65wWTUsTT4qD"
-      },
-      "artists": [
-        {
-          "name": "Madalyn Rae",
-          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
-        }
-      ],
-      "duration_ms": 210004,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/0bcMgfHU4zcD4ANZ0F5IDr"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/74yVQv7tnnKINqKgYtwRdP"
       },
@@ -591,8 +523,120 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "Take Heart",
-        "url": "https://open.spotify.com/album/10f48B3oCpJFQpPgaQfSFI"
+        "name": "Something Greater",
+        "url": "https://open.spotify.com/album/7qUfmnn51RAzZhCCHSoH1V"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "duration_ms": 162890,
+      "name": "Something Greater",
+      "url": "https://open.spotify.com/track/1BB08C42ZCxoMa97OgYLi7"
+    },
+    {
+      "added_at": "2026-09-19 03:33:22",
+      "album": {
+        "name": "far too small a word",
+        "url": "https://open.spotify.com/album/2QrzUEcgypzGH3i7HToMEK"
+      },
+      "artists": [
+        {
+          "name": "Reagan James Broome",
+          "url": "https://open.spotify.com/artist/7kkQ22G3EbGp4814OpVEyx"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "far too small a word",
+      "url": "https://open.spotify.com/track/2m16HDxnfZNyjlFsYox5qJ"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "PROMISED LAND",
+        "url": "https://open.spotify.com/album/7h4S9XcRnAtbS0Q34FuUeh"
+      },
+      "artists": [
+        {
+          "name": "ELI GABLE",
+          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "PROMISED LAND",
+      "url": "https://open.spotify.com/track/07gsIwBcrIkM7vPCgZsApo"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/3BJGrxoKcGZUumdIfcguKS"
+      },
+      "artists": [
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        }
+      ],
+      "duration_ms": 152857,
+      "name": "Second Wind",
+      "url": "https://open.spotify.com/track/6wXp3RbuG2w99WlTYdDIDC"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "Wonder Wild",
+        "url": "https://open.spotify.com/album/0OUGpOgqtioi0ynRZIjY2V"
+      },
+      "artists": [
+        {
+          "name": "Rothbury",
+          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        },
+        {
+          "name": "Kate Gurren",
+          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
+        },
+        {
+          "name": "Grace Coleman",
+          "url": "https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK"
+        },
+        {
+          "name": "Tiff Willmott",
+          "url": "https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h"
+        }
+      ],
+      "duration_ms": 229054,
+      "name": "Wonder Wild",
+      "url": "https://open.spotify.com/track/2swiYOwUkAZsIaBqplpgAi"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "As We Have Sung: Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/50dKuaJEntoBh9FlQHhXL9"
+      },
+      "artists": [
+        {
+          "name": "Sarah Sparks",
+          "url": "https://open.spotify.com/artist/1rNB96O30Md5JMUNgWwg99"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "It Is Well with My Soul",
+      "url": "https://open.spotify.com/track/468qSvKnXQAAPswZcF6BL3"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/53l7jN6ipLK2E3vg0xMh7W"
       },
       "artists": [
         {
@@ -600,13 +644,81 @@
           "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
         },
         {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+          "name": "davy",
+          "url": "https://open.spotify.com/artist/2dbsiIAqa0BRSqYP9WqJ2f"
         }
       ],
-      "duration_ms": 193216,
-      "name": "Take Heart",
-      "url": "https://open.spotify.com/track/2FrueDysGm9p3lQQEC4vDK"
+      "duration_ms": 224023,
+      "name": "Hope (Romans 5)",
+      "url": "https://open.spotify.com/track/15rZb1Zr6G6BhLrNJjFp7Q"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/1S1zGSiS0XAXTdZ9BfYbVW"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 261916,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/4AaKQPE8FGiFx6oJbRLeos"
+    },
+    {
+      "added_at": "2026-09-19 03:33:22",
+      "album": {
+        "name": "Splinters",
+        "url": "https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg"
+      },
+      "artists": [
+        {
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh"
+    },
+    {
+      "added_at": "2026-09-19 03:33:22",
+      "album": {
+        "name": "Can You Tell",
+        "url": "https://open.spotify.com/album/4y4tKRrEJQwofQGhLW7K8H"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        },
+        {
+          "name": "Caylie Bryant",
+          "url": "https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O"
+        }
+      ],
+      "duration_ms": 196208,
+      "name": "Can You Tell",
+      "url": "https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su"
+    },
+    {
+      "added_at": "2026-09-19 03:33:22",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/2mCeisXdEX65wWTUsTT4qD"
+      },
+      "artists": [
+        {
+          "name": "Madalyn Rae",
+          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
+        }
+      ],
+      "duration_ms": 210004,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/0bcMgfHU4zcD4ANZ0F5IDr"
     },
     {
       "added_at": "2026-09-19 03:33:22",
@@ -727,46 +839,6 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3wmxYnY6RSgUIQDyK1LZBU"
-      },
-      "artists": [
-        {
-          "name": "Little Chapel",
-          "url": "https://open.spotify.com/artist/4qeIkgbuSQ2H0exyTbr1WE"
-        },
-        {
-          "name": "Rob Kaple",
-          "url": "https://open.spotify.com/artist/0ej92V1w9N2qfkSB9vwI4x"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        }
-      ],
-      "duration_ms": 239900,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/6Z3oSz1xLiBtj7az1wJgUV"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y"
-      },
-      "artists": [
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        }
-      ],
-      "duration_ms": 168492,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
         "name": "Good Enough for Me",
         "url": "https://open.spotify.com/album/78YbosyTCGw8P1zkMi1cwW"
       },
@@ -871,22 +943,6 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "I Can See The Light",
-        "url": "https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK"
-      },
-      "artists": [
-        {
-          "name": "Luke Bower",
-          "url": "https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k"
-        }
-      ],
-      "duration_ms": 185302,
-      "name": "I Can See The Light",
-      "url": "https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
         "name": "If you tell God, I won't tell mom",
         "url": "https://open.spotify.com/album/4JA3tcqwDuakj14BZh6b66"
       },
@@ -975,58 +1031,6 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "Something Greater",
-        "url": "https://open.spotify.com/album/7qUfmnn51RAzZhCCHSoH1V"
-      },
-      "artists": [
-        {
-          "name": "Northwest Stories",
-          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
-        }
-      ],
-      "duration_ms": 162890,
-      "name": "Something Greater",
-      "url": "https://open.spotify.com/track/1BB08C42ZCxoMa97OgYLi7"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
-        "name": "Takes A While",
-        "url": "https://open.spotify.com/album/1CzTUqYkRIW2kDew6vRKjv"
-      },
-      "artists": [
-        {
-          "name": "Haddon",
-          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
-        }
-      ],
-      "duration_ms": 157083,
-      "name": "Takes A While",
-      "url": "https://open.spotify.com/track/0HWhi0DFHTgVwedSM9NyWY"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
-        "name": "Restore To Me",
-        "url": "https://open.spotify.com/album/1jED6aHS0QvnVw1kzNnQWv"
-      },
-      "artists": [
-        {
-          "name": "Brice Davis",
-          "url": "https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM"
-        },
-        {
-          "name": "Madalyn Rae",
-          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
-        }
-      ],
-      "duration_ms": 262941,
-      "name": "Restore To Me",
-      "url": "https://open.spotify.com/track/3fXDXJJwDhvVp5Z9Vdoa5D"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/1q2AEE6U8SJKsQD0r9HHSX"
       },
@@ -1075,22 +1079,6 @@
     {
       "added_at": "2026-09-19 03:33:22",
       "album": {
-        "name": "far too small a word",
-        "url": "https://open.spotify.com/album/2QrzUEcgypzGH3i7HToMEK"
-      },
-      "artists": [
-        {
-          "name": "Reagan James Broome",
-          "url": "https://open.spotify.com/artist/7kkQ22G3EbGp4814OpVEyx"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "far too small a word",
-      "url": "https://open.spotify.com/track/2m16HDxnfZNyjlFsYox5qJ"
-    },
-    {
-      "added_at": "2026-09-19 03:33:22",
-      "album": {
         "name": "You Hold It All",
         "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
       },
@@ -1119,6 +1107,86 @@
       "duration_ms": 196361,
       "name": "Flying Kites",
       "url": "https://open.spotify.com/track/1qHYI1dvyZmIcErE1qhXYY"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "Count It All Joy",
+        "url": "https://open.spotify.com/album/58m5ZkfRTyvU1glK9quUMa"
+      },
+      "artists": [
+        {
+          "name": "Sara Peyton King",
+          "url": "https://open.spotify.com/artist/1G0gK2l8RPggjAy4g7fm72"
+        },
+        {
+          "name": "Sidney Bakken",
+          "url": "https://open.spotify.com/artist/09B94nqRRlslNMlWJU9QpZ"
+        }
+      ],
+      "duration_ms": 236739,
+      "name": "Count It All Joy",
+      "url": "https://open.spotify.com/track/7b0DidP1vIIhlKZYkZnUZO"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "Arms Reach",
+        "url": "https://open.spotify.com/album/3x9NvW9BauNEI0NXwykS8l"
+      },
+      "artists": [
+        {
+          "name": "Wilder Adkins",
+          "url": "https://open.spotify.com/artist/2AQVIbXzroJV8VBwKdy7Pc"
+        },
+        {
+          "name": "Haleigh Black",
+          "url": "https://open.spotify.com/artist/7yuTMBfoeskh6OzZ90op3s"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Time The Destroyer",
+      "url": "https://open.spotify.com/track/53pJqZWTWzid4AUzVEalDP"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "it's an art",
+        "url": "https://open.spotify.com/album/0IIiOoVyBgAFqwmjJ6lhIC"
+      },
+      "artists": [
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "duration_ms": 200967,
+      "name": "it's an art",
+      "url": "https://open.spotify.com/track/4qy9er4izbT08F1gmps3lJ"
+    },
+    {
+      "added_at": "2026-09-19 03:33:22",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3wmxYnY6RSgUIQDyK1LZBU"
+      },
+      "artists": [
+        {
+          "name": "Little Chapel",
+          "url": "https://open.spotify.com/artist/4qeIkgbuSQ2H0exyTbr1WE"
+        },
+        {
+          "name": "Rob Kaple",
+          "url": "https://open.spotify.com/artist/0ej92V1w9N2qfkSB9vwI4x"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "duration_ms": 239900,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/6Z3oSz1xLiBtj7az1wJgUV"
     },
     {
       "added_at": "2026-09-19 03:33:22",
@@ -1319,6 +1387,42 @@
       "duration_ms": 154750,
       "name": "Met a Girl in Arizona",
       "url": "https://open.spotify.com/track/2JwJ4IK2NSPf4mdJTopdqJ"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "real thing",
+        "url": "https://open.spotify.com/album/46jk5XR8Csu6m2ku47KJaM"
+      },
+      "artists": [
+        {
+          "name": "Jordan Blaine",
+          "url": "https://open.spotify.com/artist/553lq8J2X0RKxYbQkO512x"
+        },
+        {
+          "name": "Michaela Halfast",
+          "url": "https://open.spotify.com/artist/6f7kRboPvhQq2b3xgjIjx7"
+        }
+      ],
+      "duration_ms": 251384,
+      "name": "real thing",
+      "url": "https://open.spotify.com/track/0N89vAmOXjjiRvITrhyopC"
+    },
+    {
+      "added_at": "2026-10-16 09:39:32",
+      "album": {
+        "name": "In-Between",
+        "url": "https://open.spotify.com/album/7p0Ylsmuljmdsk5UySQSjA"
+      },
+      "artists": [
+        {
+          "name": "Anne Elise",
+          "url": "https://open.spotify.com/artist/2UPEn7IF9Fo87q1oyS3oKP"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "In-Between",
+      "url": "https://open.spotify.com/track/46PTcQtkLdI6SLK55RNTkY"
     }
   ],
   "unique_name": "Faith & Folk",

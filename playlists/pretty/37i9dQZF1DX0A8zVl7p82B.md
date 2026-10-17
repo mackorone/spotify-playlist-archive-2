@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421,048 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421,057 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 8 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 |
 | 9 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 10 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
-| 11 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \(Spotify Singles Holiday\)](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
+| 11 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
 | 12 | [The Christmas Song](https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Christmas Song](https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n) | 2:55 |
 | 13 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
 | 14 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 87 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 | 88 | [merry christmas darling](https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:18 |
 
-Snapshot ID: `AAAAAPl5AZT7w+0MWosrjpS4pF5q13dq`
+Snapshot ID: `AAAAACYW9i/k6rA/BzIlsHPpOg8YhLbR`

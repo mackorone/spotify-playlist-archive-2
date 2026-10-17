@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,268 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,271 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 5 | [Voando Pro Pará](https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 2:59 |
 | 6 | [Me Telefona](https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em São Paulo](https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD) | 3:09 |
 | 7 | [Super pop \(De Mansinho\)](https://open.spotify.com/track/4cwA08to8VgSMtEiQsdN7w) | [Banda Batidão](https://open.spotify.com/artist/7sX6HhHtj8S5w8K3fiipub), [Mansão Record](https://open.spotify.com/artist/3SmboZvoX8urbfboHM5HKK) | [Super pop \(De Mansinho\)](https://open.spotify.com/album/5eF7jaskbpWMx7BZx1n4q2) | 2:56 |
-| 8 | [Bebo e Choro](https://open.spotify.com/track/1YNwYzvMokLXodeOi5OIYY) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Paredão da Bahtidão](https://open.spotify.com/album/6W2eJiGBfxSK2o5mlm8euX) | 2:16 |
-| 9 | [Foi no Teu Olhar](https://open.spotify.com/track/1xRPZSsnyZOje2akLf3hKT) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Harrisson Lemos](https://open.spotify.com/artist/5iNIf91QnE9ViRRK6dSb70) | [Disparando o Sucesso Vol\. 5](https://open.spotify.com/album/59pwOf6MGXPUYSc1uT8SxG) | 3:46 |
+| 8 | [Foi no Teu Olhar](https://open.spotify.com/track/1xRPZSsnyZOje2akLf3hKT) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Harrisson Lemos](https://open.spotify.com/artist/5iNIf91QnE9ViRRK6dSb70) | [Disparando o Sucesso Vol\. 5](https://open.spotify.com/album/59pwOf6MGXPUYSc1uT8SxG) | 3:46 |
+| 9 | [Bebo e Choro](https://open.spotify.com/track/1YNwYzvMokLXodeOi5OIYY) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Paredão da Bahtidão](https://open.spotify.com/album/6W2eJiGBfxSK2o5mlm8euX) | 2:16 |
 | 10 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |
 | 11 | [Anjo](https://open.spotify.com/track/2lCGyoF4rolzOksz16CpDs) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:31 |
 | 12 | [Ruby](https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:14 |
 | 13 | [Te Amo Fudido](https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:43 |
-| 14 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
+| 14 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
 | 15 | [Passe de Mágica \- Ao Vivo](https://open.spotify.com/track/2Cjj80m95OCsZWR8nT3Msj) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Passe de Mágica \(Ao Vivo\)](https://open.spotify.com/album/3jNRjd9XKWYCHSW00aOM8L) | 4:40 |
 | 16 | [Tic Tac](https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:32 |
-| 17 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
+| 17 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 18 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
 | 19 | [Príncipe Negro](https://open.spotify.com/track/51lvHVjDd4ZaqBfycAtDWm) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [A Rainha das Aparelhagens, Vol\. 3](https://open.spotify.com/album/3xR49vqFimEPnvt24en3E7) | 3:36 |
 | 20 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 22 | [Meteoro](https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:36 |
 | 23 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
 | 24 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 |
-| 25 | [Com Ela \- Ao Vivo](https://open.spotify.com/track/5Y6U6voFXgqGXF9l35DHfG) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Com Ela \(Ao Vivo\)](https://open.spotify.com/album/2MQF0vQMUOEzBhO9pP6gVr) | 2:34 |
+| 25 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 |
 | 26 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
-| 27 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 |
+| 27 | [Com Ela \- Ao Vivo](https://open.spotify.com/track/5Y6U6voFXgqGXF9l35DHfG) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Com Ela \(Ao Vivo\)](https://open.spotify.com/album/2MQF0vQMUOEzBhO9pP6gVr) | 2:34 |
 | 28 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |
 | 29 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
 | 30 | [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 64 | [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 |
 | 65 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
 
-Snapshot ID: `AAAAAGS2ne5EKttHe//tseQ+KwrkLGh8`
+Snapshot ID: `AAAAAHKO80LzfIwmkoUeXpq90FyLa637`

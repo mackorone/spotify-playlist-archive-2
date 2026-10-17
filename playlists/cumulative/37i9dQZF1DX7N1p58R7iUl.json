@@ -533,6 +533,32 @@
     },
     {
       "album": {
+        "name": "Beautiful Times",
+        "url": "https://open.spotify.com/album/0mY4P5lgbD5r98U3iFSBxn"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "MIRAMAR",
+          "url": "https://open.spotify.com/artist/1cdAAVlSzE9pXHJQHDv2AK"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173498,
+      "name": "Beautiful Times",
+      "url": "https://open.spotify.com/track/50pR4Bbl07sXiKHtaTJA9h"
+    },
+    {
+      "album": {
         "name": "Been A Long Time",
         "url": "https://open.spotify.com/album/4AqIqUfWwoa7pOGgkDhcX1"
       },
@@ -779,6 +805,50 @@
     },
     {
       "album": {
+        "name": "Break It Down",
+        "url": "https://open.spotify.com/album/5BYKS0VBtEbbPEZpdHKfzD"
+      },
+      "artists": [
+        {
+          "name": "ALXS",
+          "url": "https://open.spotify.com/artist/1M1rjKfNJbRkiQB7MKWbDe"
+        },
+        {
+          "name": "ARMAS",
+          "url": "https://open.spotify.com/artist/2TK3aD8CqlgZvHYtM6rIHA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183297,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/35defkqxPpEZc3nswYDMH2"
+    },
+    {
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/16i9BsI5tvU9gRMveUBOqv"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Reza",
+          "url": "https://open.spotify.com/artist/3GFz6XyCpW2NEdraRTrzCE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "Break the Cycle - Radio Edit",
+      "url": "https://open.spotify.com/track/63GZ8963sIE2gsHiifz5ih"
+    },
+    {
+      "album": {
         "name": "Breathe & Push / Watch Wut You Say",
         "url": "https://open.spotify.com/album/0VGEKMUfTZ3OYlmlf2YMy9"
       },
@@ -925,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Burnin' Deep",
+        "url": "https://open.spotify.com/album/4WbRtbkL52F4XOgZ5LCzPE"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Burnin' Deep",
+      "url": "https://open.spotify.com/track/2tLRxZlDubV6G2CipkLmrH"
+    },
+    {
+      "album": {
         "name": "Burninn",
         "url": "https://open.spotify.com/album/3knTlNvnEF5LuMw6XZr5dD"
       },
@@ -983,6 +1071,28 @@
     },
     {
       "album": {
+        "name": "C-Line Woman",
+        "url": "https://open.spotify.com/album/1QALvS7Fs1VrBME2SayPx1"
+      },
+      "artists": [
+        {
+          "name": "DJ Dan",
+          "url": "https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3"
+        },
+        {
+          "name": "Taurus (US)",
+          "url": "https://open.spotify.com/artist/2RyhRTNZWfIBj45zVxsIKT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238577,
+      "name": "C-Line Woman",
+      "url": "https://open.spotify.com/track/4kwStWQ9pMzM6lCsSL7ZPA"
+    },
+    {
+      "album": {
         "name": "Cada Vez (CASSIMM Remix)",
         "url": "https://open.spotify.com/album/4Xb782UmglZDXRXeIoE663"
       },
@@ -1028,7 +1138,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 122174,
       "name": "Can You Feel It - Edit",
       "url": "https://open.spotify.com/track/1fqg00mOujgYouMyYoHv3M"
@@ -1476,7 +1586,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 228448,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/0UHlwUPHTAfWOMn0b87Rek"
@@ -1524,6 +1634,28 @@
       "duration_ms": 209777,
       "name": "Confusion - Edit",
       "url": "https://open.spotify.com/track/037UN0uS8n8p31oisYp8RL"
+    },
+    {
+      "album": {
+        "name": "Control Your Body",
+        "url": "https://open.spotify.com/album/1h44FZo0I8B2abaQzlkH6i"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Delistic",
+          "url": "https://open.spotify.com/artist/1fmH7FCoCvo96xfFKW6DZe"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Control Your Body",
+      "url": "https://open.spotify.com/track/2vAOvaiacq2WVSAMlxan4R"
     },
     {
       "album": {
@@ -1624,6 +1756,24 @@
       "duration_ms": 222273,
       "name": "Cruel Intentions",
       "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
+    },
+    {
+      "album": {
+        "name": "Da Beats EP",
+        "url": "https://open.spotify.com/album/76FECHpXoREocUvABlSZkE"
+      },
+      "artists": [
+        {
+          "name": "One & Done",
+          "url": "https://open.spotify.com/artist/1AvJfkln2Rwceot4NdOW95"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Da Beats",
+      "url": "https://open.spotify.com/track/4tg5HJtOUkPelWv0MaG2V0"
     },
     {
       "album": {
@@ -2059,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Doing the Most",
+        "url": "https://open.spotify.com/album/4sa4U44ckXoexTZdIVQ6kC"
+      },
+      "artists": [
+        {
+          "name": "Coppa Komanche",
+          "url": "https://open.spotify.com/artist/1pXbLwfNTINxTif0iPzsIx"
+        },
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Doing the Most - Radio Edit",
+      "url": "https://open.spotify.com/track/56d055XcdkoQwbMUQ45MWO"
+    },
+    {
+      "album": {
         "name": "Don't Abuse It",
         "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
       },
@@ -2390,7 +2562,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 243933,
       "name": "Endless Dust",
       "url": "https://open.spotify.com/track/1Wa4IMflflufTvWNfhX0oc"
@@ -3434,7 +3606,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 220800,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/4ejoZel9UNlIqZc2mO3ul8"
@@ -3940,7 +4112,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 276209,
       "name": "I Dream Deep",
       "url": "https://open.spotify.com/track/1UbXP4RVZOGlJqvw28YG4b"
@@ -3992,6 +4164,28 @@
       "duration_ms": 185238,
       "name": "I Feel Sexxx - 2024 Killa Edit",
       "url": "https://open.spotify.com/track/4Im4ed048ODKhC0QTKunIL"
+    },
+    {
+      "album": {
+        "name": "I Get Lifted",
+        "url": "https://open.spotify.com/album/4uY1d1AMUCyRn8ksJt8pms"
+      },
+      "artists": [
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "I Get Lifted",
+      "url": "https://open.spotify.com/track/4mKair9ELAl1JWqI8odk5P"
     },
     {
       "album": {
@@ -5132,7 +5326,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166153,
       "name": "Knockin\u2019",
       "url": "https://open.spotify.com/track/3IRzG2YlLaOpHU9ehv7jsk"
@@ -5652,7 +5846,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 191617,
       "name": "Luv Musica - Luca Guerrieri Remix",
       "url": "https://open.spotify.com/track/0kgjIdFEFIJRwc9IaUHObg"
@@ -6842,7 +7036,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176250,
       "name": "Peoples PRTY",
       "url": "https://open.spotify.com/track/5CvzBqVzY77jfRCCiCCltZ"
@@ -6914,10 +7108,44 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 229619,
       "name": "Pop That",
       "url": "https://open.spotify.com/track/1aEzj3EUuKSBbJ5dkIlmou"
+    },
+    {
+      "album": {
+        "name": "POSITIVITY",
+        "url": "https://open.spotify.com/album/2KHoNYpUuBP0ALTPELRkvV"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316415,
+      "name": "POSITIVITY - Remix",
+      "url": "https://open.spotify.com/track/4Fbp56TNHj4pogRTOIzkLo"
     },
     {
       "album": {
@@ -9770,7 +9998,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 148571,
       "name": "You",
       "url": "https://open.spotify.com/track/0S2tBY157RTWpFmedvnBVS"

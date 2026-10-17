@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: DJ co.kr, h4rdy\)
+> New & best K\-Electronic music is here\. \(Cover: NECTA\)
 
-338 songs - 19 hr 5 min
+340 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,10 +146,11 @@
 | [Green and Pink](https://open.spotify.com/track/1UzTZQXNsoi6EeQmszDqiJ) | [Kim Doeon](https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg) | [Green and Pink](https://open.spotify.com/album/4zqNeC6wVMrKWg5sPhd7Uu) | 4:17 | 2026-07-17 | 2026-08-31 |
 | [GROUSE](https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GRB02](https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG) | 3:18 | 2024-09-10 | 2024-11-09 |
 | [HAPPYEND \(Closing\) \- “Arexibo” Remix](https://open.spotify.com/track/1Tc4G0ul4vhAe3pzIYe1wj) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto), [Arexibo](https://open.spotify.com/artist/0mMVB6TJ94c6hvihOcAV13) | [Reminded of HAPPYEND](https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7) | 5:59 | 2026-06-24 | 2026-07-15 |
-| [Heart Of Steel](https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [Heart Of Steel](https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS) | 3:27 | 2024-06-28 |  |
+| [Heart Of Steel](https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [Heart Of Steel](https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS) | 3:27 | 2024-06-28 | 2026-10-17 |
 | [HERO](https://open.spotify.com/track/5bxJv7l1QE9Qv9rpYvbSlO) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [HERO GIRLS](https://open.spotify.com/album/0mBQNCgnsfa2hMM3NtgJxL) | 3:57 | 2026-01-23 | 2026-02-24 |
 | [HEX](https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Old Fantasy](https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd) | 3:54 | 2026-09-04 |  |
 | [High](https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [High](https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36) | 3:25 | 2024-09-17 |  |
+| [HIGH LIFE](https://open.spotify.com/track/0mfS31QxisGH3C4y3oc6Hy) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [HIGH LIFE](https://open.spotify.com/album/30alLh9pk7puD32ZAS2eoz) | 2:08 | 2026-10-17 |  |
 | [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2024-04-05 | 2024-10-03 |
 | [Holding On](https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Holding On](https://open.spotify.com/album/5yIFAkA5UJOMEUvtMlrt7A) | 2:48 | 2024-06-28 | 2024-07-17 |
 | [homes](https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [eigensinn](https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg) | 4:21 | 2025-09-29 |  |
@@ -270,7 +271,7 @@
 | [Savior](https://open.spotify.com/track/41cXhwBfE4UFfEeB0YYrLY) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV) | [CÖURAGE](https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX) | 4:45 | 2024-09-01 | 2024-12-29 |
 | [SCIENTIST \(R3HAB Remix\)](https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:28 | 2024-06-28 |  |
 | [SCREAM](https://open.spotify.com/track/6F3cF9xuPXYa6vZKrAQOlo) | [MINUE](https://open.spotify.com/artist/42uRfrf9fDSQnz01l4A0FT) | [SCREAM](https://open.spotify.com/album/5CPafj4qfe1TYV5M8mS2AX) | 3:14 | 2024-04-05 | 2024-06-29 |
-| [Seoul](https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 05](https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp) | 3:01 | 2026-03-11 |  |
+| [Seoul](https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 05](https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp) | 3:01 | 2026-03-11 | 2026-10-17 |
 | [Seoulsi Peggygou \(서울시페기구\)](https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:37 | 2024-06-07 | 2024-06-29 |
 | [SEROTONIN](https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [SEROTONIN](https://open.spotify.com/album/5RNFZGKdcv3CWhUKMNs7AG) | 2:50 | 2024-07-16 | 2025-08-23 |
 | [SEROTONIN \- stevenc4stle c4stlesque Remix](https://open.spotify.com/track/5Da3wmkNxihv7Hc11YndLA) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U), [stevenc4stle](https://open.spotify.com/artist/0SVmPKGMQBUNQRjMjct5iH) | [ENDLESS SEROTONIN RMXS](https://open.spotify.com/album/5fRkE6eEDjkb3aKexhVm77) | 2:41 | 2024-09-01 | 2024-09-25 |
@@ -299,6 +300,7 @@
 | [Sweet Home](https://open.spotify.com/track/4DvV7uAWihhq4qy7h6KFAQ) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt), [KIHU](https://open.spotify.com/artist/1II4N4IZcSoJqEen1La1dd) | [Sweet Home](https://open.spotify.com/album/72VsWj5QYcz9tekOqYhtop) | 2:23 | 2025-07-01 | 2025-07-15 |
 | [Switch Out](https://open.spotify.com/track/5jL9YGnVUHVlIbabRFRD6z) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN) | [DAMDADI](https://open.spotify.com/album/3qdFRG1zkTaht99iEXpWD3) | 3:26 | 2025-08-19 | 2025-10-23 |
 | [T\-H\-I\-R\-S\-T\-Y](https://open.spotify.com/track/1WvaUzdhKHTH5UYmsQwP75) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 3:36 | 2026-09-10 |  |
+| [Tage](https://open.spotify.com/track/0l7CjPSu1pXGmuudm69DSp) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [Tage](https://open.spotify.com/album/46B9Y2LqWspCLaydLyaefa) | 6:53 | 2026-10-17 |  |
 | [Tangerine Fade](https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 06](https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG) | 3:33 | 2026-07-03 |  |
 | [Techno Drop](https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Techno Drop](https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC) | 2:41 | 2024-04-05 | 2024-05-22 |
 | [The Chase \- 0to Remix](https://open.spotify.com/track/32yoamnHf2sqYvzZIN9OJr) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ), [0to](https://open.spotify.com/artist/57yVnSGdUdP3doa2DZyZk5), [ScreaM Records](https://open.spotify.com/artist/2COR1KCYlImSGDRM3Fatx7) | [ScreaM Rookies : The Chase \(Remixes\)](https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq) | 3:35 | 2026-06-23 |  |

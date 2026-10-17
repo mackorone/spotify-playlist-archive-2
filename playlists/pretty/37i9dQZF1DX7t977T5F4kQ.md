@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   Gyakie
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,430 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,459 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 6 | [Odo Ankasa](https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Ankasa](https://open.spotify.com/album/7eeOwprfBvmURs63cD8DGy) | 3:52 |
 | 7 | [BALOTELLI \(SUPA\)](https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [4 DA POPPIN'](https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI) | 2:56 |
 | 8 | [Bombele](https://open.spotify.com/track/5To9w1yLFlEOfs2EK7Ld7e) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:21 |
-| 9 | [Your Body \(Craze\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Craze\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 |
+| 9 | [Your Body \(Crazy\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Crazy\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 |
 | 10 | [Me Sisi](https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Me Sisi](https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl) | 2:51 |
 | 11 | [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 |
 | 12 | [Y3 Guy](https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Y3 Guy](https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Ruwa II](https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Prince Mk Baagi](https://open.spotify.com/artist/5XjKFOEIxrR3zRZcVHFYfT) | [From The Soil \(Deluxe\)](https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO) | 3:03 |
 | 80 | [Allo](https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2nd Step](https://open.spotify.com/album/13F37l0pvS6Y8MFLdt56CP) | 2:40 |
 
-Snapshot ID: `AAAAAN7idfxRcSzML4oirLlSj6eTMc25`
+Snapshot ID: `AAAAAFipsuxgu/AnoJ/DiHSbxHtmfwcY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Le Shiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,366 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,368 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Morning Light](https://open.spotify.com/track/2MsKD5KobRXoIfpR7rH7UE) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Morning Light](https://open.spotify.com/album/4A7B5q4GruyIplkrU6anqS) | 2:38 |
 | 80 | [Little Bit Punk, Little Bit Country \- Live from El Coyote](https://open.spotify.com/track/13sY6bCLjSyGvpEBTbrNpM) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Truth or Consequence \(Live from El Coyote\)](https://open.spotify.com/album/5kSISO8iA676CFlKo2fU0R) | 2:41 |
 
-Snapshot ID: `AAAAAGrKIz0kDO/lPml1LUVCn3n6QqaG`
+Snapshot ID: `AAAAAN04+1U3B5feSF6j1mJhQ26Vfrs5`

@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-432 songs - 1 day 2 hr 36 min
+433 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 | 2022-07-22 | 2024-04-19 |
 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [After a Long Time \(Digging Club Seoul Ver.\)](https://open.spotify.com/album/2tETtfB9qQGJ60gNmESEz3) | 4:12 | 2022-09-05 | 2023-09-06 |
 | [After this night](https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [After this night](https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG) | 4:22 | 2022-05-11 | 2025-04-25 |
-| [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2022-05-11 |  |
+| [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2022-05-11 | 2026-10-17 |
 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 | 2022-05-11 | 2025-06-18 |
 | [Again](https://open.spotify.com/track/1F978CxXsPtQxnVy1X1tqo) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [My Troublesome Star, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/29ejO11XbyY7F77buHPw6W) | 3:52 | 2026-01-21 | 2026-03-26 |
 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2023-11-02 | 2025-06-05 |
@@ -194,6 +194,7 @@
 | [I Wish](https://open.spotify.com/track/56Ialc7EjXQwdZWLIctijx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:53 | 2022-05-11 | 2022-07-29 |
 | [I'll Keep You In My Heart 내 맘에 담을 거예요](https://open.spotify.com/track/1DTLiT0z77rWmBdkOeNs4u) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul 선데이서울 Ep.3](https://open.spotify.com/album/2qyuesnAj6Re9a6sy8eA4N) | 3:52 | 2022-05-11 | 2022-07-22 |
 | [In the Rain](https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG) | 2:48 | 2026-02-13 |  |
+| [In Yeonhui\-dong](https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [In Yeonhui\-dong](https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC) | 3:41 | 2026-10-15 |  |
 | [Indifferent](https://open.spotify.com/track/5DaL4YdS1XfzQojanbdzdS) | [doe.cent](https://open.spotify.com/artist/2ieO2aPGMErvmiNGBHsQqG) | [Indifferent](https://open.spotify.com/album/08kEhkeRMka48Ejr7uUWIl) | 3:25 | 2022-06-18 | 2022-06-26 |
 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 | 2022-05-11 |  |
 | [It's Beautiful](https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Part.03](https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC) | 3:54 | 2022-07-22 |  |

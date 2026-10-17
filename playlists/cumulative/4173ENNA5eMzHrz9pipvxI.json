@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Zenar &amp; Nick Jam",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: BOABOA",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -40870,6 +40870,24 @@
       "duration_ms": 226785,
       "name": "Tikva",
       "url": "https://open.spotify.com/track/3Qnsgg04qyVjaG232aKprW"
+    },
+    {
+      "album": {
+        "name": "Timberlake",
+        "url": "https://open.spotify.com/album/6x7XHGZisV0YZ9yLMTElfK"
+      },
+      "artists": [
+        {
+          "name": "J-VAD",
+          "url": "https://open.spotify.com/artist/24zx5C88UfVgieiCm084q4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191022,
+      "name": "Timberlake",
+      "url": "https://open.spotify.com/track/6TgEokT138kzo83DGQljqn"
     },
     {
       "album": {

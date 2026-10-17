@@ -6981,6 +6981,24 @@
     },
     {
       "album": {
+        "name": "aus dem Koffer",
+        "url": "https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197694,
+      "name": "Deppata Bua",
+      "url": "https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa"
+    },
+    {
+      "album": {
         "name": "der beste sommer meines lebens",
         "url": "https://open.spotify.com/album/0k5PqjWO0skt1qcxWuQfHk"
       },
@@ -26641,6 +26659,24 @@
     },
     {
       "album": {
+        "name": "Verstr!ckt",
+        "url": "https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135857,
+      "name": "Riss in der Fassade",
+      "url": "https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong"
+    },
+    {
+      "album": {
         "name": "Ritalin",
         "url": "https://open.spotify.com/album/0pvZwnFhVmFkpAXwikxiEg"
       },
@@ -31916,42 +31952,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "aus dem Koffer",
-        "url": "https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j"
-      },
-      "artists": [
-        {
-          "name": "Laurenz Nikolaus",
-          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa"
-    },
-    {
-      "album": {
-        "name": "Verstr!ckt",
-        "url": "https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q"
-      },
-      "artists": [
-        {
-          "name": "Dominik Hartz",
-          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong"
     },
     {
       "album": {

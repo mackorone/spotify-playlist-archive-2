@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,430 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,485 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 60 | [The Omen](https://open.spotify.com/track/0II8G1h7J6BGsAA5Sc7Lth) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Flesh Of My Flesh, Blood Of My Blood](https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T) | 4:56 |
 
-Snapshot ID: `AAAAAAJh3mMFTW/lU1/1ZXAIJWhe0Xkf`
+Snapshot ID: `AAAAAGoPw757B7vbiNojazJOWkU/HZlm`

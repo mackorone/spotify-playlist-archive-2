@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-487 songs - 1 day 1 hr 1 min
+488 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [HYDRA](https://open.spotify.com/track/74c4euNPZscdPRHlg3Pkav) | [Cyazon](https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8) | [HYDRA](https://open.spotify.com/album/4pt1TlcZuY7g9V7NfBkYzX) | 2:33 | 2026-05-08 |  |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-08-11 |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-08-11 |
+| [I Need An Angel](https://open.spotify.com/track/7ccJWOfAs6R4XlaVzOUv5o) | [HESTER](https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG) | [I Need An Angel](https://open.spotify.com/album/6uS4F7HdLV0nGf91se9kdt) | 3:49 | 2026-10-16 |  |
 | [I Still Hear Your Voice](https://open.spotify.com/track/7e1BhpbWuryOe0PAGpghQp) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [johnny joined](https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt) | [I Still Hear Your Voice](https://open.spotify.com/album/7K4Qfj3RU88KHufjZj6JyO) | 2:18 | 2026-05-08 |  |
 | [I'll Be Here](https://open.spotify.com/track/41rBNwBLvu3uxpBOVYac0w) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT), [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP), [Noctilucent](https://open.spotify.com/artist/1HE19EVn5Xs4qlNY4JCuJJ) | [I'll Be Here](https://open.spotify.com/album/3MRc4ibAnktBiUQdgJvUPs) | 2:36 | 2022-02-03 | 2022-09-15 |
 | [If You](https://open.spotify.com/track/3h4E7keqAPmuXviymrmDF6) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Evergreen](https://open.spotify.com/album/1IGqbM5ixtd5OSXgkMolWs) | 2:48 | 2022-02-03 | 2022-07-12 |

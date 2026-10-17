@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Lafa Pratomo, Ari Lesmana, White Chorus
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Judika, Tiroy Sihotang
 
-815 songs - 2 day 4 hr 40 min
+819 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Langkah Tanpaku \- Labinak Original Soundtrack](https://open.spotify.com/track/1ZKbxWU6vq6kEYJROxYSmX) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Langkah Tanpaku \(Labinak Original Soundtrack\)](https://open.spotify.com/album/2nuAGuGn4dkTVk53yfhpUi) | 3:38 | 2025-08-28 | 2025-10-03 |
 | [Laut yang Tenang](https://open.spotify.com/track/4qqMPUmuvVukyvFHHPty2H) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Semoga Hanya di Mimpi](https://open.spotify.com/album/5DCtxBnBnAOhzScagNmDQz) | 3:52 | 2026-06-25 |  |
 | [Layar \(Original Soundtrack From "Siapa Dia.."\)](https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Layar \(Original Soundtrack From "Siapa Dia.."\)](https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf) | 4:31 | 2025-05-15 | 2025-06-13 |
+| [Lebih Beruntung Sedikit](https://open.spotify.com/track/0NNoaEAeftkCLPMYmpcGsX) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Lebih Beruntung Sedikit](https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q) | 4:01 | 2026-10-16 |  |
 | [Lelah Dilatih Rindu](https://open.spotify.com/track/10s6cbRasW1qCYbmHPHOEP) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Joey Penny](https://open.spotify.com/artist/6c61KWwMh7qXh4E2SXASIj) | [Lelah Dilatih Rindu](https://open.spotify.com/album/7of8OfRWJr5IvTkOcZ3v16) | 4:29 | 2025-05-29 | 2025-06-21 |
 | [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 | 2024-05-24 |
 | [Lewat Doa](https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/40Hol4DUyuiR00IWlfJ6vL) | 4:18 | 2024-04-04 | 2024-04-19 |
@@ -452,6 +453,7 @@
 | [MATA\-MATA](https://open.spotify.com/track/4JuyCTIqnasjrNUPM8VbuF) | [Jacson Zeran](https://open.spotify.com/artist/5YAtyYCXXQ7YPuowGWuqPp), [toton caribo](https://open.spotify.com/artist/5GEfjP83E7JXgw1HbYmypD), [Wizz Baker](https://open.spotify.com/artist/1T3IwrlpvSpP1PpqYcMw7K) | [MATA\-MATA](https://open.spotify.com/album/44WFVswgPmlYvpAnmArE99) | 3:30 | 2026-06-11 | 2026-07-17 |
 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-03-28 | 2025-02-14 |
 | [Mau Jadi Apa?](https://open.spotify.com/track/20Vgi9sX3rOnoUFGaPLQXX) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Mau Jadi Apa?](https://open.spotify.com/album/4J0OIjbX95tZ97392u8OeI) | 3:49 | 2025-11-13 | 2026-01-30 |
+| [Maukah Kau Menikah Denganku?](https://open.spotify.com/track/003fbsliPwJfMgylqwcoyV) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Tiroy Sihotang](https://open.spotify.com/artist/4j3ddH7rNFJtEGOPu9XCPj) | [Maukah Kau Menikah Denganku?](https://open.spotify.com/album/0sTN6uIgTfg5foiUDXAcOJ) | 4:12 | 2026-10-16 |  |
 | [Mawar](https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Mawar](https://open.spotify.com/album/1xRvOXM0hxxwQufdVD2Zst) | 4:08 | 2025-02-13 | 2025-05-16 |
 | [mejikuhibiniu](https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [mejikuhibiniu](https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK) | 3:16 | 2025-07-24 | 2026-01-30 |
 | [Melangitkanmu](https://open.spotify.com/track/7s8c4Ap7Gdzdvb3gGuVGhy) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Melangitkanmu](https://open.spotify.com/album/39dqeYCRARABzKQEazIV8Z) | 4:34 | 2025-03-20 | 2025-09-26 |
@@ -546,6 +548,7 @@
 | [Perisai](https://open.spotify.com/track/6bQhIKmQoAOU5hxhHjqJd4) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Perisai](https://open.spotify.com/album/6i0NhEM1GVfDJqoJaHXxCJ) | 4:00 | 2024-03-01 | 2024-03-29 |
 | [Perjalanan](https://open.spotify.com/track/03LI56cQXjWeLAB7w5EBpS) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Perjalanan](https://open.spotify.com/album/3t3vSLkBQS5sc4poUgrkmU) | 4:09 | 2025-11-20 | 2026-02-13 |
 | [Permainanmu](https://open.spotify.com/track/03YnKTGyxVrcJ0Bj7ut9em) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Permainanmu](https://open.spotify.com/album/2Fz8KjHbCGDCzMuo5mYly1) | 3:58 | 2026-07-30 | 2026-08-28 |
+| [permata hatiku](https://open.spotify.com/track/6nvLNYD1IUxv4vJUcIfOJy) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [permata hatiku](https://open.spotify.com/album/2ycyXk2hubXDQ3bCW5FbmJ) | 3:10 | 2026-10-16 |  |
 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 | 2025-04-21 | 2026-04-18 |
 | [Pertiwi](https://open.spotify.com/track/0qaWprziAgg0suOirB3KEd) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Pertiwi](https://open.spotify.com/album/3qYQ3T1B1kMHWvMeRtH25S) | 3:48 | 2026-09-03 | 2026-09-25 |
 | [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 | 2025-05-01 | 2026-08-14 |
@@ -719,6 +722,7 @@
 | [Tak Bisa Bilang](https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tak Bisa Bilang](https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH) | 4:09 | 2024-01-26 | 2024-02-02 |
 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 | 2024-01-26 | 2024-03-22 |
 | [Tak Harus Menunggu Surga](https://open.spotify.com/track/4ZkhMMBsBHA2HtgYWX1L3c) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Tak Harus Menunggu Surga](https://open.spotify.com/album/6vkoGI2vnmwnqA7ppy1PLU) | 2:59 | 2025-09-11 | 2025-10-10 |
+| [Tak Ingin Pulang](https://open.spotify.com/track/3Qs3UyQWrcMBZusrE5eNZm) | [Marbles](https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ) | [MARBLES](https://open.spotify.com/album/4NARgADquipnlhx9XzjsUZ) | 2:56 | 2026-10-16 |  |
 | [Tak Ingin Usai](https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 4:38 | 2024-01-26 | 2024-03-22 |
 | [Tak Kan Terganti](https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Tak Kan Terganti](https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR) | 3:57 | 2025-06-05 |  |
 | [Tak Mendua](https://open.spotify.com/track/6ywy8b8wdRVJxhIzcwNtS2) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Map of Feelings](https://open.spotify.com/album/0lbVLDfKJoLbXuKV5aY9y4) | 3:28 | 2026-08-27 | 2026-09-25 |

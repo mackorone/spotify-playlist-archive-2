@@ -1,12 +1,12 @@
 {
   "description": "Swimming Paul new album keeps it cool \ud83c\udfca metropolis is your home for the best indie dance",
-  "num_followers": 867305,
+  "num_followers": 867276,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA6N6xfKTmiqO/FeUUgYA7OjvZ1O",
+  "snapshot_id": "AAAAAG6gSBtwfYRXipf1fMchLkFZ22G9",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:18",
@@ -29,52 +29,24 @@
       "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
-      "added_at": "2026-10-02 04:02:21",
+      "added_at": "2026-10-16 04:02:04",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 133761,
-      "name": "Tell Your Friends You Love Them",
-      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
-    },
-    {
-      "added_at": "2026-07-24 04:02:32",
-      "album": {
-        "name": "Dance Dance Dance!",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
-      },
-      "artists": [
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
         }
       ],
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance!",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
-        "name": "Can I Smoke In Here?",
-        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Can I Smoke In Here?",
-      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
+      "duration_ms": 97693,
+      "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
+      "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
     },
     {
       "added_at": "2026-09-25 04:02:12",
@@ -95,6 +67,86 @@
       "duration_ms": 267616,
       "name": "Loser (Fcukers Remix)",
       "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+    },
+    {
+      "added_at": "2026-10-16 04:02:04",
+      "album": {
+        "name": "NOTHING'S FAKE",
+        "url": "https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "Fake or true",
+      "url": "https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"
+    },
+    {
+      "added_at": "2026-07-24 04:02:32",
+      "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:21",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 133761,
+      "name": "Tell Your Friends You Love Them",
+      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Can I Smoke In Here?",
+        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Can I Smoke In Here?",
+      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
+    },
+    {
+      "added_at": "2026-10-16 04:02:04",
+      "album": {
+        "name": "Makeup",
+        "url": "https://open.spotify.com/album/3I8s0ptILUDE7CGgqB6g3x"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/0Lu9mxA97HaRchQ3GJ6BNh"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -145,6 +197,26 @@
       "url": "https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w"
     },
     {
+      "added_at": "2026-10-16 04:02:04",
+      "album": {
+        "name": "lavender (feat. 1tbsp)",
+        "url": "https://open.spotify.com/album/518H69Kdfi6duC9lO2llQw"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "lavender (feat. 1tbsp)",
+      "url": "https://open.spotify.com/track/1AZOd5a60670CtyMCVMb0y"
+    },
+    {
       "added_at": "2026-10-02 04:02:21",
       "album": {
         "name": "forever love",
@@ -159,6 +231,26 @@
       "duration_ms": 134223,
       "name": "can't stop going",
       "url": "https://open.spotify.com/track/3WdnXe1fKkgb5ZrYg7dcEW"
+    },
+    {
+      "added_at": "2026-10-16 04:02:04",
+      "album": {
+        "name": "jg",
+        "url": "https://open.spotify.com/album/5cxZwJZQ60UloQeadHuFrf"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "S\u00f8lv",
+          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
+        }
+      ],
+      "duration_ms": 236885,
+      "name": "Waiting - ft S\u00f8lv",
+      "url": "https://open.spotify.com/track/1dUMQ5YyJfxd7wYzmtXb0o"
     },
     {
       "added_at": "2026-09-25 04:02:12",
@@ -191,6 +283,22 @@
       "duration_ms": 192855,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+    },
+    {
+      "added_at": "2026-10-16 04:02:04",
+      "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/1gazlKv32DhgZqByvtP97O"
+      },
+      "artists": [
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
+        }
+      ],
+      "duration_ms": 168946,
+      "name": "T\u00f4 Nem A\u00ed",
+      "url": "https://open.spotify.com/track/2HNF4rAtO8EL5nE9WdvQ4v"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -955,22 +1063,6 @@
     {
       "added_at": "2026-08-21 04:02:03",
       "album": {
-        "name": "Eat Me Better",
-        "url": "https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Eat Me Better",
-      "url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"
-    },
-    {
-      "added_at": "2026-08-21 04:02:03",
-      "album": {
         "name": "HOT WIFE (Remixes)",
         "url": "https://open.spotify.com/album/1YkWPne7ZcdAFpdTBMapLA"
       },
@@ -1125,22 +1217,6 @@
       "url": "https://open.spotify.com/track/7KzS1HW4MHcInfVbtrFjkp"
     },
     {
-      "added_at": "2026-07-24 04:02:32",
-      "album": {
-        "name": "Shock!",
-        "url": "https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Shock!",
-      "url": "https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn"
-    },
-    {
       "added_at": "2026-05-29 04:17:08",
       "album": {
         "name": "Return To Bhibo",
@@ -1287,22 +1363,6 @@
       "duration_ms": 302986,
       "name": "The Whole Of The Moon - Radio Edit",
       "url": "https://open.spotify.com/track/3619m4oJNzvYLBcnfuRA9b"
-    },
-    {
-      "added_at": "2026-07-24 04:02:32",
-      "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 152533,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c"
     },
     {
       "added_at": "2026-07-24 04:02:32",
@@ -1469,26 +1529,6 @@
       "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
     },
     {
-      "added_at": "2026-06-19 04:16:01",
-      "album": {
-        "name": "Goes Like",
-        "url": "https://open.spotify.com/album/2FeWQKBnsphp5N5xyCuBXZ"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        },
-        {
-          "name": "That Franco",
-          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
-        }
-      ],
-      "duration_ms": 169392,
-      "name": "Goes Like",
-      "url": "https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR"
-    },
-    {
       "added_at": "2026-05-15 04:01:39",
       "album": {
         "name": "Never Seen You Dance (DJ-Kicks Version)",
@@ -1505,26 +1545,6 @@
       "url": "https://open.spotify.com/track/4htyuJyykfMfdlN5RujEV2"
     },
     {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "Run EP",
-        "url": "https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts"
-      },
-      "artists": [
-        {
-          "name": "Marsolo",
-          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
-        },
-        {
-          "name": "O.MMY",
-          "url": "https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS"
-        }
-      ],
-      "duration_ms": 183036,
-      "name": "Run (feat. O.MMY)",
-      "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
-    },
-    {
       "added_at": "2026-06-19 04:16:01",
       "album": {
         "name": "Walk",
@@ -1539,22 +1559,6 @@
       "duration_ms": 241612,
       "name": "Walk",
       "url": "https://open.spotify.com/track/4YAhKZrz4S6dH4Ro4WMPdB"
-    },
-    {
-      "added_at": "2026-05-29 04:02:14",
-      "album": {
-        "name": "I'll Be There For You",
-        "url": "https://open.spotify.com/album/5LYXrZNkA9kHMoE4MArV2z"
-      },
-      "artists": [
-        {
-          "name": "Plaisance",
-          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
-        }
-      ],
-      "duration_ms": 180790,
-      "name": "I'll Be There For You",
-      "url": "https://open.spotify.com/track/11S528yQYgaYQjdBXlBJBS"
     },
     {
       "added_at": "2026-05-08 04:04:16",

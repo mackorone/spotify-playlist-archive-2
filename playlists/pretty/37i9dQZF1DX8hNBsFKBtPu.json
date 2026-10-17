@@ -1,12 +1,12 @@
 {
   "description": "We got you! Den bedste nye pop er samlet her. Chappell Roan & Olivia Rodrigo p\u00e5 cover \ud83e\udead",
-  "num_followers": 107743,
+  "num_followers": 107750,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADad44bBwIQtX1wpS/P+1sWRj89T",
+  "snapshot_id": "AAAAAH4pJIvR/b4x3mxUqN39d6KSjY7C",
   "tracks": [
     {
       "added_at": "2026-10-16 00:00:18",
@@ -191,6 +191,26 @@
       "duration_ms": 173866,
       "name": "Larger Than Life ft. Benjamin Hav",
       "url": "https://open.spotify.com/track/5oz5hbrPeOH7HUPdy1YP8x"
+    },
+    {
+      "added_at": "2026-10-16 00:00:18",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-16 00:00:18",

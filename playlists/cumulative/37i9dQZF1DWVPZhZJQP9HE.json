@@ -2517,6 +2517,28 @@
     },
     {
       "album": {
+        "name": "Classic Aval Music",
+        "url": "https://open.spotify.com/album/5IPKZthnZJOyhX5lNZN8PC"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "VINXI",
+          "url": "https://open.spotify.com/artist/62R0MubK1LiZSQyii2iSnm"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Classic Aval Music",
+      "url": "https://open.spotify.com/track/2bZnygpzbwjFtDWHdQL8F9"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/5oDaOysXEsOoJIhY6vnfoE"
       },

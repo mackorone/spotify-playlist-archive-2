@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-273 songs - 14 hr 43 min
+275 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Where Are You Christmas](https://open.spotify.com/track/5LOfUJq5k1xwVKKVqG8qBY) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Where Are You Christmas](https://open.spotify.com/album/7atEmbASdfjGZrkGtuoPj5) | 3:53 | 2025-10-24 |  |
 | [Where Are You Christmas](https://open.spotify.com/track/21LuZH2noPmBhsvVrs6g9u) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where Are You Christmas](https://open.spotify.com/album/11YQP0uBt7yXNruf4F5ELp) | 3:05 | 2025-10-17 |  |
 | [Whiskey Kinda Christmas](https://open.spotify.com/track/6KB2Gh8mRDkKCr13cEJTzp) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Whiskey Kinda Christmas](https://open.spotify.com/album/7qbJN2hTfsH2sbhs4JFDd0) | 3:50 | 2025-11-28 |  |
+| [White Christmas](https://open.spotify.com/track/0FLyIRYB5bLP3g4Twj2OeE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [White Christmas](https://open.spotify.com/album/3lZstgDdP8HK7UhW8nbmMv) | 2:50 | 2026-10-16 |  |
 | [White Christmas](https://open.spotify.com/track/0x6dskN1gMWzlRh9kPd6O5) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [A Campfire Christmas](https://open.spotify.com/album/2Ke04lXjTXcjxvu8f61TkL) | 3:17 | 2024-11-01 | 2025-11-08 |
 | [White Christmas](https://open.spotify.com/track/1m0Vg0HfkCziCkerLLy9BF) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [A Small Town Christmas \- Deluxe Edition](https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A) | 3:05 | 2023-11-24 | 2024-10-19 |
 | [White Christmas](https://open.spotify.com/track/0qiauIcwYRaVSmerf90xAP) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [White Christmas](https://open.spotify.com/album/0jrdzb3xkwPWIMkoFtphdU) | 2:50 | 2023-12-01 | 2024-10-19 |
@@ -278,6 +279,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/0wfpWIwSOMTmhwPqUXhZOl) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Winter Wonderland](https://open.spotify.com/album/5pTrTbmTDGcgg1Tvds4iMk) | 2:15 | 2024-11-01 | 2025-11-08 |
 | [Wouldn’t Be Christmas](https://open.spotify.com/track/5GV4Vgimh8KiSf5UsW5W9o) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Volume 2\)](https://open.spotify.com/album/2b36acHD0MJvIT82Zoc6tV) | 3:26 | 2025-09-26 |  |
 | [Wrap You Up](https://open.spotify.com/track/3kpk1EOVsnZIID0Bfgf1Za) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Silverado Santa](https://open.spotify.com/album/54kXDXgK0dhdxRa8MHHDzp) | 3:53 | 2023-11-24 | 2024-10-19 |
+| [wrapped](https://open.spotify.com/track/4P9G6gHP2NnNXhwDA3qVuB) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [wrapped](https://open.spotify.com/album/0I8rdVH8xmtoNLSs5wfuG4) | 2:50 | 2026-10-16 |  |
 | [You and Me and Christmas](https://open.spotify.com/track/7JLIUosTKUWT5UWBlxUylt) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [It's Christmas, Eve \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AKlrhnIEBP30JVMGyustQ) | 2:41 | 2025-11-07 |  |
 | [You Make It Feel Like Christmas \(feat\. Austin Snell\)](https://open.spotify.com/track/4WGnSdV3IUnIG2p4Pgn23F) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE), [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Cross\-Legged By The Fireplace](https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi) | 3:06 | 2023-12-01 | 2024-10-19 |
 | [Your Angel](https://open.spotify.com/track/2xsvVZh9rVMVZgHWbtU9On) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Your Angel](https://open.spotify.com/album/6WJc7BvF7RDjLPWETP1c2V) | 3:34 | 2024-11-01 | 2025-11-08 |

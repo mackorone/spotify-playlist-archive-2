@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão, Archie
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,177 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,186 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 23 | [Amor de Agosto](https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Amor de Agosto](https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS) | 2:49 |
 | 24 | [Calma](https://open.spotify.com/track/2tISXxwodSLlthdraiuHxW) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Calma](https://open.spotify.com/album/76YoWFZEncJeVpaVZ6FVmE) | 2:57 |
 | 25 | [Bênção \(feat\. Van Zee & Bispo\)](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção \(feat\. Van Zee & Bispo\)](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 |
-| 26 | [Não Me Fales \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [ID](https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY) | 4:28 |
+| 26 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 27 | [PACIÊNCIA \(feat\. Ella Nor\)](https://open.spotify.com/track/54x2B3D09icc6BYvoKs9tx) | [Rodrigo 13](https://open.spotify.com/artist/3XwMvdPjuh0KjVqkInLTUr), [Ella Nor](https://open.spotify.com/artist/5x8p3qRgyD7BiN20NRtOKh) | [AS FLORES TAMBÉM DANÇAM](https://open.spotify.com/album/2QzeCLxgiOd8sG0j7ZjO5b) | 2:50 |
-| 28 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
+| 28 | [Não Me Fales \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [ID](https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY) | 4:28 |
 | 29 | [ON EST LÀ \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/6EWt6TUm52Dr5RgL2L5e4c) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [ON EST LÀ \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/0M14SqaCcdPVegOFFgpJkv) | 4:02 |
 | 30 | [Bem Zen](https://open.spotify.com/track/0EheRsG3tZgIYAVP3m9b0u) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [+ Reservado](https://open.spotify.com/album/65EamwZnZsgVnompZedhm4) | 2:55 |
 | 31 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 56 | [Aguarela](https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Teetwo](https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Aguarela](https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL) | 3:16 |
 | 57 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 58 | [Último beijo](https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:16 |
-| 59 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
-| 60 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
-| 61 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
+| 59 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
+| 60 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
+| 61 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
 | 62 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
 | 63 | [Infinito](https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Infinito](https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs) | 3:49 |
 | 64 | [10 MINUTOS](https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf) | [ATJ](https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG) | [10 MINUTOS](https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh) | 5:00 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 73 | [Lego](https://open.spotify.com/track/2Mg48cMZMxfyW4KahrjPek) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Lego](https://open.spotify.com/album/30tAYQGkJcl3bRrUQIoenk) | 2:58 |
 | 74 | [Quem Tem O Teu <3](https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Pequenos Gigantes](https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3) | 2:44 |
 
-Snapshot ID: `AAAAAO6SWJM3lX1u376nOF8PymIYrwyI`
+Snapshot ID: `AAAAAFVxbKn9d1O+QrC/CC+z9hlgB/rc`

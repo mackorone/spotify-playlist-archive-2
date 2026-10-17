@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Fino y elegante como Feid. ",
+  "description": "Fino y elegante como Kris R. ",
   "name": "FINO",
   "tracks": [
     {
@@ -685,6 +685,36 @@
     },
     {
       "album": {
+        "name": "Bachateo",
+        "url": "https://open.spotify.com/album/668X4yFxDAjWq2KU1KE7DY"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138976,
+      "name": "Bachateo",
+      "url": "https://open.spotify.com/track/6cgkodNEYEeUNxNFAr2oTZ"
+    },
+    {
+      "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
@@ -1196,7 +1226,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 185100,
       "name": "Callaita Nunca",
       "url": "https://open.spotify.com/track/4PoxLQG5P9ljEPeDvd0Amg"
@@ -1222,6 +1252,28 @@
       "duration_ms": 130666,
       "name": "Can't Stand It",
       "url": "https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp"
+    },
+    {
+      "album": {
+        "name": "CAPCANA COCOA",
+        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "CAPCANA COCOA",
+      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
     },
     {
       "album": {
@@ -1698,7 +1750,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 211468,
       "name": "COBRONA REMIX",
       "url": "https://open.spotify.com/track/7dFRzhfVgfVUAGUAMslmdi"
@@ -2078,6 +2130,28 @@
       "duration_ms": 174960,
       "name": "DA\u00d1AMOS LA AMISTAD",
       "url": "https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P"
+    },
+    {
+      "album": {
+        "name": "LA AMENAZA",
+        "url": "https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ"
+      },
+      "artists": [
+        {
+          "name": "FANTA ROSARIO",
+          "url": "https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178289,
+      "name": "DE MEDALLO PA MOROVIS",
+      "url": "https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf"
     },
     {
       "album": {
@@ -3478,6 +3552,54 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "album": {
+        "name": "GALACTICOS",
+        "url": "https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU"
+      },
+      "artists": [
+        {
+          "name": "Bigg Danny",
+          "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "GALACTICOS",
+      "url": "https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E"
+    },
+    {
+      "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "GAMINA",
+      "url": "https://open.spotify.com/track/5E6Mn8HCO1izFhRm2PFxNq"
     },
     {
       "album": {
@@ -5017,6 +5139,28 @@
     },
     {
       "album": {
+        "name": "Las Mu\u00f1equitas",
+        "url": "https://open.spotify.com/album/2w7YR5gaVkKxrUMfnfEEnz"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Las Mu\u00f1equitas",
+      "url": "https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"
+    },
+    {
+      "album": {
         "name": "Las Mu\u00f1equitas (Remix)",
         "url": "https://open.spotify.com/album/4nbP74VOG2T2FrBtckNIk4"
       },
@@ -5036,7 +5180,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 217200,
       "name": "Las Mu\u00f1equitas - Remix",
       "url": "https://open.spotify.com/track/4JZq1NlpsXqpqYra43QNEG"
@@ -6076,7 +6220,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 223448,
       "name": "MI EX",
       "url": "https://open.spotify.com/track/363f2yu0W2nJZPRqCh7i5P"
@@ -6168,7 +6312,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 142937,
       "name": "mimosa",
       "url": "https://open.spotify.com/track/0fmreURNhbPSNCaFuSrtxO"
@@ -7422,10 +7566,36 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213919,
       "name": "PASI\u00d3N Y SEXO",
       "url": "https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2"
+    },
+    {
+      "album": {
+        "name": "Peli De Terror",
+        "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Peli De Terror",
+      "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
     },
     {
       "album": {
@@ -7584,6 +7754,28 @@
       "duration_ms": 202803,
       "name": "Pico Y Chao (W Sound 08)",
       "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
+    },
+    {
+      "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "PLATO TIPICO",
+      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
     },
     {
       "album": {
@@ -7952,7 +8144,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 186666,
       "name": "PROV\u00d3CATE",
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
@@ -8062,7 +8254,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172072,
       "name": "Q Hubo Amor (Medell\u00edn)",
       "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"

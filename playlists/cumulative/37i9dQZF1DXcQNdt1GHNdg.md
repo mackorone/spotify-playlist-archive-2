@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Cheema Y & more!
 
-362 songs - 17 hr 19 min
+363 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Listen Girl](https://open.spotify.com/track/7CVxTGAwmjMbWdn1T6XDCb) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n), [Ricky Malhi](https://open.spotify.com/artist/1p6g3paiRdQg0SUV39aaeS), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Fancy](https://open.spotify.com/album/4LHIRGFb5HbK1rtTGW0dQo) | 2:40 | 2025-01-10 | 2025-02-04 |
 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 | 2025-01-23 |  |
 | [Low Fade](https://open.spotify.com/track/4CZl2BQkGPIFK99cf6jTAz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Low Fade](https://open.spotify.com/album/4OMBxFEkBo4MHCTTRP90Jf) | 2:55 | 2026-06-24 |  |
+| [Maidaan](https://open.spotify.com/track/61IEHbFUlRnZ8qR2qxaP1S) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Maidaan](https://open.spotify.com/album/3T2H2ojLfRfzRg2YYFW4fp) | 3:09 | 2026-10-16 |  |
 | [MAJHAIL](https://open.spotify.com/track/1gCyzMJLVMDwhWcJTjWMbr) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [HOME RULE](https://open.spotify.com/album/7rfuzG3gpHNpvWRY5H40ct) | 1:53 | 2025-10-06 | 2026-02-05 |
 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 | 2024-12-22 | 2025-10-16 |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2023-07-18 | 2025-01-29 |
@@ -311,7 +312,7 @@
 | [Saada Aura](https://open.spotify.com/track/1ocsN0Gh93gMgI3K0dumQ4) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl) | [Entry Time](https://open.spotify.com/album/4CerdpywlcXRYTqwtld8mL) | 3:20 | 2025-08-04 | 2025-09-20 |
 | [Saade Bare](https://open.spotify.com/track/2KiNCxUZGLfFxxOhVAGLR4) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Saade Bare](https://open.spotify.com/album/09WcJWL93lA6PgcBvhmK8X) | 2:29 | 2025-05-06 | 2025-06-04 |
 | [SAADI GALL](https://open.spotify.com/track/4ygU6V7LO5U4VBA20lMePa) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Maan Made](https://open.spotify.com/album/4f6X5dcoh29T7f8FGuXoO1) | 2:49 | 2026-05-25 | 2026-06-13 |
-| [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |
+| [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 | 2026-10-17 |
 | [Saheli](https://open.spotify.com/track/0KyUsQ0oRP26V2ifUO5fYd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:39 | 2024-08-30 | 2024-10-02 |
 | [Sawaal Puchdi \(Feat\. Bohemia\)](https://open.spotify.com/track/0W7oY8NwwVkEeUVsAwF19Z) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 4:09 | 2025-09-26 | 2025-10-25 |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 | 2024-11-05 |

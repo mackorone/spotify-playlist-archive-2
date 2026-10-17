@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 88891,
+  "num_followers": 88911,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABXGdCleGoZBZ993SKjy31Sn+IiS",
+  "snapshot_id": "AAAAACw2zRy1byg/RmvBc7uDqxxw/qh5",
   "tracks": [
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Small Town Heroes",
-        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Blue Ridge Mountain",
-      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Small Town Heroes",
+        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Blue Ridge Mountain",
+      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Golden Record",
-        "url": "https://open.spotify.com/album/2gTrfad2EWCwWSoYyODZW4"
-      },
-      "artists": [
-        {
-          "name": "Little Scream",
-          "url": "https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk"
-        }
-      ],
-      "duration_ms": 302626,
-      "name": "The Heron and the Fox",
-      "url": "https://open.spotify.com/track/0bd1QaItPmy8qItYjCWKXV"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "More Rain",
         "url": "https://open.spotify.com/album/1iqXf2jJKf5a6yuxNACYF6"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 184320,
       "name": "You're So Good to Me",
       "url": "https://open.spotify.com/track/6Exlfu36crYH7dnRp8Z8i7"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Golden Record",
+        "url": "https://open.spotify.com/album/2gTrfad2EWCwWSoYyODZW4"
+      },
+      "artists": [
+        {
+          "name": "Little Scream",
+          "url": "https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk"
+        }
+      ],
+      "duration_ms": 302626,
+      "name": "The Heron and the Fox",
+      "url": "https://open.spotify.com/track/0bd1QaItPmy8qItYjCWKXV"
     },
     {
       "added_at": "2024-08-28 14:05:36",

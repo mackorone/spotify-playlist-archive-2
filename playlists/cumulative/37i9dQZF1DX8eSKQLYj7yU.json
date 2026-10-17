@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/12ZeMyDVCivIZZe0t0mNbQ"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229728,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/1v7cIKNizOAH1AS6Nzoq32"
+    },
+    {
+      "album": {
         "name": "A Tim and James Christmas",
         "url": "https://open.spotify.com/album/0EKETzcEkbK9H7GtDpPPk1"
       },

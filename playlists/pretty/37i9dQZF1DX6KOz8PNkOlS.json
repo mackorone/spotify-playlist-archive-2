@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 594534,
+  "num_followers": 594546,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANcLCtpOJT5NfiLG/i7cwCRW+Iwv",
+  "snapshot_id": "AAAAAGHXqOhBsG2/NxLc6pGzpZnIE4F6",
   "tracks": [
     {
       "added_at": "2026-09-30 22:47:28",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Life 2",
-        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "Life 2",
-      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Life 2",
+        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "Life 2",
+      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Heartquake",
         "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Notes from a Quiet Life",
-        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 176049,
-      "name": "Wait on You",
-      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "State of Mine",
         "url": "https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 172436,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "After Hours (Yu Su Remix)",
         "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 348094,
       "name": "After Hours - Yu Su Remix",
       "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Sorry I Haven't Called",
         "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
       },
@@ -1383,6 +1367,38 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1395,6 +1411,22 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1423,34 +1455,18 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
       },
       "artists": [
         {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+      "duration_ms": 135900,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1467,22 +1483,6 @@
       "duration_ms": 208042,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/18U7HAw98r4jEMC2kce3SO"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 135900,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b"
     },
     {
       "added_at": "2026-09-30 22:47:28",

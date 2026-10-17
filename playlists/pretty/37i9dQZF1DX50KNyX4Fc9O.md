@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Olivia Rodrigo, Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,012 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,043 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 |
 | 100 | [You Make It Easy](https://open.spotify.com/track/1qhtHRkj2erogAUbIG3XnN) | [Ricky Rosen](https://open.spotify.com/artist/5pkaRScaZtRzYedQavygpZ) | [You Make It Easy](https://open.spotify.com/album/2XVR0x1uHq9dLcSRyy9dLK) | 2:51 |
 
-Snapshot ID: `AAAAABMw9St/cH6jU6CZvT9mZkXcetIC`
+Snapshot ID: `AAAAALsRaXxudJ6h0Mw0sGApz2eKd/Ge`

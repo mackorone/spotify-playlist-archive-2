@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 288159,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
@@ -3600,6 +3600,28 @@
       "duration_ms": 224390,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6FYiUGWk4P8mDKUCj5m7ID"
+    },
+    {
+      "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
     },
     {
       "album": {
@@ -5543,6 +5565,28 @@
     },
     {
       "album": {
+        "name": "The Night's Not Dead",
+        "url": "https://open.spotify.com/album/672HqumkmGtAtRejCwG61e"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150779,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/2yGvUL3VKUBmvxs5EiSKT5"
+    },
+    {
+      "album": {
         "name": "I Like The Way You Kiss me",
         "url": "https://open.spotify.com/album/6xONuOj4B3ZGCNjuqNhl0P"
       },
@@ -5784,7 +5828,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 230187,
       "name": "If Your Girl",
       "url": "https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv"
@@ -10696,7 +10740,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 136312,
       "name": "SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt",
       "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
@@ -12968,6 +13012,24 @@
       "duration_ms": 192000,
       "name": "Wish You Well - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/49jQjsgh1bqjLW1UXGPIj2"
+    },
+    {
+      "album": {
+        "name": "Witty",
+        "url": "https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Witty",
+      "url": "https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx"
     },
     {
       "album": {

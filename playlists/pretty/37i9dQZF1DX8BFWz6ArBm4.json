@@ -1,12 +1,12 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Kakosaios",
-  "num_followers": 45712,
+  "num_followers": 45731,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABViZhEMm4i3kUyI9CIzE86ASfsU",
+  "snapshot_id": "AAAAAKo1aG4v4qgPjNoSLMIFypcoIrW3",
   "tracks": [
     {
       "added_at": "2026-10-15 21:00:32",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-10-15 21:00:32",
       "album": {
-        "name": "Ximeia",
-        "url": "https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ"
-      },
-      "artists": [
-        {
-          "name": "Katerina",
-          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
-        }
-      ],
-      "duration_ms": 193099,
-      "name": "Ximeia",
-      "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
-    },
-    {
-      "added_at": "2026-10-15 21:00:32",
-      "album": {
         "name": "Exairesi",
         "url": "https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 275612,
       "name": "Exairesi",
       "url": "https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc"
+    },
+    {
+      "added_at": "2026-10-15 21:00:32",
+      "album": {
+        "name": "Ximeia",
+        "url": "https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ"
+      },
+      "artists": [
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        }
+      ],
+      "duration_ms": 193099,
+      "name": "Ximeia",
+      "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
     },
     {
       "added_at": "2026-10-15 21:00:32",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-10-15 21:00:32",
       "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+    },
+    {
+      "added_at": "2026-10-15 21:00:32",
+      "album": {
         "name": "Xorepse",
         "url": "https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 228977,
       "name": "Xorepse",
       "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
-    },
-    {
-      "added_at": "2026-10-15 21:00:32",
-      "album": {
-        "name": "Deutera",
-        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
-      },
-      "artists": [
-        {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
-        }
-      ],
-      "duration_ms": 240222,
-      "name": "Deutera",
-      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
     },
     {
       "added_at": "2026-10-15 21:00:32",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-10-15 21:00:32",
       "album": {
-        "name": "Sou Eleipsa H Oxi?",
-        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "Sou Eleipsa H Oxi?",
-      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
-    },
-    {
-      "added_at": "2026-10-15 21:00:32",
-      "album": {
         "name": "Vrexei",
         "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
+    },
+    {
+      "added_at": "2026-10-15 21:00:32",
+      "album": {
+        "name": "Sou Eleipsa H Oxi?",
+        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "Sou Eleipsa H Oxi?",
+      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
     },
     {
       "added_at": "2026-10-15 21:00:32",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-10-15 21:00:32",
       "album": {
+        "name": "Se Thelo Parafora",
+        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Se Thelo Parafora",
+      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
+    },
+    {
+      "added_at": "2026-10-15 21:00:32",
+      "album": {
         "name": "Etsi Exei Mathei",
         "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 242000,
       "name": "Etsi Eimai",
       "url": "https://open.spotify.com/track/0Fc4uo72OdhOgIeoASzIT8"
-    },
-    {
-      "added_at": "2026-10-15 21:00:32",
-      "album": {
-        "name": "Se Thelo Parafora",
-        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Se Thelo Parafora",
-      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
     },
     {
       "added_at": "2026-10-15 21:00:32",

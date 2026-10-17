@@ -12307,24 +12307,6 @@
     },
     {
       "album": {
-        "name": "carpaccio",
-        "url": "https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0"
-      },
-      "artists": [
-        {
-          "name": "63OG",
-          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 13",
-      "url": "https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw"
-    },
-    {
-      "album": {
         "name": "Traficante",
         "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
       },
@@ -13156,6 +13138,28 @@
       "duration_ms": 157625,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
+    },
+    {
+      "album": {
+        "name": "carpaccio",
+        "url": "https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        },
+        {
+          "name": "Ateyaba",
+          "url": "https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192902,
+      "name": "YOLO",
+      "url": "https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw"
     },
     {
       "album": {

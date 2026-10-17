@@ -1,12 +1,12 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 129105,
+  "num_followers": 129144,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPctQvoRRqIMOUKTYvwuDj/XOdR",
+  "snapshot_id": "AAAAAOTAnD/VvED/YqZES/4SUew93jNO",
   "tracks": [
     {
       "added_at": "2026-07-26 13:45:09",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 267033,
-      "name": "Gypsy - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 221335,
       "name": "How It's Gotta Be",
       "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 267033,
+      "name": "Gypsy - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
     },
     {
       "added_at": "2026-07-26 13:45:09",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-07-26 13:45:09",
       "album": {
-        "name": "If I Let You",
-        "url": "https://open.spotify.com/album/1zUpkYqngSZ4juLdfUVwvg"
-      },
-      "artists": [
-        {
-          "name": "The Womack Sisters",
-          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "If I Let You",
-      "url": "https://open.spotify.com/track/5lyLBXZXjHNX0wi5zy2Wrt"
-    },
-    {
-      "added_at": "2026-07-26 13:45:09",
-      "album": {
         "name": "Send It Back",
         "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173112,
       "name": "Send It Back",
       "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+    },
+    {
+      "added_at": "2026-07-26 13:45:09",
+      "album": {
+        "name": "If I Let You",
+        "url": "https://open.spotify.com/album/1zUpkYqngSZ4juLdfUVwvg"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "If I Let You",
+      "url": "https://open.spotify.com/track/5lyLBXZXjHNX0wi5zy2Wrt"
     },
     {
       "added_at": "2026-07-26 13:45:09",

@@ -9061,6 +9061,24 @@
     },
     {
       "album": {
+        "name": "PIZZAMAN",
+        "url": "https://open.spotify.com/album/1dCOXSPtIE3T2aP6VoEx4i"
+      },
+      "artists": [
+        {
+          "name": "Suspekt",
+          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "PIZZAMAN",
+      "url": "https://open.spotify.com/track/6nzYAba8pQ9bzHKRnXDFJV"
+    },
+    {
+      "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi"
       },

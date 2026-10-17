@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 238950,
       "name": "'til u cry",
       "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 205373,
       "name": "F.U.C.K.",
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
@@ -1868,6 +1868,24 @@
       "duration_ms": 145502,
       "name": "Freak & A Friend",
       "url": "https://open.spotify.com/track/3aLexKSJUByg49fRnVLG9C"
+    },
+    {
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197922,
+      "name": "Freak Inside",
+      "url": "https://open.spotify.com/track/5E6hwJ4Z3qB79UugbIQ1Ea"
     },
     {
       "album": {
@@ -5434,7 +5452,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 249218,
       "name": "touch myself",
       "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"

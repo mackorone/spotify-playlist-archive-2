@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,068 likes - 101 songs - 5 hr 16 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,065 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 10 | [Fantasy \(Baby if u know me\) \(feat\. Kosmo Kint\)](https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Fantasy \(Baby if u know me\) \(feat\. Kosmo Kint\)](https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl) | 3:09 |
 | 11 | [Dracula \(with JENNIE\) \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(with JENNIE\) \[Boys Noize Disko Version\]](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
 | 12 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
-| 13 | [Obsession \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Obsession](https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39) | 2:34 |
+| 13 | [Obsession \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Obsession \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39) | 2:34 |
 | 14 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
 | 15 | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC) | 3:18 |
 | 16 | [Favour](https://open.spotify.com/track/3dltnNdpRDtPMydcL8eMSR) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/6oHga26im49BALtZyiLDIL) | 3:14 |

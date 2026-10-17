@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,418 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,434 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 23 | [groby](https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [embraced for a second as we die](https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt) | 3:37 |
 | 24 | [It Won't Change Anything](https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [It Won't Change Anything](https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr) | 4:33 |
 | 25 | [blue jean](https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [blue jean](https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR) | 4:36 |
-| 26 | [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 |
-| 27 | [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 |
+| 26 | [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 |
+| 27 | [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 |
 | 28 | [Avignon](https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Avignon](https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT) | 2:59 |
 | 29 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 30 | [Say you want me still](https://open.spotify.com/track/2IWNsgtu04OXJjx7KkKomH) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Say you want me still](https://open.spotify.com/album/5oiBQ2m62WA1UYXBQ3Ig0v) | 3:59 |
-| 31 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
-| 32 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
+| 31 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
+| 32 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
 | 33 | [Come Through](https://open.spotify.com/track/06nuQASic35njbk01mB2KY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Come Through](https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS) | 2:52 |
 | 34 | [How Love’s Supposed to Feel](https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/1V0cNxts85DS7hmWmkRnBa) | 4:07 |
 | 35 | [The Man Who Lost it All](https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Man Who Lost it All](https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA) | 3:19 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 42 | [I'd Like To See It](https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Evergreen In Your Mind](https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2) | 4:18 |
 | 43 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
 | 44 | [Rusletur](https://open.spotify.com/track/0UcIJPL1K8fYZoLvArSO3g) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/2sCBn5AwUYBHDvr0I7euw9) | 3:23 |
-| 45 | [Bonnie](https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Bonnie](https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP) | 3:05 |
-| 46 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
+| 45 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
+| 46 | [Bonnie](https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Bonnie](https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP) | 3:05 |
 | 47 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 48 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
 | 49 | [Evigheten nærmer seg](https://open.spotify.com/track/5pYxllxzdm368L57cbzGIq) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Evigheten nærmer seg](https://open.spotify.com/album/77RXk1VrQ9aDWIWcGfnipX) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
 | 60 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 
-Snapshot ID: `AAAAAEohKOrD/1bARXAH2WVITnH/xWDI`
+Snapshot ID: `AAAAACn9//uGtPjEQi7k7689tkYk/eBk`

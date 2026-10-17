@@ -1,12 +1,12 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 193506,
+  "num_followers": 193530,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUeLei4p31lC0NwdQEq3rcvbpxo",
+  "snapshot_id": "AAAAAC8QXxZcrg02hrs9d7luyIUgSEEn",
   "tracks": [
     {
       "added_at": "2025-02-14 19:20:37",
@@ -883,22 +883,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Punta Cana",
-        "url": "https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK"
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
       },
       "artists": [
         {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 168230,
-      "name": "Punta Cana",
-      "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -931,22 +931,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+        "name": "Punta Cana",
+        "url": "https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
         }
       ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+      "duration_ms": 168230,
+      "name": "Punta Cana",
+      "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Un Scar",
-        "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 299381,
-      "name": "Un Scar",
-      "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Ya No Estoy Dolido",
         "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 165981,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Un Scar",
+        "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 299381,
+      "name": "Un Scar",
+      "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1123,46 +1123,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 140987,
-      "name": "Fresas Con Crema",
-      "url": "https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Hong Kong",
         "url": "https://open.spotify.com/album/6ceziFcjWhnHtwCoVEzp2Q"
       },
@@ -1187,6 +1147,46 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 140987,
+      "name": "Fresas Con Crema",
+      "url": "https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
       },
@@ -1199,42 +1199,6 @@
       "duration_ms": 193568,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "\u00c9NFASIS",
-        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Gittobeatz",
-          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
-        }
-      ],
-      "duration_ms": 172774,
-      "name": "ANDO",
-      "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 163341,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1259,6 +1223,26 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "ANDO",
+      "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 163341,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "De Fresa y Coco",
-        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 165447,
-      "name": "De Fresa y Coco",
-      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Yo Vengo De La Nada",
         "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 162187,
       "name": "ALVRGZO",
       "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "De Fresa y Coco",
+        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 165447,
+      "name": "De Fresa y Coco",
+      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 221739,
       "name": "PLEBADA",
       "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2025-02-14 19:20:37",

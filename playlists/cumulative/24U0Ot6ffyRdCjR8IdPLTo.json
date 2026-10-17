@@ -3609,6 +3609,28 @@
     },
     {
       "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/2T8ZVV7QlRrsCtXUiAoBuK"
+    },
+    {
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -6932,6 +6954,24 @@
       "duration_ms": 193677,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz"
+    },
+    {
+      "album": {
+        "name": "The Meds Don't Work",
+        "url": "https://open.spotify.com/album/6cXY3j41zT2YM4Y1lDcC8m"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195219,
+      "name": "The Meds Don't Work",
+      "url": "https://open.spotify.com/track/3K8TaROyhFvOOa3TPW6Cj8"
     },
     {
       "album": {

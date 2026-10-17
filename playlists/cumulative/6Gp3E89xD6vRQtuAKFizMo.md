@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-585 songs - 1 day 3 hr 54 min
+587 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Getting Started](https://open.spotify.com/track/2gMTwP5aqyBikVB8kM1Kkq) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Getting Started](https://open.spotify.com/album/1bGK8Zb61ZEfXDXQXl0xrN) | 1:58 | 2024-03-01 | 2025-04-27 |
 | [Gimme Your Love](https://open.spotify.com/track/57bPaPp5Fd6PE4Oo2dNqsD) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Gimme Your Love](https://open.spotify.com/album/76YtQCHQNCMo5kuwRpSNwC) | 3:00 | 2026-01-30 |  |
 | [Girls N Boys](https://open.spotify.com/track/3pQK1vMfnQnMRCtO7X6VfW) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Girls N Boys](https://open.spotify.com/album/5YxAwFb13Rum21MPS3ErYY) | 2:20 | 2023-11-22 | 2025-04-27 |
+| [Girls On The Floor](https://open.spotify.com/track/7B8zDBrodBQU2QoROjkPDz) | [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH), [HYPRS](https://open.spotify.com/artist/4amG72ZsjSqS35XJvoTLnH) | [Girls On The Floor](https://open.spotify.com/album/0si4cKSIIIBl7BGiKTpQTK) | 2:09 | 2026-10-16 |  |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-11-22 | 2025-04-27 |
 | [Glitter & Gold](https://open.spotify.com/track/6WAD0F28oPL1xthLnWudRh) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ), [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl) | [Glitter & Gold](https://open.spotify.com/album/1Jhpc4DfM04o0MenO4nQFq) | 2:28 | 2025-09-26 |  |
 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-03 | 2025-04-27 |
@@ -559,6 +560,7 @@
 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 | 2026-03-20 |  |
 | [Voice In My Head \(feat\. Makayla Phillips\)](https://open.spotify.com/track/5hxLcDcNh1PgdEZigIzsr9) | [Softest Chyl](https://open.spotify.com/artist/3UFeSCo9XJzKNt0Y2Yq1Hb), [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Voice In My Head \(feat\. Makayla Phillips\)](https://open.spotify.com/album/2bpkmpcuEiuFHRLkXr8ecP) | 3:43 | 2025-07-20 |  |
 | [Voices](https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Voices](https://open.spotify.com/album/3ZBZUT81UWro8rfdcxop06) | 3:15 | 2023-03-10 | 2023-05-27 |
+| [VOLTAGE](https://open.spotify.com/track/5m2wqzWp0CL3Vfod3do5MG) | [MNK](https://open.spotify.com/artist/0TYdomuRjpH9Am01X437vU), [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [VOLTAGE](https://open.spotify.com/album/6NziwvJZ0mbrAxD2SkSaTt) | 2:55 | 2026-10-16 |  |
 | [Voyage](https://open.spotify.com/track/3jBi0KsSKZrV2NrxGul0P7) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL), [Never Sleep](https://open.spotify.com/artist/2Aq4LjvI5svvSjk8fv6BXT) | [Voyage](https://open.spotify.com/album/2BZcJK5BwZnVsQo0YtTvRL) | 3:08 | 2024-01-05 | 2025-04-27 |
 | [Wait For Me](https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [echod](https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 2:49 | 2023-06-09 | 2023-12-14 |
 | [Wait For You \- Radio Edit](https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Wait For You](https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w) | 2:51 | 2022-09-19 | 2023-03-18 |

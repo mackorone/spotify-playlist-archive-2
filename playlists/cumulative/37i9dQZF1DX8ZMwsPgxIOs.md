@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Sara Landry
 
-701 songs - 2 day 1 hr 49 min
+702 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Four Four](https://open.spotify.com/track/2Oz9MDR17ct9ymb3fAoHUN) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Criminal EP](https://open.spotify.com/album/0jE731kxLe0Ih4xIwST3ir) | 2:57 | 2026-08-06 |  |
 | [Freak](https://open.spotify.com/track/2u00QnVqNOPiiI7mAkno1o) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Freak](https://open.spotify.com/album/5MbkFyl5VbgOZUg55HVwlS) | 4:00 | 2026-03-06 |  |
 | [Freaks at Night](https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Freaks at Night](https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7) | 3:34 | 2024-06-28 | 2025-06-21 |
-| [Freaky Face](https://open.spotify.com/track/1V3kNXUmMqMTYymYZsmbcN) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Guess Who's Back](https://open.spotify.com/album/6vb5uhO1nYSFFTQwXjX1DZ) | 4:39 | 2025-07-03 |  |
+| [Freaky Face](https://open.spotify.com/track/1V3kNXUmMqMTYymYZsmbcN) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Guess Who's Back](https://open.spotify.com/album/6vb5uhO1nYSFFTQwXjX1DZ) | 4:39 | 2025-07-03 | 2026-10-17 |
 | [Free Woman](https://open.spotify.com/track/5GvQguudhdHThYfrv74gVL) | [Carla Schmitt](https://open.spotify.com/artist/5D2zC4SgQwYoBcbFOrFiUe) | [Fragments](https://open.spotify.com/album/79yNnDzbaHcclG3a3ywVyW) | 5:08 | 2024-06-28 | 2025-06-21 |
 | [Free Your Mind](https://open.spotify.com/track/5htjfGbVPq6h9rYqsRAb3p) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Free Your Mind](https://open.spotify.com/album/63heqglnhU16LhqokWX4sG) | 2:57 | 2025-06-20 | 2026-10-16 |
 | [Friction](https://open.spotify.com/track/6lWjP9oojE3u4P3Acpkesf) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m) | [Magma EP](https://open.spotify.com/album/6u9AjW7jugh02So5qxPrcZ) | 6:27 | 2024-09-26 | 2025-10-10 |
@@ -688,6 +688,7 @@
 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 | 2025-03-28 | 2026-08-28 |
 | [Wildside](https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2) | [Yousef](https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF), [Penny F.](https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd) | [Wildside](https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J) | 4:09 | 2022-05-06 | 2023-01-21 |
 | [WIND](https://open.spotify.com/track/1UhzFALHc9kjh3UqRJjR02) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [WIND](https://open.spotify.com/album/63He7s0muq7kACjVOGszvC) | 3:10 | 2025-06-20 | 2026-10-16 |
+| [Wisdom To The Wise \- Joris Voorn Remix](https://open.spotify.com/track/7dXu0A5iehf9et218utgX2) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Wisdom To The Wise \(Joris Voorn Remix\)](https://open.spotify.com/album/1rl2VePi5uB859J8cqSVBI) | 2:55 | 2026-10-16 |  |
 | [Wolks Vagon](https://open.spotify.com/track/6T1DlbSvRKOtksXS7gVtel) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Wolks Vagon](https://open.spotify.com/album/2PmVbQyu5unpOOweO8l6D1) | 7:41 | 2023-10-13 | 2024-04-12 |
 | [Wonderland](https://open.spotify.com/track/3IS0Tjx5Lp3XZVG2EOcxwW) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland](https://open.spotify.com/album/1hMa6QSJolhH3EYaX7siNR) | 5:44 | 2024-03-06 | 2024-09-12 |
 | [Wonderland](https://open.spotify.com/track/6bEHsyiVaK9agrtndxqX7U) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland](https://open.spotify.com/album/4ACOWpacKULoUqkTAw8DlL) | 5:44 | 2024-03-06 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "A delicious mix of new songs in high rotation. Cover: girl in red",
+  "description": "A delicious mix of new songs in high rotation. Cover: Remi Wolf",
   "name": "Indie's Top 50",
   "tracks": [
     {
@@ -9526,7 +9526,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 253250,
       "name": "Caught In A Jam",
       "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
@@ -9732,6 +9732,24 @@
       "duration_ms": 327584,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7"
+    },
+    {
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210665,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
     },
     {
       "album": {
@@ -31527,6 +31545,24 @@
     },
     {
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/68IlKZOW8CEdcembmdNuHX"
+      },
+      "artists": [
+        {
+          "name": "Knifeplay",
+          "url": "https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604934,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7ndSNIaJ4J0TIJE5iuMHRx"
+    },
+    {
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
       },
@@ -51524,7 +51560,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 417341,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/0zyMLOsWbWQmeq9PIIKiFk"
@@ -53922,7 +53958,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 180964,
       "name": "Trillions",
       "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
@@ -58012,6 +58048,24 @@
       "duration_ms": 98800,
       "name": "wish i was dead",
       "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
+    },
+    {
+      "album": {
+        "name": "Wish Upon You",
+        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277248,
+      "name": "Wish Upon You",
+      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
     },
     {
       "album": {

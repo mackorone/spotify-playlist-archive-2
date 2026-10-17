@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 193763,
+  "num_followers": 193778,
   "original_name": "Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANoQqW8uSwVg+JZZ/0kQCWHRBZeY",
+  "snapshot_id": "AAAAADCAAU5NVpCVPz3tjieDUqAcyEH4",
   "tracks": [
     {
       "added_at": "2025-11-25 20:24:44",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
+        "name": "Un Nuevo Sol (Versi\u00f3n Standard)",
+        "url": "https://open.spotify.com/album/7McgebAgt9gSwYSdvPjqXQ"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Te Voy A Amar",
+      "url": "https://open.spotify.com/track/2pWBSBT4GLSqt4mb0dkokU"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 191209,
       "name": "Carita de Inocente",
       "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
-        "name": "Un Nuevo Sol (Versi\u00f3n Standard)",
-        "url": "https://open.spotify.com/album/7McgebAgt9gSwYSdvPjqXQ"
-      },
-      "artists": [
-        {
-          "name": "Axel",
-          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Te Voy A Amar",
-      "url": "https://open.spotify.com/track/2pWBSBT4GLSqt4mb0dkokU"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
         "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 191924,
       "name": "Carita de Inocente (feat. Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2025-11-25 20:24:44",

@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11953345,
+  "num_followers": 11954805,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG4I5Cixf70h+L10cjNxC19sgNxF",
+  "snapshot_id": "AAAAACzBQTqHcbPfrpdJcSaWgemrIbB9",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:29",
@@ -125,6 +125,46 @@
       "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
     },
     {
+      "added_at": "2026-10-16 15:29:53",
+      "album": {
+        "name": "FUNK MANDALA",
+        "url": "https://open.spotify.com/album/7dPMAX7PZlvGhJ1UTD6wmS"
+      },
+      "artists": [
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "Zericxxn",
+          "url": "https://open.spotify.com/artist/4mhYvxWXU1KTZsZr9g6aKS"
+        },
+        {
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        }
+      ],
+      "duration_ms": 106065,
+      "name": "FUNK MANDALA - SLOWED",
+      "url": "https://open.spotify.com/track/0OO5AgEGrdYPovFSPLFBHm"
+    },
+    {
+      "added_at": "2026-08-12 23:10:59",
+      "album": {
+        "name": "MONTAGEM URANIUM",
+        "url": "https://open.spotify.com/album/02v4wwlrIwnowie9SrjSuY"
+      },
+      "artists": [
+        {
+          "name": "ZAYLO",
+          "url": "https://open.spotify.com/artist/41rOXkwf7ccICwE9yRnEKi"
+        }
+      ],
+      "duration_ms": 99741,
+      "name": "MONTAGEM URANIUM - Slowed",
+      "url": "https://open.spotify.com/track/7N3H0T7EgeflYdKd68lvIV"
+    },
+    {
       "added_at": "2026-05-01 15:50:01",
       "album": {
         "name": "FUNK ABNORMAL",
@@ -143,22 +183,6 @@
       "duration_ms": 101410,
       "name": "FUNK ABNORMAL - SLOWED",
       "url": "https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2"
-    },
-    {
-      "added_at": "2026-08-12 23:10:59",
-      "album": {
-        "name": "MONTAGEM URANIUM",
-        "url": "https://open.spotify.com/album/02v4wwlrIwnowie9SrjSuY"
-      },
-      "artists": [
-        {
-          "name": "ZAYLO",
-          "url": "https://open.spotify.com/artist/41rOXkwf7ccICwE9yRnEKi"
-        }
-      ],
-      "duration_ms": 99741,
-      "name": "MONTAGEM URANIUM - Slowed",
-      "url": "https://open.spotify.com/track/7N3H0T7EgeflYdKd68lvIV"
     },
     {
       "added_at": "2026-03-22 01:21:26",
@@ -841,6 +865,26 @@
       "url": "https://open.spotify.com/track/5AEu8NXniMOgVdZO6lfSux"
     },
     {
+      "added_at": "2026-10-16 15:29:53",
+      "album": {
+        "name": "MONTAGEM ZORA",
+        "url": "https://open.spotify.com/album/5pg25Pbu38dGXE9P2NLoEK"
+      },
+      "artists": [
+        {
+          "name": "WUYS",
+          "url": "https://open.spotify.com/artist/0FPFNKNHz0ATIbKM4FUuOG"
+        },
+        {
+          "name": "KIT",
+          "url": "https://open.spotify.com/artist/0eAVy43ej9ro7X4TalOTSv"
+        }
+      ],
+      "duration_ms": 138829,
+      "name": "MONTAGEM ZORA (Slowed)",
+      "url": "https://open.spotify.com/track/2HZB36OdMinzcn0CgaFGne"
+    },
+    {
       "added_at": "2024-07-05 13:50:01",
       "album": {
         "name": "GLORY",
@@ -1417,6 +1461,26 @@
       "url": "https://open.spotify.com/track/6f1quGoa3yMxvvhBWg5LF3"
     },
     {
+      "added_at": "2026-10-16 15:29:53",
+      "album": {
+        "name": "MTG DIAB\u00d3LICA",
+        "url": "https://open.spotify.com/album/1axbvo4CY0eNPuxqLV9Oyg"
+      },
+      "artists": [
+        {
+          "name": "DJ SXD",
+          "url": "https://open.spotify.com/artist/5TYgy94EkTAyehVxZa3uYx"
+        },
+        {
+          "name": "notdjfake",
+          "url": "https://open.spotify.com/artist/3QwztEgQF5edXYpOYsA6fM"
+        }
+      ],
+      "duration_ms": 102250,
+      "name": "MTG DIAB\u00d3LICA",
+      "url": "https://open.spotify.com/track/0bOk99yLFvoO95Tjz57FgS"
+    },
+    {
       "added_at": "2026-03-13 13:55:22",
       "album": {
         "name": "FUNK SERENO",
@@ -1949,34 +2013,6 @@
       "url": "https://open.spotify.com/track/344ilORk7mOQH1BbiufL9w"
     },
     {
-      "added_at": "2024-12-20 18:34:37",
-      "album": {
-        "name": "Faz de Chicote",
-        "url": "https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT"
-      },
-      "artists": [
-        {
-          "name": "Lyu",
-          "url": "https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf"
-        },
-        {
-          "name": "ITALO SENA",
-          "url": "https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf"
-        },
-        {
-          "name": "DJ PBeats",
-          "url": "https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9"
-        },
-        {
-          "name": "DJ VYZ",
-          "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
-        }
-      ],
-      "duration_ms": 150569,
-      "name": "Faz de Chicote",
-      "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
-    },
-    {
       "added_at": "2025-02-14 15:00:38",
       "album": {
         "name": "NUNCA MUDA?",
@@ -2045,26 +2081,6 @@
       "url": "https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p"
     },
     {
-      "added_at": "2025-01-07 20:52:35",
-      "album": {
-        "name": "BLOODY!",
-        "url": "https://open.spotify.com/album/0yr5YRR7l813mmHITxmFWa"
-      },
-      "artists": [
-        {
-          "name": "M4GN",
-          "url": "https://open.spotify.com/artist/1qaCszXlFNPEnCELYBixa5"
-        },
-        {
-          "name": "DJ Oliver Mendes",
-          "url": "https://open.spotify.com/artist/2ZuUKw4Pfvj7zIKxYY3HAh"
-        }
-      ],
-      "duration_ms": 139384,
-      "name": "BLOODY! - ULTRA SLOWED",
-      "url": "https://open.spotify.com/track/03E0f4JneWZEtrQPU6EsIV"
-    },
-    {
       "added_at": "2025-09-12 17:40:09",
       "album": {
         "name": "MONTAGEM SILICONADE",
@@ -2099,34 +2115,6 @@
       "duration_ms": 126942,
       "name": "ECOS DO ABISMO - Super Slowed",
       "url": "https://open.spotify.com/track/0lZSad8ojli0h9SAwcyIS5"
-    },
-    {
-      "added_at": "2025-11-17 15:48:56",
-      "album": {
-        "name": "NO REPLY",
-        "url": "https://open.spotify.com/album/3vlYdF6pldcScpnudZqXJ2"
-      },
-      "artists": [
-        {
-          "name": "NTPV",
-          "url": "https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ"
-        },
-        {
-          "name": "Sei Lean",
-          "url": "https://open.spotify.com/artist/6V2yd0Ru6yTlI9nEPaWcaO"
-        },
-        {
-          "name": "GodDamn",
-          "url": "https://open.spotify.com/artist/0IGg2CHxFOsEvxt5ZY1Xj3"
-        },
-        {
-          "name": "Phonk King",
-          "url": "https://open.spotify.com/artist/3SZ90ANlXjdw2hmDT4ULaW"
-        }
-      ],
-      "duration_ms": 128047,
-      "name": "NO REPLY",
-      "url": "https://open.spotify.com/track/7oVgRICO5xflAGdRc8UIp9"
     },
     {
       "added_at": "2024-12-13 05:45:00",

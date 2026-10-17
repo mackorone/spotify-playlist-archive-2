@@ -14575,6 +14575,24 @@
     },
     {
       "album": {
+        "name": "aus dem Koffer",
+        "url": "https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197694,
+      "name": "Deppata Bua",
+      "url": "https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa"
+    },
+    {
+      "album": {
         "name": "Der einzige Ort",
         "url": "https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g"
       },
@@ -23776,7 +23794,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 121794,
       "name": "Geile Sau trotzdem",
       "url": "https://open.spotify.com/track/2zMwwhmXuhYwvdc5uil9nJ"
@@ -52591,6 +52609,24 @@
     },
     {
       "album": {
+        "name": "NUR DAMIT DU WEISST 3",
+        "url": "https://open.spotify.com/album/3AXsJriSInji6DhiulHDzg"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "PUSH IT",
+      "url": "https://open.spotify.com/track/1ABKBRsiJ8bSToQc2yM5Rr"
+    },
+    {
+      "album": {
         "name": "Push Up (Pusher Babe)",
         "url": "https://open.spotify.com/album/0ltiwZYAZlN3aY40yTLrJa"
       },
@@ -53880,6 +53916,24 @@
       "duration_ms": 211200,
       "name": "Risk It All (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
+    },
+    {
+      "album": {
+        "name": "Verstr!ckt",
+        "url": "https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135857,
+      "name": "Riss in der Fassade",
+      "url": "https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong"
     },
     {
       "album": {
@@ -64871,24 +64925,6 @@
     },
     {
       "album": {
-        "name": "aus dem Koffer",
-        "url": "https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j"
-      },
-      "artists": [
-        {
-          "name": "Laurenz Nikolaus",
-          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa"
-    },
-    {
-      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -64904,24 +64940,6 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "album": {
-        "name": "Verstr!ckt",
-        "url": "https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q"
-      },
-      "artists": [
-        {
-          "name": "Dominik Hartz",
-          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong"
     },
     {
       "album": {

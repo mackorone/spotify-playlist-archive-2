@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover: The Paradise",
+  "description": "Trending songs from Tollywood! \nCover: Basinga Basinga Balaaleee!",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -332,6 +332,28 @@
       "duration_ms": 254876,
       "name": "Aha Allari",
       "url": "https://open.spotify.com/track/7EYbTTLNqfRKHoYY8jT9Sy"
+    },
+    {
+      "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3u1nPpilT7rd8F3o1UwFBR"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Srinivasa Mouli",
+          "url": "https://open.spotify.com/artist/64I3SF2YQOyooctWNMd8bH"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240012,
+      "name": "Ala Bolelo",
+      "url": "https://open.spotify.com/track/3mrQ2rs6gJH55skAHSaTAk"
     },
     {
       "album": {
@@ -1091,6 +1113,36 @@
     },
     {
       "album": {
+        "name": "Bangaram",
+        "url": "https://open.spotify.com/album/7GbY5rwvglskAcSFvchmVK"
+      },
+      "artists": [
+        {
+          "name": "Afroz Ali",
+          "url": "https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Demon pavan",
+          "url": "https://open.spotify.com/artist/7kTNpD0qqAj7w47lKnmr53"
+        },
+        {
+          "name": "Rithu chowdary",
+          "url": "https://open.spotify.com/artist/2aeVHaVoodSftVbc5CX5Zs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186047,
+      "name": "Bangaram",
+      "url": "https://open.spotify.com/track/2snhZ3f3oy2HZiQhkpldqJ"
+    },
+    {
+      "album": {
         "name": "Basinga Balaalu",
         "url": "https://open.spotify.com/album/6LNsqUJ0iEpXj8IqB9ZbW0"
       },
@@ -1306,7 +1358,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 197769,
       "name": "Binde Meeda Bindhe Vetti - Dj Song",
       "url": "https://open.spotify.com/track/5nVgd5Nqf4Cw7sk7ywO3ID"
@@ -1594,7 +1646,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 291050,
       "name": "Centurylu Kotte",
       "url": "https://open.spotify.com/track/53InKWvLZPLbDCAQv2JR9t"
@@ -2780,7 +2832,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 244941,
       "name": "Emo Emo Idi (From \"Emo Emo Idi\")",
       "url": "https://open.spotify.com/track/5xLWhJbkmFsvkKn7FVtT93"
@@ -4216,7 +4268,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 249169,
       "name": "Irumudi Kattu (From \"Irumudi\")",
       "url": "https://open.spotify.com/track/0d2LuBhacKiZZpBWZD6OD2"
@@ -4972,7 +5024,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 115022,
       "name": "Kotha Feeling (From \"Sing Geetham\")",
       "url": "https://open.spotify.com/track/5dVzLDUqOwpfZiRmYeoPxe"
@@ -5288,6 +5340,28 @@
       "duration_ms": 246864,
       "name": "Ma Ma Mahesha (From \"Sarkaru Vaari Paata\")",
       "url": "https://open.spotify.com/track/0d4ZeWg7NBzA5NnFPn8a89"
+    },
+    {
+      "album": {
+        "name": "Taxiwaala",
+        "url": "https://open.spotify.com/album/7xFyTLHXlahxmhB28ZStFo"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296220,
+      "name": "Maate Vinadhuga",
+      "url": "https://open.spotify.com/track/2fPppuLH5Ib1x0F2BXJ19f"
     },
     {
       "album": {
@@ -6452,7 +6526,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 246438,
       "name": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
       "url": "https://open.spotify.com/track/4vUyAxDYK5ZdpHNU2gh3HI"
@@ -7177,6 +7251,40 @@
     },
     {
       "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3u1nPpilT7rd8F3o1UwFBR"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Inno Genga",
+          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "One Sun One Moon",
+      "url": "https://open.spotify.com/track/5NOpjAEVYLPIixuurIjFpc"
+    },
+    {
+      "album": {
         "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
       },
@@ -7344,6 +7452,32 @@
       "duration_ms": 199800,
       "name": "Paala Pitta",
       "url": "https://open.spotify.com/track/7eONkQbNZvohVwbjbOwTEP"
+    },
+    {
+      "album": {
+        "name": "Pacha Pachani Palle",
+        "url": "https://open.spotify.com/album/3LVuN6aHIjjho9DdJHNn5m"
+      },
+      "artists": [
+        {
+          "name": "Telliu Vijay",
+          "url": "https://open.spotify.com/artist/2aFq916Ufvw9q25GYbL0GH"
+        },
+        {
+          "name": "Kandukoori Shankar Babu",
+          "url": "https://open.spotify.com/artist/6ERAARlZlGL2kFB9mn9WOd"
+        },
+        {
+          "name": "Suresh Bobbili",
+          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265878,
+      "name": "Pacha Pachani Palle",
+      "url": "https://open.spotify.com/track/0WGWMws3LgrmWT1GbJleHE"
     },
     {
       "album": {
@@ -10448,7 +10582,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 253061,
       "name": "Yaalalo Yaalalo (From \"Irumudi\")",
       "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"

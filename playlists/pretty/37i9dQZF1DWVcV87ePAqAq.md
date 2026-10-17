@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,792 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,774 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 49 | [One \(Your Name\) \- Radio Edit](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [One \(Your Name\)](https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C) | 2:43 |
 | 50 | [Mister Cool](https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe) | [Snook](https://open.spotify.com/artist/79tTZzeIjEwOE6JMHG5eBS) | [Vi vet inte vart vi ska men vi ska komma dit](https://open.spotify.com/album/3lRmZBFANx5bmzUO3o5ThT) | 3:07 |
 
-Snapshot ID: `AAAAAGLD1+letBdozeYRBJW8eWaJrkoo`
+Snapshot ID: `AAAAAD6ynHLdSR48s7iOUUE58wA1R72N`

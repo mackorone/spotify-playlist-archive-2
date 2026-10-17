@@ -1,13 +1,45 @@
 {
   "description": "The best of modern blues rock. Cover: Ghost Hounds",
-  "num_followers": 273635,
+  "num_followers": 273703,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFG5HckAN26PNrP3h4FT+UFONuR/",
+  "snapshot_id": "AAAAAF0zItT3BEFfW02Q+R7fnu6bgR9e",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:00:19",
+      "album": {
+        "name": "Lost In Creation",
+        "url": "https://open.spotify.com/album/4rXaJxzNjmFajJl0sbngv5"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "duration_ms": 216697,
+      "name": "Tailgate",
+      "url": "https://open.spotify.com/track/0AuKzsMIxOAPWHDtZxET0Q"
+    },
+    {
+      "added_at": "2026-10-16 04:00:19",
+      "album": {
+        "name": "The Open Bayou",
+        "url": "https://open.spotify.com/album/1FlK2YoZ4ebIZibeQxNjVC"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "duration_ms": 309263,
+      "name": "The Open Bayou",
+      "url": "https://open.spotify.com/track/1kVU5NX316rmK6R6Qxwohf"
+    },
     {
       "added_at": "2026-08-28 04:02:23",
       "album": {
@@ -1523,22 +1555,6 @@
     {
       "added_at": "2026-08-28 04:02:23",
       "album": {
-        "name": "Truth Be Told EP",
-        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
-      },
-      "artists": [
-        {
-          "name": "Cam Cole",
-          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
-        }
-      ],
-      "duration_ms": 166862,
-      "name": "Truth Be Told",
-      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
-    },
-    {
-      "added_at": "2026-08-28 04:02:23",
-      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 228517,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX"
-    },
-    {
-      "added_at": "2026-08-28 04:02:23",
-      "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 227798,
-      "name": "The Deep And The Dirty",
-      "url": "https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR"
     },
     {
       "added_at": "2026-08-28 04:02:23",

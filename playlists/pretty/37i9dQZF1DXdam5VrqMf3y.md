@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Lykke Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,603 likes - 96 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,617 likes - 96 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Have Yourself a Merry Little Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/6liolbDYbru5D2WdNOWpoQ) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Have Yourself a Merry Little Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/7t09nW9EJhj2oaOH8QbHxV) | 3:15 |
 | 2 | [2000 Miles \- Spotify Singles Holiday](https://open.spotify.com/track/1HftwnsmpwF97Q3hnbyYWg) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [2000 Miles \- Spotify Singles Holiday](https://open.spotify.com/album/4dEwGrcucC4SyfXviDQSlf) | 3:28 |
-| 3 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \(Spotify Singles Holiday\)](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
+| 3 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
 | 4 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
 | 5 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |
 | 6 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 95 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:18 |
 | 96 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 |
 
-Snapshot ID: `AAAAAKu1hYJ40w1k6tMTfUWEdOERCBo2`
+Snapshot ID: `AAAAAKXSB98gJbOtuRlNr5nV2qYVXV4g`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,509 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,510 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 75 | [Question Of The Day](https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Question Of The Day](https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1) | 2:31 |
 | 76 | [Stockholm](https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods \(Extended Edition\)](https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL) | 5:44 |
 
-Snapshot ID: `AAAAAGNA4YUdjmdNsWz0cKPMHjWS5Oto`
+Snapshot ID: `AAAAAN5Jmiigw2gt2Ja9Jr7EKp5YEgFD`

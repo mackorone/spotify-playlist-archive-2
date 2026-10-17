@@ -8585,6 +8585,28 @@
     },
     {
       "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
       },
@@ -8754,7 +8776,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184085,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
@@ -11664,7 +11686,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 212307,
       "name": "Hell Yeah (Feat. Waxmaster)",
       "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
@@ -18312,6 +18334,24 @@
       "duration_ms": 203482,
       "name": "Never Gonna Tell You",
       "url": "https://open.spotify.com/track/58RXFvoX6t0JNYDls2ANh2"
+    },
+    {
+      "album": {
+        "name": "Never Leave U",
+        "url": "https://open.spotify.com/album/5rFrWczbNB34mjzq0NDRr6"
+      },
+      "artists": [
+        {
+          "name": "Sonny Kane",
+          "url": "https://open.spotify.com/artist/5AAojYr0Ov163yqEVDi5l5"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221787,
+      "name": "Never Leave U",
+      "url": "https://open.spotify.com/track/23khOJxVCE4SEDYCf4mZb8"
     },
     {
       "album": {

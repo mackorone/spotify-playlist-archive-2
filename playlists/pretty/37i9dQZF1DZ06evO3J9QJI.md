@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 | 13 | [Come\-N\-Go](https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 4:29 |
 | 14 | [Moreno \- Skit](https://open.spotify.com/track/5qPqsM0fdhY3iEViEEZb33) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:45 |
 
-Snapshot ID: `as7GAAAAAAC9jpEVLh1uVqblxaO7e9b3`
+Snapshot ID: `as7GAAAAAAAHODV6nXlbSejszoInpk8H`

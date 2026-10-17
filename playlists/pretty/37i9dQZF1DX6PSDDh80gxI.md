@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > ARIETE portaci a fare serata con te e a suonare tutti i campanelli di roma alle 2 di notte
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,717 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,706 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 79 | [Stupido](https://open.spotify.com/track/7MxofH0jnTTEnCzau5VdJs) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Stupido](https://open.spotify.com/album/5NccRVh2Ds5owdpDfW4Rh5) | 3:10 |
 | 80 | [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 |
 
-Snapshot ID: `AAAAAC4kQ1yf9b+j5MNwPciQWHawei1r`
+Snapshot ID: `AAAAAM2zdsU5DB8guo5S2lNuF32Vpva6`

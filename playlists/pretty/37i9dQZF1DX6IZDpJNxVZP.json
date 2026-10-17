@@ -1,13 +1,49 @@
 {
   "description": "Celebrate the season with these fun and spooky tracks",
-  "num_followers": 69004,
+  "num_followers": 69001,
   "original_name": "Trick or Treat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKd1Kqcvd2HnJcvgtcudyytYReHA",
+  "snapshot_id": "AAAAAIpVBfkAM5nkCGhymoBf5Ag4nYgc",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:00:54",
+      "album": {
+        "name": "Disney Jr. Music: Ozzy Fox - Halloween",
+        "url": "https://open.spotify.com/album/3uSw7eULEMikBTsuYGitb4"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
+        }
+      ],
+      "duration_ms": 111361,
+      "name": "Spooky or Silly",
+      "url": "https://open.spotify.com/track/2wptYyv0vrpCe97GQZ9CIF"
+    },
+    {
+      "added_at": "2026-10-16 04:00:54",
+      "album": {
+        "name": "Can You Find the Ghost?",
+        "url": "https://open.spotify.com/album/3rjF8u9m5Dco6GUC5zYoUy"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 144132,
+      "name": "Can You Find the Ghost?",
+      "url": "https://open.spotify.com/track/5NfJ9lbDsDqAbEtHPf50Uk"
+    },
     {
       "added_at": "2026-10-02 04:01:06",
       "album": {

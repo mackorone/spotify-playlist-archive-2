@@ -4,7 +4,7 @@
 
 > salgada a pista tá, né? 🌚
 
-710 songs - 1 day 15 hr 52 min
+711 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Amor Não Sai de Moda](https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP) | [LUKA](https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Malu Original](https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY), [Arthur Martiins](https://open.spotify.com/artist/5sKb333g6csR2GXkhyw0UX) | [Amor Não Sai de Moda](https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB) | 3:36 | 2026-01-12 | 2026-04-11 |
 | [Amor ou Solidão?](https://open.spotify.com/track/2FOLnTJ8VBkcCMCTrvR34i) | [LUKA](https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Amor ou Solidão?](https://open.spotify.com/album/7lp3LXZKAhvSYBFs3KD0RY) | 2:25 | 2026-09-25 |  |
 | [Amor É F\*Da](https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Amor É F\*Da](https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU) | 2:31 | 2026-06-08 |  |
+| [Amor É F\*da 2](https://open.spotify.com/track/6sQMYNNkWaZ7pvZyzXq6tw) | [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod.Jay\-C](https://open.spotify.com/artist/2uuwFjqmWlrhouHBaiUllY) | [Amor É F\*da 2](https://open.spotify.com/album/7bTDF7amcSP4ldR0ByQad0) | 2:13 | 2026-10-16 |  |
 | [Amor É Mentira](https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Set Final de Ano](https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC) | 3:30 | 2024-02-09 | 2024-05-25 |
 | [ANDO VAGANDO](https://open.spotify.com/track/65shbn8jzJlRu4VfSW6HuD) | [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Nina Maia](https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy), [Shirts](https://open.spotify.com/artist/7rGMt1pIA4R7hIGvhnKZnL) | [ANDO VAGANDO](https://open.spotify.com/album/0WvwuWN0S0MLR2oIYRx7iD) | 3:05 | 2026-04-10 | 2026-05-15 |
 | [Angelina](https://open.spotify.com/track/44OBpSw2bAwEiw26lQZDvy) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 3:15 | 2022-12-03 | 2022-12-24 |

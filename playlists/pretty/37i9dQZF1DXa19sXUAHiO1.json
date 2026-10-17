@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1247983,
+  "num_followers": 1247941,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMmPKITTW/YmYfS9Oz2A0RP9WP7",
+  "snapshot_id": "AAAAAIq6Y7cIVwDz2q+b8cWb2jWF42Qc",
   "tracks": [
     {
       "added_at": "2021-12-14 20:17:09",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Dance With Me: The Best Of Orleans",
         "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
     },
     {
       "added_at": "2022-06-30 18:06:09",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Waking & Dreaming",
         "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 234040,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2021-01-06 18:39:03",

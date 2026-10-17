@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-615 songs - 1 day 12 hr 4 min
+616 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-08-26 | 2024-07-19 |
 | [Freaky](https://open.spotify.com/track/6orYXU56P1zLY9YUFX5zJV) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Freaky](https://open.spotify.com/album/7i6Wz3tvYG2coehpE97RgC) | 2:00 | 2026-06-11 | 2026-09-25 |
 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 | 2026-04-10 |  |
+| [Free](https://open.spotify.com/track/3KAbbvbVa1SdKkpzdy2sLG) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Free](https://open.spotify.com/album/51Zm9rqVaFJss3lBKkSbpF) | 3:02 | 2026-10-01 |  |
 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-10 |  |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-07-12 | 2025-04-18 |
 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 | 2025-07-25 | 2026-07-02 |
@@ -264,7 +265,7 @@
 | [I See You Baby \(feat\. Gramma Funk\) \- DJ BORING Remix](https://open.spotify.com/track/3RaOSNfKdHUMfrbBpzcnJ6) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Gramma Funk](https://open.spotify.com/artist/09dzhikZDQAWGs8jyIylqj) | [I See You Baby \(feat\. Gramma Funk\) \[DJ BORING Remix\]](https://open.spotify.com/album/1bovzlu16XzLE6WbV2nHKS) | 5:36 | 2026-07-01 | 2026-08-21 |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-06-30 | 2025-04-18 |
 | [I'll Be Fine](https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I'll Be Fine](https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB) | 3:37 | 2022-08-26 | 2024-06-28 |
-| [IBIZA](https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [CRCLE](https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS) | [IBIZA](https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8) | 3:02 | 2024-07-05 |  |
+| [IBIZA](https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [CRCLE](https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS) | [IBIZA](https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8) | 3:02 | 2024-07-05 | 2026-10-17 |
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-05-17 | 2025-06-27 |
 | [If You Want My Loving](https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3) | 4:10 | 2024-06-14 | 2024-07-16 |
 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 | 2026-04-30 |  |

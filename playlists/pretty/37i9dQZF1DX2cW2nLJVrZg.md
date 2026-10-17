@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > All the winning songs from the annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,836 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,825 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 26 | [Ripples in the Sand](https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 5:14 |
 | 27 | [Into the West](https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [The Lord of the Rings: The Return of the King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) | 5:47 |
 | 28 | [I'm Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 |
-| 29 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 |
-| 30 | [Man Or Muppet](https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB) | [Jason Segel](https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6), [Walter](https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 2:57 |
+| 29 | [Man Or Muppet](https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB) | [Jason Segel](https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6), [Walter](https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 2:57 |
+| 30 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 |
 | 31 | [Under the Stars](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 | 32 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
 | 33 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 52 | [The Weary Kind \(Theme from Crazy Heart\)](https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Crazy Heart: Original Motion Picture Soundtrack \(Deluxe Edition\)](https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz) | 4:18 |
 | 53 | [Williams: E.T\. \- Flying Theme](https://open.spotify.com/track/6resX7nabqQ0msLufgxBy7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams \- Star Wars and Beyond](https://open.spotify.com/album/6YffFzDclLJoaHMD7NX5Uj) | 3:45 |
 
-Snapshot ID: `AAAAAN5k8Z/tMNJKjhrPQy8HnSyAe+ER`
+Snapshot ID: `AAAAAFnSGj6h2SrrU6pLnh8yjDVu7LqS`

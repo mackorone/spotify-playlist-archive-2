@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,255 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,257 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 24 | [Find Me](https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A), [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [Find Me](https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm) | 3:01 |
 | 25 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
 | 26 | [My Last Cigarette](https://open.spotify.com/track/1RAQBHitlcTb4MJVxoLQ2n) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [My Last Cigarette](https://open.spotify.com/album/0t1TJ4kb04P7rcIkVSzue0) | 4:37 |
-| 27 | [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 |
-| 28 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
+| 27 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
+| 28 | [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 |
 | 29 | [La La Land](https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 2:40 |
 | 30 | [You’re Not Sorry](https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [Not Overthinking This](https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV) | 3:25 |
 | 31 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 42 | [Waiting On](https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Waiting On](https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O) | 2:35 |
 | 43 | [The Other Side](https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [The Other Side](https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG) | 3:20 |
 | 44 | [Could've Been](https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT) | [Could've Been](https://open.spotify.com/album/7BBHLb75DUrEFh9108117K) | 2:47 |
-| 45 | [Cop Shot A Man](https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Cop Shot A Man](https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN) | 2:40 |
-| 46 | [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 |
+| 45 | [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 |
+| 46 | [Cop Shot A Man](https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Cop Shot A Man](https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN) | 2:40 |
 | 47 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 |
 | 48 | [Over the Moon](https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Over the Moon](https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ) | 3:56 |
 | 49 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |
 | 50 | [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 |
 
-Snapshot ID: `AAAAAA1NVZFNm/xcAqKXU1BtCSB5kCVN`
+Snapshot ID: `AAAAAHoEOYOeu4tidmmmUMpjuaGf4O4p`

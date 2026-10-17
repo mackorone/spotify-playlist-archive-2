@@ -1,12 +1,12 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 633387,
+  "num_followers": 633503,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN3gitkxlGbBeCTgsRRVUKRDDrQ2",
+  "snapshot_id": "AAAAAJV7TmjRBXKFFaw5mLXLQGcXfOu6",
   "tracks": [
     {
       "added_at": "2024-10-03 04:00:00",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 290320,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+      "duration_ms": 242293,
+      "name": "Promiscuous",
+      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -203,22 +207,18 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 242293,
-      "name": "Promiscuous",
-      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. JA\u0178-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 203786,
       "name": "1, 2 Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Busted",
-        "url": "https://open.spotify.com/album/0PnmsYK2gPdPBzctYdi6U0"
-      },
-      "artists": [
-        {
-          "name": "Busted",
-          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Year 3000",
-      "url": "https://open.spotify.com/track/0zjB7ewBWnMgQDMQpFzt92"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Release Therapy",
         "url": "https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 230613,
       "name": "Money Maker",
       "url": "https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Busted",
+        "url": "https://open.spotify.com/album/0PnmsYK2gPdPBzctYdi6U0"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Year 3000",
+      "url": "https://open.spotify.com/track/0zjB7ewBWnMgQDMQpFzt92"
     },
     {
       "added_at": "2024-07-12 21:13:59",

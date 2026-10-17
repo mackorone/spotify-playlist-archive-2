@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Desmond Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,017 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,022 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [Solar Eclipse \(feat\. Don Toliver\)](https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:38 |
 | 50 | [Classic PT2](https://open.spotify.com/track/2nEfvO4T7gERNdrPD3iI8g) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 2:59 |
 
-Snapshot ID: `AAAAAN13iRACcoD095vyF5Aj3M2EjANg`
+Snapshot ID: `AAAAAAyiYHZIakhVWPjm8ASPTnyvoE26`

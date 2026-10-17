@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 387910,
+  "num_followers": 387954,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABJmeuupsCmxU8H+0oXzGSMso2h+",
+  "snapshot_id": "AAAAAH3FhVGfa5SYJg5Tj9vU9Lqs2B2R",
   "tracks": [
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Sala De Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 260579,
       "name": "Sala De Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2026-08-10 15:32:09",

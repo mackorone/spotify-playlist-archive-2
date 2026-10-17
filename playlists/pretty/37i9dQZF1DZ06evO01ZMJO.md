@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,712 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,721 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Never Die](https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Never Die](https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu) | 3:20 |
 | 50 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 
-Snapshot ID: `as7GAAAAAACz5aAJqHnKB6KeaJBCjY2b`
+Snapshot ID: `atAXgAAAAAAjRTBFrWaOSN5G18ruAhp3`

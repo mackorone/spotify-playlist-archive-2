@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,736 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,747 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Green Green Grass Of Home](https://open.spotify.com/track/5TLkHWQBlL3sMDteMbskzi) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [20 All\-Time Greatest Hits](https://open.spotify.com/album/7rM3UENeHolGt23rGMhRLv) | 2:58 |
 | 100 | [Lonesome 7\-7203](https://open.spotify.com/track/6ZW6ND4N7oKkUhKqWZhjyk) | [Hawkshaw Hawkins](https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV) | [20 Greatest Hits](https://open.spotify.com/album/3xyu25a0dgVUf3JeDXql9i) | 2:46 |
 
-Snapshot ID: `AAAAAF5btfq5g4kuJVd3Q82F/sB8rsMi`
+Snapshot ID: `AAAAAODLL2kyvQjLHdJL+/QP3VXQfxOx`

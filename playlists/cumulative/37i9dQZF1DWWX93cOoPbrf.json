@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Armenta en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. El De Las R's, El Rabbanito en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 185600,
       "name": "Anomalia",
       "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
@@ -3424,6 +3424,28 @@
       "duration_ms": 156165,
       "name": "Bendito El Jale",
       "url": "https://open.spotify.com/track/6VDDraqswz5ygb6EepEn0f"
+    },
+    {
+      "album": {
+        "name": "Beretta (De Los Cerros La Escuela) [Remix]",
+        "url": "https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141177,
+      "name": "Beretta (De Los Cerros La Escuela) - Remix",
+      "url": "https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL"
     },
     {
       "album": {
@@ -7742,7 +7764,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206874,
       "name": "Designo King",
       "url": "https://open.spotify.com/track/4pjpUdYr0XhEY2W94uVMmu"
@@ -11728,6 +11750,24 @@
       "duration_ms": 158772,
       "name": "El Dos Sierras ( En Vivo)",
       "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
+    },
+    {
+      "album": {
+        "name": "El Dreamer",
+        "url": "https://open.spotify.com/album/5pVRdSXhERlGkWKJJroQG1"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183031,
+      "name": "El Dreamer",
+      "url": "https://open.spotify.com/track/4R3XsaL4ruqGpz5wysE15Y"
     },
     {
       "album": {
@@ -20877,6 +20917,24 @@
     },
     {
       "album": {
+        "name": "In God We Trust \"Ojo x Ojo\"",
+        "url": "https://open.spotify.com/album/17aUhrBJoyvMcbEEypKyfI"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170704,
+      "name": "In God We Trust \"Ojo x Ojo\"",
+      "url": "https://open.spotify.com/track/09bRQ5qMAGlwV3YOjT0LBX"
+    },
+    {
+      "album": {
         "name": "Pura Manzanita Vol. 4",
         "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
       },
@@ -21218,7 +21276,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 224815,
       "name": "Japan",
       "url": "https://open.spotify.com/track/5diddGNJH2svqZnsVfAwKk"
@@ -21240,6 +21298,24 @@
       "duration_ms": 214777,
       "name": "Jardines Del Humaya",
       "url": "https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK"
+    },
+    {
+      "album": {
+        "name": "Como No",
+        "url": "https://open.spotify.com/album/3LBq5noZaEzv3El5lX4hjA"
+      },
+      "artists": [
+        {
+          "name": "Lui Santo",
+          "url": "https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211797,
+      "name": "Jc Hats",
+      "url": "https://open.spotify.com/track/4lJwQtUzMRKsIj0SR8xIpI"
     },
     {
       "album": {
@@ -26469,6 +26545,24 @@
     },
     {
       "album": {
+        "name": "Los Santos",
+        "url": "https://open.spotify.com/album/7uSFTLmo6TZOU45cFAxqeK"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192656,
+      "name": "Los Santos",
+      "url": "https://open.spotify.com/track/5Ruua1465gWq8hkxagc2fX"
+    },
+    {
+      "album": {
         "name": "Los Sierra",
         "url": "https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk"
       },
@@ -26484,6 +26578,24 @@
       "duration_ms": 168672,
       "name": "Los Sierra",
       "url": "https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW"
+    },
+    {
+      "album": {
+        "name": "El Inicio De Un Legado",
+        "url": "https://open.spotify.com/album/2VzhoaRitfpfRDJCXMEgxC"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202714,
+      "name": "Los Sue\u00f1os Se Trabajan - Live",
+      "url": "https://open.spotify.com/track/3SgkDOWnDMmyylBGvpy6AK"
     },
     {
       "album": {
@@ -28463,6 +28575,28 @@
     },
     {
       "album": {
+        "name": "Mi Civilizaci\u00f3n",
+        "url": "https://open.spotify.com/album/6WuFuI17rKq6buRcfv049d"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "Abel Bustillos",
+          "url": "https://open.spotify.com/artist/2YlgpU3Bj4LLN2RclY6RSE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222581,
+      "name": "Mi Civilizaci\u00f3n",
+      "url": "https://open.spotify.com/track/64iMcqtWuxcoatirwuEIsi"
+    },
+    {
+      "album": {
         "name": "Mi Cuernito",
         "url": "https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r"
       },
@@ -28816,7 +28950,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 149786,
       "name": "Mi Villano Favorito",
       "url": "https://open.spotify.com/track/1cR8nVkndIFT45CXKRHzT6"
@@ -28892,7 +29026,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 149351,
       "name": "Mil x Hora",
       "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
@@ -29062,7 +29196,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177540,
       "name": "MJ",
       "url": "https://open.spotify.com/track/71N2IlXaxkOAqyci6tjwES"
@@ -30896,7 +31030,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178414,
       "name": "OBC",
       "url": "https://open.spotify.com/track/0H6ZvvBboSzN0WJm9bWm8s"
@@ -37506,7 +37640,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 174656,
       "name": "Tipo Tren",
       "url": "https://open.spotify.com/track/2FPmtKyOMBJUZ9CwF47ODS"
@@ -39052,6 +39186,24 @@
       "duration_ms": 268434,
       "name": "Vida Recia (En Vivo)",
       "url": "https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a"
+    },
+    {
+      "album": {
+        "name": "Reconectarme",
+        "url": "https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136915,
+      "name": "Vida Rockstar",
+      "url": "https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS"
     },
     {
       "album": {

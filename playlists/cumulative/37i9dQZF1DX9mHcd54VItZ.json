@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Coasters",
+  "description": "The best new and classic South African Rock. Cover: Spoegwolf",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 255722,
       "name": "Berge",
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
@@ -2812,7 +2812,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 151641,
       "name": "Chuck",
       "url": "https://open.spotify.com/track/7cxgyzxC9ZfL5KepeaE3qO"
@@ -4043,6 +4043,24 @@
     },
     {
       "album": {
+        "name": "Kleiner",
+        "url": "https://open.spotify.com/album/1LYVEZzgNtSpZKK4k4xOnS"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Die Re\u00ebnmasjien",
+      "url": "https://open.spotify.com/track/15zECs6Gbi1MFSKdxEUZ1F"
+    },
+    {
+      "album": {
         "name": "Die Ritme Boer",
         "url": "https://open.spotify.com/album/5xdoman8l0daDSvMiceNoh"
       },
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 178239,
       "name": "Die Ruimte",
       "url": "https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG"
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158861,
       "name": "Goeie Mense",
       "url": "https://open.spotify.com/track/3mnosU3nSxmnBXr0BS4Xtd"
@@ -7608,7 +7626,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 225000,
       "name": "Hou Aan Droom",
       "url": "https://open.spotify.com/track/0mwBPej1O7NKAfkytU8eCX"
@@ -7800,6 +7818,24 @@
       "duration_ms": 225357,
       "name": "Huistoe",
       "url": "https://open.spotify.com/track/3BXo6bYGZPRaqrnk4e7u1r"
+    },
+    {
+      "album": {
+        "name": "Hulle Eet Nie Wat Ons Eet Nie",
+        "url": "https://open.spotify.com/album/0niNeyISvmEt79f8xrLXkJ"
+      },
+      "artists": [
+        {
+          "name": "Klaas Zaberman en die Nie-reisende Reserwes",
+          "url": "https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Hulle Eet Nie Wat Ons Eet Nie",
+      "url": "https://open.spotify.com/track/20HfeypQPG777wfit4p7r4"
     },
     {
       "album": {
@@ -9770,7 +9806,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
@@ -12846,7 +12882,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 123506,
       "name": "Read Your Mind",
       "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
@@ -13586,7 +13622,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204507,
       "name": "Self Respect",
       "url": "https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ"
@@ -14792,6 +14828,28 @@
     {
       "album": {
         "name": "Stadig",
+        "url": "https://open.spotify.com/album/7Edw5GZL5izoP3VbDyewf3"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Stadig",
+      "url": "https://open.spotify.com/track/0CYKkA90kXsGRV5xLrWX6L"
+    },
+    {
+      "album": {
+        "name": "Stadig",
         "url": "https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy"
       },
       "artists": [
@@ -15538,7 +15596,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 168846,
       "name": "Take Me Where The Stars Never Sleep",
       "url": "https://open.spotify.com/track/0kb0V0aWNaJWs221hZdlFW"
@@ -17328,7 +17386,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 223950,
       "name": "Vir die Aardskinders",
       "url": "https://open.spotify.com/track/2yC8CJg1kaNSkiWqAaU6uj"
@@ -18158,7 +18216,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183195,
       "name": "Wit Limousine",
       "url": "https://open.spotify.com/track/4YYLLYqTj8xa86ZDlC6NLl"

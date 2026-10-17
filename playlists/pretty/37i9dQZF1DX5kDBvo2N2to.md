@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,428 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,437 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 54 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
 | 55 | [Ta Mig Aldrig Härifrån](https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ta Mig Aldrig Härifrån](https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ) | 3:07 |
 | 56 | [Berusade ord](https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Berusade ord](https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi) | 2:55 |
-| 57 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 |
+| 57 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 |
 | 58 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
-| 59 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 |
-| 60 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
-| 61 | [Barfotabarn](https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:45 |
+| 59 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
+| 60 | [Barfotabarn](https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:45 |
+| 61 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 |
 | 62 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 |
 | 63 | [Half Of Me](https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Half Of Me](https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo) | 2:58 |
 | 64 | [Mimosa](https://open.spotify.com/track/1mYHXcfv89s3NfqYUKdqMW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 3:12 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 77 | [Dansa med mig själv](https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dansa med mig själv](https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc) | 3:30 |
 | 78 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 |
 | 79 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 |
-| 80 | [Higher Calling](https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Higher Calling](https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx) | 3:43 |
-| 81 | [Säg nåt](https://open.spotify.com/track/0hbUHe3JbfwuVQ3QsGOUNE) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 3:06 |
+| 80 | [Säg nåt](https://open.spotify.com/track/0hbUHe3JbfwuVQ3QsGOUNE) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 3:06 |
+| 81 | [Higher Calling](https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Higher Calling](https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx) | 3:43 |
 | 82 | [Jack & Coke](https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Jack & Coke](https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ) | 2:49 |
 | 83 | [Okej att dö](https://open.spotify.com/track/1QXT6Yey0NngUJsmdZVm2g) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:49 |
 | 84 | [Först in, Sist ut](https://open.spotify.com/track/0yIoYFKspCirfE8mTldWxB) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Först in, Sist ut](https://open.spotify.com/album/3ieiu13lpbzceAksD7sv7B) | 3:03 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 89 | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 |
 | 90 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:25 |
 
-Snapshot ID: `AAAAABb+nq+TqdI63JduwKuW/5NCrrBb`
+Snapshot ID: `AAAAAGfp5ya6njASyFYFeICBaFKVAgFu`

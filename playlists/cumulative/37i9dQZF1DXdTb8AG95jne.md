@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: jisokuryClub\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ADOY\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,406 songs - 3 day 13 hr 12 min
+1,407 songs - 3 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 | 2025-07-24 |
 | [Goodbye, fall](https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Goodbye, fall](https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND) | 3:41 | 2021-12-12 | 2022-07-29 |
 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 | 2025-08-04 | 2025-09-26 |
+| [Gooood](https://open.spotify.com/track/4g8AXp1bLK1qFeAs0MiYlo) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Gooood](https://open.spotify.com/album/4DgJ7yMpewn4kwOnqFq8OM) | 3:34 | 2026-10-16 |  |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 | 2025-08-19 |
 | [Grassland](https://open.spotify.com/track/5zypY0T6WMsBHcCVWwuCVi) | [Nuz](https://open.spotify.com/artist/01C8gGSy00yG51FOfWzGpT) | [Grassland](https://open.spotify.com/album/5EvOCewuL8RLnCI1ZCYBwL) | 6:21 | 2022-03-31 | 2022-04-15 |
 | [Green Mango](https://open.spotify.com/track/7HI3dV26p9W8S19RwwCIzc) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Green Mango](https://open.spotify.com/album/52TzRhG6P7aq24ZHCsKgrf) | 4:34 | 2026-04-20 | 2026-07-23 |
@@ -632,7 +633,7 @@
 | [JUST KOREAN POP](https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [JUST KOREAN POP](https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB) | 3:30 | 2022-08-18 | 2022-09-06 |
 | [Just thinking about you](https://open.spotify.com/track/13z0tjS1JNelA2fEdxRcET) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 3:37 | 2023-04-18 | 2023-07-06 |
 | [Keep](https://open.spotify.com/track/6KipJW2V9Jqc45DhUTJoUF) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [KEEP](https://open.spotify.com/album/2vjV8Tbn6ozGFX7q9Gx7w7) | 3:34 | 2024-11-29 | 2025-01-31 |
-| [Keep On](https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gongbu](https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM) | 3:50 | 2026-05-20 |  |
+| [Keep On](https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gongbu](https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM) | 3:50 | 2026-05-20 | 2026-10-17 |
 | [Keep you there](https://open.spotify.com/track/0OU5FvDjS9tavAUK63xwcz) | [Penda](https://open.spotify.com/artist/0HTTljEZfygRWNhK4r8pzC) | [In the box](https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb) | 2:27 | 2022-03-31 | 2022-04-20 |
 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-04 | 2025-10-30 |
 | [Kids Return](https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Kids Return](https://open.spotify.com/album/5APljpDUTlWR1k4r0wAidl) | 4:06 | 2025-10-20 | 2025-11-14 |

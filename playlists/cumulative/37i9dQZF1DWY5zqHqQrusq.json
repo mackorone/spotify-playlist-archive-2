@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Chill, take a long walk and clear your mind. Cover: Maali",
+  "description": "Chill, take a long walk and clear your mind. Cover: Shad Mziki",
   "name": "Barefoot and Free",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 155062,
       "name": "Deja",
       "url": "https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr"
@@ -570,6 +570,24 @@
       "duration_ms": 149386,
       "name": "Don\u2019t Play",
       "url": "https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV"
+    },
+    {
+      "album": {
+        "name": "Dua (Alternate Version)",
+        "url": "https://open.spotify.com/album/0DRrsykwSDSXEHjYBAMjVj"
+      },
+      "artists": [
+        {
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211482,
+      "name": "Dua - Alternate Version",
+      "url": "https://open.spotify.com/track/0z27AgBe4LTpuJAIVxJefo"
     },
     {
       "album": {
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158479,
       "name": "Nitangoja",
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
@@ -1926,6 +1944,24 @@
       "duration_ms": 191277,
       "name": "Nyamaza",
       "url": "https://open.spotify.com/track/67Uei6pIFzXZ0SsQDZj69G"
+    },
+    {
+      "album": {
+        "name": "N\u00eengwendete",
+        "url": "https://open.spotify.com/album/6feXNJEPgGqY5ymP9UxaKE"
+      },
+      "artists": [
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "N\u00eengwendete",
+      "url": "https://open.spotify.com/track/1N3p7FQMoPpSHS3XsNJDJk"
     },
     {
       "album": {
@@ -2601,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Somebody's Daughter",
+        "url": "https://open.spotify.com/album/4j7sVVrEg5X31to9IxWDIC"
+      },
+      "artists": [
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Somebody's Daughter",
+      "url": "https://open.spotify.com/track/2Wx7nu8Bz9Aw5IvoRGXAuX"
+    },
+    {
+      "album": {
         "name": "Tawasifu Ya Moyo",
         "url": "https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv"
       },
@@ -3018,7 +3072,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 154020,
       "name": "Usiku Wa Manane",
       "url": "https://open.spotify.com/track/2Ss0BWhI2ntDbbKV45dOmg"

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Logan Staats
 
-786 songs - 1 day 23 hr 40 min
+788 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 | 2025-09-05 |  |
 | [Feel the Heat](https://open.spotify.com/track/5xRGp9QQwcGvaFUYPnMzia) | [The Wild Palominos](https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO) | [Feel the Heat](https://open.spotify.com/album/5yluL8wxkEXTQkiKwG9IJw) | 2:58 | 2026-02-20 | 2026-03-19 |
 | [Felled](https://open.spotify.com/track/4DAQr8fZceW6ia4M1noVvU) | [Hollow Twin](https://open.spotify.com/artist/1K7OgXdlCvZ0Ype0vP54v2) | [Soft Hearts](https://open.spotify.com/album/2yHVgEiQl2UqwtdNwSda47) | 3:21 | 2022-05-13 | 2022-06-18 |
-| [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 | 2025-10-17 |  |
+| [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 | 2025-10-17 | 2026-10-17 |
 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 | 2023-04-21 | 2024-02-18 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-24 | 2025-10-18 |
 | [Fireweed and Daisies](https://open.spotify.com/track/1SUpWPBldrEqSt9VcIPInu) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Peacemaker](https://open.spotify.com/album/3yA6xAkawkoKgqTfiPFl90) | 4:16 | 2026-10-02 |  |
@@ -464,6 +464,7 @@
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-06-23 | 2025-10-18 |
 | [Medicine Wheel](https://open.spotify.com/track/69DxXDSJWyrLHZ78LBRHz5) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Medicine Wheel](https://open.spotify.com/album/7AfK1Loj25IJe7HdzsbPjI) | 3:46 | 2025-11-07 | 2026-02-08 |
 | [Memories and Empties](https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Memories and Empties](https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr) | 3:22 | 2025-11-14 |  |
+| [Mental Revenge](https://open.spotify.com/track/6fnhdx3jxyBUfqNlyoBHM7) | [Greg Keelor](https://open.spotify.com/artist/1uY1yygywc5FqBISxIGHRE), [Jimmy Bowskill](https://open.spotify.com/artist/56tPV0R1ZBfesgI9cGFrx7) | [Mental Revenge](https://open.spotify.com/album/6K4fOu5BUIcfGiIGlE3zpM) | 3:56 | 2026-10-16 |  |
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-10-28 | 2023-08-26 |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-07 | 2025-11-07 |
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 | 2025-10-18 |
@@ -738,6 +739,7 @@
 | [War Cry](https://open.spotify.com/track/7C2ojelGd6Pc6w1qOjECcj) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [War Cry](https://open.spotify.com/album/4kPEjIl5E72ElHbYxcQFS8) | 1:35 | 2024-10-25 | 2025-11-07 |
 | [Water From A Stone](https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [Water From A Stone](https://open.spotify.com/album/3LwJ8hTTXCKzW4Trh9ZpCn) | 4:24 | 2022-05-13 | 2023-04-22 |
 | [Way of the Triune God \- Hallelujah Version](https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Can I Take My Hounds to Heaven?](https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi) | 3:28 | 2023-04-21 | 2025-10-18 |
+| [We Both Care](https://open.spotify.com/track/1IXIgmdRsJGKNOfkOr1vlM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [We Both Care](https://open.spotify.com/album/3ATMs8puzPxt5ecEXlpqZe) | 3:37 | 2026-10-16 |  |
 | [we could use a little more](https://open.spotify.com/track/2ADoliMS6xPxeMg9C9iFdn) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [we could use a little more](https://open.spotify.com/album/4OoBAByMLtXKP2J1wjf89f) | 3:32 | 2026-03-20 | 2026-05-09 |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/track/2t9ALXxbk3N6jwSgpUqehE) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/album/4T39qyzsn7ZeFcq6SqmPoT) | 3:35 | 2022-07-15 | 2022-10-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alberto Vazquez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,388 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,386 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 9 | [Un Vals](https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Vals](https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX) | 3:09 |
 | 10 | [Invéntame](https://open.spotify.com/track/4grTL63MpNOP7tlqD2nq0x) | [Mar Solís](https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl) | [Invéntame](https://open.spotify.com/album/3ipTzoAYTxhwWmgQpl2hX3) | 3:28 |
 | 11 | [No Volveré](https://open.spotify.com/track/0ZurpDmerVE3LO5T03umQx) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [No Supe Decirte Adiós](https://open.spotify.com/album/5fffhFRgu2sU3atARR08OX) | 4:28 |
-| 12 | [Infidelidad](https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Despecho a 2 Voces](https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY) | 2:33 |
+| 12 | [Fuertes Declaraciones](https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Fuertes Declaraciones](https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A) | 2:31 |
 | 13 | [Con un Polvo y Otro Polvo](https://open.spotify.com/track/5i8rqPKr4eK92GbScBVWT3) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachazo](https://open.spotify.com/album/6KoKbuvrKOwj6p2SvQUJbI) | 3:14 |
 | 14 | [Una Mujer Como la Suya](https://open.spotify.com/track/1hGC0iYUrO6gvkRUogGCwH) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Bandera Blanca](https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0) | 3:34 |
-| 15 | [Fuertes Declaraciones](https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Fuertes Declaraciones](https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A) | 2:31 |
+| 15 | [Infidelidad](https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Despecho a 2 Voces](https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY) | 2:33 |
 | 16 | [Una Derrota Así](https://open.spotify.com/track/11TFR26C3CFhkWmRhvH8je) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Una Derrota Así](https://open.spotify.com/album/3r2keczpuKZSXyq2Qxz097) | 3:08 |
 | 17 | [Si No Piensas Cambiar \- En Vivo Desde la Plaza de Toros la México](https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Monumental \(En Vivo Desde la Plaza de Toros la México\)](https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE) | 4:34 |
 | 18 | [Sabor A Ti](https://open.spotify.com/track/5HQjTtE2s7SxaMI87WoPxH) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sabor A Ti](https://open.spotify.com/album/0vlDCouQwOpSd2p299lUJ9) | 2:39 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 31 | [Cielito Lindo \- Live](https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cielito Lindo \(Live\)](https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B) | 3:26 |
 | 32 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
 | 33 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
-| 34 | [Tu Eterno Enamorado](https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Tu Eterno Enamorado](https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV) | 3:02 |
-| 35 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
+| 34 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
+| 35 | [Tu Eterno Enamorado](https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Tu Eterno Enamorado](https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV) | 3:02 |
 | 36 | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero \(A Caballo\)](https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5) | 4:11 |
 | 37 | [Te Vi](https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Endeble](https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y) | 3:10 |
 | 38 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 79 | [Golpe Inesperado](https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V) | [Los del Norteño Sax](https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB) | [Mariachi y Norteño](https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02) | 3:18 |
 | 80 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 
-Snapshot ID: `AAAAAMlNF9VRodSHd244+liCa918QSuR`
+Snapshot ID: `AAAAAKAVxh/Hm24fMt165ErmbjXfplx2`

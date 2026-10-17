@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,044 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,046 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'M KNOWIN' \(feat\. KenTheMan\)](https://open.spotify.com/track/3f72wceJz35zVhehff2reA) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MOTION PACK](https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8) | 3:21 |
-| 2 | [Hide It](https://open.spotify.com/track/2lHFM6fXSqvoKyDyIMIcQ7) | [SWAE](https://open.spotify.com/artist/4hTYekkMnNjpuHFTFNJ1qi), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Hide It](https://open.spotify.com/album/21DgU2Mf37NartRgz8oxGp) | 3:19 |
-| 3 | [Baby Wyd? \(feat\. Lakeyah\)](https://open.spotify.com/track/080BnzVFYXgNR6f4jtyzkP) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:55 |
-| 4 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
-| 5 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 |
+| 1 | [Hide It](https://open.spotify.com/track/2lHFM6fXSqvoKyDyIMIcQ7) | [SWAE](https://open.spotify.com/artist/4hTYekkMnNjpuHFTFNJ1qi), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Hide It](https://open.spotify.com/album/21DgU2Mf37NartRgz8oxGp) | 3:19 |
+| 2 | [Baby Wyd? \(feat\. Lakeyah\)](https://open.spotify.com/track/080BnzVFYXgNR6f4jtyzkP) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:55 |
+| 3 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
+| 4 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 |
+| 5 | [I'M KNOWIN' \(feat\. KenTheMan\)](https://open.spotify.com/track/3f72wceJz35zVhehff2reA) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MOTION PACK](https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8) | 3:21 |
 | 6 | [Get It Together](https://open.spotify.com/track/51KzcZ351FYyu7x5MQzOZL) | [1TakeTheGreat](https://open.spotify.com/artist/7EkLbjaNuDQFmB5WAyzSWN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Get It Together](https://open.spotify.com/album/45f4FqlTCBQx6Jk4TwAVm3) | 3:20 |
 | 7 | [Worst Thing](https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:27 |
 | 8 | [Hear My Cry](https://open.spotify.com/track/60ElfiVjf4AlzIq2BC5z1X) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Hear My Cry](https://open.spotify.com/album/0JMoNRUAl0DJe7PP2d2eRz) | 3:19 |

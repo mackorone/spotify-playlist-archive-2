@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "algorave_\u02cb\u02cf\u2661\u02ce\u02ca\u02d7_hyper_sleaze.electro_glitch_\u2606\u25bd\u2606_\u23fb\u23fb\u23fb_w/meatcomputer_[FINAL]_[REAL]__coverartist.DJ_Dave",
+  "description": "greatest.album.of.all.time_hyper_sleaze.electro_glitch_\u2606\u25bd\u2606_power_[FINAL]_[REAL]__coverartist.sophiastel",
   "name": "hyp3r.wav",
   "tracks": [
     {
@@ -8233,6 +8233,36 @@
     },
     {
       "album": {
+        "name": "Expression On Your Face / Fembot",
+        "url": "https://open.spotify.com/album/0IXzSs819M2QT126j6heUM"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218011,
+      "name": "Expression On Your Face - Robyn Remix",
+      "url": "https://open.spotify.com/track/6aPloFOrVltPzjn2SYNxCj"
+    },
+    {
+      "album": {
         "name": "Short Term Agreement",
         "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
       },
@@ -9502,7 +9532,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 162822,
       "name": "for_once_v3",
       "url": "https://open.spotify.com/track/3cIahdkljyBBmPuC5qkHEo"
@@ -12106,7 +12136,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213537,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
@@ -13175,6 +13205,32 @@
     },
     {
       "album": {
+        "name": "Dreamer+ Deluxe",
+        "url": "https://open.spotify.com/album/5wt80PRhJGSuAIZobVgTEV"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/6XZYe9lQoMoAMhsLjisZvg"
+        },
+        {
+          "name": "Spr1te",
+          "url": "https://open.spotify.com/artist/3XHSXSRk6VlYeU47uM8VZP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "In The Snow - Snelle & Spr1te Remix",
+      "url": "https://open.spotify.com/track/5z5v3dd40oy0z4JnGH51bk"
+    },
+    {
+      "album": {
         "name": "IN THIS (feat. Cash Cobain)",
         "url": "https://open.spotify.com/album/3N9nENhwITwssTP88KMxl3"
       },
@@ -13652,7 +13708,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 151173,
       "name": "Jag\u00f3dki (Blueberries)",
       "url": "https://open.spotify.com/track/7cY5xd2WjW0Qx30QvBRL3w"
@@ -15442,7 +15498,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 126882,
       "name": "Light",
       "url": "https://open.spotify.com/track/5M6VYDe6QSy8MWNYBrCXA0"
@@ -20778,6 +20834,24 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233708,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb"
     },
     {
       "album": {
@@ -26648,7 +26722,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 153646,
       "name": "True Love In Holland",
       "url": "https://open.spotify.com/track/35p8yu9BsZ82qLWE3PcHs5"
@@ -27132,6 +27206,28 @@
       "duration_ms": 194793,
       "name": "Up Down",
       "url": "https://open.spotify.com/track/3pY21ApAPtOTMKMTYWwSFy"
+    },
+    {
+      "album": {
+        "name": "U|\\|K|\\|0W@BL3 D1$T@|\\|C3",
+        "url": "https://open.spotify.com/album/1cCtwMdneXesQ1TTXzgzMf"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "U|\\|K|\\|0W@BL3 D1$T@|\\|C3",
+      "url": "https://open.spotify.com/track/0T8WijpKxuO3KDMLTtw5ZQ"
     },
     {
       "album": {
@@ -28226,6 +28322,24 @@
       "duration_ms": 167244,
       "name": "whiplash",
       "url": "https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd"
+    },
+    {
+      "album": {
+        "name": "Whistlestop",
+        "url": "https://open.spotify.com/album/5X2qMIAhX4QtqmBf6XGCsL"
+      },
+      "artists": [
+        {
+          "name": "10cust",
+          "url": "https://open.spotify.com/artist/6DiPezP89TUiglm7lNxsn8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Whistlestop",
+      "url": "https://open.spotify.com/track/1bToVwoTuqyQZHcbZw8lsS"
     },
     {
       "album": {

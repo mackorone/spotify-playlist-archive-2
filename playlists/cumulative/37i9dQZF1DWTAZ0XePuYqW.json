@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "UTILITY & Vv Pete's got that big energy. ",
+  "description": "B2K's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 189625,
       "name": "95 South",
       "url": "https://open.spotify.com/track/45Nc6oQkbwLOQ3Os3wTghx"
@@ -7689,6 +7689,24 @@
     },
     {
       "album": {
+        "name": "Lil Freak",
+        "url": "https://open.spotify.com/album/2mWcr2R2jFzgcBNjCl20dm"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160742,
+      "name": "Lil Freak",
+      "url": "https://open.spotify.com/track/0s5xdk6ueWF2BFhab7tBUn"
+    },
+    {
+      "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
@@ -9364,6 +9382,28 @@
       "duration_ms": 199170,
       "name": "Off one",
       "url": "https://open.spotify.com/track/66hzYcnfcmb2eSO3DYPFJH"
+    },
+    {
+      "album": {
+        "name": "Off Top (feat. Leila Dey)",
+        "url": "https://open.spotify.com/album/2Ocu7Vh6vGaYbUgQwiVyax"
+      },
+      "artists": [
+        {
+          "name": "DJ Agile",
+          "url": "https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed"
+        },
+        {
+          "name": "Leila Dey",
+          "url": "https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "Off Top (feat. Leila Dey)",
+      "url": "https://open.spotify.com/track/4gDFGQYW7JKS3VGD9bUrFF"
     },
     {
       "album": {
@@ -14416,7 +14456,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"

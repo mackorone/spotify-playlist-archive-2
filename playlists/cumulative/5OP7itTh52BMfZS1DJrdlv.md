@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2026 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-208 songs - 11 hr 5 min
+209 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2025-07-01 | 2025-12-20 |
 | [That's Christmas to Me](https://open.spotify.com/track/2U9kDk5mlHYunC7PvbZ8KX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:02 | 2025-07-01 | 2025-12-04 |
 | [The Christmas Song](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:18 | 2023-12-09 | 2025-07-02 |
-| [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/6m0vO299PSkO0Zl5F4Gvd0) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:25 | 2025-09-19 |  |
+| [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/6m0vO299PSkO0Zl5F4Gvd0) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:25 | 2025-09-19 | 2026-10-17 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2025-07-01 |  |
 | [The Christmas Stick](https://open.spotify.com/track/7roxhEz0gRoyWzvZdgKSeY) | [Bubble & Squeak](https://open.spotify.com/artist/3EiL2CvPuHzkj2AZgDh1zX) | [The Christmas Stick](https://open.spotify.com/album/2lhrxeEOVmfOzhIFiLMTkE) | 3:38 | 2023-12-24 | 2025-07-02 |
 | [The Christmas Sweater](https://open.spotify.com/track/4neC8JZBnxcwVXb9hrKe3I) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:43 | 2023-12-09 | 2025-07-02 |
@@ -200,6 +200,7 @@
 | [What Christmas Means to Me](https://open.spotify.com/track/40sbttz649ixUd5JnCnQZB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:35 | 2023-12-09 | 2025-07-02 |
 | [What Christmas Means to Me \(feat\. Stevie Wonder\)](https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:40 | 2025-07-01 | 2025-12-18 |
 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 | 2025-07-01 |  |
+| [What If I Call \(Merry Christmas, i miss you\)](https://open.spotify.com/track/0XYALktGbnHJ1TdW0Oz5KN) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [What If I Call \(Merry Christmas, i miss you\)](https://open.spotify.com/album/4tBtqVg9XCTtPkxHGynwNb) | 4:06 | 2026-10-16 |  |
 | [Where Are You Christmas \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 4:07 | 2025-07-01 |  |
 | [White Christmas](https://open.spotify.com/track/3aHDEjyb4ZMpdj0G2xDGUM) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [White Christmas](https://open.spotify.com/album/7ERFXgfx9To2P8DH9a7pW8) | 3:24 | 2025-07-01 | 2025-09-20 |
 | [White Christmas](https://open.spotify.com/track/7hzgg84aVpUctPPcZTIH0S) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [White Christmas](https://open.spotify.com/album/5fl4eCd8Z4eb4aIZiMRpER) | 2:32 | 2026-07-27 |  |

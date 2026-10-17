@@ -4673,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3lZstgDdP8HK7UhW8nbmMv"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170439,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0FLyIRYB5bLP3g4Twj2OeE"
+    },
+    {
+      "album": {
         "name": "A Campfire Christmas",
         "url": "https://open.spotify.com/album/2Ke04lXjTXcjxvu8f61TkL"
       },
@@ -5006,6 +5024,24 @@
       "duration_ms": 233298,
       "name": "Wrap You Up",
       "url": "https://open.spotify.com/track/3kpk1EOVsnZIID0Bfgf1Za"
+    },
+    {
+      "album": {
+        "name": "wrapped",
+        "url": "https://open.spotify.com/album/0I8rdVH8xmtoNLSs5wfuG4"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "wrapped",
+      "url": "https://open.spotify.com/track/4P9G6gHP2NnNXhwDA3qVuB"
     },
     {
       "album": {

@@ -12835,6 +12835,28 @@
     },
     {
       "album": {
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH"
       },

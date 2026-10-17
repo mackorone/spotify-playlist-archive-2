@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 26638,
+  "num_followers": 26641,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5CU1e8NNzZSkl7JCQf7EgvqftN",
+  "snapshot_id": "AAAAAI/qpquo+S/nAMTY4FHaouB+87g/",
   "tracks": [
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Vroeger - 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1",
-        "url": "https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO"
-      },
-      "artists": [
-        {
-          "name": "Ria Valk",
-          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Vrijgezellenflat",
-      "url": "https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Zingt",
         "url": "https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 493800,
       "name": "Wil u een stekkie? In een rijtuigie. Op een mooie Pinksterdag. M'n opa.",
       "url": "https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Vroeger - 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1",
+        "url": "https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO"
+      },
+      "artists": [
+        {
+          "name": "Ria Valk",
+          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Vrijgezellenflat",
+      "url": "https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX"
     },
     {
       "added_at": "2024-07-19 06:41:15",

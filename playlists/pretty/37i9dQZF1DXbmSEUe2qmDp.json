@@ -1,12 +1,12 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482894,
+  "num_followers": 482888,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFnH+ds/Ny1ZxtUCDuI6ow7icUA",
+  "snapshot_id": "AAAAAAiH1mzXQW6rcyJpDCVfwjjKpbwh",
   "tracks": [
     {
       "added_at": "2026-10-09 16:52:15",
@@ -159,26 +159,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Te Conhe\u00e7o de Onde?",
-        "url": "https://open.spotify.com/album/6Ucn1KxdT6QbSGnNORbzX9"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9borah Alves",
-          "url": "https://open.spotify.com/artist/4yBreqlpQ3AtuH9M6wPu67"
-        },
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 145963,
-      "name": "Te Conhe\u00e7o de Onde?",
-      "url": "https://open.spotify.com/track/20nB8sd9Foj2VFLz0834hp"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Eu Fico e N\u00e3o Vou Embora (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Fh88ovBWKcfCcxaP1GlEx"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 176640,
       "name": "Eu Fico e N\u00e3o Vou Embora - Ao Vivo",
       "url": "https://open.spotify.com/track/584F4rmUDc04HkIEvURwyr"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Te Conhe\u00e7o de Onde?",
+        "url": "https://open.spotify.com/album/6Ucn1KxdT6QbSGnNORbzX9"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9borah Alves",
+          "url": "https://open.spotify.com/artist/4yBreqlpQ3AtuH9M6wPu67"
+        },
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 145963,
+      "name": "Te Conhe\u00e7o de Onde?",
+      "url": "https://open.spotify.com/track/20nB8sd9Foj2VFLz0834hp"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e9o e Thiago",
-          "url": "https://open.spotify.com/artist/5ZyTNQsXtSTaBOdPZMkGIT"
-        },
-        {
-          "name": "Pedro Sanchez e Thiago",
-          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
-        }
-      ],
-      "duration_ms": 182570,
-      "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Resenha dos Gordinhos, Ep. 3",
         "url": "https://open.spotify.com/album/6K7hsNuNL6D9k3HCZZsuph"
       },
@@ -419,18 +399,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Donas do Bar em Goi\u00e2nia - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fgxf3hh1OXOjCDjPi5Dbk"
+        "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
       },
       "artists": [
         {
-          "name": "Donas do Bar",
-          "url": "https://open.spotify.com/artist/6fF0MJ2PuMeOuiJ1soyMcY"
+          "name": "Th\u00e9o e Thiago",
+          "url": "https://open.spotify.com/artist/5ZyTNQsXtSTaBOdPZMkGIT"
+        },
+        {
+          "name": "Pedro Sanchez e Thiago",
+          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
         }
       ],
-      "duration_ms": 158982,
-      "name": "Duzent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SES1umyru6s8TpgcZqEi3"
+      "duration_ms": 182570,
+      "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -451,6 +435,22 @@
       "duration_ms": 207907,
       "name": "Hoje Eu Tentei - Ao Vivo",
       "url": "https://open.spotify.com/track/5GptceQdY7ZSQ91jha8M2t"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Donas do Bar em Goi\u00e2nia - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fgxf3hh1OXOjCDjPi5Dbk"
+      },
+      "artists": [
+        {
+          "name": "Donas do Bar",
+          "url": "https://open.spotify.com/artist/6fF0MJ2PuMeOuiJ1soyMcY"
+        }
+      ],
+      "duration_ms": 158982,
+      "name": "Duzent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SES1umyru6s8TpgcZqEi3"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
+        "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2novUiRmG54NHsEmTumUBL"
+      },
+      "artists": [
+        {
+          "name": "Thainara e Thatiane",
+          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/1abnsyQr0I5v6uZWw6YWlz"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
         "name": "Esquec\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 198794,
       "name": "Esquec\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
-        "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2novUiRmG54NHsEmTumUBL"
-      },
-      "artists": [
-        {
-          "name": "Thainara e Thatiane",
-          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/1abnsyQr0I5v6uZWw6YWlz"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Mais 18",
-        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
-      },
-      "artists": [
-        {
-          "name": "Jayne Martins",
-          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
-        },
-        {
-          "name": "Lucca e Mateus",
-          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
-        }
-      ],
-      "duration_ms": 163605,
-      "name": "Mais 18",
-      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Melhor Que Nada",
         "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
       },
@@ -1099,18 +1079,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+        "name": "Mais 18",
+        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
       },
       "artists": [
         {
-          "name": "Bia Bosco",
-          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+          "name": "Jayne Martins",
+          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
+        },
+        {
+          "name": "Lucca e Mateus",
+          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
         }
       ],
-      "duration_ms": 196994,
-      "name": "Casquinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
+      "duration_ms": 163605,
+      "name": "Mais 18",
+      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
+        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+      },
+      "artists": [
+        {
+          "name": "Bia Bosco",
+          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+        }
+      ],
+      "duration_ms": 196994,
+      "name": "Casquinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
         "name": "Do Vinho ao Caf\u00e9",
         "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Mulher Sabe, Mulher Sente",
-        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
-      },
-      "artists": [
-        {
-          "name": "Gabi Fernandes",
-          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
-        }
-      ],
-      "duration_ms": 166470,
-      "name": "Mulher Sabe, Mulher Sente",
-      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Primeira L\u00e1grima (Ao Vivo)",
         "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 163448,
       "name": "Primeira L\u00e1grima - Ao Vivo",
       "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Mulher Sabe, Mulher Sente",
+        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
+      },
+      "artists": [
+        {
+          "name": "Gabi Fernandes",
+          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
+        }
+      ],
+      "duration_ms": 166470,
+      "name": "Mulher Sabe, Mulher Sente",
+      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Baila Que Baila (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
+        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
       },
       "artists": [
         {
-          "name": "Bruno Mulato e Leandro",
-          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
-        },
-        {
-          "name": "William & Bidiko",
-          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
+          "name": "Renato & Giovanelli",
+          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
         }
       ],
-      "duration_ms": 169386,
-      "name": "Baila Que Baila - Ao Vivo",
-      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
+      "duration_ms": 193285,
+      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1355,22 +1351,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
-      },
-      "artists": [
-        {
-          "name": "Renato & Giovanelli",
-          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
         "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 146613,
       "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
       "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Baila Que Baila (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mulato e Leandro",
+          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
+        },
+        {
+          "name": "William & Bidiko",
+          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Baila Que Baila - Ao Vivo",
+      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
     },
     {
       "added_at": "2026-10-09 16:52:15",

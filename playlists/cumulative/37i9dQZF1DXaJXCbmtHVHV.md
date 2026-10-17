@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Morgan Wallen
+> Top country hits you know and love! Cover: Riley Green
 
 614 songs - 1 day 9 hr 13 min
 

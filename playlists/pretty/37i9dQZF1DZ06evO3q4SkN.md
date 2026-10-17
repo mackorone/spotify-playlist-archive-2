@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646 likes - 38 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 644 likes - 38 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Los Encinos De Sinaloa",
-  "num_followers": 84634,
+  "num_followers": 84641,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANudJeIVFhcYWkx6bGJTkpgQRVug",
+  "snapshot_id": "AAAAAKKa7v+UE4KdWoGH4E4Vjqh+5I7f",
   "tracks": [
     {
       "added_at": "2026-09-18 21:31:17",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "En Vivo Desde El Estadio GNP",
-        "url": "https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Amor Secreto - En Vivo",
-      "url": "https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "En Vivo Desde El Estadio GNP",
+        "url": "https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Amor Secreto - En Vivo",
+      "url": "https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Los Dos Carnales Con Sax",
-        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 227554,
-      "name": "El Estr\u00e9s",
-      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Desde Houston (En Vivo)",
         "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 265791,
       "name": "Mi Pasado y Mi Presente - En Vivo",
       "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Los Dos Carnales Con Sax",
+        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 227554,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "En Vivo Con Banda y Norte\u00f1o",
         "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 254973,
       "name": "Aliados del tiempo - En Vivo",
       "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "En Vivo Desde Chicago",
-        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
       "artists": [
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 163877,
-      "name": "Margarita Margarita (En Vivo)",
-      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
+      "duration_ms": 184124,
+      "name": "Caminos Diferentes - En Vivo",
+      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+        "name": "En Vivo Desde Chicago",
+        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 184124,
-      "name": "Caminos Diferentes - En Vivo",
-      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
+      "duration_ms": 163877,
+      "name": "Margarita Margarita (En Vivo)",
+      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
+        "name": "Puras Piezas Caras (En Vivo)",
+        "url": "https://open.spotify.com/album/5q7s6m57I82kf9lIprPrIH"
+      },
+      "artists": [
+        {
+          "name": "Nivel C",
+          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
+        },
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "duration_ms": 154695,
+      "name": "Mujer Honrada - En vivo",
+      "url": "https://open.spotify.com/track/36yGINJ01oLXwQ5U0J74aA"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
         "name": "El Ranchero",
         "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 173053,
       "name": "Chingo A Mi Madre - En Vivo",
       "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
-        "name": "Puras Piezas Caras (En Vivo)",
-        "url": "https://open.spotify.com/album/5q7s6m57I82kf9lIprPrIH"
-      },
-      "artists": [
-        {
-          "name": "Nivel C",
-          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
-        },
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 154695,
-      "name": "Mujer Honrada - En vivo",
-      "url": "https://open.spotify.com/track/36yGINJ01oLXwQ5U0J74aA"
     },
     {
       "added_at": "2026-09-18 21:31:17",

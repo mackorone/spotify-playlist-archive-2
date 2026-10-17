@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ルサンチマン RUSANTI\-MAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,949 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,964 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 94 | [doodle spring](https://open.spotify.com/track/0iMhH8x6MM9jCscW4QTsvx) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO) | [doodle spring](https://open.spotify.com/album/33cHBy8VpEfEmWThsH21vZ) | 3:41 |
 | 95 | [Mirror](https://open.spotify.com/track/7wcPsQEMgRaxq9fVGBRXv8) | [jan and naomi](https://open.spotify.com/artist/4V7c0eZEtXXBFJLY6WpSmT) | [Circle Ⅰ](https://open.spotify.com/album/54m57BfcMCXR4YIIryHoBl) | 3:11 |
 | 96 | [drag me down](https://open.spotify.com/track/3LgM1mFiY4PpcoSdtF7eH1) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [drag me down](https://open.spotify.com/album/5s53l0OUWk8e6PVDxvJi06) | 3:59 |
-| 97 | [nowhere towns](https://open.spotify.com/track/6QMo0BTHtYWK7ihkgch49z) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [nowhere towns](https://open.spotify.com/album/2rj36W54PjlFlBzYi1XfR1) | 1:48 |
+| 97 | [Nowhere Towns](https://open.spotify.com/track/6QMo0BTHtYWK7ihkgch49z) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [Nowhere Towns](https://open.spotify.com/album/2rj36W54PjlFlBzYi1XfR1) | 1:48 |
 | 98 | [ぱくぱくちー](https://open.spotify.com/track/7Fbi9zC4mtHc05EkHT8clJ) | [むにゃむにゃプラスチック。](https://open.spotify.com/artist/0bEVxr3vWjJtV1G1YJXxNC) | [ぱくぱくちー](https://open.spotify.com/album/0QNBr2Aq5Ntw3A1hgg3i1Q) | 2:10 |
 | 99 | [Nostarojiura](https://open.spotify.com/track/0itUgkNYRcKRq2znmanv8w) | [百円音盤](https://open.spotify.com/artist/6K33TVo7tVooGISoGifEEw) | [Nostarojiura](https://open.spotify.com/album/3ajUd7KoU5m8rIRQQQGNvl) | 4:31 |
 
-Snapshot ID: `AAAAAE7AfU6NQIoIFdxGJ/tIbo30vNsD`
+Snapshot ID: `AAAAAOitLW9KQ8NhkoVp1rSlP35L5k/J`

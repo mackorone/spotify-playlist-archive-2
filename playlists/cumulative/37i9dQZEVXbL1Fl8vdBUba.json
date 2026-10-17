@@ -544,7 +544,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 167428,
       "name": "After",
       "url": "https://open.spotify.com/track/6xNVBgIRbb9cHKR1ipzIfm"
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 255905,
       "name": "En Las Noches Frias",
       "url": "https://open.spotify.com/track/0a0JiZejbYYem1W31fldde"
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -4288,7 +4288,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -7498,7 +7498,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -8368,7 +8368,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -9302,6 +9302,10 @@
         {
           "name": "THE FAVORITES",
           "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
         }
       ],
       "date_added": "2026-09-25",
@@ -11133,6 +11137,24 @@
     },
     {
       "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322466,
+      "name": "Siempre Sere",
+      "url": "https://open.spotify.com/track/4ZGk5h0sIfeunWEKzXEoHr"
+    },
+    {
+      "album": {
         "name": "Cielo De Tambores",
         "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
       },
@@ -11476,7 +11498,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "SORNERO",
       "url": "https://open.spotify.com/track/0SEULBjjfkZEJUBF8Jxnou"
@@ -12151,6 +12173,24 @@
     },
     {
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -12802,7 +12842,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172426,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
@@ -13503,6 +13543,36 @@
     },
     {
       "album": {
+        "name": "YO QUIERO (REMIX)",
+        "url": "https://open.spotify.com/album/1lm2EZq4pOP5EOQdv4msEQ"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362908,
+      "name": "YO QUIERO - REMIX",
+      "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"
+    },
+    {
+      "album": {
         "name": "Yo s\u00e9",
         "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
       },
@@ -13592,7 +13662,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183535,
       "name": "YOGURCITO",
       "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"

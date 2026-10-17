@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Brray",
+  "description": "The best of Latin Trap. Cover: K\u00f8ddy G",
   "name": "Trap Land",
   "tracks": [
     {
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 245581,
       "name": "COMO JERRY",
       "url": "https://open.spotify.com/track/13Mh3ZUT2fYhCRzfqI3D7Q"
@@ -9001,6 +9001,28 @@
     },
     {
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/2mYOmFVZM3TiNP3dQKiXXw"
+      },
+      "artists": [
+        {
+          "name": "J Castle",
+          "url": "https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk"
+        },
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/5RWGLnu3d48nz6quRe3d3W"
+    },
+    {
+      "album": {
         "name": "MJM",
         "url": "https://open.spotify.com/album/75RvZzgUh99Gr3Ihi18TEp"
       },
@@ -10370,6 +10392,10 @@
         {
           "name": "THE FAVORITES",
           "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
         }
       ],
       "date_added": "2026-10-03",
@@ -10583,6 +10609,28 @@
     },
     {
       "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "PLATO TIPICO",
+      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
+    },
+    {
+      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/6nRkR4C2MCnIGpagBypyIU"
       },
@@ -10594,7 +10642,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177662,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0JvBiJKZuJRl3wKDwGxJBV"
@@ -11680,7 +11728,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 147600,
       "name": "Sharkesha",
       "url": "https://open.spotify.com/track/0063HjUDAtjV2AmgcGfv0l"
@@ -12462,6 +12510,24 @@
       "duration_ms": 167832,
       "name": "Tay",
       "url": "https://open.spotify.com/track/4tmdfH3f6KVx6I6LHkCgqg"
+    },
+    {
+      "album": {
+        "name": "TBT 16",
+        "url": "https://open.spotify.com/album/29uk1uHe8X13oqiWzKxeyN"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192683,
+      "name": "TBT 16",
+      "url": "https://open.spotify.com/track/6l1cPKY7lKQkVqz8tCaLpS"
     },
     {
       "album": {

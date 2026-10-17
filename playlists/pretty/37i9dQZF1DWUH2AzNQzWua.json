@@ -1,12 +1,12 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3843803,
+  "num_followers": 3843595,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANCQLVj+IedT6GxUqGCohgE+AGqc",
+  "snapshot_id": "AAAAAM8zrNls1/h51VQ40wi7EBKqm82C",
   "tracks": [
     {
       "added_at": "2024-07-05 22:41:32",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
         "name": "Once (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "Supply And Demand",
         "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/1BCSXIQn5NuqM19MjZuOQY"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/6wZI4mdT8JwXgkGURnBQiq"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 276786,
       "name": "She Will Be Loved - Acoustic",
       "url": "https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/1BCSXIQn5NuqM19MjZuOQY"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/6wZI4mdT8JwXgkGURnBQiq"
     },
     {
       "added_at": "2024-07-05 22:41:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 285866,
       "name": "Let It Go - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     }
   ],
   "unique_name": "Acoustic Hits: Oldies but Goodies",

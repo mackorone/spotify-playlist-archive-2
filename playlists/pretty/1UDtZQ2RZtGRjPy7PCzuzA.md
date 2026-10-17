@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[霏](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,667 songs - 4 day 0 hr 12 min
+[霏](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,668 songs - 4 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1675,5 +1675,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1665 | [4Me 4Me](https://open.spotify.com/track/07oVB2BTnBp1RBQ5gdbWLA) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [4Me 4Me](https://open.spotify.com/album/2mvBM4pcHRBTHbGJzolFdt) | 3:30 |
 | 1666 | [Wild Bitches](https://open.spotify.com/track/2Xn57fghAJ50iF3DahiXvp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 3:35 |
 | 1667 | [Relax with Me](https://open.spotify.com/track/2aB3eXzbt6a5ueOV2zfciT) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 2:47 |
+| 1668 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 
-Snapshot ID: `AAAOFYtNyjhQkPkWYjQempCAW/r2zoSJ`
+Snapshot ID: `AAAOFsW9GqpWrXK91BQnCOkLVo5B9dRB`

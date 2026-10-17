@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 196271,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
@@ -2220,6 +2220,28 @@
       "duration_ms": 244110,
       "name": "Cuerpo a Cuerpo",
       "url": "https://open.spotify.com/track/59cCMgCXQNLCk4AEnXr5GJ"
+    },
+    {
+      "album": {
+        "name": "Cuerpo Bendito",
+        "url": "https://open.spotify.com/album/2uzp4TH0xAjRhfHi8pqE2B"
+      },
+      "artists": [
+        {
+          "name": "Young Fatty",
+          "url": "https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184001,
+      "name": "Cuerpo Bendito",
+      "url": "https://open.spotify.com/track/2w9m7aQFXdLd86Xj8hyzqL"
     },
     {
       "album": {
@@ -5789,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "CABRA PERO NO UN CABR\u00d3N",
+        "url": "https://open.spotify.com/album/6orcTpD0ik3tq42aWMhdHQ"
+      },
+      "artists": [
+        {
+          "name": "Emilio Cabra",
+          "url": "https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154043,
+      "name": "MORRONGA",
+      "url": "https://open.spotify.com/track/6orAByU3FW4krQESveMtxO"
+    },
+    {
+      "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
       },
@@ -8594,6 +8634,24 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "album": {
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170083,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
     },
     {
       "album": {

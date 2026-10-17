@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 168 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 168 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 117 | [Blood](https://open.spotify.com/track/3E1q57YmMqnpdcRu9ASuly) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:28 |
 | 118 | [El Pleito](https://open.spotify.com/track/03tGrmMB0dvXPIflRCE8qL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 2:34 |
 | 119 | [Miserable Without Your Love](https://open.spotify.com/track/0BzuQrmm8Ko3ageOau60kX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Special Edition\)](https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX) | 3:23 |
-| 120 | [Life in a Box](https://open.spotify.com/track/4WTVDq3QSaQYR8C2ry06bd) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [You're a Man Now, Boy \(Deluxe\)](https://open.spotify.com/album/50EXi4hlRIPF7fLQcWCXyp) | 4:22 |
-| 121 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 120 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 121 | [Life in a Box](https://open.spotify.com/track/4WTVDq3QSaQYR8C2ry06bd) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [You're a Man Now, Boy \(Deluxe\)](https://open.spotify.com/album/50EXi4hlRIPF7fLQcWCXyp) | 4:22 |
 | 122 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 |
 | 123 | [War Against Love](https://open.spotify.com/track/2hF4sKG55HlGpUIsoNFfLG) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:47 |
 | 124 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 157 | [The Proposal](https://open.spotify.com/track/3CkPYwsbZHm1Y9jtEPh5tJ) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Turn The Lights On](https://open.spotify.com/album/5enHYKdCZgw3oetOUqIibl) | 3:48 |
 | 158 | [Close To Me](https://open.spotify.com/track/3CSvP5YmGganmbwIwJMbLO) | [Kyndall](https://open.spotify.com/artist/3m5xTc0hyBdOW6m2S5XC1P) | [Close To Me \- Single](https://open.spotify.com/album/53OshynhGdLFJbxpI0TfrU) | 3:28 |
 | 159 | [SWEETER](https://open.spotify.com/track/7M7RRSVit64ax4cU39OlEw) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/40fZVfUQqIagBqSXsH5E69) | 3:43 |
-| 160 | [Power](https://open.spotify.com/track/2VbOKBfUboYGlbSJquVBGe) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 4:03 |
-| 161 | [Stand For Something](https://open.spotify.com/track/5JEP7XDAwowpBEwEEyrs3I) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:47 |
+| 160 | [Stand For Something](https://open.spotify.com/track/5JEP7XDAwowpBEwEEyrs3I) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:47 |
+| 161 | [Power](https://open.spotify.com/track/2VbOKBfUboYGlbSJquVBGe) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 4:03 |
 | 162 | [MAKE IT KNOWN](https://open.spotify.com/track/5qfVTbcSnH2pd0DRCWHBcU) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:22 |
 | 163 | [Save Your Soul](https://open.spotify.com/track/7E3fkUiPNGnSGi91ViISV7) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 2:45 |
 | 164 | [Dreams](https://open.spotify.com/track/6wjQqganLZrqmBgqfiH9BX) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 2:19 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 167 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 168 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcfCkgAAAAAzlrJIduiYn13KPepYtTB4`
+Snapshot ID: `AcfIMgAAAAAMvEOYYF7su8RJS60j6Gva`

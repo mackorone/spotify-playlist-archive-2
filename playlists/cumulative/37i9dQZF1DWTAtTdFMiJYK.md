@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Anubha Bajaj
 
-466 songs - 1 day 1 hr 51 min
+467 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2024-01-10 | 2026-09-05 |
 | [Aasmani](https://open.spotify.com/track/1cnYfIyxflsgDQz3ND5WWf) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aasmani](https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN) | 3:19 | 2026-03-03 |  |
 | [Ab Na Laut Paayenge](https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:02 | 2026-05-10 |  |
-| [Achaar Samachaar](https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt) | [Faizan](https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x), [Ghabraahat Intensifies](https://open.spotify.com/artist/0MIx96qVdmIUSO8ifuKAlh), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [Achaar Samachaar](https://open.spotify.com/album/6j7mJeoD9OjVipnxoUnWyR) | 3:34 | 2026-09-04 |  |
+| [Achaar Samachaar](https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt) | [Faizan](https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x), [Ghabraahat Intensifies](https://open.spotify.com/artist/0MIx96qVdmIUSO8ifuKAlh), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [Achaar Samachaar](https://open.spotify.com/album/6j7mJeoD9OjVipnxoUnWyR) | 3:34 | 2026-09-04 | 2026-10-17 |
 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 | 2025-12-03 | 2026-01-15 |
 | [Adhoora](https://open.spotify.com/track/5uUvWtVugbC9V2WO0HRdjD) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Tiny Truths](https://open.spotify.com/album/16esmkd0g0tOElJUS0I5eK) | 3:04 | 2025-12-03 | 2026-01-15 |
 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 | 2026-02-20 | 2026-04-02 |
@@ -306,6 +306,7 @@
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 | 2024-06-11 |
 | [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 | 2025-11-11 | 2026-03-11 |
 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 | 2025-02-18 | 2025-10-11 |
+| [Neenillade](https://open.spotify.com/track/1AnfXISgiKDaXLYHYuPSvn) | [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Vivek Kiran](https://open.spotify.com/artist/0gAOUi1kq4d2QBOBgkIota), [Gaana Samskruth](https://open.spotify.com/artist/28acYuin4RNdTRBr6VpFNE) | [Neenillade](https://open.spotify.com/album/38hrDlO78IrsjnccaHnJBX) | 4:26 | 2026-10-10 |  |
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-01-10 | 2026-09-05 |
 | [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 | 2022-09-29 | 2024-03-30 |
 | [Noor](https://open.spotify.com/track/5LFYRTZ5bL1ErM2Kjvpu4W) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/3vUOmgB7uT9hSU3FESC5fX) | 3:19 | 2024-03-20 | 2024-04-03 |

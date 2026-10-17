@@ -1,12 +1,12 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 34199,
+  "num_followers": 34235,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvgagAzBjcpdE9xLqUkHbeojrtv",
+  "snapshot_id": "AAAAAJxpUsLFGPvrPfpVIwmrWSu+AJ/u",
   "tracks": [
     {
       "added_at": "2026-09-22 16:46:40",
@@ -259,26 +259,18 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "Attracted to you",
-        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
+        "name": "Full Train / Light on the Hill",
+        "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
       },
       "artists": [
         {
-          "name": "Uilou",
-          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
-        },
-        {
-          "name": "AFAMoo",
-          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
-        },
-        {
-          "name": "Lily June",
-          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
         }
       ],
-      "duration_ms": 162711,
-      "name": "Attracted to you",
-      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
+      "duration_ms": 353124,
+      "name": "Full Train",
+      "url": "https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -299,18 +291,26 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "Full Train / Light on the Hill",
-        "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
+        "name": "Attracted to you",
+        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
       },
       "artists": [
         {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+          "name": "Uilou",
+          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
+        },
+        {
+          "name": "AFAMoo",
+          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
+        },
+        {
+          "name": "Lily June",
+          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
         }
       ],
-      "duration_ms": 353124,
-      "name": "Full Train",
-      "url": "https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf"
+      "duration_ms": 162711,
+      "name": "Attracted to you",
+      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "coincidence",
-        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
-      },
-      "artists": [
-        {
-          "name": "RUI HAYAKAWA",
-          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
-        }
-      ],
-      "duration_ms": 383351,
-      "name": "coincidence",
-      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "higher",
         "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 214733,
       "name": "higher",
       "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "coincidence",
+        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
+      },
+      "artists": [
+        {
+          "name": "RUI HAYAKAWA",
+          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
+        }
+      ],
+      "duration_ms": 383351,
+      "name": "coincidence",
+      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -443,26 +443,6 @@
       "duration_ms": 212000,
       "name": "Sounds Good",
       "url": "https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
-        "name": "Odoriko",
-        "url": "https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG"
-      },
-      "artists": [
-        {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
-        },
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 289880,
-      "name": "Odoriko",
-      "url": "https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -507,6 +487,26 @@
       "duration_ms": 259200,
       "name": "sign",
       "url": "https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "Odoriko",
+        "url": "https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 289880,
+      "name": "Odoriko",
+      "url": "https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "DONGRHYTHM",
-        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 146867,
-      "name": "Let's go",
-      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "ROMP",
         "url": "https://open.spotify.com/album/1aVH41SAin716xpep2O53d"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 259333,
       "name": "I SYNC",
       "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "ON-Netoh",
-        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
-      },
-      "artists": [
-        {
-          "name": "DJ Nobu",
-          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
-        }
-      ],
-      "duration_ms": 375875,
-      "name": "Wwww",
-      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "Lost City Archives, Vol. 4",
         "url": "https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 294435,
       "name": "Clockwork Dub",
       "url": "https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "ON-Netoh",
+        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
+      },
+      "artists": [
+        {
+          "name": "DJ Nobu",
+          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
+        }
+      ],
+      "duration_ms": 375875,
+      "name": "Wwww",
+      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
+      },
+      "artists": [
+        {
+          "name": "Yu Seki",
+          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        }
+      ],
+      "duration_ms": 163255,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 243626,
       "name": "Fabric",
       "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
-      },
-      "artists": [
-        {
-          "name": "Yu Seki",
-          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
-        },
-        {
-          "name": "Yohji Igarashi",
-          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
-        }
-      ],
-      "duration_ms": 163255,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
     },
     {
       "added_at": "2026-09-22 16:46:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,655 likes - 200 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,893 likes - 200 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 24 | [Dag 2](https://open.spotify.com/track/0SS5tW0Ta4rNqtvtWxP38B) | [Obsimo](https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI), [Inkkø](https://open.spotify.com/artist/2GYgQ9HxcrxzKil0Z1jGw2) | [Dag 2](https://open.spotify.com/album/09FvxOfiGPINJGyA5XYJrL) | 3:54 |
 | 25 | [Eat Me Better](https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Eat Me Better](https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk) | 3:08 |
 | 26 | [I Need Your Lovin'](https://open.spotify.com/track/5Tjkz9SXrtWdwQmEm11ZPS) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [I Need Your Lovin'](https://open.spotify.com/album/2uukapgbed8sqMqHQrmlTI) | 2:48 |
-| 27 | [Track 4](https://open.spotify.com/track/1tTVe5i68OkoKbYV5gW0Xw) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Open Up](https://open.spotify.com/album/5Dnh2kVI6E4t4ecmlbPTte) | 0:00 |
+| 27 | [Feels Easy](https://open.spotify.com/track/1tTVe5i68OkoKbYV5gW0Xw) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa), [devin xo](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [Open Up](https://open.spotify.com/album/5Dnh2kVI6E4t4ecmlbPTte) | 2:12 |
 | 28 | [JOY \(Shit You Make Me Feel\)](https://open.spotify.com/track/5IHS5zIm7YG641JTXbwyJY) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Shit You Make Me Feel\)](https://open.spotify.com/album/5ifEOf2h67SLAzkQyVQvhp) | 3:10 |
 | 29 | [Talk to Me](https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Talk to Me](https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg) | 3:42 |
 | 30 | [Just Breathe \(feat\. Angela McCluskey\)](https://open.spotify.com/track/4RT0nMreou5Z6WIKes3YwD) | [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn), [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Just Breathe \(feat\. Angela McCluskey\)](https://open.spotify.com/album/3JlQyGf2hQ0OC4mZygMrxj) | 3:03 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 199 | [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 |
 | 200 | [CAN'T FIND YOU](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [CAN'T FIND YOU](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 |
 
-Snapshot ID: `AAAAAGTvn76XpB/O2tO6n2VCGaqtFr3O`
+Snapshot ID: `AAAAAOLP9IQXYTAK7rJvyg5/xSdZNF0q`

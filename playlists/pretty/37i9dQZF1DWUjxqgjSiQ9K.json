@@ -1,33 +1,13 @@
 {
   "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Redimi2",
-  "num_followers": 692530,
+  "num_followers": 692601,
   "original_name": "\u00c9xitos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIGRogFUX1uwnTpF98k4QJAc6L5Y",
+  "snapshot_id": "AAAAAIu1HkEnQeuaFX7/CFTSRG2YUZ4M",
   "tracks": [
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
-        "name": "HIPOTENUSA",
-        "url": "https://open.spotify.com/album/6ynb4cA7QCWrHKygvHm6lk"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "HIPOTENUSA",
-      "url": "https://open.spotify.com/track/6Wep9zwGrDcf6XggANEEwx"
-    },
     {
       "added_at": "2026-10-09 04:00:04",
       "album": {
@@ -203,6 +183,26 @@
     {
       "added_at": "2026-10-09 04:00:04",
       "album": {
+        "name": "HIPOTENUSA",
+        "url": "https://open.spotify.com/album/6ynb4cA7QCWrHKygvHm6lk"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "HIPOTENUSA",
+      "url": "https://open.spotify.com/track/6Wep9zwGrDcf6XggANEEwx"
+    },
+    {
+      "added_at": "2026-10-09 04:00:04",
+      "album": {
         "name": "Confia Y Cree",
         "url": "https://open.spotify.com/album/1gV7sqHWoSwt19VEkUnn5Z"
       },
@@ -219,6 +219,50 @@
       "duration_ms": 210001,
       "name": "Confia Y Cree",
       "url": "https://open.spotify.com/track/6hxwW34jn2v5KDFdSyOUQt"
+    },
+    {
+      "added_at": "2026-10-16 08:57:04",
+      "album": {
+        "name": "DIME QU\u00c9",
+        "url": "https://open.spotify.com/album/5A10vmQ6xrq65UX5bBOxlG"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "DIMEMOII",
+          "url": "https://open.spotify.com/artist/2P1eTCVMJJEteC2oafsg86"
+        },
+        {
+          "name": "Debby Velazquez",
+          "url": "https://open.spotify.com/artist/129U94mt8KufOY13SIs9OG"
+        }
+      ],
+      "duration_ms": 240727,
+      "name": "DIME QU\u00c9",
+      "url": "https://open.spotify.com/track/5L2FqFhNzVYHqnKh4X7cHv"
+    },
+    {
+      "added_at": "2026-10-16 08:57:04",
+      "album": {
+        "name": "Heme Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3GInOybWRXxTQkA8xNZa3Q"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "duration_ms": 298609,
+      "name": "Heme Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7yytLAitqIOKnOmkhBh1Xc"
     },
     {
       "added_at": "2026-10-09 04:00:04",
@@ -751,22 +795,6 @@
     {
       "added_at": "2026-10-09 04:00:04",
       "album": {
-        "name": "Vida en Mis Brazos",
-        "url": "https://open.spotify.com/album/6rFnGtErVJVTv81lx8b3TZ"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 187742,
-      "name": "Vida en Mis Brazos",
-      "url": "https://open.spotify.com/track/159dJlHaSe2EdkXw5bSzCF"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
         "name": "Con Yahweh 357",
         "url": "https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD"
       },
@@ -1015,22 +1043,6 @@
       "duration_ms": 262466,
       "name": "RESUCIT\u00d3",
       "url": "https://open.spotify.com/track/0JHF91AC5uRDwB6sPjC4y6"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
-        "name": "Todo Es Tuyo",
-        "url": "https://open.spotify.com/album/6PgTGEACb0aw53fBvymWkh"
-      },
-      "artists": [
-        {
-          "name": "Felipe S. Santos",
-          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
-        }
-      ],
-      "duration_ms": 526701,
-      "name": "Todo Es Tuyo",
-      "url": "https://open.spotify.com/track/0NTLfJpoK217J40IFWIgsn"
     },
     {
       "added_at": "2026-10-09 04:00:04",

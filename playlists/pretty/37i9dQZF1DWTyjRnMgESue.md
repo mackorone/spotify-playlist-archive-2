@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Medium Build
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,678 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,690 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 49 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 |
 | 50 | [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 |
 | 51 | [Anytime, Anyplace, Anyhow](https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Anytime, Anyplace, Anyhow](https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ) | 3:47 |
-| 52 | [For The First Time, Again](https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [For The First Time, Again](https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy) | 3:33 |
+| 52 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
 | 53 | [Undo Me](https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Exit Strategy](https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD) | 4:21 |
-| 54 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
+| 54 | [For The First Time, Again](https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [For The First Time, Again](https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy) | 3:33 |
 | 55 | [Geese](https://open.spotify.com/track/1S8EiawyV6O11rtcCfcxgN) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:41 |
 | 56 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 |
 | 57 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 59 | [Back In My Body](https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Back In My Body](https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3) | 3:15 |
 | 60 | [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 |
 | 61 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
-| 62 | [Sad Country Songs](https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Sad Country Songs](https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ) | 3:04 |
-| 63 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Some Things Never Leave](https://open.spotify.com/album/6SjTebu5erz22LeboDHsML) | 4:00 |
+| 62 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Some Things Never Leave](https://open.spotify.com/album/6SjTebu5erz22LeboDHsML) | 4:00 |
+| 63 | [Sad Country Songs](https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Sad Country Songs](https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ) | 3:04 |
 | 64 | [Why Do Men Sing](https://open.spotify.com/track/3XOapyiO6vB1v6k9KqHz2O) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [My Days of 58](https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl) | 6:58 |
 | 65 | [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 |
 | 66 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 70 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
 | 71 | [Collarbones](https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [Collarbones](https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL) | 3:00 |
 | 72 | [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 |
-| 73 | [Sad and Beautiful World](https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Sad And Beautiful World](https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH) | 4:06 |
-| 74 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
-| 75 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
+| 73 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
+| 74 | [Sad and Beautiful World](https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Sad And Beautiful World](https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH) | 4:06 |
+| 75 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
 | 76 | [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 |
 | 77 | [Time Flies](https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Time Flies](https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt) | 3:10 |
 | 78 | [Where’s Your Love Now \- Waxahatchee Version](https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Where’s Your Love Now \(Waxahatchee Version\)](https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [Somebody Nobody Gets Over](https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Somebody Nobody Gets Over](https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf) | 2:47 |
 | 100 | [Caught Up In the Past](https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 4:23 |
 
-Snapshot ID: `AAAAAJLHxJ2SF+NDHAkqVDVftBZmya5z`
+Snapshot ID: `AAAAAB3nq2/Xrd5sXZFJpIDxkUPSVXSw`

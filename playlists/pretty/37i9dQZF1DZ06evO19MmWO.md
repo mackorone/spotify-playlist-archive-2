@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 47 | [Who Do You Love](https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:14 |
 | 48 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 
-Snapshot ID: `as7GAAAAAAAyYW7Pq+DlAQoXmjhYZh8L`
+Snapshot ID: `as7GAAAAAAA7T5gQml1tXcCHNd6xzkQW`

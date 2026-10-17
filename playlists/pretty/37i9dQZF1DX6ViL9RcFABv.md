@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Fernando Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,540 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,559 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 3 | [Fora da Lei](https://open.spotify.com/track/3Y4mO92nJBF84iCsvEgWNC) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC), [Carolina de Deus](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Fora da Lei](https://open.spotify.com/album/4EPPAMluLDQfQGZ4FoAsh0) | 3:37 |
 | 4 | [Houvesse Mais Tempo](https://open.spotify.com/track/6j5yQLewppYrEiGdON4E5W) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Houvesse Mais Tempo](https://open.spotify.com/album/119jUwxTkF6iZlcBccjtfz) | 3:05 |
 | 5 | [Beijos](https://open.spotify.com/track/03o1ahRUawH7rTQASCcmw0) | [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [Beijos](https://open.spotify.com/album/1AElvHGR02z4o54MPbMw0b) | 2:53 |
-| 6 | [Track 1](https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO) | [A flor do recomeço](https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT) | 0:00 |
+| 6 | [Homem louco](https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO) | [A flor do recomeço](https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT) | 3:21 |
 | 7 | [PEGA OU LARGA](https://open.spotify.com/track/2KFdCxV6nVqHaQogMnCkio) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [PEGA OU LARGA](https://open.spotify.com/album/2VX6c4eIikqcEYRd7qN4GQ) | 2:47 |
 | 8 | [Saia Da Mãe](https://open.spotify.com/track/3ULBoc9ijbqodEDcaC9Tp8) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Saia Da Mãe](https://open.spotify.com/album/1PIH68p3AQaRfCOP6Y9Fc8) | 2:57 |
 | 9 | [Jasmim](https://open.spotify.com/track/4D8n0c5mxOh3glkLeefmX2) | [Descendentes](https://open.spotify.com/artist/5DpVZE4NH0yveH86S2gcjh) | [Jasmim](https://open.spotify.com/album/5qpL9NgvGu6TjaBXaJfQKG) | 2:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Trigueirinha](https://open.spotify.com/track/5J02C6BJEWlRZKcoaIyz0F) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Trigueirinha](https://open.spotify.com/album/3Wa6egHHQhOzETuD1Oz7XD) | 2:39 |
 | 70 | [10MIN ∆](https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:48 |
 
-Snapshot ID: `AAAAAK8pxOboIzdw04qRdS4LM5DlaKo8`
+Snapshot ID: `AAAAAAds92dWo85DsZvEuq6T5oKkClY8`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,119 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,153 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 0:00 |
+| 1 | [Blood On The Dashboard](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 3:24 |
 | 2 | [Wanaka](https://open.spotify.com/track/6cC1oSsNTFhTWBARsvJHEh) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Wanaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6LrHbzX0dE7qd6i9PWTQst) | 2:14 |
 | 3 | [Where Is Gone?](https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Where Is Gone?](https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi) | 5:16 |
 | 4 | [Miles Away](https://open.spotify.com/track/29tK0Cf37wzjtvBVy8IWOF) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Miles Away](https://open.spotify.com/album/1M17nB0SPdGtYxbHvLbFcx) | 3:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [waiting for me](https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire \(Deluxe\)](https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO) | 3:14 |
 | 90 | [Laying Down](https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Laying Down](https://open.spotify.com/album/6aB7po4FUlk7DB0471ku6e) | 2:50 |
 
-Snapshot ID: `AAAAADpJMZLGsrne4E5CM3QdSn/x/CI5`
+Snapshot ID: `AAAAAMY0Kda2WGkqGc/+xaXBuOFtcT5Q`

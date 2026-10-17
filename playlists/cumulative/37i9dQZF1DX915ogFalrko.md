@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-282 songs - 16 hr 24 min
+283 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Is It That Deep?](https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Is It That Deep?](https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ) | 2:51 | 2026-10-12 |  |
 | [It Didn't Matter](https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [It Didn't Matter](https://open.spotify.com/album/3nHipi4hMVyH4Z3VUB6bW5) | 3:37 | 2026-07-31 | 2026-09-18 |
 | [jamais danser!](https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [jamais danser!](https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv) | 3:15 | 2026-09-25 |  |
+| [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 | 2026-10-15 |  |
 | [Jardin d'hiver](https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Jardin d'hiver](https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE) | 3:27 | 2025-07-18 |  |
 | [Jazz et thé vert](https://open.spotify.com/track/2WqcyORimSvaAniUP81WNf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Boulangerie, Vol\. 3 \(La Fine Équipe & Friends\)](https://open.spotify.com/album/31oCgGwCgtJZIvS4ERobSJ) | 3:32 | 2025-08-28 | 2026-06-27 |
 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 | 2026-06-06 |
@@ -221,7 +222,7 @@
 | [Southern Belle](https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Southern Belle](https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb) | 3:05 | 2025-12-04 | 2026-07-25 |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-07-18 | 2026-03-21 |
 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 | 2025-07-18 |  |
-| [Spooky](https://open.spotify.com/track/776zAlrJGk1SYM8CEbP0SN) | [Peggy Simms](https://open.spotify.com/artist/4VsWp6A8ee9dwWZmNpeJXh) | [Manhattan's Madmen](https://open.spotify.com/album/6ttUBNWvlIf5ZzhSUMCIqW) | 3:13 | 2026-09-17 |  |
+| [Spooky](https://open.spotify.com/track/776zAlrJGk1SYM8CEbP0SN) | [Peggy Simms](https://open.spotify.com/artist/4VsWp6A8ee9dwWZmNpeJXh) | [Manhattan's Madmen](https://open.spotify.com/album/6ttUBNWvlIf5ZzhSUMCIqW) | 3:13 | 2026-09-17 | 2026-10-17 |
 | [Starlight](https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Starlight](https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf) | 3:21 | 2026-01-30 |  |
 | [Steal](https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:39 | 2025-07-18 |  |
 | [Streets of Rage](https://open.spotify.com/track/4wlEaCubuqapwPLORGzF3q) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO) | [LOVE\. HURT\. REPEAT.](https://open.spotify.com/album/6rrhjvEEHny6k5nybt2Wc3) | 2:36 | 2026-04-17 | 2026-09-18 |

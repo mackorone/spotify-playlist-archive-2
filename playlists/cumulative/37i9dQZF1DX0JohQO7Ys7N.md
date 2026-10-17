@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Muthoka
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Kethan
 
-380 songs - 21 hr 25 min
+381 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Don't Chase Me Away](https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Don't Chase Me Away](https://open.spotify.com/album/3DeMDwnfny4OTTfSdkStY0) | 4:20 | 2026-07-15 | 2026-07-31 |
 | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0) | 3:16 | 2026-02-12 |  |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 | 2023-05-27 |
+| [Dua \- Alternate Version](https://open.spotify.com/track/0z27AgBe4LTpuJAIVxJefo) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Dua \(Alternate Version\)](https://open.spotify.com/album/0DRrsykwSDSXEHjYBAMjVj) | 3:31 | 2026-10-16 |  |
 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 | 2025-10-09 | 2026-05-29 |
 | [Ecstasy](https://open.spotify.com/track/14UFNgoMLPrQ9MXA8NrBBo) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 3:25 | 2023-03-03 | 2023-06-17 |
 | [Ecstasy](https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 3:25 | 2022-05-12 | 2023-03-11 |
@@ -168,7 +169,7 @@
 | [Kitenge](https://open.spotify.com/track/6Xt2YN0KckBlx9wRhZM97M) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/68ZCghHJcYTcaQ7vuxxFyP) | 3:18 | 2025-02-13 | 2025-02-21 |
 | [Kupendwa Na We](https://open.spotify.com/track/11J60sqzkA3kC4iHTzGCuL) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Kupendwa Na We](https://open.spotify.com/album/4o59AzJ3bVaTfr8zHVkmi6) | 3:38 | 2026-07-22 | 2026-07-31 |
 | [Kweli](https://open.spotify.com/track/5JPRVLg7QWAe0Trj0YlYtb) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Out With The Old](https://open.spotify.com/album/2pE7yxSv7xw2uRL8Sz6XDP) | 2:12 | 2025-02-13 | 2025-02-21 |
-| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |
+| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 | 2026-10-17 |
 | [Lavender](https://open.spotify.com/track/3nv3jjG5cQ8vRW6JeDyS06) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Hornsphere](https://open.spotify.com/artist/27PRI6n81ZU9wJUSbIiLUN) | [Hekaya](https://open.spotify.com/album/2kTsEaD1ueaIy6diuV7qKP) | 3:37 | 2026-07-15 | 2026-07-31 |
 | [Leila](https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Leila](https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu) | 3:04 | 2026-07-23 | 2026-07-31 |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-24 | 2022-11-25 |

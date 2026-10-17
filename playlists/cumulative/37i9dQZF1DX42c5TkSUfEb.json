@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 180613,
       "name": "How Many Days",
       "url": "https://open.spotify.com/track/0T2VUiQ3D1rcuUOrttAr07"
@@ -7831,6 +7831,24 @@
     },
     {
       "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371580,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
+    },
+    {
+      "album": {
         "name": "Sisters With Me",
         "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
       },
@@ -9100,7 +9118,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 226680,
       "name": "Things I've done",
       "url": "https://open.spotify.com/track/160RtgEld3QWI5bHOSna6i"
@@ -9870,6 +9888,28 @@
       "duration_ms": 232837,
       "name": "when the party's over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D"
     },
     {
       "album": {

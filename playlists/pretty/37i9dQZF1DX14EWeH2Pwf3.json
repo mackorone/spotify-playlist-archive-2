@@ -1,12 +1,12 @@
 {
   "description": "DAGOOD YL in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
-  "num_followers": 1117767,
+  "num_followers": 1117674,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI+U9BLJe33LvnCjEOZqDhteSqvH",
+  "snapshot_id": "AAAAAB2D2xs3QCFIwPjReLRnr7t6Cgxs",
   "tracks": [
     {
       "added_at": "2026-10-15 22:02:53",
@@ -379,6 +379,26 @@
       "duration_ms": 170625,
       "name": "PROIETTILI (feat. Noyz Narcos, Gu\u00e8, RRARI DAL TACCO)",
       "url": "https://open.spotify.com/track/6aCwrGD1DSdpTcE4NATPdR"
+    },
+    {
+      "added_at": "2026-10-16 08:20:33",
+      "album": {
+        "name": "KICHTA LOVA (feat. LILCR)",
+        "url": "https://open.spotify.com/album/4Hlww8NVHkkijLwDaZu7Pf"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        },
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "KICHTA LOVA (feat. LILCR)",
+      "url": "https://open.spotify.com/track/2bnG45ztHV2m26JsN3QyBi"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -1063,22 +1083,6 @@
       "duration_ms": 209962,
       "name": "COME SE NON FOSSI NEI GUAI",
       "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "DAL TACCO",
-        "url": "https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq"
-      },
-      "artists": [
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        }
-      ],
-      "duration_ms": 147157,
-      "name": "DAL TACCO",
-      "url": "https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI"
     }
   ],
   "unique_name": "Plus Ultra",

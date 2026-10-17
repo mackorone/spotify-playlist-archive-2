@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAABBE1b1K1P/k7uQBE21SCdkK2RY",
+  "snapshot_id": "AAAAAF8nqmj25rNmbbBCvof13WlijuYK",
   "tracks": [
     {
-      "added_at": "2026-09-19 03:24:47",
+      "added_at": "2026-10-16 09:23:54",
       "album": {
-        "name": "MARVELOUS (re:said)",
-        "url": "https://open.spotify.com/album/6daJO1ts4kcZTWAEW2f3u6"
+        "name": "re:said",
+        "url": "https://open.spotify.com/album/5pYtb9UdXTPTj1CQAOIiGG"
       },
       "artists": [
         {
@@ -20,15 +20,15 @@
           "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 525000,
-      "name": "MARVELOUS (re:said)",
-      "url": "https://open.spotify.com/track/3eNHUC3dvD1aU8aD4iEw8U"
+      "duration_ms": 458682,
+      "name": "THE NAME ABOVE ALL NAMES / Holy Forever (re:said)",
+      "url": "https://open.spotify.com/track/5Q3I1ThPd0dAcedLNCKHc7"
     },
     {
-      "added_at": "2026-09-19 03:24:47",
+      "added_at": "2026-10-16 09:23:54",
       "album": {
-        "name": "Here Comes The Church (with Tiffany Hudson)",
-        "url": "https://open.spotify.com/album/5JQ7WGi7qBFhy3aPRyf7FR"
+        "name": "Here Comes The Church - Second Service",
+        "url": "https://open.spotify.com/album/2Jm86EHV5qpI88soXUABuZ"
       },
       "artists": [
         {
@@ -36,13 +36,13 @@
           "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         },
         {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 432839,
-      "name": "Here Comes The Church (with Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/0iYugCuyeWGor2kqJ13GtE"
+      "duration_ms": 315565,
+      "name": "Bless Your Name (with Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/5pCMG86XKpAoriBRyV8ulc"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -87,6 +87,22 @@
       "duration_ms": 332977,
       "name": "Consider Him - Live",
       "url": "https://open.spotify.com/track/0yqqeDcVDTvVHi1Vp0pz2G"
+    },
+    {
+      "added_at": "2026-10-16 09:23:54",
+      "album": {
+        "name": "HOW GOOD GOD IS - IN THE ROOM!",
+        "url": "https://open.spotify.com/album/3SsU3XwIFuAnGtrhgOfkYG"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 276887,
+      "name": "HOW GOOD GOD IS - IN THE ROOM!",
+      "url": "https://open.spotify.com/track/3INsm99c4kyXoZXNHk5PAZ"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -161,6 +177,26 @@
       "url": "https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0"
     },
     {
+      "added_at": "2026-10-16 09:23:54",
+      "album": {
+        "name": "In The Morning (Live)",
+        "url": "https://open.spotify.com/album/01MlVdbcwuMcgom3vJUSZD"
+      },
+      "artists": [
+        {
+          "name": "House Worship",
+          "url": "https://open.spotify.com/artist/55MNpzoGb8zFUdembHY4as"
+        },
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "duration_ms": 467474,
+      "name": "In The Morning - Live",
+      "url": "https://open.spotify.com/track/2YYixsA9Q9NpBviTGW1MSL"
+    },
+    {
       "added_at": "2026-09-19 03:24:47",
       "album": {
         "name": "We Lift You Up (Live)",
@@ -179,6 +215,26 @@
       "duration_ms": 496653,
       "name": "We Lift You Up - Live",
       "url": "https://open.spotify.com/track/6m5G6wxD26gIaZo4ZM1aiO"
+    },
+    {
+      "added_at": "2026-10-16 09:23:54",
+      "album": {
+        "name": "Promised Land (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kendra Benay",
+          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Let Me Say - Live",
+      "url": "https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -231,26 +287,6 @@
       "duration_ms": 434707,
       "name": "What A God - Live",
       "url": "https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE"
-    },
-    {
-      "added_at": "2026-09-19 03:24:47",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/1nR8No6ZDCgz0okdJYRRmi"
-      },
-      "artists": [
-        {
-          "name": "Church of the King",
-          "url": "https://open.spotify.com/artist/1fHtdTA4INi8yTju4FQA55"
-        },
-        {
-          "name": "Dan Rivera",
-          "url": "https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31"
-        }
-      ],
-      "duration_ms": 271456,
-      "name": "Live Again - Live",
-      "url": "https://open.spotify.com/track/6gwnPUgelg1cb9Uw01sY0e"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -369,24 +405,36 @@
       "url": "https://open.spotify.com/track/7Bo3bNQF6DJ9mKHwvymFZb"
     },
     {
-      "added_at": "2026-09-19 03:24:47",
+      "added_at": "2026-10-16 09:23:54",
       "album": {
-        "name": "Serve The Lord (with Davies.)",
-        "url": "https://open.spotify.com/album/6GL0xc9SmrHWCpTFanibik"
+        "name": "Worship (Live)",
+        "url": "https://open.spotify.com/album/0g7DnZxV8gzPJnc240JxiS"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Davies.",
-          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
         }
       ],
-      "duration_ms": 269043,
-      "name": "Serve The Lord (with Davies.)",
-      "url": "https://open.spotify.com/track/65wfvYHOgRlw74MEu61R7h"
+      "duration_ms": 312260,
+      "name": "The Least I Could Say - Live",
+      "url": "https://open.spotify.com/track/5ts4tyulm2DoBLAKsGQnJu"
+    },
+    {
+      "added_at": "2026-10-16 09:23:54",
+      "album": {
+        "name": "Praise Upon Praise (Live at The River)",
+        "url": "https://open.spotify.com/album/3KiyUYsfBs3SNT3hDh6dND"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 378578,
+      "name": "Praise Upon Praise (Live at The River)",
+      "url": "https://open.spotify.com/track/3JguJhYBHNBUTGxIMJBthz"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -427,46 +475,6 @@
     {
       "added_at": "2026-09-19 03:24:47",
       "album": {
-        "name": "Love of God (Live)",
-        "url": "https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 468272,
-      "name": "Love of God (Live)",
-      "url": "https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn"
-    },
-    {
-      "added_at": "2026-09-19 03:24:47",
-      "album": {
-        "name": "The Highest (No Other Name)",
-        "url": "https://open.spotify.com/album/4UVh0LWobjrPWMl6qiW1rn"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        },
-        {
-          "name": "Kendra Benay",
-          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
-        }
-      ],
-      "duration_ms": 457441,
-      "name": "The Highest (No Other Name) - Live",
-      "url": "https://open.spotify.com/track/4WwAsRnQYWX5EfXPmQZhfK"
-    },
-    {
-      "added_at": "2026-09-19 03:24:47",
-      "album": {
         "name": "Live from Dwell Church",
         "url": "https://open.spotify.com/album/6mnaBXBAdgAcmivnP3jwOO"
       },
@@ -487,22 +495,6 @@
       "duration_ms": 475373,
       "name": "King of Kings (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/16olaIjmJHTlXBbihdtXl5"
-    },
-    {
-      "added_at": "2026-09-19 03:24:47",
-      "album": {
-        "name": "Breathe On It (From Austin)",
-        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 290981,
-      "name": "Breathe On It - From Austin",
-      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -547,6 +539,22 @@
       "duration_ms": 548333,
       "name": "No One Like You / Higher - Live",
       "url": "https://open.spotify.com/track/5nj4pfC3DgRBvMMPwDyrZX"
+    },
+    {
+      "added_at": "2026-10-16 09:23:54",
+      "album": {
+        "name": "Live At The Pavilion",
+        "url": "https://open.spotify.com/album/4gwH1pURCTStokKAQdhDVQ"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 345960,
+      "name": "You're Not Done Moving - Live",
+      "url": "https://open.spotify.com/track/7qVz5lrXzPrz9dqm4rWkbx"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -625,6 +633,26 @@
       "url": "https://open.spotify.com/track/3o3BfKHPjl3h5Cctpoqz4i"
     },
     {
+      "added_at": "2026-10-16 09:23:54",
+      "album": {
+        "name": "Never Let Me Go (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/5mjTOSaneMJbHpD0UUfs0c"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 429954,
+      "name": "Never Let Me Go (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/7kclJCORTXNTFHqmAkzGRp"
+    },
+    {
       "added_at": "2026-09-19 03:24:47",
       "album": {
         "name": "Beneath Your Wings (Live)",
@@ -679,22 +707,6 @@
       "duration_ms": 360173,
       "name": "FATHER'S HOUSE",
       "url": "https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN"
-    },
-    {
-      "added_at": "2026-09-19 03:24:47",
-      "album": {
-        "name": "Able (Live)",
-        "url": "https://open.spotify.com/album/68bRd6WuHC0HPuawqmievI"
-      },
-      "artists": [
-        {
-          "name": "Anthony Evans",
-          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
-        }
-      ],
-      "duration_ms": 517541,
-      "name": "Able - Live",
-      "url": "https://open.spotify.com/track/5aHmY3Dh5L7j5FmrVamnfd"
     },
     {
       "added_at": "2026-09-19 03:24:47",
@@ -1311,22 +1323,6 @@
     {
       "added_at": "2026-09-19 03:24:47",
       "album": {
-        "name": "Earth And Heaven Roar (Live)",
-        "url": "https://open.spotify.com/album/3uq2vwzLuwY4IYCsH8NyjV"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 302886,
-      "name": "Earth And Heaven Roar - Live",
-      "url": "https://open.spotify.com/track/5yfdzZGGwTPa8eFLh8L04c"
-    },
-    {
-      "added_at": "2026-09-19 03:24:47",
-      "album": {
         "name": "Up To Something (Live)",
         "url": "https://open.spotify.com/album/0SyhyZ7P6pZty0o96V7CxT"
       },
@@ -1367,22 +1363,6 @@
       "duration_ms": 214857,
       "name": "Magnify",
       "url": "https://open.spotify.com/track/6vjCLA1wRmf8P4QJ3lrIAD"
-    },
-    {
-      "added_at": "2026-09-19 03:24:47",
-      "album": {
-        "name": "Hold The Line (Live)",
-        "url": "https://open.spotify.com/album/2mtFQwIHXW7I69f6m4uC4R"
-      },
-      "artists": [
-        {
-          "name": "Journey Worship Co.",
-          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
-        }
-      ],
-      "duration_ms": 244565,
-      "name": "Hold The Line - Live",
-      "url": "https://open.spotify.com/track/047jIgmVEYOmaL5jWVmAFv"
     },
     {
       "added_at": "2026-09-19 03:24:47",

@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 439125,
       "name": "Come Prima",
       "url": "https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO"
@@ -6513,6 +6513,28 @@
     },
     {
       "album": {
+        "name": "Drawn From Life",
+        "url": "https://open.spotify.com/album/2OMMqHFkRzXoevAhoxf9yo"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "J.Peter Schwalm",
+          "url": "https://open.spotify.com/artist/3aBB4DpB9xCQldKQtDy63P"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348186,
+      "name": "Like Pictures Part #2",
+      "url": "https://open.spotify.com/track/2V9sKBuHEaw3sKuHOBl9zp"
+    },
+    {
+      "album": {
         "name": "Consumed In Key",
         "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
       },
@@ -10075,6 +10097,24 @@
     },
     {
       "album": {
+        "name": "Soda",
+        "url": "https://open.spotify.com/album/3aicLk1c9scIIH9vPCJmTH"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188862,
+      "name": "Soda",
+      "url": "https://open.spotify.com/track/1JB2vQ6k1N8TpqAxNMGWsa"
+    },
+    {
+      "album": {
         "name": "Opal",
         "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
       },
@@ -10536,7 +10576,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 221826,
       "name": "Sumerian Green",
       "url": "https://open.spotify.com/track/1clrCBwtMxOc9KoZLh1Iy4"
@@ -11570,7 +11610,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 221199,
       "name": "Trying",
       "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
@@ -12618,6 +12658,28 @@
       "duration_ms": 385433,
       "name": "Winter's Melt",
       "url": "https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ"
+    },
+    {
+      "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/1bILUgo25ahrzoGF9l4Wlk"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Womb Glow",
+      "url": "https://open.spotify.com/track/1UArL3p8ikilNaCMousXZ8"
     },
     {
       "album": {

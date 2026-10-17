@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,019 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,177 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [MONEY CONSTANT](https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SOUTH GIDI](https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ) | 6:15 |
 | 50 | [Diamonds](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 |
 
-Snapshot ID: `AAAAALRihYoGz4b+ZWhdZREhnPeNfvIn`
+Snapshot ID: `AAAAACGdqoO6/3IVqtMTA7Dq9IOTLdbh`

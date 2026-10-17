@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: badmómzjay
 
-814 songs - 1 day 12 hr 35 min
+814 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Hotel](https://open.spotify.com/track/3JTFNzGaptad6DAzZKMaCe) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel](https://open.spotify.com/album/0dvhDVElbS6JYbCyJYmfKi) | 4:07 | 2026-03-26 | 2026-05-08 |
 | [Hundertstelsekunde](https://open.spotify.com/track/3NbhQsA97B3XNS7nRborIC) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Hundertstelsekunde](https://open.spotify.com/album/7pMLjMYgvHj4tQnDzb8Up5) | 2:29 | 2026-08-13 |  |
 | [Hunderttausendeins](https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Hunderttausendeins](https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l) | 2:27 | 2026-09-03 | 2026-10-02 |
+| [HURRICANE](https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [111](https://open.spotify.com/album/3EzxmPD75aFIKcqi0uWPU0) | 2:44 | 2026-10-15 |  |
 | [Hätte nie gedacht](https://open.spotify.com/track/5LBYCl7c7B8T57zXDlrYnx) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Hätte nie gedacht](https://open.spotify.com/album/3auZbOiuGozCgxz1NM81M0) | 2:47 | 2026-02-05 | 2026-03-20 |
 | [Hört nicht auf](https://open.spotify.com/track/5zmITfhDUl9D1iFM4eeiQt) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Hört nicht auf](https://open.spotify.com/album/1fY0VJqHGqd7j4AY1Uyv4f) | 2:36 | 2026-10-15 |  |
 | [ich brauch dich.](https://open.spotify.com/track/1s4T9OQo5ffusLx3KEN1Sq) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [ich brauch dich.](https://open.spotify.com/album/0uH1HmKWnNiFsSmcoPCEkg) | 2:26 | 2025-11-06 | 2026-01-30 |
@@ -686,7 +687,6 @@
 | [time flies](https://open.spotify.com/track/4V6dMONwHVfw8QfpSucNrt) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [time flies](https://open.spotify.com/album/77qQwRE8towWv5I7T619Ib) | 2:21 | 2026-09-10 | 2026-09-25 |
 | [TIPICO!](https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [TIPICO!](https://open.spotify.com/album/7ydHkHaaiC8ZiryhzfegbV) | 2:11 | 2026-08-20 | 2026-09-04 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 1](https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [111](https://open.spotify.com/album/3EzxmPD75aFIKcqi0uWPU0) | 0:00 | 2026-10-15 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 | 2026-05-15 |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

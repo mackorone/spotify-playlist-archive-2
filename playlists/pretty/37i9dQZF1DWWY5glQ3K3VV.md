@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,094 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,111 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 83 | [Papaya](https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Papaya](https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ) | 2:19 |
 | 84 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 |
 | 85 | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc) | 2:56 |
-| 86 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6) | 1:53 |
-| 87 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 |
+| 86 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 |
+| 87 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6) | 1:53 |
 | 88 | [C'EST LA VIE](https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [C'EST LA VIE](https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb) | 3:08 |
 | 89 | [In Piazza](https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [In Piazza](https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6) | 3:03 |
 | 90 | [Leanin'](https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Leanin'](https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 99 | [SAUDADE](https://open.spotify.com/track/0iZiYlVmMy4JqokUYBShIi) | [Kaio](https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1) | [QUE VIDA](https://open.spotify.com/album/2D7Q9GWyjMhMVq4IUiCVPb) | 2:27 |
 | 100 | [PRESSING \(feat\. Macello, Enny P\)](https://open.spotify.com/track/2eEDvgk3sZdd88jyYG82jK) | [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [PRESSING \(feat\. Macello, Enny P\)](https://open.spotify.com/album/5evh0f9KvLmvgTDjEF0Uf5) | 2:42 |
 
-Snapshot ID: `AAAAAKj1luXblF6SSoUQPQVD4g+N5ZJ2`
+Snapshot ID: `AAAAAFH0QJei+BVewh8hZ37SmUvAiFIg`

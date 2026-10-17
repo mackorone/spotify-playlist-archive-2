@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Giuseppe Ottaviani and Hypaton",
-  "num_followers": 893922,
+  "num_followers": 893930,
   "original_name": "trance mission",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAORzGu9mXJkcI4Tz/FgUh+jXGtiE",
+  "snapshot_id": "AAAAAPQCZtvF8ptuqmY/lraDGv+7epIc",
   "tracks": [
     {
       "added_at": "2026-10-15 22:02:52",
@@ -551,18 +551,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
       },
       "artists": [
         {
           "name": "Armin van Buuren",
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
+      "duration_ms": 184419,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -679,22 +683,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
       },
       "artists": [
         {
           "name": "Armin van Buuren",
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 184419,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Way That You Look at Me",
+        "url": "https://open.spotify.com/album/6n6yVe3mMOY71A7PT7u5b1"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Way That You Look at Me",
+      "url": "https://open.spotify.com/track/2SIs6QlFZQ3aBckuM66LWV"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Supersonic / Hands Up In The Sky",
         "url": "https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 188108,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "Way That You Look at Me",
-        "url": "https://open.spotify.com/album/6n6yVe3mMOY71A7PT7u5b1"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Way That You Look at Me",
-      "url": "https://open.spotify.com/track/2SIs6QlFZQ3aBckuM66LWV"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Forest Walk",
-        "url": "https://open.spotify.com/album/5GCExMCQUDRMYIkzevbw1T"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 191350,
-      "name": "Forest Walk",
-      "url": "https://open.spotify.com/track/5kG0NSEJsuFOHSzFAii9Ld"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Quicksand (Don't Go)",
         "url": "https://open.spotify.com/album/0WCqTOZHxoqdZBkwuyXZEC"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Forest Walk",
+        "url": "https://open.spotify.com/album/5GCExMCQUDRMYIkzevbw1T"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 191350,
+      "name": "Forest Walk",
+      "url": "https://open.spotify.com/track/5kG0NSEJsuFOHSzFAii9Ld"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Frenzy",
         "url": "https://open.spotify.com/album/2oGalbPEf7w5n4u68Y9UkL"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "pick up your phone",
-        "url": "https://open.spotify.com/album/332H85xuc45HEbnP9nOdDY"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        }
-      ],
-      "duration_ms": 211289,
-      "name": "pick up your phone",
-      "url": "https://open.spotify.com/track/5KPqFtA3ssUElNzxiUS0xU"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Ready to Fly",
         "url": "https://open.spotify.com/album/3ZtYDkyonSlzp6atr7LjEO"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 188811,
       "name": "Ready to Fly",
       "url": "https://open.spotify.com/track/4AUqJ9BYqjQO141t5qe4qC"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "pick up your phone",
+        "url": "https://open.spotify.com/album/332H85xuc45HEbnP9nOdDY"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        }
+      ],
+      "duration_ms": 211289,
+      "name": "pick up your phone",
+      "url": "https://open.spotify.com/track/5KPqFtA3ssUElNzxiUS0xU"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
-      },
-      "artists": [
-        {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        }
-      ],
-      "duration_ms": 236996,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Bullet In The Gun",
         "url": "https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP"
       },
@@ -2055,26 +2039,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Doves",
-        "url": "https://open.spotify.com/album/1eGzCeKZjFMXeUA9xcxsLS"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        },
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        }
-      ],
-      "duration_ms": 139436,
-      "name": "Doves",
-      "url": "https://open.spotify.com/track/3uozEz2fryNaVqUO3C9GbP"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/7aeGO2WgSPfzFkcGBXlNyb"
       },
@@ -2091,18 +2055,38 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "United in Trance",
-        "url": "https://open.spotify.com/album/5KYV3aAydAMqVtc6iJXNf4"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
         }
       ],
-      "duration_ms": 187445,
-      "name": "United in Trance",
-      "url": "https://open.spotify.com/track/41TpNZA3eQXrLxQTncVph2"
+      "duration_ms": 236996,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/1eGzCeKZjFMXeUA9xcxsLS"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        }
+      ],
+      "duration_ms": 139436,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/3uozEz2fryNaVqUO3C9GbP"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2131,6 +2115,22 @@
       "duration_ms": 238750,
       "name": "Home Is Here",
       "url": "https://open.spotify.com/track/4RGDVbK42ikPcAlel2DXqS"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "United in Trance",
+        "url": "https://open.spotify.com/album/5KYV3aAydAMqVtc6iJXNf4"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        }
+      ],
+      "duration_ms": 187445,
+      "name": "United in Trance",
+      "url": "https://open.spotify.com/track/41TpNZA3eQXrLxQTncVph2"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Years On Years (Remixes)",
-        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 116411,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3sqeb5HKQUAjQf9hvv0Woy"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Eyes Open Wide (feat. The Melody Men)",
         "url": "https://open.spotify.com/album/0KXYyWngj4Vx2bgHUGO2PG"
       },
@@ -2311,6 +2295,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Years On Years (Remixes)",
+        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 116411,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3sqeb5HKQUAjQf9hvv0Woy"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Faultline",
         "url": "https://open.spotify.com/album/624dOqHl09SJsjMWBj9T9f"
       },
@@ -2327,6 +2327,26 @@
       "duration_ms": 220821,
       "name": "Faultline",
       "url": "https://open.spotify.com/track/1ohbar8IexoLGkxFiwwqPT"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 210236,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2351,22 +2371,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
+        "name": "Open The Night",
+        "url": "https://open.spotify.com/album/2Y8Ooix4RYAey0MykQRyqO"
       },
       "artists": [
         {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         }
       ],
-      "duration_ms": 210236,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
+      "duration_ms": 188105,
+      "name": "Open The Night",
+      "url": "https://open.spotify.com/track/3DdU6rhMoPIdOQG4iThhbL"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2443,22 +2459,6 @@
       "duration_ms": 164560,
       "name": "ResuRection (Call Me)",
       "url": "https://open.spotify.com/track/7w5eVOIt7g0DhUWvoqvhq9"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "Origins / ARP",
-        "url": "https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Origins",
-      "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
     }
   ],
   "unique_name": "trance mission",

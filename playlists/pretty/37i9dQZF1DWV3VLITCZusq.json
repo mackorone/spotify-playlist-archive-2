@@ -1,12 +1,12 @@
 {
   "description": "The perfect pop rock running mix.",
-  "num_followers": 268405,
+  "num_followers": 268432,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALpumlRfp0RPT2coecc4KAQX72lU",
+  "snapshot_id": "AAAAADGTasWHu3IpR04QrDO54Iis78U0",
   "tracks": [
     {
       "added_at": "2024-05-27 19:59:54",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-27 19:59:54",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Castle on the Hill",
-      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
-    },
-    {
-      "added_at": "2024-05-27 19:59:54",
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2024-05-27 19:59:54",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Castle on the Hill",
+      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
     },
     {
       "added_at": "2024-05-27 19:59:54",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-05-27 19:59:54",
       "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214147,
-      "name": "Pompeii",
-      "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
-    },
-    {
-      "added_at": "2024-05-27 19:59:54",
-      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 188493,
       "name": "Tear in My Heart",
       "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
+    },
+    {
+      "added_at": "2024-05-27 19:59:54",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
     },
     {
       "added_at": "2024-05-27 19:59:54",

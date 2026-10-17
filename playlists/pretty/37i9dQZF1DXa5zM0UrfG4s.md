@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,368 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,370 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,23 +60,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 50 | [Hjem med dej](https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Hjem med dej](https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN) | 3:07 |
 | 51 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 |
 | 52 | [Dans med meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans med meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 |
-| 53 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 |
-| 54 | [Livets landeveg](https://open.spotify.com/track/0YDma62DmS8UqpyzSF2YH7) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Flammebjørka](https://open.spotify.com/album/39wvzIVlN19RmzGG2cvhhF) | 3:34 |
-| 55 | [Når tårer fell](https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Før du går](https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2) | 4:36 |
+| 53 | [Når tårer fell](https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Før du går](https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2) | 4:36 |
+| 54 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 |
+| 55 | [Livets landeveg](https://open.spotify.com/track/0YDma62DmS8UqpyzSF2YH7) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Flammebjørka](https://open.spotify.com/album/39wvzIVlN19RmzGG2cvhhF) | 3:34 |
 | 56 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 57 | [Jeg har vært en idiot](https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Jeg har vært en idiot](https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5) | 2:29 |
-| 58 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
-| 59 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |
-| 60 | [Før du går \(feat\. Sigrid Aase\)](https://open.spotify.com/track/7LKdaXuR2AwYRjBvSEZ16D) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Sigrid Aase](https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK) | [Før du går \(feat\. Sigrid Aase\)](https://open.spotify.com/album/2XBMQKnfg4KoeXupSMTvDO) | 4:54 |
+| 58 | [Før du går \(feat\. Sigrid Aase\)](https://open.spotify.com/track/7LKdaXuR2AwYRjBvSEZ16D) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Sigrid Aase](https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK) | [Før du går \(feat\. Sigrid Aase\)](https://open.spotify.com/album/2XBMQKnfg4KoeXupSMTvDO) | 4:54 |
+| 59 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
+| 60 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |
 | 61 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
 | 62 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
-| 63 | [Vi va alt](https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Vi va alt](https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0) | 2:45 |
-| 64 | [CAT 374](https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [CAT 374](https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs) | 2:56 |
-| 65 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
+| 63 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
+| 64 | [Vi va alt](https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Vi va alt](https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0) | 2:45 |
+| 65 | [CAT 374](https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [CAT 374](https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs) | 2:56 |
 | 66 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
-| 67 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
-| 68 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
+| 67 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
+| 68 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
 | 69 | [Maria](https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Maria](https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh) | 3:32 |
 | 70 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
 
-Snapshot ID: `AAAAAPtIW5Uu9QG7aesaLYyk/mK7S144`
+Snapshot ID: `AAAAAFqBDFKJzwxNvrRXKaxEhOVyN93Y`

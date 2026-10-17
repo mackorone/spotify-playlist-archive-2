@@ -4,7 +4,7 @@
 
 > Best of  the pop girl era!  Listen to all your favourite Gammy\- and BRIT  Awards nominated female artists here.
 
-193 songs - 10 hr 24 min
+195 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Espresso](https://open.spotify.com/track/6ev5nHxXH1R6CSgxHSEqHN) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso EP](https://open.spotify.com/album/2yIhXdfQKrzp7ENGxxI92c) | 2:55 | 2025-12-11 |  |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2026-10-13 |  |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-21 | 2025-08-30 |
+| [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 | 2026-10-16 |  |
 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 | 2025-12-11 |  |
 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 | 2025-08-05 | 2025-09-13 |
 | [Firestone](https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Firestone](https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL) | 3:03 | 2025-10-24 |  |
@@ -190,6 +191,7 @@
 | [Turn Me Up](https://open.spotify.com/track/60dQCCVc90CeM82Iajs4lR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/3a1kn6l83mijd3b0akLE68) | 4:11 | 2025-07-25 | 2025-09-27 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-07-17 |  |
 | [Unicorn](https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Tales of a Failed Shapeshifter](https://open.spotify.com/album/2RL64278RxtHMgDH04qzex) | 2:28 | 2026-02-27 | 2026-10-02 |
+| [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 | 2026-10-16 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2025-12-11 |  |
 | [Wacht Op Mij](https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wacht Op Mij](https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV) | 3:06 | 2025-10-17 | 2026-06-27 |
 | [What a Woman](https://open.spotify.com/track/7yCngOJnTDXHuabhS74XR3) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [What a Woman](https://open.spotify.com/album/3zJWDcRieFRKO76KegbEfu) | 3:33 | 2025-10-15 | 2025-12-12 |

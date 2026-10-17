@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,340 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,362 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 2 | [16](https://open.spotify.com/track/1pLS5FERQjEXlHho6THq1d) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 3:23 |
 | 3 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 4 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
-| 5 | [Orekelewa](https://open.spotify.com/track/0Jg8TctX4LJ5pWuENt0xuO) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Abefe \(Begged To Be Loved\)](https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ) | 2:42 |
+| 5 | [Juice & Liquor](https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Juice & Liquor](https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ) | 2:57 |
 | 6 | [miss u ii \(nriri\)](https://open.spotify.com/track/1MSwqzSaoPsWMwwR2vSDRc) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [miss u ii \(nriri\)](https://open.spotify.com/album/3KMCBwaMSZmRRS9C9I7waO) | 2:30 |
 | 7 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 |
-| 8 | [Juice & Liquor](https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Juice & Liquor](https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ) | 2:57 |
+| 8 | [Orekelewa](https://open.spotify.com/track/0Jg8TctX4LJ5pWuENt0xuO) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Abefe \(Begged To Be Loved\)](https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ) | 2:42 |
 | 9 | [I'll Be Okay](https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I'll Be Okay](https://open.spotify.com/album/4FRm1vre15Rj6NwZnf9qmj) | 3:19 |
 | 10 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
 | 11 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 19 | [Raining \(O Dun Mi\)](https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Raining \(O Dun Mi\)](https://open.spotify.com/album/795j20zTKent2xN94khVa9) | 3:12 |
 | 20 | [MIKE TYSON](https://open.spotify.com/track/0cDSkCjlBgmPsQggS1JC0B) | [Bunie The First](https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg) | [THE FIRST EP](https://open.spotify.com/album/0Gdpxm5WSAqrizXZZqfOXa) | 2:28 |
 | 21 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
-| 22 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
-| 23 | [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 |
-| 24 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
-| 25 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
+| 22 | [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 |
+| 23 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
+| 24 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
+| 25 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 26 | [365 Days](https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [365 Days](https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH) | 3:08 |
 | 27 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 28 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
 | 50 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 
-Snapshot ID: `AAAAAFKhcPKUEYNA0DCLxKt1DcT3ZNUu`
+Snapshot ID: `AAAAAMpuCc9BMpkXSYGL04uKr8l8u6gB`

@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259836,
+  "num_followers": 259835,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ9zIO7mXve+yO4cMxLWu68mj9n2",
+  "snapshot_id": "AAAAAEYrGQcLUHQCit8Veuu9bIh+qtzm",
   "tracks": [
     {
       "added_at": "2026-08-21 03:00:30",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "I Don't Care (Acoustic)",
         "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 238220,
       "name": "I Don't Care - Acoustic",
       "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -391,18 +371,22 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -419,6 +403,22 @@
       "duration_ms": 196473,
       "name": "Anti-Hero - Acoustic Version",
       "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Boyfriend - Acoustic Version",
-      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+      "duration_ms": 187680,
+      "name": "Boyfriend - Acoustic Version",
+      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -531,6 +515,22 @@
       "duration_ms": 213436,
       "name": "New Rules - Acoustic",
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Girassol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 65059,
-      "name": "Girassol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Acoustic In Nashville - Bootleg No. 2",
         "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 269946,
       "name": "How to Save a Life - Live in Nashville, TN - December 2006",
       "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1132,22 +1132,6 @@
       "added_at": "2026-08-21 03:00:30",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -1159,6 +1143,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Can't Tame Her (Acoustic)",
-        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can't Tame Her - Acoustic",
-      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Sorry Not Sorry",
         "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 154990,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Can't Tame Her (Acoustic)",
+        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can't Tame Her - Acoustic",
+      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
       "added_at": "2026-08-21 03:00:30",

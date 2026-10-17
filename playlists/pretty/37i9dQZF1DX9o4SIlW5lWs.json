@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 287040,
+  "num_followers": 287108,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAVMSev9E13g8wQG08yxaUM1Kol",
+  "snapshot_id": "AAAAAMafE5AHifOi4LMLfZxEemIjmTJ6",
   "tracks": [
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "Boquita de Caramelo",
-      "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Se Enamor\u00f3 de Mi la Soledad",
         "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
       "artists": [
         {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
         }
       ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+      "duration_ms": 206346,
+      "name": "Boquita de Caramelo",
+      "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "A Chillar a Otra Parte",
-        "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
       "artists": [
         {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        },
-        {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 221204,
-      "name": "A Chillar a Otra Parte",
-      "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1387,6 +1367,26 @@
       "duration_ms": 457596,
       "name": "Como Duele/ Tu Presa/ Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "A Chillar a Otra Parte",
+        "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "duration_ms": 221204,
+      "name": "A Chillar a Otra Parte",
+      "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
-      },
-      "artists": [
-        {
-          "name": "Super Quinteto",
-          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
-        },
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 323334,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 295526,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
+      },
+      "artists": [
+        {
+          "name": "Super Quinteto",
+          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
+        },
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 323334,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
+        "name": "Pero No Puedo Vol.2",
+        "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Pero No Puedo Vol.2",
+      "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
-        "name": "Pero No Puedo Vol.2",
-        "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        },
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Pero No Puedo Vol.2",
-      "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
-        "url": "https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ"
-      },
-      "artists": [
-        {
-          "name": "Sentimiento Urbano",
-          "url": "https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx"
-        }
-      ],
-      "duration_ms": 341607,
-      "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
-      "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Decepci\u00f3n",
         "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Anochecemos",
-        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
+        "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
+        "url": "https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Sentimiento Urbano",
+          "url": "https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx"
         }
       ],
-      "duration_ms": 204145,
-      "name": "Anochecemos",
-      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
+      "duration_ms": 341607,
+      "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
+      "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1791,6 +1775,22 @@
       "duration_ms": 153653,
       "name": "Coraz\u00f3n De Madera",
       "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "Anochecemos",
+        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 204145,
+      "name": "Anochecemos",
+      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
+        "name": "Hay Mas de Mi",
+        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Si Me Lo Pide Otra Vez",
+      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
-        "name": "Hay Mas de Mi",
-        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Si Me Lo Pide Otra Vez",
-      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
     },
     {
       "added_at": "2026-09-25 15:00:19",

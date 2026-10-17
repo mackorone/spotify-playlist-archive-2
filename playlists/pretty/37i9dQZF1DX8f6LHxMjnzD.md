@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,111 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,260 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Mr Right](https://open.spotify.com/track/3rZj4LoO1tK4NsmlVAVe8e) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Mr Right](https://open.spotify.com/album/6v2bBaHrTPmPy4rWQzMcZT) | 3:16 |
 | 40 | [Flowers At The Bezzle](https://open.spotify.com/track/7FR7cz2CA4CGDn1GRCXifq) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [Flowers at the Bezzle](https://open.spotify.com/album/1yFmknHhrLQafa62VROKZj) | 2:56 |
 
-Snapshot ID: `AAAAAFfAttrHo1NzcGluu8xFnq+mU4dV`
+Snapshot ID: `AAAAAE4vvNZMjuW57S5A9oio3Y8phEgY`

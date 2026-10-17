@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,877 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,966 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
 | 75 | [138 Trek](https://open.spotify.com/track/4JMPUGaP0ih23oFcpewYL4) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Beats by Design](https://open.spotify.com/album/5gghOzC1fKgnJOTJl9KK0z) | 5:08 |
 
-Snapshot ID: `AAAAAJyFt1Ui+5LyDzoetniM30jP2Lq9`
+Snapshot ID: `AAAAAGhpBltO4q1KRib2lGraU2PS1sGd`

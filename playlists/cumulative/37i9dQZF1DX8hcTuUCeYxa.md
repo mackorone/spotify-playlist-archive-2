@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Giant Rooks
 
-3,473 songs - 8 day 8 hr 6 min
+3,473 songs - 8 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 | 2025-05-29 | 2025-06-27 |
 | [Blood](https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Role Model Hermit](https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh) | 3:56 | 2026-07-02 | 2026-07-24 |
 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 | 2026-10-15 |  |
+| [Blood On The Dashboard](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 3:24 | 2026-10-15 |  |
 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 | 2024-11-21 | 2025-01-03 |
 | [Blood Spilled](https://open.spotify.com/track/22uDPIieGlHsIOt6pwIcGJ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Blood Spilled](https://open.spotify.com/album/5cmRb1dIr1CVgxcbygLRVs) | 5:58 | 2026-07-30 | 2026-08-28 |
 | [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 | 2026-01-08 | 2026-02-06 |
@@ -3139,7 +3140,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-26 |
-| [Track 2](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 0:00 | 2026-10-15 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

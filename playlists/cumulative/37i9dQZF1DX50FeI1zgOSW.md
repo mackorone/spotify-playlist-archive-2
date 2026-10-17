@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
 
-890 songs - 2 day 2 hr 15 min
+891 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [En Usurukku](https://open.spotify.com/track/7veF16HNU1LYhm421W7LNp) | [Keshav Ram](https://open.spotify.com/artist/4ei0xbxMaki87T5fQIANx7) | [En Usurukku](https://open.spotify.com/album/0dFLB5UQ0eDJ4sXAsaCm32) | 5:00 | 2024-08-23 | 2024-08-29 |
 | [En Uyire](https://open.spotify.com/track/3w9N0D9VDVk1WzEsllealj) | [DJ AJ\-MUZYK](https://open.spotify.com/artist/4pyUmLIshbkesI9MqTiNxX) | [En Uyire](https://open.spotify.com/album/437skIrnem7YKA1fYYRNUr) | 2:48 | 2025-10-23 | 2026-03-25 |
 | [En Vaasal Vanthal](https://open.spotify.com/track/52pAMIxc4ODy82jTKN5PNv) | [Suriya Karthikeya Kumaran](https://open.spotify.com/artist/53T0PTMSmd3vQ1WCKPKlZR) | [En Vaasal Vanthal](https://open.spotify.com/album/52CZ2hV4ccmhRpK8IQRkiB) | 3:44 | 2025-05-02 | 2025-07-19 |
+| [Enakkena Oru Mazhaikkaalam](https://open.spotify.com/track/7etV4j8nbVmYOZiLYTkVwH) | [Umashankar Kannaiyan](https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T), [Revathy Kumar](https://open.spotify.com/artist/0Wlol58BbglfFkGxWmNREy) | [Enakkena Oru Mazhaikkaalam](https://open.spotify.com/album/2xAtYeXRTFZvs5vQ7LGZWt) | 3:04 | 2026-10-16 |  |
 | [Endhen Kadhali](https://open.spotify.com/track/7hcIWT9NwJT5uM2hAGOk9a) | [ASHWIN EDAKKUDI](https://open.spotify.com/artist/53qL8tuMQxez8ya4IvjkUN), [DJ LEM"ON"](https://open.spotify.com/artist/5x6cjBMUDQBJqk2X1oBoCU), [PD MUSIQ](https://open.spotify.com/artist/5wx19z578bcqiK8hTU3Icg), [Thiraiyan](https://open.spotify.com/artist/6khZoRA9gHZZUhpKexKuli), [JAGATH KRISHNA](https://open.spotify.com/artist/5SW2V2dQu1qZrclocdBsP7), [ATHIRA DIVAKARAN](https://open.spotify.com/artist/6nDjTxcGCCGiOoVfceOyis) | [Endhen Kadhali](https://open.spotify.com/album/6kDZJtY4bEpr1MoJMXkWa0) | 3:05 | 2025-07-11 | 2025-09-05 |
 | [Endrendrume](https://open.spotify.com/track/2odH8vMNfYMk9fe9wYnDMr) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Kshia](https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU) | [Endrendrume](https://open.spotify.com/album/2DXao0ySv5ik5JMmapwKLd) | 3:00 | 2025-08-18 | 2025-11-25 |
 | [Endrum Unnodu](https://open.spotify.com/track/0UMp5xcRfGgqBqeqrj1uQ0) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Endrum Unnodu](https://open.spotify.com/album/7mkgAiq1Ux0OQLrPR0rEeX) | 3:12 | 2023-06-09 | 2023-06-27 |

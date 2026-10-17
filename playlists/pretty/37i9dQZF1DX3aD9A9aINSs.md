@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Şenceylik
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,310 likes - 89 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,305 likes - 89 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 68 | [Uzaklarda](https://open.spotify.com/track/3o82PFA2Dqo1O9KZemGkfJ) | [Rana Kara](https://open.spotify.com/artist/4ggsAoogpxB4pm6TgiZp3e) | [Uzaklarda](https://open.spotify.com/album/3eVDk5hzbdshGqnednQDA8) | 2:22 |
 | 69 | [Kalbimden Vurdun](https://open.spotify.com/track/1RLPYI5wfGXtN11jGSqxpc) | [Ceren Hocaoğlu](https://open.spotify.com/artist/1SR1sF3sCRJb6xR6tl99hA) | [Kalbimden Vurdun](https://open.spotify.com/album/2LvDkH4HlUIMFya3Zf7iqi) | 2:27 |
 | 70 | [Sensizliğe Veda](https://open.spotify.com/track/21oCOok5CkEg1UkeKsQRHe) | [Elvan Elvan](https://open.spotify.com/artist/0t2P5mPqFnG1RxqK6s93zW) | [Sensizliğe Veda](https://open.spotify.com/album/6GcIxuGsR88TDKfNrlOLSh) | 3:31 |
-| 71 | [Kime Diyorum \(PES!\)](https://open.spotify.com/track/5ohOOlHiuAMPaKJeWrjuPR) | [ANKA](https://open.spotify.com/artist/7c67d4QQppLWVekyVkshuR) | [ANKA](https://open.spotify.com/album/3b7ZF884zfr3ril8alUQcT) | 2:34 |
+| 71 | [Kime Diyorum \(PES!\)](https://open.spotify.com/track/5ohOOlHiuAMPaKJeWrjuPR) | [ANKA](https://open.spotify.com/artist/7c67d4QQppLWVekyVkshuR) | [ANKA](https://open.spotify.com/album/3b7ZF884zfr3ril8alUQcT) | 2:35 |
 | 72 | [Acımasız Sevgili](https://open.spotify.com/track/5arumhUNuOtRWZZfA8ZNet) | [Büşra Mazak](https://open.spotify.com/artist/2eKcq0gPgbsnrdXzPtpKrs) | [Acımasız Sevgili](https://open.spotify.com/album/5bCSAwZXvwyNfsz7NhLlrp) | 3:52 |
 | 73 | [Di Mi?](https://open.spotify.com/track/12i944d5IyKwc7LG0roGoC) | [Zeynep Mansur](https://open.spotify.com/artist/6p93DCPd1mTZVok52IIVAr) | [Di Mi?](https://open.spotify.com/album/0uKdEim5QeuzkB7TntiueD) | 2:50 |
 | 74 | [Yaşlanıyoruz](https://open.spotify.com/track/0PwrLu2P48RE500YxoVoxy) | [Rüya Ersavcı](https://open.spotify.com/artist/14hIlItle6OLmO3HdTyxIp) | [Yaşlanıyoruz](https://open.spotify.com/album/2HtRRIy1ztaIU9k9jzWmw5) | 3:04 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 88 | [Sen](https://open.spotify.com/track/5CYr1qj84TdfRP2WZqEeGQ) | [GülDen](https://open.spotify.com/artist/5q7OtbpCupktZB3iWG0wca) | [Sen](https://open.spotify.com/album/3xPxgukeNKkeh8KAR9aXik) | 3:35 |
 | 89 | [Benim Şarkım \- Live](https://open.spotify.com/track/6WwzNYsX2VlyHmFwzWy6n2) | [Elif Güreşçi](https://open.spotify.com/artist/4We1L6dotI156qvwpPqsxn) | [Benim Şarkım \(Live\)](https://open.spotify.com/album/48ZwYUbtKTkHpDbk8E1U4T) | 2:43 |
 
-Snapshot ID: `AAAAAED3v5ZvMPhgEoR5vXLSOYrkpOzY`
+Snapshot ID: `AAAAAJk2zJyTZyBDAjNLUjp+siL7rNog`

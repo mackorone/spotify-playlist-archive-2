@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Ervin River en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Nsqk en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -530,6 +530,24 @@
       "duration_ms": 169849,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/3P1TVE2aIP6UTYWSezNtyQ"
+    },
+    {
+      "album": {
+        "name": "ACEPTO MI CONDICI\u00d3N",
+        "url": "https://open.spotify.com/album/2QZ1E41wZjka5VsCRutSie"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164480,
+      "name": "ACEPTO MI CONDICI\u00d3N",
+      "url": "https://open.spotify.com/track/2VWewWgiuNQQrpilHExPq4"
     },
     {
       "album": {
@@ -2245,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Decena Tr\u00e1gica",
+        "url": "https://open.spotify.com/album/4V8Ey2RfGO7Na9dd0b9Tdn"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Campo de Aceleraci\u00f3n",
+      "url": "https://open.spotify.com/track/188TecoYYwv4SHkc6KvRMg"
+    },
+    {
+      "album": {
         "name": "Cantar y amar",
         "url": "https://open.spotify.com/album/2jKSpP2UKGNEN9u9dsdynm"
       },
@@ -2582,7 +2618,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176326,
       "name": "CIELO = INFIERNO",
       "url": "https://open.spotify.com/track/5P0RgU4xvhM6d8ukeWrhh1"
@@ -4132,6 +4168,28 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "album": {
+        "name": "Dientes De Fierro",
+        "url": "https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Dientes De Fierro",
+      "url": "https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj"
     },
     {
       "album": {
@@ -7308,7 +7366,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 243805,
       "name": "Kokoro",
       "url": "https://open.spotify.com/track/0uvNnZUr97NEl4Gd7GxwnV"
@@ -7818,7 +7876,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 219500,
       "name": "La Octava Noche - Revisitada",
       "url": "https://open.spotify.com/track/2FT5bSC9ujLGk8kaxPAlgM"
@@ -11254,6 +11312,24 @@
       "duration_ms": 228000,
       "name": "No Te Reconozco",
       "url": "https://open.spotify.com/track/3lTjnw3XxJqKomdvoKU9Yi"
+    },
+    {
+      "album": {
+        "name": "No Vale La Pena",
+        "url": "https://open.spotify.com/album/4XasAEjAtS8ALgyb1uwTtg"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/4ns496WALkYAfIPiRZrUzz"
     },
     {
       "album": {
@@ -15178,7 +15254,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 164181,
       "name": "Tormenta Tropical",
       "url": "https://open.spotify.com/track/1trZxt1SZKrsRUEOd4uOlJ"
@@ -15348,7 +15424,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 174663,
       "name": "Troleo",
       "url": "https://open.spotify.com/track/12j1vaKdxjmaNogDsVU2HQ"
@@ -16378,6 +16454,24 @@
       "duration_ms": 178013,
       "name": "Volver A Ser",
       "url": "https://open.spotify.com/track/2TxFDH4yoIdUNg3DHAB3BF"
+    },
+    {
+      "album": {
+        "name": "Volvi\u00e9ndome Loco",
+        "url": "https://open.spotify.com/album/4s6LzZkwx24Xj40942oViz"
+      },
+      "artists": [
+        {
+          "name": "Vac\u00edos Cuerpos",
+          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159528,
+      "name": "Volvi\u00e9ndome Loco",
+      "url": "https://open.spotify.com/track/4dno2vlX9zLmZSiLGu04pN"
     },
     {
       "album": {

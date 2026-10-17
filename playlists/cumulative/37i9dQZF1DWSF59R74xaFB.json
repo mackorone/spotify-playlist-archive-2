@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Ha*Ash y Cristian Castro en portada.",
+  "description": "El amor no se escucha, se siente...  \ud83d\udc96Andr\u00e9 Beltr\u00e1n en portada.",
   "name": "Radio Coraz\u00f3n",
   "tracks": [
     {
@@ -1566,6 +1566,24 @@
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
+    },
+    {
+      "album": {
+        "name": "Bonito Bonito",
+        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Bonito Bonito",
+      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
     },
     {
       "album": {
@@ -4456,6 +4474,28 @@
     {
       "album": {
         "name": "Flores",
+        "url": "https://open.spotify.com/album/2J6FuUsqmcdU4maeTWuyrZ"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129544,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/2Xs2Ry6BOiXnphxoiYMIQE"
+    },
+    {
+      "album": {
+        "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
       "artists": [
@@ -6098,7 +6138,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 199727,
       "name": "LOS BARCOS (se van)",
       "url": "https://open.spotify.com/track/75GlL8pJklnhOfK7wxRVm8"
@@ -8097,6 +8137,28 @@
     },
     {
       "album": {
+        "name": "Pendiente",
+        "url": "https://open.spotify.com/album/4Oalcm1ptJAzGc9kNfSweu"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177886,
+      "name": "Pendiente",
+      "url": "https://open.spotify.com/track/37aGOmXQJM5gZqTmRYNNkX"
+    },
+    {
+      "album": {
         "name": "Perderme En Ti",
         "url": "https://open.spotify.com/album/59RS2bgrbBfBhLHL5qTCc4"
       },
@@ -8826,7 +8888,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 133884,
       "name": "Quiere Quiere",
       "url": "https://open.spotify.com/track/4WmFl5M0KbtUc1ymj3Ar7a"
@@ -9282,7 +9344,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 151669,
       "name": "Ser\u00e1n tus ojos??? \u2727",
       "url": "https://open.spotify.com/track/1u2x2Qu98jNXKBL82k62xO"
@@ -9394,6 +9456,24 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "album": {
+        "name": "Si No Me Canso De Esperarte",
+        "url": "https://open.spotify.com/album/0pMoJcCGNrsiNICc25mi7D"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172750,
+      "name": "Si No Me Canso De Esperarte",
+      "url": "https://open.spotify.com/track/5Gx83DWavfk0GuG3rkoDCd"
     },
     {
       "album": {
@@ -9612,7 +9692,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 225581,
       "name": "Siento que puedo volar",
       "url": "https://open.spotify.com/track/0QFUhpRqzTlpipPMULCJUZ"
@@ -9918,7 +9998,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 223125,
       "name": "Sombra",
       "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
@@ -10746,7 +10826,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 255605,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
@@ -11138,6 +11218,28 @@
       "duration_ms": 240473,
       "name": "tu fan",
       "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+    },
+    {
+      "album": {
+        "name": "Las Cosas Que Solo Se Hacen En La Noche",
+        "url": "https://open.spotify.com/album/0bThS1beZOzlV7HrfrmL4C"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181036,
+      "name": "Tulum Sin Ti",
+      "url": "https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW"
     },
     {
       "album": {
@@ -12008,6 +12110,24 @@
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo huir?",
+        "url": "https://open.spotify.com/album/4vKZbcMkK6ZksUfFRJxM7p"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "\u00bfC\u00f3mo huir?",
+      "url": "https://open.spotify.com/track/1qutwPbEKgHAciZFStAPHS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\.  Cover: Sfarzo Rtee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,849 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,252 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 48 | [Ke Wave](https://open.spotify.com/track/6LZMirithOe1j0ICpsnlV0) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS) | [Ke Wave](https://open.spotify.com/album/4Zzcjew6lw258v6TJ8JbhW) | 4:49 |
 | 49 | [Ngibolekeni \(feat\. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings\)](https://open.spotify.com/track/4QdFYz1hjkDVDTqAKmIdOx) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Seun1401](https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Kabelo Sings](https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn) | [Ngibolekeni \(feat\. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings\)](https://open.spotify.com/album/3AXBbWsHeukq7B3ojJbfI0) | 9:38 |
 
-Snapshot ID: `AAAAABom43AHXRHPNPmvFE3tnL/uVRxQ`
+Snapshot ID: `AAAAAPwylatJSGcdD1ITFY+Bd/Qx+DMG`

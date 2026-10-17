@@ -3211,6 +3211,28 @@
     },
     {
       "album": {
+        "name": "Always You and I",
+        "url": "https://open.spotify.com/album/5DMrlFAmeAMIJHajphsvRE"
+      },
+      "artists": [
+        {
+          "name": "Dance Commander",
+          "url": "https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl"
+        },
+        {
+          "name": "Cathrine Restad-Hvalby",
+          "url": "https://open.spotify.com/artist/0B9DYx33j8xGopYcFNpzqc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "Always You and I",
+      "url": "https://open.spotify.com/track/21VD4mfZ3FUGNN4MvKmXLJ"
+    },
+    {
+      "album": {
         "name": "Alza Le Mani",
         "url": "https://open.spotify.com/album/3VbUhT0Tn6m6vcdPW3Z0Gt"
       },
@@ -35762,6 +35784,24 @@
       "duration_ms": 151689,
       "name": "ho riso",
       "url": "https://open.spotify.com/track/1UWyDZ8kSbDESi8Uwuidsz"
+    },
+    {
+      "album": {
+        "name": "Hoi Hoi Helsinki (2.0 Version)",
+        "url": "https://open.spotify.com/album/3rXFnECY3rKLsOgAJgO4iA"
+      },
+      "artists": [
+        {
+          "name": "Miciz",
+          "url": "https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258288,
+      "name": "Hoi Hoi Helsinki - 2.0 Version",
+      "url": "https://open.spotify.com/track/6mSQWVTLFzvKKplsx2qZkP"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO01yveCkvzuuyDE43heE9evNdz2",
+  "snapshot_id": "AAAAAM1ukVxtNEt6S3iLjPTsYFcBcLqY",
   "tracks": [
     {
       "added_at": "2026-10-13 17:51:22",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-10-13 17:51:22",
       "album": {
-        "name": "ARA",
-        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Ara (600M)",
-      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
-    },
-    {
-      "added_at": "2026-10-13 17:51:22",
-      "album": {
         "name": "Fazendo A Minha (Deluxe)",
         "url": "https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 145531,
       "name": "Outra Vida",
       "url": "https://open.spotify.com/track/0sjHWu6zXuG1cXwk1ktWyO"
+    },
+    {
+      "added_at": "2026-10-13 17:51:22",
+      "album": {
+        "name": "ARA",
+        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Ara (600M)",
+      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
     },
     {
       "added_at": "2026-10-13 17:51:22",
@@ -315,6 +315,26 @@
     {
       "added_at": "2026-10-13 17:51:22",
       "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
+    },
+    {
+      "added_at": "2026-10-13 17:51:22",
+      "album": {
         "name": "OBSESI\u00d3N",
         "url": "https://open.spotify.com/album/6p7x7K1sQBCHqOOp8I6grr"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 229684,
       "name": "OBSESI\u00d3N",
       "url": "https://open.spotify.com/track/4b77LqhHAmJ0K10SoFa5m8"
-    },
-    {
-      "added_at": "2026-10-13 17:51:22",
-      "album": {
-        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "added_at": "2026-10-13 17:51:22",

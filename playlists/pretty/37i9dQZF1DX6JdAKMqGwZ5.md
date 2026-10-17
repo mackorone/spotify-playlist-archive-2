@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Anni B Sweet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,287 likes - 120 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,274 likes - 120 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 11](https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV) | [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw) | [Alegría](https://open.spotify.com/album/5OMOHQHGLrJAUEXHxL5LNa) | 0:00 |
+| 1 | [En mi olvido](https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV) | [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Alegría](https://open.spotify.com/album/5OMOHQHGLrJAUEXHxL5LNa) | 5:16 |
 | 2 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |
 | 3 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 | 4 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 6 | [Ezpata Dantza](https://open.spotify.com/track/3ngH4jvapfAc7C3TEmOlar) | [Dupla](https://open.spotify.com/artist/5kcrF8TL0L4P4VuzDyRQuU) | [Ezpata Dantza](https://open.spotify.com/album/2EVCIrsRZ6Q0Weo4GhizXH) | 3:06 |
 | 7 | [Romántico](https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Romántico](https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT) | 2:50 |
 | 8 | [Chiquitita, Matona!](https://open.spotify.com/track/5UrhV0LIMr3FPrXdWgEWn1) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Chiquitita, Matona!](https://open.spotify.com/album/5uMGynwajK5LQVS8eWeukY) | 3:16 |
-| 9 | [Track 3](https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk) | [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [Por Los Signos](https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw) | 0:00 |
+| 9 | [La Húngara](https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk) | [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [Por Los Signos](https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw) | 2:28 |
 | 10 | [Enamorada/Borracha](https://open.spotify.com/track/19e8wnUiAMOgEBzx7vlR4m) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Enamorada/Borracha](https://open.spotify.com/album/1VStzq3uPnaiBPCDzJbW7C) | 2:58 |
 | 11 | [Hay ángeles](https://open.spotify.com/track/5QZ9izo8nUUvIxzB8rmfQ6) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Dja Dja](https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ) | 2:17 |
 | 12 | [Hay algo](https://open.spotify.com/track/3ZuduOB37xoXAaAyK0hsdB) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Hay algo](https://open.spotify.com/album/7tv3XvMkb9yHlnlLUJRkfW) | 4:20 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [TRIQUITRÁ](https://open.spotify.com/track/7E7xOpun0BhYe0fl6v1nzL) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [TRIQUITRÁ](https://open.spotify.com/album/4fyA6fEJoPKHHfb0CoRtaa) | 2:06 |
 | 120 | [Reflejo](https://open.spotify.com/track/6eKf2CBWRUsxtUP2P0rwsN) | [Gazella](https://open.spotify.com/artist/1wmWQx4d3FD5M1FjIrk3wH) | [Reflejo](https://open.spotify.com/album/7HWj12XgMvVoW4x9uZs8ay) | 3:22 |
 
-Snapshot ID: `AAAAAAgrQBbYG9oMELm3pqVBD6krec8C`
+Snapshot ID: `AAAAADRacWeaLwgmRfrrdoy8q/M2c4Uo`

@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-432 songs - 1 day 0 hr 41 min
+434 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Black Motorcycle](https://open.spotify.com/track/0kUhkfPFkj5WNkGOKjoQxb) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Black Motorcycle](https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo) | 3:16 | 2023-01-02 |  |
 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 | 2021-11-01 |  |
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2022-02-18 |  |
-| [Blackout Betty](https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 4:01 | 2024-03-01 |  |
+| [Blackout Betty](https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 4:01 | 2024-03-01 | 2026-10-17 |
 | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Jason Hook](https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ) | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv) | 3:27 | 2021-11-01 | 2023-08-31 |
 | [Blood Runs Thicker](https://open.spotify.com/track/1ZzMmeMv0O9Unpd6Fn1uZm) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [forgive, forget.](https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp) | 3:29 | 2026-06-22 |  |
 | [Born To Run To You](https://open.spotify.com/track/0twsV7eMjVD8IpfIo5NiQn) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Born To Run To You](https://open.spotify.com/album/4QCzfUh6QkwcNLVjM7Dh2k) | 3:01 | 2023-03-03 | 2023-03-18 |
@@ -124,6 +124,7 @@
 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 | 2024-07-05 |  |
 | [Drunk Prayer](https://open.spotify.com/track/7w92AueIig6NWpM8kqAwMK) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Drunk Prayer](https://open.spotify.com/album/63JXCuKtwKdcwtZchH17Cb) | 3:21 | 2023-12-08 | 2024-03-09 |
 | [ELEVATE](https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [THE WAY \(Deluxe\)](https://open.spotify.com/album/6dvrpWZMYRBtFiYHMisNgD) | 4:09 | 2025-12-05 | 2026-03-05 |
+| [Emergency Contact](https://open.spotify.com/track/5Gqc0v0mskcOQvuwY0Xlqg) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Emergency Contact](https://open.spotify.com/album/5lWcVSohH4aaeyw6046o2F) | 3:06 | 2026-10-16 |  |
 | [Even The Devil](https://open.spotify.com/track/0R5xOrUdw4bDHlaJ96bWYM) | [Murphy Elmore](https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9) | [Even The Devil](https://open.spotify.com/album/2lMv82sDWSdhIcva2Wr47e) | 2:52 | 2024-01-05 | 2025-04-26 |
 | [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 | 2024-02-23 | 2024-09-19 |
 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-27 |  |
@@ -201,7 +202,7 @@
 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 | 2025-06-27 |  |
 | [I Mean It](https://open.spotify.com/track/7ppYbpPqxoNdyxm6117MVK) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [I Mean It](https://open.spotify.com/album/3qzY6amUI4j16xFsZM4WN0) | 3:05 | 2025-05-02 |  |
 | [I Met This Girl](https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [I Met This Girl](https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz) | 3:19 | 2025-06-27 |  |
-| [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 | 2021-11-01 |  |
+| [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 | 2021-11-01 | 2026-10-17 |
 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 | 2021-11-01 | 2024-08-24 |
 | [I Should Have Known It](https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I Should Have Known It](https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO) | 3:56 | 2024-04-26 | 2024-06-11 |
 | [I Thought Wrong](https://open.spotify.com/track/5Yzw0PsR0v3sNk4ZwfMHGH) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [I Thought Wrong](https://open.spotify.com/album/04EgGtKlnzafoBbWwiEmkn) | 3:14 | 2023-09-29 | 2024-03-02 |
@@ -297,6 +298,7 @@
 | [Pull Me Under](https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:28 | 2022-07-22 | 2023-04-22 |
 | [Pull Me Under](https://open.spotify.com/track/6diaA6bkHgXuhlkmIYVAkf) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Pull Me Under](https://open.spotify.com/album/75aqS5tQ46UH4dsynit10p) | 4:28 | 2021-11-12 | 2022-07-29 |
 | [Put It in the Plate](https://open.spotify.com/track/11t73HjNMUYPcpaTFzdbzo) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Put It in the Plate](https://open.spotify.com/album/6jHIwtGXABMsY3SI56YV6k) | 2:43 | 2022-06-03 | 2022-07-10 |
+| [Rabbit Gets The Gun](https://open.spotify.com/track/0sFxHWS8kQz18rAFES6JXe) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [Rabbit Gets The Gun](https://open.spotify.com/album/1O2BobyL6J7bcat222sLAz) | 3:34 | 2026-10-16 |  |
 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 | 2022-08-17 |
 | [Ramon Ayala](https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 2:48 | 2022-11-01 | 2024-04-19 |
 | [Ramon Ayala](https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ) | 2:48 | 2022-09-16 | 2022-10-31 |

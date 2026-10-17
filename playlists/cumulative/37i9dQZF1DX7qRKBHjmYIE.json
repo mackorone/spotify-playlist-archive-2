@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Andrea Bejar.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chuwi.",
   "name": "Mixto",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 144768,
       "name": "5JONES",
       "url": "https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT"
@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Amarillo nena",
+        "url": "https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148694,
+      "name": "Amarillo nena",
+      "url": "https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
       },
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202800,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204265,
       "name": "Cenizas En El Desierto",
       "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
@@ -9359,6 +9377,24 @@
     },
     {
       "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "album": {
         "name": "LA FAMA (with The Weeknd)",
         "url": "https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU"
       },
@@ -9846,6 +9882,24 @@
       "duration_ms": 222634,
       "name": "Levitando Lento",
       "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
+    },
+    {
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/2wCPL6MDguOP9bQIngrLwg"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274937,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/4XDaqSDD7KeDVGYWUoTXzB"
     },
     {
       "album": {
@@ -11176,7 +11230,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202354,
       "name": "Me Asusta Amar Tanto la Soledad",
       "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
@@ -14349,6 +14403,28 @@
     },
     {
       "album": {
+        "name": "PECADO",
+        "url": "https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "PECADO",
+      "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
+    },
+    {
+      "album": {
         "name": "Estyland EP",
         "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
       },
@@ -14734,7 +14810,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 192214,
       "name": "PIRRI",
       "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
@@ -15049,6 +15125,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
+    },
+    {
+      "album": {
         "name": "PR\u00cdNCIPE",
         "url": "https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW"
       },
@@ -15202,6 +15296,24 @@
       "duration_ms": 186813,
       "name": "Que Nadie Nos Entienda",
       "url": "https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb"
+    },
+    {
+      "album": {
+        "name": "que seas t\u00fa -- & amor herido . . .",
+        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "que seas t\u00fa --",
+      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
     },
     {
       "album": {
@@ -16405,6 +16517,24 @@
     },
     {
       "album": {
+        "name": "si",
+        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151624,
+      "name": "si",
+      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+    },
+    {
+      "album": {
         "name": "Si Es Verdad",
         "url": "https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr"
       },
@@ -16690,7 +16820,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 179186,
       "name": "Sin M\u00ed",
       "url": "https://open.spotify.com/track/0eUR25AAXUBYWTGhNoSX5u"
@@ -18616,7 +18746,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 171340,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/2Blydh05Xl0U0LST9beyR7"
@@ -18728,7 +18858,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156426,
       "name": "tqm <3",
       "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
@@ -20518,6 +20648,24 @@
       "duration_ms": 214000,
       "name": "\u00bfPara d\u00f3nde vamos?",
       "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
+    },
+    {
+      "album": {
+        "name": "mosca",
+        "url": "https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197879,
+      "name": "\u00bfQu\u00e9 Tan Cerca Es Cerca?",
+      "url": "https://open.spotify.com/track/3koTH4PYS8Pd8arnOg9sCr"
     },
     {
       "album": {

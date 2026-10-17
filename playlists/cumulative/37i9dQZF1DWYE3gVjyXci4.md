@@ -4,7 +4,7 @@
 
 > The voice of a generation\. Or at least a voice\. Of a generation\. THE girls are coming back.
 
-102 songs - 6 hr 8 min
+103 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2025-08-18 |  |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2025-08-18 |  |
 | [Girls Just Wanna](https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Girlhood](https://open.spotify.com/album/05KNazpljahHfx1ElDNujj) | 2:16 | 2026-02-13 |  |
+| [Girls' Girl](https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Blue Alchemy](https://open.spotify.com/album/14l4lt67zgEYveD4olBc52) | 2:59 | 2026-10-16 |  |
 | [Give A Little](https://open.spotify.com/track/3D4uUFRoYDFHbkQlTKL2Om) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:46 | 2025-08-18 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2025-08-18 |  |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2025-08-18 | 2025-09-20 |

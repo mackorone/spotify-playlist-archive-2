@@ -293,6 +293,42 @@
     },
     {
       "album": {
+        "name": "Amalgama",
+        "url": "https://open.spotify.com/album/5dUgQxv2SDI8lh66rFQbDg"
+      },
+      "artists": [
+        {
+          "name": "Kidchen",
+          "url": "https://open.spotify.com/artist/0rssDtHql43sHidf6XgMz8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158952,
+      "name": "Ay Carachas",
+      "url": "https://open.spotify.com/track/0mbLyhECxVrL9318wVNwWO"
+    },
+    {
+      "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/5fLZaruB6jHm1j2e3731Ji"
+      },
+      "artists": [
+        {
+          "name": "Todo Bien Todo Mal",
+          "url": "https://open.spotify.com/artist/0uj2hj0Vurk8ZaGgH0BmJa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238710,
+      "name": "Azulejos",
+      "url": "https://open.spotify.com/track/5VR2BinoOdMmXVRyie5WX2"
+    },
+    {
+      "album": {
         "name": "Bah\u00eda Conejo",
         "url": "https://open.spotify.com/album/5Vfp7Pf7oj7wQGlzjw0l8M"
       },
@@ -510,6 +546,24 @@
       "duration_ms": 228642,
       "name": "Cielo Negro",
       "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
+    },
+    {
+      "album": {
+        "name": "Cielos que Lloran",
+        "url": "https://open.spotify.com/album/5TcxrVOGHpuhqbG7w2FpqV"
+      },
+      "artists": [
+        {
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Cielos que Lloran",
+      "url": "https://open.spotify.com/track/0HI8csppfcWsrt4EnTvHfb"
     },
     {
       "album": {
@@ -992,7 +1046,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 234000,
       "name": "El Club Internacional de Astronautas Fracasados",
       "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
@@ -1082,7 +1136,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 146629,
       "name": "Emo Mid Windows",
       "url": "https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs"
@@ -1136,7 +1190,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 152842,
       "name": "Escalestri",
       "url": "https://open.spotify.com/track/4VVR44HUx1Y4fFYhQAmKcE"
@@ -1323,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Eternidad",
+        "url": "https://open.spotify.com/album/15hJZbuD9iRNdtmxebeWA9"
+      },
+      "artists": [
+        {
+          "name": "MILLIE\u00ae",
+          "url": "https://open.spotify.com/artist/2LUciXUhY3ChupWknWcwZo"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191367,
+      "name": "Eternidad",
+      "url": "https://open.spotify.com/track/4cnEACEQllbCk79vJg2XyI"
+    },
+    {
+      "album": {
         "name": "sky of fading lights",
         "url": "https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N"
       },
@@ -1410,6 +1482,24 @@
       "duration_ms": 242823,
       "name": "fluya +",
       "url": "https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc"
+    },
+    {
+      "album": {
+        "name": "Deseo, Carne y Voluntad",
+        "url": "https://open.spotify.com/album/4XqjkJmo5IHFQEOm8PsGut"
+      },
+      "artists": [
+        {
+          "name": "Candelabro",
+          "url": "https://open.spotify.com/artist/1vcHRdox9r4UWUTWLHZ7Au"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375462,
+      "name": "Fracaso",
+      "url": "https://open.spotify.com/track/4wN2VAf6myh17BjzPnVTao"
     },
     {
       "album": {
@@ -2190,7 +2280,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 108000,
       "name": "Mata a Tus \u00cddolos",
       "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
@@ -2652,7 +2742,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 99560,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/2ymr2d8Uu3lNRCArxtbxjX"
@@ -2746,7 +2836,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 186136,
       "name": "Otro Verano Campe\u00f3n",
       "url": "https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX"
@@ -3714,6 +3804,24 @@
       "duration_ms": 132933,
       "name": "Todo es igual",
       "url": "https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT"
+    },
+    {
+      "album": {
+        "name": "41 Parte 2",
+        "url": "https://open.spotify.com/album/6oMayndBmwjZ5J6mNPQgO5"
+      },
+      "artists": [
+        {
+          "name": "Fila9",
+          "url": "https://open.spotify.com/artist/2GD3xRfQ8lBw95xkBu6Jtp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261247,
+      "name": "Todo est\u00e1 en su lugar",
+      "url": "https://open.spotify.com/track/4OvJqgianRiUfLXCp4dyXI"
     },
     {
       "album": {

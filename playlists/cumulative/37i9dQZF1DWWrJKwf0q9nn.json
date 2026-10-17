@@ -5595,6 +5595,40 @@
     },
     {
       "album": {
+        "name": "Closer To You (feat. NivesKa)",
+        "url": "https://open.spotify.com/album/0ktKE3LrBU4mPaQ0rbHofw"
+      },
+      "artists": [
+        {
+          "name": "Chus & Ceballos",
+          "url": "https://open.spotify.com/artist/3yjqxf3d3aCOFrrsxIl326"
+        },
+        {
+          "name": "Toni Rios",
+          "url": "https://open.spotify.com/artist/7gKUTghSxTDyTk4vRYTJuA"
+        },
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        },
+        {
+          "name": "Pablo Ceballos",
+          "url": "https://open.spotify.com/artist/0C5DdmGjuHb4KiH7vTpzvU"
+        },
+        {
+          "name": "NivesKa",
+          "url": "https://open.spotify.com/artist/7BADqvu8vYBuYInhBOpAB0"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204761,
+      "name": "Closer To You (feat. NivesKa)",
+      "url": "https://open.spotify.com/track/2olhWuz49yW17O0V8ESU2d"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/1PyUm9Ez6uKvsWNn7bEJbD"
       },
@@ -30358,6 +30392,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "date_added": "2026-10-15",
@@ -30890,24 +30928,6 @@
       "duration_ms": 183750,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD"
-    },
-    {
-      "album": {
-        "name": "Closer To You (feat. NivesKa)",
-        "url": "https://open.spotify.com/album/0ktKE3LrBU4mPaQ0rbHofw"
-      },
-      "artists": [
-        {
-          "name": "Chus & Ceballos",
-          "url": "https://open.spotify.com/artist/3yjqxf3d3aCOFrrsxIl326"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2olhWuz49yW17O0V8ESU2d"
     },
     {
       "album": {

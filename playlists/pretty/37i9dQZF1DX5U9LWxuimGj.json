@@ -1,12 +1,12 @@
 {
   "description": "Country music with a Latin flair. Cover: Kacey Musgraves and Intocable",
-  "num_followers": 38190,
+  "num_followers": 38200,
   "original_name": "Country Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIVqzRnxpDhlfjWXGKciHDe8NOv/",
+  "snapshot_id": "AAAAAA8oT7ZOrfg8Xd2azse4FdyEq4l9",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:32",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3"
     },
     {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "Ruta 77",
+        "url": "https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 210705,
+      "name": "DQTD",
+      "url": "https://open.spotify.com/track/6d7IqPuFFgP59UzuJKG0DA"
+    },
+    {
       "added_at": "2026-10-09 04:00:32",
       "album": {
         "name": "TODO PENDEJO",
@@ -43,6 +63,22 @@
       "duration_ms": 190359,
       "name": "TODO PENDEJO",
       "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
+    },
+    {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "Contigo S\u00ed Dan Ganas",
+        "url": "https://open.spotify.com/album/052Tn0P9rgtIsuLBTgb7mS"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Contigo S\u00ed Dan Ganas",
+      "url": "https://open.spotify.com/track/2ro5otYXGolpRDbjl3R2Np"
     },
     {
       "added_at": "2026-10-09 04:00:32",
@@ -81,6 +117,38 @@
       "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
     },
     {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "Cowboy Reggaeton",
+        "url": "https://open.spotify.com/album/0sV1kYWxzR6K11p9dwAjlU"
+      },
+      "artists": [
+        {
+          "name": "Cash Cortes",
+          "url": "https://open.spotify.com/artist/4PRsDz38Pho7HP2e9V4vXz"
+        }
+      ],
+      "duration_ms": 197440,
+      "name": "Cowboy Reggaeton",
+      "url": "https://open.spotify.com/track/6fr3UGdUwl9G0H0pCSdeZv"
+    },
+    {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "Yellow Roses",
+        "url": "https://open.spotify.com/album/23aRCwBl2NouJJa8dWMt61"
+      },
+      "artists": [
+        {
+          "name": "Vinny Tovar",
+          "url": "https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV"
+        }
+      ],
+      "duration_ms": 234021,
+      "name": "Yellow Roses",
+      "url": "https://open.spotify.com/track/1LVw27vqTxELtJi6kz78tM"
+    },
+    {
       "added_at": "2026-10-09 04:00:32",
       "album": {
         "name": "Two Boots",
@@ -95,6 +163,26 @@
       "duration_ms": 203967,
       "name": "Two Boots",
       "url": "https://open.spotify.com/track/0ey9A7L0UFKXmUTAVdJKY4"
+    },
+    {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "Ruta 77",
+        "url": "https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/1Gj7cfVDn5dKSiHzBWgk5q"
     },
     {
       "added_at": "2026-10-09 04:00:32",
@@ -117,6 +205,22 @@
       "url": "https://open.spotify.com/track/0kPgAvdXfYEcnROAGNc5vM"
     },
     {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/22RqDWRI67ixEJb6KxeyK8"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 213649,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/5P8jblieOpniI73tEboMYf"
+    },
+    {
       "added_at": "2026-10-09 04:00:32",
       "album": {
         "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
@@ -137,6 +241,26 @@
       "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
     },
     {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "BAR",
+        "url": "https://open.spotify.com/album/1khfBnZJdzbHmY5cJGwGDV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 183913,
+      "name": "BAR",
+      "url": "https://open.spotify.com/track/3rAFjj4zSIUpA18P8tRuyZ"
+    },
+    {
       "added_at": "2026-10-09 04:00:32",
       "album": {
         "name": "Dejame Dormir",
@@ -155,6 +279,22 @@
       "duration_ms": 160500,
       "name": "Dejame Dormir",
       "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
+    },
+    {
+      "added_at": "2026-10-16 07:20:34",
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Dosis",
+      "url": "https://open.spotify.com/track/6VUGq7Gi6q5luloeeROI6W"
     },
     {
       "added_at": "2026-10-09 04:00:32",
@@ -671,22 +811,6 @@
     {
       "added_at": "2026-10-09 04:00:32",
       "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/73sY5IrItdFAzqqiGMwKEN"
-      },
-      "artists": [
-        {
-          "name": "Kat Luna",
-          "url": "https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt"
-        }
-      ],
-      "duration_ms": 191233,
-      "name": "No Soy Yo - That Girl - Spanish Version",
-      "url": "https://open.spotify.com/track/4dZdl2cOAPZBTltbb7BWJc"
-    },
-    {
-      "added_at": "2026-10-09 04:00:32",
-      "album": {
         "name": "The Ballad Of A Lonely Man",
         "url": "https://open.spotify.com/album/6t4jHWaV2flIBBSyGU7Olh"
       },
@@ -703,26 +827,6 @@
     {
       "added_at": "2026-10-09 04:00:32",
       "album": {
-        "name": "Alch Si",
-        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153953,
-      "name": "Alch Si",
-      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
-    },
-    {
-      "added_at": "2026-10-09 04:00:32",
-      "album": {
         "name": "Cumbias Light, Vol. 2",
         "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
       },
@@ -735,22 +839,6 @@
       "duration_ms": 215869,
       "name": "Whiskey and Tequila",
       "url": "https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd"
-    },
-    {
-      "added_at": "2026-10-09 04:00:32",
-      "album": {
-        "name": "Bartender I'll Take Two",
-        "url": "https://open.spotify.com/album/6SQuLISq4Rb7eMvjkkTn57"
-      },
-      "artists": [
-        {
-          "name": "Selestial Alcoser",
-          "url": "https://open.spotify.com/artist/4HtKg8ufn3YPH6xsZLQEUn"
-        }
-      ],
-      "duration_ms": 218063,
-      "name": "Bartender I'll Take Two",
-      "url": "https://open.spotify.com/track/5xr9LifX1cb8oRoCMzqEVC"
     },
     {
       "added_at": "2026-10-09 04:00:32",
@@ -1023,22 +1111,6 @@
     {
       "added_at": "2026-10-09 04:00:32",
       "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 172124,
-      "name": "Mal Necesario",
-      "url": "https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu"
-    },
-    {
-      "added_at": "2026-10-09 04:00:32",
-      "album": {
         "name": "Triston Marez",
         "url": "https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N"
       },
@@ -1059,30 +1131,6 @@
       "duration_ms": 279786,
       "name": "Texas Swing (with Squeezebox Bandits & Jessica Roadcap)",
       "url": "https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4"
-    },
-    {
-      "added_at": "2026-10-09 04:00:32",
-      "album": {
-        "name": "God Blessed Texas (Dios Bendijo Tejas)",
-        "url": "https://open.spotify.com/album/4hgTfYHTpkBr4Go7yc8xzo"
-      },
-      "artists": [
-        {
-          "name": "Keith Nieto",
-          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
-        },
-        {
-          "name": "Sunny Sauceda",
-          "url": "https://open.spotify.com/artist/1UFXT6Zf12IsTUnNPRbmUg"
-        },
-        {
-          "name": "Rico Gonzalez",
-          "url": "https://open.spotify.com/artist/3j5zo7b5Y9LJ8wNchavXIi"
-        }
-      ],
-      "duration_ms": 209076,
-      "name": "God Blessed Texas - Dios Bendijo Tejas",
-      "url": "https://open.spotify.com/track/4k8tSZNNYWAaKJf6yAW8Cr"
     },
     {
       "added_at": "2026-10-09 04:00:32",
@@ -1171,26 +1219,6 @@
       "duration_ms": 225539,
       "name": "Never Be the Same (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
-    },
-    {
-      "added_at": "2026-10-09 04:00:32",
-      "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
       "added_at": "2026-10-09 04:00:32",
@@ -1351,22 +1379,6 @@
       "duration_ms": 204812,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/7esySixzBv7n9uM259kLeP"
-    },
-    {
-      "added_at": "2026-10-09 04:00:32",
-      "album": {
-        "name": "Getcha Some",
-        "url": "https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU"
-      },
-      "artists": [
-        {
-          "name": "Frank Ray",
-          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "Late",
-      "url": "https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF"
     },
     {
       "added_at": "2026-10-09 04:00:32",

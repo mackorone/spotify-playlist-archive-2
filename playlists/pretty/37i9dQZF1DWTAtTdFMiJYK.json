@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Anubha Bajaj",
-  "num_followers": 205227,
+  "num_followers": 205295,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMQ6INanDNm8llNrpQoH7UkO38T",
+  "snapshot_id": "AAAAAMLvbO+3xIIGEiN92gzQ5CLVEUj+",
   "tracks": [
     {
       "added_at": "2026-10-10 03:44:03",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Maname",
-        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
-      },
-      "artists": [
-        {
-          "name": "Sarah Black",
-          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Maname",
-      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Theher Ja",
         "url": "https://open.spotify.com/album/16Eh0m4GVjxBItglAbTkI9"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 249062,
       "name": "Theher Ja",
       "url": "https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Maname",
+        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Black",
+          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Maname",
+      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
+        "name": "TERA PATA",
+        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "TERA PATA",
+      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
         "name": "Saawariya",
         "url": "https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "TERA PATA",
-        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "TERA PATA",
-      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Bolo Bolo",
         "url": "https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD"
       },
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Main Khadya",
-        "url": "https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4"
-      },
-      "artists": [
-        {
-          "name": "Naveen Chaudhary",
-          "url": "https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB"
-        },
-        {
-          "name": "Heer",
-          "url": "https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Main Khadya",
-      "url": "https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Better With You (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 174065,
       "name": "Better With You (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Main Khadya",
+        "url": "https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4"
+      },
+      "artists": [
+        {
+          "name": "Naveen Chaudhary",
+          "url": "https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Main Khadya",
+      "url": "https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
         "name": "Talkhiyaan",
         "url": "https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 182068,
       "name": "Ab Na Laut Paayenge",
       "url": "https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
-        "name": "Naina",
-        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
-      },
-      "artists": [
-        {
-          "name": "Bombay the Artist",
-          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Naina",
-      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
+        "name": "Megham",
+        "url": "https://open.spotify.com/album/6yEQVYaMrYWUOFSDb7DXwl"
+      },
+      "artists": [
+        {
+          "name": "Bhumi",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "pixlpxl\u00ae",
+          "url": "https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1"
+        },
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "duration_ms": 231794,
+      "name": "Megham",
+      "url": "https://open.spotify.com/track/2nZWrBa9MRHz3vtvvQ2lXs"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
         "name": "Jaane Bhi Do",
         "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 187342,
       "name": "Kya Kahein",
       "url": "https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
-        "name": "Megham",
-        "url": "https://open.spotify.com/album/6yEQVYaMrYWUOFSDb7DXwl"
-      },
-      "artists": [
-        {
-          "name": "Bhumi",
-          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
-        },
-        {
-          "name": "pixlpxl\u00ae",
-          "url": "https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1"
-        },
-        {
-          "name": "Samad Khan",
-          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
-        }
-      ],
-      "duration_ms": 231794,
-      "name": "Megham",
-      "url": "https://open.spotify.com/track/2nZWrBa9MRHz3vtvvQ2lXs"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1449,6 +1449,30 @@
       "url": "https://open.spotify.com/track/7yhf8seGjPGmtxSFPYdeln"
     },
     {
+      "added_at": "2026-10-10 03:44:03",
+      "album": {
+        "name": "Neenillade",
+        "url": "https://open.spotify.com/album/38hrDlO78IrsjnccaHnJBX"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Mandoth",
+          "url": "https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w"
+        },
+        {
+          "name": "Vivek Kiran",
+          "url": "https://open.spotify.com/artist/0gAOUi1kq4d2QBOBgkIota"
+        },
+        {
+          "name": "Gaana Samskruth",
+          "url": "https://open.spotify.com/artist/28acYuin4RNdTRBr6VpFNE"
+        }
+      ],
+      "duration_ms": 266144,
+      "name": "Neenillade",
+      "url": "https://open.spotify.com/track/1AnfXISgiKDaXLYHYuPSvn"
+    },
+    {
       "added_at": "2026-10-05 08:00:18",
       "album": {
         "name": "Kaise Ho Tum",
@@ -1471,30 +1495,6 @@
       "duration_ms": 163899,
       "name": "Kaise Ho Tum",
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
-        "name": "Achaar Samachaar",
-        "url": "https://open.spotify.com/album/6j7mJeoD9OjVipnxoUnWyR"
-      },
-      "artists": [
-        {
-          "name": "Faizan",
-          "url": "https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x"
-        },
-        {
-          "name": "Ghabraahat Intensifies",
-          "url": "https://open.spotify.com/artist/0MIx96qVdmIUSO8ifuKAlh"
-        },
-        {
-          "name": "toorjo dey",
-          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
-        }
-      ],
-      "duration_ms": 214945,
-      "name": "Achaar Samachaar",
-      "url": "https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt"
     }
   ],
   "unique_name": "RADAR India",

@@ -1,12 +1,12 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13809,
+  "num_followers": 13815,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABtL6pqtLuHdugHYqetl171tFlyt",
+  "snapshot_id": "AAAAADBnm/R2ah7XQ+x2IJuHeok0qT4r",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:12",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Nacht",
+        "url": "https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf"
+      },
+      "artists": [
+        {
+          "name": "Boys On Pills",
+          "url": "https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Wenn I l\u00e4b, wenn I stirb",
+      "url": "https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Verd\u00e4chtig",
         "url": "https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 293933,
       "name": "Glasm\u00f6nsch",
       "url": "https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Nacht",
-        "url": "https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf"
-      },
-      "artists": [
-        {
-          "name": "Boys On Pills",
-          "url": "https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Wenn I l\u00e4b, wenn I stirb",
-      "url": "https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Dr einzig W\u00e4g",
+        "url": "https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE"
+      },
+      "artists": [
+        {
+          "name": "P-27",
+          "url": "https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ"
+        },
+        {
+          "name": "MC Rony",
+          "url": "https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "Geballte Hip Hop",
+      "url": "https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Jede Tag'n Gleiser",
         "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 207013,
       "name": "W\u00e4nn",
       "url": "https://open.spotify.com/track/7G8YSQkUa5BOH1EDUVcPZ3"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Dr einzig W\u00e4g",
-        "url": "https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE"
-      },
-      "artists": [
-        {
-          "name": "P-27",
-          "url": "https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ"
-        },
-        {
-          "name": "MC Rony",
-          "url": "https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq"
-        }
-      ],
-      "duration_ms": 230960,
-      "name": "Geballte Hip Hop",
-      "url": "https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Introspektion",
+        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
+      },
+      "artists": [
+        {
+          "name": "Taz",
+          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
+        }
+      ],
+      "duration_ms": 251626,
+      "name": "Brugg",
+      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Nahdisnah",
         "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Introspektion",
-        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
+        "name": "Halbin\u00fcni Chlorzicht",
+        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
       },
       "artists": [
         {
-          "name": "Taz",
-          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
+          "name": "Primitive Lyrics",
+          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
         }
       ],
-      "duration_ms": 251626,
-      "name": "Brugg",
-      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
+      "duration_ms": 249666,
+      "name": "Schtei",
+      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -787,22 +803,6 @@
       "duration_ms": 273266,
       "name": "Bruch e Waag",
       "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Halbin\u00fcni Chlorzicht",
-        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
-      },
-      "artists": [
-        {
-          "name": "Primitive Lyrics",
-          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Schtei",
-      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
     },
     {
       "added_at": "2026-10-08 22:00:12",

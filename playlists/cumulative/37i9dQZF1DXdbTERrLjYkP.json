@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 241996,
       "name": "Bad Girl July",
       "url": "https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk"
@@ -4030,6 +4030,24 @@
       "duration_ms": 180924,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC"
+    },
+    {
+      "album": {
+        "name": "Cool On You",
+        "url": "https://open.spotify.com/album/7ravH6PuMD7kFjS1AS6QRC"
+      },
+      "artists": [
+        {
+          "name": "Josephine Genais",
+          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235659,
+      "name": "Cool On You",
+      "url": "https://open.spotify.com/track/2whnzJ9ltpgvitX57bLTqz"
     },
     {
       "album": {
@@ -6746,6 +6764,46 @@
       "duration_ms": 205243,
       "name": "Girl Who Comes Next",
       "url": "https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI"
+    },
+    {
+      "album": {
+        "name": "Blue Alchemy",
+        "url": "https://open.spotify.com/album/14l4lt67zgEYveD4olBc52"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        },
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179041,
+      "name": "Girls' Girl",
+      "url": "https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk"
+    },
+    {
+      "album": {
+        "name": "I Love You, or Whatever",
+        "url": "https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225480,
+      "name": "Glad You're Happy",
+      "url": "https://open.spotify.com/track/0P8aTiBuqNTtqxgLGv8XhM"
     },
     {
       "album": {
@@ -12241,6 +12299,24 @@
     },
     {
       "album": {
+        "name": "Mayday (demo)",
+        "url": "https://open.spotify.com/album/2e1jWR6PJ7OlCXetM3zXWW"
+      },
+      "artists": [
+        {
+          "name": "Tadhg Nolan",
+          "url": "https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Mayday - demo",
+      "url": "https://open.spotify.com/track/7445p1aASItE7TjSy6tWn0"
+    },
+    {
+      "album": {
         "name": "Well Here We Are - EP",
         "url": "https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s"
       },
@@ -14532,6 +14608,24 @@
       "duration_ms": 218433,
       "name": "pretty when u cry",
       "url": "https://open.spotify.com/track/5XVz2gm474WOD26Q3pp9PA"
+    },
+    {
+      "album": {
+        "name": "primadonna",
+        "url": "https://open.spotify.com/album/3kXlnrMhGhYKHb4y3ALGgj"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "primadonna",
+      "url": "https://open.spotify.com/track/7i5F2qBUH6UvG2ZJ8pwtLP"
     },
     {
       "album": {
@@ -20714,6 +20808,24 @@
       "duration_ms": 232000,
       "name": "You Said I'd Feel It All Again",
       "url": "https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H"
+    },
+    {
+      "album": {
+        "name": "You Still Love Me Anyway",
+        "url": "https://open.spotify.com/album/4W1JzgDQTHFnENEJqkoSQd"
+      },
+      "artists": [
+        {
+          "name": "Ruby Poole",
+          "url": "https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "You Still Love Me Anyway",
+      "url": "https://open.spotify.com/track/7zV2WzbxFaYxC3Uv4LBQwF"
     },
     {
       "album": {

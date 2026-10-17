@@ -1,13 +1,29 @@
 {
   "description": "Turn this playlist all the way up! Featuring SOB x RBE, T.I., Fenix Flexin, Shaboozey &amp; more.",
-  "num_followers": 32939,
+  "num_followers": 32934,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAcjo2jN9Lv0d+a2M7k+MX0UpPdYeTg",
+  "snapshot_id": "AAAcj1de9mvvvzcatI1fxc3m/VS+8ycP",
   "tracks": [
+    {
+      "added_at": "2026-10-16 06:50:54",
+      "album": {
+        "name": "Day by Day, Shway Shway",
+        "url": "https://open.spotify.com/album/40qljUA8WPAsuSTyO9JyGN"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 158928,
+      "name": "Missing Home",
+      "url": "https://open.spotify.com/track/3B18FHfCzhBzqGTy1CQVuH"
+    },
     {
       "added_at": "2026-06-26 21:20:54",
       "album": {

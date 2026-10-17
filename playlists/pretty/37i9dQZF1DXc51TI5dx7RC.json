@@ -1,33 +1,13 @@
 {
-  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GAVIN:D, Violette Wautier",
-  "num_followers": 294302,
+  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN, THE TOYS",
+  "num_followers": 294347,
   "original_name": "Hot Hits Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACIkdRgCoiXlI89zz7mFrjSykuPP",
+  "snapshot_id": "AAAAACGgC2hzVckVpS36rwKm9x/BktMs",
   "tracks": [
-    {
-      "added_at": "2026-10-09 08:43:50",
-      "album": {
-        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
-        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        },
-        {
-          "name": "BLVCKHEART",
-          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
-        }
-      ],
-      "duration_ms": 261785,
-      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
-      "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
-    },
     {
       "added_at": "2026-10-09 08:43:50",
       "album": {
@@ -47,6 +27,46 @@
       "duration_ms": 228493,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
       "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
+    },
+    {
+      "added_at": "2026-10-16 11:25:28",
+      "album": {
+        "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+        "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+      "url": "https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5"
+    },
+    {
+      "added_at": "2026-10-09 08:43:50",
+      "album": {
+        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "duration_ms": 261785,
+      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+      "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
     },
     {
       "added_at": "2026-10-09 08:43:50",
@@ -535,22 +555,6 @@
       "duration_ms": 250232,
       "name": "\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/3ZxGBncHdyXG7Mxa7d429r"
-    },
-    {
-      "added_at": "2026-10-09 08:43:50",
-      "album": {
-        "name": "new trick",
-        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "new trick",
-      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
     },
     {
       "added_at": "2026-10-09 08:43:50",

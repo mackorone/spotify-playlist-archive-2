@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 247111,
+  "num_followers": 247159,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MmRIqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MmWX0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
         "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Sygt jeg stadig savner dig",
         "url": "https://open.spotify.com/album/6o8QEdwfJKT01ZKLbVf2VK"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/3YT4FLkIGMuMzht3erEUWX"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Shen Mao",
+        "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "duration_ms": 158568,
+      "name": "Shen Mao",
+      "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Larger Than Life ft. Benjamin Hav",
         "url": "https://open.spotify.com/album/4yImdIG0lmAc3alJc52PGG"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/5oz5hbrPeOH7HUPdy1YP8x"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Shen Mao",
-        "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
-      },
-      "artists": [
-        {
-          "name": "Kundo",
-          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
-        }
-      ],
-      "duration_ms": 158568,
-      "name": "Shen Mao",
-      "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Ringer Om Natten",
         "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Har Du M\u00e6rket Dig Selv?",
         "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Vil du noget?",
         "url": "https://open.spotify.com/album/0ZjD0TJyuPL3H8bmF8rsVb"
@@ -129,23 +129,23 @@
       "url": "https://open.spotify.com/track/4BDFCtjvCP99vx5bhvsFH4"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
+      "duration_ms": 193306,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
@@ -165,23 +165,23 @@
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
       },
       "artists": [
         {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
@@ -201,23 +201,7 @@
       "url": "https://open.spotify.com/track/19JSG4O2wKnhBXCkfg0ZIH"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Ham Med Guitaren",
-        "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Ham Med Guitaren",
-      "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -233,23 +217,23 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+        "name": "Ham Med Guitaren",
+        "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
       },
       "artists": [
         {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
         }
       ],
-      "duration_ms": 183713,
-      "name": "Ingen Kommentar",
-      "url": "https://open.spotify.com/track/5iK37UFKFmMbn1DsM436To"
+      "duration_ms": 194080,
+      "name": "Ham Med Guitaren",
+      "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
@@ -269,7 +253,7 @@
       "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Livsforladt",
         "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
@@ -296,12 +280,28 @@
           "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 153641,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks"
+      "duration_ms": 183713,
+      "name": "Ingen Kommentar",
+      "url": "https://open.spotify.com/track/5iK37UFKFmMbn1DsM436To"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
@@ -321,23 +321,23 @@
       "url": "https://open.spotify.com/track/6smQDSmvTjn5wCtTmL8tSt"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 210400,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
+      "duration_ms": 153641,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "D\u00e9t Der Udenfor",
         "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "En Som Dig (feat. Bl\u00e6st, ADAAM & Back To Back)",
         "url": "https://open.spotify.com/album/0egJx0r3KVGFeckHPcMHDs"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/2zRpuPGERrbAfRXqjCAKix"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "H\u00f8jt At Flyve Dybt At Falde",
         "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/7d3A0GKJHATJuMxWh3fcc3"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "VILD UNGDOM",
         "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
@@ -421,39 +421,7 @@
       "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 163425,
-      "name": "Brune \u00d8jne",
-      "url": "https://open.spotify.com/track/5dKRU44j9KSXl7rO4wercK"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
@@ -473,39 +441,7 @@
       "url": "https://open.spotify.com/track/2iknADh87vHUnBMMlJfzLM"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Smelter Under M\u00e5nen",
-        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 198388,
-      "name": "Smelter Under M\u00e5nen",
-      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "PPC",
         "url": "https://open.spotify.com/album/3hsG9b9I3od2hi7SXr0zZP"
@@ -525,27 +461,71 @@
       "url": "https://open.spotify.com/track/7M9Fk9ftwb9VxiImk28LBL"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 163425,
+      "name": "Brune \u00d8jne",
+      "url": "https://open.spotify.com/track/5dKRU44j9KSXl7rO4wercK"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Lige Her, Lige Nu",
         "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
@@ -565,23 +545,27 @@
       "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
       "artists": [
         {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 162757,
-      "name": "Blod",
-      "url": "https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ"
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
@@ -597,7 +581,39 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Livet Er For Kort (Del 1)",
+        "url": "https://open.spotify.com/album/27d3ar10qYMhOGRDaApaKt"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "Danser Med Minder",
+      "url": "https://open.spotify.com/track/1KN85nahgDh0529nlFmy0t"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 190925,
+      "name": "Vinden Bl\u00e6ser",
+      "url": "https://open.spotify.com/track/54a4KNL27zQgM2dljamEsn"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
@@ -617,55 +633,7 @@
       "url": "https://open.spotify.com/track/1HKeYplMmWJwrRYyX0bImw"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Livet Er For Kort (Del 1)",
-        "url": "https://open.spotify.com/album/27d3ar10qYMhOGRDaApaKt"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "Danser Med Minder",
-      "url": "https://open.spotify.com/track/1KN85nahgDh0529nlFmy0t"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 190925,
-      "name": "Vinden Bl\u00e6ser",
-      "url": "https://open.spotify.com/track/54a4KNL27zQgM2dljamEsn"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -685,39 +653,23 @@
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
-        "name": "Ved du jeg en snerle",
-        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
       },
       "artists": [
         {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 157097,
-      "name": "Kogeplade",
-      "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
+      "duration_ms": 162757,
+      "name": "Blod",
+      "url": "https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 175473,
-      "name": "Lille Hjerte",
-      "url": "https://open.spotify.com/track/0O08IPl7Ug0vbu8i9wHhjA"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
@@ -733,7 +685,107 @@
       "url": "https://open.spotify.com/track/5ZBMJCWOf1zulDDVdhFymO"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "(over)lever",
+        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 136503,
+      "name": "hader ik mig selv sammen med dig",
+      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 175473,
+      "name": "Lille Hjerte",
+      "url": "https://open.spotify.com/track/0O08IPl7Ug0vbu8i9wHhjA"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "duration_ms": 157097,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 112741,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/5se2Y774jv4KDDwqj5WP7n"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 145060,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/2ykOQPxyep90Q0rHQnBJvi"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
@@ -753,7 +805,7 @@
       "url": "https://open.spotify.com/track/5UDQp7qtq1MwLzcGidVm0N"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
@@ -769,7 +821,43 @@
       "url": "https://open.spotify.com/track/6jfQGAr8HVMjoT232tkwMI"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "Hvem er det der gr\u00e6der nu?",
+        "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hvem er det der gr\u00e6der nu?",
+      "url": "https://open.spotify.com/track/6UngwLrGYSueVi0PPIUZpt"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
+      "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "duration_ms": 242721,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "Hver Eneste Gang",
         "url": "https://open.spotify.com/album/7i3y8UzOiZOXOxAwZymwiQ"
@@ -793,59 +881,7 @@
       "url": "https://open.spotify.com/track/1p8AjTC2doJ2gau4MNbnZ8"
     },
     {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "(over)lever",
-        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 136503,
-      "name": "hader ik mig selv sammen med dig",
-      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 112741,
-      "name": "Peak",
-      "url": "https://open.spotify.com/track/5se2Y774jv4KDDwqj5WP7n"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        },
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 173208,
-      "name": "Culture Box (feat. Hans Philip)",
-      "url": "https://open.spotify.com/track/2Ho9KN8b1Y7olpRSFYOF4L"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
+      "added_at": "2026-10-16 14:19:41",
       "album": {
         "name": "V\u00c6RD AT ELSKE",
         "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
@@ -859,42 +895,6 @@
       "duration_ms": 146131,
       "name": "G\u00d8R NOGET",
       "url": "https://open.spotify.com/track/1iEBaWNVcztn9z1JQ1N9ly"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
-        }
-      ],
-      "duration_ms": 242721,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
-    },
-    {
-      "added_at": "2026-10-15 15:53:31",
-      "album": {
-        "name": "Hvem er det der gr\u00e6der nu?",
-        "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
-      },
-      "artists": [
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hvem er det der gr\u00e6der nu?",
-      "url": "https://open.spotify.com/track/6UngwLrGYSueVi0PPIUZpt"
     }
   ],
   "unique_name": "Top 50 - Denmark",

@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Joshua Slone
+> Today's top country hits\. Cover: Zach Bryan
 
-1,040 songs - 2 day 8 hr 15 min
+1,041 songs - 2 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Anybody But You](https://open.spotify.com/track/12qLkwjMVp1eTvHfjl2M5g) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:05 | 2024-01-05 | 2024-04-06 |
 | [Anything but Yellow](https://open.spotify.com/track/7HDpJlJj7OSJKsKXjllJeV) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Anything but Yellow](https://open.spotify.com/album/0sXFSZWJgiIheiygxFhnXv) | 3:00 | 2019-07-13 | 2019-08-10 |
 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2019-08-24 | 2020-06-21 |
-| [Appalachian Raised](https://open.spotify.com/track/4fIHkwFU2L36TqKrDtUWey) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Appalachian Raised](https://open.spotify.com/album/3cAZNZ7KJYzfzGaiimK2fR) | 3:43 | 2026-08-07 |  |
+| [Appalachian Raised](https://open.spotify.com/track/4fIHkwFU2L36TqKrDtUWey) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Appalachian Raised](https://open.spotify.com/album/3cAZNZ7KJYzfzGaiimK2fR) | 3:43 | 2026-08-07 | 2026-10-17 |
 | [Are We Ever Gonna Work Out, Baby?](https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Long Life Living for a Lover Boy](https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8) | 2:51 | 2026-10-09 |  |
 | [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2024-07-19 | 2024-10-05 |
 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 | 2024-08-02 | 2024-09-14 |
@@ -720,6 +720,7 @@
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-01-21 | 2023-01-06 |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-02-11 | 2022-12-10 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-09-21 |
+| [Plainsman \(feat\. Turnpike Troubadours\)](https://open.spotify.com/track/3fvDMzxUvLoVbbTCDVdj4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:46 | 2026-10-16 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-09 | 2026-02-14 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-11-03 | 2024-03-16 |
 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 | 2023-09-29 | 2024-02-10 |

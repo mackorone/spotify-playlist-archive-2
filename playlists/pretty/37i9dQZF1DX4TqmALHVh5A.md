@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: TheFrenchKris.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,931 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,953 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [SUPERFICIEL](https://open.spotify.com/track/0eBluLH6sBcNldfd0Lbh8Q) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SUPERFICIEL](https://open.spotify.com/album/4p7LQ8ouVtIYvsBfaJd8ny) | 2:59 |
 | 50 | [La flemme](https://open.spotify.com/track/4bOIaQgprATStZk6AEPo71) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [La flemme](https://open.spotify.com/album/7hPscfFDNYH4ITpKBYPgNX) | 2:03 |
 
-Snapshot ID: `AAAAAPo5vofcdXZmSN5QP7LBxejyiZZE`
+Snapshot ID: `AAAAAFLr8BzXdzAejSBP9Vx3UjBbc3y0`

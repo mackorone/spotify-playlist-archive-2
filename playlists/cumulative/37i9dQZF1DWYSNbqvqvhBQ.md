@@ -4,7 +4,7 @@
 
 > Nieuwe tijdloze muziek\. Cover: Teddy Swims
 
-968 songs - 2 day 9 hr 1 min
+969 songs - 2 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 | 2024-10-22 | 2025-02-28 |
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-04-24 | 2025-09-19 |
 | [Don't Let Me Go](https://open.spotify.com/track/7cnPWKugkvngck0zKReuW8) | [Typh Barrow](https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM) | [Don't Let Me Go](https://open.spotify.com/album/7a9CySuWBrCloiW8XC2aa1) | 2:54 | 2023-02-23 | 2023-06-02 |
+| [Don't Say It](https://open.spotify.com/track/5DrChTVsNNFMbRYsalIh4y) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [The Blueprint](https://open.spotify.com/album/3wmL3VMB0fuyK8H2tzfiGV) | 3:17 | 2026-10-15 |  |
 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 | 2025-10-02 | 2026-02-14 |
 | [Don't Walk Away](https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Don't Walk Away](https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of) | 3:23 | 2023-03-09 | 2023-07-15 |
 | [Don't Walk Away](https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 4:22 | 2024-04-04 | 2024-06-28 |
@@ -472,6 +473,7 @@
 | [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 | 2026-04-16 | 2026-10-03 |
 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 | 2025-08-29 | 2026-02-20 |
 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 | 2025-04-11 | 2025-10-01 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-15 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-11 | 2024-10-04 |
 | [Life Is For Living](https://open.spotify.com/track/3BU1YruNRetS73hIWNLrkF) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [There Is Nothing In The Dark That Isn't There In The Light](https://open.spotify.com/album/3skYNW6jr0A74PoHjmu7ZB) | 4:08 | 2026-04-13 |  |
 | [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 | 2023-12-08 | 2024-05-03 |
@@ -871,7 +873,6 @@
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-28 | 2024-04-19 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-04-18 | 2024-08-30 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-26 | 2024-03-31 |
-| [Track 3](https://open.spotify.com/track/5DrChTVsNNFMbRYsalIh4y) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [The Blueprint](https://open.spotify.com/album/3wmL3VMB0fuyK8H2tzfiGV) | 0:00 | 2026-10-15 |  |
 | [Trade it for the Night \- Single Version](https://open.spotify.com/track/2cuxy7AW3bLGFfEK0ugD6L) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/0wdUPsYwH8Z1lGQf0Jqej6) | 3:48 | 2023-02-23 | 2023-08-01 |
 | [Trade it for the Night \- Symphonic Version](https://open.spotify.com/track/5s5Nqv8ziDXoiOgFZcAF2v) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Neco Novellas](https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe) | [Symphonic Tales II](https://open.spotify.com/album/3Qfy4dS5v3ksqu5OltccOy) | 6:10 | 2026-05-04 | 2026-09-25 |
 | [Trash](https://open.spotify.com/track/4I6suhvOGM371QWu2syteT) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Trash](https://open.spotify.com/album/0V9hG58IyxvnVIuiv00JVL) | 2:58 | 2025-05-29 | 2025-09-09 |

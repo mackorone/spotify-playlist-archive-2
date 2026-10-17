@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik fr\u00e5n Norlie & KKV, Benjamin Ingrosso och Snoh Aalegra med flera. Happy New Music Friday!",
-  "num_followers": 236591,
+  "num_followers": 236735,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMYVLVXGvIetorLbvWH+S+qRdOU",
+  "snapshot_id": "AAAAAAUt3DhemFqVQfD+AvfGzpIuxCgJ",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:46",
@@ -111,6 +111,26 @@
       "duration_ms": 133289,
       "name": "Elastic",
       "url": "https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr"
+    },
+    {
+      "added_at": "2026-10-15 22:01:46",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-15 22:01:46",
@@ -594,6 +614,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "duration_ms": 204884,
@@ -757,7 +781,7 @@
       "url": "https://open.spotify.com/track/0uMlj09X6FvpD5XyKQ4WUv"
     },
     {
-      "added_at": "2026-10-15 22:01:46",
+      "added_at": "2026-10-16 06:52:28",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1yC6nMwwuubisyrFNOWXxN"
@@ -768,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV"
         }
       ],
-      "duration_ms": 180746,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/7emKgdDCGx8c2uWTDx4PMn"
+      "duration_ms": 214453,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2GrfU0Wr9TzToQFI74FsgA"
     },
     {
       "added_at": "2026-10-15 22:01:46",
@@ -1103,6 +1127,22 @@
     {
       "added_at": "2026-10-15 22:01:46",
       "album": {
+        "name": "KOYSAR",
+        "url": "https://open.spotify.com/album/4KR3nXEF1tS3c4bOh6nuzX"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 195870,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/716d7YjHJsPjzZ9nVfafC8"
+    },
+    {
+      "added_at": "2026-10-15 22:01:46",
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
       },
@@ -1244,8 +1284,8 @@
           "url": "https://open.spotify.com/artist/2H1j4xP3py0kUdSCCCNlUg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 241764,
+      "name": "As Your Baby",
       "url": "https://open.spotify.com/track/5SxvK16qV4Lw04N7Zxj01J"
     },
     {
@@ -1267,7 +1307,7 @@
     {
       "added_at": "2026-10-15 22:01:46",
       "album": {
-        "name": "Obsession",
+        "name": "Obsession (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39"
       },
       "artists": [
@@ -1363,6 +1403,30 @@
       "duration_ms": 121874,
       "name": "V\u00c4LK\u00c4ND",
       "url": "https://open.spotify.com/track/6pOTK7Oq1PNmzMGhEvmRG4"
+    },
+    {
+      "added_at": "2026-10-15 22:01:46",
+      "album": {
+        "name": "LEFT RIGHT (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "LEFT RIGHT (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
     },
     {
       "added_at": "2026-10-15 22:01:46",

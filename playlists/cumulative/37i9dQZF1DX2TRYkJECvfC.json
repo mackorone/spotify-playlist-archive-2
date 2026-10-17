@@ -5220,7 +5220,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193032,
       "name": "I Will Love You",
       "url": "https://open.spotify.com/track/4goVQdV53Rd3eCgBjVJ5dQ"
@@ -7252,7 +7252,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 442758,
       "name": "Many Faces",
       "url": "https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s"
@@ -8330,6 +8330,24 @@
       "duration_ms": 229483,
       "name": "Nightflower",
       "url": "https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt"
+    },
+    {
+      "album": {
+        "name": "Nightshades",
+        "url": "https://open.spotify.com/album/21JhL2GZmgCkRriBWzNyeR"
+      },
+      "artists": [
+        {
+          "name": "Player Dave",
+          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "Nightshades",
+      "url": "https://open.spotify.com/track/3XDdAA0GE63UOkSd8zk0Ki"
     },
     {
       "album": {
@@ -11048,6 +11066,24 @@
       "duration_ms": 506408,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/6RkBU15iuIWpNA67pL4ZE7"
+    },
+    {
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/4JzaNFwJjOtZ22MO8RiIv5"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Loveless",
+          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274303,
+      "name": "Slow rise",
+      "url": "https://open.spotify.com/track/1M97AwHG9QJIyJpXcfB7fO"
     },
     {
       "album": {

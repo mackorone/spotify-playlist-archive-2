@@ -8309,6 +8309,24 @@
     },
     {
       "album": {
+        "name": "I Need An Angel",
+        "url": "https://open.spotify.com/album/6uS4F7HdLV0nGf91se9kdt"
+      },
+      "artists": [
+        {
+          "name": "HESTER",
+          "url": "https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229863,
+      "name": "I Need An Angel",
+      "url": "https://open.spotify.com/track/7ccJWOfAs6R4XlaVzOUv5o"
+    },
+    {
+      "album": {
         "name": "I Still Hear Your Voice",
         "url": "https://open.spotify.com/album/7K4Qfj3RU88KHufjZj6JyO"
       },

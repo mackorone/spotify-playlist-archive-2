@@ -255,6 +255,32 @@
     },
     {
       "album": {
+        "name": "ADRENALINE",
+        "url": "https://open.spotify.com/album/1axe3FXvHt20fPHTZK20zH"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Arti Prjct",
+          "url": "https://open.spotify.com/artist/1CuqcCv1IrGicv4KIJHE7q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168574,
+      "name": "ADRENALINE",
+      "url": "https://open.spotify.com/track/47S6IrIjawDVtTTRQ7v5D5"
+    },
+    {
+      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -1012,7 +1038,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178112,
       "name": "Allein",
       "url": "https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI"
@@ -3926,7 +3952,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 147555,
       "name": "Cut Me Open",
       "url": "https://open.spotify.com/track/7MQfC67xwZT2TYbq0HqygO"
@@ -4620,7 +4646,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 163320,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
@@ -6295,6 +6321,28 @@
     },
     {
       "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
+    },
+    {
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -7468,7 +7516,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 175312,
       "name": "Get Your Groove On",
       "url": "https://open.spotify.com/track/6qBhR8G6Sy4pRejoaXQ626"
@@ -8592,6 +8640,28 @@
       "duration_ms": 176077,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u"
+    },
+    {
+      "album": {
+        "name": "High Till Forever",
+        "url": "https://open.spotify.com/album/1oivvyvT1mt2Bk1OI7HIdx"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199275,
+      "name": "High Till Forever",
+      "url": "https://open.spotify.com/track/7lBxFS2OfIyxj9QiiOxVZL"
     },
     {
       "album": {
@@ -13206,7 +13276,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 180093,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/7jTFHiFoUO6kkPijLH598Q"
@@ -13996,6 +14066,24 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/647pyFBcKVf4UZO5ZcRLFy"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215414,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/2C6TqcCfE2T6mgHSQUi5AA"
     },
     {
       "album": {
@@ -15324,7 +15412,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 170576,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw"

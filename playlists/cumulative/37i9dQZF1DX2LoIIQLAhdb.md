@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#PASLETEMPS](https://open.spotify.com/track/63zxFqe1AVO5Le33fvfP45) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [\#PASLETEMPS](https://open.spotify.com/album/61vdoj0fqvqPFT91NjUmPZ) | 2:08 | 2026-10-15 |  |
+| [\#PASLETEMPS](https://open.spotify.com/track/63zxFqe1AVO5Le33fvfP45) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [\#PASLETEMPS](https://open.spotify.com/album/61vdoj0fqvqPFT91NjUmPZ) | 2:08 | 2026-10-15 | 2026-10-17 |
 | [1 Minute](https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [1 Minute](https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK) | 3:06 | 2024-11-21 | 2025-04-04 |
 | [1h55](https://open.spotify.com/track/36kPlvgOwqbdMqMyeioRJN) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 3:47 | 2025-08-14 | 2025-11-21 |
 | [2 min](https://open.spotify.com/track/7J8OTRdXb6noyWoKwlnjk6) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [2 min](https://open.spotify.com/album/54GJMDQ2ahSAxe3lmCq9qg) | 2:33 | 2026-07-02 | 2026-08-28 |

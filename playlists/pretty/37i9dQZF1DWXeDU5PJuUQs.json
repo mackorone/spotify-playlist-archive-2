@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 277758,
+  "num_followers": 277870,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAbefFWOKshWA76Z8XSBR1tQ3Qvu",
+  "snapshot_id": "AAAAAL64gGtbkuqK1EIllJpDrrIWn1/l",
   "tracks": [
     {
       "added_at": "2026-09-25 03:00:47",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Festival (En Vivo)",
+        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 628309,
+      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
+      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Un sue\u00f1o hecho realidad",
         "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 186706,
       "name": "La pollera amarilla",
       "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Festival (En Vivo)",
-        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 628309,
-      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
-      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 117653,
-      "name": "El Tano Pastita",
-      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+      "duration_ms": 117653,
+      "name": "El Tano Pastita",
+      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
+        "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Luis Ornelas y su Grupo",
+          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
         }
       ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+      "duration_ms": 111605,
+      "name": "Cumbia buena",
+      "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
-        "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Luis Ornelas y su Grupo",
-          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 111605,
-      "name": "Cumbia buena",
-      "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
-        "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
-      },
-      "artists": [
-        {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
-        }
-      ],
-      "duration_ms": 429920,
-      "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
-      "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 312032,
       "name": "Hoy Te Vi / El Paredon - En Vivo",
       "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
+        "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "duration_ms": 429920,
+      "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
+      "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Serrana Mia",
         "url": "https://open.spotify.com/album/18ZdeNrG5NURFYLc0MrEqs"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 246593,
       "name": "Serrana Mia",
       "url": "https://open.spotify.com/track/4AXXFjxunayz1nO5saIy7v"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     }
   ],
   "unique_name": "Vivo de Cumbia",

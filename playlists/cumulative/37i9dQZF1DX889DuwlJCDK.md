@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: HINONABE
 
-2,011 songs - 5 day 1 hr 34 min
+2,012 songs - 5 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1197,6 +1197,7 @@
 | [ジ・アース](https://open.spotify.com/track/6zDQ6cRTse7o0exkdYXsnc) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [INNER SYNC](https://open.spotify.com/album/5eTI6gucXOgrnMjbBMgUm2) | 4:19 | 2026-06-30 | 2026-08-18 |
 | [スイートピー](https://open.spotify.com/track/0K8YQCXjT5QCOJrdZFimG9) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [スイートピー](https://open.spotify.com/album/6Py14Bzgq3wiuUVdy6QGDS) | 4:12 | 2025-03-11 | 2025-07-09 |
 | [スウィートドリーム](https://open.spotify.com/track/49ftCkg2hu8c7dDVh62kr6) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [スウィートドリーム](https://open.spotify.com/album/6RbzjTeGmP0SzJKyIV4xt3) | 3:40 | 2024-04-23 | 2024-05-01 |
+| [スカート](https://open.spotify.com/track/3Jpu2Q2R3yDTfxIx9017AA) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [スカート](https://open.spotify.com/album/1Q5FyWZa1KXdx2gh6Hp43X) | 3:12 | 2026-10-13 |  |
 | [スタンドバイミー](https://open.spotify.com/track/4nDUb6vNdcycEBNOGF18vz) | [kalmia](https://open.spotify.com/artist/3tAw0YnsL8aQRSJFL5YS6O) | [twilight](https://open.spotify.com/album/1QG1YIoLY5BNhVse41s6LD) | 4:07 | 2023-11-21 | 2023-11-29 |
 | [スターゲイザー](https://open.spotify.com/track/1oOPSaiFjVi59S6YlcOfCR) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [スターゲイザー](https://open.spotify.com/album/4M8muQq23TR3ObGysFSj2I) | 3:58 | 2026-04-28 | 2026-05-06 |
 | [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 | 2025-12-09 | 2026-02-12 |
@@ -1883,7 +1884,7 @@
 | [紙風船](https://open.spotify.com/track/6PnVH4Baj1g8Dyy1XwG0xx) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [紙風船](https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI) | 3:14 | 2025-02-18 | 2025-07-09 |
 | [素直になれたら](https://open.spotify.com/track/1rDu82J9HWl5adEBnpqC3K) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [素直になれたら](https://open.spotify.com/album/14MwmtnsCUKVa6JxUokBic) | 2:51 | 2026-06-30 | 2026-07-03 |
 | [紬](https://open.spotify.com/track/0J4UbxVqd2JtKsThF77lle) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [紬](https://open.spotify.com/album/4YbEISLvAHfDv6tBYO6qIL) | 3:25 | 2024-10-01 | 2025-01-22 |
-| [終わらない夜の守り方](https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [終わらない夜の守り方](https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs) | 4:04 | 2026-07-08 |  |
+| [終わらない夜の守り方](https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [終わらない夜の守り方](https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs) | 4:04 | 2026-07-08 | 2026-10-17 |
 | [終宵](https://open.spotify.com/track/77ve5M5MUltW9VvydkxvT7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [終宵](https://open.spotify.com/album/13She1nPhAa5K5CdvOPOsa) | 3:49 | 2026-07-07 |  |
 | [終末論](https://open.spotify.com/track/4ack2j3aOoeovz8iPSnMdh) | [utsuro\-tanuki](https://open.spotify.com/artist/2IePttw7OG7Y8GXeZDGlz8) | [終末論](https://open.spotify.com/album/2ARcbArdrBFQqxZT5pVw5u) | 3:33 | 2025-01-21 | 2025-02-05 |
 | [終盤のジェンガ](https://open.spotify.com/track/6212OCQufHwSaJz1jKVOE8) | [窓際ぼっち倶楽部](https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ) | [終盤のジェンガ](https://open.spotify.com/album/3RDf3QxuFW7tbVcwLHpl5w) | 3:02 | 2026-02-11 | 2026-03-11 |

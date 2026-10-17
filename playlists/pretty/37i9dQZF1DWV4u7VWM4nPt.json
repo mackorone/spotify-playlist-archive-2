@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 84009,
+  "num_followers": 84067,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJg1DMZIFeb1+WIQFOl2ZIimdQ4",
+  "snapshot_id": "AAAAAA2ruakJOCN+0cJYpGpqILvkHb6j",
   "tracks": [
     {
       "added_at": "2024-07-13 01:17:59",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Samba De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 274506,
       "name": "Tal Vez Quizas",
       "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Samba De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
     },
     {
       "added_at": "2024-07-13 01:17:59",

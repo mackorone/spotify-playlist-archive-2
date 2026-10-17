@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 200792,
       "name": "Nos Vemos Nunca",
       "url": "https://open.spotify.com/track/78b90b0QNop5aEpyZpCd6d"
@@ -2300,6 +2300,32 @@
       "duration_ms": 245211,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/7HKN6m2oRIVc3mcJvr7SLP"
+    },
+    {
+      "album": {
+        "name": "PIN QUITE Y PON (baila la guara)",
+        "url": "https://open.spotify.com/album/2WDtnN9K9IVv1ms6G6Lh5G"
+      },
+      "artists": [
+        {
+          "name": "Torrente",
+          "url": "https://open.spotify.com/artist/12NT5hq8ehhvaZJaBJ2iXn"
+        },
+        {
+          "name": "sanperseus",
+          "url": "https://open.spotify.com/artist/6QlKFXRTS1wys2zp4fIYmj"
+        },
+        {
+          "name": "Bueltiao",
+          "url": "https://open.spotify.com/artist/3lDVykU8ECi8bXkQloX4l4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158012,
+      "name": "PIN QUITE Y PON (baila la guara)",
+      "url": "https://open.spotify.com/track/50nYpZyeVAjoEQ3OAZ3gVi"
     },
     {
       "album": {

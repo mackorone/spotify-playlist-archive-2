@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,825 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,841 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 8 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
 | 9 | [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 |
 | 10 | [Sorry I'm French](https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Sorry I'm French](https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS) | 2:38 |
-| 11 | [Track 13](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 0:00 |
+| 11 | [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 |
 | 12 | [ça pik un peu quand même](https://open.spotify.com/track/7Fu1fTmuyFgm2V16ACSVOk) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5xUIGLAWrim2JV9e4pVx4l) | 2:17 |
 | 13 | [Rien à fêter](https://open.spotify.com/track/7J9bfRJYMHLAWpAvwSxCxG) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:55 |
 | 14 | [Le Chat](https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Adieu Musique](https://open.spotify.com/album/0PqVqzKKlUJhcGLYWuo7rR) | 3:13 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 73 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 74 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 |
 
-Snapshot ID: `AAAAADHXBF2CjemfMFQ1adraPLWzh/ig`
+Snapshot ID: `AAAAAHg0bxpvcL+Qn6c3XSHKrV9KM7iI`

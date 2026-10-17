@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: D Voice",
+  "description": "What is your love language? Say it in Swahili.  Cover: Ywaya Tajiri",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218571,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7JGcBs1zowrL3rYS3qPcIX"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 163404,
       "name": "Hatubishani",
       "url": "https://open.spotify.com/track/3Jv5xwkkioKOhbWWJhECzJ"
@@ -3693,6 +3693,28 @@
     },
     {
       "album": {
+        "name": "Mpepe",
+        "url": "https://open.spotify.com/album/3e4RghdN6WrQyHQRJzBqsf"
+      },
+      "artists": [
+        {
+          "name": "Saluh",
+          "url": "https://open.spotify.com/artist/3skjr8kur5z5FLb9vlscHz"
+        },
+        {
+          "name": "Whozu",
+          "url": "https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Mpepe",
+      "url": "https://open.spotify.com/track/5yWOragZsRFaZjHlRY3fMg"
+    },
+    {
+      "album": {
         "name": "Mr & Mrs",
         "url": "https://open.spotify.com/album/4HMcsqg3eXHOxyzSBcSE9x"
       },
@@ -3802,6 +3824,24 @@
       "duration_ms": 199134,
       "name": "Mtoto",
       "url": "https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc"
+    },
+    {
+      "album": {
+        "name": "Mtu Mzima",
+        "url": "https://open.spotify.com/album/25eVf8JxwJXoD0Vanog35u"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "Mtu Mzima",
+      "url": "https://open.spotify.com/track/6nQyBIqqMRmKcdlkaCyWZ6"
     },
     {
       "album": {
@@ -4164,7 +4204,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 165957,
       "name": "Najipenda",
       "url": "https://open.spotify.com/track/0qWmdMX297pBnDSlozN5pl"
@@ -4284,6 +4324,24 @@
       "duration_ms": 217500,
       "name": "Nampenda",
       "url": "https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ"
+    },
+    {
+      "album": {
+        "name": "Nampenda",
+        "url": "https://open.spotify.com/album/4RrzSWqeoSnU24CDzLIPJA"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152767,
+      "name": "Nampenda",
+      "url": "https://open.spotify.com/track/5wy5RI8sYhPohJ2cOtPtvW"
     },
     {
       "album": {
@@ -4636,7 +4694,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 185430,
       "name": "Ni Wewe",
       "url": "https://open.spotify.com/track/4U5mrT7FckpTynwDRnnQv0"
@@ -6288,6 +6346,24 @@
       "duration_ms": 231864,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3CFCxKoA91XYhTh452SAJj"
+    },
+    {
+      "album": {
+        "name": "Somebody's Daughter",
+        "url": "https://open.spotify.com/album/4j7sVVrEg5X31to9IxWDIC"
+      },
+      "artists": [
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Somebody's Daughter",
+      "url": "https://open.spotify.com/track/2Wx7nu8Bz9Aw5IvoRGXAuX"
     },
     {
       "album": {

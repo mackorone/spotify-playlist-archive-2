@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > Al mil para entrenar sin parar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,919 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,929 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 62 | [OTRO DESMADRE](https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [OTRO DESMADRE](https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO) | 3:02 |
 | 63 | [Pasta](https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Pasta](https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P) | 3:14 |
 | 64 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
-| 65 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
-| 66 | [Hablando Claro \- En Vivo](https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD) | 3:10 |
+| 65 | [Hablando Claro \- En Vivo](https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD) | 3:10 |
+| 66 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
 | 67 | [Andamos Triunfando](https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Andamos Triunfando](https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU) | 2:28 |
 | 68 | [TU TU TU](https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [TU TU TU](https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0) | 2:31 |
 | 69 | [Sigo Chambeando](https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:20 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 74 | [Pura Adrenalina](https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Pura Adrenalina](https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM) | 2:37 |
 | 75 | [MI PROPIO JEFE](https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MI PROPIO JEFE](https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh) | 3:30 |
 | 76 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
-| 77 | [La Morrita](https://open.spotify.com/track/29YP167FTBz8m3937YbKDw) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Morrita](https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev) | 2:34 |
-| 78 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 |
+| 77 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 |
+| 78 | [La Morrita](https://open.spotify.com/track/29YP167FTBz8m3937YbKDw) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Morrita](https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev) | 2:34 |
 | 79 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 |
 | 80 | [Playas Y Blones](https://open.spotify.com/track/2pykB1zqstSLQ21w12gm0Q) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Playas Y Blones](https://open.spotify.com/album/1XU0fdDkKrHg4sP1s5rUCG) | 3:31 |
 | 81 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 99 | [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 |
 | 100 | [MAYBE](https://open.spotify.com/track/7DmKAXii1NFObsmBWSNO0M) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD](https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0) | 3:09 |
 
-Snapshot ID: `AAAAAMto1uVU5kXs1oX9uHE5asNrVd6X`
+Snapshot ID: `AAAAAJPvQE5Nr4wNwYz1t+JmxGPMxkpe`

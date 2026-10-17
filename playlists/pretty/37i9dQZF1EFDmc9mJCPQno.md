@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235 likes - 136 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236 likes - 136 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 83 | [Do You Even Think About Me?](https://open.spotify.com/track/3NJnIRaWen01KswFmcCxX6) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:16 |
 | 84 | [Liar Liar](https://open.spotify.com/track/5P1LOgPT9DmVzWFyg8gtHR) | [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [IVANA](https://open.spotify.com/artist/7pn6Syh1RaJDbprpLFz58N) | [Liar Liar](https://open.spotify.com/album/1agXa7XELNvFG4M0tbjqka) | 2:31 |
 | 85 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 |
-| 86 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
-| 87 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 |
+| 86 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 |
+| 87 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 88 | [Burn](https://open.spotify.com/track/7kAY0CSIsTtcPQKUhUdV8X) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Gasoline \- The 2nd Album](https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG) | 3:51 |
 | 89 | [Tears In My Pocket](https://open.spotify.com/track/76jEQxi2ZTcfMhJXkwnUtE) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 2:57 |
 | 90 | [The Hit](https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:30 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 110 | [XOXO](https://open.spotify.com/track/6rZBcOUK0u7F3ipY97Kef3) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water \(Deluxe\)](https://open.spotify.com/album/3YVFjLQyt1RBXxl3pifOVw) | 2:48 |
 | 111 | [Loser](https://open.spotify.com/track/1JBHJBOr0UKTzHK0XzTII5) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 3:12 |
 | 112 | [Hipnotic \(SINB Solo\)](https://open.spotify.com/track/4lAUlzH9ESUc0WG8BnHnxJ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 2:26 |
-| 113 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
-| 114 | [Everybody Needs a Hero](https://open.spotify.com/track/1EmX0q1eOc5ffa7N2F0bOg) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 4:20 |
+| 113 | [Everybody Needs a Hero](https://open.spotify.com/track/1EmX0q1eOc5ffa7N2F0bOg) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 4:20 |
+| 114 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
 | 115 | [Better Than You Found Me](https://open.spotify.com/track/1p201K92LblEJTqd3Sx5ez) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:58 |
 | 116 | [Performer](https://open.spotify.com/track/1fajhwklF3pSlWvdaaSWG3) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:14 |
 | 117 | [Worst Person in the World](https://open.spotify.com/track/6BUQt7ZuoYoNbg1yrCeDCr) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Worst Person in the World](https://open.spotify.com/album/0RJcag3nU1RYxnlEFzgwIk) | 3:08 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 135 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 136 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcfCiAAAAAA8pH8e5w/S3/ZjbgMgqwvK`
+Snapshot ID: `AcfIKAAAAAAhdnsHp3/dHkChsJ2FdVls`

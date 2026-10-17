@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: BENITO
 
-212 songs - 12 hr 50 min
+213 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Ousado Amor](https://open.spotify.com/track/2QcxcpLjXeddtf3AQkpP7S) | [Jael Caroline](https://open.spotify.com/artist/1VK1FCC4cFoAy90kXBtt7f), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Ousado Amor](https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn) | 3:33 | 2023-04-15 | 2024-04-20 |
 | [Ousado Amor \(Releitura\)](https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Ousado Amor \(Releitura\)](https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug) | 3:44 | 2023-10-20 |  |
 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 | 2022-08-05 |  |
-| [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 | 2023-03-17 |  |
+| [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 | 2023-03-17 | 2026-10-17 |
 | [Pequenas Coisas](https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe) | [Louisy Cim](https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et) | [Pequenas Coisas](https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ) | 2:39 | 2022-08-05 | 2024-11-30 |
 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 | 2022-08-05 |  |
 | [Plano B](https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z) | 2:45 | 2023-11-03 | 2024-04-19 |
@@ -168,6 +168,7 @@
 | [Samaritana](https://open.spotify.com/track/73dmnilfUdTkyWbeGYErDI) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Samaritana](https://open.spotify.com/album/7uW5JSvS0J8JSX9KHnVh01) | 3:33 | 2026-03-20 |  |
 | [Saudade \- Ao Vivo](https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Saudade \(Ao Vivo\)](https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy) | 3:56 | 2023-07-21 | 2025-07-20 |
 | [Saudade de Cristo](https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Saudade de Cristo](https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5) | 4:56 | 2022-08-05 | 2023-02-25 |
+| [Se É Lá Que Cê Ta](https://open.spotify.com/track/5GvxAieHgW8vlir5JfhHD8) | [BENITO](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [Imparável](https://open.spotify.com/album/018atuMM1ijpOKwYXruE7C) | 3:17 | 2026-10-16 |  |
 | [Selo do Perdão \(Legado\)](https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA) | [Carlinhos Félix](https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4) | [Selo do Perdão \(Legado\)](https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q) | 4:10 | 2024-06-21 |  |
 | [Seu Amor](https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Amor](https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs) | 2:46 | 2023-06-23 |  |
 | [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 | 2022-08-05 | 2023-02-04 |

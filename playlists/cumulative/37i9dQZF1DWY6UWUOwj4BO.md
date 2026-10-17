@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-162 songs - 8 hr 40 min
+163 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Gimme Love \- Sofiane Pamart Remix](https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Gimme Love \(Sofiane Pamart Remix\)](https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI) | 2:42 | 2023-11-20 |  |
 | [Gold \- Acoustic](https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:49 | 2025-07-10 |  |
 | [Gold \- Acoustic Version](https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold \(Acoustic Version\)](https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi) | 3:19 | 2023-09-12 |  |
-| [Golden](https://open.spotify.com/track/7KmUrCGhaeNrelr6B42kd8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Golden](https://open.spotify.com/album/7j9Ik9C5pAIEcttti4TRjM) | 3:11 | 2026-03-13 |  |
+| [Golden](https://open.spotify.com/track/7KmUrCGhaeNrelr6B42kd8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Golden](https://open.spotify.com/album/7j9Ik9C5pAIEcttti4TRjM) | 3:11 | 2026-03-13 | 2026-10-17 |
 | [Gone Gone Gone \(feat\. Teddy Swims\) \[Tones And I Acoustic\]](https://open.spotify.com/track/5fnNkscKYiOTbN1fjQGoc5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(feat\. Teddy Swims\) \[Unplugged\]](https://open.spotify.com/album/3hyvSEl7i7M1CNyPTxDO2e) | 3:18 | 2026-01-29 |  |
 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 | 2024-11-21 | 2025-01-31 |
 | [greedy acoustic](https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:22 | 2024-02-08 |  |
@@ -122,6 +122,7 @@
 | [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 | 2023-12-02 |
 | [Opalite \- Life Is A Song Acoustic Version](https://open.spotify.com/track/0Ny2HkSrLtvmBVwCQywyip) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl + Acoustic Collection](https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7) | 4:02 | 2026-02-13 |  |
 | [Overdrive \(feat\. Norma Jean Martine\) \- Acoustic Version](https://open.spotify.com/track/2C48i664TyRtr77PBzW6cS) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\) \[Acoustic Version\]](https://open.spotify.com/album/2NDVKadwJzVmaA0TMXzP3G) | 2:07 | 2024-02-08 |  |
+| [Patient Zero \- Acoustic Version](https://open.spotify.com/track/3lRouq3OGSpaf40aBedbVD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/3EB8m11r5Rls7NtOU7mkx5) | 3:55 | 2026-10-16 |  |
 | [Peaches \- Acoustic](https://open.spotify.com/track/1ChZ4mrSLP8HImCY6IyImf) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Peaches \(Acoustic\)](https://open.spotify.com/album/3qfz0iDhRYXa0VFccGM8VY) | 3:10 | 2022-12-21 | 2023-12-09 |
 | [Pour que tu m'aimes encore \- têtu · live sessions](https://open.spotify.com/track/6kXZJbvUzCvIjs6brIZrYC) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Pour que tu m'aimes encore \(têtu · live sessions\)](https://open.spotify.com/album/1TqodpSrqjIfTzjZAFSQLk) | 4:41 | 2026-06-12 |  |
 | [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 | 2025-04-25 |  |

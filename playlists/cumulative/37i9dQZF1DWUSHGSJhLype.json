@@ -5987,6 +5987,28 @@
     },
     {
       "album": {
+        "name": "KINKY",
+        "url": "https://open.spotify.com/album/2P3o7T3rBrFKd5i8wkIssO"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "KINKY",
+      "url": "https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b"
+    },
+    {
+      "album": {
         "name": "Lancha No Mar",
         "url": "https://open.spotify.com/album/5X7VuQ7u60fXQpPAaWh1LN"
       },
@@ -13906,7 +13928,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 146186,
       "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
       "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"

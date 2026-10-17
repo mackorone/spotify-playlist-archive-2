@@ -1,12 +1,12 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 212611,
+  "num_followers": 212654,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEiSeHukPEdNqWvkYmAST2w5EM/O",
+  "snapshot_id": "AAAAANKDQYK8KekaBadZyK3WCB1dHVhG",
   "tracks": [
     {
       "added_at": "2026-03-26 08:28:03",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "LIEBE IN GEFAHR",
         "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 164936,
       "name": "Jeden Tag mehr",
       "url": "https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Diese Eine",
         "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 138924,
       "name": "Diese Eine",
       "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Was Muss Muss - Best Of",
         "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209720,
       "name": "Demo (Letzter Tag)",
       "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
-      },
-      "artists": [
-        {
-          "name": "becks",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Was Muss Muss - Best Of",
         "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 259346,
       "name": "Der Weg",
       "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "becks",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Wenn Worte meine Sprache w\u00e4ren",
-        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
-      },
-      "artists": [
-        {
-          "name": "Tim Bendzko",
-          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Wenn Worte meine Sprache w\u00e4ren",
-      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "2012",
         "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Wenn Worte meine Sprache w\u00e4ren",
+        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
+      },
+      "artists": [
+        {
+          "name": "Tim Bendzko",
+          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Wenn Worte meine Sprache w\u00e4ren",
+      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "F\u00fcr immer ab jetzt",
-        "url": "https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339"
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
       "artists": [
         {
-          "name": "Johannes Oerding",
-          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 231946,
-      "name": "F\u00fcr immer ab jetzt",
-      "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
+      "duration_ms": 155577,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+        "name": "F\u00fcr immer ab jetzt",
+        "url": "https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
         }
       ],
-      "duration_ms": 155577,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+      "duration_ms": 231946,
+      "name": "F\u00fcr immer ab jetzt",
+      "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
     }
   ],
   "unique_name": "Liebeslieder",

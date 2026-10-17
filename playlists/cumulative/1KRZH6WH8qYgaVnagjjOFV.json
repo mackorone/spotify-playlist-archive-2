@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "A Million Chances",
+        "url": "https://open.spotify.com/album/7EnHNY0vQaUerCG9ETXu00"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206125,
+      "name": "A Million Chances (with Tori Kelly)",
+      "url": "https://open.spotify.com/track/7w6F6UxAGlUpi9odZwdtBz"
+    },
+    {
+      "album": {
         "name": "A New Eden (Live)",
         "url": "https://open.spotify.com/album/1qy8v552qL1akwKfQNobYs"
       },
@@ -714,6 +736,28 @@
       "duration_ms": 184960,
       "name": "Church Clothes",
       "url": "https://open.spotify.com/track/2GyzxYTYOcOn2gABrdIUmU"
+    },
+    {
+      "album": {
+        "name": "CLAY",
+        "url": "https://open.spotify.com/album/1Hy6EUdmcoy5WIzBvwJYXJ"
+      },
+      "artists": [
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185868,
+      "name": "CLAY",
+      "url": "https://open.spotify.com/track/6YkTF8ydY33WBp630ryP1S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,126 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,124 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 76 | [Morirme con vos](https://open.spotify.com/track/68TQC7YHkhh0Vx2beqgvpu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Morirme con vos](https://open.spotify.com/album/3A8EQyuP4PHYsjBNEt6KAE) | 3:27 |
 | 77 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 |
 | 78 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 |
-| 79 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
-| 80 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
+| 79 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
+| 80 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
 | 81 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastián Yatra](https://open.spotify.com/artist/5pht7tKXc1DYyYVmqkYejt) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 |
 | 82 | [Ay amor](https://open.spotify.com/track/4uKLboqw7YmgKzYdrrrSGN) | [PALO](https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk) | [Más allá](https://open.spotify.com/album/5cqlNAQExeLN7YagrSjBAK) | 2:37 |
 | 83 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 99 | [La despedida](https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [La despedida](https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5) | 3:34 |
 | 100 | [SABOR TROPICAL](https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [SABOR TROPICAL](https://open.spotify.com/album/4EwPZMPAol6owdlZlwvomg) | 2:15 |
 
-Snapshot ID: `AAAAACyW8HyYWzOXOcu9inmK6hHSRHbf`
+Snapshot ID: `AAAAAOAD5du4DG4+75thOX/ZhqHQcKzC`

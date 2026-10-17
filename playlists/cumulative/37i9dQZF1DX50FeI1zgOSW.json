@@ -3591,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "Enakkena Oru Mazhaikkaalam",
+        "url": "https://open.spotify.com/album/2xAtYeXRTFZvs5vQ7LGZWt"
+      },
+      "artists": [
+        {
+          "name": "Umashankar Kannaiyan",
+          "url": "https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T"
+        },
+        {
+          "name": "Revathy Kumar",
+          "url": "https://open.spotify.com/artist/0Wlol58BbglfFkGxWmNREy"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184112,
+      "name": "Enakkena Oru Mazhaikkaalam",
+      "url": "https://open.spotify.com/track/7etV4j8nbVmYOZiLYTkVwH"
+    },
+    {
+      "album": {
         "name": "Endhen Kadhali",
         "url": "https://open.spotify.com/album/6kDZJtY4bEpr1MoJMXkWa0"
       },

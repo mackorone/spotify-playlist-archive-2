@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIXWjKL8vlIdd>The Script</a>, <a href=spotify:playlist:37i9dQZF1EIWurap8eK32U>The Marías</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIV630wDjArgt>P!nk</a>, <a href=spotify:playlist:37i9dQZF1EIUXx6OHYXD1I>pupsies</a>, <a href=spotify:playlist:37i9dQZF1EIY6ihfVb0m4x>Chris Isaak</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 |
-| 2 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
-| 3 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
+| 1 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
+| 2 | [misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY) | [pupsies](https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm) | [misery.](https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2) | 2:46 |
+| 3 | [Wicked Game](https://open.spotify.com/track/2y42xAsl6dfMeVXQgOYsUw) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/2103xkKW1uuHUG2sOIaZSt) | 4:49 |
 | 4 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
 | 5 | [Im Doing Fine](https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG) | [Im Doing Fine](https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb) | 1:39 |
 | 6 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 49 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 |
 | 50 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/7C5jPQjXlBf7TxcN45HMH5) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/0LX0TCYflredDlV7BZt4P2) | 3:31 |
 
-Snapshot ID: `AAAAABYz9Yw51nCd8/Ul4exJF9tCRxNE`
+Snapshot ID: `AAAAANhZQY+t9jC2lzV/VJgKOGnBL0Q6`

@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 143622,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/7eTAQXLwh0nNxj7DviZHO0"
@@ -17672,7 +17672,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 99913,
       "name": "FALSOS N\u00c3O V\u00c3O PASSAR",
       "url": "https://open.spotify.com/track/4zsU8uiIEhQilwxtMNItWv"
@@ -49769,6 +49769,32 @@
     },
     {
       "album": {
+        "name": "UHUM",
+        "url": "https://open.spotify.com/album/1kQed3eFH2KBffsDVj56KO"
+      },
+      "artists": [
+        {
+          "name": "OGCapitu",
+          "url": "https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129856,
+      "name": "UHUM",
+      "url": "https://open.spotify.com/track/0slzabiVhe9m7kFBbzsKHk"
+    },
+    {
+      "album": {
         "name": "UIVANDO PRA LUA",
         "url": "https://open.spotify.com/album/1W2vmqe2YottWk6nLY5DjA"
       },
@@ -50116,6 +50142,32 @@
       "duration_ms": 217941,
       "name": "VAI DESCE BABY",
       "url": "https://open.spotify.com/track/44U1er1LxgRNu42fbbz78T"
+    },
+    {
+      "album": {
+        "name": "Vai ser sempre n\u00f3s",
+        "url": "https://open.spotify.com/album/6PDIBE83EvajobdAN8m3QF"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184945,
+      "name": "Vai pra cima",
+      "url": "https://open.spotify.com/track/7I0uU3wE32OrvYykfkIk1q"
     },
     {
       "album": {

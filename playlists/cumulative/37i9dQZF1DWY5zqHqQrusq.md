@@ -2,9 +2,9 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Maali
+> Chill, take a long walk and clear your mind\. Cover: Shad Mziki
 
-162 songs - 9 hr 11 min
+165 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,10 @@
 | [Compare](https://open.spotify.com/track/2308PKp1LrwpZwRMtW6bWn) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [Ex Chronicles](https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa) | 4:02 | 2022-11-11 | 2023-04-29 |
 | [dawa](https://open.spotify.com/track/6DywLDHN945BpPggycAYYW) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Junior Nyong'o](https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 2:38 | 2023-04-28 | 2025-03-07 |
 | [Dear Irene](https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Genge Soul](https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad) | 3:43 | 2026-03-06 |  |
-| [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-11 |  |
+| [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-11 | 2026-10-17 |
 | [Don't Chase Me Away](https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Don't Chase Me Away](https://open.spotify.com/album/3DeMDwnfny4OTTfSdkStY0) | 4:20 | 2026-07-02 |  |
 | [Don’t Play](https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV) | [Rita Wangui](https://open.spotify.com/artist/5cuAJxgVSsEtfaE5HozJ3C), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Don’t Play](https://open.spotify.com/album/2Ny8cbedZfgUGpI2HcJvkO) | 2:29 | 2025-05-01 | 2026-07-03 |
+| [Dua \- Alternate Version](https://open.spotify.com/track/0z27AgBe4LTpuJAIVxJefo) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Dua \(Alternate Version\)](https://open.spotify.com/album/0DRrsykwSDSXEHjYBAMjVj) | 3:31 | 2026-10-16 |  |
 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 | 2025-10-09 |  |
 | [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [DENO](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 | 2024-10-17 | 2026-09-25 |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-11-11 | 2024-03-08 |
@@ -99,11 +100,12 @@
 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-05-09 |  |
 | [Ni Fanye Nini](https://open.spotify.com/track/6lz3chIUOCrKRwH69meiz3) | [thee\_maura](https://open.spotify.com/artist/58cs7Txx8GiXAmKcPGwC81), [9th Records](https://open.spotify.com/artist/0CsQYpWeGLvd1LXrLSn74v) | [Ni Fanye Nini](https://open.spotify.com/album/5qyD1EHAN9erz5MRrFfV4U) | 3:06 | 2026-04-30 |  |
 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2024-01-11 | 2025-04-05 |
-| [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 | 2022-11-11 |  |
+| [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 | 2022-11-11 | 2026-10-17 |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2022-11-11 | 2025-02-15 |
 | [No Evil](https://open.spotify.com/track/0QT5b8Hfk8uzUMs2LlTFgV) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Damage You Demanded](https://open.spotify.com/album/6j4WfPMr6g0CYd0MU1yAZC) | 2:39 | 2026-09-25 |  |
 | [Ntakutunza \(Hadi Umsahau\)](https://open.spotify.com/track/63vI6WXyNAcT5k849dnJUC) | [Onyach Pala](https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 4:07 | 2024-05-16 |  |
 | [Nyamaza](https://open.spotify.com/track/67Uei6pIFzXZ0SsQDZj69G) | [PHY](https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c) | [Tatu](https://open.spotify.com/album/1j3zadSjNiCQ8VmYpRIhmb) | 3:11 | 2023-10-20 | 2024-02-02 |
+| [Nîngwendete](https://open.spotify.com/track/1N3p7FQMoPpSHS3XsNJDJk) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Nîngwendete](https://open.spotify.com/album/6feXNJEPgGqY5ymP9UxaKE) | 2:35 | 2026-10-16 |  |
 | [OASIS](https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:34 | 2022-11-11 |  |
 | [Oceans](https://open.spotify.com/track/50eCGnJmjeJU1HfjmcdK2N) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Oceans](https://open.spotify.com/album/2xhSN6qB5HsKwWUFLUhMyI) | 3:15 | 2022-11-11 | 2024-08-17 |
 | [OH COME](https://open.spotify.com/track/3GbKKWAHa8cBNoK1aEoztf) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ROSIE K](https://open.spotify.com/artist/00S43DmWWiMQCWXBw6ZggU), [TUNJAY](https://open.spotify.com/artist/79cKQVnKajMHzWIw4G8y6o) | [COLD CHRISTMAS: A Colossal rendition](https://open.spotify.com/album/6cqOMO1qtf4PuxE6HtM28O) | 3:59 | 2025-12-04 |  |
@@ -138,6 +140,7 @@
 | [So Easy](https://open.spotify.com/track/4y7kdlDWPMxbegjUrW6SPX) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [So Easy](https://open.spotify.com/album/6rIegtr1X3iIVbZS5kQqo7) | 3:20 | 2026-08-13 |  |
 | [so far away](https://open.spotify.com/track/7N06cWKVYr5N7t1RcIWACn) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters III](https://open.spotify.com/album/6u35zLK6Y8h4KDRYZMDaDi) | 3:01 | 2025-03-14 | 2025-11-11 |
 | [So Tired](https://open.spotify.com/track/2qt8hSdiYKD33C7zZcrxPB) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [So Tired](https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR) | 3:35 | 2022-11-11 | 2024-04-05 |
+| [Somebody's Daughter](https://open.spotify.com/track/2Wx7nu8Bz9Aw5IvoRGXAuX) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Somebody's Daughter](https://open.spotify.com/album/4j7sVVrEg5X31to9IxWDIC) | 2:30 | 2026-10-16 |  |
 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 | 2022-11-11 | 2025-02-28 |
 | [Sometimes \- slowed+reverb remix](https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes \(slowed+reverb remix\)](https://open.spotify.com/album/05Lhrlmn5toScqQhr4pRXc) | 4:23 | 2022-11-11 | 2024-05-24 |
 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-15 | 2025-05-02 |
@@ -159,7 +162,7 @@
 | [Uko Poa](https://open.spotify.com/track/1DJgI3D1o5k4dnktOJFG2e) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Short Versions, Long Stories](https://open.spotify.com/album/05QYtF6561A9EfIMipAFcS) | 1:36 | 2022-11-11 | 2024-05-10 |
 | [Umbrella](https://open.spotify.com/track/0qGfu80AFVNYjR3yJCux4d) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 2:52 | 2026-04-02 |  |
 | [UNIFIED LOVE](https://open.spotify.com/track/0F0i8OwqGcT1oNK00r4y6E) | [KN\_Tini](https://open.spotify.com/artist/4O5Of6pRjTlXZ3pdWGJdOc), [THE GaMbLeR](https://open.spotify.com/artist/0Xa986czvVLKnJsu4ekoeZ) | [UNIFIED LOVE](https://open.spotify.com/album/1shCSJhobpWDyP5akTEUIr) | 4:25 | 2024-10-17 | 2025-02-15 |
-| [Usiku Wa Manane](https://open.spotify.com/track/2Ss0BWhI2ntDbbKV45dOmg) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Usiku Wa Manane](https://open.spotify.com/album/06Ip1GFAs0Y0gdoxjfKCs9) | 2:34 | 2026-02-26 |  |
+| [Usiku Wa Manane](https://open.spotify.com/track/2Ss0BWhI2ntDbbKV45dOmg) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Usiku Wa Manane](https://open.spotify.com/album/06Ip1GFAs0Y0gdoxjfKCs9) | 2:34 | 2026-02-26 | 2026-10-17 |
 | [Vile Inafaa](https://open.spotify.com/track/6U2X9YMZrcc3hOMmnzpIhk) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Bonnie Afreeka](https://open.spotify.com/artist/2fTgPrdZSSYcuCywFKTvXg) | [Vile Inafaa](https://open.spotify.com/album/2W6B908mrzSZ88ZaXPPuJ8) | 3:30 | 2024-04-19 | 2024-05-17 |
 | [Wait](https://open.spotify.com/track/7zbQtW2Xb7NADsW6Yw6dIM) | [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Shorts \-EP](https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu) | 2:25 | 2022-11-11 | 2024-08-31 |
 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 | 2025-02-14 | 2025-10-17 |

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,851 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,961 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kinder mit Kippen](https://open.spotify.com/track/5ZLf0LqfuH2CUe5smjNrB8) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Kinder mit Kippen](https://open.spotify.com/album/1PmbZEOfB0DvAqUJWnLqsQ) | 3:33 |
-| 2 | [Track 8](https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Verstr!ckt](https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q) | 0:00 |
+| 2 | [Riss in der Fassade](https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Verstr!ckt](https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q) | 2:15 |
 | 3 | [ALLES WAS ICH HASS](https://open.spotify.com/track/6J7Q0gOTdEtH5AJHZOrJ7P) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [Die kleinste Stadt](https://open.spotify.com/album/07OJjbzHj4Cd4xF3IQB67H) | 2:32 |
 | 4 | [Unter den Sternen](https://open.spotify.com/track/1CFl2PtJQ0GZHP86CRTyg2) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [Unter den Sternen](https://open.spotify.com/album/0skwJA3jKmGYsi82Tipt7K) | 2:36 |
 | 5 | [Almería](https://open.spotify.com/track/5ndluppHwAgqr4H13KiR05) | [Bruno Kawelke](https://open.spotify.com/artist/2IUWBYmkakCuaUMvtmRjRt), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Die Kugel](https://open.spotify.com/album/2FNjReHXVDFZsbwWxya31J) | 2:17 |
 | 6 | [DEINE TRÄUME](https://open.spotify.com/track/7d7lN4rVz3dX0IWzv7JhUE) | [CIVAN](https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g) | [DEINE TRÄUME](https://open.spotify.com/album/7FIFFXCFtVoyvrRHgnpkVq) | 2:19 |
 | 7 | [Fichtenholz](https://open.spotify.com/track/6RK7JQmE5apBvnDp2JuEvz) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Fichtenholz](https://open.spotify.com/album/0mWXFHaN1WYPKquFtol0AF) | 3:36 |
 | 8 | [einer dieser geister](https://open.spotify.com/track/3P8nXlkpxMasuwE2Gh1TfA) | [JAY](https://open.spotify.com/artist/4QtAqd6KkuysCHWw96R9pe) | [einer dieser geister](https://open.spotify.com/album/1jTTgP9gf2doKUWokLtN8d) | 3:21 |
-| 9 | [Track 1](https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [aus dem Koffer](https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j) | 0:00 |
+| 9 | [Deppata Bua](https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [aus dem Koffer](https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j) | 3:17 |
 | 10 | [Renn!](https://open.spotify.com/track/1NVO2eLVoxUY5WIbG2FLWA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Renn!](https://open.spotify.com/album/6Hv1fPxmiEKHr2gr1Zbkr4) | 5:11 |
 | 11 | [Ich hab jeder KI von dir erzählt](https://open.spotify.com/track/4VEOgPWhpQYVn3DsBDdCWR) | [Sarro](https://open.spotify.com/artist/6cFU9LlvHa1exQs5MJg6vB) | [Ich hab jeder KI von dir erzählt](https://open.spotify.com/album/0xn8KVXofsrpwNhnzNHfeG) | 2:27 |
 | 12 | [Fang mich auf](https://open.spotify.com/track/0x8HTg8W2aYLWN2xGvQgzU) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [es wäre schön](https://open.spotify.com/album/1w5Gf1cE7Ks1QwZf1EyLNi) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Sommerregen](https://open.spotify.com/track/5obmQ5Xt3F7QcfboGtOusg) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Sommerregen](https://open.spotify.com/album/5yLEbty03cRjd8gFP8G5i5) | 2:12 |
 | 75 | [caroline](https://open.spotify.com/track/7iUrV9iLQ0mmwRam5Lk2jr) | [SYDOW](https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl) | [caroline](https://open.spotify.com/album/2bq2cjJoqqzHw5HQEbwcTL) | 3:21 |
 
-Snapshot ID: `AAAAAD5U07SVocqh+yipt3s6IbkAXp7H`
+Snapshot ID: `AAAAAPf9OQnriQ2INnZHYTZsViY3eEmj`

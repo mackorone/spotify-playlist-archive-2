@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,553 songs - 5 day 16 hr 12 min
+2,554 songs - 5 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Block Your Number](https://open.spotify.com/track/2ydxcOqV1csgBuJSJPunvX) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Block Your Number](https://open.spotify.com/album/3cpcgAYgkdLDW64J704aNB) | 3:22 | 2020-10-13\* | 2021-05-22 |
 | [BLONDE](https://open.spotify.com/track/75N877K375q1iE3S1mEcHB) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [BLONDE](https://open.spotify.com/album/1fObqVmcM8zZFZg4Jr8VzH) | 2:57 | 2022-03-29 | 2022-03-31 |
 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 | 2021-11-12 | 2022-04-07 |
+| [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 | 2026-10-16 |  |
 | [Blood Sugar](https://open.spotify.com/track/60iDIlOnohKwxEKW8yGdXg) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Blood Sugar](https://open.spotify.com/album/2UdbPu3HA7s9HljWGZAkA9) | 3:07 | 2020-10-13\* | 2022-04-15 |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-02 | 2024-04-06 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-13 | 2024-10-26 |
@@ -2347,7 +2348,7 @@
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-08-31 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-10-26 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 | 2026-03-21 |
-| [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk) | 3:32 | 2026-08-28 |  |
+| [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk) | 3:32 | 2026-08-28 | 2026-10-17 |
 | [Tracksuit](https://open.spotify.com/track/2ZpQbgoZMeICzRrmq45NiK) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Tracksuit](https://open.spotify.com/album/1w1OS0ZUAvrzzvKj9OuzBj) | 2:38 | 2026-08-24 | 2026-09-26 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-08-30 |
 | [trash tv](https://open.spotify.com/track/5Ht7XiNME36YH0716Svm1j) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 3:18 | 2021-02-13 | 2021-03-23 |

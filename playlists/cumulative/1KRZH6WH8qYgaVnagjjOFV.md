@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-239 songs - 15 hr 34 min
+241 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [40 \- From the Prime Video Original Series, House of David](https://open.spotify.com/track/4l3fTWUbeRxu7EoYEzn4Gr) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [40 \(From the Prime Video Original Series, House of David\)](https://open.spotify.com/album/3GXViA0A7o2UVXLpFCnUmp) | 3:29 | 2025-02-07 |  |
 | [a lil Church \(nobody’s too lost\)](https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [a lil Church \(nobody’s too lost\)](https://open.spotify.com/album/6RzdBz9FPizucaPXPzA4mS) | 3:05 | 2024-12-06 |  |
 | [A Million Chances](https://open.spotify.com/track/0sfd53iGsKTy4lo6NGwbYg) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [A Million Chances](https://open.spotify.com/album/24JZao6BL4cMvLwgCX9eLn) | 3:21 | 2024-11-15 |  |
+| [A Million Chances \(with Tori Kelly\)](https://open.spotify.com/track/7w6F6UxAGlUpi9odZwdtBz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Million Chances](https://open.spotify.com/album/7EnHNY0vQaUerCG9ETXu00) | 3:26 | 2026-10-16 |  |
 | [A New Eden \- Live](https://open.spotify.com/track/15YSfwwIosOjmc3yGad6pn) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Sloat](https://open.spotify.com/artist/0QnfjcipXuIdXf2my3uoAp) | [A New Eden \(Live\)](https://open.spotify.com/album/1qy8v552qL1akwKfQNobYs) | 6:32 | 2025-02-07 | 2025-09-20 |
 | [Abandoned \- Original](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned \(Original\)](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 | 2024-05-24 |  |
 | [About Your Love](https://open.spotify.com/track/6OHrlqKTqgP77zA0NEVTDq) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 3:43 | 2026-03-27 | 2026-04-07 |
@@ -44,6 +45,7 @@
 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 | 2025-01-31 | 2026-03-17 |
 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 | 2025-09-19 |  |
 | [Church Clothes](https://open.spotify.com/track/2GyzxYTYOcOn2gABrdIUmU) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Church Clothes](https://open.spotify.com/album/15lWZw31EqIp9YKOqu24Fp) | 3:04 | 2025-10-03 |  |
+| [CLAY](https://open.spotify.com/track/6YkTF8ydY33WBp630ryP1S) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CLAY](https://open.spotify.com/album/1Hy6EUdmcoy5WIzBvwJYXJ) | 3:05 | 2026-10-16 |  |
 | [Come Into The Light](https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light](https://open.spotify.com/album/1tQdKADUZhcP6yl3o0J5TH) | 4:30 | 2024-10-11 |  |
 | [Consider Him](https://open.spotify.com/track/3jxmJxj1fGRmV9ZGyOdCvr) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Consider Him](https://open.spotify.com/album/3ycOePI4xr5Z9z66XWPm5w) | 9:28 | 2025-09-12 | 2026-04-07 |
 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 | 2024-05-24 |  |

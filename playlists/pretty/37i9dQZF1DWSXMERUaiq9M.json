@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 456783,
+  "num_followers": 457373,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIUXtHRTIQJMDdvuKNyAhvoanPkD",
+  "snapshot_id": "AAAAAJDzCtSL9jKowtXrs4trAESR2Q1w",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-10-15 22:01:00",
       "album": {
+        "name": "Smiling Through The Pain",
+        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
+    },
+    {
+      "added_at": "2026-10-15 22:01:00",
+      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 148155,
       "name": "Rave Out",
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
-    },
-    {
-      "added_at": "2026-10-15 22:01:00",
-      "album": {
-        "name": "Smiling Through The Pain",
-        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 269252,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-10-15 22:01:00",
       "album": {
-        "name": "Breakin' Dishes",
-        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 133517,
-      "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
-    },
-    {
-      "added_at": "2026-10-15 22:01:00",
-      "album": {
         "name": "CATHARSIS",
         "url": "https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 205263,
       "name": "Staub",
       "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
+    },
+    {
+      "added_at": "2026-10-15 22:01:00",
+      "album": {
+        "name": "Breakin' Dishes",
+        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-10-15 22:01:00",
       "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
-    },
-    {
-      "added_at": "2026-10-15 22:01:00",
-      "album": {
         "name": "Le Ball",
         "url": "https://open.spotify.com/album/4HUdMNeCtEH1FxaCoXFCSb"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 96187,
       "name": "Le Ball",
       "url": "https://open.spotify.com/track/6DO2vZdH5irJgNdwL65SlH"
+    },
+    {
+      "added_at": "2026-10-15 22:01:00",
+      "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-10-15 22:01:00",
       "album": {
+        "name": "Uh Na Na",
+        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 120033,
+      "name": "Uh Na Na",
+      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:00",
+      "album": {
         "name": "Amor EP",
         "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 372293,
       "name": "Amor (feat. CERES)",
       "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
-    },
-    {
-      "added_at": "2026-10-15 22:01:00",
-      "album": {
-        "name": "Uh Na Na",
-        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 120033,
-      "name": "Uh Na Na",
-      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2026-10-15 22:01:00",
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        },
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 226064,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1743,22 +1739,6 @@
       "duration_ms": 213937,
       "name": "I Wanna Feel Alive",
       "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
-    },
-    {
-      "added_at": "2026-10-15 22:01:00",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 226831,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1787,24 +1767,8 @@
     {
       "added_at": "2026-10-15 22:01:00",
       "album": {
-        "name": "Interesting",
-        "url": "https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 243023,
-      "name": "Interesting",
-      "url": "https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f"
-    },
-    {
-      "added_at": "2026-10-15 22:01:00",
-      "album": {
-        "name": "Unterwelt",
-        "url": "https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd"
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
       },
       "artists": [
         {
@@ -1812,13 +1776,13 @@
           "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
         },
         {
-          "name": "Frauenarzt",
-          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
         }
       ],
-      "duration_ms": 165095,
-      "name": "Unterwelt",
-      "url": "https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh"
+      "duration_ms": 226064,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1835,6 +1799,22 @@
       "duration_ms": 140202,
       "name": "Only One",
       "url": "https://open.spotify.com/track/576mVXUFpVKsvySHclibLU"
+    },
+    {
+      "added_at": "2026-10-15 22:01:00",
+      "album": {
+        "name": "Interesting",
+        "url": "https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 243023,
+      "name": "Interesting",
+      "url": "https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f"
     },
     {
       "added_at": "2026-10-15 22:01:00",
@@ -1859,6 +1839,46 @@
     {
       "added_at": "2026-10-15 22:01:00",
       "album": {
+        "name": "I Got Acid",
+        "url": "https://open.spotify.com/album/7DqeTZTW7W1MSewzTKjnwR"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 127586,
+      "name": "I Got Acid",
+      "url": "https://open.spotify.com/track/482SNF4FRJ5Ik8j2krjMEE"
+    },
+    {
+      "added_at": "2026-10-15 22:01:00",
+      "album": {
+        "name": "Unterwelt",
+        "url": "https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Frauenarzt",
+          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
+        }
+      ],
+      "duration_ms": 165095,
+      "name": "Unterwelt",
+      "url": "https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh"
+    },
+    {
+      "added_at": "2026-10-15 22:01:00",
+      "album": {
         "name": "You Need The Drugs (Kobosil Kartell Mix)",
         "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 217750,
       "name": "You Need The Drugs - Kobosil Kartell Mix",
       "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
-    },
-    {
-      "added_at": "2026-10-15 22:01:00",
-      "album": {
-        "name": "I Got Acid",
-        "url": "https://open.spotify.com/album/7DqeTZTW7W1MSewzTKjnwR"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 127586,
-      "name": "I Got Acid",
-      "url": "https://open.spotify.com/track/482SNF4FRJ5Ik8j2krjMEE"
     },
     {
       "added_at": "2026-10-15 22:01:00",

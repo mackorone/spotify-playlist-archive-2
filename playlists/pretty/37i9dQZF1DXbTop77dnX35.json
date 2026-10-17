@@ -1,12 +1,12 @@
 {
   "description": "New Music from Fireboy DML,Blaqbonez, Solana, Gyakie, Cruel Santino, Sarkodie, Katseye and more ",
-  "num_followers": 223286,
+  "num_followers": 224230,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOvXLP0VV804RMALeC9LNh1gqmbK",
+  "snapshot_id": "AAAAAG5NEIcESlchAsypZ5qL+jEZdXaq",
   "tracks": [
     {
       "added_at": "2026-10-16 00:02:02",
@@ -231,7 +231,7 @@
     {
       "added_at": "2026-10-16 00:02:02",
       "album": {
-        "name": "Your Body (Craze)",
+        "name": "Your Body (Crazy)",
         "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
       },
       "artists": [
@@ -241,7 +241,7 @@
         }
       ],
       "duration_ms": 159272,
-      "name": "Your Body (Craze)",
+      "name": "Your Body (Crazy)",
       "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
     },
     {
@@ -523,6 +523,42 @@
     {
       "added_at": "2026-10-16 00:02:02",
       "album": {
+        "name": "right/left",
+        "url": "https://open.spotify.com/album/4UEnqdMtJ3TlgA25OsRG5A"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 129925,
+      "name": "right/left",
+      "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
+    },
+    {
+      "added_at": "2026-10-16 00:02:02",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-10-16 00:02:02",
+      "album": {
         "name": "Shenk Me",
         "url": "https://open.spotify.com/album/5yNwyn1a11z9XW46Nlm1kI"
       },
@@ -611,6 +647,26 @@
       "duration_ms": 136000,
       "name": "Bullion Van",
       "url": "https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63"
+    },
+    {
+      "added_at": "2026-10-16 00:02:02",
+      "album": {
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/5aGRH6A0fdS1QvNJERdI2W"
+      },
+      "artists": [
+        {
+          "name": "Emra Brah",
+          "url": "https://open.spotify.com/artist/3b0fi8ig6aCpz1DFZMO4aR"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "duration_ms": 155788,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/2dCzQ6dTxR0kK4ViPMwdVo"
     },
     {
       "added_at": "2026-10-16 00:02:02",
@@ -706,10 +762,14 @@
         {
           "name": "oSHAMO",
           "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        },
+        {
+          "name": "Shiloh Yodell\u00e9",
+          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 177300,
+      "name": "Don't Say Bye",
       "url": "https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S"
     },
     {
@@ -739,6 +799,26 @@
       "duration_ms": 150508,
       "name": "Heya",
       "url": "https://open.spotify.com/track/3xfZflUNY7N5KQCSjT9bl1"
+    },
+    {
+      "added_at": "2026-10-16 00:02:02",
+      "album": {
+        "name": "2 Classics",
+        "url": "https://open.spotify.com/album/10NrxBxgrEXhajpNsUxtcO"
+      },
+      "artists": [
+        {
+          "name": "Fuzeejasmine",
+          "url": "https://open.spotify.com/artist/51BQQDclzLAUbxx2VfIigc"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 173039,
+      "name": "Different Breed",
+      "url": "https://open.spotify.com/track/6OJ3qy7Fuc4p5ezXgPZqO0"
     },
     {
       "added_at": "2026-10-16 00:02:02",
@@ -858,10 +938,14 @@
         {
           "name": "KILIMANJARO",
           "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Dyo",
+          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 179815,
+      "name": "Not Like You",
       "url": "https://open.spotify.com/track/3xzxzll7UnFqXKg28lsutT"
     },
     {

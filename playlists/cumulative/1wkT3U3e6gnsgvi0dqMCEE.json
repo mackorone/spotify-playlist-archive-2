@@ -811,6 +811,28 @@
     },
     {
       "album": {
+        "name": "Black Stars",
+        "url": "https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Black Stars - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm"
+    },
+    {
+      "album": {
         "name": "One Hand Clapping \u2013 The Backyard (One Hand Clapping Sessions)",
         "url": "https://open.spotify.com/album/6YCmiTHYtzwNuW4DkgzcwI"
       },
@@ -2798,6 +2820,24 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "album": {
+        "name": "Fooled Again (I Don't Like It) / Parade Of Loons",
+        "url": "https://open.spotify.com/album/11OwaPXIqSKbA5rkXgkRXP"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Fooled Again (I Don't Like It) - Extended Version - 2026 Mix",
+      "url": "https://open.spotify.com/track/3M5SmRJ3wVsJtabDbHruJM"
     },
     {
       "album": {
@@ -5197,6 +5237,40 @@
     },
     {
       "album": {
+        "name": "Loverboy (Remix)",
+        "url": "https://open.spotify.com/album/385M8ex7dAinRxjMHlY9Ph"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Da Brat",
+          "url": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        },
+        {
+          "name": "Twenty II",
+          "url": "https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "Loverboy - Remix",
+      "url": "https://open.spotify.com/track/37V9Td9HDL6GQ8SF0To3U8"
+    },
+    {
+      "album": {
         "name": "Lowdown",
         "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
       },
@@ -5500,6 +5574,24 @@
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "album": {
+        "name": "Mr. Speed / Hard Luck Woman",
+        "url": "https://open.spotify.com/album/3H4aImRAbw3JXfzvXWdRny"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198933,
+      "name": "Mr. Speed - Eddie Kramer 2026 Mix",
+      "url": "https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG"
     },
     {
       "album": {
@@ -7153,6 +7245,24 @@
     },
     {
       "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371580,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
+    },
+    {
+      "album": {
         "name": "So (Special Edition)",
         "url": "https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js"
       },
@@ -8124,6 +8234,24 @@
       "duration_ms": 321733,
       "name": "The Body Electric - Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984",
       "url": "https://open.spotify.com/track/7s56h4bwJfypFfirpDczSb"
+    },
+    {
+      "album": {
+        "name": "The Greatest Show On Earth",
+        "url": "https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334109,
+      "name": "The Greatest Show On Earth",
+      "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
     },
     {
       "album": {

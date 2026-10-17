@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,610 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,625 likes - 43 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,6 +50,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 40 | [Mi Naadkhula](https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Vishal Phale](https://open.spotify.com/artist/5WRKRK4jQ2b1fGYLLDOmqo), [Pratibha Joshi](https://open.spotify.com/artist/50Uud5UqMWgsGHqqUoMTcx) | [Mi Naadkhula](https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l) | 4:19 |
 | 41 | [Raja Aala](https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76) | [Pawankhind](https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em) | 4:20 |
 | 42 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 |
-| 43 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
+| 43 | [Aaichya Gavat](https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Kavita Raam](https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS), [Mugdha Karhade](https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b) | [Girlz](https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd) | 3:36 |
 
-Snapshot ID: `AAAAAEvqNHRP+d/3rX+sITxU8rYqbd/l`
+Snapshot ID: `AAAAAP4YeySTtzZDnSV3KDf8FwPRab5G`

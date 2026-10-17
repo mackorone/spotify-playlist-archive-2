@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-131 songs - 6 hr 44 min
+132 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Te Vas a Arrepentir](https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Vas a Arrepentir](https://open.spotify.com/album/0EcTd4rBSHWuk8bp86vk06) | 3:51 | 2022-06-01 | 2023-09-13 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:51 | 2023-09-12 |  |
 | [Termino Con Lo Nuestro](https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Termino Con Lo Nuestro](https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6) | 3:37 | 2023-07-18 |  |
-| [Tierra de N@RCO$](https://open.spotify.com/track/4Jgy4o7XLUYSNBxZwH6Mj9) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tierra de N@RCO$](https://open.spotify.com/album/0KL97gAS7ZbCBXP5F9Po44) | 4:58 | 2026-09-20 |  |
+| [Tierra de N@RCO$](https://open.spotify.com/track/4Jgy4o7XLUYSNBxZwH6Mj9) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tierra de N@RCO$](https://open.spotify.com/album/0KL97gAS7ZbCBXP5F9Po44) | 4:58 | 2026-09-20 | 2026-10-17 |
+| [Todo Fine](https://open.spotify.com/track/4ceRhPSK8XXsL2do0cyyyK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros Placosos](https://open.spotify.com/album/6dqyuo713dNGjuRf78SjUZ) | 2:30 | 2026-10-17 |  |
 | [Tragos y a la Cama](https://open.spotify.com/track/24PE1UStzkWnRA9PnQ4oW0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragos y a la Cama](https://open.spotify.com/album/7yWez2qwpZ2hshpsgehbU4) | 2:37 | 2025-08-14 | 2025-10-26 |
 | [Tronando Ligas](https://open.spotify.com/track/70fLGCLWTSyuI76dNhQboT) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [Tronando Ligas](https://open.spotify.com/album/0VZLi5I1MJs3PFRyvgjOEO) | 2:13 | 2025-11-24 |  |
 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 | 2022-06-01 |  |

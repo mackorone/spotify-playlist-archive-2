@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Solana
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,489 likes - 94 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,533 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 16 | [By Me](https://open.spotify.com/track/4LR0vIINC7A1vLuNoL9w0l) | [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [By Me](https://open.spotify.com/album/71dEKqbnbyyQqx2o8aAtW9) | 2:34 |
 | 17 | [Richard Mille](https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Richard Mille](https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0) | 2:51 |
 | 18 | [Ripper's Fate](https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Ripper's Fate](https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB) | 2:29 |
-| 19 | [Track 4](https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Something To Die For](https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT) | 0:00 |
+| 19 | [Don't Say Bye](https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH) | [Something To Die For](https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT) | 2:57 |
 | 20 | [Life is Slo II](https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Life is Slo II](https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy) | 2:20 |
 | 21 | [Guap](https://open.spotify.com/track/3JqYDroro4zZ9dZMBlWzUg) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [Lust & Hustle](https://open.spotify.com/album/1TdAdr5W0eSUO2VNixB26p) | 2:42 |
 | 22 | [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 93 | [MIKE TYSON](https://open.spotify.com/track/0cDSkCjlBgmPsQggS1JC0B) | [Bunie The First](https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg) | [THE FIRST EP](https://open.spotify.com/album/0Gdpxm5WSAqrizXZZqfOXa) | 2:28 |
 | 94 | [Daddy, I'm Going Out](https://open.spotify.com/track/3PkU0NhQmbeh1lIsDi8tyr) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Daddy, I'm Going Out](https://open.spotify.com/album/26l5EcfY8MUwU0W86Eo3Qy) | 2:32 |
 
-Snapshot ID: `AAAAAOLZlF8BpLezw1d+1tdRLz/Gl0Y8`
+Snapshot ID: `AAAAANE1OaBRRP9pqN17q9QyHldF2AlA`

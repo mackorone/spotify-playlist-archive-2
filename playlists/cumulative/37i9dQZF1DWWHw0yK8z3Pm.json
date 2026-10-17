@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 139530,
       "name": "Field Song.",
       "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
@@ -8450,6 +8450,28 @@
       "duration_ms": 202506,
       "name": "Memories and Empties",
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
+    },
+    {
+      "album": {
+        "name": "Mental Revenge",
+        "url": "https://open.spotify.com/album/6K4fOu5BUIcfGiIGlE3zpM"
+      },
+      "artists": [
+        {
+          "name": "Greg Keelor",
+          "url": "https://open.spotify.com/artist/1uY1yygywc5FqBISxIGHRE"
+        },
+        {
+          "name": "Jimmy Bowskill",
+          "url": "https://open.spotify.com/artist/56tPV0R1ZBfesgI9cGFrx7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236470,
+      "name": "Mental Revenge",
+      "url": "https://open.spotify.com/track/6fnhdx3jxyBUfqNlyoBHM7"
     },
     {
       "album": {
@@ -13570,6 +13592,24 @@
       "duration_ms": 208813,
       "name": "Way of the Triune God - Hallelujah Version",
       "url": "https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6"
+    },
+    {
+      "album": {
+        "name": "We Both Care",
+        "url": "https://open.spotify.com/album/3ATMs8puzPxt5ecEXlpqZe"
+      },
+      "artists": [
+        {
+          "name": "Ten Kills the Pack",
+          "url": "https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217035,
+      "name": "We Both Care",
+      "url": "https://open.spotify.com/track/1IXIgmdRsJGKNOfkOr1vlM"
     },
     {
       "album": {

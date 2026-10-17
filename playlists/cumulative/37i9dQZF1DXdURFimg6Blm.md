@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-814 songs - 1 day 16 hr 36 min
+815 songs - 1 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 | 2026-03-20 | 2026-08-01 |
 | [FADED](https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [FADED](https://open.spotify.com/album/2MUwWCMAyqzlf0xn3LyH4s) | 3:35 | 2025-11-21 | 2026-04-12 |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-09-26 | 2026-08-22 |
+| [Fancy Footwork](https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR) | 3:12 | 2026-10-16 |  |
 | [Fast Money](https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q) | [PITCHBLACK](https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW) | [Fast Money](https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN) | 2:22 | 2026-04-17 | 2026-05-28 |
 | [favorite kind of high \- David Guetta Remix](https://open.spotify.com/track/1QotPsE3JVNnrAAtatQFt0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [favorite kind of high \(David Guetta Remix\)](https://open.spotify.com/album/6wMEg3O3cbrXcOYXSnFYR6) | 2:33 | 2023-06-03 | 2023-07-23 |
 | [Favour](https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq) | 3:14 | 2026-05-01 |  |
@@ -805,7 +806,7 @@
 | [Work Hard, Play Hard](https://open.spotify.com/track/0DFRRAMkEtkJ3nQUuYn5RS) | [Rino](https://open.spotify.com/artist/2dEmGZwc9RpOUnd1LGn7h5), [AZINZA](https://open.spotify.com/artist/4EC7n10Rzc519hpiAVliOm) | [Work Hard, Play Hard](https://open.spotify.com/album/4ZNbwLcnHrsmtzTOyjdtKw) | 2:53 | 2022-05-06 | 2022-05-14 |
 | [Work It](https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM) | [SEBS](https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv) | [Work It](https://open.spotify.com/album/26EnkGvk5z5hqA3RE9QQJr) | 2:38 | 2026-07-03 |  |
 | [Work It Out](https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Work It Out](https://open.spotify.com/album/2J1EDRiGKwyK9ghGji2gCS) | 3:44 | 2026-06-19 |  |
-| [Work Your Body](https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Work Your Body](https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii) | 3:06 | 2026-05-15 |  |
+| [Work Your Body](https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Work Your Body](https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii) | 3:06 | 2026-05-15 | 2026-10-17 |
 | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n) | 2:59 | 2026-04-17 | 2026-10-11 |
 | [World Away](https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [World Away](https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx) | 3:07 | 2026-07-31 |  |
 | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5) | 2:54 | 2022-07-29 | 2023-04-22 |

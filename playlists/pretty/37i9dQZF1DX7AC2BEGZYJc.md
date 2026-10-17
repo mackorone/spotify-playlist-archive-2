@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AC2BEGZYJc.md) - [plain]
 
 > Journey through history’s stranger side.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAGUanLubL1EN+orWkCsGZVF9wqJQ`
+Snapshot ID: `AAAAAJq8slrhVgG4q4aIkcvBYx36kTmh`

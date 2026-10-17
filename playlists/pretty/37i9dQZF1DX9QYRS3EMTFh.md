@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Lawskie
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,390 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,401 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Mamacita](https://open.spotify.com/track/3G2lrpw60WANskMtvMBHkf) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG) | [Mamacita](https://open.spotify.com/album/4pzoPkl1Xu5WyRVM8KGdNL) | 2:37 |
 | 50 | [Dolla sign](https://open.spotify.com/track/4m2qQkpEx9zUMVpkPW9vEd) | [Bad Gyal Jade](https://open.spotify.com/artist/2todrJqIBQQZNLHnl6kXbO), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [Dolla sign](https://open.spotify.com/album/1ds1PSpW9F8h1bmFRSCfHE) | 3:04 |
 
-Snapshot ID: `AAAAAEwsnsJEEDuN7SSqfqThctThJYG7`
+Snapshot ID: `AAAAAJm8KPihZMfSwZRwMFAp49vTutiW`

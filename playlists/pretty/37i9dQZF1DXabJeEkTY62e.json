@@ -1,12 +1,12 @@
 {
   "description": "Fresh Prince,  Game Boy  and MSN, this one's for you!",
-  "num_followers": 194679,
+  "num_followers": 194702,
   "original_name": "Born in the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABns9NEUAuCb22eDECQ0O+BYYdVr",
+  "snapshot_id": "AAAAAI81UHGlNBhGpi7ufl/CZUzXxxQ6",
   "tracks": [
     {
       "added_at": "2024-03-25 16:52:43",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
         "name": "Gorillaz",
         "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 340920,
       "name": "Clint Eastwood",
       "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
-        "name": "La Folie",
-        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Golden Brown",
-      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -619,6 +603,38 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
+        "name": "La Folie",
+        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Golden Brown",
+      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Ecuador - Original Radio Edit",
-      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "All Saints",
-        "url": "https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF"
-      },
-      "artists": [
-        {
-          "name": "All Saints",
-          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
-        }
-      ],
-      "duration_ms": 387573,
-      "name": "Never Ever",
-      "url": "https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 184906,
       "name": "Never Leave You (Uh Oooh, Uh Oooh)",
       "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "All Saints",
+        "url": "https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF"
+      },
+      "artists": [
+        {
+          "name": "All Saints",
+          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+        }
+      ],
+      "duration_ms": 387573,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO"
     }
   ],
   "unique_name": "Born in the 80s",

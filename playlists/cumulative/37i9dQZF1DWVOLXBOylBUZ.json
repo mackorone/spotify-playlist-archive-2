@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Judeline.",
+  "description": "Latinoam\u00e9rica baila al ritmo de K\u00f8ddy G.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -12943,6 +12943,36 @@
     },
     {
       "album": {
+        "name": "Hagalo",
+        "url": "https://open.spotify.com/album/55AQ3rQ74ctxjfmLAXS8Gc"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156330,
+      "name": "Hagalo",
+      "url": "https://open.spotify.com/track/1IfiayrBBdKt8cixUD4nOp"
+    },
+    {
+      "album": {
         "name": "Hag\u00e1moslo de Nuevo",
         "url": "https://open.spotify.com/album/5nZkyesRCLkiCel7T2t681"
       },
@@ -20040,7 +20070,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193103,
       "name": "NO ES BROMA",
       "url": "https://open.spotify.com/track/7tKohZqsAEe8QEZuFbZkce"
@@ -22956,6 +22986,32 @@
       "duration_ms": 212000,
       "name": "PDP (Pa' Darte Perreo) [feat. Sergio Acosta, Mauro Dembow]",
       "url": "https://open.spotify.com/track/25SsznrF6Qx3njnrra3QH4"
+    },
+    {
+      "album": {
+        "name": "Peli De Terror",
+        "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Peli De Terror",
+      "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
     },
     {
       "album": {
@@ -27922,7 +27978,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 160645,
       "name": "T O M A !",
       "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"

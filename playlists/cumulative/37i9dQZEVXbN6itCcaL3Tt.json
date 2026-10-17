@@ -5862,7 +5862,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 139515,
       "name": "BALETY",
       "url": "https://open.spotify.com/track/5LdSTx48DeZmM19nj7ddUk"
@@ -5884,7 +5884,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 139494,
       "name": "BALETY",
       "url": "https://open.spotify.com/track/3hXqPp1CMHwOTZyRWtfpjF"
@@ -24600,7 +24600,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 468199,
       "name": "Impulsy",
       "url": "https://open.spotify.com/track/61DGNq8Iz3mzA904JrmMiH"
@@ -24836,7 +24836,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 197040,
       "name": "Interpol",
       "url": "https://open.spotify.com/track/0SSzxRyRVHfVZywNMlvuIp"
@@ -34678,6 +34678,32 @@
       "duration_ms": 166166,
       "name": "mia\u0142em koleg\u0119 bartka",
       "url": "https://open.spotify.com/track/5b7HNNKvhJmZMifol1lAdI"
+    },
+    {
+      "album": {
+        "name": "Vanillahajs",
+        "url": "https://open.spotify.com/album/7CNxGDEfBngndVh2JjXnMh"
+      },
+      "artists": [
+        {
+          "name": "TEDE",
+          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        },
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/5i3fu3yxKKcmEjEpSm5wdX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222667,
+      "name": "Michael Kors",
+      "url": "https://open.spotify.com/track/2B0L9MY2n4XPrVWZ4Mx9ym"
     },
     {
       "album": {
@@ -47818,7 +47844,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 173760,
       "name": "poza Tob\u0105 nic",
       "url": "https://open.spotify.com/track/4fxmxMlrViwVyolXZJUJ8Z"
@@ -55274,7 +55300,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 139428,
       "name": "Styl \u017bycia Haram",
       "url": "https://open.spotify.com/track/5m16LI7phPqb4ecRdZ2UlW"
@@ -66086,7 +66112,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 152853,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"

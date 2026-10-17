@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latin Electronic music. Cover: DannyLux, Ckdageneral",
-  "num_followers": 1734261,
+  "num_followers": 1733927,
   "original_name": "mint Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAn4gJQ4xd0yX9CTKOoT9SE1OR+g",
+  "snapshot_id": "AAAAAOeY+rt8phnJmJm4UH2KXg4Dv/WM",
   "tracks": [
     {
       "added_at": "2026-06-26 15:29:15",
@@ -47,6 +47,26 @@
       "duration_ms": 210962,
       "name": "MENTA",
       "url": "https://open.spotify.com/track/7drdmjhg7RZD0UJuma7NPV"
+    },
+    {
+      "added_at": "2026-10-16 14:39:45",
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT"
     },
     {
       "added_at": "2026-07-20 18:26:48",

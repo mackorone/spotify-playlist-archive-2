@@ -1,12 +1,12 @@
 {
   "description": "zu dieser sonnigen playlist kann man nur viben",
-  "num_followers": 620657,
+  "num_followers": 620607,
   "original_name": "swag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKL93deElm4bZVhlnWg4G2EwwZ+u",
+  "snapshot_id": "AAAAABDqzeXLDAxRvlknL8jtzo8K3pUZ",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:00",
@@ -386,10 +386,14 @@
         {
           "name": "Marla Kether",
           "url": "https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU"
+        },
+        {
+          "name": "Margaridas",
+          "url": "https://open.spotify.com/artist/2s7Kara3RovkRHclzCt9jn"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 295469,
+      "name": "Libera",
       "url": "https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS"
     },
     {

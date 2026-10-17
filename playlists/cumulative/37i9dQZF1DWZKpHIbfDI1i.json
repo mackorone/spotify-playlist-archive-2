@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. ALMAS, NXNNI y Snow Tha Product",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Wuicho Kun",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -946,6 +946,24 @@
       "duration_ms": 162259,
       "name": "A Las 3",
       "url": "https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212280,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
     },
     {
       "album": {
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 222120,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8"
@@ -4901,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "Bonito Bonito",
+        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Bonito Bonito",
+      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
+    },
+    {
+      "album": {
         "name": "Booty Booty",
         "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
       },
@@ -5904,7 +5940,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206485,
       "name": "Callate y Besame",
       "url": "https://open.spotify.com/track/2HyiD5iWkqbWSCMAu8lRG1"
@@ -10488,7 +10524,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184251,
       "name": "Dumb Boy (ojo de loca)",
       "url": "https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n"
@@ -10616,6 +10652,28 @@
       "duration_ms": 132722,
       "name": "D\u00e9jese Querer",
       "url": "https://open.spotify.com/track/21MStpNy1zVsIhpizMuoPW"
+    },
+    {
+      "album": {
+        "name": "D\u00f3nde est\u00e1s",
+        "url": "https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5"
+      },
+      "artists": [
+        {
+          "name": "Barbas",
+          "url": "https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "D\u00f3nde est\u00e1s",
+      "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
     },
     {
       "album": {
@@ -11386,6 +11444,24 @@
       "duration_ms": 168405,
       "name": "El Disfraz - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/2n0ni9f0CyJ5U450rmbDhF"
+    },
+    {
+      "album": {
+        "name": "El Dreamer",
+        "url": "https://open.spotify.com/album/5pVRdSXhERlGkWKJJroQG1"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183031,
+      "name": "El Dreamer",
+      "url": "https://open.spotify.com/track/4R3XsaL4ruqGpz5wysE15Y"
     },
     {
       "album": {
@@ -12514,6 +12590,24 @@
       "duration_ms": 225586,
       "name": "Empinar El Codo",
       "url": "https://open.spotify.com/track/6JS8j9BbguW0HUiF6liE5k"
+    },
+    {
+      "album": {
+        "name": "En Dos Ruedas",
+        "url": "https://open.spotify.com/album/2lRpG06UUosMvSXqTGgMbP"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221183,
+      "name": "En Dos Ruedas",
+      "url": "https://open.spotify.com/track/0CeKuW9rKnST6pdl5ZbmIl"
     },
     {
       "album": {
@@ -22387,6 +22481,28 @@
     },
     {
       "album": {
+        "name": "Mil Problemas",
+        "url": "https://open.spotify.com/album/3AiRkTW47g95RCq4sy6DHt"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207104,
+      "name": "Mil Problemas",
+      "url": "https://open.spotify.com/track/0Wm2AsGxzuVmpRwePxKIfx"
+    },
+    {
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -25521,6 +25637,28 @@
     },
     {
       "album": {
+        "name": "Nostalgia .0018 Efimero",
+        "url": "https://open.spotify.com/album/5ry9NNkXYKBa5izYI7maQK"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Nostalgia .0018 Efimero",
+      "url": "https://open.spotify.com/track/5RiOuk4Q9VG4Ihn491JMQv"
+    },
+    {
+      "album": {
         "name": "MILLAS",
         "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
       },
@@ -28574,7 +28712,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 161258,
       "name": "Por Si Las Dudas",
       "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
@@ -28654,7 +28792,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 135428,
       "name": "Portadas - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/7lEkG18Om4n4SJ8LzwQ0RL"
@@ -30440,7 +30578,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 212258,
       "name": "Repetimos",
       "url": "https://open.spotify.com/track/76ygErvy3Y0YwhLbbB6MvZ"
@@ -32848,7 +32986,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 262269,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/4I9MoG4cjf4TsStLNiqSmk"
@@ -33482,6 +33620,32 @@
       "duration_ms": 146000,
       "name": "Tacha$ & Tu$$i",
       "url": "https://open.spotify.com/track/5jKRqn4TAi6ASvRYI5AqJV"
+    },
+    {
+      "album": {
+        "name": "Ay Weyy",
+        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
+      },
+      "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158669,
+      "name": "Taco El Flaco",
+      "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
     },
     {
       "album": {
@@ -34713,6 +34877,28 @@
     },
     {
       "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
+    },
+    {
+      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
       },
@@ -35532,7 +35718,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 193684,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
@@ -35904,7 +36090,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 203801,
       "name": "T\u00fa Ni En Cuenta",
       "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
@@ -36464,7 +36650,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 189791,
       "name": "Un Vals",
       "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
@@ -39702,6 +39888,24 @@
       "duration_ms": 144468,
       "name": "\u00d1ero Session 8",
       "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
+    },
+    {
+      "album": {
+        "name": "STAR (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177942,
+      "name": "\u00daLTIMAMENTE",
+      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
     },
     {
       "album": {

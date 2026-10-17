@@ -4857,6 +4857,28 @@
     },
     {
       "album": {
+        "name": "Hustle 5 - Episode 6",
+        "url": "https://open.spotify.com/album/2AKcw8eesNy7KkmbGE2Sp0"
+      },
+      "artists": [
+        {
+          "name": "Dhadkan",
+          "url": "https://open.spotify.com/artist/57JOmmcrq0tuWiOmXqYfHL"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169350,
+      "name": "Fan Ho Gayi",
+      "url": "https://open.spotify.com/track/5P2yDhhsaDyGRgmGHr0u2Y"
+    },
+    {
+      "album": {
         "name": "FARIDA DRIP",
         "url": "https://open.spotify.com/album/2bBOwF7NrAR5Y74C8d5diO"
       },
@@ -7060,6 +7082,32 @@
     {
       "album": {
         "name": "Intro",
+        "url": "https://open.spotify.com/album/2K1ciMtSOruUobAuvueNIi"
+      },
+      "artists": [
+        {
+          "name": "Aric",
+          "url": "https://open.spotify.com/artist/2OrpZkU0ta565ZiULAfRWa"
+        },
+        {
+          "name": "Andaaz",
+          "url": "https://open.spotify.com/artist/6VQ4ucvbtHJvMhULucL4G2"
+        },
+        {
+          "name": "S4LT",
+          "url": "https://open.spotify.com/artist/6CmtxPcuVbrEhMJQei5kvb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1MTjEUkdb0mRWG3bNly5JJ"
+    },
+    {
+      "album": {
+        "name": "Intro",
         "url": "https://open.spotify.com/album/51YgKSHDHcjJIIsA3eUOn9"
       },
       "artists": [
@@ -9026,6 +9074,28 @@
       "duration_ms": 246000,
       "name": "LOOK! THIS IS LOVE",
       "url": "https://open.spotify.com/track/0JzohlYpZsP4REYnGIaTcN"
+    },
+    {
+      "album": {
+        "name": "LOW RIDER (D&D)",
+        "url": "https://open.spotify.com/album/2fy8k9G8NO4X2KpWL1I0tg"
+      },
+      "artists": [
+        {
+          "name": "Kalakaar",
+          "url": "https://open.spotify.com/artist/4zuIuj8j9aOWqSyxcUilnA"
+        },
+        {
+          "name": "Heyy Veer",
+          "url": "https://open.spotify.com/artist/3pOmGhSvJBhMfyh5oVxc3q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165460,
+      "name": "LOW RIDER (D&D)",
+      "url": "https://open.spotify.com/track/4kwE3SixMMj4HPtiqaX44t"
     },
     {
       "album": {
@@ -11686,7 +11756,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158221,
       "name": "Racketeer",
       "url": "https://open.spotify.com/track/1b8GyyuhELUC3exnohldSr"
@@ -12670,7 +12740,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 111250,
       "name": "Sapoot",
       "url": "https://open.spotify.com/track/3jXurj4LcqZITskIG3WVqj"
@@ -14134,7 +14204,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 125725,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/21GQLQ5HOA4InmcrcFNnub"

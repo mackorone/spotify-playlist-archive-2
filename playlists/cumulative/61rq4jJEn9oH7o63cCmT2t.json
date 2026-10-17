@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Middle Spoon",
+        "url": "https://open.spotify.com/album/2I66US2IlW5AVBgiIMCSIg"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Living Lo-Fi",
+      "url": "https://open.spotify.com/track/3YCLqUEnvuOcIv3pRx0AXY"
+    },
+    {
+      "album": {
         "name": "The Sunset Tree",
         "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
       },

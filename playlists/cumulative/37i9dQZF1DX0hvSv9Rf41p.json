@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Effin",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Arcando & IRAH",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -6993,6 +6993,28 @@
     },
     {
       "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/7eXDwZjyn66HyVSsWpVENZ"
+      },
+      "artists": [
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Colleen D'agostino",
+          "url": "https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3BN8ZvwgmKKr6GWAzYmzxK"
+    },
+    {
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/7lf8Od07lp9Ix9lI7g7r0o"
       },
@@ -8114,7 +8136,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198857,
       "name": "Cracks Begin To Show",
       "url": "https://open.spotify.com/track/2Vys0XlrWTjUxmGtRwHLGj"
@@ -8220,7 +8242,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 175464,
       "name": "CRASH OUT",
       "url": "https://open.spotify.com/track/659fLEncISLHImCs2IkqO2"
@@ -8260,7 +8282,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 132000,
       "name": "CRAYZEE",
       "url": "https://open.spotify.com/track/3qovS8NlY3yFMySV2028Il"
@@ -8654,6 +8676,24 @@
       "duration_ms": 185285,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs"
+    },
+    {
+      "album": {
+        "name": "d e v i l",
+        "url": "https://open.spotify.com/album/6qWYP9ADGWwcx42gcobTBI"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204308,
+      "name": "d e v i l",
+      "url": "https://open.spotify.com/track/2iI6ZrmVzpYgEJdlDht9wB"
     },
     {
       "album": {
@@ -17006,7 +17046,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172177,
       "name": "HANDS GO HIGHER",
       "url": "https://open.spotify.com/track/0I0N6qLlaOttw24Cdfe1mO"
@@ -18708,7 +18748,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 157714,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
@@ -20927,6 +20967,32 @@
     },
     {
       "album": {
+        "name": "Just Smoak It.",
+        "url": "https://open.spotify.com/album/3uWuqBtNbL4JfquLzhRm8Q"
+      },
+      "artists": [
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        },
+        {
+          "name": "Pretty Sweet",
+          "url": "https://open.spotify.com/artist/1tGxccjxxG3IlNwSs2x8eX"
+        },
+        {
+          "name": "Era Harris",
+          "url": "https://open.spotify.com/artist/0LblmjSaHxJvyBMDCWLr3f"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143496,
+      "name": "Just Smoak It.",
+      "url": "https://open.spotify.com/track/2nLpOEAtQ0WpqLvJZrOPN0"
+    },
+    {
+      "album": {
         "name": "Just Too Numb (with Calivania)",
         "url": "https://open.spotify.com/album/25fV2RjsDHHybEDIYtMfNC"
       },
@@ -21312,6 +21378,28 @@
       "duration_ms": 132800,
       "name": "KILLAA",
       "url": "https://open.spotify.com/track/3W9fuckq8H5fCHZ0n0GCQx"
+    },
+    {
+      "album": {
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
     },
     {
       "album": {
@@ -21788,7 +21876,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158241,
       "name": "Lead Dem",
       "url": "https://open.spotify.com/track/54wrDUKN01VGqAMP0h5wWq"
@@ -23773,6 +23861,24 @@
     },
     {
       "album": {
+        "name": "DESIRE",
+        "url": "https://open.spotify.com/album/6ra0uFQ6JwuZDQL5IZ3kaH"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/2v1BD8VhqRmW2uqO5sbIdP"
+    },
+    {
+      "album": {
         "name": "Make U Sick",
         "url": "https://open.spotify.com/album/2HDGZrwuzUgSWX1yjYfItq"
       },
@@ -24968,7 +25074,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178285,
       "name": "MONSOON",
       "url": "https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV"
@@ -25578,7 +25684,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 195918,
       "name": "MY MY MY",
       "url": "https://open.spotify.com/track/3GYv23rXigfEB2Sw6WbCPx"
@@ -31979,6 +32085,28 @@
     },
     {
       "album": {
+        "name": "RING THE ALARM",
+        "url": "https://open.spotify.com/album/7jQnXO7Yq5Bts3cFdcygjU"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "RING THE ALARM",
+      "url": "https://open.spotify.com/track/1sDiKEmSWm2qbRTCMZ44kX"
+    },
+    {
+      "album": {
         "name": "MHITR: The Album",
         "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
       },
@@ -34468,7 +34596,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 205714,
       "name": "Signature Sound",
       "url": "https://open.spotify.com/track/2ZCREIE8Ys5MjnGsVq7XdY"
@@ -34868,6 +34996,28 @@
       "duration_ms": 230654,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/4QXYBGEATD3XN91dIS57Rx"
+    },
+    {
+      "album": {
+        "name": "Slipping Away",
+        "url": "https://open.spotify.com/album/7EXVGfPuGsVuqkEjVIdZak"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259459,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/2nbye27S8Nv1JSrmxl1Ycf"
     },
     {
       "album": {
@@ -38524,6 +38674,28 @@
       "duration_ms": 183724,
       "name": "The Pit",
       "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
+    },
+    {
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/0spMZt2mkBN5pTnuYKbQlU"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/1r3sNBYXzEZ6TVzg2RnzXH"
     },
     {
       "album": {
@@ -42734,6 +42906,24 @@
       "duration_ms": 183448,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/38MesQgjREJnWvoRDOXZTV"
+    },
+    {
+      "album": {
+        "name": "Wobble Chef",
+        "url": "https://open.spotify.com/album/6NJX8Ef8nr9dnnNsGjOlUG"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Wobble Chef",
+      "url": "https://open.spotify.com/track/2xrHfbYWP4oFYAdD5J30qh"
     },
     {
       "album": {

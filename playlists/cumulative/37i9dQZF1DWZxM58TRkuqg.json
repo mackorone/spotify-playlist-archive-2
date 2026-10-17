@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Lafa Pratomo, Ari Lesmana, White Chorus",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Judika, Tiroy Sihotang",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -7681,6 +7681,28 @@
     },
     {
       "album": {
+        "name": "Lebih Beruntung Sedikit",
+        "url": "https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241215,
+      "name": "Lebih Beruntung Sedikit",
+      "url": "https://open.spotify.com/track/0NNoaEAeftkCLPMYmpcGsX"
+    },
+    {
+      "album": {
         "name": "Lelah Dilatih Rindu",
         "url": "https://open.spotify.com/album/7of8OfRWJr5IvTkOcZ3v16"
       },
@@ -8530,6 +8552,28 @@
       "duration_ms": 229714,
       "name": "Mau Jadi Apa?",
       "url": "https://open.spotify.com/track/20Vgi9sX3rOnoUFGaPLQXX"
+    },
+    {
+      "album": {
+        "name": "Maukah Kau Menikah Denganku?",
+        "url": "https://open.spotify.com/album/0sTN6uIgTfg5foiUDXAcOJ"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Tiroy Sihotang",
+          "url": "https://open.spotify.com/artist/4j3ddH7rNFJtEGOPu9XCPj"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Maukah Kau Menikah Denganku?",
+      "url": "https://open.spotify.com/track/003fbsliPwJfMgylqwcoyV"
     },
     {
       "album": {
@@ -10334,6 +10378,24 @@
       "duration_ms": 238419,
       "name": "Permainanmu",
       "url": "https://open.spotify.com/track/03YnKTGyxVrcJ0Bj7ut9em"
+    },
+    {
+      "album": {
+        "name": "permata hatiku",
+        "url": "https://open.spotify.com/album/2ycyXk2hubXDQ3bCW5FbmJ"
+      },
+      "artists": [
+        {
+          "name": "Daun Jatuh",
+          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "permata hatiku",
+      "url": "https://open.spotify.com/track/6nvLNYD1IUxv4vJUcIfOJy"
     },
     {
       "album": {
@@ -13676,6 +13738,24 @@
       "duration_ms": 179000,
       "name": "Tak Harus Menunggu Surga",
       "url": "https://open.spotify.com/track/4ZkhMMBsBHA2HtgYWX1L3c"
+    },
+    {
+      "album": {
+        "name": "MARBLES",
+        "url": "https://open.spotify.com/album/4NARgADquipnlhx9XzjsUZ"
+      },
+      "artists": [
+        {
+          "name": "Marbles",
+          "url": "https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Tak Ingin Pulang",
+      "url": "https://open.spotify.com/track/3Qs3UyQWrcMBZusrE5eNZm"
     },
     {
       "album": {

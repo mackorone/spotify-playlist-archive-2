@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Freya Skye
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,232 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,245 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2000 Miles \- Spotify Singles Holiday](https://open.spotify.com/track/1HftwnsmpwF97Q3hnbyYWg) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [2000 Miles \- Spotify Singles Holiday](https://open.spotify.com/album/4dEwGrcucC4SyfXviDQSlf) | 3:28 |
-| 2 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \(Spotify Singles Holiday\)](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
+| 2 | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Merry Christmas Darling \- Spotify Singles Holiday](https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU) | 2:37 |
 | 3 | [Have Yourself a Merry Little Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/6liolbDYbru5D2WdNOWpoQ) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Have Yourself a Merry Little Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/7t09nW9EJhj2oaOH8QbHxV) | 3:15 |
 | 4 | [Here It Is](https://open.spotify.com/track/0cWu20JAhNQuDZfGYHYwRJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Here It Is](https://open.spotify.com/album/5tKN8zmzKcgXop8C8BkwtJ) | 2:49 |
 | 5 | [Beautiful Star of Bethlehem \(feat\. Brandi Carlile and Steve Martin\)](https://open.spotify.com/track/6nQ439xZFwXKl07syymw2k) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Beautiful Star of Bethlehem \(feat\. Brandi Carlile and Steve Martin\)](https://open.spotify.com/album/5uZnaQHTcvXacWK1HSlXsg) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 49 | [Christmas in the City](https://open.spotify.com/track/2VRC4l8jry3XJupFr6bTIc) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Christmas in the City](https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s) | 3:19 |
 | 50 | [Peace, Love, and Cowboys \- Holiday Edition](https://open.spotify.com/track/47uI5J1L1XdUpxW1ljuXH3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Peace, Love, and Cowboys \(Holiday Edition\)](https://open.spotify.com/album/1gpUamRdguofn1d7duASk0) | 3:33 |
 
-Snapshot ID: `AAAAAHUG3fn2tBgHsJMB7r3wMJnyGDew`
+Snapshot ID: `AAAAAKe9ECZzcTOmm2UYfS+DI6zFnO2B`

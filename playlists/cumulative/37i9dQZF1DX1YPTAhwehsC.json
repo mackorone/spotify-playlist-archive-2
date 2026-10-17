@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Mac Miller",
+  "description": "Up and down I-95. Cover: A$AP Rocky",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184383,
       "name": "600 Racks",
       "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 120765,
       "name": "Back Of My Mind (feat. Nino Paid)",
       "url": "https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8"
@@ -6078,7 +6078,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 69053,
       "name": "Bobby Seale Dreams",
       "url": "https://open.spotify.com/track/334tE6hsEfVNj9zzHf3MKK"
@@ -6552,10 +6552,40 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 138194,
       "name": "Bow Bow Bow",
       "url": "https://open.spotify.com/track/7BMDIaCX8e8t8eTkUXB1IM"
+    },
+    {
+      "album": {
+        "name": "#ZEDDY",
+        "url": "https://open.spotify.com/album/45iPFntKinxMxZIJmcsEc0"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "jhonniedamnd",
+          "url": "https://open.spotify.com/artist/7qWZ7Mw71hkXKztqoEy727"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "Kstylis",
+          "url": "https://open.spotify.com/artist/5o2jetVpyIsXvWDT27bN4k"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Bow Bow Bow - Remix",
+      "url": "https://open.spotify.com/track/4wH3zPap3RZxQqljtmSalA"
     },
     {
       "album": {
@@ -6738,7 +6768,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 141609,
       "name": "BRAZILIAN WAX",
       "url": "https://open.spotify.com/track/7cghAzRx9SRUB4z4CqgJDb"
@@ -6800,7 +6830,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 174471,
       "name": "Break It",
       "url": "https://open.spotify.com/track/1AYIJAuUmEbyBfq5UvUQSh"
@@ -8643,6 +8673,24 @@
     },
     {
       "album": {
+        "name": "Chinese Louis Bag",
+        "url": "https://open.spotify.com/album/3dewqctdL4X5Nzjjjj1PvJ"
+      },
+      "artists": [
+        {
+          "name": "Rockout Danny",
+          "url": "https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85161,
+      "name": "Chinese Louis Bag",
+      "url": "https://open.spotify.com/track/4WjtbFClqFV7AqnBlMqKvN"
+    },
+    {
+      "album": {
         "name": "Zombie Love Kensington Paradise",
         "url": "https://open.spotify.com/album/2FqcuBuYAngz86cqeejHGK"
       },
@@ -9372,7 +9420,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 116490,
       "name": "COST.",
       "url": "https://open.spotify.com/track/7z5oucTuXj0wb4Dlfydrc6"
@@ -11370,7 +11418,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198504,
       "name": "Don in my city pt. 2",
       "url": "https://open.spotify.com/track/1YDTJbE653QXU2QNd0HPeS"
@@ -11862,7 +11910,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 164200,
       "name": "Don\u2019t Chart (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
@@ -12260,6 +12308,32 @@
       "duration_ms": 309678,
       "name": "Dr. Britt Baker",
       "url": "https://open.spotify.com/track/08vyopstusuqW5qtK9EVh2"
+    },
+    {
+      "album": {
+        "name": "Drain",
+        "url": "https://open.spotify.com/album/2CuDB6BgaPJpPK9N8O48tR"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        },
+        {
+          "name": "Young KB",
+          "url": "https://open.spotify.com/artist/0lzkgFk4UulIYXwdnhVMTs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125571,
+      "name": "Drain",
+      "url": "https://open.spotify.com/track/6nUJye4ha1BKFIQQLDEIeG"
     },
     {
       "album": {
@@ -14386,7 +14460,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 165333,
       "name": "First Day Out (feat. Annalise Azadian)",
       "url": "https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE"
@@ -15606,7 +15680,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 124238,
       "name": "Fuck Ya Opinion",
       "url": "https://open.spotify.com/track/1Wdx9KCBb8Bdg5hycvIqBC"
@@ -16810,7 +16884,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 216377,
       "name": "Goat Stamp",
       "url": "https://open.spotify.com/track/4H6OFCJ5GHuM3NzuCHjvsc"
@@ -21592,7 +21666,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 107669,
       "name": "Jumpupw!nya",
       "url": "https://open.spotify.com/track/4jDjCiWDvsPhBqy9DlzKgR"
@@ -21954,6 +22028,24 @@
       "duration_ms": 142146,
       "name": "KiCKIN",
       "url": "https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c"
+    },
+    {
+      "album": {
+        "name": "KIDSUPER FREESTYLE.",
+        "url": "https://open.spotify.com/album/5RoZOzq8XkS1yeHKeUYURP"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "KIDSUPER FREESTYLE.",
+      "url": "https://open.spotify.com/track/5yeRIFuQ1d3mzh6TP9O8Z2"
     },
     {
       "album": {
@@ -23193,6 +23285,24 @@
     },
     {
       "album": {
+        "name": "WHACK'S MUSEUM (DELUXE)",
+        "url": "https://open.spotify.com/album/5Ra59w1kmSmZi4PeFC25C3"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162617,
+      "name": "LIAR LIAR",
+      "url": "https://open.spotify.com/track/62Gd441xhMud0v7CtPHsqF"
+    },
+    {
+      "album": {
         "name": "What Happened To Forever?",
         "url": "https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52"
       },
@@ -24210,7 +24320,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 133333,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/34YbeTCBe5iYjW1KJbjmzS"
@@ -33331,6 +33441,24 @@
     },
     {
       "album": {
+        "name": "Regal",
+        "url": "https://open.spotify.com/album/04xUpDPFu3sCeRKF0UIJnl"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110813,
+      "name": "Regal",
+      "url": "https://open.spotify.com/track/5ji2fXHMkJusCrZRobIftq"
+    },
+    {
+      "album": {
         "name": "Regular",
         "url": "https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX"
       },
@@ -36077,6 +36205,32 @@
     },
     {
       "album": {
+        "name": "Shroom Clouds (feat. reggie & Jeremih)",
+        "url": "https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195210,
+      "name": "Shroom Clouds (feat. reggie & Jeremih)",
+      "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
+    },
+    {
+      "album": {
         "name": "Sicc & Tired",
         "url": "https://open.spotify.com/album/7FIJ2AxOrNcVm0PtCrWJSK"
       },
@@ -38580,6 +38734,24 @@
       "duration_ms": 148676,
       "name": "SUVY THEATERS",
       "url": "https://open.spotify.com/track/6FTZImGnoJO5I8eq6XmDOU"
+    },
+    {
+      "album": {
+        "name": "STILL HERE",
+        "url": "https://open.spotify.com/album/1b6GdIjjtG5PhdmodDIUFB"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144641,
+      "name": "SVJ",
+      "url": "https://open.spotify.com/track/6PnSkQLBXXpEf0J5sRt0by"
     },
     {
       "album": {
@@ -42096,7 +42268,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 148440,
       "name": "Ventilator (feat. G Herbo)",
       "url": "https://open.spotify.com/track/1xRpXN0UEFjUj5GTAo9Mj3"
@@ -42250,6 +42422,24 @@
       "duration_ms": 153014,
       "name": "VOGUE",
       "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/59ZXaAu8J2OJ4YbhuuXpuN"
+      },
+      "artists": [
+        {
+          "name": "Kocky Ka",
+          "url": "https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/2bhZ6CkI1hB1KwMifNgaJM"
     },
     {
       "album": {
@@ -42450,6 +42640,28 @@
       "duration_ms": 118775,
       "name": "Walls Closin Inn",
       "url": "https://open.spotify.com/track/73eUpI2ybYFhfAy9zVtsgW"
+    },
+    {
+      "album": {
+        "name": "Wanna Be Free (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5IM3tOYcuK8pEiYpf2JuK7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349936,
+      "name": "Wanna Be Free (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/52blwVMCkXvyyNAEW0JGv9"
     },
     {
       "album": {
@@ -44280,7 +44492,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 122298,
       "name": "WIDE AWAKE",
       "url": "https://open.spotify.com/track/31TmmGdzPeZIjgYMocMwCV"

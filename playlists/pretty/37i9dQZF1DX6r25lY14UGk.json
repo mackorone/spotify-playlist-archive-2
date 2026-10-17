@@ -1,12 +1,12 @@
 {
   "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 103633,
+  "num_followers": 103709,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK9dC4fXYLtztaB8EFJWA+UmONp3",
+  "snapshot_id": "AAAAADD+LmKNckGHSvANaIdK5jWkjzRA",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:48",
@@ -47,6 +47,30 @@
       "duration_ms": 122386,
       "name": "Get Ready to Go (with Dr. Seuss' Cat in the Hat)",
       "url": "https://open.spotify.com/track/0DmZuXjbXpIpLpuvkyq8Y4"
+    },
+    {
+      "added_at": "2026-10-16 04:00:54",
+      "album": {
+        "name": "Freeze Dance",
+        "url": "https://open.spotify.com/album/2vebLHE9xpuT0rwQwvMDOL"
+      },
+      "artists": [
+        {
+          "name": "Ms. Appleberry",
+          "url": "https://open.spotify.com/artist/7gjGsSnJnSzAnh6wxZCqBQ"
+        },
+        {
+          "name": "Aprende Peque",
+          "url": "https://open.spotify.com/artist/4XlzIQZZT9mbPjZtIHGhXG"
+        },
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 99041,
+      "name": "Freeze Dance",
+      "url": "https://open.spotify.com/track/4bCBQYBVx2qsx2lx1jwkDU"
     },
     {
       "added_at": "2026-09-25 04:01:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,213 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,260 likes - 48 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 44 | [Eso Que Anda \- Remasterizado](https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT) | [Juan Formell](https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Maquinaria \(Remasterizado\)](https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R) | 5:13 |
 | 45 | [Nube Pasajera](https://open.spotify.com/track/1vqojH8o4mxfyP2qJF0vyb) | [Michel Maza](https://open.spotify.com/artist/010Zn5OLvL9eKVBBxP4bur) | [Que Hablen, Los Habladores...](https://open.spotify.com/album/68wjw2t8xtDo0ttFCYRHtD) | 6:53 |
 | 46 | [Olvida Que Te Olvide](https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Olvida Que Te Olvide](https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng) | 3:46 |
-| 47 | [Mi Música](https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD) | [Grupo Danson](https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R), [Carlos Liban Pérez Alfonso](https://open.spotify.com/artist/3KtZLqXNVnn3C2JrZRZrQU), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Mia Birch Engsager](https://open.spotify.com/artist/6fAiZkXRxsbL2YFw950dfl), [Ernesto Manuitt Hernandez](https://open.spotify.com/artist/6shQLDgamKRDLKkysy9C5C), [Yasser Pino](https://open.spotify.com/artist/3yjnZbbWh736wux5a6jsH4), [Rune Thorsteinsson](https://open.spotify.com/artist/5xTi9OwHU2G7iNL1860DiS) | [Mi Música](https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs) | 6:08 |
-| 48 | [Chambonea](https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm), [Gilbert Man](https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv) | [Chambonea \(feat\. Gilbert Man\)](https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD) | 3:55 |
+| 47 | [Chambonea](https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm), [Gilbert Man](https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv) | [Chambonea \(feat\. Gilbert Man\)](https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD) | 3:55 |
+| 48 | [Disco Azúcar](https://open.spotify.com/track/7uQOfh1O1a6IA8g4VWFrd8) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Grandes Exitos, Juan Formell Y Los Van Van](https://open.spotify.com/album/4AWlWv6nqxy33XFDBv0aUo) | 5:24 |
 
-Snapshot ID: `AAAAAGIRrwWvs0LQxvWZRYVN5/1jE+pV`
+Snapshot ID: `AAAAABKjT0LHBigjffyyVgeQVxRrWQ7L`

@@ -1,12 +1,12 @@
 {
   "description": "Your new favourite songs! Cover: Tate McRae",
-  "num_followers": 118534,
+  "num_followers": 118633,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACuunTSyifndx/jB7w/Fz9cAOKfg",
+  "snapshot_id": "AAAAAHV1J78FC4uDwX3J/MwHgRW/R+6F",
   "tracks": [
     {
       "added_at": "2026-10-16 00:00:08",
@@ -147,6 +147,26 @@
       "duration_ms": 178822,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "added_at": "2026-10-16 00:00:08",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-16 00:00:08",

@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: haloplus+
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Alba Akvama
 
-355 songs - 20 hr 19 min
+358 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [An Embroidery](https://open.spotify.com/track/7FG7r7bGcTqjapPULaJ2v6) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [World of Work](https://open.spotify.com/album/7r1cQPyAwQfhQIw9H9eGB5) | 4:09 | 2025-03-13 |  |
 | [Another Life](https://open.spotify.com/track/23dlDcfYKSosr7uOqvcizd) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Ninna Lundberg](https://open.spotify.com/artist/6k0RXaRQWP1oiq4pmEFbyR) | [hollis](https://open.spotify.com/album/3vKkVu1TQWct7R5JIjpwzO) | 2:28 | 2026-04-23 |  |
 | [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-19 | 2025-07-19 |
-| [Avril](https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [Put Rings On All My Fingers To Weigh Down My Hands](https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc) | 5:18 | 2026-10-14 |  |
+| [Avril](https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [Put Rings On All My Fingers To Weigh Down My Hands](https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc) | 5:18 | 2026-10-14 | 2026-10-17 |
 | [Aéroport](https://open.spotify.com/track/25cm5QSiCaqKbeP7MODFhv) | [Gintė Preisaitė](https://open.spotify.com/artist/5D33eNZh5iFRm3tIJf3Zit) | [Instruments of Forgetting and the Singing Bone](https://open.spotify.com/album/0oeXO3SDptQL2dYIpSOeB9) | 2:28 | 2026-05-29 |  |
 | [Back of a car](https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Back of a car](https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve) | 2:31 | 2026-04-09 |  |
 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 | 2025-09-26 |  |
@@ -87,6 +87,7 @@
 | [Digital Girl](https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 3:23 | 2025-03-13 | 2026-10-03 |
 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 | 2025-03-13 |  |
 | [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 | 2025-04-24 |  |
+| [Don't Cry For Me Now](https://open.spotify.com/track/3kOXHlqHeuhke4tNk0MhmM) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [We'll Make Our Beds When We Get Home](https://open.spotify.com/album/6uaGeylNaoK6G74Ysng4ho) | 1:36 | 2026-10-16 |  |
 | [Don't Let This Feeling](https://open.spotify.com/track/33040QumosMtuIENd4dG4D) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Don't Let This Feeling](https://open.spotify.com/album/6A60dXBiLWris444qgDKaa) | 2:52 | 2025-03-13 | 2025-09-13 |
 | [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 | 2025-07-25 |  |
 | [Dreamer \- Tony Seltzer Remix](https://open.spotify.com/track/3k9A76umhCCk1HWTnwSL96) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Dreamer \(Tony Seltzer Remix\)](https://open.spotify.com/album/0ygHduIqchsm9KTH2uPFc2) | 2:02 | 2026-09-25 |  |
@@ -238,6 +239,7 @@
 | [Organs](https://open.spotify.com/track/3XrEOFbHz26fgR8UTmPxmP) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:47 | 2025-03-13 |  |
 | [Oscillate](https://open.spotify.com/track/7MvbfqjUGQAjlLRGVxxBFs) | [Niko Demus](https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7), [MFM](https://open.spotify.com/artist/5xvA0mjmeF1CxB12bjWR8l) | [Oscillate](https://open.spotify.com/album/4MBW1DczWB3jKb0pcdUosd) | 4:10 | 2026-02-06 | 2026-10-09 |
 | [Our Relativity](https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Desert Window](https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy) | 5:27 | 2025-09-26 | 2026-05-01 |
+| [Pass Me By](https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Pass Me By](https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7) | 2:12 | 2026-10-16 |  |
 | [Perfectly Blue](https://open.spotify.com/track/2TmoPdRP4g4L6RFMNI7Q1w) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue](https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2) | 3:23 | 2025-03-13 | 2025-05-16 |
 | [Pipe Dream](https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Herzsprung](https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1) | 3:01 | 2026-08-21 |  |
 | [Place Like Home](https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ) | [Alana Markel](https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY) | [I Love You](https://open.spotify.com/album/5iMuYMgn6229IR2g1221Vs) | 2:50 | 2026-04-23 |  |
@@ -326,6 +328,7 @@
 | [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 |  |
 | [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 |  |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 |  |
+| [Trouble](https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf) | [nikocorlin](https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm) | [Trouble](https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3) | 2:22 | 2026-10-16 |  |
 | [TWINK](https://open.spotify.com/track/6TecO454rbbvjs7ntr0S5N) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [TWINK](https://open.spotify.com/album/0tjF35e4vUYR2Af1UULxhB) | 2:42 | 2025-06-26 | 2026-03-07 |
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-08 | 2026-03-07 |
 | [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 | 2026-06-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:692su3wp3EhhRlrpNUB0n1">Envelope</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,175 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,178 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Maggio](https://open.spotify.com/track/6rEB5luZKJ3O7h1ykx1RFU) | [Eleonora Toscani](https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD) | [Maggio](https://open.spotify.com/album/4ZCoLoIyORK6eHv06eJQnS) | 3:48 |
 | 50 | [Amsterdam](https://open.spotify.com/track/63S7LSlwS53jXGHabrRSGE) | [catera](https://open.spotify.com/artist/1HqolIuWDd0nNNXfHQabWm) | [Amsterdam](https://open.spotify.com/album/6ZGbVIMdWHzwRzQxTpyniI) | 4:32 |
 
-Snapshot ID: `AAAAABTS7ld73V6agJLYaXFKhBS9wh6N`
+Snapshot ID: `AAAAALl4EVu3zR7UbBgXZMwe5I7GqLyA`

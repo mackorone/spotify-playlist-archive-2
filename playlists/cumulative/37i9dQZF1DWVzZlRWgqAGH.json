@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Merna and music for your soul.",
+  "description": "Snoh Aalegra and music for your Snoh Aalegra.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -5034,7 +5034,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 211053,
       "name": "Burning Temptation",
       "url": "https://open.spotify.com/track/79E2zH4KV1qyXqsT5xxJcd"
@@ -13036,7 +13036,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183034,
       "name": "God Went Crazy",
       "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
@@ -17701,6 +17701,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
+    },
+    {
+      "album": {
         "name": "Keep Dreamin'",
         "url": "https://open.spotify.com/album/0uFrFhHe7WnuovHywoTuZU"
       },
@@ -19037,6 +19055,24 @@
     },
     {
       "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/4r6YKXlIvj4lwy2g1sdiPy"
+      },
+      "artists": [
+        {
+          "name": "Kreesha Turner",
+          "url": "https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197819,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/3Mhdx60TGNT2I4sH50Ztxc"
+    },
+    {
+      "album": {
         "name": "Lil Mama",
         "url": "https://open.spotify.com/album/44T5XbEQ8mOUcNkWLI9wE0"
       },
@@ -20186,7 +20222,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 207272,
       "name": "Magic",
       "url": "https://open.spotify.com/track/5FsxkWVHDsceloAOtIsbqk"
@@ -22244,7 +22280,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 165599,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
@@ -26038,7 +26074,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 256855,
       "name": "Pressha",
       "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
@@ -29364,7 +29400,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 197475,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/0c3yJh9U1w6tSiel47cEQc"
@@ -34552,7 +34588,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184711,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"

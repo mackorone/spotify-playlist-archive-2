@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
@@ -4348,7 +4348,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204419,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
@@ -20711,6 +20711,24 @@
     },
     {
       "album": {
+        "name": "Lost in the View",
+        "url": "https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254309,
+      "name": "Lost in the View",
+      "url": "https://open.spotify.com/track/3Ni8Ttg0e947jzRD217ZEY"
+    },
+    {
+      "album": {
         "name": "Lost In The Woods",
         "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
       },
@@ -27422,6 +27440,28 @@
       "duration_ms": 266880,
       "name": "Promise Me",
       "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
+    },
+    {
+      "album": {
+        "name": "Everything, Briefly",
+        "url": "https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149050,
+      "name": "Promise You",
+      "url": "https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ"
     },
     {
       "album": {

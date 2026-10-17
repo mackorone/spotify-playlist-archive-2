@@ -4,7 +4,7 @@
 
 > These Games are going to be different\. Noah Kahan's "Draw You Out" is here, the first song from The Hunger Games: Sunrise on the Reaping\. In theaters soon.
 
-65 songs - 3 hr 55 min
+66 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Angel On Fire \- From “The Hunger Games: Catching Fire" Soundtrack](https://open.spotify.com/track/64ZdaXlRO3e94ZbcfKniyc) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:47 | 2023-11-17 |  |
 | [Animal](https://open.spotify.com/track/23whPveVuNT0SAgwg85UI1) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:18 | 2023-11-17 |  |
 | [Atlas \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/5qVV3IVh4Ir5t9SXJHkq1e) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:56 | 2023-11-17 |  |
+| [Black Stars](https://open.spotify.com/track/6wEEMtMPL93ON1XWwMoCTj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L) | 3:26 | 2026-10-16 |  |
 | [Burn Me Once \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:20 | 2023-11-17 |  |
 | [Bury Me Beneath The Willow \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/147jTPnoWjZnbF6r7NFnsI) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:42 | 2023-11-17 |  |
 | [Cabin Song \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/0AHQvy0hsEV1CqK9hzzGiu) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:26 | 2023-11-17 |  |

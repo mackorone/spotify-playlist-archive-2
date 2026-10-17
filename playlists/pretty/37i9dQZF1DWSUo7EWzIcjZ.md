@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,909 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,902 likes - 150 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Maldita Sea](https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK) | 4:14 |
 | 150 | [Todo Aquello Que Escribí](https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:30 |
 
-Snapshot ID: `AAAAAMvgXmXmzAOG5nrVa9afnoTbaVAM`
+Snapshot ID: `AAAAAKg9CDNOMA3+x9tKuJnGB3JRGJSd`

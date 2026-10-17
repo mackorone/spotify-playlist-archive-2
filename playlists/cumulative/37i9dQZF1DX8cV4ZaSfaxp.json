@@ -512,7 +512,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
@@ -3538,6 +3538,24 @@
       "duration_ms": 168817,
       "name": "In the Rain",
       "url": "https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0"
+    },
+    {
+      "album": {
+        "name": "In Yeonhui-dong",
+        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221153,
+      "name": "In Yeonhui-dong",
+      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
     },
     {
       "album": {

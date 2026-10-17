@@ -1,13 +1,33 @@
 {
-  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Diplo",
-  "num_followers": 72933,
+  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Kygo & Ava Max",
+  "num_followers": 72995,
   "original_name": "Country EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYVJGClqX4GNk4q+7NfuOWdNASk",
+  "snapshot_id": "AAAAAODwOZc24dO4c4+93sA5jNWLxYZp",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:25:48",
+      "album": {
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+    },
     {
       "added_at": "2026-10-02 04:02:53",
       "album": {
@@ -315,6 +335,26 @@
       "duration_ms": 114602,
       "name": "HONKY TONK BADONKADONK",
       "url": "https://open.spotify.com/track/5uHA52m0cZ2l8JeUwVx8wI"
+    },
+    {
+      "added_at": "2026-10-16 04:25:48",
+      "album": {
+        "name": "Spirits (MC4D Version)",
+        "url": "https://open.spotify.com/album/6CU1SYn96Z69SKAyDkygKa"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 239142,
+      "name": "Spirits (MC4D Version)",
+      "url": "https://open.spotify.com/track/3ezlSJ1x6REwzPP3Gf2UxX"
     },
     {
       "added_at": "2026-10-02 04:02:53",
@@ -787,26 +827,6 @@
     {
       "added_at": "2026-10-02 04:02:53",
       "album": {
-        "name": "Wagon Wheel (Club Version)",
-        "url": "https://open.spotify.com/album/0vRbgbS08Anxcnulv7vtpG"
-      },
-      "artists": [
-        {
-          "name": "Y.O.G.A.",
-          "url": "https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y"
-        },
-        {
-          "name": "Andy Golledge",
-          "url": "https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh"
-        }
-      ],
-      "duration_ms": 150337,
-      "name": "Wagon Wheel - Club Version",
-      "url": "https://open.spotify.com/track/2JwzWdbX2WmUDWW1brxm06"
-    },
-    {
-      "added_at": "2026-10-02 04:02:53",
-      "album": {
         "name": "Happy Hour",
         "url": "https://open.spotify.com/album/4WcdlEZRqVfccTdrDklll8"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 207316,
       "name": "Comeback Kid",
       "url": "https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7"
-    },
-    {
-      "added_at": "2026-10-02 04:02:53",
-      "album": {
-        "name": "Amarillo By Morning (Club Version)",
-        "url": "https://open.spotify.com/album/39bJYv16K7Vh9FI3kODOWO"
-      },
-      "artists": [
-        {
-          "name": "Y.O.G.A.",
-          "url": "https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y"
-        },
-        {
-          "name": "Middy Nelson",
-          "url": "https://open.spotify.com/artist/793IliVD7ABdrTpVQ1IrVc"
-        }
-      ],
-      "duration_ms": 123221,
-      "name": "Amarillo By Morning - Club Version",
-      "url": "https://open.spotify.com/track/6FFo67DrQZyzoBtybGcbUL"
     },
     {
       "added_at": "2026-10-02 04:02:53",
@@ -1347,26 +1347,6 @@
       "duration_ms": 200306,
       "name": "Lose You Tonight",
       "url": "https://open.spotify.com/track/0OUREF7q7wQjbUHZYWHl28"
-    },
-    {
-      "added_at": "2026-10-02 04:02:53",
-      "album": {
-        "name": "Jolene (Destructo Remix)",
-        "url": "https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Destructo",
-          "url": "https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab"
-        }
-      ],
-      "duration_ms": 308876,
-      "name": "Jolene - Destructo Remix",
-      "url": "https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE"
     },
     {
       "added_at": "2026-10-02 04:02:53",

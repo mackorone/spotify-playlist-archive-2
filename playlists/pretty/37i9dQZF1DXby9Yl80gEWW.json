@@ -1,12 +1,12 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 64076,
+  "num_followers": 64086,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGne9Us4IeyPMQfIqpmRo556aUJ/",
+  "snapshot_id": "AAAAAFuTKZCXdPSYSJOW4V3N6JN5idFb",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:30",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 111480,
-      "name": "Dig Deep and Win Wisely",
-      "url": "https://open.spotify.com/track/3DIPr309ffe1l4WDa9C6JW"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Woven",
         "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 111480,
+      "name": "Dig Deep and Win Wisely",
+      "url": "https://open.spotify.com/track/3DIPr309ffe1l4WDa9C6JW"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 127609,
-      "name": "The Forsaken Lover",
-      "url": "https://open.spotify.com/track/0FD2d8ycVoGvNQri81Uw0A"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -747,6 +747,38 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 127609,
+      "name": "The Forsaken Lover",
+      "url": "https://open.spotify.com/track/0FD2d8ycVoGvNQri81Uw0A"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Fifty Years of Clown School",
+        "url": "https://open.spotify.com/album/7JogtGNYfSJOJtuJmOpfk5"
+      },
+      "artists": [
+        {
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        }
+      ],
+      "duration_ms": 180084,
+      "name": "Fifty Years of Clown School",
+      "url": "https://open.spotify.com/track/4aukzvlumumfmV8EX1sKus"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -783,22 +815,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 392200,
       "name": "We Hide And Seek",
       "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Fifty Years of Clown School",
-        "url": "https://open.spotify.com/album/7JogtGNYfSJOJtuJmOpfk5"
-      },
-      "artists": [
-        {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
-        }
-      ],
-      "duration_ms": 180084,
-      "name": "Fifty Years of Clown School",
-      "url": "https://open.spotify.com/track/4aukzvlumumfmV8EX1sKus"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Muscle Car",
+        "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 328560,
+      "name": "Muscle Car",
+      "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Susto Stringband (Volume 2)",
         "url": "https://open.spotify.com/album/3ydetPC1SpvworJqDuChU5"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 142106,
       "name": "Work Away",
       "url": "https://open.spotify.com/track/0fpkjy1PZR1WIsICZHLJ9j"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Muscle Car",
-        "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 328560,
-      "name": "Muscle Car",
-      "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The Seven",
-        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
-      },
-      "artists": [
-        {
-          "name": "Fireside Collective",
-          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
-        }
-      ],
-      "duration_ms": 327586,
-      "name": "The Seven",
-      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "A Reef Where Two Seas Met",
         "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 139000,
       "name": "A Reef Where Two Seas Met",
       "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The Seven",
+        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
+      },
+      "artists": [
+        {
+          "name": "Fireside Collective",
+          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+        }
+      ],
+      "duration_ms": 327586,
+      "name": "The Seven",
+      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 254906,
       "name": "Bozeman",
       "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Bozeman (Clawhammer Version)",
         "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 256293,
       "name": "Bozeman - Clawhammer Version",
       "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

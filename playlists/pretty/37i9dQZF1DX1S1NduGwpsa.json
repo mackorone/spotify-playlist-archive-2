@@ -1,15 +1,15 @@
 {
   "description": "The best jazz new releases. Cover: Ferdi",
-  "num_followers": 169127,
+  "num_followers": 169168,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2CHpMGxFM7mj6jA/rd49/7EEXp",
+  "snapshot_id": "AAAAAHcJmsP5+q4RyFau61LgemJgHtk5",
   "tracks": [
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "the Sound of Art",
         "url": "https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/1IDdRfd99shwFnJzGJdvYm"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
         "url": "https://open.spotify.com/album/0DYW8xek5shDjDAla1Hv7i"
@@ -85,31 +85,7 @@
       "url": "https://open.spotify.com/track/0dWT5IDit0SKvC50eKNn1w"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Synonym",
-        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 278959,
-      "name": "Don\u2019t Stop The Music (with Nick Hakim, Robert Glasper)",
-      "url": "https://open.spotify.com/track/582a1u4ziN01BgLtXDacQb"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Frozen Flashes",
         "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
@@ -125,7 +101,43 @@
       "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Sax Track",
+        "url": "https://open.spotify.com/album/05OI5HSR5RtKe4N0s1vDXE"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "Cyan Lu",
+          "url": "https://open.spotify.com/artist/7iEZxg7glVG3AzqMIkpEYg"
+        }
+      ],
+      "duration_ms": 314892,
+      "name": "Sax Track",
+      "url": "https://open.spotify.com/track/7qhVqs4kdA7CBHiurhd6Mk"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Canton Strut",
+        "url": "https://open.spotify.com/album/2JzTFDrTAZpkkndLO5RSNc"
+      },
+      "artists": [
+        {
+          "name": "Don Glori",
+          "url": "https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "Canton Strut",
+      "url": "https://open.spotify.com/track/1NNN1R9ONTvkCCWtoTDT4d"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Bodies & Ideas",
         "url": "https://open.spotify.com/album/0VTpBRBEUqEuThv2zKxIt5"
@@ -141,7 +153,39 @@
       "url": "https://open.spotify.com/track/6K2gm86gUFVSNFe2Fnvdvs"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 192449,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "JAZZED",
+        "url": "https://open.spotify.com/album/5PRUWAFoMJiqQDcwlgG8Kr"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/2mc9swZTGYpPg1eJtKB5Zp"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "God Bless The Child",
         "url": "https://open.spotify.com/album/5ifM5FKsR0JE9HdUUiTOnT"
@@ -173,23 +217,7 @@
       "url": "https://open.spotify.com/track/2f8tsXV3RfgXCkNLWdzmVV"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "La Sentencia - Duo",
         "url": "https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36"
@@ -209,7 +237,7 @@
       "url": "https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Aberdeen",
         "url": "https://open.spotify.com/album/6Djhn6LSBunJkJUZi0el1f"
@@ -237,7 +265,7 @@
       "url": "https://open.spotify.com/track/3iVoB8pt8vazxR7NwvvUCL"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Comme un \u00e9cho lointain",
         "url": "https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby"
@@ -265,7 +293,7 @@
       "url": "https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Abathathu",
         "url": "https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf"
@@ -281,7 +309,7 @@
       "url": "https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
@@ -309,43 +337,7 @@
       "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "eniola",
-          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
-        }
-      ],
-      "duration_ms": 247567,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/1ZJX3MkgGkFZmutJAHZS3Y"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 165876,
-      "name": "The Best Things Happen While You're Dancing",
-      "url": "https://open.spotify.com/track/4m0TCAd9hKenEoyTu6D24l"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "the Sound of Art",
         "url": "https://open.spotify.com/album/6BeRemsQEyEWP4JDcqtkVo"
@@ -365,7 +357,7 @@
       "url": "https://open.spotify.com/track/05PmmkOhawXJ1MIbICQP5J"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Inner Oath",
         "url": "https://open.spotify.com/album/6e0LyDJECdhqYfaonGaW1D"
@@ -385,7 +377,7 @@
       "url": "https://open.spotify.com/track/0Jy6LP7SfrzTfGeEQh3vcF"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Happy Hour",
         "url": "https://open.spotify.com/album/6EdX0JXcU5p1MfCAKN7CUM"
@@ -409,7 +401,7 @@
       "url": "https://open.spotify.com/track/6Rsb2OPZxxFPNG5u5kptMM"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "And so it goes...",
         "url": "https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5"
@@ -425,7 +417,7 @@
       "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Polka Dots And Moonbeams",
         "url": "https://open.spotify.com/album/77mtyJRLgYiXX3cGmhIn9B"
@@ -441,7 +433,7 @@
       "url": "https://open.spotify.com/track/0P8pe1BrOKDP554NpDfkFy"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Memory Bomb",
         "url": "https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB"
@@ -465,7 +457,7 @@
       "url": "https://open.spotify.com/track/2NvLivoGmNiAxKdI6ylzPk"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Almost There",
         "url": "https://open.spotify.com/album/4Ws8vdg8G0nSHdC7rdNwEN"
@@ -481,7 +473,7 @@
       "url": "https://open.spotify.com/track/5OBqVGcDzgjECmmSGBUwGT"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Grand Street",
         "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
@@ -509,7 +501,43 @@
       "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "duration_ms": 247567,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Sweetest Season",
         "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
@@ -525,7 +553,7 @@
       "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "I Guess That\u2019s What Love Can Do",
         "url": "https://open.spotify.com/album/5u4hdsG3MgD11Qw4XXVlfY"
@@ -545,7 +573,7 @@
       "url": "https://open.spotify.com/track/2heRwECCxRuS7d01zhpfxO"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/0hezZylj1jkluVNBAztyKX"
@@ -569,7 +597,7 @@
       "url": "https://open.spotify.com/track/7amc8eHkaiFOl7uxBtVkIJ"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Sextan Bucket",
         "url": "https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8"
@@ -597,23 +625,7 @@
       "url": "https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Art Is Simple",
-        "url": "https://open.spotify.com/album/38WvHt6oMBvFBAJrD4PhB3"
-      },
-      "artists": [
-        {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Une ligne",
-      "url": "https://open.spotify.com/track/4ltGjmraUL5LVtG17mvtvg"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/4JmunSVZjllauUkJO9abyi"
@@ -629,7 +641,7 @@
       "url": "https://open.spotify.com/track/5pc0LjdOAAFvUEwcNhlBoh"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Love Beats Hate",
         "url": "https://open.spotify.com/album/4fp5FIZI0pbwTvxFEanVYg"
@@ -645,7 +657,7 @@
       "url": "https://open.spotify.com/track/7Favb8g2OPJq3U3LtCehLG"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Just a Little Lovin'",
         "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
@@ -661,23 +673,7 @@
       "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Ndiaga Niaw",
-        "url": "https://open.spotify.com/album/3MEjKv5qCCFxmJZ7ZlGZJm"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Baobab",
-          "url": "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
-        }
-      ],
-      "duration_ms": 407546,
-      "name": "Ndiaga Niaw",
-      "url": "https://open.spotify.com/track/4VHbG3PPxLKbuGBm9kW4I8"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Dedicated To You",
         "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
@@ -697,7 +693,7 @@
       "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Days Begin To Sing",
         "url": "https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH"
@@ -717,7 +713,7 @@
       "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Don\u2019t Look Any Further",
         "url": "https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/0AjcjeMsxzUWPh0dQcYMyW"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "low tide",
         "url": "https://open.spotify.com/album/2b0h55zXL8PLxIOUyclFME"
@@ -757,7 +753,7 @@
       "url": "https://open.spotify.com/track/6OmMKDDtWtRQDqt6ZdjHZB"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Lawns",
         "url": "https://open.spotify.com/album/2m4grKXk7ezZMAPnFRtceJ"
@@ -781,7 +777,7 @@
       "url": "https://open.spotify.com/track/5pbhLARny6tF7BEg7Nb4Gf"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Jubilee Feeling",
         "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Lawns",
         "url": "https://open.spotify.com/album/7meblDWRnHycYkKYEWtbZe"
@@ -813,23 +809,7 @@
       "url": "https://open.spotify.com/track/73oEK8YsyuFMtfeAjJmWrA"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Miles '56 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 274303,
-      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
-      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Marcie",
         "url": "https://open.spotify.com/album/387wirkIjhBXft3BMLq3u8"
@@ -857,7 +837,7 @@
       "url": "https://open.spotify.com/track/51GJ93JbGXWRWJeKXeoIcZ"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Make it happen.",
         "url": "https://open.spotify.com/album/36ECaKImuhB7t2nUbjjyDj"
@@ -873,7 +853,7 @@
       "url": "https://open.spotify.com/track/3hJPYF19ISp9ct7I2fiU5j"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Where moments wait",
         "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
@@ -889,7 +869,7 @@
       "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Silvershoes",
         "url": "https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx"
@@ -905,27 +885,7 @@
       "url": "https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
-      "album": {
-        "name": "Only When I Lose Myself",
-        "url": "https://open.spotify.com/album/6tSpci4GvxsbQ0rAz8mWp4"
-      },
-      "artists": [
-        {
-          "name": "Nouvelle Vague",
-          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
-        },
-        {
-          "name": "M\u00e9lanie Pain",
-          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Only When I Lose Myself",
-      "url": "https://open.spotify.com/track/0qLNTKzDvt2s2srGjZBM7y"
-    },
-    {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/1nYIPgv2msxabdgHygNxSk"
@@ -941,7 +901,7 @@
       "url": "https://open.spotify.com/track/5ZTNlVn4KXDdO9PPgYDvqL"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Memory Bomb",
         "url": "https://open.spotify.com/album/617gOMW4LhxYZi5BE6s4B1"
@@ -969,7 +929,7 @@
       "url": "https://open.spotify.com/track/3d9j2wiKls3PpfRlFCQliw"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "The Wise Ones",
         "url": "https://open.spotify.com/album/3udwsH8ccObgP7T3K5l0fg"
@@ -989,7 +949,7 @@
       "url": "https://open.spotify.com/track/20CpGtjnNhin6QYpJ4ry03"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/3qQ3aaXoYtgZhlAUdds7Ce"
@@ -1005,7 +965,7 @@
       "url": "https://open.spotify.com/track/0Q3OH3cBM3pZLU8vaPtsL6"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "They Say It\u2019s Wonderful",
         "url": "https://open.spotify.com/album/2iBKWX5liHaLZg39QeARBW"
@@ -1025,7 +985,23 @@
       "url": "https://open.spotify.com/track/5u87O1gmKcbUUrbskpaC5K"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Art Is Simple",
+        "url": "https://open.spotify.com/album/38WvHt6oMBvFBAJrD4PhB3"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Une ligne",
+      "url": "https://open.spotify.com/track/4ltGjmraUL5LVtG17mvtvg"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Singin' In The Rain",
         "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
@@ -1041,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Simplifier",
         "url": "https://open.spotify.com/album/3cAJ1xUKVl88xCCHpsQwqt"
@@ -1057,7 +1033,7 @@
       "url": "https://open.spotify.com/track/08VHbH4A2hBnSDKiLW2UFW"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Lab Rats",
         "url": "https://open.spotify.com/album/00VCTHhxGhARgKCNhVMJf8"
@@ -1073,23 +1049,23 @@
       "url": "https://open.spotify.com/track/08toLeqUTQsJAB2SFL6m43"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "Not For A Lack Of Trying",
-        "url": "https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3"
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
       },
       "artists": [
         {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 154813,
-      "name": "Not For A Lack Of Trying",
-      "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
+      "duration_ms": 274303,
+      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
+      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Roll By (feat. Melissa Mary Ahern)",
         "url": "https://open.spotify.com/album/1QffiYJtHnGwae8VmfDz0r"
@@ -1109,7 +1085,7 @@
       "url": "https://open.spotify.com/track/0GUQivk5lu2bTpZz1zF9Is"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Eco do Futuro",
         "url": "https://open.spotify.com/album/1lPwis4eP2olWfAPzZobEU"
@@ -1129,7 +1105,7 @@
       "url": "https://open.spotify.com/track/08NXZbmhDroOdEDOdvud7K"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Vi M\u00f6ts I Parken",
         "url": "https://open.spotify.com/album/2GqKtUJxgtMUw5LfkGfpKG"
@@ -1145,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2llCvtc96wyOPz5n40LPp9"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "azur",
         "url": "https://open.spotify.com/album/4tTpPeS7Iw6mWbDd6FNF2r"
@@ -1165,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2px8SIGbY3eYlOY08DKVtz"
     },
     {
-      "added_at": "2026-10-09 04:01:12",
+      "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "Smog Reworks",
         "url": "https://open.spotify.com/album/0CzM7EAs9ni2qzq3ewkiC4"

@@ -4,7 +4,7 @@
 
 > Photo : Gambi
 
-656 songs - 1 day 6 hr 0 min
+656 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,7 +605,6 @@
 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 | 2025-10-09 | 2026-03-27 |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 | 2026-01-30 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
-| [Track 13](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 0:00 | 2026-10-15 |  |
 | [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 | 2026-06-04 |  |
 | [Trivago](https://open.spotify.com/track/54xaeZD9ya5jd1YJ0LiYew) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Casus Belli](https://open.spotify.com/album/2GlRfEUPzFoYTxGcREodSB) | 2:24 | 2026-10-08 |  |
@@ -647,6 +646,7 @@
 | [YAKUZA](https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [YAKUZA](https://open.spotify.com/album/6siFETHEE13cuuyRJo85TA) | 2:41 | 2026-05-28 | 2026-10-09 |
 | [Yellow](https://open.spotify.com/track/5qbP24GpHFlqe4U0jTCde0) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Yellow](https://open.spotify.com/album/0HKIayo9MXwrMS0RfqnCar) | 2:48 | 2025-07-10 | 2025-08-09 |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-14 | 2024-06-21 |
+| [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 | 2026-10-15 |  |
 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-11-23 | 2024-01-12 |
 | [Zendaya](https://open.spotify.com/track/5GoYPbTlQbdXPoUWTsrLoK) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [Zendaya / Ligne 9](https://open.spotify.com/album/7lYkPiBwYXF8xRdSVWNhPl) | 2:30 | 2024-12-19 | 2025-02-21 |
 | [ZERO \(feat\. Franglish\)](https://open.spotify.com/track/4oTH36emmtCcKKYb3fvXcg) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZERO \(feat\. Franglish\)](https://open.spotify.com/album/4dKrqWQtM3Xap6OMIQOVs5) | 2:38 | 2023-12-21 | 2024-04-19 |

@@ -6,13 +6,29 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AACE5230pw4gxVa7nLbvDSSXX7JROQrE",
+  "snapshot_id": "AACFNv0vCbLd3mD5SsFSgcX0UJC9k/Yo",
   "tracks": [
     {
-      "added_at": "2026-09-15 00:53:13",
+      "added_at": "2026-10-16 07:25:35",
       "album": {
-        "name": "A Reckless Expenditure",
-        "url": "https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
+      "added_at": "2026-10-16 07:26:00",
+      "album": {
+        "name": "The Smoker",
+        "url": "https://open.spotify.com/album/16uUDuoMBy8Qmjc0kO5zfH"
       },
       "artists": [
         {
@@ -20,9 +36,89 @@
           "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
         }
       ],
-      "duration_ms": 109433,
-      "name": "A Reckless Expenditure",
-      "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
+      "duration_ms": 176997,
+      "name": "The Smoker",
+      "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
+    },
+    {
+      "added_at": "2026-09-27 15:06:09",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4IQXEhLJRua6IXZ5z77sQ7"
+      },
+      "artists": [
+        {
+          "name": "The Falls Band",
+          "url": "https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu"
+        }
+      ],
+      "duration_ms": 150624,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/7zMtCcnTZgdoDmWP8ilxzR"
+    },
+    {
+      "added_at": "2026-09-27 15:05:03",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/54FrVuIxgN0tATjPAw51WX"
+      },
+      "artists": [
+        {
+          "name": "Tom Collins",
+          "url": "https://open.spotify.com/artist/1xNta7Lpbfs5kxVyCpMvgl"
+        }
+      ],
+      "duration_ms": 157259,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4"
+    },
+    {
+      "added_at": "2026-10-16 07:31:23",
+      "album": {
+        "name": "Beginnings and Endings",
+        "url": "https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci"
+      },
+      "artists": [
+        {
+          "name": "Foreign Mornings",
+          "url": "https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/2ERtVyfIhVWUlHxiddsc2K"
+    },
+    {
+      "added_at": "2026-10-16 07:29:30",
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/2Vzt3e0Zn0qrxRgsEWVWTJ"
+      },
+      "artists": [
+        {
+          "name": "Girl Upstairs",
+          "url": "https://open.spotify.com/artist/0jwyuZYb72vsnCpWw8xuT9"
+        }
+      ],
+      "duration_ms": 200744,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/67A5a3C1BneAZRgsgenS8T"
+    },
+    {
+      "added_at": "2026-10-16 07:30:02",
+      "album": {
+        "name": "She's Like Sunshine",
+        "url": "https://open.spotify.com/album/6BUJbGufaZdzgfFyT4wuPK"
+      },
+      "artists": [
+        {
+          "name": "Megan Black",
+          "url": "https://open.spotify.com/artist/3MqAu6C6vzxvdO1ezB1R46"
+        }
+      ],
+      "duration_ms": 246809,
+      "name": "She's Like Sunshine",
+      "url": "https://open.spotify.com/track/00mbCoDoqDEyl3pCw9gv6h"
     },
     {
       "added_at": "2026-09-27 15:01:42",
@@ -57,6 +153,38 @@
       "url": "https://open.spotify.com/track/5OlsntEhACFHZpB2CoAFxq"
     },
     {
+      "added_at": "2026-10-16 07:27:13",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
+      "added_at": "2026-10-16 07:25:56",
+      "album": {
+        "name": "The Smoker",
+        "url": "https://open.spotify.com/album/16uUDuoMBy8Qmjc0kO5zfH"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "The Smoker",
+      "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
+    },
+    {
       "added_at": "2026-09-27 15:01:54",
       "album": {
         "name": "Skinny Boyfriend",
@@ -89,22 +217,6 @@
       "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
     },
     {
-      "added_at": "2026-09-27 15:02:10",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
-      },
-      "artists": [
-        {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
-        }
-      ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
-    },
-    {
       "added_at": "2026-09-27 15:02:13",
       "album": {
         "name": "My Star (Deluxe)",
@@ -119,6 +231,22 @@
       "duration_ms": 163264,
       "name": "New York",
       "url": "https://open.spotify.com/track/2LzaKlxBBmUVlkAuQKKhRI"
+    },
+    {
+      "added_at": "2026-10-16 07:26:57",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:02:17",
@@ -185,22 +313,6 @@
       "url": "https://open.spotify.com/track/0N0SGNnWcRd0Ri6C6bsezZ"
     },
     {
-      "added_at": "2026-09-27 15:02:32",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
-      },
-      "artists": [
-        {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
-        }
-      ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
-    },
-    {
       "added_at": "2026-09-27 15:02:35",
       "album": {
         "name": "My Star (Deluxe)",
@@ -215,6 +327,22 @@
       "duration_ms": 145263,
       "name": "Little Luck",
       "url": "https://open.spotify.com/track/48Fkgrv3JBO8Q68ypMxKp6"
+    },
+    {
+      "added_at": "2026-10-16 07:27:18",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:02:38",
@@ -265,20 +393,20 @@
       "url": "https://open.spotify.com/track/1gh2SMrXDXLnW9JmcNN1o4"
     },
     {
-      "added_at": "2026-09-27 15:02:48",
+      "added_at": "2026-10-16 07:27:05",
       "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
       },
       "artists": [
         {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
         }
       ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:02:52",
@@ -329,6 +457,22 @@
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
+      "added_at": "2026-10-16 07:26:08",
+      "album": {
+        "name": "The Smoker",
+        "url": "https://open.spotify.com/album/16uUDuoMBy8Qmjc0kO5zfH"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "The Smoker",
+      "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
+    },
+    {
       "added_at": "2026-09-27 15:03:05",
       "album": {
         "name": "TIMEBOMB",
@@ -349,6 +493,22 @@
       "url": "https://open.spotify.com/track/36nJgTDveCp0YAbQs5BFNx"
     },
     {
+      "added_at": "2026-10-16 07:26:46",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
       "added_at": "2026-09-27 15:03:37",
       "album": {
         "name": "Wolfgang Amadeus Phoenix",
@@ -363,22 +523,6 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7"
-    },
-    {
-      "added_at": "2026-09-27 15:03:41",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
-      },
-      "artists": [
-        {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
-        }
-      ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
     },
     {
       "added_at": "2026-09-27 15:03:45",
@@ -429,6 +573,22 @@
       "url": "https://open.spotify.com/track/2aObwORQNwinUbz5oRPR6J"
     },
     {
+      "added_at": "2026-10-16 07:27:08",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
       "added_at": "2026-09-27 15:03:54",
       "album": {
         "name": "A Field Of Manmade Fires",
@@ -477,22 +637,6 @@
       "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
     },
     {
-      "added_at": "2026-09-27 15:04:05",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
-      },
-      "artists": [
-        {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
-        }
-      ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
-    },
-    {
       "added_at": "2026-09-27 15:04:08",
       "album": {
         "name": "intentions",
@@ -507,6 +651,22 @@
       "duration_ms": 145071,
       "name": "intentions",
       "url": "https://open.spotify.com/track/23oPwqXySQ6GXTbTgRuVJw"
+    },
+    {
+      "added_at": "2026-10-16 07:26:50",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:04:12",
@@ -525,6 +685,22 @@
       "url": "https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58"
     },
     {
+      "added_at": "2026-09-27 15:04:20",
+      "album": {
+        "name": "A Reckless Expenditure",
+        "url": "https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "duration_ms": 109433,
+      "name": "A Reckless Expenditure",
+      "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
+    },
+    {
       "added_at": "2026-09-27 15:04:14",
       "album": {
         "name": "Every Open Eye",
@@ -541,10 +717,10 @@
       "url": "https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE"
     },
     {
-      "added_at": "2026-09-27 15:04:20",
+      "added_at": "2026-10-16 07:26:04",
       "album": {
-        "name": "A Reckless Expenditure",
-        "url": "https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX"
+        "name": "The Smoker",
+        "url": "https://open.spotify.com/album/16uUDuoMBy8Qmjc0kO5zfH"
       },
       "artists": [
         {
@@ -552,9 +728,9 @@
           "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
         }
       ],
-      "duration_ms": 109433,
-      "name": "A Reckless Expenditure",
-      "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
+      "duration_ms": 176997,
+      "name": "The Smoker",
+      "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
     },
     {
       "added_at": "2026-09-27 15:04:23",
@@ -577,20 +753,20 @@
       "url": "https://open.spotify.com/track/4Xh77EqCwT0j347t5zFde9"
     },
     {
-      "added_at": "2026-09-27 15:04:31",
+      "added_at": "2026-10-16 07:26:42",
       "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
       },
       "artists": [
         {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
         }
       ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:04:34",
@@ -641,22 +817,6 @@
       "url": "https://open.spotify.com/track/3OMzbEL2reb29H8EtB4oeI"
     },
     {
-      "added_at": "2026-09-27 15:04:46",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
-      },
-      "artists": [
-        {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
-        }
-      ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
-    },
-    {
       "added_at": "2026-09-27 15:04:49",
       "album": {
         "name": "My Love Is Cool",
@@ -671,6 +831,22 @@
       "duration_ms": 224720,
       "name": "Bros",
       "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
+    },
+    {
+      "added_at": "2026-10-16 07:27:01",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:04:53",
@@ -733,22 +909,6 @@
       "url": "https://open.spotify.com/track/1pdyN9pD655zZENyXj8uVF"
     },
     {
-      "added_at": "2026-09-27 15:05:03",
-      "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/54FrVuIxgN0tATjPAw51WX"
-      },
-      "artists": [
-        {
-          "name": "Tom Collins",
-          "url": "https://open.spotify.com/artist/1xNta7Lpbfs5kxVyCpMvgl"
-        }
-      ],
-      "duration_ms": 157259,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4"
-    },
-    {
       "added_at": "2026-09-27 15:05:06",
       "album": {
         "name": "Princess on the Run",
@@ -763,6 +923,22 @@
       "duration_ms": 140413,
       "name": "Princess on the Run",
       "url": "https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC"
+    },
+    {
+      "added_at": "2026-10-16 07:26:54",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:05:09",
@@ -813,22 +989,6 @@
       "url": "https://open.spotify.com/track/14Wd8OBk2EJLfHVwBigaCX"
     },
     {
-      "added_at": "2026-09-27 15:05:22",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/1aarVz8JZNypSNHlLRJU6Y"
-      },
-      "artists": [
-        {
-          "name": "Insider Trading",
-          "url": "https://open.spotify.com/artist/1JHKepRiJ6ho8THY8R3UfB"
-        }
-      ],
-      "duration_ms": 388384,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
-    },
-    {
       "added_at": "2026-09-27 15:05:25",
       "album": {
         "name": "Staying Awake",
@@ -843,6 +1003,22 @@
       "duration_ms": 212833,
       "name": "Staying Awake",
       "url": "https://open.spotify.com/track/1gh2SMrXDXLnW9JmcNN1o4"
+    },
+    {
+      "added_at": "2026-10-16 07:26:34",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:05:29",
@@ -893,22 +1069,6 @@
       "url": "https://open.spotify.com/track/14Wd8OBk2EJLfHVwBigaCX"
     },
     {
-      "added_at": "2026-09-27 15:06:09",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/4IQXEhLJRua6IXZ5z77sQ7"
-      },
-      "artists": [
-        {
-          "name": "The Falls Band",
-          "url": "https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu"
-        }
-      ],
-      "duration_ms": 150624,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/7zMtCcnTZgdoDmWP8ilxzR"
-    },
-    {
       "added_at": "2026-09-27 15:06:12",
       "album": {
         "name": "My Star (Deluxe)",
@@ -923,6 +1083,38 @@
       "duration_ms": 167227,
       "name": "Cross The Street",
       "url": "https://open.spotify.com/track/2jsqoaZJqHF1t25vVuONHn"
+    },
+    {
+      "added_at": "2026-10-16 07:26:38",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
+      "added_at": "2026-10-16 07:25:52",
+      "album": {
+        "name": "The Smoker",
+        "url": "https://open.spotify.com/album/16uUDuoMBy8Qmjc0kO5zfH"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "The Smoker",
+      "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
     },
     {
       "added_at": "2026-09-27 15:06:16",
@@ -981,6 +1173,38 @@
       "url": "https://open.spotify.com/track/0CCIP3bJQqXOCNv18Tmd1h"
     },
     {
+      "added_at": "2026-10-16 07:26:18",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
+      "added_at": "2026-10-16 07:22:35",
+      "album": {
+        "name": "The Smoker",
+        "url": "https://open.spotify.com/album/16uUDuoMBy8Qmjc0kO5zfH"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "The Smoker",
+      "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
+    },
+    {
       "added_at": "2026-09-27 15:06:34",
       "album": {
         "name": "4 AM",
@@ -1027,6 +1251,22 @@
       "duration_ms": 109433,
       "name": "A Reckless Expenditure",
       "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
+    },
+    {
+      "added_at": "2026-10-16 07:26:25",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:06:45",
@@ -1081,22 +1321,6 @@
       "url": "https://open.spotify.com/track/29XCsynjV5tSzBtsVg871Y"
     },
     {
-      "added_at": "2026-09-27 15:06:54",
-      "album": {
-        "name": "Oysters In My Pocket",
-        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Oysters In My Pocket",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
-    },
-    {
       "added_at": "2026-09-27 15:06:59",
       "album": {
         "name": "South Paw",
@@ -1111,6 +1335,22 @@
       "duration_ms": 199477,
       "name": "South Paw",
       "url": "https://open.spotify.com/track/6BpToRuux0FVQKcjJS6do7"
+    },
+    {
+      "added_at": "2026-10-16 07:25:40",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:07:02",
@@ -1177,6 +1417,22 @@
       "url": "https://open.spotify.com/track/4SRBf3sLhp0vmiuN4AQSZy"
     },
     {
+      "added_at": "2026-10-16 07:26:29",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
       "added_at": "2026-09-27 15:07:16",
       "album": {
         "name": "Fake News",
@@ -1241,6 +1497,22 @@
       "url": "https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC"
     },
     {
+      "added_at": "2026-10-16 07:25:47",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
       "added_at": "2026-09-27 15:07:34",
       "album": {
         "name": "Alpha Zulu",
@@ -1255,22 +1527,6 @@
       "duration_ms": 302026,
       "name": "Identical",
       "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
-    },
-    {
-      "added_at": "2026-09-27 15:07:38",
-      "album": {
-        "name": "PLAIN WHITE TEE",
-        "url": "https://open.spotify.com/album/24IxyKO08iLsdURl8RUXdU"
-      },
-      "artists": [
-        {
-          "name": "Kai Maddox",
-          "url": "https://open.spotify.com/artist/5oXSm5HhU7Aijqnm7rlysy"
-        }
-      ],
-      "duration_ms": 158910,
-      "name": "PLAIN WHITE TEE",
-      "url": "https://open.spotify.com/track/7vL88QaXqbGeQ1HeBK55hR"
     },
     {
       "added_at": "2026-09-27 15:07:44",
@@ -1319,6 +1575,22 @@
       "duration_ms": 176719,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/2JiGE2hEdU2KgLc9gPhbSm"
+    },
+    {
+      "added_at": "2026-10-16 07:21:47",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:07:56",
@@ -1383,6 +1655,22 @@
       "duration_ms": 209706,
       "name": "Skinny Boyfriend",
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
+    },
+    {
+      "added_at": "2026-10-16 07:27:22",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
       "added_at": "2026-09-27 15:08:15",
@@ -1575,26 +1863,6 @@
       "duration_ms": 140413,
       "name": "Princess on the Run",
       "url": "https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC"
-    },
-    {
-      "added_at": "2026-09-27 15:09:05",
-      "album": {
-        "name": "YOU DRIVE ME FUCKING CRAZY",
-        "url": "https://open.spotify.com/album/5OWfpsApue8mvyOPNWqyS4"
-      },
-      "artists": [
-        {
-          "name": "I'm Geist",
-          "url": "https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy"
-        },
-        {
-          "name": "gothcandy",
-          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
-        }
-      ],
-      "duration_ms": 117750,
-      "name": "YOU DRIVE ME FUCKING CRAZY",
-      "url": "https://open.spotify.com/track/6mKkYVEgODbrF9hDpARfLD"
     },
     {
       "added_at": "2026-09-27 15:09:15",
@@ -1817,38 +2085,6 @@
       "url": "https://open.spotify.com/track/36vqxaQyizgDpOIWV55hOH"
     },
     {
-      "added_at": "2026-09-27 15:10:13",
-      "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex"
-      },
-      "artists": [
-        {
-          "name": "Decade",
-          "url": "https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
-    },
-    {
-      "added_at": "2026-09-27 15:10:17",
-      "album": {
-        "name": "What's Wrong With You?",
-        "url": "https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK"
-      },
-      "artists": [
-        {
-          "name": "Upwood Avenue",
-          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "What's Wrong With You?",
-      "url": "https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS"
-    },
-    {
       "added_at": "2026-09-27 15:10:21",
       "album": {
         "name": "Dandy In The Underworld",
@@ -1911,38 +2147,6 @@
       "duration_ms": 109433,
       "name": "A Reckless Expenditure",
       "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
-    },
-    {
-      "added_at": "2026-10-11 08:09:40",
-      "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/60qwrZakhvd5PQRd9le7I2"
-      },
-      "artists": [
-        {
-          "name": "Ferguson Hi-Fi",
-          "url": "https://open.spotify.com/artist/6lOgAwO6yOGHLOqdplm0Cl"
-        }
-      ],
-      "duration_ms": 147433,
-      "name": "Get Over It",
-      "url": "https://open.spotify.com/track/5oheaEGelTvBnjgBMzZC4I"
-    },
-    {
-      "added_at": "2026-10-11 15:46:49",
-      "album": {
-        "name": "Save Me Now",
-        "url": "https://open.spotify.com/album/55Be5FbMyxOK5n6iW5DJ8E"
-      },
-      "artists": [
-        {
-          "name": "Florence Jack",
-          "url": "https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Save Me Now",
-      "url": "https://open.spotify.com/track/1DpOALvlIsJTQuzlCtVFTt"
     }
   ],
   "unique_name": "Off Axis Tours . com",

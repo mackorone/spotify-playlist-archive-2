@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Adrian Khalif
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Ashe
 
-1,701 songs - 4 day 6 hr 24 min
+1,704 songs - 4 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Come back to me](https://open.spotify.com/track/62HKW77nt6tudsIHXT2A0M) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 6:28 | 2024-05-30 | 2024-06-21 |
 | [Come My Way](https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K) | [Dana Lu](https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj), [Taina Rain](https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz) | [Worldwide Link\-Up](https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO) | 2:48 | 2024-01-24 | 2024-02-09 |
 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-07-03 | 2026-10-12 |
+| [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-10-16 |  |
 | [Completely](https://open.spotify.com/track/7EmPFvGbEK2S4k6TieeAd2) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [J \- The 1st Album](https://open.spotify.com/album/1I0XP2ChShL3fZQ6mEMVtz) | 3:37 | 2024-09-11 | 2024-10-16 |
 | [Confess To You](https://open.spotify.com/track/0T9uzv2TqgzU2F3z54vWX7) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [KING THE LAND \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2ebXX351bi71c7tCkH9yiF) | 3:07 | 2023-08-18 | 2023-10-20 |
 | [Confess Your Love](https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q) | [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re), [ola.wav](https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I) | [Confess Your Love](https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO) | 2:11 | 2025-09-17 | 2025-11-21 |
@@ -1284,6 +1285,7 @@
 | [Selendang Biru](https://open.spotify.com/track/1IU1mITWrgXfQrCDTjDgeh) | [Shinta Arsinta](https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg) | [Selendang Biru](https://open.spotify.com/album/2MoVigvG7je2nf9yBvBSzb) | 5:10 | 2024-06-06 | 2024-06-13 |
 | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/track/2o0zyc2cQ3gWXsBVpSl6Cn) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/album/390vXz4rdJ0dgs8gMEkwZR) | 1:57 | 2024-03-11 | 2024-05-10 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-03-27 | 2026-08-11 |
+| [Selimut Hati](https://open.spotify.com/track/2947QkVkGSKgCGmKaOH40m) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Selimut Hati](https://open.spotify.com/album/37Gxoo8tF2qppbLleyeFsS) | 4:43 | 2026-10-16 |  |
 | [Sembuh Kembali](https://open.spotify.com/track/4Y73IsEuBaGYJIS08iwBbB) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Sembuh Kembali](https://open.spotify.com/album/6V1lLksPRBbJejQPZmNSLp) | 4:37 | 2025-10-17 | 2026-02-19 |
 | [Semenjak Ada Dirimu](https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Semenjak Ada Dirimu](https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8) | 3:46 | 2024-09-13 | 2025-02-01 |
 | [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 | 2025-03-16 | 2025-05-17 |
@@ -1387,6 +1389,7 @@
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-26 | 2024-09-26 |
 | [Still](https://open.spotify.com/track/6sv7ZmasB6qSiF8hWJNpDG) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [She Loves Me Not](https://open.spotify.com/album/5WBPlbri33vyF3cNmJIxH5) | 3:46 | 2023-12-21 | 2024-01-18 |
 | [Still With You](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Still With You](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) | 3:59 | 2023-07-07 | 2023-09-30 |
+| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-10-16 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-21 | 2023-11-26 |
 | [Strip That Down \(feat\. Quavo\)](https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:22 | 2024-10-23 | 2024-11-06 |
 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Pre\-Release Single \[Stuck In The Middle\]](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 | 2024-02-29 | 2024-03-08 |

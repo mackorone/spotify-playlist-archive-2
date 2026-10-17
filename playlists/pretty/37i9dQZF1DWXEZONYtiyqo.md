@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams, Liviu Teodorescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,241 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,250 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 14 | [Morenito](https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Morenito](https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF) | 2:15 |
 | 15 | [Ca Orice Femeie](https://open.spotify.com/track/31weQKR9JQtlo60AMAXwsX) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Ca Orice Femeie](https://open.spotify.com/album/7fKSURIU8Rr4RIfwlLxFOe) | 3:05 |
 | 16 | [Dă\-mi, Doamne](https://open.spotify.com/track/3SLgzGLDnVzzbbNXGhf7Pc) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Dă\-mi, Doamne](https://open.spotify.com/album/12JGM9IULyUP7xduxyTNkt) | 2:43 |
-| 17 | [Track 6](https://open.spotify.com/track/20OLGtskxkjQeU7pzBfwLj) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw) | [17](https://open.spotify.com/album/29l9kuVI2PN1ue2M7NaXaC) | 0:00 |
+| 17 | [Cristale](https://open.spotify.com/track/20OLGtskxkjQeU7pzBfwLj) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [NOSFE](https://open.spotify.com/artist/0MvOpXzkqyFOyom1rrm4NM) | [17](https://open.spotify.com/album/29l9kuVI2PN1ue2M7NaXaC) | 2:28 |
 | 18 | [Starea mea de bine](https://open.spotify.com/track/6uBlpi436YD9CXhzyCJXdx) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Starea mea de bine](https://open.spotify.com/album/20dm81rbdLWkyc4TtoVlxD) | 3:18 |
 | 19 | [Noapte și zi](https://open.spotify.com/track/145CHDVLA5D9gMSh3fbnXn) | [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Noapte și zi](https://open.spotify.com/album/4WGUYTBpT986HburMVlG7z) | 2:26 |
 | 20 | [Dream Out Loud](https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Dream Out Loud](https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Bastionul Fericirii](https://open.spotify.com/track/6jg9LBPwmtVNXLlqHozweF) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Bastionul Fericirii](https://open.spotify.com/album/7p2FEhYZBk8MuxYM60sqPS) | 3:02 |
 | 50 | [Nu se va mai repeta](https://open.spotify.com/track/0zIvHxLp2tmLqIX9cMNdfP) | [Amna](https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ) | [Nu se va mai repeta](https://open.spotify.com/album/7Bltzdl6RsiHdcXt96e7DY) | 2:36 |
 
-Snapshot ID: `AAAAAAqG/nnGjY33+0vPCIuS3pP6Zv2m`
+Snapshot ID: `AAAAADX97gALXpexBIuNyFx0WK0EXWvE`

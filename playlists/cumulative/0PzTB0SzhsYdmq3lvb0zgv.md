@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-604 songs - 1 day 9 hr 42 min
+608 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Little More Fun](https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:30 | 2026-07-17 | 2026-09-10 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-21 | 2026-01-15 |
 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 | 2025-08-22 |  |
+| [After Life](https://open.spotify.com/track/7ArJxggH3uJuM9T93s5LW9) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Lovesick](https://open.spotify.com/album/6tXhwhNRi6rtIvbdvofSsD) | 2:47 | 2026-10-16 |  |
 | [Ain't But a Thing](https://open.spotify.com/track/5gEDBhaAhzoijeO2pQlV35) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 3:41 | 2025-07-18 | 2025-08-23 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:06 | 2026-01-09 |  |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-09-11 |  |
@@ -95,6 +96,7 @@
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2025-10-23 | 2026-01-15 |
 | [Cisco Bay](https://open.spotify.com/track/3kmwPnaLeGZM9J7u76MjrL) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Love Made Trees](https://open.spotify.com/album/6opNybHCZ3HMLtbp8crFAa) | 2:44 | 2026-02-19 |  |
 | [City Woman](https://open.spotify.com/track/1i1efjJMWWPUwWoATR2gl0) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0cJAyLiw901DhcO7TSpftB) | 3:25 | 2025-07-18 | 2026-01-15 |
+| [close to you](https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [close to you](https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD) | 3:31 | 2026-10-16 |  |
 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-01-23 |  |
 | [Come Down](https://open.spotify.com/track/6gxMXHr2GxN7afbdNmsoaj) | [Reb Fountain](https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1) | [Come Down](https://open.spotify.com/album/4dkUqCf46AhGJSUdjBZ3RD) | 3:55 | 2026-02-19 | 2026-06-26 |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-07-18 | 2025-09-20 |
@@ -126,6 +128,7 @@
 | [Different Kind Of Love](https://open.spotify.com/track/24OSstaojKavFMAad7CHBb) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Different Kind Of Love](https://open.spotify.com/album/3lGbBlPUeNyxU52Nm5gpdz) | 2:52 | 2025-07-18 | 2026-02-19 |
 | [Distance](https://open.spotify.com/track/1SsUx7lHTfuiSSB1KfRMdE) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 4:15 | 2026-02-19 | 2026-09-10 |
 | [Distant](https://open.spotify.com/track/6XLmbs1FhNAeUVTCgXFvaF) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Distant](https://open.spotify.com/album/2Fe9DVV8LX8MDj04jf8Jyi) | 2:56 | 2025-07-18 | 2026-01-15 |
+| [Do Better](https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Do Better](https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM) | 3:31 | 2026-10-16 |  |
 | [Do Today](https://open.spotify.com/track/15fpUSbPy9iiqLg9PhalUk) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Grateful](https://open.spotify.com/album/5MQn4Cknugw1VplWnBoEI6) | 4:14 | 2026-06-05 |  |
 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 | 2025-07-18 |  |
 | [doing my best](https://open.spotify.com/track/7t0ohvf7w4e8VacR124wbA) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:02 | 2026-01-09 | 2026-02-19 |
@@ -205,6 +208,7 @@
 | [halfwaythru](https://open.spotify.com/track/5JaOmoCU9RpYs83YUupawE) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [better late than not at all](https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu) | 3:13 | 2026-03-20 |  |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/5eutB2O8MLQjPJmAlYvxXC) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ) | 3:04 | 2025-07-18 | 2025-10-28 |
 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 | 2026-03-13 |  |
+| [Hannah Montana](https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Hannah Montana](https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X) | 3:33 | 2026-10-16 |  |
 | [Happiness Anytime](https://open.spotify.com/track/06CdB50OBa7Y3MjNLmX63q) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:38 | 2026-08-25 |  |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2025-07-18 |  |
 | [He Said, She Said](https://open.spotify.com/track/0WVqGklPRYtJD9bjWiMXvM) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:44 | 2025-08-22 | 2025-11-01 |

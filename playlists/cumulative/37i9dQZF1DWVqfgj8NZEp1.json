@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "A Weaver of Dreams",
+        "url": "https://open.spotify.com/album/0fPCzUDVzqs8S0B8OGqIeq"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377800,
+      "name": "A Weaver of Dreams",
+      "url": "https://open.spotify.com/track/78Cx0W5pE9v4MQgl3byd38"
+    },
+    {
+      "album": {
         "name": "Absyrations",
         "url": "https://open.spotify.com/album/3v8U8oQdykY1kVF9IBg5nF"
       },
@@ -4198,7 +4216,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 413813,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE"

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a Mannda Lym e mais mulheres incr\u00edveis no volume m\u00e1ximo! Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:78WvOgIBo2emAnJLbv7nXO\">Mannda Lym</a>",
-  "num_followers": 196303,
+  "num_followers": 196304,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJYEZk0HKXHHEs8/7optzuKVQ8Ik",
+  "snapshot_id": "AAAAAEofewXLpD2WCDqaY7lnSuQ3jkpW",
   "tracks": [
     {
       "added_at": "2026-07-06 16:39:02",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
+        "name": "De Pouco a Pouco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY"
+      },
+      "artists": [
+        {
+          "name": "Raquel Moreira",
+          "url": "https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "De Pouco a Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
         "name": "MAIS FORTE QUE A D\u00daVIDA",
         "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 176646,
       "name": "AMANH\u00c3",
       "url": "https://open.spotify.com/track/7CAc04zrV9DQlxoxjjpQsq"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
-        "name": "De Pouco a Pouco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY"
-      },
-      "artists": [
-        {
-          "name": "Raquel Moreira",
-          "url": "https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "De Pouco a Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS"
     },
     {
       "added_at": "2026-07-06 16:39:02",

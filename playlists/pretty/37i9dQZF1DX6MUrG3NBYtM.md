@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 59 | [Storm Warnings](https://open.spotify.com/track/1ChB4a5EAEBYR976Rvpdan) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Storm Warnings](https://open.spotify.com/album/2zR9Yz7UAkFyRdyvxebcf0) | 3:45 |
 | 60 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
 
-Snapshot ID: `AAAAAEBLE+6KMNbSnAztnJCG2AnK4d0k`
+Snapshot ID: `AAAAAFKgCv1+ZojMvECPvfW75z4jWgFc`

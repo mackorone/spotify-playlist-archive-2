@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-558 songs - 1 day 10 hr 56 min
+559 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Birds Fly In](https://open.spotify.com/track/7zd6tFDXAMgKngvTmI7gs2) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Birds Fly In](https://open.spotify.com/album/0oh9LWYtmn6aaTczUdjDKG) | 4:58 | 2026-05-15 | 2026-05-30 |
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-07-03 | 2025-02-28 |
 | [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7) | 2:40 | 2026-07-23 |  |
-| [Bond Girl](https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Bond Girl](https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn) | 2:31 | 2026-07-23 |  |
+| [Bond Girl](https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Bond Girl](https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn) | 2:31 | 2026-07-23 | 2026-10-17 |
 | [Boxing feat\. King Krule \- DJ Python Remix](https://open.spotify.com/track/6czf3lyVvUFkYYsFbJbafS) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Boxing feat\. King Krule \(DJ Python Remix\)](https://open.spotify.com/album/4c3ieE9hkCpGLuUL59MrE1) | 7:38 | 2025-03-07 | 2025-05-09 |
 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 | 2026-04-30 | 2026-05-08 |
 | [Brand New Me](https://open.spotify.com/track/1CfKxmlYpzBuXtcLYAGlz6) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Brand New Me](https://open.spotify.com/album/3Oz7H49W8MVR0UdMzueCQT) | 3:03 | 2025-10-03 | 2025-11-13 |
@@ -285,6 +285,7 @@
 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 | 2024-05-24 | 2025-10-17 |
 | [Lockup](https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Lockup](https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7) | 4:31 | 2026-05-15 |  |
 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 | 2026-04-16 |  |
+| [Lonely Bongo](https://open.spotify.com/track/53lPHskpqwibKlaEEXHtkX) | [Michelle Manetti](https://open.spotify.com/artist/5LcNSaw8X9bRD2r0GU3DyI), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Lonely Bongo](https://open.spotify.com/album/6NFAEEw8xkxUO2fFMdOXKp) | 5:48 | 2026-10-16 |  |
 | [LONGING](https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ANYWHERE HERE IS PERFECT \(DELUXE\)](https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh) | 1:49 | 2026-08-20 | 2026-10-03 |
 | [Lose All Your Friends](https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Lose All Your Friends](https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS) | 5:01 | 2026-10-02 |  |
 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 | 2025-01-17 | 2026-05-08 |

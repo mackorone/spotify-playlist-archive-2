@@ -1,12 +1,12 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2302490,
+  "num_followers": 2302339,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABpnK7YXCVoylF9PHwr2r/mPG1eZ",
+  "snapshot_id": "AAAAAM4+AFNUaci3+6GBjK/zoFYzs3uB",
   "tracks": [
     {
       "added_at": "2026-10-02 07:10:33",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
     },
     {
+      "added_at": "2026-10-16 05:58:34",
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 197922,
+      "name": "Freak Inside",
+      "url": "https://open.spotify.com/track/5E6hwJ4Z3qB79UugbIQ1Ea"
+    },
+    {
       "added_at": "2026-02-01 04:28:56",
       "album": {
         "name": "Vacancy",
@@ -103,22 +119,6 @@
       "duration_ms": 203564,
       "name": "Pretzel",
       "url": "https://open.spotify.com/track/5mfWPeFRJEUi62IWxFJIbf"
-    },
-    {
-      "added_at": "2023-02-02 23:24:59",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2025-10-24 08:59:08",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/5U5UR88UmzOHBckl4wYAyT"
     },
     {
-      "added_at": "2022-08-17 16:54:21",
+      "added_at": "2026-06-28 23:58:39",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 184203,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
     },
     {
       "added_at": "2026-05-08 06:38:19",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/7zdQ53pI4xJk7lYYHnSwYT"
     },
     {
-      "added_at": "2026-05-22 04:02:03",
+      "added_at": "2023-02-02 23:24:59",
       "album": {
-        "name": "touch myself/idea of love",
-        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 249218,
-      "name": "touch myself",
-      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -265,24 +265,20 @@
       "url": "https://open.spotify.com/track/5z46zIR3mwi0dslAXrGcO6"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
+      "added_at": "2022-08-17 16:54:21",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+      "duration_ms": 184203,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2025-07-13 04:26:17",
@@ -377,24 +373,24 @@
       "url": "https://open.spotify.com/track/7JUHtopVGflkTGQdvR19aE"
     },
     {
-      "added_at": "2025-06-20 04:00:55",
+      "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         },
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 186870,
-      "name": "talk you through it (feat. FLO)",
-      "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
+      "duration_ms": 276960,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
       "added_at": "2025-08-22 09:37:55",
@@ -693,22 +689,6 @@
       "url": "https://open.spotify.com/track/27gZsW3sKb8IXZrqEya0HX"
     },
     {
-      "added_at": "2026-06-28 23:58:39",
-      "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 181091,
-      "name": "good girl",
-      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
-    },
-    {
       "added_at": "2025-02-14 09:44:14",
       "album": {
         "name": "11:11 (Deluxe)",
@@ -739,6 +719,22 @@
       "duration_ms": 262480,
       "name": "living room flow - Bonus",
       "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
+    },
+    {
+      "added_at": "2022-12-02 10:44:11",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2025-02-14 09:44:14",
@@ -773,22 +769,6 @@
       "url": "https://open.spotify.com/track/5hkI0Ms7FNmlD0GjjW2jRv"
     },
     {
-      "added_at": "2022-12-02 10:44:11",
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
-    },
-    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "Garden Kisses",
@@ -821,6 +801,22 @@
       "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
     },
     {
+      "added_at": "2025-02-14 09:44:14",
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 264242,
+      "name": "Searchin",
+      "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
+    },
+    {
       "added_at": "2023-02-12 15:52:33",
       "album": {
         "name": "Exclusive (Expanded Edition)",
@@ -851,22 +847,6 @@
       "duration_ms": 291400,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7"
-    },
-    {
-      "added_at": "2025-02-14 09:44:14",
-      "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 264242,
-      "name": "Searchin",
-      "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1181,6 +1161,22 @@
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
+      "added_at": "2026-06-26 04:02:09",
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 238950,
+      "name": "'til u cry",
+      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
+    },
+    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "Chilombo (Deluxe)",
@@ -1309,6 +1305,26 @@
       "url": "https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ"
     },
     {
+      "added_at": "2025-06-20 04:00:55",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 186870,
+      "name": "talk you through it (feat. FLO)",
+      "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
+    },
+    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "Good & Plenty (Remix)",
@@ -1353,22 +1369,6 @@
       "url": "https://open.spotify.com/track/2LHtu3z8Xa9AToxLRlLm1g"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 243305,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/0jq34bzlBreNWsnp8rvlvK"
-    },
-    {
       "added_at": "2025-02-14 09:44:14",
       "album": {
         "name": "While We Wait 2",
@@ -1387,6 +1387,22 @@
       "duration_ms": 229736,
       "name": "Clothes Off (feat. kwn)",
       "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 243305,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0jq34bzlBreNWsnp8rvlvK"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -1441,22 +1457,6 @@
       "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
     },
     {
-      "added_at": "2023-02-02 23:24:59",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 223414,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
-    },
-    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "Always Never Home",
@@ -1471,6 +1471,22 @@
       "duration_ms": 294853,
       "name": "Bad Dream/No Looking Back",
       "url": "https://open.spotify.com/track/7x7QlOg9xTzRHkSW5mf1HY"
+    },
+    {
+      "added_at": "2023-02-02 23:24:59",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 223414,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1625,22 +1641,6 @@
       "url": "https://open.spotify.com/track/6De63WRULDaa1fxOyLilnv"
     },
     {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 245893,
-      "name": "Signs of Love Makin'",
-      "url": "https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl"
-    },
-    {
       "added_at": "2025-02-14 09:44:14",
       "album": {
         "name": "SUBMISSIVE2",
@@ -1659,6 +1659,22 @@
       "duration_ms": 178909,
       "name": "SAME MISTAKE",
       "url": "https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN"
+    },
+    {
+      "added_at": "2023-02-12 15:52:33",
+      "album": {
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 245893,
+      "name": "Signs of Love Makin'",
+      "url": "https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 391906,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     }
   ],
   "unique_name": "Silk Sheets",

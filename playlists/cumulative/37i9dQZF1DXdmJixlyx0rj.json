@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: DJ co.kr, h4rdy)",
+  "description": "New & best K-Electronic music is here. (Cover: NECTA)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 207089,
       "name": "Heart Of Steel",
       "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
@@ -2970,6 +2970,24 @@
       "duration_ms": 205360,
       "name": "High",
       "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "album": {
+        "name": "HIGH LIFE",
+        "url": "https://open.spotify.com/album/30alLh9pk7puD32ZAS2eoz"
+      },
+      "artists": [
+        {
+          "name": "NECTA",
+          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128079,
+      "name": "HIGH LIFE",
+      "url": "https://open.spotify.com/track/0mfS31QxisGH3C4y3oc6Hy"
     },
     {
       "album": {
@@ -5516,7 +5534,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 181536,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
@@ -6080,6 +6098,24 @@
       "duration_ms": 216400,
       "name": "T-H-I-R-S-T-Y",
       "url": "https://open.spotify.com/track/1WvaUzdhKHTH5UYmsQwP75"
+    },
+    {
+      "album": {
+        "name": "Tage",
+        "url": "https://open.spotify.com/album/46B9Y2LqWspCLaydLyaefa"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSIS THERAPY",
+          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413017,
+      "name": "Tage",
+      "url": "https://open.spotify.com/track/0l7CjPSu1pXGmuudm69DSp"
     },
     {
       "album": {

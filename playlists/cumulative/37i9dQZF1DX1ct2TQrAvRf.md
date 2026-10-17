@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- Karan Aujla
 
-439 songs - 23 hr 27 min
+440 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Ballaatha Jaathi](https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Ballaatha Jaathi](https://open.spotify.com/album/2lVMOwZzF8iqaPbO83XScW) | 3:50 | 2024-05-16 | 2024-06-08 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-27 | 2024-08-27 |
 | [BANDANA](https://open.spotify.com/track/4yi6OcrsOfCKju2Yf8uRdb) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [BANDANA](https://open.spotify.com/album/3GFlIBMBEO2g6XALnUk4hW) | 2:13 | 2024-09-25 | 2025-03-15 |
-| [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 | 2026-08-28 |  |
+| [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 | 2026-08-28 | 2026-10-17 |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 | 2023-07-18 |
 | [Banna](https://open.spotify.com/track/5dQXa74bKFqX1F6Ys9SlFu) | [THE U.D](https://open.spotify.com/artist/4QgEr97eiQSVFmbW9a8v72), [Lil Urban](https://open.spotify.com/artist/4i13upvBtMR2ETu4kG31fq) | [Banna](https://open.spotify.com/album/5BkZ2XhGUgpgLCfGJtWxxK) | 2:48 | 2026-02-06 | 2026-02-21 |
 | [Bari](https://open.spotify.com/track/01EV2T5FLas3NLnPnceZ9b) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [Autobiography](https://open.spotify.com/album/49kI8wLqF1S7EKpl4t2Cfn) | 2:58 | 2026-09-25 |  |
@@ -357,6 +357,7 @@
 | [Russian Bandana](https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Russian Bandana](https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud) | 3:17 | 2024-09-12 | 2026-03-07 |
 | [Saade Tan Vehre \(From "Mitti De Putt"\)](https://open.spotify.com/track/6Yu2ebGMpUwrkNDliGDL8W) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Tanvi Sharma](https://open.spotify.com/artist/3n8g62X5MiJLU2PTUuknN2), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Saade Tan Vehre \(From "Mitti De Putt"\)](https://open.spotify.com/album/1YGsk9QfaejeNLcOa4iFm2) | 2:12 | 2026-09-11 | 2026-09-26 |
 | [Sad Gaana](https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:29 | 2025-09-19 | 2026-05-09 |
+| [Said & Done](https://open.spotify.com/track/6bKTS7loIO28oRns4mnfEf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Qarn Mallhi](https://open.spotify.com/artist/1yAFQk48cg77eplJI5XyX7) | [Said & Done](https://open.spotify.com/album/4dYcU9n0NJPFpvs7n101KD) | 3:08 | 2026-10-16 |  |
 | [Satya](https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-27 | 2023-06-02 |
 | [Sawaal Puchdi \(From "51 GLORIOUS DAYS"\)](https://open.spotify.com/track/4IzMinx3nSlP47jCDtUrvf) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Sawaal Puchdi \(From "51 GLORIOUS DAYS"\)](https://open.spotify.com/album/103CIQWajdTOzqoG3DXMIr) | 4:09 | 2025-09-26 | 2025-10-15 |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-27 | 2023-06-02 |

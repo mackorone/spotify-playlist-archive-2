@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 296924,
+  "num_followers": 296966,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFCjfU58l8g8UhhXwL8XzQUiUCd",
+  "snapshot_id": "AAAAAHWddgtgvd7md1H/EmEg/LkcX/A6",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:06",
@@ -367,70 +367,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Late Night Tales: Floating Points",
-        "url": "https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 563427,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "The Colour In Anything",
-        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 213620,
-      "name": "The Colour In Anything",
-      "url": "https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
         "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
       },
@@ -455,6 +391,70 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Late Night Tales: Floating Points",
+        "url": "https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 563427,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "The Colour In Anything",
+        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 213620,
+      "name": "The Colour In Anything",
+      "url": "https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "X-Dream",
-        "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 261335,
-      "name": "X-Dream",
-      "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "X-Dream",
+        "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 261335,
+      "name": "X-Dream",
+      "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "Saw You for the First Time",
         "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
     },
     {
       "added_at": "2026-06-12 04:01:06",

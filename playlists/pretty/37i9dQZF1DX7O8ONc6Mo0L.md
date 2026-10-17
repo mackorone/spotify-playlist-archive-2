@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,910 likes - 79 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,954 likes - 79 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 56 | [Descansa](https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Minha Essência](https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG) | 4:29 |
 | 57 | [Náufrago \- Acústico](https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Náufrago \(Acústico\)](https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ) | 4:54 |
 | 58 | [Esqueço Até o Tempo \(Acústico\)](https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Feliz7Play](https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG), [Benjamim Silva](https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX) | [Esqueço Até o Tempo](https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU) | 2:39 |
-| 59 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
-| 60 | [Sala De Estar \- Ao Vivo](https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Késia Soares](https://open.spotify.com/artist/1kFQW1pOLiBkqK9Lu8Wook) | [Sala De Estar \(Ao Vivo\)](https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ) | 4:20 |
+| 59 | [Sala De Estar \- Ao Vivo](https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Késia Soares](https://open.spotify.com/artist/1kFQW1pOLiBkqK9Lu8Wook) | [Sala De Estar \(Ao Vivo\)](https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ) | 4:20 |
+| 60 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
 | 61 | [Pedro \- Acústico](https://open.spotify.com/track/1ROCNmLzC8Nng7HAbh1X7H) | [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [SALVAON Acústico, Vol\. 1](https://open.spotify.com/album/3Rkaplu8WwsOFWymFX0x15) | 6:05 |
 | 62 | [Quero Mais \- Acústico](https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Histórias Vol\. 1 \(Acústico\)](https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx) | 4:08 |
 | 63 | [Grande É o Senhor](https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Lucas Goes](https://open.spotify.com/artist/6FS6gCbdyM0guva0tNopay) | [Grande É o Senhor](https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr) | 4:13 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 78 | [A Casa É Sua \- Acoustic Session](https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp) | 5:42 |
 | 79 | [Nada vai me separar \- Acústico](https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju) | 4:38 |
 
-Snapshot ID: `AAAAABJmeuupsCmxU8H+0oXzGSMso2h+`
+Snapshot ID: `AAAAAH3FhVGfa5SYJg5Tj9vU9Lqs2B2R`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 790 songs - 2 day 3 hr 16 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 792 songs - 2 day 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -798,5 +798,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 788 | [Mark](https://open.spotify.com/track/6BsTlSVCXUdFtRIfrEgNOb) | [Oodelally](https://open.spotify.com/artist/7piVtviIq966XiLLF3luGJ) | [TURN IT DOWN THE NOISE](https://open.spotify.com/album/40djNW271r1VC244DH7Wdf) | 3:03 |
 | 789 | [The Big Picture](https://open.spotify.com/track/3iaik43VOtFnqtExDXi6Dq) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground](https://open.spotify.com/album/0qPgTNLl3ojenY9bE4nzqm) | 8:41 |
 | 790 | [raindrops \(an angel cried\)](https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 0:37 |
+| 791 | [Bird](https://open.spotify.com/track/5LtqJkOoeaAjN2vwLXldcC) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr) | 3:22 |
+| 792 | [Bd\-R](https://open.spotify.com/track/6xugCaKQQzLo0xnD3dZfjy) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 0:41 |
 
-Snapshot ID: `AAAJ1y7z+TC7yFg4Az06hoZaCvJqBDtB`
+Snapshot ID: `AAAJ2YeZTC6dl5QD8OV0mm3iUMawuV/Y`

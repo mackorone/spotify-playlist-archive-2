@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Baaad!",
+        "url": "https://open.spotify.com/album/76W1uPvnUVROrdMvAoOIWY"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Baaad!",
+      "url": "https://open.spotify.com/track/6QuWpNthKEE38rp0YjhqgB"
+    },
+    {
+      "album": {
         "name": "Babe",
         "url": "https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0"
       },
@@ -4027,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "boys don't cry!",
+        "url": "https://open.spotify.com/album/6JENAcYgM5fWKIdWFxWaw6"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "boys don't cry!",
+      "url": "https://open.spotify.com/track/4EXVXNbKOEAVQ6r4FNVFgq"
+    },
+    {
+      "album": {
         "name": "Break Bread",
         "url": "https://open.spotify.com/album/34odlu9vMsYaVQPuuforOa"
       },
@@ -5536,7 +5572,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 257561,
       "name": "clear blue!",
       "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
@@ -6282,7 +6318,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 153312,
       "name": "Crashing Out!",
       "url": "https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt"
@@ -7592,7 +7628,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 123466,
       "name": "do you have a soul?",
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
@@ -12403,6 +12439,24 @@
     },
     {
       "album": {
+        "name": "Honor Me",
+        "url": "https://open.spotify.com/album/3DAUoWg6TLR8PyylebWT8o"
+      },
+      "artists": [
+        {
+          "name": "Zeke Bleu",
+          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95745,
+      "name": "Honor Me",
+      "url": "https://open.spotify.com/track/2lAQ52YFBLH9vQonwFOecw"
+    },
+    {
+      "album": {
         "name": "Negro Swan",
         "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
       },
@@ -12480,6 +12534,24 @@
       "duration_ms": 185516,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/15TfbjWDBtrPGsqsbcAoGm"
+    },
+    {
+      "album": {
+        "name": "ten thousand mistakes",
+        "url": "https://open.spotify.com/album/2FdZD47VYkMgUaNNgdPeUA"
+      },
+      "artists": [
+        {
+          "name": "sahn",
+          "url": "https://open.spotify.com/artist/1FZ9KkusZYSO3saEkB9NMG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267230,
+      "name": "HOW LONG",
+      "url": "https://open.spotify.com/track/44L6vCj8sfVi5U0MYCa0zl"
     },
     {
       "album": {
@@ -14374,7 +14446,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
@@ -15272,6 +15344,24 @@
       "duration_ms": 224014,
       "name": "LET'S GET MARRIED",
       "url": "https://open.spotify.com/track/0XkQ23l4GT8sFHgeNRGAO4"
+    },
+    {
+      "album": {
+        "name": "let's talk about it",
+        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157810,
+      "name": "let\u2019s talk about it",
+      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
     },
     {
       "album": {
@@ -18426,6 +18516,24 @@
       "duration_ms": 164040,
       "name": "No Questions",
       "url": "https://open.spotify.com/track/4rDouDFu1nqpyTWZkRIiuI"
+    },
+    {
+      "album": {
+        "name": "no self respect!",
+        "url": "https://open.spotify.com/album/2cE9NykoNpph3aah241eKp"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181828,
+      "name": "no self respect!",
+      "url": "https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V"
     },
     {
       "album": {
@@ -21622,7 +21730,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 232373,
       "name": "Rest of Your Life",
       "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
@@ -21800,6 +21908,24 @@
       "duration_ms": 158271,
       "name": "Right Track (feat. Smino)",
       "url": "https://open.spotify.com/track/439zbDDCpOPntEFlZFHKbY"
+    },
+    {
+      "album": {
+        "name": "right/left",
+        "url": "https://open.spotify.com/album/4UEnqdMtJ3TlgA25OsRG5A"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129925,
+      "name": "right/left",
+      "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
     },
     {
       "album": {
@@ -22174,6 +22300,24 @@
       "duration_ms": 140658,
       "name": "Running With The Angels",
       "url": "https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6"
+    },
+    {
+      "album": {
+        "name": "THE 11TH HOUR",
+        "url": "https://open.spotify.com/album/2yfx7jI0ibYIHXbvSPSsjB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218265,
+      "name": "RUNWAY KILLER",
+      "url": "https://open.spotify.com/track/4J3KSbDGoSj1iWq5aWBY88"
     },
     {
       "album": {
@@ -23406,7 +23550,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 160626,
       "name": "skin!",
       "url": "https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS"
@@ -23740,7 +23884,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 233513,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
@@ -29878,7 +30022,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 171240,
       "name": "White Lighter",
       "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"

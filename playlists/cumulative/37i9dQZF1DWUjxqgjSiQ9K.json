@@ -5219,6 +5219,32 @@
     },
     {
       "album": {
+        "name": "DIME QU\u00c9",
+        "url": "https://open.spotify.com/album/5A10vmQ6xrq65UX5bBOxlG"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "DIMEMOII",
+          "url": "https://open.spotify.com/artist/2P1eTCVMJJEteC2oafsg86"
+        },
+        {
+          "name": "Debby Velazquez",
+          "url": "https://open.spotify.com/artist/129U94mt8KufOY13SIs9OG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240727,
+      "name": "DIME QU\u00c9",
+      "url": "https://open.spotify.com/track/5L2FqFhNzVYHqnKh4X7cHv"
+    },
+    {
+      "album": {
         "name": "Mi Religi\u00f3n",
         "url": "https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb"
       },
@@ -8926,6 +8952,28 @@
       "duration_ms": 400898,
       "name": "He Probado",
       "url": "https://open.spotify.com/track/5TEqRx0hZsHv63FPw7evso"
+    },
+    {
+      "album": {
+        "name": "Heme Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3GInOybWRXxTQkA8xNZa3Q"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298609,
+      "name": "Heme Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7yytLAitqIOKnOmkhBh1Xc"
     },
     {
       "album": {
@@ -18254,7 +18302,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 526701,
       "name": "Todo Es Tuyo",
       "url": "https://open.spotify.com/track/0NTLfJpoK217J40IFWIgsn"
@@ -19866,7 +19914,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187742,
       "name": "Vida en Mis Brazos",
       "url": "https://open.spotify.com/track/159dJlHaSe2EdkXw5bSzCF"

@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-247 songs - 7 hr 36 min
+248 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bloody Beggar Announcement Theme \- From "Bloody Beggar"](https://open.spotify.com/track/1BwnyNVjkE7FCY6AACRoPu) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [RK Hari Prasad Ramani](https://open.spotify.com/artist/6jtCT7MGur6WMjTSlvMs9J), [Venu Selvan](https://open.spotify.com/artist/22Vmyp1onmTKIekhFj0yRL) | [Bloody Beggar Announcement Theme \(From "Bloody Beggar"\)](https://open.spotify.com/album/4DbAc4Kku5UI8T2LoCUDyg) | 1:05 | 2024-05-09 | 2024-11-14 |
 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 | 2023-02-03 | 2025-05-28 |
 | [Bloody Valentine \(From "DC"\)](https://open.spotify.com/track/2UtxQtTo90v8HpEQwyS6Ss) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bloody Valentine \(From "DC"\)](https://open.spotify.com/album/2OAH8qkqhVs7IBQv4Mq4oM) | 1:41 | 2026-02-16 | 2026-02-19 |
-| [Bloody Valentine \- Instrumental](https://open.spotify.com/track/1iq5WScWkug39WEweHfdXp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [DC \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ) | 1:41 | 2026-08-10 |  |
+| [Bloody Valentine \- Instrumental](https://open.spotify.com/track/1iq5WScWkug39WEweHfdXp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [DC \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ) | 1:41 | 2026-08-10 | 2026-10-17 |
 | [Bommai](https://open.spotify.com/track/0ZzJzWOePeb7ZDRAd0ySs9) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 2:10 | 2026-09-07 |  |
 | [Bommai Theme](https://open.spotify.com/track/1gXArCGq0bOmH7EdMw3Gl9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Bommai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4) | 3:08 | 2023-06-08 | 2023-07-15 |
 | [Brothers in Arms](https://open.spotify.com/track/69RyTphfpI2ySydSDLbVLE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 2:01 | 2024-12-10 |  |
@@ -97,6 +97,7 @@
 | [Interval Fight \- Background Score](https://open.spotify.com/track/58rVdRJUkvtupU7J3UIrvB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 2:10 | 2021-11-01 | 2025-09-23 |
 | [Jaanu Intro \(Flute Theme\)](https://open.spotify.com/track/0rA8dNNCcHsQlHuoukGZae) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [96 \(Original Background Score\)](https://open.spotify.com/album/2wVkKhJFevirGdI4II2FM8) | 0:57 | 2023-02-06 | 2023-05-10 |
 | [Jagdish On Mission Theme \- Instrumental](https://open.spotify.com/track/3F7gR8xnnojlAxlLOHUoQp) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 3:26 | 2021-11-01 |  |
+| [Jailer 2 Theme](https://open.spotify.com/track/22I7j5EFoP2bC8q8QUQHFQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jailer 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr) | 1:47 | 2026-10-16 |  |
 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 | 2022-09-13 |  |
 | [Jailer Drill Theme \- Instrumental](https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 0:43 | 2023-07-28 | 2026-06-19 |
 | [Jailer Theme \- Instrumental](https://open.spotify.com/track/53Y7ZNZ6p26V460x89B70A) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:02 | 2023-07-28 | 2025-07-19 |

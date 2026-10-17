@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Johnny Slime
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,756 likes - 85 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,847 likes - 85 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 16 | [RA TA DIA](https://open.spotify.com/track/2mi8vJusg3QFEcm0PAjLFk) | [Judah Weston](https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX), [IsoKeys](https://open.spotify.com/artist/5iofffGNVFDotaaoqyEZNm) | [Why So Much Hate](https://open.spotify.com/album/71mI5a7ctw1UtEmppPzdor) | 1:46 |
 | 17 | [HAIRSTYLE](https://open.spotify.com/track/1t9lHXZO3EZIGVB1LguYyc) | [Dreek Jones](https://open.spotify.com/artist/0fVbXtxb8KqKpfAdPLbKlu) | [HAIRSTYLE](https://open.spotify.com/album/62x5uuyCMPj7Gdhljs5XXH) | 1:52 |
 | 18 | [Bae Please \[Remix\]](https://open.spotify.com/track/0ETXcXvxt8kiDA0bexLHvw) | [Moneymyface](https://open.spotify.com/artist/3a1IbN5VL3VvvEiLblCDMq), [Fox BD](https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD) | [Bae Please \[Remix\]](https://open.spotify.com/album/561Lr9ulKjda6MgSXdWsve) | 3:02 |
-| 19 | [Track 5](https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN) | [Fatt Macc](https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4) | [Just Call Me Trap](https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn) | 0:00 |
+| 19 | [Wat U Want \(feat\. Fatt Smaxk\)](https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN) | [Fatt Macc](https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4), [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Just Call Me Trap](https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn) | 2:49 |
 | 20 | [I KNOW](https://open.spotify.com/track/4MwsSRDksdzL28a2AlN048) | [Seph Pablo](https://open.spotify.com/artist/6Gwutl16MwnUFO9JKZ59pX) | [I KNOW](https://open.spotify.com/album/35CBMu9UySkfgmfzylznla) | 1:49 |
 | 21 | [Worlds Collide](https://open.spotify.com/track/6iTXarwyXpRBxtFwendvJe) | [BabyRu78](https://open.spotify.com/artist/3FBU2WoaEzquFaIIe1dzHj) | [Worlds Collide](https://open.spotify.com/album/7j57GwcTQ7tS5z5oyQbtvK) | 2:49 |
 | 22 | [Max Payne](https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Max Payne](https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc) | 2:23 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 84 | [I'm Scared](https://open.spotify.com/track/63qpDL0lQDGtCIISBiLUuf) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [5 Problems](https://open.spotify.com/album/6B5fS73xLbj00E9mttG5Qp) | 2:05 |
 | 85 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAAKeas1EHHzVEoeP5SUa7VTlZKPj2`
+Snapshot ID: `AAAAAHr/sQ1eeNDPtxuweNOgAiAq3mG6`

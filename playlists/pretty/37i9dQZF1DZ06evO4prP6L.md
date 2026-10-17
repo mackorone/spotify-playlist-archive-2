@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,310 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,308 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [I Was Only 19 \(A Walk in the Green Light\)](https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:18 |
 | 50 | [She Gave Us the Song](https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL) | [We're Still Here](https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU) | 3:20 |
 
-Snapshot ID: `as7GAAAAAADUgPjTLo8c/RPKQ1wurWg3`
+Snapshot ID: `as7GAAAAAABFnhHPvjTrnrAhqeVZ4R49`

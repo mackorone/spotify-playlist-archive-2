@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Ian Lucas y Lauty Gram
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,455 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,434 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 98 | [SI ERA PARA TANTO](https://open.spotify.com/track/1gtmYYfWFgdsiPjfNYSXZH) | [Gvtz](https://open.spotify.com/artist/1NpAIsLdfMv1U5a5rX9UMq), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [SI ERA PARA TANTO](https://open.spotify.com/album/52fuXaLV3nvUVFhEf3zaTR) | 1:57 |
 | 99 | [SHEITE](https://open.spotify.com/track/7uAYxv8bvhC6S1cG2Meb1V) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/1bqLzseLTYvip4HTcqChsP) | 2:12 |
 
-Snapshot ID: `AAAAAF0/sVdbLo1e4o6MHIi8mu0EYtOu`
+Snapshot ID: `AAAAAE0HvbqbEXGZvuw0mAwgliCPZlXH`

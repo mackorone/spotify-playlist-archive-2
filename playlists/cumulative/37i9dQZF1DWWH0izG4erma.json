@@ -888,7 +888,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 241533,
       "name": "Blackout Betty",
       "url": "https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d"
@@ -2194,6 +2194,24 @@
       "duration_ms": 249612,
       "name": "ELEVATE",
       "url": "https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu"
+    },
+    {
+      "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/5lWcVSohH4aaeyw6046o2F"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186177,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/5Gqc0v0mskcOQvuwY0Xlqg"
     },
     {
       "album": {
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 429488,
       "name": "I Need You (feat. Ashley Monroe)",
       "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
@@ -5432,6 +5450,28 @@
       "duration_ms": 163413,
       "name": "Put It in the Plate",
       "url": "https://open.spotify.com/track/11t73HjNMUYPcpaTFzdbzo"
+    },
+    {
+      "album": {
+        "name": "Rabbit Gets The Gun",
+        "url": "https://open.spotify.com/album/1O2BobyL6J7bcat222sLAz"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Jay Buchanan",
+          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214696,
+      "name": "Rabbit Gets The Gun",
+      "url": "https://open.spotify.com/track/0sFxHWS8kQz18rAFES6JXe"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 967195,
+  "num_followers": 967199,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJwJENZBf6N+BsIvqBNIu++lvZM+",
+  "snapshot_id": "AAAAAIAFRTu3ZOYJXd4kpeKWEGxwRWgk",
   "tracks": [
     {
       "added_at": "2026-03-17 11:56:41",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+        "name": "Jimmy Gets High",
+        "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
       },
       "artists": [
         {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
         }
       ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
+      "duration_ms": 216586,
+      "name": "Bad Day - Acoustic",
+      "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Jimmy Gets High",
-        "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
       },
       "artists": [
         {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 216586,
-      "name": "Bad Day - Acoustic",
-      "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Cold Water",
         "url": "https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Francesco Yates",
         "url": "https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "The Things We Do for Love",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
-      },
-      "artists": [
-        {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Rhythm Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 212171,
       "name": "Rhythm Inside - Acoustic",
       "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "The Things We Do for Love",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+      },
+      "artists": [
+        {
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Pretty Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "Pretty Girl - Acoustic Version",
-      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Your Song (Acoustic)",
         "url": "https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ"
       },
@@ -983,22 +967,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "AOL Sessions",
-        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Kiss Me (Acoustic)",
-      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 198000,
       "name": "U Remind Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Pretty Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "Pretty Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "AOL Sessions",
+        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Kiss Me (Acoustic)",
+      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "City of Stars",
-        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City of Stars",
-      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "False Alarm (Acoustic Version)",
         "url": "https://open.spotify.com/album/7tbTB7SaPrwgPi7dZhbw4V"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 177605,
       "name": "False Alarm - Acoustic Version",
       "url": "https://open.spotify.com/track/0nKuytIjMXj1UDNyPsgOUp"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "City of Stars",
+        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 154858,
+      "name": "City of Stars",
+      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "She's On My Mind (Acoustics)",
         "url": "https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 166701,
       "name": "She's On My Mind - Guitar Acoustic",
       "url": "https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Blood & Rust",
+        "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1"
       },
@@ -2019,18 +2035,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Blood & Rust",
-        "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp"
       },
       "artists": [
         {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2095,22 +2111,6 @@
       "duration_ms": 202684,
       "name": "I Like Me Better - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp"
-      },
-      "artists": [
-        {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2203,18 +2203,34 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Vault Playlist Vol. 1",
-        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
         }
       ],
-      "duration_ms": 259569,
-      "name": "No One - Acoustic",
-      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
+      "duration_ms": 233377,
+      "name": "Set Fire To The Rain",
+      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "All the Little Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2235,18 +2251,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "All the Little Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
+        "name": "Vault Playlist Vol. 1",
+        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 266626,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
+      "duration_ms": 259569,
+      "name": "No One - Acoustic",
+      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Vault Playlist Vol. 1",
-        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "If I Ain't Got You - Piano & Vocal Version",
-      "url": "https://open.spotify.com/track/5CSEiDTVH3JnjitvcL39XP"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Dreams (Piano Version)",
         "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
       },
@@ -2327,6 +2327,22 @@
       "duration_ms": 274992,
       "name": "Dreams - Piano Version",
       "url": "https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Vault Playlist Vol. 1",
+        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "If I Ain't Got You - Piano & Vocal Version",
+      "url": "https://open.spotify.com/track/5CSEiDTVH3JnjitvcL39XP"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2359,22 +2375,6 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
-      },
-      "artists": [
-        {
-          "name": "Noah Guthrie",
-          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
-        }
-      ],
-      "duration_ms": 233377,
-      "name": "Set Fire To The Rain",
-      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
     },
     {
       "added_at": "2026-03-17 11:56:41",

@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-953 songs - 2 day 17 hr 54 min
+954 songs - 2 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2024-05-03 | 2026-04-11 |
 | [Fine Brown Frame](https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Fine Brown Frame](https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B) | 3:20 | 2022-06-24 | 2023-02-25 |
 | [Finis](https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi) | [Amanda Tosoff](https://open.spotify.com/artist/6YqsZpf1iDyUBvvVtiPLaR), [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Earth Voices](https://open.spotify.com/album/6QHyaqpkhH0J0qqtd3AVRW) | 5:51 | 2021-01-29 | 2022-07-29 |
-| [First Song](https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [First Song](https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA) | 4:43 | 2024-09-20 |  |
+| [First Song](https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [First Song](https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA) | 4:43 | 2024-09-20 | 2026-10-17 |
 | [First Time](https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/78qI1KR0g7JiLB3mc2WXYz) | 4:11 | 2020-10-09 | 2022-02-19 |
 | [Five Feet Tall](https://open.spotify.com/track/3Td12QdISvxCc924l70f8n) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV) | 3:20 | 2021-09-03 | 2022-10-08 |
 | [Five Senses](https://open.spotify.com/track/2v5Rvh6gdKE7XaSMykpEJ8) | [Cassidy Place](https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54) | [Five Senses](https://open.spotify.com/album/4cl84AfjXk8k6xtBaxqete) | 2:22 | 2024-02-23 | 2026-01-15 |
@@ -384,6 +384,7 @@
 | [If I Never Get To Heaven](https://open.spotify.com/track/4uqMVAe76Y0UBQXn0KCXLh) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [For Dinah](https://open.spotify.com/album/7jH6j03bgQIOsVG3Haw5kZ) | 6:05 | 2025-10-03 |  |
 | [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 | 2026-04-17 | 2026-06-06 |
 | [If I Ruled the World](https://open.spotify.com/track/1ur83GnjXdRY6FKYeHrUg6) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [If I Ruled The World](https://open.spotify.com/album/2jz9UQA6s4AsFsqyum9GBg) | 2:53 | 2024-06-14 | 2024-07-06 |
+| [If I'm Lucky](https://open.spotify.com/track/2JXAQDvactBLDNWtqO0fTT) | [Kelly Green](https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ) | [Eat Your Greens \(Deluxe Edition\)](https://open.spotify.com/album/5ljntOyWpkpxXAdITpNTPp) | 3:12 | 2026-10-16 |  |
 | [If Love Is Overrated](https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Best Love Ballads](https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n) | 5:53 | 2020-10-09 | 2022-02-19 |
 | [If This Was](https://open.spotify.com/track/2SFjIjgQzFMjlL2ONkmstB) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [If This Was](https://open.spotify.com/album/7Ed4UdAZsXXVqeDAE1xI4t) | 4:11 | 2020-10-09 | 2022-02-19 |
 | [If You Believe](https://open.spotify.com/track/35KUEip7Py2OYvw4j9YyzD) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Parallel Motion](https://open.spotify.com/album/2QWh0FN4WfVTaYC5fwiI4I) | 4:48 | 2022-08-26 | 2023-07-15 |

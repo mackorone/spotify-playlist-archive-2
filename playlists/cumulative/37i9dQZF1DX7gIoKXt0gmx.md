@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-436 songs - 1 day 2 hr 19 min
+437 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Luving U](https://open.spotify.com/track/2X1EWoKi6oqSMfi0CxorOY) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/3BDYBcdbGVRIDxy20G2Mp2) | 4:12 | 2019-06-19\* | 2020-07-01 |
 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-11-15 |  |
 | [Mad \(feat\. Lil Wayne\)](https://open.spotify.com/track/22DHmfJa31hKpc2Lg0gVBV) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 3:55 | 2019-05-26\* | 2019-06-19 |
+| [MADE 4 THIS](https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MADE 4 THIS](https://open.spotify.com/album/1ErdNrarD5OecbKB1bVdNT) | 2:45 | 2026-10-16 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-01-26 | 2024-09-07 |
 | [Make It](https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 1:17 | 2024-01-05 | 2025-02-11 |
 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 | 2024-05-31 | 2024-11-16 |
@@ -411,7 +412,7 @@
 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/0sl6la4hIiFJMDV9nhAfUO) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [R&B Slowjamz 2](https://open.spotify.com/album/4hvBqQeGsdEQdjKjR88uqN) | 4:19 | 2026-04-29 | 2026-07-11 |
 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 | 2019-08-04 | 2019-10-29 |
 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 | 2020-07-01 | 2024-02-24 |
-| [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2024-02-02 |  |
+| [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2024-02-02 | 2026-10-17 |
 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 | 2020-10-20 | 2024-06-02 |
 | [Walked Outta Heaven](https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Hard](https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl) | 4:30 | 2025-03-11 | 2026-03-12 |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2021-01-21 |  |

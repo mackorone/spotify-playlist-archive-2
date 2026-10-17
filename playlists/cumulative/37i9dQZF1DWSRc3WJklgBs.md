@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,619 songs - 3 day 21 hr 19 min
+1,621 songs - 3 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Avenue Road](https://open.spotify.com/track/35M5jZAr2kizYaDvn4bXwx) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Bloom EP](https://open.spotify.com/album/1gJbw5p7ohUbTq0gtGxzOD) | 2:34 | 2019-08-09\* | 2019-09-12 |
 | [Awaken \- Edit](https://open.spotify.com/track/4c6PicLrAOwfkA7yEMwmI5) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Awaken](https://open.spotify.com/album/3JUh7YGXCBk7REwY5lfHAA) | 3:41 | 2019-08-31 | 2020-10-30 |
 | [Azure](https://open.spotify.com/track/4ix6msjizOfigDvNjdzolj) | [VOIID](https://open.spotify.com/artist/3CvYzwGCo8Y0gE2sbWXXb9) | [Azure](https://open.spotify.com/album/5rY6TKhm81QiYoe0XMR9O1) | 4:48 | 2019-08-09\* | 2019-08-27 |
+| [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 | 2026-10-16 |  |
 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 | 2025-09-05 |  |
 | [Back To Me](https://open.spotify.com/track/7rtHLNRdgRRJdvaMZTdVFn) | [MVSE](https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb), [shXdow.](https://open.spotify.com/artist/5k013eqGq6R7I8hYIqB643), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Back To Me](https://open.spotify.com/album/7wYiEcHymyhrB6n9TDnbvu) | 3:48 | 2024-07-02 | 2026-02-07 |
 | [Back To Us](https://open.spotify.com/track/2smmPjZfcHg3bETNSKAsvh) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/1l6R9DKy3z7g6yHUC4ak7v) | 2:54 | 2024-04-09 | 2024-04-19 |
@@ -1093,6 +1094,7 @@
 | [Prelude 2018 \(ABGT300\)](https://open.spotify.com/track/5BJ1B5Z4kktJWHNzDkc6zf) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Group Therapy 300 Live from Hong Kong \(ABGT300\)](https://open.spotify.com/album/0qkneTDjJOJuBhHtHZ5NUT) | 5:29 | 2019-08-09\* | 2020-03-04 |
 | [Pretty Please](https://open.spotify.com/track/1KGvHDULGPL2DY5kKHHCLm) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Pretty Please](https://open.spotify.com/album/5JNDuFuvWhwnLPxpP2Cfzv) | 2:38 | 2021-10-02 | 2022-04-29 |
 | [Promise Me](https://open.spotify.com/track/10BF40wI0qsVfUPy6zbOjZ) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Promise Me](https://open.spotify.com/album/3O3GuDApQg0OoQajbm7raR) | 3:05 | 2021-08-21 | 2022-05-14 |
+| [Promise You](https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Everything, Briefly](https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf) | 2:29 | 2026-10-16 |  |
 | [Promise You](https://open.spotify.com/track/0gw7l4VVk82MCXoI1i3e8t) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Promise You](https://open.spotify.com/album/2T4T379VnWqQPYHMdy39fp) | 2:45 | 2023-09-08 | 2024-10-12 |
 | [Proud](https://open.spotify.com/track/4YXKVaWzHaVyDq2pVS5cgR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Joytime III](https://open.spotify.com/album/662MMKEWOxGXbPXQIcgBlW) | 3:11 | 2019-08-20 | 2020-10-30 |
 | [Pull Me Closer](https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Pull Me Closer](https://open.spotify.com/album/28WRx5G880dCffLfPUpTED) | 2:44 | 2021-03-14 | 2021-09-25 |

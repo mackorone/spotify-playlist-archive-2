@@ -308,7 +308,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 194865,
       "name": "A Little Like You",
       "url": "https://open.spotify.com/track/2m2IaXq2dYBN27cPb39yjW"
@@ -5413,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "Wild Hearts",
+        "url": "https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181877,
+      "name": "I Hope He's You",
+      "url": "https://open.spotify.com/track/2foLU6MBskZJ2xTjRnvahb"
+    },
+    {
+      "album": {
         "name": "I Should Have Married You",
         "url": "https://open.spotify.com/album/3HSreInK13c45aTK0Sqemr"
       },
@@ -5594,6 +5612,24 @@
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
+    },
+    {
+      "album": {
+        "name": "Rock The Jukebox",
+        "url": "https://open.spotify.com/album/5KeQS5bVHXEMULgEkCgVnC"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174286,
+      "name": "In This Boat",
+      "url": "https://open.spotify.com/track/3m5PhAEgviepFlctq4Qu4V"
     },
     {
       "album": {
@@ -6932,7 +6968,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 161316,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/1MpSEfWC6VCO0WUewjZ1yA"
@@ -6950,7 +6986,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184308,
       "name": "My Future",
       "url": "https://open.spotify.com/track/10mYJRVL9iiVTZFrS51bjY"
@@ -7776,7 +7812,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198278,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/6AJaDD64IxpDR3qntU56Pd"
@@ -10271,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Thread",
+        "url": "https://open.spotify.com/album/6w3UYcK3zc3dAq0vc89WTL"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237392,
+      "name": "Thread",
+      "url": "https://open.spotify.com/track/2PivOCDBzpBQHA0BnIr3hf"
+    },
+    {
+      "album": {
         "name": "Finding Eden",
         "url": "https://open.spotify.com/album/5vEQOxUrKqSL4J736m4cww"
       },
@@ -11216,6 +11270,24 @@
       "duration_ms": 192133,
       "name": "Wild",
       "url": "https://open.spotify.com/track/78X4X4dfwm6q5wCiBsm396"
+    },
+    {
+      "album": {
+        "name": "Wild Hearts",
+        "url": "https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174971,
+      "name": "Wild Hearts",
+      "url": "https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ"
     },
     {
       "album": {

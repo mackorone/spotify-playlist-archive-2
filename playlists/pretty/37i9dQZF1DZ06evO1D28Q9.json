@@ -1,6 +1,6 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 206,
+  "num_followers": 205,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
+        "name": "Em Nome do Vento",
+        "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
       },
       "artists": [
         {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+          "name": "Kivitz",
+          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
+        },
+        {
+          "name": "Dona Kelly ao Cubo",
+          "url": "https://open.spotify.com/artist/25NRP4dtD2mSIwAtuh8apL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 384448,
-      "name": "Da Lama / Afrontamento",
-      "url": "https://open.spotify.com/track/6Zkb1V7bbL5hIR4SEdhmGm"
+      "duration_ms": 273365,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
     },
     {
       "added_at": null,
@@ -239,6 +247,26 @@
       "duration_ms": 272002,
       "name": "NADA PESSOAL",
       "url": "https://open.spotify.com/track/2r5LTidg50c5PBrO1ehkHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 384448,
+      "name": "Da Lama / Afrontamento",
+      "url": "https://open.spotify.com/track/6Zkb1V7bbL5hIR4SEdhmGm"
     },
     {
       "added_at": null,
@@ -287,34 +315,6 @@
       "duration_ms": 239530,
       "name": "Cab\u00f4 - Remix",
       "url": "https://open.spotify.com/track/6G0XvhgmeRjJVZxN2KAiSt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Em Nome do Vento",
-        "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
-      },
-      "artists": [
-        {
-          "name": "Kivitz",
-          "url": "https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL"
-        },
-        {
-          "name": "Dona Kelly ao Cubo",
-          "url": "https://open.spotify.com/artist/25NRP4dtD2mSIwAtuh8apL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 273365,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba"
     },
     {
       "added_at": null,
@@ -430,15 +430,11 @@
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Rodrigo Ogi",
-          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
         }
       ],
-      "duration_ms": 222861,
-      "name": "POR UM FIO",
-      "url": "https://open.spotify.com/track/2N86zDyttkJVK5wJ4J7P7z"
+      "duration_ms": 267630,
+      "name": "PLENITUDE",
+      "url": "https://open.spotify.com/track/26eOlSRp3baVOEsJCcrVNr"
     },
     {
       "added_at": null,
@@ -550,11 +546,15 @@
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Rodrigo Ogi",
+          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
         }
       ],
-      "duration_ms": 267630,
-      "name": "PLENITUDE",
-      "url": "https://open.spotify.com/track/26eOlSRp3baVOEsJCcrVNr"
+      "duration_ms": 222861,
+      "name": "POR UM FIO",
+      "url": "https://open.spotify.com/track/2N86zDyttkJVK5wJ4J7P7z"
     },
     {
       "added_at": null,
@@ -751,30 +751,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coroa de Flores",
-        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
+        "name": "A Mensagem",
+        "url": "https://open.spotify.com/album/5IZnL82jrW1t4GC7CD5Wlh"
       },
       "artists": [
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+          "name": "ManoWill",
+          "url": "https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY"
         },
         {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+          "name": "Dj Novset",
+          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "DJ Luciano Rocha",
+          "url": "https://open.spotify.com/artist/75a6pcxdMuGwaN5VUK3stP"
+        },
+        {
+          "name": "DJ RM Brasil",
+          "url": "https://open.spotify.com/artist/1QlWXPc0qr5UJ2QnhR29j5"
         }
       ],
-      "duration_ms": 258656,
-      "name": "Coroa de Flores",
-      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
+      "duration_ms": 382450,
+      "name": "N\u00f3s Somos Pesados",
+      "url": "https://open.spotify.com/track/3cwrz2YQVXWvN7zhPEUJyN"
     },
     {
       "added_at": null,
@@ -823,38 +831,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mensagem",
-        "url": "https://open.spotify.com/album/5IZnL82jrW1t4GC7CD5Wlh"
+        "name": "Coroa de Flores",
+        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
       },
       "artists": [
-        {
-          "name": "Jam\u00e9s Ventura",
-          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
-        },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "ManoWill",
-          "url": "https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY"
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
         },
         {
-          "name": "Dj Novset",
-          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
         },
         {
-          "name": "DJ Luciano Rocha",
-          "url": "https://open.spotify.com/artist/75a6pcxdMuGwaN5VUK3stP"
-        },
-        {
-          "name": "DJ RM Brasil",
-          "url": "https://open.spotify.com/artist/1QlWXPc0qr5UJ2QnhR29j5"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 382450,
-      "name": "N\u00f3s Somos Pesados",
-      "url": "https://open.spotify.com/track/3cwrz2YQVXWvN7zhPEUJyN"
+      "duration_ms": 258656,
+      "name": "Coroa de Flores",
+      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chato",
+        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 187634,
+      "name": "Chato",
+      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
     },
     {
       "added_at": null,
@@ -875,26 +891,6 @@
       "duration_ms": 219753,
       "name": "Reencontro",
       "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluindo Atrav\u00e9s dos Tempos",
-        "url": "https://open.spotify.com/album/4UUN1sAsRcBJZrphd1c8jZ"
-      },
-      "artists": [
-        {
-          "name": "Cris SNJ",
-          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Bota pra Andar",
-      "url": "https://open.spotify.com/track/35MAJN9iJrYvNATaa9bzp5"
     },
     {
       "added_at": null,
@@ -943,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluindo Atrav\u00e9s dos Tempos",
+        "url": "https://open.spotify.com/album/4UUN1sAsRcBJZrphd1c8jZ"
+      },
+      "artists": [
+        {
+          "name": "Cris SNJ",
+          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Bota pra Andar",
+      "url": "https://open.spotify.com/track/35MAJN9iJrYvNATaa9bzp5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pau-De-D\u00e1-Em-Doido 20 Anos",
         "url": "https://open.spotify.com/album/7jyDqfTi8OFOlXkx6Kc6pe"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 226806,
       "name": "Minha Parte",
       "url": "https://open.spotify.com/track/5YTQuJUHlsXUvclEgCxFVy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chato",
-        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 187634,
-      "name": "Chato",
-      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
     },
     {
       "added_at": null,
@@ -1095,34 +1095,6 @@
       "duration_ms": 140444,
       "name": "Na Atividade (feat. IZA)",
       "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camping das Minas 2.0",
-        "url": "https://open.spotify.com/album/3N4FpTwywyESRY3gs2HNHe"
-      },
-      "artists": [
-        {
-          "name": "Xaolin Records",
-          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Paola Spena",
-          "url": "https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX"
-        },
-        {
-          "name": "Madre Beatz",
-          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
-        }
-      ],
-      "duration_ms": 15450,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0EoMhqqtXrpdhfvaQpGEXZ"
     },
     {
       "added_at": null,
@@ -1248,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 146464,
-      "name": "Sete Chaves",
-      "url": "https://open.spotify.com/track/4tyFClSOVNRlOf0wrQNaBG"
+      "duration_ms": 170065,
+      "name": "Rimas & Melodias",
+      "url": "https://open.spotify.com/track/3DtKHlWMK0sQYaVLe8rkh9"
     }
   ],
   "unique_name": "This Is Stefanie",

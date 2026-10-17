@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: verygently
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,402 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,417 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Eastern Time](https://open.spotify.com/track/6VlOKgkfQQDytXIj8uZUzi) | [Zach Seabaugh](https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2) | [Eastern Time](https://open.spotify.com/album/7219GK59ut1GptItHdsERG) | 3:18 |
 | 100 | [Backwards Again](https://open.spotify.com/track/1QJNFw9hL4AZvU0VqH6t0o) | [Alicia Blue](https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG) | [Backwards Again](https://open.spotify.com/album/3ahBXGdxb38F1N6XXVy8YS) | 3:38 |
 
-Snapshot ID: `AAAAAArCngvNL65IwZCj9y0+GM1J26Br`
+Snapshot ID: `AAAAACeUHax3TLTbAbu7fbiAb5CuGiJf`

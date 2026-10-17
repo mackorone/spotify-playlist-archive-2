@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: Langa (Spotify <a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
-  "num_followers": 333945,
+  "num_followers": 333934,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIy+XdXSrZA9atJGZ0o9NEoKFc5X",
+  "snapshot_id": "AAAAAFydoeHM4F9EomAyeeiEaLeCP+Yi",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:21",
@@ -26,6 +26,10 @@
         {
           "name": "Veertien",
           "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "Bix",
+          "url": "https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn"
         }
       ],
       "duration_ms": 148181,

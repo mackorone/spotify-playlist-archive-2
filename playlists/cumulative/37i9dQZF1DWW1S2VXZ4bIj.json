@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: atom chanakan",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lipta, Na Polycat",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -7045,6 +7045,28 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/362sWcKJr0sfC0zGAaJbtO"
+      },
+      "artists": [
+        {
+          "name": "atom chanakan",
+          "url": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+        },
+        {
+          "name": "Pod",
+          "url": "https://open.spotify.com/artist/0vPvYLoKxrrPgMr4ejU89r"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199799,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d (feat. Pod)",
+      "url": "https://open.spotify.com/track/4a5e7IKljxiQju1kamtexp"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e49\u0e32\u0e41\u0e04\u0e48\u0e42\u0e14\u0e19\u0e17\u0e34\u0e49\u0e07",
         "url": "https://open.spotify.com/album/0tphmBmP9MPznrZ7goOBud"
       },
@@ -9826,7 +9848,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 264960,
       "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ"
@@ -10570,7 +10592,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 230769,
       "name": "\u0e21\u0e31\u0e19\u0e01\u0e47\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e04\u0e48\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/1OGSYElgBhsVzc1SPIVOQY"
@@ -11578,7 +11600,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 235500,
       "name": "\u0e23\u0e49\u0e2d\u0e22\u0e04\u0e19\u0e17\u0e31\u0e01 \u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e01\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5QWsVzpUd3Lnlb1BdvJzsU"
@@ -11916,6 +11938,28 @@
       "duration_ms": 356029,
       "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e04\u0e19\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/7tPOjHOaAkYHy0ki6vI8uA"
+    },
+    {
+      "album": {
+        "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/5fjVFZslA8DLG50CqansB9"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "Na Polycat",
+          "url": "https://open.spotify.com/artist/1CYPqOns66RhMv8T1Cbn2m"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242830,
+      "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0zhGBzopyFieEJy9mZ0TED"
     },
     {
       "album": {
@@ -12366,6 +12410,24 @@
       "duration_ms": 225837,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1a\u0e25\u0e2d\u0e2b\u0e25\u0e31\u0e07\u0e0a\u0e31\u0e14 (Foreground)",
       "url": "https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e21\u0e2d\u0e01 (just u and i)",
+        "url": "https://open.spotify.com/album/1bxrbwh9M9WTyp2071KBKn"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226506,
+      "name": "\u0e2b\u0e21\u0e2d\u0e01 (just u and i)",
+      "url": "https://open.spotify.com/track/1Qhl0FxqskZpvmMy0oqMtJ"
     },
     {
       "album": {
@@ -13202,6 +13264,24 @@
       "duration_ms": 271800,
       "name": "\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e1b\u0e35",
       "url": "https://open.spotify.com/track/6MzhHnoFxlfEvGM7XR80DH"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e01\u0e47\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23 (NO! NO! NO!)",
+        "url": "https://open.spotify.com/album/3WyCXW9qo1BsJPARzTHjwm"
+      },
+      "artists": [
+        {
+          "name": "WAV",
+          "url": "https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229495,
+      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23 (NO! NO! NO!)",
+      "url": "https://open.spotify.com/track/11gPsp6fSdvCyJF6kaDqFj"
     },
     {
       "album": {

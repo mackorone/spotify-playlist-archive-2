@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,724 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,725 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 63 | [That's Fine](https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [I Hope You Don't Remember Me](https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil) | 3:21 |
 | 64 | [Back To You](https://open.spotify.com/track/0fe3svhDknO3X0F2Cy3KXP) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Back To You](https://open.spotify.com/album/6OVeXNQHYeRWkRtnEcm9EC) | 3:14 |
 | 65 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
-| 66 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 |
-| 67 | [Watermarks](https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Watermarks](https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc) | 3:11 |
+| 66 | [Watermarks](https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Watermarks](https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc) | 3:11 |
+| 67 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 |
 | 68 | [Centre of Peace](https://open.spotify.com/track/0eXpyRulLKEvTJybiU0nQu) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Centre of Peace](https://open.spotify.com/album/2WUEljT1AkJBw75JJrxoz5) | 3:39 |
 | 69 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
 | 70 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 79 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 80 | [Dive In](https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 3:15 |
 
-Snapshot ID: `AAAAAOjCg9dr4CGDDyDmzmFy6aogCfyZ`
+Snapshot ID: `AAAAAMRKZjyy+2V15wEbTum2pPk6G+K9`

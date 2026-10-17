@@ -1,6 +1,6 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19952,
+  "num_followers": 19951,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "as7GAAAAAAAue68YGaGW77ik+mlKaRFp",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "What The Elephant Told",
-        "url": "https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 588221,
-      "name": "Ndoto za Tembo",
-      "url": "https://open.spotify.com/track/3hXD5G7qGg6IA86NtNrbsg"
-    },
     {
       "added_at": null,
       "album": {
@@ -779,6 +763,22 @@
       "duration_ms": 305226,
       "name": "Celestial Meadows",
       "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What The Elephant Told",
+        "url": "https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 588221,
+      "name": "Ndoto za Tembo",
+      "url": "https://open.spotify.com/track/3hXD5G7qGg6IA86NtNrbsg"
     },
     {
       "added_at": null,

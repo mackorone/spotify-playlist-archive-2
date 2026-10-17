@@ -2,9 +2,9 @@
 
 ### [Indie's Top 50](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> A delicious mix of new songs in high rotation\. Cover: girl in red
+> A delicious mix of new songs in high rotation\. Cover: Remi Wolf
 
-3,184 songs - 8 day 0 hr 18 min
+3,187 songs - 8 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,7 @@
 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 | 2025-05-23 | 2025-09-27 |
 | [Catholic Country](https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:01 | 2021-06-22 | 2021-07-20 |
 | [Catholic Priest \- Live](https://open.spotify.com/track/1bibYQtOlKNPqk3oA8HGP3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [And The Wind \(Live and Loose!\)](https://open.spotify.com/album/269ipbHgbvO1kxtwhwY3XR) | 3:31 | 2023-11-21 | 2023-12-11 |
-| [Caught In A Jam](https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Caught In A Jam](https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X) | 4:13 | 2026-07-13 |  |
+| [Caught In A Jam](https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Caught In A Jam](https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X) | 4:13 | 2026-07-13 | 2026-10-17 |
 | [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-13 | 2022-04-20 |
 | [CD\-R \(unerthed\)](https://open.spotify.com/track/198XF5XB1Jd8fEUDkmlOI6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CD\-R \(unerthed\)](https://open.spotify.com/album/6LNZOeVIL4P3wPrXrZdrHm) | 2:54 | 2025-08-29 | 2025-09-12 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-06 | 2023-04-22 |
@@ -531,6 +531,7 @@
 | [Champ](https://open.spotify.com/track/1IpVsKpbAo3jqPlxj1GUtz) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Champ](https://open.spotify.com/album/6xXDeJXNDUSWzNTNNXqp61) | 2:58 | 2024-12-17 | 2025-03-08 |
 | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/album/53Ss7QGhX8hDfymNXdSRtd) | 3:49 | 2023-04-21 | 2023-07-01 |
 | [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-11-01 | 2025-02-08 |
+| [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 | 2026-10-16 |  |
 | [Champion](https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Champion](https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX) | 4:39 | 2022-02-04 | 2022-04-03 |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2021-10-14 | 2022-03-07 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-30 | 2022-09-03 |
@@ -1699,6 +1700,7 @@
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2025-01-03 | 2025-05-10 |
 | [Love On The Run](https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Love On The Run](https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g) | 7:03 | 2022-10-11 | 2022-10-14 |
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-11-04 | 2023-01-06 |
+| [Love Song](https://open.spotify.com/track/7ndSNIaJ4J0TIJE5iuMHRx) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Love Song](https://open.spotify.com/album/68IlKZOW8CEdcembmdNuHX) | 10:04 | 2026-10-16 |  |
 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-06-13 | 2025-08-30 |
 | [Love Will Get You There](https://open.spotify.com/track/4ycaDB5s90BpUyaS5nZwcI) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:10 | 2023-02-24 | 2023-04-29 |
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2019-12-13 | 2020-05-15 |
@@ -2766,7 +2768,7 @@
 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2023-01-06 | 2023-05-12 |
 | [The Princess and the Clock](https://open.spotify.com/track/0awsB9ACtbWMxhgNVx6GRW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [The Princess and the Clock](https://open.spotify.com/album/6qSZk7WnfIunKMAxo3RngF) | 3:49 | 2021-04-30 | 2021-10-16 |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-28 | 2025-06-14 |
-| [The Reason](https://open.spotify.com/track/0zyMLOsWbWQmeq9PIIKiFk) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 6:57 | 2026-07-27 |  |
+| [The Reason](https://open.spotify.com/track/0zyMLOsWbWQmeq9PIIKiFk) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 6:57 | 2026-07-27 | 2026-10-17 |
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-10-25 | 2025-01-16 |
 | [The River](https://open.spotify.com/track/0ZSNmNgMmYT7o9cn57MESt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [The River](https://open.spotify.com/album/4ACrGzTgs016EkxPHMIGfQ) | 3:52 | 2020-03-06 | 2020-10-13 |
 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 | 2022-07-15 | 2022-08-05 |
@@ -2895,7 +2897,7 @@
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-19 | 2025-12-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-08-23 |
 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 | 2020-05-15 | 2020-09-04 |
-| [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 | 2026-10-02 |  |
+| [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 | 2026-10-02 | 2026-10-17 |
 | [Triumph](https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 4:13 | 2023-06-02 | 2023-07-01 |
 | [Trophy](https://open.spotify.com/track/4zBc604ytzPmwin9VbsvUd) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Trophy](https://open.spotify.com/album/1EYaUyZIpJVEVvmJKQ5b6n) | 3:12 | 2021-04-20 | 2022-04-05 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-01-20 | 2023-04-12 |
@@ -3113,6 +3115,7 @@
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2021-12-02 | 2022-03-27 |
 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 | 2025-08-29 | 2025-09-27 |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-09-16 | 2022-10-18 |
+| [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 | 2026-10-16 |  |
 | [Wishes](https://open.spotify.com/track/14sIaxlKp5Cc6Il2JqhqbJ) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wishes](https://open.spotify.com/album/2BHWtA0G23y3NmCtO2bQCd) | 3:52 | 2024-08-02 | 2024-10-11 |
 | [Witching Hour](https://open.spotify.com/track/45sbqogvDC5RYRyIw84mgY) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Witching Hour](https://open.spotify.com/album/5S2NITOvsKgmkOP4RYEzkm) | 3:13 | 2020-03-21 | 2020-06-12 |
 | [Without You](https://open.spotify.com/track/2SPxgEush9C8GS5RqgXdqi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr) | 2:35 | 2020-06-12 | 2021-04-20 |

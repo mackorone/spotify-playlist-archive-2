@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513337,
+  "num_followers": 513331,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFom0hERPpLo8liDifIZbAmHjJVI",
+  "snapshot_id": "AAAAAMD/qWJtGUVerCSJ6cBVpArovcmJ",
   "tracks": [
     {
       "added_at": "2025-08-07 16:57:48",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Trumpet Evolution",
+        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Manteca",
+      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Mango",
         "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 221954,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Trumpet Evolution",
-        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Trane's Delight",
         "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 353320,
       "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
       "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 193342,
       "name": "Conga a la Americana",
       "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "City of Dreams",
+        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
+      },
+      "artists": [
+        {
+          "name": "Chico Pinheiro",
+          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Estrada Real",
+      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 267245,
       "name": "Brazilian Love Affair",
       "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "El Suelo Mio",
-        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "El Suelo Mio",
-      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "City of Dreams",
-        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
+        "name": "El Suelo Mio",
+        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
       },
       "artists": [
         {
-          "name": "Chico Pinheiro",
-          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
         }
       ],
-      "duration_ms": 253013,
-      "name": "Estrada Real",
-      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
+      "duration_ms": 209760,
+      "name": "El Suelo Mio",
+      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
+      },
+      "artists": [
+        {
+          "name": "Ray Mantilla",
+          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Martinez",
+      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Te Escucho",
         "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
-      },
-      "artists": [
-        {
-          "name": "Ray Mantilla",
-          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Martinez",
-      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Bruma: Celebrating Milton Nascimento",
+        "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
+      },
+      "artists": [
+        {
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        }
+      ],
+      "duration_ms": 328560,
+      "name": "Encontros E Despedidas",
+      "url": "https://open.spotify.com/track/1fFSzpBvEwJ8G9lbyMlGlZ"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Raise up off Me",
         "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 354049,
       "name": "Blue Hughes",
       "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Bruma: Celebrating Milton Nascimento",
-        "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
-      },
-      "artists": [
-        {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
-        }
-      ],
-      "duration_ms": 328560,
-      "name": "Encontros E Despedidas",
-      "url": "https://open.spotify.com/track/1fFSzpBvEwJ8G9lbyMlGlZ"
     },
     {
       "added_at": "2025-08-07 16:57:48",

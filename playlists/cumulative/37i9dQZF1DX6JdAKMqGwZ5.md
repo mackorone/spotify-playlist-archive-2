@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Anni B Sweet.
 
-987 songs - 2 day 2 hr 42 min
+987 songs - 2 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [en círculos](https://open.spotify.com/track/49SrFVuF9pL74zbCQRBNww) | [Maifrén](https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI) | [en círculos](https://open.spotify.com/album/78RJjLXJSj0E5dRFfEbgwf) | 3:08 | 2026-04-02 | 2026-07-24 |
 | [En la oscuridad](https://open.spotify.com/track/0XQX6llWiz7O3Yre6Nw5W1) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN) | [En la oscuridad](https://open.spotify.com/album/7gv9PWoc61YLQOi2HbLUxy) | 3:23 | 2025-12-11 | 2026-01-15 |
 | [En memoria de las cicatrices](https://open.spotify.com/track/5lP1pNkWObsnmBsRY7qT1W) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [En memoria de las cicatrices](https://open.spotify.com/album/6yELhK7UiNQWI4oKrCclva) | 2:48 | 2024-07-25 | 2024-08-23 |
+| [En mi olvido](https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV) | [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Alegría](https://open.spotify.com/album/5OMOHQHGLrJAUEXHxL5LNa) | 5:16 | 2026-10-15 |  |
 | [En ningún lugar](https://open.spotify.com/track/4uC6KYP2VNQTMylNT0QFLF) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [GRAVY](https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [AMYNATA](https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg) | [La Casa House](https://open.spotify.com/album/1e9qOWj1WzFJzmEzNWgvzN) | 2:58 | 2026-10-08 |  |
 | [en vd nose si todo sto te importa](https://open.spotify.com/track/1PCuam9Qriz6pali3F42Dz) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [en vd nose si todo sto te importa](https://open.spotify.com/album/6eydbQsYTLrlUkwFOMQbPi) | 2:00 | 2025-11-06 | 2026-07-31 |
 | [Enamorada/Borracha](https://open.spotify.com/track/19e8wnUiAMOgEBzx7vlR4m) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Enamorada/Borracha](https://open.spotify.com/album/1VStzq3uPnaiBPCDzJbW7C) | 2:58 | 2026-09-24 |  |
@@ -454,6 +455,7 @@
 | [La Eternidad](https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [La Eternidad](https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr) | 3:45 | 2025-02-27 | 2025-04-25 |
 | [La ficción](https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR) | [Verde Prato](https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi) | [El final](https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD) | 3:18 | 2026-04-09 | 2026-04-24 |
 | [La Grieta \(Una casa\)](https://open.spotify.com/track/7yZ3xzcjqS5QVPesRuvvLO) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [La Grieta \(Una casa\)](https://open.spotify.com/album/5M92w58lKs9bKRfK9barPE) | 3:28 | 2025-08-28 | 2025-10-03 |
+| [La Húngara](https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk) | [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [Por Los Signos](https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw) | 2:28 | 2026-10-15 |  |
 | [LA LATINA](https://open.spotify.com/track/5N8rFZXLvkCduiLX7qw7Y0) | [Lao Ra](https://open.spotify.com/artist/5GDuUaYx3PW3Wa64KxAAAO) | [LA LATINA](https://open.spotify.com/album/2nfw9FpVyatXjaoVx9JJb6) | 2:47 | 2025-08-07 | 2025-10-17 |
 | [La ley de Murphy](https://open.spotify.com/track/26lCYSf4tymoo8zXx0ZFCV) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Retales III](https://open.spotify.com/album/7ybbUW1vBJfbr06fV5wVf6) | 2:20 | 2026-05-21 | 2026-05-29 |
 | [La Ley del Pobre](https://open.spotify.com/track/7x14AaXr4xkTGqoIpGWadT) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Los Perros no Entienden Internet \(…Y Yo no Entiendo de Sentimientos\)](https://open.spotify.com/album/54ioPa0kudt4A9VPR0K3a2) | 2:52 | 2025-10-23 |  |
@@ -898,8 +900,6 @@
 | [Tormenta de Verano](https://open.spotify.com/track/2VxJ25Mth6Sgo1s8gJJmcL) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [Tormenta de Verano](https://open.spotify.com/album/7xOmZtxBm956kqWkq5IkR9) | 2:14 | 2026-05-21 |  |
 | [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 | 2026-07-02 | 2026-07-10 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
-| [Track 11](https://open.spotify.com/track/0egUjt9C8QoSazBu2r2qCV) | [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw) | [Alegría](https://open.spotify.com/album/5OMOHQHGLrJAUEXHxL5LNa) | 0:00 | 2026-10-15 |  |
-| [Track 3](https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk) | [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [Por Los Signos](https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw) | 0:00 | 2026-10-15 |  |
 | [TRAGEDIA](https://open.spotify.com/track/1FnRaQDk3s7RkWBXKmnuLv) | [Marta Sango](https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv) | [TRAGEDIA](https://open.spotify.com/album/6zTRAEX6goxJb5wXBqoSLO) | 2:30 | 2026-07-09 | 2026-07-17 |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [TRIQUITRÁ](https://open.spotify.com/track/7E7xOpun0BhYe0fl6v1nzL) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [TRIQUITRÁ](https://open.spotify.com/album/4fyA6fEJoPKHHfb0CoRtaa) | 2:06 | 2026-10-08 |  |

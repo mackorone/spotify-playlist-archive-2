@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of yesteryear.",
-  "num_followers": 2820804,
+  "num_followers": 2820863,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF0yNcID2haCqobcsSyBg3zXOdiZ",
+  "snapshot_id": "AAAAAKhNwOxXasIAkL7jbuwl1t+2/oh2",
   "tracks": [
     {
       "added_at": "2026-04-13 20:12:01",
@@ -75,18 +75,22 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 290320,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+      "duration_ms": 242293,
+      "name": "Promiscuous",
+      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -107,22 +111,18 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 242293,
-      "name": "Promiscuous",
-      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "The Predator",
-        "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "It Was A Good Day",
-      "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 203786,
       "name": "1, 2 Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+        "name": "Grand Champ",
+        "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+      "duration_ms": 286266,
+      "name": "Where The Hood At",
+      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1571,22 +1587,6 @@
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
-        "name": "Grand Champ",
-        "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "Where The Hood At",
-      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
     },
     {
       "added_at": "2026-04-13 20:12:01",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-04-13 20:12:01",
       "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
-    },
-    {
-      "added_at": "2026-04-13 20:12:01",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 192440,
       "name": "Tambourine",
       "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
+    },
+    {
+      "added_at": "2026-04-13 20:12:01",
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
     },
     {
       "added_at": "2026-04-13 20:12:01",

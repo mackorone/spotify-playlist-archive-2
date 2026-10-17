@@ -384,7 +384,7 @@
 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-09-01 |  |
 | [Yire \(Fanfooler\)](https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:30 | 2026-05-15 | 2026-06-12 |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-07 |
-| [Your Body \(Craze\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Craze\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 | 2026-10-16 |  |
+| [Your Body \(Crazy\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Crazy\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 | 2026-10-16 |  |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 | 2024-03-05 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 75 | [From the Wreckage Build a Home](https://open.spotify.com/track/4nfJaz7eFYR82rWumtPutG) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 3:33 |
 | 76 | [Terrified](https://open.spotify.com/track/5uB9SvKVs8Ii0UVAATw2Ga) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Terrified](https://open.spotify.com/album/3AG9nQqOW90mcdscav6TpP) | 3:03 |
 
-Snapshot ID: `AAAAAMXTM1aJbzDNWtCw3yZJ72qnjG4l`
+Snapshot ID: `AAAAADHMVcbAdAAI7YOX29IDHuHhTWe2`

@@ -711,6 +711,32 @@
     },
     {
       "album": {
+        "name": "Piks.",
+        "url": "https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "Serious Klein",
+          "url": "https://open.spotify.com/artist/118HlFjDgUCku033j3YD81"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "black entertaiNMENT (feat. Serious Klein)",
+      "url": "https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6"
+    },
+    {
+      "album": {
         "name": "Here Because of Hope",
         "url": "https://open.spotify.com/album/0NEwrQMxZ58mkPhblB8SeH"
       },
@@ -1250,7 +1276,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 333095,
       "name": "Crossfade",
       "url": "https://open.spotify.com/track/7f1qQ6bzCWSh3hiaeVRyHK"
@@ -4507,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Narcotica",
+        "url": "https://open.spotify.com/album/3BDT2NEqBmvqTPi3AFEMuU"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Narcotica",
+      "url": "https://open.spotify.com/track/3xoZfRajtcVV9ClP8ZoGC5"
+    },
+    {
+      "album": {
         "name": "Lovers Comet",
         "url": "https://open.spotify.com/album/7FGJghCQlNwAzgZMuPCPam"
       },
@@ -4518,7 +4562,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 200600,
       "name": "Narcotica",
       "url": "https://open.spotify.com/track/7BVcqbLgIqr0RiD5iwQ0ek"

@@ -1,33 +1,13 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udd4a\ufe0f featuring Alison Wonderland & WINK ",
-  "num_followers": 844365,
+  "num_followers": 844347,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqqF80gUEzJu0UaIie8T4aId7t/",
+  "snapshot_id": "AAAAADQF6vYR5oJ47aUr1Tbkf2KLaib6",
   "tracks": [
-    {
-      "added_at": "2026-10-02 04:02:53",
-      "album": {
-        "name": "RESCUE U",
-        "url": "https://open.spotify.com/album/547CCEN33skiHwwMobdVZo"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "WINK",
-          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "RESCUE U",
-      "url": "https://open.spotify.com/track/3jDXVV12qJ0sZB3Ixp3srB"
-    },
     {
       "added_at": "2026-09-04 04:01:55",
       "album": {
@@ -49,20 +29,40 @@
       "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
     },
     {
-      "added_at": "2026-10-09 04:01:57",
+      "added_at": "2026-10-02 04:02:53",
       "album": {
-        "name": "TRUE LOVE IN A MADE UP WORLD (DELUXE \u2191%)",
-        "url": "https://open.spotify.com/album/3WC48mkBtcxzdRsYnx3fJq"
+        "name": "RESCUE U",
+        "url": "https://open.spotify.com/album/547CCEN33skiHwwMobdVZo"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
         }
       ],
-      "duration_ms": 162332,
-      "name": "YOU, You, you",
-      "url": "https://open.spotify.com/track/4qcms70xoJ8Zq8nkQrsXFP"
+      "duration_ms": 175448,
+      "name": "RESCUE U",
+      "url": "https://open.spotify.com/track/3jDXVV12qJ0sZB3Ixp3srB"
+    },
+    {
+      "added_at": "2026-10-16 04:01:58",
+      "album": {
+        "name": "want you (if you want me)",
+        "url": "https://open.spotify.com/album/7CAU87QeZgIjm0D8ezezjK"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "duration_ms": 194030,
+      "name": "want you (if you want me)",
+      "url": "https://open.spotify.com/track/1GKyj57DLCUZWQxDibeilO"
     },
     {
       "added_at": "2026-05-01 04:02:39",
@@ -117,24 +117,24 @@
       "url": "https://open.spotify.com/track/3XrIj5nsy511h8TDxnpI84"
     },
     {
-      "added_at": "2026-10-09 04:01:57",
+      "added_at": "2026-10-16 04:01:58",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0jC9oNGXneaKNKG25RwJiz"
+        "name": "Where Have I Been",
+        "url": "https://open.spotify.com/album/6vT9IPmxMJ7FHvRQOdmxhE"
       },
       "artists": [
         {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
         },
         {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+          "name": "Liv Grace Blue",
+          "url": "https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl"
         }
       ],
-      "duration_ms": 105529,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/2rZTC37sROpuUvMM3oEZKr"
+      "duration_ms": 211007,
+      "name": "Where Have I Been",
+      "url": "https://open.spotify.com/track/6SLsBCEQaTCZ8MBgpWWPc0"
     },
     {
       "added_at": "2026-09-25 04:02:54",
@@ -157,6 +157,62 @@
       "url": "https://open.spotify.com/track/0ELmB2r0C0iusi6b0zJH7s"
     },
     {
+      "added_at": "2026-10-09 04:01:57",
+      "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD (DELUXE \u2191%)",
+        "url": "https://open.spotify.com/album/3WC48mkBtcxzdRsYnx3fJq"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "YOU, You, you",
+      "url": "https://open.spotify.com/track/4qcms70xoJ8Zq8nkQrsXFP"
+    },
+    {
+      "added_at": "2026-10-09 04:01:57",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0jC9oNGXneaKNKG25RwJiz"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        },
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        }
+      ],
+      "duration_ms": 105529,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/2rZTC37sROpuUvMM3oEZKr"
+    },
+    {
+      "added_at": "2026-10-16 04:01:58",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/6N52uQkEp8b7m4V86ZaLrq"
+      },
+      "artists": [
+        {
+          "name": "zero point",
+          "url": "https://open.spotify.com/artist/01FrY7ADQlorpdhqH1j7qr"
+        },
+        {
+          "name": "Nyrus",
+          "url": "https://open.spotify.com/artist/4K129VU520mAbin25QcKfH"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/0K6BjzzhUqBmOvHvxqpRpG"
+    },
+    {
       "added_at": "2026-09-25 04:02:54",
       "album": {
         "name": "Indian Summer (San Holo Remix)",
@@ -175,6 +231,30 @@
       "duration_ms": 212024,
       "name": "Indian Summer (San Holo Remix)",
       "url": "https://open.spotify.com/track/5vbQ7NAm2AjOa1e8PXiwLO"
+    },
+    {
+      "added_at": "2026-10-16 04:01:58",
+      "album": {
+        "name": "wellplayed (feat. Allegra Miles)",
+        "url": "https://open.spotify.com/album/4Rs10ZDztL3fxehEoEKZI5"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        },
+        {
+          "name": "Conrad.",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        },
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "duration_ms": 173324,
+      "name": "wellplayed (feat. Allegra Miles)",
+      "url": "https://open.spotify.com/track/0rGJQ4fFoxfhBFFcG3jIPb"
     },
     {
       "added_at": "2026-08-28 16:14:58",
@@ -217,6 +297,22 @@
       "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
     },
     {
+      "added_at": "2026-10-16 04:01:58",
+      "album": {
+        "name": "NOTHING'S FAKE",
+        "url": "https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "Fake or true",
+      "url": "https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"
+    },
+    {
       "added_at": "2026-09-18 14:58:12",
       "album": {
         "name": "LOST DISC",
@@ -253,6 +349,26 @@
       "url": "https://open.spotify.com/track/2Pp6YIeEgQVn3XWutDptxU"
     },
     {
+      "added_at": "2026-10-16 04:01:58",
+      "album": {
+        "name": "Only one",
+        "url": "https://open.spotify.com/album/3p81u2wL3Bl7hoNDRvexSy"
+      },
+      "artists": [
+        {
+          "name": "phritz",
+          "url": "https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt"
+        },
+        {
+          "name": "Jukaa",
+          "url": "https://open.spotify.com/artist/0htf47H48mOHETJeWErDUb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Only one",
+      "url": "https://open.spotify.com/track/2UbOssp0YwkiL73JTAJUd4"
+    },
+    {
       "added_at": "2026-10-02 04:02:53",
       "album": {
         "name": "Talk Is Boring",
@@ -271,6 +387,22 @@
       "duration_ms": 179076,
       "name": "Talk Is Boring",
       "url": "https://open.spotify.com/track/7ml5FWDyEkYjiqFkyn7rhn"
+    },
+    {
+      "added_at": "2026-10-16 04:01:58",
+      "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/2bYbFsfmAg6jrxapfAHjeg"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/0G24L0HnxskslJ0luwE6eJ"
     },
     {
       "added_at": "2026-09-25 04:02:54",
@@ -801,46 +933,6 @@
       "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
     },
     {
-      "added_at": "2026-07-31 04:02:28",
-      "album": {
-        "name": "STAR CEILING",
-        "url": "https://open.spotify.com/album/4Re9Hd2rxTMia3AqzgLvhq"
-      },
-      "artists": [
-        {
-          "name": "Caden Jester",
-          "url": "https://open.spotify.com/artist/5EItlcqDuWBook5YJM5NZS"
-        },
-        {
-          "name": "REVEAL",
-          "url": "https://open.spotify.com/artist/26aqV0vefRI5u7UTrgLWNl"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "STAR CEILING",
-      "url": "https://open.spotify.com/track/5GR6bwFexHUIs1sXS1gH3b"
-    },
-    {
-      "added_at": "2026-08-28 16:14:58",
-      "album": {
-        "name": "Bust Up The Set",
-        "url": "https://open.spotify.com/album/5fq3Q6ufiBCdDfUaUaKDL4"
-      },
-      "artists": [
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        },
-        {
-          "name": "Walschlager",
-          "url": "https://open.spotify.com/artist/1nMJGPElEBgfBPnrRV2WgW"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Bust Up The Set",
-      "url": "https://open.spotify.com/track/5lFJSn14SKP1TLZTfadAsT"
-    },
-    {
       "added_at": "2026-08-07 04:02:24",
       "album": {
         "name": "Bad Habit",
@@ -929,26 +1021,6 @@
       "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
     },
     {
-      "added_at": "2026-08-14 04:01:52",
-      "album": {
-        "name": "Buggy",
-        "url": "https://open.spotify.com/album/53B8ocyJ41mCNK2uksThG3"
-      },
-      "artists": [
-        {
-          "name": "Alowski",
-          "url": "https://open.spotify.com/artist/6wj7QVsLRWPvyD2fGsTKHp"
-        },
-        {
-          "name": "Redstain",
-          "url": "https://open.spotify.com/artist/1OtzdqtxsQqVFl3gM5JYDq"
-        }
-      ],
-      "duration_ms": 155492,
-      "name": "Buggy",
-      "url": "https://open.spotify.com/track/5HzP8YYL1893UOmIrrD6FV"
-    },
-    {
       "added_at": "2026-08-21 15:18:15",
       "album": {
         "name": "Want U",
@@ -1003,26 +1075,6 @@
       "duration_ms": 257926,
       "name": "PUNCH",
       "url": "https://open.spotify.com/track/7gZss68Fd1NkvrQ1EfuJED"
-    },
-    {
-      "added_at": "2026-08-14 04:01:52",
-      "album": {
-        "name": "CLENCH MY FIST",
-        "url": "https://open.spotify.com/album/7alHgHTFZwwGuk9HUrF6Ux"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "CLENCH MY FIST",
-      "url": "https://open.spotify.com/track/620nKA2eC0ItixHC1pGHBA"
     },
     {
       "added_at": "2026-07-31 04:02:28",
@@ -1131,22 +1183,6 @@
       "duration_ms": 168000,
       "name": "NEEDU2NEEDME",
       "url": "https://open.spotify.com/track/5qtU96Z2JVHIvU0fLMiNE3"
-    },
-    {
-      "added_at": "2026-08-07 04:02:24",
-      "album": {
-        "name": "afterglow** / Elisa Liu",
-        "url": "https://open.spotify.com/album/3bXwrjK4MsVXitM1Dg2okU"
-      },
-      "artists": [
-        {
-          "name": "VILLA",
-          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "afterglow**",
-      "url": "https://open.spotify.com/track/5pfrO9fsIxKF1XxX3D1Pqx"
     },
     {
       "added_at": "2026-06-19 04:02:07",
@@ -1497,22 +1533,6 @@
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
-      "added_at": "2026-06-19 04:02:07",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/3L1qw1vC678qVksOV7E2l6"
-      },
-      "artists": [
-        {
-          "name": "Yellowtael",
-          "url": "https://open.spotify.com/artist/1ZWPMZCohbM9qkAopMRZGJ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2S6Wk5R4wMNSl7FEo2aoTX"
-    },
-    {
       "added_at": "2026-05-15 19:29:36",
       "album": {
         "name": "Blame It",
@@ -1579,22 +1599,6 @@
       "duration_ms": 154167,
       "name": "frog",
       "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
     },
     {
       "added_at": "2026-04-24 04:02:20",

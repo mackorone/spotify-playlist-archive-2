@@ -3567,6 +3567,28 @@
     },
     {
       "album": {
+        "name": "La d\u00e9rive des r\u00eaves",
+        "url": "https://open.spotify.com/album/1jvEpZw1bERUn4Axxzq8jV"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        },
+        {
+          "name": "Salom\u00e9 Leclerc",
+          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218520,
+      "name": "Haricots rouges",
+      "url": "https://open.spotify.com/track/2gN3My6bhpndAvmqz0l4uC"
+    },
+    {
+      "album": {
         "name": "Haut les coeurs",
         "url": "https://open.spotify.com/album/4m7NTsvQteb5DMFTWBD5I6"
       },
@@ -5747,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "Le mauvais temps",
+        "url": "https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Le mauvais temps",
+      "url": "https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a"
+    },
+    {
+      "album": {
         "name": "Le monde est fou",
         "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
       },
@@ -6012,6 +6052,24 @@
       "duration_ms": 143055,
       "name": "Le stade",
       "url": "https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H"
+    },
+    {
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/22h3LpO9FAe3xWtZBfiPHo"
+      },
+      "artists": [
+        {
+          "name": "Vinni Payne",
+          "url": "https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5bj7q3xvnZr8H7wQTdAXLa"
     },
     {
       "album": {
@@ -6318,7 +6376,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 203506,
       "name": "Les yeux couleur bois",
       "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
@@ -6748,6 +6806,24 @@
       "duration_ms": 167506,
       "name": "Mauvais temps",
       "url": "https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA"
+    },
+    {
+      "album": {
+        "name": "Reflexiones",
+        "url": "https://open.spotify.com/album/2oxeurp6jOwxCXGlNhTmeA"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Me doy cuenta",
+      "url": "https://open.spotify.com/track/6TWVvpKrhxDsTV9jrQaZXy"
     },
     {
       "album": {
@@ -7506,7 +7582,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177352,
       "name": "NUAGE",
       "url": "https://open.spotify.com/track/6yN9q9UxCUR7piYoOC2wZA"
@@ -9056,7 +9132,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213798,
       "name": "Rinque de m\u00eame que c'est",
       "url": "https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU"
@@ -9424,7 +9500,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 203005,
       "name": "SANS TOi",
       "url": "https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7"

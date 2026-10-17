@@ -1,12 +1,12 @@
 {
   "description": "Everlasting indie hits, ft Clairo & Charli XCX",
-  "num_followers": 1032588,
+  "num_followers": 1032606,
   "original_name": "Indie Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKBK/aaIIUAnO5Cb+wqL5DxhCSxo",
+  "snapshot_id": "AAAAAD3fGKcjqLn82azttObciXaIyXOp",
   "tracks": [
     {
       "added_at": "2025-03-29 00:22:52",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-02-01 17:41:19",
       "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
-    },
-    {
-      "added_at": "2024-02-01 17:41:19",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2024-02-01 17:41:19",
+      "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2024-02-01 17:41:19",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-01 17:41:19",
       "album": {
-        "name": "Coastal Grooves",
-        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Champagne Coast",
-      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
-    },
-    {
-      "added_at": "2024-02-01 17:41:19",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 202192,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
+    },
+    {
+      "added_at": "2024-02-01 17:41:19",
+      "album": {
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
     },
     {
       "added_at": "2024-02-01 17:41:19",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-01 17:41:19",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
-    },
-    {
-      "added_at": "2024-02-01 17:41:19",
-      "album": {
         "name": "Kid A",
         "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 251426,
       "name": "Everything In Its Right Place",
       "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8"
+    },
+    {
+      "added_at": "2024-02-01 17:41:19",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
     },
     {
       "added_at": "2024-02-01 17:41:19",

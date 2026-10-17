@@ -1,12 +1,12 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
-  "num_followers": 1310309,
+  "num_followers": 1310500,
   "original_name": "Classic Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGurEWcEhv8NLL1AxcQ6JG4QcPBz",
+  "snapshot_id": "AAAAAJWM5It5HVuXfG3sejzFyeHJKcEp",
   "tracks": [
     {
       "added_at": "2021-03-02 18:13:49",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 279640,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261495,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 269712,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261495,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
-      "added_at": "2024-03-26 13:19:07",
-      "album": {
-        "name": "Double Platinum",
-        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
-    },
-    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Rumours (Super Deluxe)",
@@ -1399,6 +1383,22 @@
       "duration_ms": 195306,
       "name": "China Grove",
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
+    },
+    {
+      "added_at": "2024-03-26 13:19:07",
+      "album": {
+        "name": "Double Platinum",
+        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1657,22 +1657,6 @@
       "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
     },
     {
-      "added_at": "2022-04-08 19:07:59",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 261385,
-      "name": "Smokin'",
-      "url": "https://open.spotify.com/track/5u5qlnyVaewWugJIjzilIc"
-    },
-    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "The Wall",
@@ -1689,6 +1673,22 @@
       "url": "https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo"
     },
     {
+      "added_at": "2022-04-08 19:07:59",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 261385,
+      "name": "Smokin'",
+      "url": "https://open.spotify.com/track/5u5qlnyVaewWugJIjzilIc"
+    },
+    {
       "added_at": "2022-06-08 19:19:44",
       "album": {
         "name": "Rush",
@@ -1703,22 +1703,6 @@
       "duration_ms": 429973,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Pearl (Legacy Edition)",
         "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
@@ -1783,22 +1783,6 @@
       "duration_ms": 202200,
       "name": "Fly By Night",
       "url": "https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
       },
@@ -1863,26 +1863,6 @@
       "duration_ms": 243280,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2022-06-08 19:19:44",
@@ -1915,6 +1895,26 @@
       "duration_ms": 265067,
       "name": "Casey Jones - 2013 Remaster",
       "url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
         "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 279893,
       "name": "Hold On Loosely",
       "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296493,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Best of The Doobies",
         "url": "https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 258613,
       "name": "Black Water - Single Version",
       "url": "https://open.spotify.com/track/3x1v32I3SZNvC7q7bDhcGm"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Blizzard of Ozz (Expanded Edition)",
         "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 258026,
       "name": "Sharp Dressed Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "Livin' On A Prayer",
-      "url": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
     }
   ],
   "unique_name": "Classic Rock Drive",

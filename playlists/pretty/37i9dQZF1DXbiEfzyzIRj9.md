@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Jacques Greene \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,067 likes - 111 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,080 likes - 111 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 31 | [It's Time](https://open.spotify.com/track/7DG8JNiVFcBj5cxBw1fUjR) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Are You Still You?](https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN) | 3:02 |
 | 32 | [Someone Like You](https://open.spotify.com/track/34kzZyRcTKCDql0or0qKLS) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Someone Like You](https://open.spotify.com/album/6Vj4KgGZt2w18VE5AXKwb4) | 5:27 |
 | 33 | [KICK IT OUT \-Risa Taniguchi remix](https://open.spotify.com/track/2WSASb74LgzZBGKIoMjY2d) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [KICK IT OUT \-Risa Taniguchi remix](https://open.spotify.com/album/2u9bMrmqtJcYmEyG3PRqdW) | 5:43 |
-| 34 | [Lock Off](https://open.spotify.com/track/4mlIb7yCPMoYcqNreirfPB) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [Lock Off](https://open.spotify.com/album/26l6Jkp5eDrblVQ7T1I8F8) | 2:40 |
+| 34 | [LOCK OFF](https://open.spotify.com/track/4mlIb7yCPMoYcqNreirfPB) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [LOCK OFF](https://open.spotify.com/album/26l6Jkp5eDrblVQ7T1I8F8) | 2:40 |
 | 35 | [Coldsnap](https://open.spotify.com/track/199P5dDDI9ADK8vXH3nF8M) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw), [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Coldsnap](https://open.spotify.com/album/1DiBA1gqEZoumkDzzBBepA) | 4:15 |
 | 36 | [ONE](https://open.spotify.com/track/2ujLUEPE9OqzjfV23UI5wB) | [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [4 TRACKS TO MAKE YOU HOT](https://open.spotify.com/album/6isDICNqZTO2bBkpIxDK36) | 3:17 |
 | 37 | [Today](https://open.spotify.com/track/0E7dPlV79iZOFJDB077rCG) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Today](https://open.spotify.com/album/6ANEFyJt1MhW1uQSKhXZCV) | 4:32 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 110 | [G4](https://open.spotify.com/track/1abJ1GoS1oivc6zbnSraWA) | [Nabewalks](https://open.spotify.com/artist/3T3MaUXZKyIUMhi1EcGoJb) | [G4](https://open.spotify.com/album/0jwTrptJi9tTTlysrJyjqW) | 4:22 |
 | 111 | [Keep Up](https://open.spotify.com/track/2A9N0ECrmbRIwLpSiRF1fq) | [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [Keep Up](https://open.spotify.com/album/4l5N7329RCDBmB59VYaf8u) | 2:30 |
 
-Snapshot ID: `AAAAAPJr0XgnQKDMmXnLL9fZnJWTVA1C`
+Snapshot ID: `AAAAAEUaVDtcF3MfxgrT844Pq6HmINVc`

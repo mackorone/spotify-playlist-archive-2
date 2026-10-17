@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "All I Need EP",
+        "url": "https://open.spotify.com/album/4HFGKajb5JxeUMWuEo2snr"
+      },
+      "artists": [
+        {
+          "name": "Danny Snowden",
+          "url": "https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205190,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZXLGNv7aDLiuBXDFDfUk2"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/1DhuFTin4vbAyiwM1VzJ86"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 261818,
       "name": "Another Dimension",
       "url": "https://open.spotify.com/track/7cWi2fEhvxolBmElAvOCEI"
@@ -2127,6 +2145,28 @@
     },
     {
       "album": {
+        "name": "Because of You",
+        "url": "https://open.spotify.com/album/3Jp3UkwEmgEwTOkfz5GloF"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/556v7tfoew5CLbq8vIm3S7"
+    },
+    {
+      "album": {
         "name": "CONTI Summer Sampler 2025",
         "url": "https://open.spotify.com/album/1smT7yHOdDpelY9Khc4O77"
       },
@@ -2966,6 +3006,28 @@
       "duration_ms": 344937,
       "name": "Break It Down - Original Mix",
       "url": "https://open.spotify.com/track/2B6mfpUuuYd2HOyrYpScRT"
+    },
+    {
+      "album": {
+        "name": "Pumping Jumping EP",
+        "url": "https://open.spotify.com/album/6yFn4ZyTB00Y3w6SOteu8f"
+      },
+      "artists": [
+        {
+          "name": "Luke Andrews",
+          "url": "https://open.spotify.com/artist/4HXTQukv28KsVXxf1uXQoA"
+        },
+        {
+          "name": "Owen Andrews",
+          "url": "https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150343,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/3Jyy6rdv5KGlqXrXREnUbj"
     },
     {
       "album": {
@@ -5225,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "Desires Ignite",
+        "url": "https://open.spotify.com/album/6eUrRQ0Q9zQHRINVaFVs8v"
+      },
+      "artists": [
+        {
+          "name": "Reber",
+          "url": "https://open.spotify.com/artist/1UJNDwWpLp3y379EiliAfa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "Desires Ignite - Radio Edit",
+      "url": "https://open.spotify.com/track/4rBjGRCFuHxcXvE5Nw9x9T"
+    },
+    {
+      "album": {
         "name": "803 Crystal Grooves Collective Cuts, Vol. 8",
         "url": "https://open.spotify.com/album/5JgvFyCWVma8rJzP6dmutz"
       },
@@ -6618,7 +6698,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 161450,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2TuGDQpH0bN6kSBx8YrXhe"
@@ -7010,7 +7090,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 196842,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/4zrgYXxoxvDLhAUyWrlCVR"
@@ -9626,6 +9706,28 @@
       "duration_ms": 156498,
       "name": "Hey Everybody",
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "album": {
+        "name": "Hey Everybody (L.P. Rhythm Remix)",
+        "url": "https://open.spotify.com/album/4HKBEdJCnCiPw18llmrqP2"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        },
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198181,
+      "name": "Hey Everybody - L.P. Rhythm Remix",
+      "url": "https://open.spotify.com/track/1Yx7mkfQ1etpKWcxovRRci"
     },
     {
       "album": {
@@ -15368,7 +15470,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 386250,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/3OX5vYebeYHnoCYb9PC0jG"
@@ -16964,7 +17066,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178604,
       "name": "Profil - Josh Baker Remix",
       "url": "https://open.spotify.com/track/4xeCjpuxm2Mg1RifYYrRTD"
@@ -18932,7 +19034,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190789,
       "name": "Senses",
       "url": "https://open.spotify.com/track/2fAALriwTxIDo9tOSLeCIh"
@@ -20189,6 +20291,24 @@
     },
     {
       "album": {
+        "name": "Spell It Out",
+        "url": "https://open.spotify.com/album/08L5J7UftUcLmIC8v2Ll9N"
+      },
+      "artists": [
+        {
+          "name": "Mati Astroza",
+          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164888,
+      "name": "Spell It Out",
+      "url": "https://open.spotify.com/track/1uMMwH5mayzOcKaPb32fJ0"
+    },
+    {
+      "album": {
         "name": "Spin Cycle EP",
         "url": "https://open.spotify.com/album/13y7ZtEe1jWGFitDo0JK6m"
       },
@@ -20366,7 +20486,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 190909,
       "name": "Step To My Groove",
       "url": "https://open.spotify.com/track/2WKo24hJ6TSkd7SzDwFZ9A"
@@ -21128,6 +21248,24 @@
       "duration_ms": 347085,
       "name": "Take Them Back",
       "url": "https://open.spotify.com/track/0FMUtQRUQlWVfOxccUyrvp"
+    },
+    {
+      "album": {
+        "name": "Take You Deeper",
+        "url": "https://open.spotify.com/album/7b2U3SGZhxkwH1qWaCE5i9"
+      },
+      "artists": [
+        {
+          "name": "Ford Scott",
+          "url": "https://open.spotify.com/artist/36oTGwf1nycnUTEzONpUMD"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "Take You Deeper",
+      "url": "https://open.spotify.com/track/0IydeyNqfmTB0rgXpbrzxE"
     },
     {
       "album": {

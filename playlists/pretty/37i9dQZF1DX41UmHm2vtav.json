@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 508920,
+  "num_followers": 508944,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhPg5iEK0+8kxFHnPU2LCesXe1u",
+  "snapshot_id": "AAAAAAKCnO60ObkU6iWJte3GYPCFUOQ0",
   "tracks": [
     {
       "added_at": "2026-09-25 15:56:07",
@@ -527,8 +527,8 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
-        "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
+        "name": "The Fade Out Line",
+        "url": "https://open.spotify.com/album/6dTh4fu7cOIDlr5WDlIX25"
       },
       "artists": [
         {
@@ -536,17 +536,13 @@
           "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "ETTA",
+          "url": "https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
-      "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
+      "duration_ms": 160615,
+      "name": "The Fade Out Line",
+      "url": "https://open.spotify.com/track/4gBg3Pun3ti9ANNePBX7XB"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -635,8 +631,8 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "The Fade Out Line",
-        "url": "https://open.spotify.com/album/6dTh4fu7cOIDlr5WDlIX25"
+        "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+        "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
       },
       "artists": [
         {
@@ -644,13 +640,17 @@
           "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "ETTA",
-          "url": "https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn"
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 160615,
-      "name": "The Fade Out Line",
-      "url": "https://open.spotify.com/track/4gBg3Pun3ti9ANNePBX7XB"
+      "duration_ms": 158769,
+      "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+      "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
         "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Dias Melhores - Remix",
         "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 174193,
       "name": "Dias Melhores - Remix",
       "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Baiana (With L-Gante)",
         "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 146250,
       "name": "Baiana - With L-Gante",
       "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Yannick",
+          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
+        }
+      ],
+      "duration_ms": 216126,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Summertime Sadness",
         "url": "https://open.spotify.com/album/68FOiKlSQI0SKc8exqAtVM"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 179512,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1AlCvRJFF2Ze5FX54uHZqb"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Yannick",
-          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
-        }
-      ],
-      "duration_ms": 216126,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        },
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Na Rua, Na Chuva, Na Fazenda (Casinha de Sap\u00ea) [Club Mix]",
-        "url": "https://open.spotify.com/album/43ydJnJkHaF9uNb6OG9ziT"
-      },
-      "artists": [
-        {
-          "name": "GHOSTT",
-          "url": "https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 283902,
-      "name": "Na Rua, Na Chuva, Na Fazenda (Casinha de Sap\u00ea) - Club Mix",
-      "url": "https://open.spotify.com/track/6ZrrQlAyPOm6AIc5R8fNZS"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Please Don't Go (Bruno Martini Remix)",
         "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 158774,
       "name": "Please Don't Go - Bruno Martini Remix",
       "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Na Rua, Na Chuva, Na Fazenda (Casinha de Sap\u00ea) [Club Mix]",
+        "url": "https://open.spotify.com/album/43ydJnJkHaF9uNb6OG9ziT"
+      },
+      "artists": [
+        {
+          "name": "GHOSTT",
+          "url": "https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 283902,
+      "name": "Na Rua, Na Chuva, Na Fazenda (Casinha de Sap\u00ea) - Club Mix",
+      "url": "https://open.spotify.com/track/6ZrrQlAyPOm6AIc5R8fNZS"
     },
     {
       "added_at": "2026-09-25 15:56:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,635 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,632 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 57 | [RAPUJ KURWO \(BEDOES DISS\)](https://open.spotify.com/track/0vXFqNThA5L4SPGvdda9xq) | [Eripe](https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL) | [RAPUJ KURWO \(BEDOES DISS\)](https://open.spotify.com/album/6cdw3VdG2rPjpRx7VNcy9R) | 2:58 |
 | 58 | [Samiec beta](https://open.spotify.com/track/063bdnZfIfQ9Kya60Fv8um) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV) | [Samiec beta](https://open.spotify.com/album/2vQvjQibvojh1TBx2VpU37) | 2:24 |
 | 59 | [DZIECI MIASTA](https://open.spotify.com/track/4KdIikzAuPEWITf3CpG08y) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [DZIECI MIASTA](https://open.spotify.com/album/6rEqhIQmkqaMiwiUC18Qr7) | 2:48 |
-| 60 | [To się więcej nie powtórzy](https://open.spotify.com/track/6d8QmWWjIuwxCjpWwnr5NE) | [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [To się więcej nie powtórzy](https://open.spotify.com/album/7kUwGONLTpdhpykSIbantV) | 2:53 |
-| 61 | [WDDC](https://open.spotify.com/track/3qPWus96wAMhMVoGsxnFVQ) | [Ero JWP](https://open.spotify.com/artist/5DM2lp5yxLNjwHPmFGcFqr), [Remazzbeatzz](https://open.spotify.com/artist/2tiDtNQUntHEQvOj6d6QLT), [Szczur JWP](https://open.spotify.com/artist/5nl2uOpQ1NtRDyl0S9gED5), [Falcon1](https://open.spotify.com/artist/4pg9KJqNXJD8nY1nlQRHUB) | [WDDC](https://open.spotify.com/album/1PNA8PRpyBJqyN5ERMTjOS) | 3:29 |
+| 60 | [WDDC](https://open.spotify.com/track/3qPWus96wAMhMVoGsxnFVQ) | [Ero JWP](https://open.spotify.com/artist/5DM2lp5yxLNjwHPmFGcFqr), [Remazzbeatzz](https://open.spotify.com/artist/2tiDtNQUntHEQvOj6d6QLT), [Szczur JWP](https://open.spotify.com/artist/5nl2uOpQ1NtRDyl0S9gED5), [Falcon1](https://open.spotify.com/artist/4pg9KJqNXJD8nY1nlQRHUB) | [WDDC](https://open.spotify.com/album/1PNA8PRpyBJqyN5ERMTjOS) | 3:29 |
+| 61 | [To się więcej nie powtórzy](https://open.spotify.com/track/6d8QmWWjIuwxCjpWwnr5NE) | [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [To się więcej nie powtórzy](https://open.spotify.com/album/7kUwGONLTpdhpykSIbantV) | 2:53 |
 | 62 | [DAW](https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ) | [VBS](https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ), [Kwiatek HAZE](https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk) | [3](https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo) | 3:20 |
 | 63 | [Czwarta Rano](https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h) | [Małolat](https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [NOSTALG1A](https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [Czwarta Rano](https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp) | 2:40 |
 | 64 | [Nie ma takiego numeru](https://open.spotify.com/track/4KwrwRXSWlY95QccTUxiD5) | [Bober](https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY), [shhieda](https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW) | [ALBUM ALPHA \(DEMO\)](https://open.spotify.com/album/3B5gMNPmUMIpn05rwuitV6) | 2:39 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 78 | [moja droga](https://open.spotify.com/track/4TuQGpxm1GtrVYrLLMnbJw) | [Anatom](https://open.spotify.com/artist/70xnUNebCk3l2syHZRFUgd), [SlvR Beatz](https://open.spotify.com/artist/7hMkWSRgWje8qZdAmzMtdi) | [moja droga](https://open.spotify.com/album/62WGIiW9W5GmiltZIVS0TI) | 2:27 |
 | 79 | [SIE KLEI](https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY) | [NEXT](https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo) | 1:53 |
 
-Snapshot ID: `AAAAAFeQMYBw3OB/WK/WAzEClCUV/0ky`
+Snapshot ID: `AAAAAAw8ZesKF8AJfQBtBWJG5e0Auwic`

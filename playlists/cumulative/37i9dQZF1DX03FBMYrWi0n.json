@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: The Barr Brothers",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Nectar Palace",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 210731,
       "name": "1 MILLION DE GENS",
       "url": "https://open.spotify.com/track/7uFuWGa55gb5o45QxFRLFM"
@@ -1208,6 +1208,28 @@
       "duration_ms": 247483,
       "name": "Banksiana",
       "url": "https://open.spotify.com/track/7gjAykShD6TS8XnCFDr3Lx"
+    },
+    {
+      "album": {
+        "name": "LUTTE",
+        "url": "https://open.spotify.com/album/3CRRKlZJaeGLjpgLLITxqE"
+      },
+      "artists": [
+        {
+          "name": "Chiens Dog",
+          "url": "https://open.spotify.com/artist/6g4hY3Vrvjh6u92Fy4EYgA"
+        },
+        {
+          "name": "Charlie Juste",
+          "url": "https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252940,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/6ZG0rmF8sJ8jlNveDEBL6d"
     },
     {
       "album": {
@@ -2576,7 +2598,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 198000,
       "name": "Corps (feat. Lou-Adriane Cassidy)",
       "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
@@ -2634,7 +2656,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 181132,
       "name": "countryside",
       "url": "https://open.spotify.com/track/4sabkYnGutLOU6zhDn9Phd"
@@ -4940,7 +4962,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 257359,
       "name": "Hook IV",
       "url": "https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP"
@@ -5378,6 +5400,24 @@
       "duration_ms": 217000,
       "name": "J'ai besoin de vivre",
       "url": "https://open.spotify.com/track/7AiIpmotHzRvcwRQwfivRG"
+    },
+    {
+      "album": {
+        "name": "J'aime le stress",
+        "url": "https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ"
+      },
+      "artists": [
+        {
+          "name": "Nectar Palace",
+          "url": "https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171816,
+      "name": "J'aime le stress",
+      "url": "https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4"
     },
     {
       "album": {
@@ -6204,10 +6244,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 138992,
       "name": "L'\u00eele de La R\u00e9union",
       "url": "https://open.spotify.com/track/4lfOst7QYpgpFlqM4bCs5R"
+    },
+    {
+      "album": {
+        "name": "LA CHUTE",
+        "url": "https://open.spotify.com/album/09poabHS21wBJIhR24eQpO"
+      },
+      "artists": [
+        {
+          "name": "JJJu",
+          "url": "https://open.spotify.com/artist/6GAgLKKBqpSrgyCYb9wB1q"
+        },
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252720,
+      "name": "LA CHUTE",
+      "url": "https://open.spotify.com/track/1hfBP6R3C5ZjuWXs0tKqP6"
     },
     {
       "album": {
@@ -6244,6 +6306,24 @@
       "duration_ms": 263853,
       "name": "La fin d'une \u00e9poque",
       "url": "https://open.spotify.com/track/7rQckHgibuUvIIjRKlbKDF"
+    },
+    {
+      "album": {
+        "name": "La fin du monde",
+        "url": "https://open.spotify.com/album/4pajF2yHY5567kh2Kbt0pj"
+      },
+      "artists": [
+        {
+          "name": "17sport",
+          "url": "https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "La fin du monde",
+      "url": "https://open.spotify.com/track/6mWaPThaMStSYeh9Yp9RmR"
     },
     {
       "album": {
@@ -7627,6 +7707,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/1kU0H9ztrvumgynaerkHOm"
+      },
+      "artists": [
+        {
+          "name": "Madrid Exit",
+          "url": "https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166426,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/6cjLzYXcciwqS0CtSuZNSh"
+    },
+    {
+      "album": {
         "name": "Le jour en pleine nuit",
         "url": "https://open.spotify.com/album/0moP1fZdDc9OlDIjPcCPni"
       },
@@ -8363,6 +8461,24 @@
     },
     {
       "album": {
+        "name": "angels on my mind",
+        "url": "https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3"
+      },
+      "artists": [
+        {
+          "name": "l i l a",
+          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190486,
+      "name": "on your shoulders",
+      "url": "https://open.spotify.com/track/02Pqy45XxE5MK2vX5uUFGq"
+    },
+    {
+      "album": {
         "name": "Oolong tea",
         "url": "https://open.spotify.com/album/49HeQRAlR4a5f6JmMXcYab"
       },
@@ -8877,6 +8993,24 @@
     },
     {
       "album": {
+        "name": "Petcimote Ote",
+        "url": "https://open.spotify.com/album/6bdKzMFTr3D3kynLZLOhxu"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "Petcimote Ote",
+      "url": "https://open.spotify.com/track/5mdKZOm9YtRGGMIsiRKmaJ"
+    },
+    {
+      "album": {
         "name": "Petit canari",
         "url": "https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s"
       },
@@ -9206,7 +9340,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/1UfDzEfCPcfuZ5lLYKXwIm"
@@ -9798,7 +9932,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 217039,
       "name": "RIP",
       "url": "https://open.spotify.com/track/5tuA261eX4cyeWeSygEff8"
@@ -10502,6 +10636,24 @@
       "duration_ms": 159688,
       "name": "Si j'te manque",
       "url": "https://open.spotify.com/track/1mlQyUkRTPTFqrDS3pyzfk"
+    },
+    {
+      "album": {
+        "name": "BU\u00c9E",
+        "url": "https://open.spotify.com/album/3PDoxbLdUKUOiR89phWiAq"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9atoire",
+          "url": "https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191008,
+      "name": "si la vie",
+      "url": "https://open.spotify.com/track/1MiuISad1YZsu4iWGcm44m"
     },
     {
       "album": {
@@ -11320,7 +11472,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 210681,
       "name": "The Cost of Freedom",
       "url": "https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE"

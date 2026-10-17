@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 353872,
+  "num_followers": 353894,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK5PlnPrdvg2b5v6R5ZPKR0iAgoY",
+  "snapshot_id": "AAAAALKgc6hZ92CXFVTzYMilYF+ld9uG",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:54",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+        "name": "Amigo del Alma",
+        "url": "https://open.spotify.com/album/5h6TTJ1OJ9YH2pqzvErVij"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        },
+        {
+          "name": "Antonio & Dolores",
+          "url": "https://open.spotify.com/artist/1CuWI7rFjj8mUvW0jYcePu"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Pasaba por Aqui",
-      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
+      "duration_ms": 201746,
+      "name": "Amigo del Alma",
+      "url": "https://open.spotify.com/track/0Vpanax5UVYGmefDMmkDtl"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -1475,22 +1479,18 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "Amigo del Alma",
-        "url": "https://open.spotify.com/album/5h6TTJ1OJ9YH2pqzvErVij"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
-        },
-        {
-          "name": "Antonio & Dolores",
-          "url": "https://open.spotify.com/artist/1CuWI7rFjj8mUvW0jYcePu"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 201746,
-      "name": "Amigo del Alma",
-      "url": "https://open.spotify.com/track/0Vpanax5UVYGmefDMmkDtl"
+      "duration_ms": 172000,
+      "name": "Pasaba por Aqui",
+      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
     },
     {
       "added_at": "2026-10-08 22:00:54",

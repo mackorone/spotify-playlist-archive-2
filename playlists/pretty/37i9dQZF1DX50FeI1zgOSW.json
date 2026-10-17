@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Smith Asher",
-  "num_followers": 21572,
+  "num_followers": 21585,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCIxUCWNegAB+aQrhRmanPkMVqr",
+  "snapshot_id": "AAAAADOFiqUdPrwRGyNY3cjEIrFwprsP",
   "tracks": [
     {
       "added_at": "2026-09-28 12:39:28",
@@ -163,6 +163,26 @@
       "duration_ms": 216425,
       "name": "Ottaa Kili",
       "url": "https://open.spotify.com/track/4r7O9WhyMeDJ7RGEoCYpei"
+    },
+    {
+      "added_at": "2026-10-16 09:43:17",
+      "album": {
+        "name": "Enakkena Oru Mazhaikkaalam",
+        "url": "https://open.spotify.com/album/2xAtYeXRTFZvs5vQ7LGZWt"
+      },
+      "artists": [
+        {
+          "name": "Umashankar Kannaiyan",
+          "url": "https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T"
+        },
+        {
+          "name": "Revathy Kumar",
+          "url": "https://open.spotify.com/artist/0Wlol58BbglfFkGxWmNREy"
+        }
+      ],
+      "duration_ms": 184112,
+      "name": "Enakkena Oru Mazhaikkaalam",
+      "url": "https://open.spotify.com/track/7etV4j8nbVmYOZiLYTkVwH"
     },
     {
       "added_at": "2026-10-10 10:17:36",

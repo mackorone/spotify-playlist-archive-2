@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Fireboy DML
 
-1,419 songs - 2 day 17 hr 51 min
+1,419 songs - 2 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1309,7 +1309,6 @@
 | [TOUT DROIT](https://open.spotify.com/track/6IKWFt2x3R7szTflWaeQiC) | [La Synesia](https://open.spotify.com/artist/1xAkr1syMoClC66pHMk2Eq) | [TOUT DROIT](https://open.spotify.com/album/0TD72f1ncze2skY9yu6kfi) | 2:43 | 2025-05-15 | 2025-06-27 |
 | [Toxic Love](https://open.spotify.com/track/7gldh8ogRFJliHUvVxJYho) | [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Toxic Love](https://open.spotify.com/album/5CnL5be3oL7LLwlR0mK6rm) | 2:28 | 2022-12-08 | 2023-05-19 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-12-01 | 2023-06-09 |
-| [Track 13](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 0:00 | 2026-10-15 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-14 | 2025-01-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-04-24 | 2025-05-16 |
 | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/track/294RbcQMqf9cbFelweoVMB) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [WES7AR 22](https://open.spotify.com/artist/59CCuGR6B2a60Qrp3Wwsm8) | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/album/3ATu4GjZWHIEfldJduxQ4g) | 5:01 | 2023-06-22 | 2023-08-25 |
@@ -1400,6 +1399,7 @@
 | [Yaya \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:28 | 2026-07-30 | 2026-08-14 |
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-04 | 2024-10-25 |
 | [Yessika](https://open.spotify.com/track/1oNAj4KjfCqqGppXhPbtYv) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [Yessika](https://open.spotify.com/album/72gi5YK4kSOg5j7lYWHbwx) | 3:45 | 2023-05-12 | 2023-07-22 |
+| [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 | 2026-10-15 |  |
 | [You](https://open.spotify.com/track/1C4anFssxHmhUTMsMxZcC1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [You](https://open.spotify.com/album/5jwNm5g8JEyLRRXRrObxd0) | 2:51 | 2024-11-07 | 2024-12-06 |
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-07 | 2025-08-29 |
 | [YOU AND ME](https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv) | [PapaRaZzle](https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL) | [YOU AND ME](https://open.spotify.com/album/2Lx9x55fGEtryAOZhXorMF) | 2:41 | 2025-05-22 | 2025-06-20 |

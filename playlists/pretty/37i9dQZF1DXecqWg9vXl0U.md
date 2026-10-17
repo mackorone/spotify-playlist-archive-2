@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring bri!!o ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 14 | [Tú](https://open.spotify.com/track/0xGwvVzNbl4Dym2xjsouRr) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Natsukashii](https://open.spotify.com/album/0Kkd3XWkXoV2pU15VGd6In) | 3:36 |
 | 15 | [tú y yo](https://open.spotify.com/track/2ctZiTm8JNvmQsBfrr5T3g) | [fidoisblue](https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI) | [tú y yo](https://open.spotify.com/album/7JZsAk0CQI5HKLRoCDV9jm) | 2:28 |
 | 16 | [Claroscuro \- Peter Dallas Remix](https://open.spotify.com/track/5wUNsl2yVw2OBIyHxUc5id) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7), [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh) | [Eden Sauvage \(Remix\)](https://open.spotify.com/album/6PGavdSCHUFpBe4GUb6CN6) | 3:05 |
-| 17 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
+| 17 | [Chill](https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Chill](https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0) | 2:43 |
 | 18 | [Muchas Cosas](https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Muchas Cosas](https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT) | 2:32 |
-| 19 | [Chill](https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Chill](https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0) | 2:43 |
+| 19 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
 | 20 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 21 | [Idiota](https://open.spotify.com/track/0obiVvoMb80sR2oWDtJLOD) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Idiota](https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7) | 2:11 |
 | 22 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 43 | [Midifalda](https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [el pájaro del mar](https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd) | [Midifalda](https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi) | 3:50 |
 | 44 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
 | 45 | [Monterrey](https://open.spotify.com/track/75AZBKXYy52p3H7kU4bfJ1) | [Edgar Villarreal](https://open.spotify.com/artist/4Gs8OzUWnl7S6Zmdh7UwoK) | [Monterrey](https://open.spotify.com/album/1Xe894qEmBKCk0Nd7HMzga) | 3:13 |
-| 46 | [Lunares](https://open.spotify.com/track/63Fe3WnLMYTswqCLlobKNJ) | [Paleta Pastel](https://open.spotify.com/artist/2jcmSSQQqVvAytNPnJtsEX) | [N T P M](https://open.spotify.com/album/7vYRJ18QunDuoEzF2pDbhe) | 3:20 |
-| 47 | [Natural](https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q), [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [FASES](https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN) | 2:59 |
+| 46 | [Natural](https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q), [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [FASES](https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN) | 2:59 |
+| 47 | [Lunares](https://open.spotify.com/track/63Fe3WnLMYTswqCLlobKNJ) | [Paleta Pastel](https://open.spotify.com/artist/2jcmSSQQqVvAytNPnJtsEX) | [N T P M](https://open.spotify.com/album/7vYRJ18QunDuoEzF2pDbhe) | 3:20 |
 | 48 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 |
 | 49 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
 | 50 | [Tiempo, a ver](https://open.spotify.com/track/6GD69uM56K8RSEY2K4bBvK) | [Bosque](https://open.spotify.com/artist/6xIiv2i3zkP4mzGQvGVHTS) | [Traigo un monte](https://open.spotify.com/album/4Tji6shiBgFB3oHHIqPmWo) | 2:44 |
-| 51 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
-| 52 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
+| 51 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
+| 52 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
 | 53 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 54 | [Amanecer](https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amanecer](https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB) | 4:25 |
 | 55 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Noche Humana](https://open.spotify.com/track/4EV0dOT6mZUtEpT3JTULwI) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:20 |
 | 75 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
 
-Snapshot ID: `AAAAAIzjMNDLQNeUg2+OasFcVFpA5wEE`
+Snapshot ID: `AAAAAOwS2qUp528YaxGXyIywlbXwRg8t`

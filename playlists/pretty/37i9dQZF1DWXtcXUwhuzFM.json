@@ -1,12 +1,12 @@
 {
   "description": "Uutta musaa tarjoilevat Ella Herold & Cledos, Alina Burnet, F... ja moni muu  \ud83c\udfb6",
-  "num_followers": 108855,
+  "num_followers": 108929,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABewcbESbtD1enPK6RLvgmPsRL9s",
+  "snapshot_id": "AAAAAOMoBuvAfLngZisdqwg4OM4Ha5Ft",
   "tracks": [
     {
       "added_at": "2026-10-15 21:00:25",
@@ -307,6 +307,26 @@
       "duration_ms": 183466,
       "name": "Sulle, rakkaus",
       "url": "https://open.spotify.com/track/4aL0Z1Nmu7jQoVdMXf4x4R"
+    },
+    {
+      "added_at": "2026-10-15 21:00:25",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-15 21:00:25",
@@ -779,6 +799,22 @@
     {
       "added_at": "2026-10-15 21:00:25",
       "album": {
+        "name": "KOYSAR",
+        "url": "https://open.spotify.com/album/4KR3nXEF1tS3c4bOh6nuzX"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 195870,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/716d7YjHJsPjzZ9nVfafC8"
+    },
+    {
+      "added_at": "2026-10-15 21:00:25",
+      "album": {
         "name": "Retorinen kysymys / Pid\u00e4 tuo toivo",
         "url": "https://open.spotify.com/album/7wiDHts8mHGMUnHJy394bI"
       },
@@ -950,10 +986,14 @@
         {
           "name": "Dilemma",
           "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        },
+        {
+          "name": "Antti Railio",
+          "url": "https://open.spotify.com/artist/0XgaMJ0W8fkyyo9NXDu3sT"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 181714,
+      "name": "Kivun kaikki kasvot (feat. Antti Railio)",
       "url": "https://open.spotify.com/track/3YvV1kBcfd3upV2ug6kP4M"
     },
     {
@@ -1383,7 +1423,7 @@
     {
       "added_at": "2026-10-15 21:00:25",
       "album": {
-        "name": "Obsession",
+        "name": "Obsession (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39"
       },
       "artists": [
@@ -1434,6 +1474,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "duration_ms": 204884,
@@ -1548,8 +1592,8 @@
           "url": "https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 238645,
+      "name": "Nuku mun lapsi",
       "url": "https://open.spotify.com/track/1K2mlGn5Fbd2d07T9TXCy6"
     },
     {

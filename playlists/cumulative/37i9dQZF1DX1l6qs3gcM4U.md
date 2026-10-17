@@ -4,12 +4,13 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael
 
-720 songs - 1 day 17 hr 19 min
+722 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 |  |
+| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 | 2026-10-17 |
 | [14](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [CICLOS](https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc) | 2:31 | 2026-02-06 |  |
+| [2 Bebados](https://open.spotify.com/track/2nWvOavF9070jz0T3fDHMm) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [2 Bebados](https://open.spotify.com/album/74QfxrE850xdVFcxDRaJQ4) | 2:41 | 2026-10-16 |  |
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 | 2023-03-03 | 2026-03-20 |
 | [4 Horas](https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [4 Horas](https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne) | 3:14 | 2023-03-17 | 2023-07-14 |
@@ -157,6 +158,7 @@
 | [Cuida Bem Dela](https://open.spotify.com/track/4X7kNBFa0IklDcnQXBBXAM) | [Cláudio Pina](https://open.spotify.com/artist/0q4LqAaTeDu8W3kZCfIX9v) | [Cuida Bem Dela](https://open.spotify.com/album/6e4lqsHCB86J6q05zoVMNO) | 3:20 | 2025-08-14 | 2025-08-29 |
 | [Culú](https://open.spotify.com/track/0zO1Bl9nciYG6PRnQKmtQY) | [Danny Peezy](https://open.spotify.com/artist/1XMHvR1wcH5bgiLGljmc1T) | [Culú](https://open.spotify.com/album/7Jzj9nx5EY9hWmGVGS6f8i) | 3:20 | 2026-01-23 | 2026-02-14 |
 | [Cura](https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Cura](https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX) | 3:37 | 2023-05-18 | 2025-02-28 |
+| [Cálculo](https://open.spotify.com/track/3yYvUpRIvzHjUAvLhiUfOo) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Cálculo](https://open.spotify.com/album/2L69ONw8t62Rm5Xv67Qx8L) | 3:03 | 2026-10-16 |  |
 | [Dam Pam](https://open.spotify.com/track/3K5ia3ysyRjlm9TJI8HdE3) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Elida Almeida](https://open.spotify.com/artist/4QMgntJ821xE1UtdWtJWbd) | [Dam Pam](https://open.spotify.com/album/6464pLOwYMtmirh3uMadEF) | 3:10 | 2021-12-22 | 2022-07-07 |
 | [Dando Love](https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dando Love](https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz) | 3:02 | 2022-11-11 | 2025-05-16 |
 | [Dando Love](https://open.spotify.com/track/1np3KRvBS7DJzUBEPP9mGB) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Viagens](https://open.spotify.com/album/7qHXg8jRGHCITWSrhKYa2Q) | 3:02 | 2022-11-11 | 2022-11-13 |
@@ -406,7 +408,7 @@
 | [Na Mão de Deus](https://open.spotify.com/track/7peoL9wdbTDcxTvJVAujOQ) | [Ney Chiqui](https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Smile Drama Beatz](https://open.spotify.com/artist/2VrG6aXJNPMwOt7nyOlHoz) | [Na Mão de Deus](https://open.spotify.com/album/5pby6fImgnFXdPsjsl7bRu) | 3:53 | 2025-11-21 | 2026-04-06 |
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |
 | [Na Via](https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr), [Sarissari](https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b) | [Na Via](https://open.spotify.com/album/5wp8n4cf3laS677a8a3MNZ) | 3:38 | 2021-12-10 | 2022-02-14 |
-| [Namora Com O Telefone](https://open.spotify.com/track/6cGcgAvBwT6EFukPAuRTBj) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Onde Está Meu Amor?](https://open.spotify.com/album/2vUcpGS0RvO6WzxuYD6OJf) | 3:01 | 2026-07-10 |  |
+| [Namora Com O Telefone](https://open.spotify.com/track/6cGcgAvBwT6EFukPAuRTBj) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Onde Está Meu Amor?](https://open.spotify.com/album/2vUcpGS0RvO6WzxuYD6OJf) | 3:01 | 2026-07-10 | 2026-10-17 |
 | [Namorado](https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Namorado](https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc) | 3:23 | 2025-10-23 | 2026-05-10 |
 | [Nao E Novidade](https://open.spotify.com/track/1P6rFn5OaGs2p3fAMoroJS) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6), [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK) | [Nao E Novidade](https://open.spotify.com/album/2n0wepikN8FdZILDc6lunj) | 4:28 | 2024-12-06 | 2024-12-21 |
 | [Nao Esquenta](https://open.spotify.com/track/4QVLxtwRgoTWVsV4Dzg7cB) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Nao Esquenta](https://open.spotify.com/album/2yjH1M4JGoIiaBKNbkfSIw) | 4:30 | 2025-09-11 | 2025-10-03 |

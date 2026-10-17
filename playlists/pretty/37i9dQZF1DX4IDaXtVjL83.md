@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: KickFlip, iann dior\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,147 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,161 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 29 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 |
 | 30 | [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 |
 | 31 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
-| 32 | [Hvnly \(feat\. JIHYO\)](https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 2:57 |
-| 33 | [Take Me to Nirvana \(feat\. Vinida Weng\)](https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:31 |
+| 32 | [Take Me to Nirvana \(feat\. Vinida Weng\)](https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:31 |
+| 33 | [Hvnly \(feat\. JIHYO\)](https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 2:57 |
 | 34 | [Lullaby Remix](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 |
 | 35 | [WE PRAY \- TWICE Version](https://open.spotify.com/track/3wLvOITQt7cbK4KzQ3dufu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [WE PRAY \(TWICE Version\)](https://open.spotify.com/album/0QOAUAUR20fpa2SK1J0yGy) | 4:07 |
 | 36 | [blue \(with MINNIE\)](https://open.spotify.com/track/6HIngEWX8ycnLjuUfSZyah) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [blue \(with MINNIE\)](https://open.spotify.com/album/2nikWz2AcwtWjdNMKCs6sG) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 49 | [i’m like that \(feat\. Loco\)](https://open.spotify.com/track/2pxKB19fIuNoP7l3YuWZCh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [i’m like that \(feat\. Loco\)](https://open.spotify.com/album/5LzADECg642S1CvXPymtQ0) | 2:15 |
 | 50 | [Stars + Yves](https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:21 |
 
-Snapshot ID: `AAAAAKCD1Pvl3pV2dZtCzEhUrX38BNaC`
+Snapshot ID: `AAAAABbR7R3xBCardfwH8BckxvNpW9Di`

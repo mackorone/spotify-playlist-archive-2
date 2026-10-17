@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Sminofu
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,640 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,805 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sengithole Omunye](https://open.spotify.com/track/46rac4X07nXvGTPezZKMSu) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Imizamo Yami](https://open.spotify.com/album/3Lfbsj7w7y2qzKbnDsicPI) | 4:18 |
 | 2 | [Distance](https://open.spotify.com/track/0L4SSGbkayyR1RxePf4T4C) | [Zulu Queens](https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Isithembu](https://open.spotify.com/album/0SpkbEmC1ZDLoEHGXn8kOl) | 4:21 |
-| 3 | [Track 8](https://open.spotify.com/track/6zrSV6339hY4MjN9JoJ6cb) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [iTekisi](https://open.spotify.com/album/0WcvW7hJWCFvf4lP6uKO9E) | 0:00 |
+| 3 | [Madagascar](https://open.spotify.com/track/6zrSV6339hY4MjN9JoJ6cb) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [iTekisi](https://open.spotify.com/album/0WcvW7hJWCFvf4lP6uKO9E) | 4:20 |
 | 4 | [Myeke \(feat\. Sne Ntuli\)](https://open.spotify.com/track/6AHXrxdVlMDI7Zs7buBGiT) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Sne Ntuli](https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc) | [Awulutho Wena](https://open.spotify.com/album/2rFhajmLJkXFyZrW1uXZDw) | 4:21 |
 | 5 | [Luqale sakudlala](https://open.spotify.com/track/7pfoxzRahKsNhDMejTE14u) | [G\-Jealous](https://open.spotify.com/artist/0FbbF0rKiD7zN90OMJqCn7) | [Luqale sakudlala](https://open.spotify.com/album/1aqGyinECF4WLGCPOPG1xT) | 3:39 |
 | 6 | [Sine Pride \(feat\. Shenge Wasehlalankosi & MaGumede Wenu\)](https://open.spotify.com/track/7yKMHVKCco0FGJpaW2WmkJ) | [Skhanga](https://open.spotify.com/artist/6lFcggGAwriultjU0Ziyny), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz), [MaGumede Wenu](https://open.spotify.com/artist/7BAitaCXU3wEbIz7aY6tHQ) | [Zikhonkotha Ehambayo](https://open.spotify.com/album/146an281Z0OSsEJm7P3mKC) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 99 | [Ngeke Ungiphathe](https://open.spotify.com/track/2g1yV6PlYp2qYOdP6K2ui4) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Ngeke Ungiphathe](https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM) | 4:40 |
 | 100 | [Fusegi Ngempela Manje!](https://open.spotify.com/track/5uCxT0vTqqJSgjUgZCBSmJ) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [NO CHANCE](https://open.spotify.com/album/6te22nhwMSwD2mlRwqLXhL) | 10:19 |
 
-Snapshot ID: `AAAAAHr72Vw8VoLRVs5IgQEDNxZ1zoPl`
+Snapshot ID: `AAAAAC3+Gvi2VP+yRwP/wb1Joa9zU0Pp`

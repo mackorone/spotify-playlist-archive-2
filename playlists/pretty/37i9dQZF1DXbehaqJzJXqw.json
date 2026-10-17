@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 716134,
+  "num_followers": 716336,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGSSMOn6e8SHz2ojrkfkIPy0LhnE",
+  "snapshot_id": "AAAAAI8hIHZxfqXg4/tZvI1QfnceeDok",
   "tracks": [
     {
       "added_at": "2026-06-30 12:26:56",
@@ -47,22 +47,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Sacha Distel: Crooner",
-        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
-      },
-      "artists": [
-        {
-          "name": "Sacha Distel",
-          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
-        }
-      ],
-      "duration_ms": 123053,
-      "name": "La belle vie",
-      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Seule ce soir",
         "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 196780,
       "name": "C'est si bon - 2012",
       "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Sacha Distel: Crooner",
+        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "duration_ms": 123053,
+      "name": "La belle vie",
+      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 286423,
       "name": "Les yeux ouverts (dream a little dream of me)",
       "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Quelqu'un M'a Dit",
         "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 208826,
       "name": "Chanson triste",
       "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "No. 8",
-        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
-      },
-      "artists": [
-        {
-          "name": "Juliette Gr\u00e9co",
-          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Song, Song, Song",
         "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
+        "name": "No. 8",
+        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
+      },
+      "artists": [
+        {
+          "name": "Juliette Gr\u00e9co",
+          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
         "name": "La disparition",
         "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 238893,
       "name": "Le chien d'avant garde",
       "url": "https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "La mer opale",
+      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -907,22 +923,6 @@
       "duration_ms": 180866,
       "name": "Un homme et une femme",
       "url": "https://open.spotify.com/track/64aUYyD7RXmseLmB6WX56k"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "La mer opale",
-      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2026-06-30 12:26:56",

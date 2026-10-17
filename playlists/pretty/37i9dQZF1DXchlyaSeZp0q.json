@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 379280,
+  "num_followers": 379442,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFG3VwwUg6HBlXVSMGrBVVHblii",
+  "snapshot_id": "AAAAAJDdyJC3QGDASFKZfoe1M5uLuY/i",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/5gAMkPxCW7pB61JchjPKTd"
     },
     {
-      "added_at": "2021-11-11 14:02:18",
+      "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "The Best of Sam & Dave",
-        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+        "name": "Sings Burt Bacharach",
+        "url": "https://open.spotify.com/album/4FGkmrsBTrNdmVqUIAaRKJ"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+      "duration_ms": 175533,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/4FWBg11d45wVswR21jDz4l"
     }
   ],
   "unique_name": "Sad Soul",

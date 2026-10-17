@@ -4,7 +4,7 @@
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: femtanyl
 
-2,071 songs - 4 day 16 hr 2 min
+2,072 songs - 4 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1570,6 +1570,7 @@
 | [Selah](https://open.spotify.com/track/0WaUbPVESJGPPtQvJtSAwm) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:16 | 2026-08-21 | 2026-08-28 |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [SELF DIAGNOSIS](https://open.spotify.com/track/0amGhnzA3pI3AMZ0IEBUDl) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [SELF DIAGNOSIS](https://open.spotify.com/album/46xkp1eBHLAHxOdgY9oY4D) | 4:07 | 2022-05-27 | 2022-06-25 |
+| [selfish](https://open.spotify.com/track/1sCsAp33kUlnoMPoH6IJoi) | [.ape](https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju), [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Class of 2095](https://open.spotify.com/album/7HY3z9CjWI6qGvVLUd3WmZ) | 2:36 | 2026-10-16 |  |
 | [Selfish](https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Selfish](https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O) | 3:46 | 2025-11-07 | 2026-02-21 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 | 2022-07-23 |
 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-04-28 | 2023-09-09 |

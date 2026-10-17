@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 
 > Dead dove, don&\#x27;t eat
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 67 songs - 3 hr 58 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 68 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 | 65 | [PUT A LANDLORD iN A LANDFiLL](https://open.spotify.com/track/3nCve9jcwSKEtTCtuqEgIg) | [DAMAG3](https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn), [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT), [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx) | [PUT A LANDLORD iN A LANDFiLL](https://open.spotify.com/album/39z67rkvPBCmVmNrKqNWI4) | 3:06 |
 | 66 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 |
 | 67 | [Vote 'Em Out](https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Vote 'Em Out](https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb) | 2:20 |
+| 68 | [I Don't Work Here](https://open.spotify.com/track/6WwYfGKafOJaYHPDUPPuDC) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Podium](https://open.spotify.com/album/4rJLfcbd5rmXOr6muEBKtM) | 3:00 |
 
-Snapshot ID: `AAAASCZaaA2728AO8YlVPpCN9k3cRHm/`
+Snapshot ID: `AAAASVIeeGStxIMMX7Pic5OKHDgYmHwW`

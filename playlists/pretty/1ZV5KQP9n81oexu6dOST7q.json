@@ -1,12 +1,12 @@
 {
   "description": "Get ready to party met deze ultieme DANCE Party Mix Playlist!",
-  "num_followers": 49826,
+  "num_followers": 49825,
   "original_name": "DANCE Party Mix | House Party",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA/E6EnrcVr7cqCH84djN1MGpMdj/aL",
+  "snapshot_id": "AAA/FVzgCOCd9sH0Nw2kTeJVwuDimP4Z",
   "tracks": [
     {
       "added_at": "2026-10-13 12:47:53",
@@ -307,6 +307,22 @@
       "duration_ms": 150468,
       "name": "Body",
       "url": "https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx"
+    },
+    {
+      "added_at": "2026-10-16 07:22:23",
+      "album": {
+        "name": "make u mine",
+        "url": "https://open.spotify.com/album/05XidhkBUM8o0T8Paq5rW8"
+      },
+      "artists": [
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 160021,
+      "name": "make u mine",
+      "url": "https://open.spotify.com/track/37SVIAV3BnSkAbNPkM1l76"
     },
     {
       "added_at": "2026-10-13 12:47:53",
@@ -699,6 +715,26 @@
       "duration_ms": 212307,
       "name": "More than enough...",
       "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
+    },
+    {
+      "added_at": "2026-10-16 07:23:27",
+      "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
     },
     {
       "added_at": "2026-10-13 12:47:53",

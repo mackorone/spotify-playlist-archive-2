@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,756 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,755 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 |
 | 50 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/336MAGcI93mYzYuKDHYOPN) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4) | 2:50 |
 
-Snapshot ID: `as7GAAAAAAARQzy90qA9ViPnD/nuBY3r`
+Snapshot ID: `as7GAAAAAAA285F3WZ0jJYqqanYv2zJw`

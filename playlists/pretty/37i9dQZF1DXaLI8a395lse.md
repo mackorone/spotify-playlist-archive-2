@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,122 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517,230 likes - 80 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 40 | [If You Tolerate This Your Children Will Be Next](https://open.spotify.com/track/2VmyLy2HQlkevZYboXHM5O) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:50 |
 | 41 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 42 | [Birdhouse in Your Soul](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 3:18 |
-| 43 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
-| 44 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
+| 43 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
+| 44 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
 | 45 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 |
 | 46 | [Popular](https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [High/Low](https://open.spotify.com/album/4o7LG3LUbq67bPNMitn00L) | 3:40 |
 | 47 | [Steal My Sunshine \- Single Version](https://open.spotify.com/track/5Muvh0ooAJkSgBylFyI3su) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine EP](https://open.spotify.com/album/7xXKgIFgbBSdBAV4rDZ9yp) | 3:31 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 75 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
 | 76 | [Kinky Afro](https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh) | 3:59 |
 | 77 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
-| 78 | [Yes \- Full Version](https://open.spotify.com/track/6joAGL5IuD66Qgcz049ObW) | [McAlmont & Butler](https://open.spotify.com/artist/0BV7lpkyFTbzzML7DuUnpZ) | [The Sound Of McAlmont And Butler](https://open.spotify.com/album/0gquqV1L3QZjZJ0ExzxtMo) | 4:53 |
-| 79 | [Wake up Boo!](https://open.spotify.com/track/15RgdXlKJQTNMsR4hAzIGh) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Wake Up!](https://open.spotify.com/album/4Jw9nbFQEGEfB3RCwHqRNU) | 3:37 |
+| 78 | [Wake up Boo!](https://open.spotify.com/track/15RgdXlKJQTNMsR4hAzIGh) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Wake Up!](https://open.spotify.com/album/4Jw9nbFQEGEfB3RCwHqRNU) | 3:37 |
+| 79 | [Yes \- Full Version](https://open.spotify.com/track/6joAGL5IuD66Qgcz049ObW) | [McAlmont & Butler](https://open.spotify.com/artist/0BV7lpkyFTbzzML7DuUnpZ) | [The Sound Of McAlmont And Butler](https://open.spotify.com/album/0gquqV1L3QZjZJ0ExzxtMo) | 4:53 |
 | 80 | [A.M\. 180](https://open.spotify.com/track/1tMHDdJEz8MFrkPFgwFACG) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under The Western Freeway](https://open.spotify.com/album/57FtCFNPyiqlltBLhFGDYi) | 3:20 |
 
-Snapshot ID: `AAAAAMgXCzBmOkrwhNnlRlsazGF6Vo0Y`
+Snapshot ID: `AAAAAG1cKBNLlChBrBojIQJnGTjZpYdy`

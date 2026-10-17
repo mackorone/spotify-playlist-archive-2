@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,211 likes - 150 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,305 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 91 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
 | 92 | [\(Ummmm, Oh Yeah\) Dearest](https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Giant](https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u) | 1:53 |
 | 93 | [Where Do You Go To \(My Lovely\) \- Re\-Recorded](https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4) | [Peter Sarstedt](https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B) | [The Lost Album](https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu) | 4:47 |
-| 94 | [Georgia on My Mind](https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:39 |
+| 94 | [You'll Never Walk Alone](https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:40 |
 | 95 | [This Magic Moment](https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3), [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Hits](https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9) | 2:27 |
-| 96 | [You'll Never Walk Alone](https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:40 |
-| 97 | [The Tracks Of My Tears](https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW) | 2:54 |
-| 98 | [What the World Needs Now Is Love](https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Close to You](https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA) | 3:10 |
+| 96 | [The Tracks Of My Tears](https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW) | 2:54 |
+| 97 | [What the World Needs Now Is Love](https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Close to You](https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA) | 3:10 |
+| 98 | [Georgia on My Mind](https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:39 |
 | 99 | [If I Can Dream \- Stereo Mix](https://open.spotify.com/track/1UFC110Pt7YQsgeDbmllyx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 3:11 |
 | 100 | [Mr\. Lonely](https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [16 Most Requested Songs](https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ) | 2:40 |
 | 101 | [Anyone Who Had a Heart \- 2003 Remaster](https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [Beginnings](https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD) | 2:51 |
@@ -135,9 +135,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 125 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 |
 | 126 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 |
 | 127 | [In Dreams](https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB) | 2:49 |
-| 128 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
+| 128 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 129 | [In My Life \- Remastered](https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:26 |
-| 130 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
+| 130 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 131 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
 | 132 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
 | 133 | [Somethin' Stupid](https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 2:42 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 149 | [Honey](https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [This Is..\. 1968](https://open.spotify.com/album/4ThbPOaSGQqqsn5FRKBX5i) | 4:01 |
 | 150 | [It Was A Very Good Year](https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA) | 4:27 |
 
-Snapshot ID: `AAAAAJ3INWrSsexJBZ+MGZVkX6t2ebHi`
+Snapshot ID: `AAAAALjYNdHApfoL7mu6CkOztPB/iIK2`

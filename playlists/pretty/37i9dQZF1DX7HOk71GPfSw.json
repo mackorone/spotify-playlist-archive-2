@@ -1,13 +1,49 @@
 {
-  "description": "giddy up  \ud80c\udcd7\ud80c\udcd7\ud80c\udcd7\ud80c\udcd7\ud80c\udcd7",
-  "num_followers": 525339,
+  "description": "TIFF X GLAIVE",
+  "num_followers": 525507,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA225eHhEPuncj9lpS+GSvWPZlfJ",
+  "snapshot_id": "AAAAAPGaDm1QZuWcV9Z0bOQC1BSmHbSr",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:01:43",
+      "album": {
+        "name": "MEANT TO BE",
+        "url": "https://open.spotify.com/album/6MoccCZq9aCOif59XMqkxp"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 178185,
+      "name": "MEANT TO BE",
+      "url": "https://open.spotify.com/track/7zJxlGeNQU0ABxIifFTStj"
+    },
+    {
+      "added_at": "2026-09-25 04:01:59",
+      "album": {
+        "name": "2 GIRLS",
+        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 129206,
+      "name": "2 GIRLS",
+      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
+    },
     {
       "added_at": "2026-07-03 04:02:01",
       "album": {
@@ -25,56 +61,44 @@
       "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
     },
     {
-      "added_at": "2026-10-09 04:02:16",
+      "added_at": "2026-09-25 04:01:59",
       "album": {
-        "name": "AFTER THE AFTERS",
-        "url": "https://open.spotify.com/album/2ieA7vFE29EVe1re91ZqTn"
+        "name": "Warhorse",
+        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq"
       },
       "artists": [
         {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
         }
       ],
-      "duration_ms": 129343,
-      "name": "BITCH, I KNOW",
-      "url": "https://open.spotify.com/track/0Oi7yCNUF7meXnoOzIA7ds"
+      "duration_ms": 240000,
+      "name": "Warhorse",
+      "url": "https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7"
     },
     {
-      "added_at": "2026-10-02 04:02:13",
+      "added_at": "2026-10-16 04:01:43",
       "album": {
-        "name": "c*ntry girl rock",
-        "url": "https://open.spotify.com/album/35IaQyLS43e1zryxSsXbDL"
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/4RaMBl9j6UBnDUM14oHTrv"
       },
       "artists": [
         {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+          "name": "VNESSA",
+          "url": "https://open.spotify.com/artist/3KdGbRHItmkWPmcfPbASWJ"
         },
         {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 226014,
-      "name": "c*ntry girl rock",
-      "url": "https://open.spotify.com/track/3SwB3iCazOqulClBTo6RsA"
-    },
-    {
-      "added_at": "2026-09-04 04:01:50",
-      "album": {
-        "name": "Anaheim Star",
-        "url": "https://open.spotify.com/album/3Q6GrLgn5lY7uDoR7FgdsM"
-      },
-      "artists": [
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        },
         {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
         }
       ],
-      "duration_ms": 166797,
-      "name": "Anaheim Star",
-      "url": "https://open.spotify.com/track/4ebLEVrsP0oQ8C9w2iwm5Q"
+      "duration_ms": 229714,
+      "name": "NOSTALGIA",
+      "url": "https://open.spotify.com/track/4jRCHwLDVuHguDMODWwIF7"
     },
     {
       "added_at": "2026-10-02 04:02:13",
@@ -91,22 +115,6 @@
       "duration_ms": 138626,
       "name": "BRAINDEAD (Okay!)",
       "url": "https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a"
-    },
-    {
-      "added_at": "2026-09-25 04:01:59",
-      "album": {
-        "name": "Warhorse",
-        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Warhorse",
-      "url": "https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7"
     },
     {
       "added_at": "2026-09-25 04:01:59",
@@ -129,6 +137,74 @@
       "url": "https://open.spotify.com/track/4Ev2R78P8cMZcdmv3RCUlI"
     },
     {
+      "added_at": "2026-07-17 04:02:03",
+      "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
+    },
+    {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/6iyZGJYs5Hcis6MkGrte6F"
+      },
+      "artists": [
+        {
+          "name": "aftrr!",
+          "url": "https://open.spotify.com/artist/6Twj8lltC7kWfs3G8TMr1u"
+        }
+      ],
+      "duration_ms": 267338,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/06P0eISbnaU1FOuuJAjAg2"
+    },
+    {
+      "added_at": "2026-09-04 04:01:50",
+      "album": {
+        "name": "Anaheim Star",
+        "url": "https://open.spotify.com/album/3Q6GrLgn5lY7uDoR7FgdsM"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 166797,
+      "name": "Anaheim Star",
+      "url": "https://open.spotify.com/track/4ebLEVrsP0oQ8C9w2iwm5Q"
+    },
+    {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "c*ntry girl rock",
+        "url": "https://open.spotify.com/album/35IaQyLS43e1zryxSsXbDL"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 226014,
+      "name": "c*ntry girl rock",
+      "url": "https://open.spotify.com/track/3SwB3iCazOqulClBTo6RsA"
+    },
+    {
       "added_at": "2026-06-19 04:01:32",
       "album": {
         "name": "CONSTANTLY",
@@ -149,10 +225,10 @@
       "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
     },
     {
-      "added_at": "2026-09-25 04:01:59",
+      "added_at": "2026-10-09 04:02:16",
       "album": {
-        "name": "2 GIRLS",
-        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
+        "name": "AFTER THE AFTERS",
+        "url": "https://open.spotify.com/album/2ieA7vFE29EVe1re91ZqTn"
       },
       "artists": [
         {
@@ -160,41 +236,37 @@
           "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
         }
       ],
-      "duration_ms": 129206,
-      "name": "2 GIRLS",
-      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
+      "duration_ms": 129343,
+      "name": "BITCH, I KNOW",
+      "url": "https://open.spotify.com/track/0Oi7yCNUF7meXnoOzIA7ds"
     },
     {
-      "added_at": "2026-08-07 04:02:03",
+      "added_at": "2026-10-16 04:01:43",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/6iyZGJYs5Hcis6MkGrte6F"
+        "name": "removed",
+        "url": "https://open.spotify.com/album/0OddpyBuxZ0Cq34SA6MCl8"
       },
       "artists": [
         {
-          "name": "aftrr!",
-          "url": "https://open.spotify.com/artist/6Twj8lltC7kWfs3G8TMr1u"
-        }
-      ],
-      "duration_ms": 267338,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/06P0eISbnaU1FOuuJAjAg2"
-    },
-    {
-      "added_at": "2026-10-02 04:02:13",
-      "album": {
-        "name": "\u00ed bleiku lj\u00f3si",
-        "url": "https://open.spotify.com/album/1qbeu0prgn2HSCEq8UYjBF"
-      },
-      "artists": [
+          "name": "Bayymack",
+          "url": "https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG"
+        },
         {
-          "name": "l\u00e1ra",
-          "url": "https://open.spotify.com/artist/6ErQHeCo3fok5FFg3rfyxP"
+          "name": "9aradox",
+          "url": "https://open.spotify.com/artist/6NZiiz3uZoa3URpHapoFsD"
+        },
+        {
+          "name": "hubithekid",
+          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
+        },
+        {
+          "name": "glasstone.",
+          "url": "https://open.spotify.com/artist/2CaLcid65U5zXPWdq2DryB"
         }
       ],
-      "duration_ms": 202644,
-      "name": "hringja",
-      "url": "https://open.spotify.com/track/1qYdEL0ske7wieombhZPbA"
+      "duration_ms": 187203,
+      "name": "removed",
+      "url": "https://open.spotify.com/track/6ZeHHTZ0HY407dPdYYIdIu"
     },
     {
       "added_at": "2026-08-21 04:01:32",
@@ -217,22 +289,6 @@
       "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
     },
     {
-      "added_at": "2026-07-17 04:02:03",
-      "album": {
-        "name": "Pop Sound",
-        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 171172,
-      "name": "Pop Sound",
-      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
-    },
-    {
       "added_at": "2026-07-03 04:02:01",
       "album": {
         "name": "Satellites",
@@ -247,6 +303,118 @@
       "duration_ms": 211000,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
+    },
+    {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "Creamy",
+        "url": "https://open.spotify.com/album/6kgJhA3eCnG3BQ7ilhRHmb"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Creamy",
+      "url": "https://open.spotify.com/track/5PQ9eOhnSsOCja5yymUAmW"
+    },
+    {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "\u00ed bleiku lj\u00f3si",
+        "url": "https://open.spotify.com/album/1qbeu0prgn2HSCEq8UYjBF"
+      },
+      "artists": [
+        {
+          "name": "l\u00e1ra",
+          "url": "https://open.spotify.com/artist/6ErQHeCo3fok5FFg3rfyxP"
+        }
+      ],
+      "duration_ms": 202644,
+      "name": "hringja",
+      "url": "https://open.spotify.com/track/1qYdEL0ske7wieombhZPbA"
+    },
+    {
+      "added_at": "2026-10-16 04:01:43",
+      "album": {
+        "name": "THIS IS NOT A PARTY SONG, BABY IT'S A THREAT!",
+        "url": "https://open.spotify.com/album/1JjhfPMqABX9rzxHziFEJu"
+      },
+      "artists": [
+        {
+          "name": "marg\u00f8",
+          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
+        }
+      ],
+      "duration_ms": 143284,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5M67g9CynA9Q5o7BHVAE3Z"
+    },
+    {
+      "added_at": "2026-08-21 04:01:32",
+      "album": {
+        "name": "strong emotion",
+        "url": "https://open.spotify.com/album/41syWv4PlFuREYMDCCghgb"
+      },
+      "artists": [
+        {
+          "name": "pager",
+          "url": "https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl"
+        }
+      ],
+      "duration_ms": 220352,
+      "name": "strong emotion",
+      "url": "https://open.spotify.com/track/35Hil9E7BcaP4Xql6SjzLn"
+    },
+    {
+      "added_at": "2026-09-25 04:01:59",
+      "album": {
+        "name": "gaslight",
+        "url": "https://open.spotify.com/album/44OT31BptYgG5Ct1xVJIsB"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        }
+      ],
+      "duration_ms": 128321,
+      "name": "gaslight",
+      "url": "https://open.spotify.com/track/0n9XvYQPrp6TAskFlrJHAN"
+    },
+    {
+      "added_at": "2026-10-02 04:02:13",
+      "album": {
+        "name": "billy",
+        "url": "https://open.spotify.com/album/0Gm9CZLhnIC5touMATdWaY"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 176294,
+      "name": "billy",
+      "url": "https://open.spotify.com/track/0fqaZvEg36C9NkQn0wGMmt"
+    },
+    {
+      "added_at": "2026-10-16 04:01:43",
+      "album": {
+        "name": "Last Ride",
+        "url": "https://open.spotify.com/album/1mFLEOdFcc6Ad7qRgeNIzO"
+      },
+      "artists": [
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "Last Ride",
+      "url": "https://open.spotify.com/track/0ygCpvo0OngGOnzBkYybre"
     },
     {
       "added_at": "2026-09-18 04:02:52",
@@ -269,22 +437,6 @@
       "url": "https://open.spotify.com/track/4Zu40S3DaIo0yd7kCZCnEV"
     },
     {
-      "added_at": "2026-09-11 04:02:10",
-      "album": {
-        "name": "Creamy",
-        "url": "https://open.spotify.com/album/6kgJhA3eCnG3BQ7ilhRHmb"
-      },
-      "artists": [
-        {
-          "name": "AMARA ctk100",
-          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Creamy",
-      "url": "https://open.spotify.com/track/5PQ9eOhnSsOCja5yymUAmW"
-    },
-    {
       "added_at": "2026-09-25 04:01:59",
       "album": {
         "name": "OPIA",
@@ -305,20 +457,20 @@
       "url": "https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW"
     },
     {
-      "added_at": "2026-08-21 04:01:32",
+      "added_at": "2026-10-16 04:01:43",
       "album": {
-        "name": "strong emotion",
-        "url": "https://open.spotify.com/album/41syWv4PlFuREYMDCCghgb"
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0jazziDwlkygil4r0wj044"
       },
       "artists": [
         {
-          "name": "pager",
-          "url": "https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl"
+          "name": "Cherrie B",
+          "url": "https://open.spotify.com/artist/5pMcy3RI5z6kYUhYs8iMRN"
         }
       ],
-      "duration_ms": 220352,
-      "name": "strong emotion",
-      "url": "https://open.spotify.com/track/35Hil9E7BcaP4Xql6SjzLn"
+      "duration_ms": 132867,
+      "name": "Poise",
+      "url": "https://open.spotify.com/track/3SyHA4JKu3o3stlfcYhRSr"
     },
     {
       "added_at": "2026-09-11 04:02:10",
@@ -437,22 +589,6 @@
       "url": "https://open.spotify.com/track/25v0VU7mJRQsews6qyWyfq"
     },
     {
-      "added_at": "2026-10-02 04:02:13",
-      "album": {
-        "name": "billy",
-        "url": "https://open.spotify.com/album/0Gm9CZLhnIC5touMATdWaY"
-      },
-      "artists": [
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-        }
-      ],
-      "duration_ms": 176294,
-      "name": "billy",
-      "url": "https://open.spotify.com/track/0fqaZvEg36C9NkQn0wGMmt"
-    },
-    {
       "added_at": "2026-09-25 04:01:59",
       "album": {
         "name": "How I learned 2 luv the bomb",
@@ -557,22 +693,6 @@
       "url": "https://open.spotify.com/track/4ragvZ6bncbPc34ZqgZFth"
     },
     {
-      "added_at": "2026-09-25 04:01:59",
-      "album": {
-        "name": "gaslight",
-        "url": "https://open.spotify.com/album/44OT31BptYgG5Ct1xVJIsB"
-      },
-      "artists": [
-        {
-          "name": "Kill Eva",
-          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
-        }
-      ],
-      "duration_ms": 128321,
-      "name": "gaslight",
-      "url": "https://open.spotify.com/track/0n9XvYQPrp6TAskFlrJHAN"
-    },
-    {
       "added_at": "2026-09-18 04:02:52",
       "album": {
         "name": "Error",
@@ -653,22 +773,6 @@
       "url": "https://open.spotify.com/track/5d7o5oyQJi0U77NQvDtOZB"
     },
     {
-      "added_at": "2026-09-25 04:01:59",
-      "album": {
-        "name": "bit the apple",
-        "url": "https://open.spotify.com/album/0TxXYDEgiqE8zqOzbNzJKt"
-      },
-      "artists": [
-        {
-          "name": "OHHara",
-          "url": "https://open.spotify.com/artist/0e78YfxsyhgcPGRCVfaK7I"
-        }
-      ],
-      "duration_ms": 167369,
-      "name": "bit the apple",
-      "url": "https://open.spotify.com/track/7EWUwOkRqLCidy0Ampo08t"
-    },
-    {
       "added_at": "2026-08-28 04:02:31",
       "album": {
         "name": "Bangs N Braces",
@@ -683,22 +787,6 @@
       "duration_ms": 165708,
       "name": "Tiger Tiger",
       "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
-    },
-    {
-      "added_at": "2026-09-18 04:02:52",
-      "album": {
-        "name": "Instinct",
-        "url": "https://open.spotify.com/album/6YI3T1Fp18q8b7s7QM9pGs"
-      },
-      "artists": [
-        {
-          "name": "Kianna",
-          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "stabilizer",
-      "url": "https://open.spotify.com/track/4w7d9o1bp3F2JSt8pcL9LC"
     },
     {
       "added_at": "2026-09-18 04:02:52",
@@ -1033,22 +1121,6 @@
       "url": "https://open.spotify.com/track/19LKgK2s53p3tvrAGO1ZAd"
     },
     {
-      "added_at": "2026-08-21 04:01:32",
-      "album": {
-        "name": "Music 2 Survive (u+i)",
-        "url": "https://open.spotify.com/album/0hpUuyJjsgx3g8ulYfVXVP"
-      },
-      "artists": [
-        {
-          "name": "Ryan Leahan",
-          "url": "https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Music 2 Survive (u+i)",
-      "url": "https://open.spotify.com/track/2ynZTUrrXt5kxoDGqoe38S"
-    },
-    {
       "added_at": "2026-08-28 04:02:31",
       "album": {
         "name": "Make It Rain",
@@ -1369,30 +1441,6 @@
       "url": "https://open.spotify.com/track/4jZUTV3lMCxllZiIvWte9X"
     },
     {
-      "added_at": "2026-08-07 04:02:03",
-      "album": {
-        "name": "Don't Bite Me",
-        "url": "https://open.spotify.com/album/3TjtsmP82aJf3UomUttShN"
-      },
-      "artists": [
-        {
-          "name": "Sabbath",
-          "url": "https://open.spotify.com/artist/2aN5HVA7yy6ETvW4V0lmdt"
-        },
-        {
-          "name": "Lightris",
-          "url": "https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi"
-        },
-        {
-          "name": "Keily Rude",
-          "url": "https://open.spotify.com/artist/4AUDKG5rkKzq8chuVE7QPv"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "Don't Bite Me",
-      "url": "https://open.spotify.com/track/506xhVfs30IMH4TVrhISh3"
-    },
-    {
       "added_at": "2026-07-10 04:02:12",
       "album": {
         "name": "U&ME",
@@ -1657,22 +1705,6 @@
       "url": "https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw"
     },
     {
-      "added_at": "2026-05-29 04:02:29",
-      "album": {
-        "name": "MARi GO ROUND",
-        "url": "https://open.spotify.com/album/3zSFgxHHV3ZCjj0FyhBCZv"
-      },
-      "artists": [
-        {
-          "name": "MARiMARi",
-          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
-        }
-      ],
-      "duration_ms": 133263,
-      "name": "POP SHUVIT!",
-      "url": "https://open.spotify.com/track/401qoFc0esSgVBS9av7m0C"
-    },
-    {
       "added_at": "2026-05-01 04:02:14",
       "album": {
         "name": "24/7",
@@ -1755,26 +1787,6 @@
       "duration_ms": 126982,
       "name": "8",
       "url": "https://open.spotify.com/track/4T0cCAE96WqdubcRDKUBEt"
-    },
-    {
-      "added_at": "2026-04-24 04:02:28",
-      "album": {
-        "name": "The Troubles",
-        "url": "https://open.spotify.com/album/6xXCPQaky7QKVnJea96Nl1"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "kurtains",
-          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
-        }
-      ],
-      "duration_ms": 116619,
-      "name": "The Troubles",
-      "url": "https://open.spotify.com/track/7tqpFCQNkitXkddXaPHYwc"
     },
     {
       "added_at": "2026-04-03 17:24:19",

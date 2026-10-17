@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,066 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,057 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 36 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
 | 37 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
 | 38 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
-| 39 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
-| 40 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
+| 39 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
+| 40 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
 | 41 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
 | 42 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 43 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
@@ -82,20 +82,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 72 | [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 |
 | 73 | [Prizefighter](https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [The Lighthouse](https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO) | 4:23 |
 | 74 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
-| 75 | [In Between Station](https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [In Between Station](https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq) | 3:26 |
-| 76 | [So Mean](https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Beauty Land](https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2) | 2:59 |
+| 75 | [So Mean](https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Beauty Land](https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2) | 2:59 |
+| 76 | [In Between Station](https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [In Between Station](https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq) | 3:26 |
 | 77 | [milk song](https://open.spotify.com/track/41NkKY7XckknHuM9MznKlL) | [FEMI](https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw) | [milk song](https://open.spotify.com/album/031A1YrvCP52bjYgQR5oJD) | 3:30 |
 | 78 | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ) | 3:20 |
-| 79 | [The Next Time We Meet](https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [The Next Time We Meet](https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA) | 3:03 |
-| 80 | [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 |
+| 79 | [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 |
+| 80 | [The Next Time We Meet](https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [The Next Time We Meet](https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA) | 3:03 |
 | 81 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 |
 | 82 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
 | 83 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 |
 | 84 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
 | 85 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 86 | [Woollen Women](https://open.spotify.com/track/5kSM7f7Bg9GgsTXs2Ro437) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Constant Distance](https://open.spotify.com/album/1NfdcDaioUmxBBUNfcv6JB) | 4:18 |
-| 87 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
-| 88 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
+| 87 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
+| 88 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
 | 89 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 |
 | 90 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 |
 | 91 | [Changing](https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 99 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 |
 | 100 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 |
 
-Snapshot ID: `AAAAADwzZKJeHkI14cLsy22wkRpX+urk`
+Snapshot ID: `AAAAAKnLffhxG7hbRal0cuax0YUb8wvf`

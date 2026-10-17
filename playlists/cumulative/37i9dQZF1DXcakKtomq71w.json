@@ -924,7 +924,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 188852,
       "name": "Believe In Us",
       "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 256301,
       "name": "Dreams - Radio Edit",
       "url": "https://open.spotify.com/track/5WezdG7WCZItkbQlUN0o2f"
@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 362134,
       "name": "El Mar (parece roto)",
       "url": "https://open.spotify.com/track/0ARduJZzHGefGVwvbmaWFe"
@@ -2806,6 +2806,24 @@
       "duration_ms": 325000,
       "name": "Enouwo Lagnon - Captain Planet Remix",
       "url": "https://open.spotify.com/track/6QvnriEykygBwOgz4iHGVN"
+    },
+    {
+      "album": {
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/28I9vIiZWeEox4NccEgwKR"
     },
     {
       "album": {
@@ -3338,7 +3356,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 174869,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/2DCm64GpkkLNvovKPCQt73"
@@ -3659,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Here Comes The Sun",
+        "url": "https://open.spotify.com/album/1m84e1Rhp6qX8ljClDpe9x"
+      },
+      "artists": [
+        {
+          "name": "Khenya",
+          "url": "https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209256,
+      "name": "Here Comes The Sun - Radio Edit",
+      "url": "https://open.spotify.com/track/15a0JVPWr5dqej4sygk2kv"
+    },
+    {
+      "album": {
         "name": "Hey Mama Remixes",
         "url": "https://open.spotify.com/album/6Xk6fRqgbcRPDcKvnDqX2d"
       },
@@ -3780,7 +3816,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 196096,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1gp6J1CXS73DDYmSop5UfS"
@@ -3828,7 +3864,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 209512,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/505V8I63QiIHDkpjHHBnUd"
@@ -4002,6 +4038,28 @@
       "duration_ms": 154634,
       "name": "Iag Bari (Yababa)",
       "url": "https://open.spotify.com/track/78lQ5KilDmoceHsxGkVEVj"
+    },
+    {
+      "album": {
+        "name": "Indigo Seat (Viken Arman Remix)",
+        "url": "https://open.spotify.com/album/2qO7HMnHxZCR5ndmIBvdCk"
+      },
+      "artists": [
+        {
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+        },
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461562,
+      "name": "Indigo Seat - Viken Arman Remix",
+      "url": "https://open.spotify.com/track/0bOmdhkHHfYBiTjPaEexwR"
     },
     {
       "album": {
@@ -4978,7 +5036,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 249249,
       "name": "Massako",
       "url": "https://open.spotify.com/track/54fo79hH3GjbWjW3zdhpLY"
@@ -6641,6 +6699,28 @@
     },
     {
       "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/0Z5gOunIQgtYnte0ZL3I1b"
+      },
+      "artists": [
+        {
+          "name": "Miguelle & Tons",
+          "url": "https://open.spotify.com/artist/1U7nDI6jydkqHWaOtUdlkx"
+        },
+        {
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264843,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/5YobNdB3ydXAXKxFjZdKXJ"
+    },
+    {
+      "album": {
         "name": "Quiero Vivir",
         "url": "https://open.spotify.com/album/6n3o1Y4xWjESryxwOJ4sTi"
       },
@@ -7043,6 +7123,32 @@
     },
     {
       "album": {
+        "name": "Salaam (Francis Mercier Remix)",
+        "url": "https://open.spotify.com/album/1wQUECOcBHdaW7zLFSJaKV"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223414,
+      "name": "Salaam - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/1egghObxtLj9DKvEA3souC"
+    },
+    {
+      "album": {
         "name": "SALAAM REMIX",
         "url": "https://open.spotify.com/album/39EdW4j8su708N4R3PhkG0"
       },
@@ -7352,7 +7458,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 312772,
       "name": "Shamma - Mixed",
       "url": "https://open.spotify.com/track/2hurzetg6nqmPIFq6xZGGm"
@@ -7590,6 +7696,24 @@
       "duration_ms": 405836,
       "name": "Solitude - Extended Mix",
       "url": "https://open.spotify.com/track/18X5TMrz9yCt4GGxaigDqK"
+    },
+    {
+      "album": {
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/6Pjs7yNBDDgQZlFiapErTL"
     },
     {
       "album": {
@@ -7976,7 +8100,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 354000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4EntXHsQVElqb7eo6WAa13"
@@ -8280,6 +8404,24 @@
       "duration_ms": 281379,
       "name": "This Way",
       "url": "https://open.spotify.com/track/5DjKYHA5HKdwJylVBPprQU"
+    },
+    {
+      "album": {
+        "name": "Offcuts",
+        "url": "https://open.spotify.com/album/4bFMPj86EIvOKaWeL1jRjO"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/1rGf62MjPoGOUyiwyLbcEC"
     },
     {
       "album": {
@@ -8774,7 +8916,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 242926,
       "name": "Unconditional - Xinobi Remix",
       "url": "https://open.spotify.com/track/5m4mnJ1lot8geJyIDHp2Ld"
@@ -9006,6 +9148,46 @@
       "duration_ms": 394838,
       "name": "Vibraci\u00f3n C\u00f3smica",
       "url": "https://open.spotify.com/track/07tVofOmZNDkhLJN7oFEaa"
+    },
+    {
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/5GUpwgodJTG9dGZW84eITd"
+      },
+      "artists": [
+        {
+          "name": "Jay Fase",
+          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214214,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/35cDNhnXah82OKiY5jdgdI"
+    },
+    {
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT"
     },
     {
       "album": {
@@ -9516,7 +9698,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 268743,
       "name": "You're a Star",
       "url": "https://open.spotify.com/track/2YbuRaVpUb5GUgYu4k0ZkZ"

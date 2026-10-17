@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,408 songs - 3 day 16 hr 17 min
+1,414 songs - 3 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Endless Torment](https://open.spotify.com/track/0Wx5aMbQMihpYBVbCk8lzd) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [Endless Torment](https://open.spotify.com/album/3pmANMJYRSIcUHREZvvdjT) | 4:06 | 2023-05-26 | 2024-02-03 |
 | [Enemy](https://open.spotify.com/track/6k1lL3C1nQGkt7JicOdnu0) | [Ingrown](https://open.spotify.com/artist/7DHEVu8mFuQP14XdDIFhss) | [ENEMY](https://open.spotify.com/album/3P1udSCF5amfmYhIlJrY6u) | 1:52 | 2024-10-18 | 2025-04-11 |
 | [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 | 2024-02-03 |
+| [Enslaver Of The Continents](https://open.spotify.com/track/6kTx4MsmR2Ks9oirjblU8n) | [Extermination Dismemberment](https://open.spotify.com/artist/2kmN6qYkywddUoh7JIUdZi) | [Enslaver Of The Continents](https://open.spotify.com/album/74aXm0oRloF7ZcBjuPpb1Q) | 4:12 | 2026-10-16 |  |
 | [Entabeni](https://open.spotify.com/track/4IYjRMng2yVbUjTEDAblDZ) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [PeelingFlesh](https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG) | [Entabeni](https://open.spotify.com/album/1aXezsjsRSPK5YrzTTzfKS) | 4:26 | 2024-05-10 | 2025-04-11 |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 | 2023-07-15 |
 | [Entity And Form](https://open.spotify.com/track/1J9oZNqDkw1qTb5tfd3wCF) | [Worn](https://open.spotify.com/artist/7qeRubP1L77fa3cgspFV78) | [Entity And Form](https://open.spotify.com/album/1VaOivoPULe3f9DoHd70I8) | 2:15 | 2023-08-04 | 2024-02-03 |
@@ -407,6 +408,7 @@
 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-01-06 | 2024-02-03 |
 | [Family](https://open.spotify.com/track/50cQtNX7ngkLWMTEz5fPg1) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Family](https://open.spotify.com/album/4P1v9rqKPHcXm6M2meMugW) | 3:25 | 2024-09-20 | 2025-04-11 |
 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 | 2026-06-26 |  |
+| [Farewell of the Century](https://open.spotify.com/track/6uH8W17ox6JiElDvpXmEuW) | [Buried In Spring](https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY) | [Buried In Spring](https://open.spotify.com/album/0mrjFNe8nS7u39pwGX1OJ5) | 3:26 | 2026-10-16 |  |
 | [Fatal Reality](https://open.spotify.com/track/5t7EVml5qN27lkRhv4NibM) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/2qOeSLz1t8ht0MQaLOGzEC) | 2:40 | 2023-04-28 | 2024-02-03 |
 | [Fatalist](https://open.spotify.com/track/3w1pnSv8B46NVsias65E1L) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Fatalist](https://open.spotify.com/album/4I2112nHeCLwTEb4xkUowx) | 3:03 | 2024-06-07 | 2025-04-11 |
 | [Fear Based Life](https://open.spotify.com/track/2vlyJGYuyjE839pSMiGnvb) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Fear Based Life](https://open.spotify.com/album/086eMd4hJaJxTRj33KmRFN) | 2:34 | 2026-09-04 |  |
@@ -474,6 +476,7 @@
 | [GETMONEY](https://open.spotify.com/track/2k3eHeXxtdkzuTSqt4fizQ) | [Crush Your Soul](https://open.spotify.com/artist/5cPuAhAKfhw715sOdA37Xo) | [Crush Your Soul](https://open.spotify.com/album/1gJ9aiByVppSxqqnDMIBRw) | 1:40 | 2024-02-09 | 2025-04-11 |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-05-12 | 2024-02-03 |
 | [Ghost Ride](https://open.spotify.com/track/6erjczeLxFxCOrSpJ98Zij) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Light as a Feather](https://open.spotify.com/album/5tBdfLoUvMkjpIKvPGRvfx) | 4:10 | 2023-09-15 | 2024-02-03 |
+| [Ghosts](https://open.spotify.com/track/1z8A0pBSko5gfFlCY2cflK) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Ghosts](https://open.spotify.com/album/3ZhTfeef3Y6AkC7PEaGmRJ) | 3:12 | 2026-10-16 |  |
 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 | 2026-06-20 |
 | [Gigantic Parasite Tongue](https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Gigantic Parasite Tongue](https://open.spotify.com/album/3Hq9OZHYIsZYrpitjtO9EH) | 4:17 | 2026-04-03 |  |
 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 | 2024-12-06 | 2025-04-11 |
@@ -610,6 +613,7 @@
 | [Into The Suffer](https://open.spotify.com/track/5UlTbTL3VLHmIaHipuXF0X) | [Melting](https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF) | [Into The Suffer](https://open.spotify.com/album/0REm2wCgnfI2FqZ24RBkMS) | 3:19 | 2025-03-14 | 2026-04-25 |
 | [INVERTED SPEAR OF HEAVEN](https://open.spotify.com/track/1c5WFko3iRB0uCshh5YCjZ) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER](https://open.spotify.com/album/0dHQH04nSGugSUSQOHOUpF) | 3:14 | 2025-07-25 | 2026-08-29 |
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 | 2024-02-03 |
+| [Isolationist](https://open.spotify.com/track/1xgxvL2NWsZblYpDyMWIpt) | [Reclus.É](https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV) | [Isolationist](https://open.spotify.com/album/3wY9AYqHSCVlesUIrsWjBy) | 2:19 | 2026-10-16 |  |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 | 2023-07-15 |
 | [It's All Over \(For You\)](https://open.spotify.com/track/33ybzOrdCkudB1fGloubQ8) | [Neon Nightmare](https://open.spotify.com/artist/0lMcJVE9KZzlfnomZIC7HF) | [Faded Dream](https://open.spotify.com/album/6Ab6OuwGKo4KazGhv7vmWR) | 5:38 | 2024-11-01 | 2025-04-11 |
 | [It's For the Kids](https://open.spotify.com/track/0rRAt1VhgqaGWDIJaQdL5B) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [It's For the Kids](https://open.spotify.com/album/6SKn3htgxASf9DejKpfrEx) | 4:20 | 2026-05-15 |  |
@@ -659,6 +663,7 @@
 | [Let There Be Shred](https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Let There Be Shred](https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz) | 3:58 | 2025-12-19 |  |
 | [Lethal Abuse](https://open.spotify.com/track/7ysxRZuP9dMAvYSiU9l7d3) | [Ablation](https://open.spotify.com/artist/0CA9QHDBttbK4FboiCh8cm) | [Lethal Abuse](https://open.spotify.com/album/4Rw9CwmV50VFaMjD7nFlNW) | 2:41 | 2026-04-10 |  |
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 | 2023-07-15 |
+| [Licking Love From A Knife](https://open.spotify.com/track/7sucuTPOCKPKYDNIz66IDt) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Licking Love From A Knife](https://open.spotify.com/album/7kaW8I3bWn0P0qGiwXPfMg) | 7:42 | 2026-10-16 |  |
 | [Life Is a Corpse You Drag](https://open.spotify.com/track/6I8qjmAT2MfEbCGN7L9r6l) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Life Is a Corpse You Drag](https://open.spotify.com/album/5vrkSHpOnc9RiYANMGyi8B) | 5:21 | 2026-01-09 |  |
 | [Life Sentence](https://open.spotify.com/track/6qdNvTHQJe7PLjVxnqWZr7) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Life Sentence](https://open.spotify.com/album/3aZzHYlm07x71wGE4mjNKX) | 3:08 | 2024-11-01 | 2025-04-11 |
 | [Life Unknown](https://open.spotify.com/track/0trsDMSa16iKVLvGuwoee2) | [Praise](https://open.spotify.com/artist/5pBjhwqwoCpxGm4igqvgCi) | [Life Unknown](https://open.spotify.com/album/2OHDTjpGe1QosiQiy7UVwe) | 3:37 | 2022-04-22 | 2023-07-15 |
@@ -720,6 +725,7 @@
 | [Melt The Crown](https://open.spotify.com/track/2FgGrRwDJyQOHUah3NLTFB) | [Anciients](https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE) | [Melt The Crown](https://open.spotify.com/album/4EpVa0eeQghz10IzWXj28Z) | 7:05 | 2024-05-24 | 2025-04-11 |
 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 | 2023-05-05 | 2024-02-03 |
 | [Mercia](https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Mercia](https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep) | 5:34 | 2025-09-19 |  |
+| [Merciless Hunger](https://open.spotify.com/track/2YQtdSJGCR5El3lUFExgax) | [Extol](https://open.spotify.com/artist/3A6RBkFY3kND3Z5kXM3Cz3) | [Merciless Hunger](https://open.spotify.com/album/7C7iVAY9NSK2YfvlUwQ54d) | 4:23 | 2026-10-16 |  |
 | [Mercy](https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Mercy](https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4) | 3:49 | 2026-03-27 |  |
 | [Message Like a Bomb](https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX) | [Message Like a Bomb](https://open.spotify.com/album/0mRYDMAOJtEGtAkeU7ScNb) | 3:15 | 2023-07-28 | 2024-02-03 |
 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 | 2024-01-26 | 2025-04-11 |

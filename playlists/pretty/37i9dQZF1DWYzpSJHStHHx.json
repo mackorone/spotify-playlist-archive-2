@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483589,
+  "num_followers": 483586,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP40k8y0RPM/KrQx3KnVq1Tl9MPf",
+  "snapshot_id": "AAAAALgCRtKnGaCmRgbHYFjeWgjx3bv5",
   "tracks": [
     {
       "added_at": "2026-09-17 14:00:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Kamakura",
-        "url": "https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu"
-      },
-      "artists": [
-        {
-          "name": "Yuzostate",
-          "url": "https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kamakura",
-      "url": "https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Read My Mind",
         "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 212490,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Kamakura",
+        "url": "https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu"
+      },
+      "artists": [
+        {
+          "name": "Yuzostate",
+          "url": "https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kamakura",
+      "url": "https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 134408,
       "name": "Thrift Store",
       "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Chubby Money",
-        "url": "https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU"
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
       },
       "artists": [
         {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
         }
       ],
-      "duration_ms": 211243,
-      "name": "Chubby Money",
-      "url": "https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V"
+      "duration_ms": 215000,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+        "name": "Chubby Money",
+        "url": "https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU"
       },
       "artists": [
         {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+      "duration_ms": 211243,
+      "name": "Chubby Money",
+      "url": "https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V"
     },
     {
       "added_at": "2026-09-17 14:00:53",

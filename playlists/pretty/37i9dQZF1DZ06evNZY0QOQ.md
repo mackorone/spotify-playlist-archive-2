@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,836 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,837 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 11 | [samson and delilah \(feat\. Mayra Andrade\)](https://open.spotify.com/track/0grBASdhUSTmeDA0ejensM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:14 |
 | 12 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 |
 | 13 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/7q82Rs7vQn8bJcwj8uE0Af) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 2:17 |
-| 14 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
-| 15 | [BADAMINTON](https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BADAMINTON](https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl) | 2:07 |
+| 14 | [BADAMINTON](https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BADAMINTON](https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl) | 2:07 |
+| 15 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
 | 16 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 |
 | 17 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
 | 18 | [AFRICAN GIRLS](https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [AFRICAN GIRLS](https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc) | 2:03 |

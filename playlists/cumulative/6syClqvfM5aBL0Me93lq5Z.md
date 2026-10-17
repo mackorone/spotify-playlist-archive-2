@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-67 songs - 3 hr 58 min
+68 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Hammer To Fall](https://open.spotify.com/track/2GCFcbxm61rSA8gzsDk6NJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) | 4:26 | 2023-03-21 |  |
 | [Harbor Me](https://open.spotify.com/track/7nj7vE7w2kQ8XrtlRjaqor) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:07 | 2025-02-16 |  |
 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 | 2023-04-02 |  |
+| [I Don't Work Here](https://open.spotify.com/track/6WwYfGKafOJaYHPDUPPuDC) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Podium](https://open.spotify.com/album/4rJLfcbd5rmXOr6muEBKtM) | 3:00 | 2026-10-17 |  |
 | [I'd Love to Change the World \- 2004 Remaster](https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [A Space in Time \(Deluxe Version\)](https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE) | 3:44 | 2024-10-27 |  |
 | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/track/6pG2R3eEUtFeH0sHkIcdg5) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/album/4ywC4BFKBC90intbtIV715) | 3:14 | 2025-07-20 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |

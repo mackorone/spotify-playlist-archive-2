@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,189 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,215 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Easy Street](https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Easy Street](https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n) | 3:51 |
 | 100 | [Glimmer](https://open.spotify.com/track/6HxdF6wqrHeuIyyypYaeUK) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [BLISS](https://open.spotify.com/album/7ma9QDQt7T6WhjF4UIITvA) | 3:55 |
 
-Snapshot ID: `AAAAAHDbbJFZfidJvK7PjkTeiBpw9mFm`
+Snapshot ID: `AAAAAC56+EEcJ8CvAkiUKVBh5votXNVT`

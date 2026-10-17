@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,638 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,641 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 64 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |
 | 65 | [Verboden Vruchten](https://open.spotify.com/track/4EAzFow27dcGBbLyuEMa1e) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:47 |
 | 66 | [Jij Bent Voor Mij Alleen](https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 2:51 |
-| 67 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
-| 68 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
+| 67 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
+| 68 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
 | 69 | [Mama Vertel Me](https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Hollands Glorie](https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd) | 3:11 |
 | 70 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
 | 71 | [Dans met mij](https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollands Glorie](https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK) | 2:39 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 89 | [Dans Nog Eenmaal Met Mij](https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM) | [The Fouryo's](https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB) | [The Story of Volume 1](https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ) | 2:39 |
 | 90 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
 
-Snapshot ID: `AAAAAF5CU1e8NNzZSkl7JCQf7EgvqftN`
+Snapshot ID: `AAAAAI/qpquo+S/nAMTY4FHaouB+87g/`

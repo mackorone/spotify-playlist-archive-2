@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/0GF23WOvjJjLqNjtWDnbAW"
+      },
+      "artists": [
+        {
+          "name": "Pascal Brochu",
+          "url": "https://open.spotify.com/artist/7pO322Zg9e1EZ0RVB64F1o"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/7vV9QDHk4grxd2VGG7eq3R"
+    },
+    {
+      "album": {
         "name": "Noir",
         "url": "https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4"
       },

@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Can You Find the Ghost?",
+        "url": "https://open.spotify.com/album/3rjF8u9m5Dco6GUC5zYoUy"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144132,
+      "name": "Can You Find the Ghost?",
+      "url": "https://open.spotify.com/track/5NfJ9lbDsDqAbEtHPf50Uk"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Halloween Party!",
         "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
       },
@@ -5480,6 +5498,28 @@
       "duration_ms": 173465,
       "name": "Spooky Night (from A Really Haunted Loud House)",
       "url": "https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX"
+    },
+    {
+      "album": {
+        "name": "Disney Jr. Music: Ozzy Fox - Halloween",
+        "url": "https://open.spotify.com/album/3uSw7eULEMikBTsuYGitb4"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111361,
+      "name": "Spooky or Silly",
+      "url": "https://open.spotify.com/track/2wptYyv0vrpCe97GQZ9CIF"
     },
     {
       "album": {

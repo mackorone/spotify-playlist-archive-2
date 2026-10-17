@@ -4,12 +4,12 @@
 
 > Silky sounds for the sheets.
 
-310 songs - 17 hr 43 min
+311 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['til the room stinks \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 2:30 | 2026-06-26 | 2026-06-29 |
-| ['til u cry](https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:58 | 2026-06-26 | 2026-10-08 |
+| ['til u cry](https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:58 | 2026-06-26 |  |
 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 | 2025-04-25 | 2026-02-02 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-12-02 |  |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-17 |  |
@@ -94,7 +94,7 @@
 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 | 2023-02-12 |  |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-08-13 | 2022-07-27 |
 | [everybody knows](https://open.spotify.com/track/5hI3LDMdW5psqk8ClzSHid) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/3Iqj7izDM8MKscAuEtpL4J) | 3:22 | 2022-03-25 | 2022-10-04 |
-| [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2022-10-03 |  |
+| [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2022-10-03 | 2026-10-17 |
 | [Face Down](https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Face Down](https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN) | 2:48 | 2022-09-09 | 2023-02-03 |
 | [Facetime](https://open.spotify.com/track/2q4cLqUTbjtvlXIcaa85TA) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 2:31 | 2022-10-03 | 2024-09-18 |
 | [FALLING](https://open.spotify.com/track/3cF6uekOdMpiyBauNJAqFJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PREJECTION](https://open.spotify.com/album/2QecXFCdxhwwee5vHbRGLX) | 2:14 | 2022-10-03 | 2025-02-15 |
@@ -105,6 +105,7 @@
 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 | 2022-10-03 |  |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-20 | 2026-02-02 |
 | [Freak & A Friend](https://open.spotify.com/track/3aLexKSJUByg49fRnVLG9C) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Freak & A Friend](https://open.spotify.com/album/1xZoFlfMDbElbUxFfFCHqn) | 2:25 | 2025-08-08 |  |
+| [Freak Inside](https://open.spotify.com/track/5E6hwJ4Z3qB79UugbIQ1Ea) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [ALOUD!](https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D) | 3:17 | 2026-10-16 |  |
 | [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-09-09 | 2023-02-24 |
 | [Freaky](https://open.spotify.com/track/2RMVF5zL92Y3FjMVPwUmmh) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [The R&B You Love: For the '99 and the 2000s](https://open.spotify.com/album/5dFAi8YRb09fkSJAATWGrX) | 3:27 | 2024-08-09 | 2025-02-15 |
 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 | 2021-08-13 | 2022-10-04 |
@@ -289,7 +290,7 @@
 | [Touch It \(Do It Well Pt\. 4\)](https://open.spotify.com/track/7mWB4XFFEKjysQaQzIg9QR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 4:31 | 2023-02-10 | 2025-08-15 |
 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 | 2021-08-13 | 2025-09-20 |
 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 | 2022-10-03 | 2022-12-03 |
-| [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 | 2026-05-22 |  |
+| [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 | 2026-05-22 | 2026-10-17 |
 | [Treat](https://open.spotify.com/track/0BKjosTqxAhWzOUfpwI1X0) | [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [Treat](https://open.spotify.com/album/6m55tntKWRAoiBMzoirZ5s) | 2:46 | 2021-08-13 | 2022-07-29 |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2021-08-13 | 2022-10-04 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-17 |  |

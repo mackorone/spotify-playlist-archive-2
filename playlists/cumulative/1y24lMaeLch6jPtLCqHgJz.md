@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-507 songs - 1 day 1 hr 20 min
+509 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [D.O.M\. \- Bubbling Mix](https://open.spotify.com/track/3tFG2m9G26DLChleU4aWHR) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 | 2025-10-09 |
 | [Damaru](https://open.spotify.com/track/0phauLON2YMdn7EJBxy22K) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Mëlbëc](https://open.spotify.com/artist/1sheUnPKG2ZarLC6f1MstP) | [Damaru](https://open.spotify.com/album/4H89g4DpPpX9lxxkjLCsIZ) | 3:31 | 2024-10-22 | 2024-11-30 |
 | [Dance All Night](https://open.spotify.com/track/6xfQjv4RvP5DVaxYYZCRTV) | [Jeckyll & Hyde](https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1) | [Dance All Night](https://open.spotify.com/album/1NZMme5AXFMvl8lxsbwPk6) | 2:46 | 2024-03-29 | 2024-05-11 |
+| [Dance Is Math](https://open.spotify.com/track/5f12PBvlqhsj4F04PgpgRb) | [Fenrick](https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3) | [Dance Is Math](https://open.spotify.com/album/5fBgbbY3p73ynUP7TJAstS) | 2:52 | 2026-10-16 |  |
 | [Dance Monkey](https://open.spotify.com/track/2jSgV3fYu5HdgrIDkFp8xU) | [Machine Made](https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB) | [Dance Monkey](https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN) | 2:58 | 2023-07-05 | 2023-09-23 |
 | [Dance To The Beat](https://open.spotify.com/track/41k8u6SocCk1PvdqZ7Z3QI) | [RAVEKINGS](https://open.spotify.com/artist/1mWqL90F7Hmnx0VLoDy6YQ), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5) | [Dance To The Beat](https://open.spotify.com/album/0Rsy2bAEllfxCx51biit4t) | 2:16 | 2026-08-06 |  |
 | [Dance With Romance](https://open.spotify.com/track/69SUKBULZigUveocU7MkDV) | [Noz Cate](https://open.spotify.com/artist/2nhjBKSJ2wpxLGM5PDQ1lt) | [For The Love Of Progressive EP](https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs) | 3:15 | 2024-06-20 |  |
@@ -474,6 +475,7 @@
 | [Ultra Love \- RYOS Remix](https://open.spotify.com/track/1gh0zF0GW1Rf0e2Bpvi4oz) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg), [RYOS](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Ultra Love \(RYOS Remix\)](https://open.spotify.com/album/7aiVOw626yHX9o9hNkrqp6) | 3:33 | 2026-06-23 |  |
 | [Under My Skin](https://open.spotify.com/track/5ECbvtOhtlZr0rMS2k5SNX) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [FELYN](https://open.spotify.com/artist/0szTDpZPGXwM1fJpgaJkhF) | [Under My Skin](https://open.spotify.com/album/3S1j9UHWLks59ypFnB1xWc) | 2:57 | 2026-10-15 |  |
 | [Under The Moonlight](https://open.spotify.com/track/6LnPMGaiR8zMI0gWrvuoF8) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP) | [Under The Moonlight](https://open.spotify.com/album/50pn19SdyxaBZVBqvARV3W) | 2:39 | 2025-09-25 |  |
+| [Universe](https://open.spotify.com/track/1yoNzFr224UubDTCR7N739) | [Acid Asian](https://open.spotify.com/artist/4rYbneiWL3QPCzKfjFK3fe) | [Universe EP](https://open.spotify.com/album/1fdqdu1i6CZ9mIYFimO5DD) | 2:32 | 2026-10-16 |  |
 | [Unstoppable](https://open.spotify.com/track/1mbxcxfklTT0S2r4xcOKgH) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Unstoppable](https://open.spotify.com/album/2c2tM8qDfR7ELliJ4hatPa) | 3:05 | 2026-07-31 |  |
 | [Vibration](https://open.spotify.com/track/3mVgxiEBvMmO0Rms2VwAzY) | [Matt Ice](https://open.spotify.com/artist/08m37iZCXNDii26j1peJpE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Vibration](https://open.spotify.com/album/5mC8vxcYv2yqlvuPWM3kRT) | 3:23 | 2024-02-29 | 2024-08-10 |
 | [Wait](https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M) | [Wait](https://open.spotify.com/album/5h68xM7y94PgItlUJrSK7M) | 3:07 | 2026-01-23 |  |

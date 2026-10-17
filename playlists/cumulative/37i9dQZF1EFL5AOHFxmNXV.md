@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-309 songs - 19 hr 13 min
+310 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [SAVAGE ANTHEM](https://open.spotify.com/track/1Pz2tj1ViKvXWNlJylJvDy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 6:16 | 2026-09-23 | 2026-10-09 |
 | [SAVAGE ANTHEM](https://open.spotify.com/track/2HEXCknvxmtoj8p8Rpl8mT) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE \(Chopped Not Slopped\)](https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo) | 6:16 | 2026-10-09 |  |
 | [SAVAGE ANTHEM](https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 6:16 | 2023-06-29 | 2026-10-10 |
+| [Say What \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 4:16 | 2026-10-16 |  |
 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 | 2023-12-13 |  |
 | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/album/0uHHoKJvLxf4gGRhyTUpjy) | 3:33 | 2023-06-29 | 2023-12-14 |
 | [Sex on the Beach](https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:49 | 2023-06-29 |  |

@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-185 songs - 9 hr 24 min
+187 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Exhilaration](https://open.spotify.com/track/7B8MbvpzBhbhYf3xvzHbba) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Freakquencies: Volume 1](https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD) | 3:27 | 2025-08-22 | 2025-09-13 |
 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 | 2026-02-09 |  |
 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-08-22 | 2026-03-28 |
+| [Fight For Love](https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [Fight For Love](https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T) | 3:00 | 2026-10-16 |  |
 | [Fired Up](https://open.spotify.com/track/59Zh2cPqIZSPjadFpUr5iF) | [Hoax \(BE\)](https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Fired Up](https://open.spotify.com/album/2lsPTHNG4ot3c33R3qN06E) | 3:48 | 2025-07-04 | 2026-08-25 |
 | [Forever Yours \- Tim’s 2016 Ibiza Version](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Tim’s 2016 Ibiza Version\)](https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371) | 3:28 | 2025-07-04 |  |
 | [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 | 2026-01-09 |  |
@@ -112,6 +113,7 @@
 | [Loving You Is Life](https://open.spotify.com/track/0XSomaqxA3ic743NuPpEKe) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [JOSEPH](https://open.spotify.com/artist/7tPCHxx5JMvvlUDndg57nj) | [Loving You Is Life](https://open.spotify.com/album/62tX5DmEnXJiK8AuTHPoCT) | 2:19 | 2025-09-26 | 2026-08-25 |
 | [Lucky Ones](https://open.spotify.com/track/4xStcEBEoOYfBH0fTMM5hN) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [carteblanche](https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG) | [Lucky Ones](https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx) | 3:22 | 2026-08-21 |  |
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-07-04 |  |
+| [make u mine](https://open.spotify.com/track/37SVIAV3BnSkAbNPkM1l76) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [make u mine](https://open.spotify.com/album/05XidhkBUM8o0T8Paq5rW8) | 2:40 | 2026-10-16 |  |
 | [Maladie](https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3) | 3:12 | 2026-10-05 | 2026-10-13 |
 | [Mandjou](https://open.spotify.com/track/1TQrMNDH29GjOnQa528bm6) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Feki Station](https://open.spotify.com/artist/2LMUZc4VeAVjEG2BNMuL2L), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mandjou](https://open.spotify.com/album/6HBmnZQbAddEaKfOFlf11K) | 4:34 | 2026-07-27 |  |
 | [Marido Dansa](https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Marido Dansa EP](https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p) | 2:34 | 2026-10-12 |  |

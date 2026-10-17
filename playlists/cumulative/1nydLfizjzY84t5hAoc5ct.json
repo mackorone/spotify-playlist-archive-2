@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 200744,
       "name": "Casper",
       "url": "https://open.spotify.com/track/67A5a3C1BneAZRgsgenS8T"
@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 147433,
       "name": "Get Over It",
       "url": "https://open.spotify.com/track/5oheaEGelTvBnjgBMzZC4I"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204000,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
@@ -4914,7 +4914,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 264666,
       "name": "Make It Out",
       "url": "https://open.spotify.com/track/2ERtVyfIhVWUlHxiddsc2K"
@@ -5495,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Bom",
         "url": "https://open.spotify.com/album/6yebdivCb5VsaJzH6GS2AZ"
       },
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
@@ -5892,7 +5910,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 388384,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/28kblNW3bKowm3XV6xdKuo"
@@ -6442,7 +6460,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213500,
       "name": "Save Me Now",
       "url": "https://open.spotify.com/track/1DpOALvlIsJTQuzlCtVFTt"
@@ -6606,6 +6624,24 @@
       "duration_ms": 172363,
       "name": "she left without a word",
       "url": "https://open.spotify.com/track/48vcWzZpMpSYzyaHLiF9IC"
+    },
+    {
+      "album": {
+        "name": "She's Like Sunshine",
+        "url": "https://open.spotify.com/album/6BUJbGufaZdzgfFyT4wuPK"
+      },
+      "artists": [
+        {
+          "name": "Megan Black",
+          "url": "https://open.spotify.com/artist/3MqAu6C6vzxvdO1ezB1R46"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246809,
+      "name": "She's Like Sunshine",
+      "url": "https://open.spotify.com/track/00mbCoDoqDEyl3pCw9gv6h"
     },
     {
       "album": {
@@ -7677,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "The Smoker",
+        "url": "https://open.spotify.com/album/16uUDuoMBy8Qmjc0kO5zfH"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176997,
+      "name": "The Smoker",
+      "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
+    },
+    {
+      "album": {
         "name": "The Talk",
         "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
       },
@@ -8172,7 +8226,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 260127,
       "name": "What's Wrong With You?",
       "url": "https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS"

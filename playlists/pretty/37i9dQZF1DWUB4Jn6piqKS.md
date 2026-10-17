@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,451 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,470 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 21 | [Let's Wade In The Water](https://open.spotify.com/track/0l2CjLs5IuME1bZeRfNSrm) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 3:34 |
 | 22 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
 | 23 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
-| 24 | [This Love Starved Heart Of Mine \(It's Killing Me\) \- 1994 Love Starved Heart Version \(Mono\)](https://open.spotify.com/track/2dQrPamTqMPkYAGRQO76dX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Lost & Found: Love Starved Heart \- Expanded Edition](https://open.spotify.com/album/1aGm5Z9HtjM0v0ldtDJVVB) | 2:40 |
-| 25 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
+| 24 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
+| 25 | [This Love Starved Heart Of Mine \(It's Killing Me\) \- 1994 Love Starved Heart Version \(Mono\)](https://open.spotify.com/track/2dQrPamTqMPkYAGRQO76dX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Lost & Found: Love Starved Heart \- Expanded Edition](https://open.spotify.com/album/1aGm5Z9HtjM0v0ldtDJVVB) | 2:40 |
 | 26 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 |
 | 27 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 |
 | 28 | [Just A Little Misunderstanding](https://open.spotify.com/track/03qdgEafx6iQkZHWQ6Ytjx) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Essential](https://open.spotify.com/album/6SCZSe06bdBdFE3T3ouLT8) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 99 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
 | 100 | [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 |
 
-Snapshot ID: `AAAAANtvfml9Owb63T9C7Ya+nAN4y1ib`
+Snapshot ID: `AAAAAFpzFfQ5Rp5ffgtady1dgfmZC9zw`

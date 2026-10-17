@@ -4,7 +4,7 @@
 
 > Mellow jazz for focus or unwinding.
 
-1,401 songs - 3 day 10 hr 18 min
+1,403 songs - 3 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 | 2024-06-12 |
 | [All For You](https://open.spotify.com/track/6Hwk611vPie2AxFJdE0I06) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [All For You](https://open.spotify.com/album/0bxiT0CWQQIpZIHMDH2l61) | 2:42 | 2024-11-05 | 2025-05-20 |
 | [All I Know Is You](https://open.spotify.com/track/68H9KAC6i3ADoFR2Z2kxsT) | [Juan Serrano](https://open.spotify.com/artist/7EmQxo3JrMk9ZIyQxwybJU) | [All I Know Is You](https://open.spotify.com/album/3eEkfabAwNHDzoafZlJ9Em) | 4:32 | 2024-05-10 | 2024-07-23 |
-| [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
+| [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 | 2026-10-17 |
 | [All in Good Time](https://open.spotify.com/track/1vd8Xpnrgq8jZSJr0lJy2O) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [All in Good Time](https://open.spotify.com/album/0ZEifMVwUtKF5Xx5rv5Otc) | 3:48 | 2024-08-19 |  |
 | [All Is Well Now](https://open.spotify.com/track/0VPgJ6NZ9EQ9gBa7w61Aom) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [All Is Well Now](https://open.spotify.com/album/1mDcHYowCPFBfY2obhRFSB) | 3:32 | 2024-04-16 | 2025-11-19 |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 | 2025-11-19 |
@@ -236,6 +236,7 @@
 | [Central Park Stroll](https://open.spotify.com/track/6HqntWF4Ergp1aTtT3FCCZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Central Park Stroll](https://open.spotify.com/album/5vfOxpqBTzqU9V8JS2p7iZ) | 3:40 | 2025-10-22 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-30 | 2025-11-19 |
 | [Changin'](https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Changin'](https://open.spotify.com/album/1OssHpwAhBYTcPLUtYXe0L) | 2:41 | 2023-02-23 | 2026-01-27 |
+| [Chapter Three](https://open.spotify.com/track/3rDlSEtGsZvLBlqGhqnHpM) | [The Backridges](https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia) | [Chapter Three](https://open.spotify.com/album/40InfJE1rAiRDK2U1xd0mY) | 3:12 | 2026-10-16 |  |
 | [Charlie´s Delight](https://open.spotify.com/track/41B3yDB64MzesxuKM5F3Mw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Charlie´s Delight](https://open.spotify.com/album/0mDsu5vfFDA1FFRQ0uMCNZ) | 3:42 | 2023-02-02 | 2023-02-10 |
 | [Charlie´s Delight](https://open.spotify.com/track/4MxqQhmnUxdeXAnRRDB63w) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Charlie´s Delight](https://open.spotify.com/album/4LPVXzjYqx8cVxiPUl4rSf) | 3:42 | 2022-12-08 | 2023-02-09 |
 | [Charm](https://open.spotify.com/track/5NNleP5iJYWwc30BhVOcqn) | [Par Noir](https://open.spotify.com/artist/0AbbEMo6kKsdeH9dDEMFG9) | [Charm](https://open.spotify.com/album/70xKfS02VJ5eiJjn0do8mR) | 3:01 | 2024-07-01 | 2026-01-15 |
@@ -683,6 +684,7 @@
 | [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-02-23 | 2024-12-04 |
 | [Leaf Line](https://open.spotify.com/track/6GD9L0BqpyENa325mplxQ9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Leaf Line](https://open.spotify.com/album/5zOgzwGaDLpf2ryM0bDiiy) | 2:41 | 2023-02-09 | 2024-11-26 |
 | [Least\-Dressed Woman](https://open.spotify.com/track/4LuOtrVQrtJB8pdD5H7vi2) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Least\-Dressed Woman](https://open.spotify.com/album/24GEw2L1N3Woo4WBdExMPc) | 3:12 | 2023-05-25 | 2025-11-19 |
+| [Leave It Alone](https://open.spotify.com/track/2g9P9lZx8AGCDbSKHXkYf0) | [Northbound Collective](https://open.spotify.com/artist/0YZDRkFCZXUfQnZ13eBlqm) | [Leave It Alone](https://open.spotify.com/album/03O6VfawDfS7MWVWCAQcHi) | 4:19 | 2026-10-16 |  |
 | [Leave Your Umbrella at Home](https://open.spotify.com/track/1lSNa1Da5Q5OeNhjzgovSg) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Leave Your Umbrella at Home](https://open.spotify.com/album/05ap7L64mGjQP9plKI35Vf) | 3:22 | 2024-04-23 | 2025-06-06 |
 | [Lesters's Tears](https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lesters's Tears](https://open.spotify.com/album/4QV6IWuWigFnh8XXrPyMRX) | 3:52 | 2023-05-11 | 2025-07-24 |
 | [Let's Be In Love](https://open.spotify.com/track/1ERVDUNSdOSorgWYUdauWA) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Let's Be In Love](https://open.spotify.com/album/50KonU2PiDTqvRJ53eHYHA) | 3:14 | 2026-05-12 |  |
@@ -870,7 +872,7 @@
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-02-16 | 2025-02-25 |
 | [Nostalgia](https://open.spotify.com/track/05yByCb0WmmE3c23Ppl5NO) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Nostalgia](https://open.spotify.com/album/67qjcYPxnMReuGAL6caHp3) | 4:53 | 2024-04-16 | 2024-11-26 |
 | [Nostalgia](https://open.spotify.com/track/2mLjZGrLxHhQNwtZLxGJUF) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Nostalgia](https://open.spotify.com/album/1HT9PUOOxTwnx8HP2ah4tb) | 3:24 | 2024-12-03 | 2025-09-18 |
-| [Not the worst case](https://open.spotify.com/track/56SvGKtz5pxpNjC5YfoBnY) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Not the worst case](https://open.spotify.com/album/17jYGmbWi1DrBSBwWImTqZ) | 3:49 | 2025-07-15 |  |
+| [Not the worst case](https://open.spotify.com/track/56SvGKtz5pxpNjC5YfoBnY) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Not the worst case](https://open.spotify.com/album/17jYGmbWi1DrBSBwWImTqZ) | 3:49 | 2025-07-15 | 2026-10-17 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 | 2024-07-02 |
 | [Nothing But Elegant](https://open.spotify.com/track/58Q2Hb5b9P952cBon5gwnA) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Nothing But Elegant](https://open.spotify.com/album/37zUfQAczCkASpy7gHJWDH) | 3:27 | 2024-05-23 | 2024-09-03 |
 | [Noturna](https://open.spotify.com/track/1D9qiZDgIOiqyHAPIthNan) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Noturna](https://open.spotify.com/album/0wM4JPp84SymlXsyNicyfj) | 4:12 | 2024-10-07 | 2025-01-15 |

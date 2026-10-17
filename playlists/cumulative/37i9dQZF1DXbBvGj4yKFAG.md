@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-279 songs - 14 hr 40 min
+281 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [keep me alive](https://open.spotify.com/track/5vMZjoGoHtB63HMxcDsHDS) | [miserable teens club](https://open.spotify.com/artist/3B7u3m6yYI8fRPBGL4HF9R) | [purgatory](https://open.spotify.com/album/0c65tQbCjVo9yTzbn1menW) | 4:43 | 2024-05-17 |  |
 | [Kids Driving The Elevator](https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI) | [Micah Preite](https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg) | [Kids Driving The Elevator](https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO) | 3:01 | 2023-07-14 |  |
 | [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-16 | 2023-07-01 |
+| [La fin du monde](https://open.spotify.com/track/6mWaPThaMStSYeh9Yp9RmR) | [17sport](https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT) | [La fin du monde](https://open.spotify.com/album/4pajF2yHY5567kh2Kbt0pj) | 3:25 | 2026-10-16 |  |
 | [Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 2:43 | 2023-06-05 |  |
 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 | 2023-02-09 | 2026-03-14 |
 | [Lay Low](https://open.spotify.com/track/0cH8U1daDLdpioFHXzbK3S) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/2rAaK13iXekyefycEQBIxX) | 2:22 | 2023-04-14 | 2023-09-18 |
@@ -170,13 +171,14 @@
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 | 2026-08-08 |
 | [Mirrors](https://open.spotify.com/track/38PleSiXelEox4nUyO5apt) | [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [From the bathroom floor](https://open.spotify.com/album/4mrRaqeKbrKIgLGzFT8Ovy) | 3:39 | 2023-06-23 |  |
 | [miss](https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF) | [postcard nowhere](https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI) | [Juvenilia](https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk) | 2:05 | 2023-04-11 |  |
+| [Missing](https://open.spotify.com/track/6cjLzYXcciwqS0CtSuZNSh) | [Madrid Exit](https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO) | [Strangers](https://open.spotify.com/album/1kU0H9ztrvumgynaerkHOm) | 2:46 | 2026-10-16 |  |
 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 | 2023-11-14 |  |
 | [my baby blue](https://open.spotify.com/track/16IvMrfVI9h3YdxYIjB22F) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv), [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [strange things keep happening](https://open.spotify.com/album/4Xerx7CpUu30LBPMLOlQcD) | 2:15 | 2025-01-28 |  |
 | [mystery](https://open.spotify.com/track/76EXWE2u0yUfGGjyb17zbL) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [mystery](https://open.spotify.com/album/7fVqe0uJJjwInvZb78pBR0) | 1:57 | 2025-01-28 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-02 |  |
 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 | 2023-05-19 |  |
 | [Never Know Why](https://open.spotify.com/track/59UGpoFWoZGeuE8T74HNrS) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [Far From This World](https://open.spotify.com/album/1iifPkSZrNgcOmc8LU2Xm6) | 3:36 | 2023-04-11 | 2023-07-08 |
-| [new look](https://open.spotify.com/track/11nRMMrQt6t0x7WQs9vKhq) | [cl444ireee](https://open.spotify.com/artist/3lzOhVEtsahKislZRrw0K2) | [under the starry winter night](https://open.spotify.com/album/1d4nnj09A7QUKEnP4wiz3v) | 4:12 | 2026-08-07 |  |
+| [new look](https://open.spotify.com/track/11nRMMrQt6t0x7WQs9vKhq) | [cl444ireee](https://open.spotify.com/artist/3lzOhVEtsahKislZRrw0K2) | [under the starry winter night](https://open.spotify.com/album/1d4nnj09A7QUKEnP4wiz3v) | 4:12 | 2026-08-07 | 2026-10-17 |
 | [No Blood, No Needles, Nothing](https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [No Blood, No Needles, Nothing](https://open.spotify.com/album/3dlIQmR7BQIk9XSF3LFJmR) | 3:32 | 2023-04-11 |  |
 | [No One Will Find Us There](https://open.spotify.com/track/3qJk6yCcdJjC5pxPwjubrO) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [I Saw The TV Glow \(Original Motion Picture Score\)](https://open.spotify.com/album/2lrjzHRTMnuEZO00d9JS72) | 1:23 | 2024-05-17 | 2026-06-05 |
 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 | 2023-02-24 | 2023-04-12 |

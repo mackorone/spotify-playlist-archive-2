@@ -1,12 +1,12 @@
 {
   "description": "Your weekly dose of new dance. Cover: Torren Foot, rhys from the sticks",
-  "num_followers": 148904,
+  "num_followers": 148919,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUBiJFm/zhTN82lIonG7QghVVbi",
+  "snapshot_id": "AAAAAK/2U5MARd7KoQqpCeFHNd/1/Xpd",
   "tracks": [
     {
       "added_at": "2026-10-15 16:00:38",
@@ -22,6 +22,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "duration_ms": 204884,
@@ -228,12 +232,12 @@
           "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
           "name": "SCRIPT",
           "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
       "duration_ms": 183529,

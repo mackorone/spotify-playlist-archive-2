@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: P.O.D.",
+  "description": "For full-volume lovers. Cover: Staind",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -762,6 +762,24 @@
       "duration_ms": 276096,
       "name": "About You",
       "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
+    },
+    {
+      "album": {
+        "name": "About You (Bonus Version)",
+        "url": "https://open.spotify.com/album/1jLD6o7DKOo8O1lXXPfGK4"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "About You - Bonus Version",
+      "url": "https://open.spotify.com/track/07f2UG1AH6Z1zv4LeGgUSA"
     },
     {
       "album": {
@@ -4525,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "Burning Low",
+        "url": "https://open.spotify.com/album/0zaTlWbASqzJo08nw3LlSo"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188431,
+      "name": "Burning Low",
+      "url": "https://open.spotify.com/track/2CCem6plaEf5qBHNgfwnMS"
+    },
+    {
+      "album": {
         "name": "Bury Me",
         "url": "https://open.spotify.com/album/473EymkgPRlNPrNULlRcau"
       },
@@ -6596,7 +6632,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 246000,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/70RmpH9F7edjr4Q31FYDGa"
@@ -7350,6 +7386,24 @@
       "duration_ms": 184909,
       "name": "Delusion:All",
       "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
+    },
+    {
+      "album": {
+        "name": "Democracy Manifest",
+        "url": "https://open.spotify.com/album/2FxSNQnvXFDrcSrq9W37Vp"
+      },
+      "artists": [
+        {
+          "name": "Lost Souls",
+          "url": "https://open.spotify.com/artist/4DrlpqSh5j188qQYj9TIVY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217432,
+      "name": "Democracy Manifest",
+      "url": "https://open.spotify.com/track/089KjxE8I7x0rxJmr6Knvn"
     },
     {
       "album": {
@@ -11495,6 +11549,24 @@
     },
     {
       "album": {
+        "name": "The space between happiness and heartache.",
+        "url": "https://open.spotify.com/album/0LNgX0HOSAxuBdocfhnuRZ"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139243,
+      "name": "fury.",
+      "url": "https://open.spotify.com/track/45fibgeS4hxzZI3EGOYF6S"
+    },
+    {
+      "album": {
         "name": "GALORE",
         "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
       },
@@ -11878,6 +11950,24 @@
       "duration_ms": 226956,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/2kMLum5ivVsAtMCTN3o6y9"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/3ZhTfeef3Y6AkC7PEaGmRJ"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192662,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/1z8A0pBSko5gfFlCY2cflK"
     },
     {
       "album": {
@@ -13974,7 +14064,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206608,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0OwO15Nbw1PmnK7ZSrWChb"
@@ -20528,7 +20618,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 182030,
       "name": "MT",
       "url": "https://open.spotify.com/track/4cB1mAoihjW0pp330WKPjE"
@@ -24596,7 +24686,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 238189,
       "name": "Rage",
       "url": "https://open.spotify.com/track/4vngYf7elXAPZNc91vBTvy"
@@ -27862,7 +27952,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 185621,
       "name": "smile.",
       "url": "https://open.spotify.com/track/5cqmz7kCM7eeBNZ4rQd9l3"
@@ -28628,7 +28718,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 195783,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/0N5F2m28CZHvCiMLV1yQ0t"
@@ -32810,6 +32900,28 @@
       "duration_ms": 194538,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/1WyI0XnnwlzxsrQeevp5tX"
+    },
+    {
+      "album": {
+        "name": "TRENCHES (feat. Switchfoot)",
+        "url": "https://open.spotify.com/album/0Bhwb6NWyaVgwfmdUaL5L4"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210954,
+      "name": "TRENCHES (feat. Switchfoot)",
+      "url": "https://open.spotify.com/track/1DheMAjBqmAr56xzCpoCmm"
     },
     {
       "album": {

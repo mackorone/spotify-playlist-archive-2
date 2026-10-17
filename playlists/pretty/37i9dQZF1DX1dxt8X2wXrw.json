@@ -1,12 +1,12 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 83721,
+  "num_followers": 83717,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL/TwP5XVi6+dJjyz+p4vXYUhoH7",
+  "snapshot_id": "AAAAAD6YtF/Kf5KndC3P/Oub4dPjd55H",
   "tracks": [
     {
       "added_at": "2026-09-17 14:01:29",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "SLEEP",
-        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151654,
-      "name": "SLEEP",
-      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151654,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 228692,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Yearning",
-        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 173868,
-      "name": "Yearning",
-      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Are You Even Real (feat. Giv\u0113on)",
         "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 170400,
       "name": "Holy Blindfold",
       "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 173868,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 169024,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "HOT GIRL PROBLEMS",
         "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 177777,
       "name": "HOT GIRL PROBLEMS",
       "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 169024,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Midnight Request Line",
         "url": "https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 222773,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "When I Get Drunk (I Want You Boy)",
         "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 205720,
       "name": "When I Get Drunk (I Want You Boy)",
       "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2026-09-17 14:01:29",

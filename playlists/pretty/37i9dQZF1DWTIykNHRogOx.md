@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Noé Preszow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,273 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,283 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Ça change quoi ?](https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq) | [Paul Roman](https://open.spotify.com/artist/4WmJmadFvw4O76wPyjjGkO), [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Ça change quoi ?](https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS) | 2:30 |
 | 50 | [Le oui de trop](https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Le oui de trop](https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ) | 2:40 |
 
-Snapshot ID: `AAAAANiF3sIgRouxYUr95nN8W/7hy80f`
+Snapshot ID: `AAAAAFdunFgYT/wZpEaxV2CztBHprrT+`

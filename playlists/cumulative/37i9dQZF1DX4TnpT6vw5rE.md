@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-440 songs - 1 day 0 hr 3 min
+441 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Ashes](https://open.spotify.com/track/4SSEGcMR6QGz6U0vRQ8Lsk) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Ashes](https://open.spotify.com/album/7vJco1Uvoefx2kbHsY8yHb) | 2:23 | 2025-02-26 | 2026-02-13 |
 | [Ashtanga Deep](https://open.spotify.com/track/51KqzonYq7QaXDOHXLguHT) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Ashtanga Deep](https://open.spotify.com/album/4G5YinQNlXd8yLCpaW7fxh) | 2:43 | 2024-03-14 |  |
 | [Astralis Novum](https://open.spotify.com/track/473rxPBgRjE8JZAfCWPoQy) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Astralis Novum](https://open.spotify.com/album/6h6QS75JA46a42bwkiMKKq) | 3:12 | 2025-12-10 |  |
-| [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 |  |
+| [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 | 2026-10-17 |
 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 | 2022-09-02 | 2025-08-06 |
 | [Aurora Crest](https://open.spotify.com/track/1VOQPL4KzM4lSA8B3a6Poy) | [Lost storys](https://open.spotify.com/artist/5z30j24d40G43dHG9LDa3e) | [Aurora Crest](https://open.spotify.com/album/5wFQjHfxLhZBxtJhky5sBX) | 2:38 | 2025-05-14 | 2025-12-30 |
 | [Autumnal](https://open.spotify.com/track/2DR3RcQLkcx9KqBEx9Raf7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg) | 5:28 | 2020-12-08\* | 2021-05-27 |
@@ -142,6 +142,7 @@
 | [Dusk](https://open.spotify.com/track/1MPDncDf3d7CkFaqDvUDPW) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Dusk](https://open.spotify.com/album/27qSG3KXFQyhIf1SWRHa8W) | 3:03 | 2025-07-15 |  |
 | [Each And Every One Of Us](https://open.spotify.com/track/3yAkMJkc2Kzn6FCjaMIokZ) | [Mindful Collage](https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M) | [Each And Every One Of Us](https://open.spotify.com/album/0WUsUaFl6iJr3O0dAHT5l6) | 4:04 | 2025-01-14 |  |
 | [Eastern Sun](https://open.spotify.com/track/7jlv9EFXU3Hn1nsqjBe3nC) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Eastern Sun](https://open.spotify.com/album/6eAIeTd6KUTbHtXk4UKo3K) | 2:14 | 2026-02-12 |  |
+| [Elowen Moon](https://open.spotify.com/track/3n5r9d8bE9WMAbs9uO5xqF) | [la chambre](https://open.spotify.com/artist/6YNip2D8AQ4WjxwieATQq8) | [Elowen Moon](https://open.spotify.com/album/4op7UHIHE5zlw3HTqsCjVy) | 3:46 | 2026-10-05 |  |
 | [Empty](https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/0ajy8kD383s9wmYBq4ADnE) | 4:21 | 2025-02-26 | 2026-02-13 |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* | 2025-07-16 |
 | [Enchanted Lakes](https://open.spotify.com/track/5rF6ZCev458A3utp4XC36X) | [Yuddhapoot](https://open.spotify.com/artist/36ZKzVYdFd6bTpTOm94bcH) | [Enchanted Lakes](https://open.spotify.com/album/4W2qw0HykU5XyZ4GQKjMvR) | 3:15 | 2026-02-12 | 2026-04-30 |

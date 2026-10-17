@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "LOS DOS DE TAMAULIPAS poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
+  "description": "El De Las R's & El Rabbanito poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 124243,
       "name": "Algobierno",
       "url": "https://open.spotify.com/track/0sgSnxmU3knTyciXomcyjG"
@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Baj\u00f3n Emocional",
+        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Baj\u00f3n Emocional",
+      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
+    },
+    {
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
       },
@@ -2892,6 +2910,28 @@
       "duration_ms": 191074,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/7FM0xCB7I8AXLJOgCOoFoT"
+    },
+    {
+      "album": {
+        "name": "Beretta (De Los Cerros La Escuela) [Remix]",
+        "url": "https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141177,
+      "name": "Beretta (De Los Cerros La Escuela) - Remix",
+      "url": "https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL"
     },
     {
       "album": {
@@ -3380,6 +3420,28 @@
       "duration_ms": 166500,
       "name": "C Y Medio",
       "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
+    },
+    {
+      "album": {
+        "name": "Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176504,
+      "name": "Cabez\u00f3n",
+      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
     },
     {
       "album": {
@@ -4296,7 +4358,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 158701,
       "name": "COCO",
       "url": "https://open.spotify.com/track/65QicJDDhsVj3zVBetDMOU"
@@ -8552,7 +8614,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 222189,
       "name": "ENTRE TU Y YO",
       "url": "https://open.spotify.com/track/7piJuhWIQitNCpr6pQ7j18"
@@ -12006,7 +12068,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177408,
       "name": "LA PLAYA",
       "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
@@ -12404,6 +12466,24 @@
       "duration_ms": 190730,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/4vtIzbuGPJap419X869GDz"
+    },
+    {
+      "album": {
+        "name": "Las Cosas No Salieron",
+        "url": "https://open.spotify.com/album/6pW0b08BP8SbQZ3tHfFsxe"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Las Cosas No Salieron",
+      "url": "https://open.spotify.com/track/3WJoTPJX40PbYefLaPNUeJ"
     },
     {
       "album": {
@@ -13768,7 +13848,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156517,
       "name": "MATCHA",
       "url": "https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g"
@@ -14599,6 +14679,24 @@
     },
     {
       "album": {
+        "name": "Mi Morena",
+        "url": "https://open.spotify.com/album/7gAnJPwG7mHk6OFpO4Ppfc"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Mi Morena",
+      "url": "https://open.spotify.com/track/2iw2ZHKD2QRerzWvn3D2jm"
+    },
+    {
+      "album": {
         "name": "Mi Morenita",
         "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
       },
@@ -14868,7 +14966,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 149351,
       "name": "Mil x Hora",
       "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
@@ -16374,6 +16472,24 @@
       "duration_ms": 190680,
       "name": "NUEVA VIDA",
       "url": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5"
+    },
+    {
+      "album": {
+        "name": "NUMBER ONE",
+        "url": "https://open.spotify.com/album/4iK80CPuM4qXIMaoNASIhd"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161900,
+      "name": "NUMBER ONE",
+      "url": "https://open.spotify.com/track/5ycPjGNxz5iuIKcXfBcEGs"
     },
     {
       "album": {
@@ -18726,7 +18842,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 212250,
       "name": "Que Se Vaya",
       "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
@@ -20818,7 +20934,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 117136,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB"
@@ -24023,6 +24139,28 @@
     },
     {
       "album": {
+        "name": "WA SA BI",
+        "url": "https://open.spotify.com/album/1iKMgTVCqAqQBJiKATiwrL"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "WA SA BI",
+      "url": "https://open.spotify.com/track/2wTFTwX7CeKVwRDHD4GoOR"
+    },
+    {
+      "album": {
         "name": "WEEKND",
         "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
       },
@@ -24358,7 +24496,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 173588,
       "name": "YA ESTUVO BUENO",
       "url": "https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs"
@@ -24813,6 +24951,24 @@
     },
     {
       "album": {
+        "name": "\u00bfA Poco Te Decepcion\u00e9?",
+        "url": "https://open.spotify.com/album/1VsErjzfI7U49A6jtUx0aP"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178552,
+      "name": "\u00bfA Poco Te Decepcion\u00e9?",
+      "url": "https://open.spotify.com/track/1eiZv0QfGHKNfASJB0KKvI"
+    },
+    {
+      "album": {
         "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
       },
@@ -24930,6 +25086,24 @@
       "duration_ms": 184095,
       "name": "\u00c1NGEL",
       "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"
+    },
+    {
+      "album": {
+        "name": "STAR (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177942,
+      "name": "\u00daLTIMAMENTE",
+      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,513 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,523 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 38 | [What's Going On](https://open.spotify.com/track/0xgAMhn7qqKrQcACbIEPoa) | [本田竹曠](https://open.spotify.com/artist/4s7Fk4GSE20zLzyTq05gUo), [今村裕司](https://open.spotify.com/artist/6wM0OcxPKVdZmVpnpMs91g) | [What's Going On](https://open.spotify.com/album/02eKXgRieK4rSCYLlyLY5y) | 4:41 |
 | 39 | [WOLF](https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P) | [SPECIAL OTHERS ACOUSTIC](https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2) | [Telepathy](https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe) | 6:55 |
 | 40 | [Flowery Flat](https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [BEATS+PIECES 2](https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt) | 4:07 |
-| 41 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
+| 41 | [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 |
 | 42 | [marten](https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz) | 4:27 |
-| 43 | [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 |
+| 43 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
 | 44 | [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 |
-| 45 | [Private Jet](https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Private Jet](https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda) | 3:54 |
-| 46 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
+| 45 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
+| 46 | [Private Jet](https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Private Jet](https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda) | 3:54 |
 | 47 | [Cross View \- from "UNTITLED" 2026 Take](https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Cross View \(from "UNTITLED" 2026 Take\)](https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U) | 4:46 |
 | 48 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
 | 49 | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/track/4TgNRA05pRMz0oBaQYMyS3) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/album/7dCw1GWPdLc8exWpsmn1vn) | 3:37 |
-| 50 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
+| 50 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
 
-Snapshot ID: `AAAAAB5QlB2TOA5G4tgpoQwFA8PPv+bm`
+Snapshot ID: `AAAAAKlnFZzoQnIMbXz8Yg0fQAHHI3Bl`

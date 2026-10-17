@@ -1,6 +1,6 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 108370,
+  "num_followers": 108388,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 200682,
-      "name": "Seguimos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupcake Quemando",
         "url": "https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 197750,
       "name": "Cupcake Quemando",
       "url": "https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "Seguimos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
       "duration_ms": 180657,
       "name": "Lokera",
       "url": "https://open.spotify.com/track/7K23Te3utCfxBPwqzq8g7U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UN CAFECITO",
-        "url": "https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "UN CAFECITO",
-      "url": "https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UN CAFECITO",
+        "url": "https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "UN CAFECITO",
+      "url": "https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Charal",
         "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 202026,
       "name": "El Charal",
       "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 141197,
-      "name": "El Amor No Va Conmigo",
-      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 141197,
+      "name": "El Amor No Va Conmigo",
+      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 119000,
+      "name": "WACHA",
+      "url": "https://open.spotify.com/track/4Pi7Vixpb3L3AVQScwp6uH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 170672,
       "name": "En La Bola (feat. El De La Guitarra)",
       "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "WACHA",
-      "url": "https://open.spotify.com/track/4Pi7Vixpb3L3AVQScwp6uH"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "MOTA CHERRY",
-      "url": "https://open.spotify.com/track/68jkcpiDPPd5zdmE5VLlfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disney",
         "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 149624,
       "name": "El Disney",
       "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "MOTA CHERRY",
+      "url": "https://open.spotify.com/track/68jkcpiDPPd5zdmE5VLlfq"
     },
     {
       "added_at": null,

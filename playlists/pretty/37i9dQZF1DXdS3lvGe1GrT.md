@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,161 likes - 74 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,239 likes - 74 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 73 | [Florida Water Blues](https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6) | 3:44 |
 | 74 | [The Dog](https://open.spotify.com/track/5WPw1FoA2S5ivwlNJ5rDo6) | [Alaina May](https://open.spotify.com/artist/2ajMOVSXSjHyFhSnzBKBTb) | [The Dog](https://open.spotify.com/album/2DJ8bsKENysB7M5hfzHDDQ) | 3:33 |
 
-Snapshot ID: `AAAAAK9rBPG5CjsVRaXe4AuVM5o1TyKR`
+Snapshot ID: `AAAAADKiEJk8YPjoj1KGplR2NZZNDYEW`

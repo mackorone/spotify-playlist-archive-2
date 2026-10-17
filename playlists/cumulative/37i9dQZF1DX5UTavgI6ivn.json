@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Maluma y Shakira\n",
+  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: ARIA VEGA\n",
   "name": "Made in Colombia",
   "tracks": [
     {
@@ -4738,7 +4738,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 481955,
       "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
       "url": "https://open.spotify.com/track/55knkuzL7hByREAumJcj3q"
@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 187218,
       "name": "Mucha Mujer",
       "url": "https://open.spotify.com/track/3xWwX0i6zJgdwFmLR9n8GN"
@@ -7672,6 +7672,24 @@
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
+    },
+    {
+      "album": {
+        "name": "Musa Paradis\u00edaka",
+        "url": "https://open.spotify.com/album/1msl6OCTSg7W9Xp6eRaD6A"
+      },
+      "artists": [
+        {
+          "name": "Shonny",
+          "url": "https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125677,
+      "name": "Musa Paradis\u00edaka",
+      "url": "https://open.spotify.com/track/5qycAsLJTjWFqVuwNBNOtw"
     },
     {
       "album": {
@@ -8954,7 +8972,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184961,
       "name": "Pa' la seca",
       "url": "https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll"
@@ -9310,6 +9328,28 @@
       "duration_ms": 205800,
       "name": "Pies Descalzos, Sue\u00f1os Blancos",
       "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
+    },
+    {
+      "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "PLATO TIPICO",
+      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
     },
     {
       "album": {
@@ -11698,6 +11738,28 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "album": {
+        "name": "Tengo Ganas 2.0",
+        "url": "https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159419,
+      "name": "Tengo Ganas 2.0",
+      "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"
     },
     {
       "album": {

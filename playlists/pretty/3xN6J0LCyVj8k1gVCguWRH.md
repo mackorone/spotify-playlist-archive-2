@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,197 likes - 199 songs - 11 hr 42 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,188 likes - 195 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,9 +203,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 193 | [Beach Park](https://open.spotify.com/track/24yV3WJsch0i5iRbRmuFDV) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Beach Park](https://open.spotify.com/album/3uWzrgA6dFovW0hXTlmWbm) | 2:48 |
 | 194 | [Memories](https://open.spotify.com/track/3KCvb21CqbVFnp8YbRQTpf) | [Sobeki](https://open.spotify.com/artist/610sq2fDjsM29tpt5DNCIU) | [Memories](https://open.spotify.com/album/5cVawvQpECf8c1H0vv90cz) | 2:20 |
 | 195 | [The Muse](https://open.spotify.com/track/1A9s11MEjYS7TMyTIiW4yo) | [Terry Forsey](https://open.spotify.com/artist/4UQ2vr44f5fhvWyfSraoUJ) | [Making Memories](https://open.spotify.com/album/5TSOPsZ3ylEhap55pwnHJL) | 3:42 |
-| 196 | [Paradise](https://open.spotify.com/track/65IEXoXhQmVsLNPFJC5GUt) | [The Remainders](https://open.spotify.com/artist/1GKe0u76hiEZonX5ETJylq) | [Paradise](https://open.spotify.com/album/2lBrG4b9u8AJifzyEOsfyW) | 3:10 |
-| 197 | [love like you](https://open.spotify.com/track/72HsfBjc5O7AVriWOjwi5j) | [Zoey Madison](https://open.spotify.com/artist/45c5qwV5E9oKpimYK0PC0H) | [love like you](https://open.spotify.com/album/6WJYIUvNogtbd3RPcV9QRd) | 3:17 |
-| 198 | [Me Resulta Atractivo](https://open.spotify.com/track/3C19LXkdPe0Upa0WGxs5oO) | [FlowChapur](https://open.spotify.com/artist/1xsBADJgB3Y9PG92z55WJW) | [Me Resulta Atractivo](https://open.spotify.com/album/6AMHFoEKccKwmTSZ8DwLSb) | 2:22 |
-| 199 | [Dance With Me](https://open.spotify.com/track/0zNDu4ewzZdvOSrF7FPf7m) | [Victoria Tyler](https://open.spotify.com/artist/6OpQeEAeOsjN3FFEVRLP1b) | [Dance With Me](https://open.spotify.com/album/4Sk6Z3XKFUhw5yKHufdK7m) | 3:46 |
 
-Snapshot ID: `AAA/2sB3NiWCKgfNMc4+9J433NFHpv1C`
+Snapshot ID: `AAA/27xoVIZ9tq/+wvWMqRo9w9zLwI5P`

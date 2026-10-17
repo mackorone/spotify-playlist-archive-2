@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-747 songs - 1 day 13 hr 22 min
+749 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Esperanza Brillante](https://open.spotify.com/track/6hlQU2W28HuP77MFqXcl0k) | [Palm Mgwire](https://open.spotify.com/artist/3kB4uwSDLzsPxnJMQtvC1f) | [Esperanza Brillante](https://open.spotify.com/album/6CPDn34IaIzFB4Np0lnfjU) | 3:00 | 2024-05-23 | 2025-03-25 |
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-10 | 2024-11-19 |
 | [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 | 2025-04-04 |  |
+| [Evening Walk](https://open.spotify.com/track/6pr6zE2tGbPBENXD2pXyuH) | [Grant Ellery](https://open.spotify.com/artist/4DdsTxB7WLBe0AyRkAr2Fc) | [Evening Walk](https://open.spotify.com/album/7pziZPyc4n1arI3dZYubTV) | 2:32 | 2026-10-16 |  |
 | [Eventide](https://open.spotify.com/track/7nO04XqvyNvkTtaUcgoPas) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Eventide](https://open.spotify.com/album/5rGNwZOi7HmnCVQlpes1bp) | 2:35 | 2022-04-12 | 2025-07-24 |
 | [Everlasting Road](https://open.spotify.com/track/1dsECyS1CcES7lUyEsb5vm) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Everlasting Road](https://open.spotify.com/album/6tHUGPe4CbFQQMAtEi9Nuy) | 3:37 | 2022-08-10 | 2025-04-16 |
 | [Evermore Street](https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Evermore Street](https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2) | 3:19 | 2023-02-02 | 2024-07-23 |
@@ -306,7 +307,7 @@
 | [In the city](https://open.spotify.com/track/2KT7qCT0QEeqKYaj0RjZeE) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [In the city](https://open.spotify.com/album/6Rx9kNFho1FSZDDgqrlCT3) | 2:20 | 2024-04-17 | 2026-02-13 |
 | [In the mood for love](https://open.spotify.com/track/0po8JmQiM1hzuSjtMmovFn) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [In the mood for love](https://open.spotify.com/album/3ZmiSq83xdoXVbbWRrrLaZ) | 2:41 | 2023-04-20 | 2025-01-08 |
 | [In the Morning Sun](https://open.spotify.com/track/0hjDKlHWRRKbzAWv80nMUr) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [In the Morning Sun](https://open.spotify.com/album/0lO5yD4aOTGGmyRHodqGeG) | 2:26 | 2024-04-02 | 2025-01-15 |
-| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-04-27 |  |
+| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-04-27 | 2026-10-17 |
 | [In the Wee Small Hours](https://open.spotify.com/track/60pqzTrDy6JXji8GShLTph) | [Elliot Baxter](https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq) | [In the Wee Small Hours](https://open.spotify.com/album/0gJbr7tNtNuPc6FEczncTk) | 3:24 | 2025-01-14 | 2025-07-24 |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0LHbXXO5FxsW1qGBSqDkKz) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5UNOBKRWE1tZtm9fwkeMXL) | 4:13 | 2022-08-10 | 2023-04-14 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-04-12 | 2023-09-22 |
@@ -390,7 +391,7 @@
 | [Madison Avenue](https://open.spotify.com/track/04oey4VksjOx3oLQ5jRX0b) | [Joe Jørgensen](https://open.spotify.com/artist/0CkSmVYe54CjKJef33XTcy) | [Madison Avenue](https://open.spotify.com/album/2NUUhds2mneVXC8rsCpoqG) | 3:00 | 2024-01-05 | 2024-10-22 |
 | [Magenta](https://open.spotify.com/track/3QdnmN3YE9iHniH8qmgOO6) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Magenta](https://open.spotify.com/album/4ayGWuwGRiZs9tA9SqEY6Q) | 2:39 | 2024-07-12 |  |
 | [Maiden Voyage](https://open.spotify.com/track/6VOiZnNwb9ivWc4IkLpRNY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Maiden Voyage](https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw) | 2:35 | 2022-04-26 | 2022-08-31 |
-| [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
+| [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 | 2026-10-17 |
 | [Medium Rare](https://open.spotify.com/track/1mWMtQM3o3QG3xXedUagtM) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Medium Rare](https://open.spotify.com/album/4L9BcTppmoi7AFbqUEfin5) | 2:59 | 2023-03-02 | 2025-08-02 |
 | [Meet me in my dreams](https://open.spotify.com/track/1x7zmdH7luQE9WvDUsbpTj) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Meet me in my dreams](https://open.spotify.com/album/3psjBpDlT0BTJxYFU4ADTj) | 3:17 | 2024-03-22 | 2024-07-23 |
 | [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-02 | 2025-03-04 |
@@ -453,7 +454,7 @@
 | [Nightly conversations](https://open.spotify.com/track/3V4CqyDYGNTUCwzqutFUma) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Nightly conversations](https://open.spotify.com/album/4RRMSsZtm1Qjf8eqUTJvHj) | 3:00 | 2024-05-10 | 2025-03-25 |
 | [No matter how](https://open.spotify.com/track/2eUWABMTqaKzOG6XfbC6yY) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [No matter how](https://open.spotify.com/album/6Tf3DIo5eOUDN8UmNeLjJm) | 3:16 | 2024-05-23 | 2025-07-24 |
 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 | 2025-07-01 |  |
-| [No Rush](https://open.spotify.com/track/5vHJmW9jEtdiSrEkPknw0n) | [Nola Finch](https://open.spotify.com/artist/4OlAO9Q7R6qESvjaIcoZ1R) | [No Rush](https://open.spotify.com/album/1LUhmdGHtxp2IYfyDsZFPx) | 2:23 | 2026-06-12 |  |
+| [No Rush](https://open.spotify.com/track/5vHJmW9jEtdiSrEkPknw0n) | [Nola Finch](https://open.spotify.com/artist/4OlAO9Q7R6qESvjaIcoZ1R) | [No Rush](https://open.spotify.com/album/1LUhmdGHtxp2IYfyDsZFPx) | 2:23 | 2026-06-12 | 2026-10-17 |
 | [Nordic Dreams](https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Nordic Dreams](https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H) | 3:46 | 2023-06-01 | 2026-04-04 |
 | [Not the Same](https://open.spotify.com/track/7AGtPqaOJWHNN3VKEJGyO7) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [Not the Same](https://open.spotify.com/album/2yhsVxilsFdjCRscZSoxuG) | 2:10 | 2025-04-23 | 2025-07-24 |
 | [Not The Same Without You](https://open.spotify.com/track/3T7tkbsa8cl6ZjaOV5AiUp) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Not The Same Without You](https://open.spotify.com/album/7r6LWkK3Y9JvxGK8l42NXw) | 2:54 | 2026-09-04 |  |
@@ -720,6 +721,7 @@
 | [When My Piano Sleeps](https://open.spotify.com/track/5phC8Pv8rQvGNwUnKmU4cZ) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [When My Piano Sleeps](https://open.spotify.com/album/5ybfirWoSKN4w1MDQlxmIb) | 2:25 | 2023-11-17 | 2025-07-24 |
 | [When shadows fall](https://open.spotify.com/track/3fZhmPTU8TFCNqp2FQkQG9) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [When shadows fall](https://open.spotify.com/album/314JkcRJ3k6bAZkSu5Nf0m) | 2:41 | 2026-01-14 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [When Sunny Gets Blue](https://open.spotify.com/album/52eXoXB6bX5hvKocauqYKC) | 4:03 | 2023-02-09 | 2025-03-25 |
+| [When the House Fell Silent](https://open.spotify.com/track/4OrMBZ8SQc7aEuzMw9Q6Xb) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [When the House Fell Silent](https://open.spotify.com/album/67X7jE6M9MtUfhjohYpSVF) | 2:16 | 2026-10-16 |  |
 | [When The Night Is Young](https://open.spotify.com/track/6I1tdxYGrDclzP0Zholt5c) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [When The Night Is Young](https://open.spotify.com/album/4ianOqLiP8SZzihfVXANER) | 2:32 | 2023-06-15 | 2024-12-17 |
 | [When We Lay Down](https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [When We Lay Down](https://open.spotify.com/album/2ajchSRiNVpcEnCFSZvHNB) | 4:16 | 2022-04-12 | 2022-11-25 |
 | [When You Come Home](https://open.spotify.com/track/3YIB84TV1T3xzp091cyNaG) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [When You Come Home](https://open.spotify.com/album/3CUAfH53DhI9Tdt8uN9ZmJ) | 2:57 | 2024-04-10 |  |

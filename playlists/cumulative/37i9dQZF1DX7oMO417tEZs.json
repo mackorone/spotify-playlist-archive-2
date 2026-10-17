@@ -30681,6 +30681,28 @@
     },
     {
       "album": {
+        "name": "Class of 2095",
+        "url": "https://open.spotify.com/album/7HY3z9CjWI6qGvVLUd3WmZ"
+      },
+      "artists": [
+        {
+          "name": ".ape",
+          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "selfish",
+      "url": "https://open.spotify.com/track/1sCsAp33kUlnoMPoH6IJoi"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O"
       },

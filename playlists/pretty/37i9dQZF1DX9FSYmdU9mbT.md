@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Maria Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473,348 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473,379 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 70 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 |
 | 71 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
 | 72 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |
-| 73 | [Depois](https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber De Verdade \(Standard Version\)](https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf) | 2:53 |
+| 73 | [A Sua / Sampler: Coqueiro De Itapoan](https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte](https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L) | 3:02 |
 | 74 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
 | 75 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 |
 | 76 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s) | 2:46 |
 | 77 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 |
-| 78 | [A Sua / Sampler: Coqueiro De Itapoan](https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte](https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L) | 3:02 |
+| 78 | [Depois](https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber De Verdade \(Standard Version\)](https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf) | 2:53 |
 | 79 | [A Palo Seco](https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn) | [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Gilvan de Oliveira](https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS) | [Belchior Acústico](https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC) | 2:35 |
 | 80 | [Como Nossos Pais](https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Regina Em Falso Brilhante](https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ) | 4:20 |
 | 81 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 99 | [A História de Lilly Braun \- Ao Vivo no Coala Festival](https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A História de Lilly Braun \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv) | 4:26 |
 | 100 | [Toda Menina Baiana \- Ao Vivo](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano \(Ao Vivo No Projac, Rio De Janeiro / 2011\)](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 |
 
-Snapshot ID: `AAAAABdMnDkVH1e98oMvJgxE7qNlbDaW`
+Snapshot ID: `AAAAAGoWoHWsjUd1qN1lVP/+gTg9bzAK`

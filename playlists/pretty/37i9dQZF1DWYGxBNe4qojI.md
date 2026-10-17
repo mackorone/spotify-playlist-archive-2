@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Jadakiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,848 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,913 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 29 | [Feel Me Flow](https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Poverty's Paradise \(25th Anniversary \- Remastered\)](https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV) | 3:32 |
 | 30 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 31 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 |
-| 32 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
-| 33 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 |
+| 32 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 |
+| 33 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
 | 34 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 35 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 |
 | 36 | [Nas Is Like](https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 |
 | 50 | [You Know My Steez](https://open.spotify.com/track/2C3QwVE5adFCVsCqayhPW7) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 4:07 |
 
-Snapshot ID: `AAAAAK+tjQBi/SbymKdgjrHc4/E/jarw`
+Snapshot ID: `AAAAAFRCD5Qrr8ZxI8a3g0ncHO5E561O`

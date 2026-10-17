@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Crystal Castles, Pastel Ghost, Phantogram and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,456 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,478 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Sea, Swallow Me \- 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies \(2024 Remaster\)](https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm) | 3:09 |
 | 50 | [Fall In Love](https://open.spotify.com/track/5UKj2UGT4AMc1GMLk5S5sw) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 3:43 |
 
-Snapshot ID: `AAAAADlgTFFTjgybBbL/xsG53gO5+wXx`
+Snapshot ID: `AAAAAP1bdeKNXtQn7/wUVnCv/MQR1zK0`

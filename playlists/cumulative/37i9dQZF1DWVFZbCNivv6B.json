@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Remik Gonzalez en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Neto Pe\u00f1a en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2060,6 +2060,28 @@
       "duration_ms": 152967,
       "name": "AY MAR\u00cdA",
       "url": "https://open.spotify.com/track/3ChU4ffZzIhNRpOnjFxicj"
+    },
+    {
+      "album": {
+        "name": "Ayer",
+        "url": "https://open.spotify.com/album/1Mji1WQ3vm5lIVmHs4ZZWB"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        },
+        {
+          "name": "mikahl",
+          "url": "https://open.spotify.com/artist/0hCD2GkcTjL99jLXzsf1qZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212300,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/5VCIR3Qov0V9LWc2bufJAI"
     },
     {
       "album": {
@@ -15563,6 +15585,24 @@
     },
     {
       "album": {
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/7p3rR8FcXnd12kOscVKaop"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231950,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/7oiA1062mT4nn3l58oKXiM"
+    },
+    {
+      "album": {
         "name": "Paris Hilton",
         "url": "https://open.spotify.com/album/1xkYfIxGzzvh4AMrDwlXSU"
       },
@@ -17537,6 +17577,28 @@
     },
     {
       "album": {
+        "name": "RAPEROS MEXICANOS",
+        "url": "https://open.spotify.com/album/3HusQmXMr7skWcYV2a2dhA"
+      },
+      "artists": [
+        {
+          "name": "Vic Gunn",
+          "url": "https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258466,
+      "name": "RAPEROS MEXICANOS",
+      "url": "https://open.spotify.com/track/2NGGJw5irFAcbtZF7U7Dli"
+    },
+    {
+      "album": {
         "name": "RCKY BALBOA",
         "url": "https://open.spotify.com/album/694zroK8Vzyk6Hyi6qQJtO"
       },
@@ -18374,7 +18436,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 115199,
       "name": "Satori",
       "url": "https://open.spotify.com/track/30qatZUnCkvbKqEIQm8jsy"
@@ -18974,7 +19036,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 232000,
       "name": "SIN CONVOY.",
       "url": "https://open.spotify.com/track/4wvJgQGjzfVlnpOoTsQGQK"

@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Zenar &amp; Nick Jam
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: BOABOA
 
-2,091 songs - 4 day 4 hr 42 min
+2,092 songs - 4 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1866,6 +1866,7 @@
 | [Tik Tok \- Dance Mix](https://open.spotify.com/track/5hZpmTrgiAYuT8uwmIIFRS) | [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Tik Tok \(Dance Mix\)](https://open.spotify.com/album/6YQ1sd7yZq1pvoBlYVvXRw) | 2:30 | 2022-07-29 | 2022-08-13 |
 | [Tik Tok \- Hard Mix](https://open.spotify.com/track/16DmuzmqBar7xjyCrdWgya) | [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Empira](https://open.spotify.com/artist/52SEFvQng6XqKFfoE4YcbI) | [Tik Tok \(Hard Mix\)](https://open.spotify.com/album/1LFENTzGFGuRXpi418xBFE) | 3:12 | 2022-09-02 | 2022-09-10 |
 | [Tikva](https://open.spotify.com/track/3Qnsgg04qyVjaG232aKprW) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Tikva \- Secret Temple](https://open.spotify.com/album/15xRPuoCHb3VkKtK9nYGUH) | 3:46 | 2025-07-10 |  |
+| [Timberlake](https://open.spotify.com/track/6TgEokT138kzo83DGQljqn) | [J\-VAD](https://open.spotify.com/artist/24zx5C88UfVgieiCm084q4) | [Timberlake](https://open.spotify.com/album/6x7XHGZisV0YZ9yLMTElfK) | 3:11 | 2026-10-16 |  |
 | [Time](https://open.spotify.com/track/0BkL9cS3rwPx63gIFphYfi) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON) | [Time](https://open.spotify.com/album/4z4ZJFk7GM16t3QO7hHfCv) | 2:38 | 2022-07-22 | 2022-08-06 |
 | [Time \- Sevek Remix](https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Time \(Sevek Remix\)](https://open.spotify.com/album/58AZcrMLTjgrsHrTByNX5L) | 2:25 | 2022-07-01 | 2022-07-16 |
 | [Time Machine](https://open.spotify.com/track/6jl8gDM9NRcK59MflJP0Qg) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r) | [Time Machine](https://open.spotify.com/album/761EmE26ty1yb1nD9UQSVz) | 2:31 | 2024-01-26 | 2024-02-10 |

@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-128 songs - 4 hr 53 min
+131 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [mixture](https://open.spotify.com/track/61Ghb129p1GQJwe0R1HMA5) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [mixture](https://open.spotify.com/album/4dAcetjrb9Z6lCH0BbpWYC) | 2:03 | 2024-10-18 | 2024-10-25 |
 | [Morning Dew](https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Morning Dew](https://open.spotify.com/album/1sOBZaf8YPRGzWfUiS0470) | 2:38 | 2024-11-29 |  |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-18 |  |
+| [nevermind](https://open.spotify.com/track/2iWEgdzh9GJuX9hUX1jihX) | [afk](https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN) | [nevermind](https://open.spotify.com/album/1EUjPE7ffJMMk6P9NhMzy3) | 2:20 | 2026-10-16 |  |
 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-10-18 | 2025-11-15 |
 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 | 2024-10-18 | 2025-11-29 |
 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 | 2024-10-18 | 2025-10-17 |
@@ -103,12 +104,14 @@
 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 | 2024-10-18 |  |
 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-18 |  |
 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 | 2024-10-18 | 2025-10-23 |
+| [places to rest](https://open.spotify.com/track/0dVamnfHPjQHvmdB3UyHbq) | [stepbystep](https://open.spotify.com/artist/2Wumm1qoqjJrrbklAQpNcK) | [places to rest](https://open.spotify.com/album/5Rf4mRTaWTXlqFLi7rhzJd) | 2:14 | 2026-10-16 |  |
 | [plateau](https://open.spotify.com/track/0qi4Lk7uRGRSImdN33hgg7) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [plateau](https://open.spotify.com/album/6ydJwHuW8t3BN4hfgXPKl6) | 2:56 | 2024-10-18 | 2024-10-21 |
 | [presence](https://open.spotify.com/track/4u7xzdVBCfjg1hXowA4mRJ) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Shalimar](https://open.spotify.com/artist/5Ngg8MO8stbuc1b0AcZJzX) | [presence](https://open.spotify.com/album/5wnAUPUCDYTpEymJLaPlP9) | 2:17 | 2026-10-09 |  |
 | [rainfall](https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [rainfall](https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s) | 2:42 | 2024-11-15 | 2024-11-23 |
 | [Rainseat](https://open.spotify.com/track/7Aw4NIhyuW9hyF5WxtKN9m) | [Corridor](https://open.spotify.com/artist/0Tc5RmUZd5MfNBwBQfEXld) | [Rainseat](https://open.spotify.com/album/0L8V6DITyr1ZSLwpzeJwYz) | 2:05 | 2025-11-28 |  |
 | [Ralph](https://open.spotify.com/track/0660Qq6M7YZRR4I6i0wUjf) | [agot\-w](https://open.spotify.com/artist/7kDzFaRe9l7To45Hqo6Kdh) | [Ralph](https://open.spotify.com/album/7raNZPikMnHZlangXzDEuZ) | 2:29 | 2026-10-09 |  |
 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 | 2025-09-06 |
+| [remnants of us](https://open.spotify.com/track/6VMqcxdFLOmhi5e9hYJrSo) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo) | [remnants of us](https://open.spotify.com/album/64phVxhhM7u4BglzCCwAlP) | 2:09 | 2026-10-16 |  |
 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 | 2024-10-18 |  |
 | [Robin](https://open.spotify.com/track/5bBzYZ5n15wINaBmD28M8X) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Robin](https://open.spotify.com/album/6D3p9YoUNQNDvnYFSkKCb5) | 2:10 | 2026-09-18 |  |
 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 | 2024-10-18 | 2026-03-13 |

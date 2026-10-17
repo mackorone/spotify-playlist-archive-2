@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 89504,
+  "num_followers": 89532,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJtuBZhOmkzt7gFL4W6woJp/87q",
+  "snapshot_id": "AAAAALfLqRVJ9jFecp5M3I4yxUh4uppO",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "HeadBoppin (with bonus track)",
+        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
+      },
+      "artists": [
+        {
+          "name": "Shilts",
+          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 256973,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "HeadBoppin (with bonus track)",
-        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
-      },
-      "artists": [
-        {
-          "name": "Shilts",
-          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
     },
     {
       "added_at": "2020-08-19 19:15:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,909 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,911 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 16 | [Tuesday's Gone](https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 7:30 |
 | 17 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
 | 18 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
-| 19 | [Jackie Blue](https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55) | [The Ozark Mountain Daredevils](https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9) | [It'll Shine When It Shines](https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG) | 4:10 |
+| 19 | [Train, Train](https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 3:36 |
 | 20 | [Walk On Water](https://open.spotify.com/track/2PAD6vBzSjxDnmm3WB8eI9) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [I Got Your Country Right Here](https://open.spotify.com/album/0zucVZLdGmH0opcSZ6aE4q) | 3:31 |
 | 21 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 |
-| 22 | [Train, Train](https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 3:36 |
+| 22 | [Jackie Blue](https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55) | [The Ozark Mountain Daredevils](https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9) | [It'll Shine When It Shines](https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG) | 4:10 |
 | 23 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
 | 24 | [Long Haired Country Boy](https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 4:00 |
 | 25 | [Hold On Loosely](https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [20th Century Masters The Millennium Collection: Best of 38 Special](https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH) | 4:39 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 43 | [Climb to Safety](https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Til the Medicine Takes](https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z) | 4:41 |
 | 44 | [Green Grass & High Tides \- Remastered](https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Best Of...Green Grass & High Tides](https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd) | 9:46 |
 | 45 | [Bounty Hunter](https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 2:57 |
-| 46 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
-| 47 | [Whipping Post](https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 5:17 |
+| 46 | [Whipping Post](https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 5:17 |
+| 47 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
 | 48 | [Jim Dandy](https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs) | [Black Oak Arkansas](https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU) | [High On The Hog](https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC) | 2:41 |
 | 49 | [Homesick](https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Quinella](https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN) | 4:13 |
 | 50 | [Rattlesnake Rock 'N' Roller](https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Marauder](https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN) | 4:02 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 61 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
 | 62 | [Warrior](https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe) | [The Bean Pickers Union](https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT) | [Potlatch](https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq) | 4:40 |
 | 63 | [It Hurts To Want It So Bad](https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 3:39 |
-| 64 | [Two Wheels](https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA) | [Alligator Stew](https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk) | [Alligator Stew](https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M) | 4:00 |
-| 65 | [Sweet Southern Wind](https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI) | [Holman Autry Band](https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq) | [Sweet Southern Wind](https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw) | 4:17 |
+| 64 | [Sweet Southern Wind](https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI) | [Holman Autry Band](https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq) | [Sweet Southern Wind](https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw) | 4:17 |
+| 65 | [Two Wheels](https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA) | [Alligator Stew](https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk) | [Alligator Stew](https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M) | 4:00 |
 | 66 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
 | 67 | [Miss Understanding](https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Ghost Train from Georgia](https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD) | 5:55 |
 | 68 | [Southern Comfort](https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM) | [Jimmie Van Zant Band](https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C) | [Southern Comfort](https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A) | 5:23 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 92 | [Soulshine](https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR) | 7:47 |
 | 93 | [Shake 'Em On Down](https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq) | 4:08 |
 | 94 | [Refried Funky Chicken](https://open.spotify.com/track/1zmoz57QRPXJUJBQOicp0U) | [Dixie Dregs](https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 3:17 |
-| 95 | [Take the Highway](https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:15 |
+| 95 | [Heard It in a Love Song](https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Where a Country Boy Belongs](https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1) | 4:55 |
 | 96 | [Blue Sky](https://open.spotify.com/track/7uhGHDIJCKP5mbC0WidMAS) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach \(Deluxe Edition\)](https://open.spotify.com/album/4yvCI9bSiajFEvrYTgzmpe) | 5:09 |
 | 97 | [Bad Little Doggie](https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 3:43 |
 | 98 | [Travelin' Shoes](https://open.spotify.com/track/156F2CPm7xEokUNSg4CLh4) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 7:16 |
 | 99 | [Duane's Tune](https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Dickey Betts Band: Live At The Lone Star Roadhouse](https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny) | 6:36 |
-| 100 | [Heard It in a Love Song](https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Where a Country Boy Belongs](https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1) | 4:55 |
+| 100 | [Take the Highway](https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:15 |
 
-Snapshot ID: `AAAAAFrdrAqAvyUxdNW1JHzq4NbjmMAV`
+Snapshot ID: `AAAAAIq2KAK7OmipNL4dpqDyca2hkx0I`

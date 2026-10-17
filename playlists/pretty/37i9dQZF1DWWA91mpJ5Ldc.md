@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > 'tá na rua? traz salsinha?' \(eternamente\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,187 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,193 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 17 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 18 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 |
 | 19 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
-| 20 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 |
-| 21 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
-| 22 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
+| 20 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 21 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
+| 22 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 |
 | 23 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
 | 24 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
 | 25 | [Brother, Father, Sister And Mother](https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia](https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER) | 3:19 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 47 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 |
 | 48 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 49 | [Ainda É Tempo pra Ser Feliz](https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 4:16 |
-| 50 | [Pra Sempre](https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 3:51 |
-| 51 | [Bem ou Mal](https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [SalDoce](https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3) | 3:01 |
+| 50 | [Bem ou Mal](https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [SalDoce](https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3) | 3:01 |
+| 51 | [Pra Sempre](https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 3:51 |
 | 52 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 |
 | 53 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 |
-| 54 | [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 |
-| 55 | [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 |
+| 54 | [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 |
+| 55 | [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 |
 | 56 | [Imunização Racional](https://open.spotify.com/track/4Y4XzfNAzOqax0YcXxkP0u) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 4:40 |
 | 57 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 |
 | 58 | [Azul](https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:30 |
 | 59 | [Coisas do Amor \(Me Chama\)](https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [SAGRADO, Vol 2](https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S) | 3:42 |
 | 60 | [Volta](https://open.spotify.com/track/7r4Y2Z10DO44Ju82dpb4ve) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Tarântula](https://open.spotify.com/album/6d6PpOHDJIzHwsy97cL0bG) | 3:57 |
 
-Snapshot ID: `AAAAAIqnkpbBF5e44A83jbQ8WZfQYk5J`
+Snapshot ID: `AAAAAGuo7Q68zuJoM+oIZTbhchSCynBh`

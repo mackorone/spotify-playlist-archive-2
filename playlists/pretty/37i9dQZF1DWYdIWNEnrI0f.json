@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 33939,
+  "num_followers": 33966,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEqTfvbIcFrRq0qNmWP/oMI1Eqx8",
+  "snapshot_id": "AAAAAN/jJLqq0RyujEcw8a52ei3SC/XQ",
   "tracks": [
     {
       "added_at": "2026-10-05 06:58:45",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-10-05 06:58:45",
       "album": {
+        "name": "Chess Flow",
+        "url": "https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2"
+      },
+      "artists": [
+        {
+          "name": "Slowmo Friends",
+          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
+        }
+      ],
+      "duration_ms": 140651,
+      "name": "Chess Flow",
+      "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
+    },
+    {
+      "added_at": "2026-10-05 06:58:45",
+      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/2xcLsKxQjmoGzRs0JVEWC0"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 155471,
       "name": "Kurokami",
       "url": "https://open.spotify.com/track/1sQP8aR3mzSVOhVdIQEhaB"
-    },
-    {
-      "added_at": "2026-10-05 06:58:45",
-      "album": {
-        "name": "Chess Flow",
-        "url": "https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2"
-      },
-      "artists": [
-        {
-          "name": "Slowmo Friends",
-          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
-        }
-      ],
-      "duration_ms": 140651,
-      "name": "Chess Flow",
-      "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
     },
     {
       "added_at": "2026-10-05 06:58:45",
@@ -495,8 +495,8 @@
     {
       "added_at": "2026-10-05 06:58:45",
       "album": {
-        "name": "Aioi",
-        "url": "https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG"
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Aioi",
-      "url": "https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW"
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
     },
     {
       "added_at": "2026-10-05 06:58:45",
@@ -595,8 +595,8 @@
     {
       "added_at": "2026-10-05 06:58:45",
       "album": {
-        "name": "\u6ce2\u7d0b",
-        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+        "name": "Aioi",
+        "url": "https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 189878,
-      "name": "\u6ce2\u7d0b",
-      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+      "duration_ms": 156800,
+      "name": "Aioi",
+      "url": "https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW"
     },
     {
       "added_at": "2026-10-05 06:58:45",
@@ -695,8 +695,8 @@
     {
       "added_at": "2026-10-05 06:58:45",
       "album": {
-        "name": "Tayutau",
-        "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
       "artists": [
         {
@@ -704,13 +704,13 @@
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
         },
         {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
         }
       ],
-      "duration_ms": 142022,
-      "name": "Tayutau",
-      "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2026-10-05 06:58:45",
@@ -911,18 +911,26 @@
     {
       "added_at": "2026-10-05 06:58:45",
       "album": {
-        "name": "CELEBRATION OF JAY 3",
-        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+        "name": "reminisce",
+        "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
       },
       "artists": [
         {
           "name": "DJ Mitsu The Beats",
           "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        },
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kzyboost",
+          "url": "https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Rostrum",
-      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+      "duration_ms": 169074,
+      "name": "reminisce",
+      "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
     },
     {
       "added_at": "2026-10-05 06:58:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,677 likes - 37 songs - 2 hr 13 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,677 likes - 36 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,23 +27,22 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 17 | [Penelope](https://open.spotify.com/track/2lbCzIQYDRF2Bs4ON6kOV6) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 4:46 |
 | 18 | [X.I.Y.](https://open.spotify.com/track/3ikC5SLbXmuS4QW2t170jl) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 3:32 |
 | 19 | [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 |
-| 20 | [Lady Of The Lake](https://open.spotify.com/track/4gGXcKT54XBpJWsqjEQWmQ) | [Jade Warrior](https://open.spotify.com/artist/6EM2kLJfgXV0KGffb0hW4a) | [Last Autumn's Dream](https://open.spotify.com/album/4hJzwUGsfcjb6tNa3bKSdB) | 3:19 |
-| 21 | [So If Someone Sends You Flowers Babe](https://open.spotify.com/track/61ZLeEXlm0fZ4CIDEYAvia) | [The Kynds](https://open.spotify.com/artist/0qWn7Qrs3qP4CuMFaGFfd2) | [So If Someone Sends You Flowers Babe b/w Find Me Gone](https://open.spotify.com/album/4WWCR15sbZjUkKwXItkbmm) | 2:30 |
-| 22 | [Sweetly Said](https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh) | [Elysium](https://open.spotify.com/artist/4y8Caq0S6ShCGJ7VFejLzk) | [Glisten](https://open.spotify.com/album/2W767NIRwGTWJ0fLmeEIfr) | 4:02 |
-| 23 | [Itchy And Fidgety](https://open.spotify.com/track/4u7MxhwIoSCG6Y1TZMEWY0) | [Clare](https://open.spotify.com/artist/0Vyte5bDO7qTcoLmeQRf2r) | [Easy](https://open.spotify.com/album/7FUiTpAK8pk1X4uI5pEHFF) | 4:42 |
-| 24 | [She's Withering](https://open.spotify.com/track/0JobWkE9vHmEfY1LdFh3B0) | [Con Dolore](https://open.spotify.com/artist/1RRyxzaiaX7Zr4bi955ZPP) | [This Sad Movie](https://open.spotify.com/album/6rxVnICK1xsHlgu21HjAcH) | 4:28 |
-| 25 | [Silver Memories](https://open.spotify.com/track/1ah0xxsAYjrZetGZQI7Z0N) | [Stars Of Stage And Screen](https://open.spotify.com/artist/5SwLxpdpUw7kFNpYAc4aJA) | [Dying To Meet You](https://open.spotify.com/album/4SMV7E4jAxYM9X5vuLknjz) | 4:07 |
-| 26 | [O How I Miss You](https://open.spotify.com/track/3IGByygKHzqdaP2m8277IC) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 1:17 |
-| 27 | [Wonderland](https://open.spotify.com/track/6OKmpT84dcGIr2iyeMFjZE) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz), [Alex Sadkin](https://open.spotify.com/artist/6rObMYPGYuDJKyd305PKoH) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 4:03 |
-| 28 | [Avril](https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [Put Rings On All My Fingers To Weigh Down My Hands](https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc) | 5:18 |
-| 29 | [All the Way](https://open.spotify.com/track/5GWthZwP4OaR7nR80CxNlG) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Amateur](https://open.spotify.com/album/4Jna0PC7dXubuBNNeJtbAA) | 3:09 |
-| 30 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 31 | [16.88](https://open.spotify.com/track/3rSLRaQjW6Y0E21J9oeMF2) | [Hayden Thompson](https://open.spotify.com/artist/2n4u9CWqXeYdpW9Zct4hmk) | [16.88 b/w Here We Go Again](https://open.spotify.com/album/3qiCa5hdGSu6wGz4WGeRsV) | 3:28 |
-| 32 | [Somewhere Down The Line](https://open.spotify.com/track/6jJlVIGLV7VsnGxD0ja147) | [Shelley Duncan](https://open.spotify.com/artist/083nLciZIMOc8P2JFJ4Iuo) | [One Year With Mommy b/w Somewhere Down The Line](https://open.spotify.com/album/3v7c1mLsZfawBTJA2gYXsr) | 2:48 |
-| 33 | [Far Away](https://open.spotify.com/track/5ZBhkGimg2yiDysnib69uC) | [Ron Heiss](https://open.spotify.com/artist/4nWxJwM7dCJ6GrYUzJ7ymy), [The Low Notes](https://open.spotify.com/artist/6vrbdMSmy8U4zEOAmmrYQ4) | [They Move In The Night](https://open.spotify.com/album/2pcPhnsmVZpz9dZe7DWUay) | 2:30 |
-| 34 | [Wasn't There](https://open.spotify.com/track/7rZPtM731eSs9XZbxPS04b) | [X\-Cetra](https://open.spotify.com/artist/0Z7bG1GbifD6EC0QrsmARs) | [Stardust](https://open.spotify.com/album/44l3L5pHknhpAnOgYaXYvu) | 1:51 |
-| 35 | [Psychedelic Ranger](https://open.spotify.com/track/1WEWZtP8EHxoIQV55Wr8YV) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Anthology](https://open.spotify.com/album/0ImmzKzNfwfAUrvq7WS0xA) | 2:49 |
-| 36 | [Dangerous Night](https://open.spotify.com/track/4QqiPyYSKNow3CvtLyru71) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dangerous Night](https://open.spotify.com/album/4UpIHJWLnXUX4wKuF2w9TC) | 4:26 |
-| 37 | [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 |
+| 20 | [So If Someone Sends You Flowers Babe](https://open.spotify.com/track/61ZLeEXlm0fZ4CIDEYAvia) | [The Kynds](https://open.spotify.com/artist/0qWn7Qrs3qP4CuMFaGFfd2) | [So If Someone Sends You Flowers Babe b/w Find Me Gone](https://open.spotify.com/album/4WWCR15sbZjUkKwXItkbmm) | 2:30 |
+| 21 | [Sweetly Said](https://open.spotify.com/track/62HyIpBWRpbBluxo8hXmYh) | [Elysium](https://open.spotify.com/artist/4y8Caq0S6ShCGJ7VFejLzk) | [Glisten](https://open.spotify.com/album/2W767NIRwGTWJ0fLmeEIfr) | 4:02 |
+| 22 | [Itchy And Fidgety](https://open.spotify.com/track/4u7MxhwIoSCG6Y1TZMEWY0) | [Clare](https://open.spotify.com/artist/0Vyte5bDO7qTcoLmeQRf2r) | [Easy](https://open.spotify.com/album/7FUiTpAK8pk1X4uI5pEHFF) | 4:42 |
+| 23 | [She's Withering](https://open.spotify.com/track/0JobWkE9vHmEfY1LdFh3B0) | [Con Dolore](https://open.spotify.com/artist/1RRyxzaiaX7Zr4bi955ZPP) | [This Sad Movie](https://open.spotify.com/album/6rxVnICK1xsHlgu21HjAcH) | 4:28 |
+| 24 | [Silver Memories](https://open.spotify.com/track/1ah0xxsAYjrZetGZQI7Z0N) | [Stars Of Stage And Screen](https://open.spotify.com/artist/5SwLxpdpUw7kFNpYAc4aJA) | [Dying To Meet You](https://open.spotify.com/album/4SMV7E4jAxYM9X5vuLknjz) | 4:07 |
+| 25 | [O How I Miss You](https://open.spotify.com/track/3IGByygKHzqdaP2m8277IC) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 1:17 |
+| 26 | [Wonderland](https://open.spotify.com/track/6OKmpT84dcGIr2iyeMFjZE) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz), [Alex Sadkin](https://open.spotify.com/artist/6rObMYPGYuDJKyd305PKoH) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 4:03 |
+| 27 | [Avril](https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [Put Rings On All My Fingers To Weigh Down My Hands](https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc) | 5:18 |
+| 28 | [All the Way](https://open.spotify.com/track/5GWthZwP4OaR7nR80CxNlG) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Amateur](https://open.spotify.com/album/4Jna0PC7dXubuBNNeJtbAA) | 3:09 |
+| 29 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
+| 30 | [16.88](https://open.spotify.com/track/3rSLRaQjW6Y0E21J9oeMF2) | [Hayden Thompson](https://open.spotify.com/artist/2n4u9CWqXeYdpW9Zct4hmk) | [16.88 b/w Here We Go Again](https://open.spotify.com/album/3qiCa5hdGSu6wGz4WGeRsV) | 3:28 |
+| 31 | [Somewhere Down The Line](https://open.spotify.com/track/6jJlVIGLV7VsnGxD0ja147) | [Shelley Duncan](https://open.spotify.com/artist/083nLciZIMOc8P2JFJ4Iuo) | [One Year With Mommy b/w Somewhere Down The Line](https://open.spotify.com/album/3v7c1mLsZfawBTJA2gYXsr) | 2:48 |
+| 32 | [Far Away](https://open.spotify.com/track/5ZBhkGimg2yiDysnib69uC) | [Ron Heiss](https://open.spotify.com/artist/4nWxJwM7dCJ6GrYUzJ7ymy), [The Low Notes](https://open.spotify.com/artist/6vrbdMSmy8U4zEOAmmrYQ4) | [They Move In The Night](https://open.spotify.com/album/2pcPhnsmVZpz9dZe7DWUay) | 2:30 |
+| 33 | [Wasn't There](https://open.spotify.com/track/7rZPtM731eSs9XZbxPS04b) | [X\-Cetra](https://open.spotify.com/artist/0Z7bG1GbifD6EC0QrsmARs) | [Stardust](https://open.spotify.com/album/44l3L5pHknhpAnOgYaXYvu) | 1:51 |
+| 34 | [Psychedelic Ranger](https://open.spotify.com/track/1WEWZtP8EHxoIQV55Wr8YV) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Anthology](https://open.spotify.com/album/0ImmzKzNfwfAUrvq7WS0xA) | 2:49 |
+| 35 | [Dangerous Night](https://open.spotify.com/track/4QqiPyYSKNow3CvtLyru71) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dangerous Night](https://open.spotify.com/album/4UpIHJWLnXUX4wKuF2w9TC) | 4:26 |
+| 36 | [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 |
 
-Snapshot ID: `AAAO2fEF03fCMSH907XmQz5Ew/mvovLj`
+Snapshot ID: `AAAO2toPgXjhEG/jwUCRslCxxUtneeNv`

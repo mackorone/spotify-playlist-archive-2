@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "313",
+        "url": "https://open.spotify.com/album/7e32wVYfeAYtC7tIBwGtv1"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "313",
+      "url": "https://open.spotify.com/track/08nAH7ZAxpc0qFAresvFrr"
+    },
+    {
+      "album": {
         "name": "405",
         "url": "https://open.spotify.com/album/2kyxaYdrzXy8jtAyLWjTPU"
       },
@@ -468,7 +490,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 133000,
       "name": "Afar",
       "url": "https://open.spotify.com/track/45raOKhmjnJRNChMIpopI3"
@@ -1341,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Beso",
+        "url": "https://open.spotify.com/album/1pyz1y3vmDF0eE5eHSkLhP"
+      },
+      "artists": [
+        {
+          "name": "Ares Carter",
+          "url": "https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167232,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/0PqAzlMrQmIW5GqiKFBfoY"
+    },
+    {
+      "album": {
         "name": "Better (feat. Decades)",
         "url": "https://open.spotify.com/album/2TyL6rwm8VVcKynf0PT3ft"
       },
@@ -1662,7 +1702,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 168750,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/5rRjr3cIfvR586YWhYBznl"
@@ -1738,7 +1778,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 162304,
       "name": "Body",
       "url": "https://open.spotify.com/track/6R1fVoXLxGdLmCejRqEKY2"
@@ -1800,7 +1840,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 191129,
       "name": "Bodyshaker",
       "url": "https://open.spotify.com/track/3wJasC6rTeka9Rz2YbTRqO"
@@ -1844,6 +1884,28 @@
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+    },
+    {
+      "album": {
+        "name": "Born To Be Free (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/28aU7JLDxmGeLTNXXePnFj"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252692,
+      "name": "Born To Be Free (feat. Carla Monroe) - Extended Mix",
+      "url": "https://open.spotify.com/track/7B1jFWqGRT5rQqr14zlOWA"
     },
     {
       "album": {
@@ -1962,6 +2024,46 @@
       "duration_ms": 260400,
       "name": "Break My Love",
       "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
+    },
+    {
+      "album": {
+        "name": "Break Of Dawn",
+        "url": "https://open.spotify.com/album/5sRPUYqlsWbtj0GBDhVXCC"
+      },
+      "artists": [
+        {
+          "name": "Sickluv",
+          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
+        },
+        {
+          "name": "Matt Davies",
+          "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Break Of Dawn",
+      "url": "https://open.spotify.com/track/0MKg8f3MnQRtQoVX2O2q7M"
+    },
+    {
+      "album": {
+        "name": "Break The Beat / Keeping The Distance",
+        "url": "https://open.spotify.com/album/0g83yhp6KzpGPuFYjdxASs"
+      },
+      "artists": [
+        {
+          "name": "Darlow",
+          "url": "https://open.spotify.com/artist/2rwmz5VoQPBMXLiT7pVmZv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331875,
+      "name": "Break The Beat",
+      "url": "https://open.spotify.com/track/7iKTiHCTpVeJkhPomY95Cs"
     },
     {
       "album": {
@@ -2152,7 +2254,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177240,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
@@ -2242,7 +2344,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 337000,
       "name": "Cerrado",
       "url": "https://open.spotify.com/track/2piYP4uGKw6t1I1okWGWBO"
@@ -2366,6 +2468,24 @@
       "duration_ms": 180166,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv"
+    },
+    {
+      "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/1tkUXQMcxNUIFoML5etMnT"
+      },
+      "artists": [
+        {
+          "name": "j\u00fcnn",
+          "url": "https://open.spotify.com/artist/1CLWdsKEaYZAiQAf8iv0vU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/6PG0eETeevKitA28TfVsjy"
     },
     {
       "album": {
@@ -3446,7 +3566,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183829,
       "name": "Don't Pull Me Down (feat. NADIAH)",
       "url": "https://open.spotify.com/track/51QfPqmBvSNyL1xwL3745T"
@@ -3518,7 +3638,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 213809,
       "name": "dots",
       "url": "https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6"
@@ -3738,7 +3858,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 151680,
       "name": "DROWNING",
       "url": "https://open.spotify.com/track/4p5C3fGpa7JVaGQPxhhI0i"
@@ -3792,7 +3912,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 147647,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/3FCjXIRvgFdtH1qOcGAZdZ"
@@ -4132,6 +4252,28 @@
       "duration_ms": 205988,
       "name": "Everything (feat. ALLKNIGHT)",
       "url": "https://open.spotify.com/track/2N6ybgZJj33vh6Xx4dpLYj"
+    },
+    {
+      "album": {
+        "name": "Everything Changes (feat. Fr\u00fdnn)",
+        "url": "https://open.spotify.com/album/0r9cMhphd6VpzwagBz1FCx"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        },
+        {
+          "name": "Fr\u00fdnn",
+          "url": "https://open.spotify.com/artist/7qKTe67KmBqhVbkCwrO3Av"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233360,
+      "name": "Everything Changes (feat. Fr\u00fdnn)",
+      "url": "https://open.spotify.com/track/3irieFgecxwlmogTqnvmBs"
     },
     {
       "album": {
@@ -5016,7 +5158,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Gets Like That",
       "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
@@ -5569,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/4eaRWM1NtsU0CJLVAZ4b7n"
+      },
+      "artists": [
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/7sPbIKst90bw4YQ3OrRSUg"
+    },
+    {
+      "album": {
         "name": "High On Me",
         "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
       },
@@ -6110,7 +6270,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 160350,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/2UA3NqFgLOAGkQEIgQ31mc"
@@ -6728,7 +6888,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 157287,
       "name": "Jack",
       "url": "https://open.spotify.com/track/54UKy8h5G8wsbvTEmlJzPI"
@@ -7524,6 +7684,24 @@
       "duration_ms": 186262,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA"
+    },
+    {
+      "album": {
+        "name": "lip service",
+        "url": "https://open.spotify.com/album/5hZNm3NEpofIg7WR7eI74S"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208846,
+      "name": "lip service",
+      "url": "https://open.spotify.com/track/4jyrNEv8BTSLDnmv5GDSHE"
     },
     {
       "album": {
@@ -8372,7 +8550,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 366666,
       "name": "Mind Your Own Business - Extended Mix",
       "url": "https://open.spotify.com/track/2Tb2VMIYveTnWI8RLwg4Wp"
@@ -8994,6 +9172,28 @@
       "duration_ms": 173930,
       "name": "No Apologies (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/3EJjWnvGleKgYPikSo3K33"
+    },
+    {
+      "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "album": {
@@ -9690,10 +9890,32 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 343728,
       "name": "People",
       "url": "https://open.spotify.com/track/1XI25aYhu4UpskUYYgQYzg"
+    },
+    {
+      "album": {
+        "name": "People In The Back",
+        "url": "https://open.spotify.com/album/5WbpOoqqrM0gFIHnLTcQEX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Charlotte Moss",
+          "url": "https://open.spotify.com/artist/6x7zlplC8xOHkZxjOFmLxV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "People In The Back",
+      "url": "https://open.spotify.com/track/3o1rdK4SipPibK1ZVPHnUO"
     },
     {
       "album": {
@@ -10241,6 +10463,28 @@
     },
     {
       "album": {
+        "name": "Rise EP",
+        "url": "https://open.spotify.com/album/6Ez0zmp96GSPLKVcNyIdpT"
+      },
+      "artists": [
+        {
+          "name": "REBRN",
+          "url": "https://open.spotify.com/artist/3GHKSLV8K79xY8Z6TASqqz"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4b55GbSwn1MJtGb5VVenwb"
+    },
+    {
+      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -10688,7 +10932,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 405604,
       "name": "Seconds Away - Extended Mix",
       "url": "https://open.spotify.com/track/6duFpk8ANCOsibgWgOqxtw"
@@ -10816,7 +11060,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 251803,
       "name": "Sexy People",
       "url": "https://open.spotify.com/track/1G5WT4MAGKWLdYsxSMbGPv"
@@ -11168,7 +11412,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 222978,
       "name": "So Damn Good",
       "url": "https://open.spotify.com/track/4x9faBmIYLjjwltBoAcZDR"
@@ -11426,7 +11670,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183186,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/7mFoGLIUn1M7ORFx53eEVa"
@@ -11477,6 +11721,32 @@
     },
     {
       "album": {
+        "name": "Spend The Night (feat. Dannielle Gaha) [Rue Jay Remix]",
+        "url": "https://open.spotify.com/album/0MzYR7raC1v8940YchiQFj"
+      },
+      "artists": [
+        {
+          "name": "Danny J Lewis",
+          "url": "https://open.spotify.com/artist/3Z26EjrymkTLeLcJWzJT9S"
+        },
+        {
+          "name": "Dannielle Gaha",
+          "url": "https://open.spotify.com/artist/7bdwPn0i43lXcJsqDjSbRE"
+        },
+        {
+          "name": "Rue Jay",
+          "url": "https://open.spotify.com/artist/6PRSGfADyj9452tYywGxq7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Spend The Night (feat. Dannielle Gaha) - Rue Jay Remix",
+      "url": "https://open.spotify.com/track/5V8izu14eYd0vgNLn4A0vF"
+    },
+    {
+      "album": {
         "name": "Spreading The Love",
         "url": "https://open.spotify.com/album/1UGdrscNj5mQyeaRHybnEI"
       },
@@ -11492,6 +11762,28 @@
       "duration_ms": 240000,
       "name": "Spreading The Love",
       "url": "https://open.spotify.com/track/21YOupfHHTNFZDWpI9fTgj"
+    },
+    {
+      "album": {
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/27sUfvUNHIqk81ANClzg7Q"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201255,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/0Av0Z4deoq4ct6JWdrmUM3"
     },
     {
       "album": {
@@ -12214,6 +12506,28 @@
       "duration_ms": 193637,
       "name": "Te Estoy Correteando",
       "url": "https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs"
+    },
+    {
+      "album": {
+        "name": "Tears Fall",
+        "url": "https://open.spotify.com/album/4e3FOfskgO3SP4ioQt22vg"
+      },
+      "artists": [
+        {
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+        },
+        {
+          "name": "Bonj",
+          "url": "https://open.spotify.com/artist/69SzBlSnGFv8Fuz8JHBHfT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506440,
+      "name": "Tears Fall",
+      "url": "https://open.spotify.com/track/6SrEDvbKj4JAPDj0qrPHSP"
     },
     {
       "album": {
@@ -13310,7 +13624,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178604,
       "name": "Trust (KILIMANJARO Remix)",
       "url": "https://open.spotify.com/track/5MRnGPEaOFkFcxc67wLWnz"
@@ -13802,7 +14116,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 182760,
       "name": "Walk In The Light",
       "url": "https://open.spotify.com/track/16ncTjsceifUCWlUBickgS"
@@ -13846,6 +14160,36 @@
       "duration_ms": 182500,
       "name": "Want To Know",
       "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
+    },
+    {
+      "album": {
+        "name": "Was You (feat. Kali Mija)",
+        "url": "https://open.spotify.com/album/7jbbTZO7xXQgOslLxpxWLl"
+      },
+      "artists": [
+        {
+          "name": "PAGEZ",
+          "url": "https://open.spotify.com/artist/64EAiouFVYxpc03BBAqlJr"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Beekay Monalayzzar",
+          "url": "https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358728,
+      "name": "Was You (feat. Kali Mija)",
+      "url": "https://open.spotify.com/track/1KpmyIUL62T9DFHJj3tlxS"
     },
     {
       "album": {
@@ -14766,6 +15110,24 @@
       "duration_ms": 164000,
       "name": "Yo No Lo S\u00e9",
       "url": "https://open.spotify.com/track/5ihq4qbjaO2r5Ga9aGlsMj"
+    },
+    {
+      "album": {
+        "name": "Yo Soy La Rumba",
+        "url": "https://open.spotify.com/album/5C4EQzBuN9oxBWwwayrTJG"
+      },
+      "artists": [
+        {
+          "name": "David King DJ",
+          "url": "https://open.spotify.com/artist/7ds8O8v01lNWsYixKyjPpE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Yo Soy La Rumba",
+      "url": "https://open.spotify.com/track/2eQHhCHp9BKdqsLUXLCazM"
     },
     {
       "album": {

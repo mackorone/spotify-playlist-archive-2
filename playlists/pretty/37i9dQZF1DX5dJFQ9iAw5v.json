@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJBj/00/p391wcUmOsr/pOYGrYp",
+  "snapshot_id": "AAAAAGTz0hj+7mVIsotj9uUx3i5eZdbV",
   "tracks": [
     {
       "added_at": "2025-04-14 14:58:34",
@@ -731,26 +731,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "All the Things You Are",
-        "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
       "artists": [
         {
-          "name": "Ruben Lopez Furst",
-          "url": "https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX"
-        },
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        },
-        {
-          "name": "Luis Ceravolo",
-          "url": "https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E"
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
         }
       ],
-      "duration_ms": 408293,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -775,6 +767,30 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "All the Things You Are",
+        "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
+      },
+      "artists": [
+        {
+          "name": "Ruben Lopez Furst",
+          "url": "https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX"
+        },
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        },
+        {
+          "name": "Luis Ceravolo",
+          "url": "https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E"
+        }
+      ],
+      "duration_ms": 408293,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Flor de piel",
         "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 155904,
       "name": "Flor de piel",
       "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
-      },
-      "artists": [
-        {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
-      },
-      "artists": [
-        {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 342480,
       "name": "Comrade Conrad",
       "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
+      },
+      "artists": [
+        {
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     },
     {
       "added_at": "2025-04-14 14:58:34",

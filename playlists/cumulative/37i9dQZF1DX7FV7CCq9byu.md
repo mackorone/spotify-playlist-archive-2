@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-2,035 songs - 4 day 8 hr 22 min
+2,037 songs - 4 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-23 | 2026-02-13 |
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 | 2026-01-30 |
 | [Change](https://open.spotify.com/track/0kAhizRC73T35mgJH4sBwN) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [Change](https://open.spotify.com/album/7C3PfzA33m5Cj87TkLfMgi) | 3:00 | 2026-09-17 |  |
-| [Change](https://open.spotify.com/track/7emKgdDCGx8c2uWTDx4PMn) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [Paradise](https://open.spotify.com/album/1yC6nMwwuubisyrFNOWXxN) | 3:00 | 2026-10-15 |  |
+| [Change](https://open.spotify.com/track/7emKgdDCGx8c2uWTDx4PMn) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [Paradise](https://open.spotify.com/album/1yC6nMwwuubisyrFNOWXxN) | 3:00 | 2026-10-15 | 2026-10-17 |
 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 | 2025-07-10 | 2025-09-12 |
 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 | 2025-10-16 | 2025-12-12 |
 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 | 2024-10-31 | 2025-01-10 |
@@ -1022,6 +1022,7 @@
 | [Leva för alltid \- Sveriges officiella VM\-låt 2026](https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Leva för alltid \(Sveriges officiella VM\-låt 2026\)](https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg) | 3:22 | 2026-05-14 | 2026-07-24 |
 | [Level Up](https://open.spotify.com/track/1oJJQpxFMz0A0h4MngHQi1) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Level Up](https://open.spotify.com/album/60Kb7iVoNXoC84HnTMcqzj) | 3:22 | 2025-06-12 | 2025-08-08 |
 | [LEZ GO!](https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [LEZ GO!](https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv) | 2:44 | 2026-03-05 | 2026-03-27 |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-15 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 | 2024-08-23 |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-06-27 | 2024-08-16 |
 | [Life Or Death](https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Life Or Death](https://open.spotify.com/album/6vEjNyuLahcJWnPgsyz4g6) | 3:09 | 2025-05-19 | 2025-06-27 |
@@ -1356,6 +1357,7 @@
 | [Papier Mâché](https://open.spotify.com/track/37yG0To4lRmF6JecllJOci) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Papier Mâché](https://open.spotify.com/album/1i2IyndS9yTJomdnDfFfTr) | 3:24 | 2025-10-23 | 2025-12-12 |
 | [Pappa kommer inte hem](https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Det högsta ljud jag hört](https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY) | 3:10 | 2026-05-21 | 2026-08-01 |
 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 | 2026-02-19 | 2026-03-27 |
+| [Paradise](https://open.spotify.com/track/2GrfU0Wr9TzToQFI74FsgA) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [Paradise](https://open.spotify.com/album/1yC6nMwwuubisyrFNOWXxN) | 3:34 | 2026-10-16 |  |
 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 | 2025-01-23 | 2025-03-07 |
 | [Pardon Me](https://open.spotify.com/track/4pnbLZ74D1KUCqDHwe2CXn) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Pardon Me](https://open.spotify.com/album/7A2lM8Nv9uSsopJk5PvaRp) | 2:18 | 2026-04-08 | 2026-05-01 |
 | [Park Lane](https://open.spotify.com/track/5PHbvmVOCDWVaA2IYhqiu4) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb), [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Park Lane](https://open.spotify.com/album/1TFk5rn7EGrFavtEYruhpS) | 3:07 | 2025-04-04 | 2025-05-09 |

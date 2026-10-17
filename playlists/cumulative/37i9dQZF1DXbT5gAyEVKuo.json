@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: DOE",
+  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Roosevelt Stewart",
   "name": "Gospel Worship",
   "tracks": [
     {
@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/01RkSrTKnYuFjcm6Kla4qP"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475546,
+      "name": "Attributes",
+      "url": "https://open.spotify.com/track/1dSWQxV3zravd96vFAbcPp"
+    },
+    {
+      "album": {
         "name": "Sustained By Grace",
         "url": "https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV"
       },
@@ -696,6 +714,28 @@
       "duration_ms": 260872,
       "name": "Better than Life - Live",
       "url": "https://open.spotify.com/track/4MrCvonLoLGsQZpu69EJaz"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Church - Second Service",
+        "url": "https://open.spotify.com/album/2Jm86EHV5qpI88soXUABuZ"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315565,
+      "name": "Bless Your Name (with Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/5pCMG86XKpAoriBRyV8ulc"
     },
     {
       "album": {
@@ -1321,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/1BmP4YuPhP9LlLywQBVHLy"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306470,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/6pxVg4hiauSl9KgLmEZ4qw"
+    },
+    {
+      "album": {
         "name": "ENOUGH FOR ME",
         "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
       },
@@ -1548,7 +1606,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 696221,
       "name": "Father of Mercy - Live",
       "url": "https://open.spotify.com/track/77WplLxjyTqMbGbna6KcNy"
@@ -1872,7 +1930,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 542595,
       "name": "Good Plans",
       "url": "https://open.spotify.com/track/4fhI9snXmOxpoh7trwQadv"
@@ -1930,7 +1988,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 358601,
       "name": "Gracefully Broken/Who The Son Sets Free",
       "url": "https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU"
@@ -2072,7 +2130,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 416232,
       "name": "Halleluyah",
       "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
@@ -2298,7 +2356,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 316666,
       "name": "Heaven Collide",
       "url": "https://open.spotify.com/track/6napmh5WfgrThYbkwognKx"
@@ -2316,7 +2374,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 333208,
       "name": "High Praise",
       "url": "https://open.spotify.com/track/5Jqia9cVK8OOhefBWcCgWi"
@@ -3044,7 +3102,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 494995,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4fu4P9YKVxcBLU7OyQKlAr"
@@ -3489,6 +3547,28 @@
     },
     {
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/5j6AoIkhOX3kRHx4PkCvmD"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 690365,
+      "name": "Make It Good",
+      "url": "https://open.spotify.com/track/553IXhpPYgf5yVWNQeM7iB"
+    },
+    {
+      "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/0qCl8ZVtzAf3rUTJrsYjBz"
       },
@@ -3566,10 +3646,32 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 585000,
       "name": "Memory",
       "url": "https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg"
+    },
+    {
+      "album": {
+        "name": "Mighty Is Your Name (feat. Melissa Bethea)",
+        "url": "https://open.spotify.com/album/3sx04T2p0lddMDHzPCGhDz"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 678963,
+      "name": "Mighty Is Your Name (feat. Melissa Bethea)",
+      "url": "https://open.spotify.com/track/2xsD3PI49ZUH0uzwGE7u9o"
     },
     {
       "album": {
@@ -5122,7 +5224,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 169959,
       "name": "Thank You Jesus",
       "url": "https://open.spotify.com/track/1cpANJGpFQbPz7HeStWXoz"
@@ -5842,7 +5944,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 594723,
       "name": "What A Miracle Feels Like (with Naomi Raine)",
       "url": "https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh"
@@ -5918,7 +6020,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 943500,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4"
@@ -6042,6 +6144,24 @@
       "duration_ms": 363048,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6XlilInIhEvmmM7eNRRKYx"
+    },
+    {
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/54mTdYyNY8CeHS6BNzWfbq"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642000,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/4cnDMiBwVbuZVmS7keEFYn"
     },
     {
       "album": {

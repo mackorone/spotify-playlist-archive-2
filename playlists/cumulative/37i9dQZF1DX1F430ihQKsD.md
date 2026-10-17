@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> 100 % chill, 100 % Montréal w/ Joseph Lorange
+> 100 % chill, 100 % Montréal w/ Colin Léo
 
-1,006 songs - 2 day 8 hr 42 min
+1,011 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Hold You](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Hold You EP](https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt) | 4:25 | 2024-08-30 | 2025-10-18 |
 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 | 2022-03-25 | 2023-04-01 |
 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-06-27 | 2025-10-25 |
+| [Honey](https://open.spotify.com/track/0VKAG0FTqxl7GbSPTWUH6e) | [Bain Marie](https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J) | [Honey](https://open.spotify.com/album/54QQbJgusUWZuvG47NeWd6) | 2:58 | 2026-10-16 |  |
 | [Honey](https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Honey](https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk) | 2:51 | 2022-03-25 | 2022-04-02 |
 | [Hoodie du Che](https://open.spotify.com/track/1danqk02o34nZrUadi6Dw8) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Hoodie du Che](https://open.spotify.com/album/52Y2nzPohbPOpbbMSW9q6n) | 3:40 | 2025-06-13 | 2026-02-21 |
 | [Hoops](https://open.spotify.com/track/6O066SuknbFTwYD3F6bpiD) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Hoops](https://open.spotify.com/album/3jaHMm1GZfioDWWZCKK46f) | 2:23 | 2025-09-26 | 2025-11-01 |
@@ -390,6 +391,7 @@
 | [How Do You Like Me Now](https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [How Do You Like Me Now](https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t) | 2:26 | 2026-09-18 |  |
 | [Hush Baby](https://open.spotify.com/track/4Xh6kOAE7kLReNyQ6dhox2) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Hush Baby](https://open.spotify.com/album/4hrEkOenp0Psy2zFXRn7Zc) | 2:53 | 2025-05-23 | 2025-11-08 |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-20 | 2025-03-22 |
+| [Hà Nội, 1967](https://open.spotify.com/track/1Wsj5CvKEb9nOHWXYFfGet) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Hà Nội, 1967](https://open.spotify.com/album/0kO8LBwqZV8Mbk6qoNYBHT) | 2:31 | 2026-10-16 |  |
 | [I Can't Say No](https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [At Least There Was Sun](https://open.spotify.com/album/1zXmCKIvv5xFaocmUzOxkf) | 3:11 | 2025-10-24 | 2026-02-21 |
 | [I Don't Wanna Give You Up](https://open.spotify.com/track/4rCZUOAzUEkgqit17eDlzi) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 3:42 | 2025-11-14 | 2025-12-04 |
 | [I Dunno](https://open.spotify.com/track/6aqMhnDtKgD34c34hgnVrP) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [I Dunno](https://open.spotify.com/album/7L2nTi1dbVSVPt813vQtNs) | 2:46 | 2023-08-18 | 2023-10-14 |
@@ -467,6 +469,7 @@
 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 | 2025-02-22 |
 | [L'Ami idéal](https://open.spotify.com/track/0QMtHqmvPe1URDTdsa3tGt) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [L'Ami idéal](https://open.spotify.com/album/5aGfT3NgFxOwGxumgvrapE) | 3:14 | 2023-11-17 | 2024-01-20 |
 | [L'amour](https://open.spotify.com/track/1PLL2CDBT3rHDKuMcVHbo5) | [jacob d'amour](https://open.spotify.com/artist/3nGokQHvFVOQuQLNM3PTo9) | [L'amour](https://open.spotify.com/album/0QrvV2L0hWhKrWiXJK4Kf1) | 3:47 | 2026-05-22 | 2026-06-06 |
+| [L'amour pis les steamés](https://open.spotify.com/track/1gFkF0DgqF7lUi9StRfQ4E) | [Anaïs Constantin](https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ) | [L'amour pis les steamés](https://open.spotify.com/album/0RxHj4n9KObqSIfoRyETpL) | 3:49 | 2026-10-16 |  |
 | [L'avalanche](https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd) | [L'avalanche](https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO) | 3:24 | 2025-11-28 | 2026-02-21 |
 | [L'Habitude](https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [L'Habitude](https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz) | 2:58 | 2023-09-15 | 2024-03-30 |
 | [L'ordre naturel des choses](https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Tout va bien](https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2) | 3:18 | 2024-11-08 | 2025-10-18 |
@@ -876,6 +879,7 @@
 | [Sur le cap](https://open.spotify.com/track/488gdN2KwunxpokKpXoPXn) | [Paruline](https://open.spotify.com/artist/18cNTulUASsX5cWN3vWzSO) | [À ceux qui veillent](https://open.spotify.com/album/53jP4RdQQQ0prisJ2NetX2) | 4:32 | 2025-10-17 | 2025-12-04 |
 | [SVP ne pas toucher](https://open.spotify.com/track/7gj9Ra0vqKOKXnQPwueomW) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [SVP ne pas toucher](https://open.spotify.com/album/1CQyIelMHO9Q9iKz65IIJj) | 3:27 | 2025-05-16 | 2025-10-25 |
 | [Sycomore](https://open.spotify.com/track/6fu86kCRpRGMPSgaDrWh8J) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Bras solaires](https://open.spotify.com/album/1TXUlko1ECf7npkQfsgZCo) | 2:37 | 2025-11-14 | 2025-12-04 |
+| [Sérotonine](https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC), [Greg Beaudin](https://open.spotify.com/artist/3c1E23TTSqemqVSfJBmnFb) | [Léger Stress](https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU) | 3:08 | 2026-10-16 |  |
 | [T'es beau](https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Montréal bagarre 2](https://open.spotify.com/album/651734qFKfoKaPjnYT0mEk) | 3:05 | 2022-05-20 | 2022-06-11 |
 | [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 | 2022-09-02 | 2023-10-28 |
 | [Tache d'encre](https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Tache d'encre](https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d) | 3:12 | 2023-08-18 | 2024-05-11 |
@@ -902,6 +906,7 @@
 | [The Only One](https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [The Only One](https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj) | 3:31 | 2024-10-18 | 2025-10-18 |
 | [the rest](https://open.spotify.com/track/4pS0Dx6KE1uhvT7S44fPRt) | [Clément](https://open.spotify.com/artist/0Ate5PoarqMgF9rUs55BWN) | [the rest](https://open.spotify.com/album/5XgH36tpMwa1zabhZ9Fvk1) | 3:42 | 2026-08-28 |  |
 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 | 2024-03-01 | 2025-07-05 |
+| [They/Them Summer](https://open.spotify.com/track/6IcgYoQUJekZtAcobhgY19) | [Chaude Chaleur](https://open.spotify.com/artist/1mDSretn552shMdrXmhiuk) | [They/Them Summer](https://open.spotify.com/album/5MhANPNQ5a1XVipxwtM7Do) | 3:40 | 2026-10-16 |  |
 | [think about us](https://open.spotify.com/track/1O3b8pqhkn8GOYmWkon3dj) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [portable darkroom \(Deluxe\)](https://open.spotify.com/album/3zWCNflH0aebMLrbWUguTo) | 2:00 | 2025-04-04 | 2026-01-17 |
 | [Thistledown \- Hologramme Remix](https://open.spotify.com/track/3x8zytmuCEToqPcR0RucAq) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj), [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Thistledown \(Hologramme Remix\)](https://open.spotify.com/album/0SdYzNfOsGxJtO673CRLM6) | 3:32 | 2025-10-17 | 2025-12-04 |
 | [Those Years When Everything Changed](https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI) | [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [Those Years When Everything Changed](https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM) | 3:10 | 2026-01-23 | 2026-05-09 |

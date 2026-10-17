@@ -4,7 +4,7 @@
 
 > Bluegrass fit for the holiday season
 
-121 songs - 6 hr 26 min
+122 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Green Garland](https://open.spotify.com/track/4Q8XDPeRhOnYWZsTHHzzw8) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Green Garland](https://open.spotify.com/album/7jxI890kIzYa6UKnOndKVD) | 3:23 | 2024-11-29 |  |
 | [Green Sleeves](https://open.spotify.com/track/2yl64VupbVoQzLSuD3htcA) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Sittin' On Top Of The World](https://open.spotify.com/album/6jhpiluTZiGfnoTXrHVYs7) | 1:54 | 2024-11-29 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/5j0cJnxgBeHAPw02it3R64) | [Rachel Edge](https://open.spotify.com/artist/5KW8PdAs3eCFWi7dAoEIM8), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hard Candy Christmas](https://open.spotify.com/album/5mpRAA2ljY76uCnCu1cJRK) | 3:32 | 2024-11-29 |  |
+| [Hark! The Herald Angels Sing](https://open.spotify.com/track/1v7cIKNizOAH1AS6Nzoq32) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/12ZeMyDVCivIZZe0t0mNbQ) | 3:49 | 2026-10-16 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4LcV6eQmlIhg6GmsMZk80I) | [Tim and James](https://open.spotify.com/artist/1DFceeewfUdsmpFhhlAoQz) | [A Tim and James Christmas](https://open.spotify.com/album/0EKETzcEkbK9H7GtDpPPk1) | 2:51 | 2024-11-29 |  |
 | [How Many Kings](https://open.spotify.com/track/2Ocerq7QbsmSaS1HKXmgWt) | [Chosen Road](https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh), [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [How Many Kings](https://open.spotify.com/album/4KxkQd9j649pGqvbMwVo7h) | 4:21 | 2024-11-29 |  |
 | [It's Christmastime Again](https://open.spotify.com/track/6HrZcLOleESkAzbgtUsAQH) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [It's Christmastime Again](https://open.spotify.com/album/3oTwEbleDyRovDe3YtiTQh) | 3:22 | 2024-11-29 |  |

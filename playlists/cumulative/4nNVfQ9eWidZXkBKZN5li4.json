@@ -5925,6 +5925,32 @@
     },
     {
       "album": {
+        "name": "Muskura Do (From \"Drishyam: The Conclusion\")",
+        "url": "https://open.spotify.com/album/7zn8lPFwbrCc6SMjeHC8OY"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Muskura Do (From \"Drishyam: The Conclusion\")",
+      "url": "https://open.spotify.com/track/1kpZzaod9E7NJ5YIDcXkg7"
+    },
+    {
+      "album": {
         "name": "Na Nai Sunna (feat. Nikhita Gandhi)",
         "url": "https://open.spotify.com/album/6s20adLxIdOc8VNJfVzF1V"
       },

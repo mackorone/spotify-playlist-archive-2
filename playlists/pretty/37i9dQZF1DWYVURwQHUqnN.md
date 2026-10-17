@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Gambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,608 likes - 59 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,545 likes - 59 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 9 | [Nous deux](https://open.spotify.com/track/3yXOtAnjSEMjhIVhxmmdIC) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [TONIGHT](https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0) | 3:05 |
 | 10 | [Coachella](https://open.spotify.com/track/5GW0Vh78Qa8aEVHByOCuYn) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Coachella](https://open.spotify.com/album/3EGnqt7FAO1CbifmJx7a1a) | 2:41 |
 | 11 | [Milano](https://open.spotify.com/track/6WT1AWBgI6DYbmkiWjfO8Q) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Milano](https://open.spotify.com/album/6bBAtP09YBrPUH05JPNFYC) | 2:36 |
-| 12 | [Track 13](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 0:00 |
+| 12 | [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 |
 | 13 | [Dis\-moi \- Nouvelle École](https://open.spotify.com/track/0Zq4kjz9AWHeFeMw358s2c) | [Nayte](https://open.spotify.com/artist/50m4JeiAg5aCt3kKRsKw7T), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nayte \| Nouvelle École \| Saison 5 \(Série Netflix\)](https://open.spotify.com/album/0g8lAAMUeGMuNbluBJi0u0) | 2:38 |
 | 14 | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU) | 3:03 |
 | 15 | [Bodycount](https://open.spotify.com/track/5NLAurSVEWIwVuVqO5iIEX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Bodycount](https://open.spotify.com/album/0TV8TjT15tUQXgn1N5KTSz) | 2:34 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 58 | [EN PILOTANT](https://open.spotify.com/track/158XZNsakcXfI5B5iQ0zzS) | [Mougli](https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl) | [EN PILOTANT](https://open.spotify.com/album/0IQfxvgQDqPdTHtSHkSzl6) | 3:06 |
 | 59 | [Le G](https://open.spotify.com/track/61Rdre8hZFyLvcYQu3a1Dw) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Rescapé \(L'épilogue\)](https://open.spotify.com/album/1JxbpEur0yuSrr7mRTb7kN) | 2:40 |
 
-Snapshot ID: `AAAAAPqUrb+pkZW3XI1BzaNBX0IRudkN`
+Snapshot ID: `AAAAACtX0s98sVCtSZW6nxFKTRqOeVit`

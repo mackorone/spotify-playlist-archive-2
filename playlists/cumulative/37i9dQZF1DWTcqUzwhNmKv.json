@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Calva Louise are on top of today's best Metal playlist.",
+  "description": "Deafheaven are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -4936,7 +4936,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 146058,
       "name": "critic",
       "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
@@ -5054,6 +5054,24 @@
       "duration_ms": 204400,
       "name": "Crossing the Rubicon (feat. NOTHING MORE)",
       "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
+    },
+    {
+      "album": {
+        "name": "Crown In The Grave",
+        "url": "https://open.spotify.com/album/3OZcfjKKdFHpl787goUIJb"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296480,
+      "name": "Crown In The Grave",
+      "url": "https://open.spotify.com/track/3EiZRLPpax6Jfzr3Ia5dNx"
     },
     {
       "album": {
@@ -5766,7 +5784,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 241453,
       "name": "Dead Inside Of Me",
       "url": "https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh"
@@ -9779,6 +9797,24 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/3ZhTfeef3Y6AkC7PEaGmRJ"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192662,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/1z8A0pBSko5gfFlCY2cflK"
+    },
+    {
+      "album": {
         "name": "Ghosts Among The Obelisks",
         "url": "https://open.spotify.com/album/1GIFv56IlgY6hvPrmHdwTK"
       },
@@ -10068,6 +10104,24 @@
       "duration_ms": 197986,
       "name": "Godhood",
       "url": "https://open.spotify.com/track/4H8L4Q02z8DBnM0m0twa5C"
+    },
+    {
+      "album": {
+        "name": "Godtier",
+        "url": "https://open.spotify.com/album/4YdKSd7Vk8DkPAfSZqygHA"
+      },
+      "artists": [
+        {
+          "name": "Resolve",
+          "url": "https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Godtier",
+      "url": "https://open.spotify.com/track/48eIPWcdBNv02kAfQJgQq0"
     },
     {
       "album": {
@@ -13240,7 +13294,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 148946,
       "name": "Kill Count Increase",
       "url": "https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt"
@@ -16518,7 +16572,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183187,
       "name": "Nostalgia Kills",
       "url": "https://open.spotify.com/track/4Air2IBYs2o8boiqqyod6t"
@@ -22969,6 +23023,24 @@
     },
     {
       "album": {
+        "name": "The Carrion Choir",
+        "url": "https://open.spotify.com/album/1UUTzVvJg987HOcOmrLSh6"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "The Carrion Choir",
+      "url": "https://open.spotify.com/track/7hqrfDYNDTOt8ng4U9yuw2"
+    },
+    {
+      "album": {
         "name": "The Cave We Fear To Enter",
         "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
       },
@@ -25304,7 +25376,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 197444,
       "name": "Twin Tyrants",
       "url": "https://open.spotify.com/track/7qFcD2a6MaWTtsaPhVeqyJ"
@@ -25802,6 +25874,24 @@
       "duration_ms": 214028,
       "name": "Until We Break (feat. Matty Mullins of Memphis Mayfire)",
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"
+    },
+    {
+      "album": {
+        "name": "unwanted",
+        "url": "https://open.spotify.com/album/3w2biga72syy4OKrSmmDBc"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130721,
+      "name": "unwanted",
+      "url": "https://open.spotify.com/track/79QmoyRkeqV96rKFRhAUed"
     },
     {
       "album": {
@@ -26544,6 +26634,24 @@
       "duration_ms": 208000,
       "name": "Warpaint",
       "url": "https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH"
+    },
+    {
+      "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/1aE7C1a583EENZ8TKfGsX3"
+      },
+      "artists": [
+        {
+          "name": "Darkest Hour",
+          "url": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271495,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/5Pd6bF7lSlVjhMjEKqFzZ8"
     },
     {
       "album": {
@@ -27312,7 +27420,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 264248,
       "name": "Whisper of a Dream",
       "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"

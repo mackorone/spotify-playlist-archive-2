@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 1455,
+  "num_followers": 1480,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0AaH0Rj413sqWY9k5baTS111t3",
+  "snapshot_id": "AAAAANY1GX9wQBsSEmJ0jdXbUbAxIy3F",
   "tracks": [
     {
       "added_at": "2025-07-14 16:04:01",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197616,
+      "name": "Entre el Cielo Vos y Yo",
+      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 197616,
-      "name": "Entre el Cielo Vos y Yo",
-      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+      "duration_ms": 187406,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -639,22 +655,6 @@
       "duration_ms": 217490,
       "name": "SINVERG\u00dcENZA - con Angela Torres",
       "url": "https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187406,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Paloma Mensajera",
-      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Ritmo, Sol y Arena",
         "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 147866,
       "name": "Acapulco Tropical",
       "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Paloma Mensajera",
+      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
-      },
-      "artists": [
-        {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
-        }
-      ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 224946,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+      },
+      "artists": [
+        {
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2025-07-14 16:04:01",

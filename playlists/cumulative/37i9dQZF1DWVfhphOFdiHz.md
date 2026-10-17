@@ -4,7 +4,7 @@
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-665 songs - 1 day 11 hr 36 min
+667 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,12 +267,13 @@
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-08-09 | 2025-09-06 |
 | [Heaven On Their Minds \(From "Jesus Christ Superstar"\)](https://open.spotify.com/track/6r4lOUxdfgYO9MjJsiXwzP) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Heaven On Their Minds \(From "Jesus Christ Superstar"\)](https://open.spotify.com/album/6687vPzMwbsV1rvrxHdhNw) | 4:35 | 2025-08-01 | 2025-11-01 |
 | [Helen's Door](https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Helen's Door](https://open.spotify.com/album/34yIxzhBiLbKWvneIEXE30) | 2:34 | 2026-02-20 | 2026-05-09 |
+| [Helium](https://open.spotify.com/track/3ebSciePaS2SPy8Rq03VRD) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [\(it comes to me in waves\)](https://open.spotify.com/album/51sy14BwE6CslpGUm28cau) | 4:16 | 2026-10-16 |  |
 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 | 2026-05-15 |  |
 | [Hercules \(Feat\. Kyle Payne\)](https://open.spotify.com/track/7ulKyl1lIMubejYO0YRnBM) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [Kyle Payne](https://open.spotify.com/artist/4RmbiG4n2o9miXl9UiHlU2) | [Hercules \(Feat\. Kyle Payne\)](https://open.spotify.com/album/5mM5z37G05fj11kRODtaUx) | 2:05 | 2026-04-03 | 2026-04-18 |
 | [Hirondelle](https://open.spotify.com/track/07u2B4PIbpqUdB15kqf7eo) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Hirondelle](https://open.spotify.com/album/1iPQItze8nNwmUasepxcCK) | 4:29 | 2026-01-16 | 2026-04-18 |
 | [Hocus Pocus](https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Hocus Pocus](https://open.spotify.com/album/2NuJzv8IX168RGNUb5xpX9) | 2:45 | 2025-09-26 | 2025-09-30 |
 | [HOLY DISCO](https://open.spotify.com/track/3Hixyek0hlsKbTsabs5cSX) | [Gottmik](https://open.spotify.com/artist/4ZcGQMsomBkKmqLdyYzVl0), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [HOLY DISCO](https://open.spotify.com/album/4tSfgak7FwW6s4ll51EvgN) | 3:03 | 2025-09-05 | 2026-01-15 |
-| [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 | 2026-07-24 |  |
+| [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 | 2026-07-24 | 2026-10-17 |
 | [HOMECOMING](https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [HOMECOMING](https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL) | 2:21 | 2026-07-24 | 2026-08-15 |
 | [Homemaker](https://open.spotify.com/track/1dpHJD6H0ss39kycYn5czu) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Homemaker](https://open.spotify.com/album/6bWmkIYd0093yWe0r9WqJf) | 3:48 | 2025-09-05 | 2026-01-15 |
 | [homesick](https://open.spotify.com/track/3uU8enYVjtTXuW4P3BZxBj) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [homesick](https://open.spotify.com/album/1wwIITDFvnYBzBRTopbZgI) | 2:30 | 2026-01-16 | 2026-04-18 |
@@ -511,7 +512,7 @@
 | [Sag](https://open.spotify.com/track/2a4WLc2TltnpS3XOCF8Bz4) | [Tiberius](https://open.spotify.com/artist/0q9oSteVaQ1lK7LvYMJCdq) | [Troubadour](https://open.spotify.com/album/6mAjZOk2RimjCuwUqreYDE) | 3:51 | 2026-02-20 | 2026-04-11 |
 | [Saints of Nevada](https://open.spotify.com/track/3lD3yYeikZpXOgiQMBjxVo) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Saints of Nevada](https://open.spotify.com/album/4LZyPH2I3D7DHHibCFm7a7) | 4:05 | 2024-04-05 | 2025-05-31 |
 | [Same Life](https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Same Life](https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu) | 3:18 | 2026-04-03 | 2026-05-16 |
-| [SAND](https://open.spotify.com/track/32w2m2sYyVq9oglWFtgC9N) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX), [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub) | [BOYSTOWN](https://open.spotify.com/album/60JSLnbbvPhmCX6EV7MIIH) | 3:24 | 2026-09-25 |  |
+| [SAND](https://open.spotify.com/track/32w2m2sYyVq9oglWFtgC9N) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX), [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub) | [BOYSTOWN](https://open.spotify.com/album/60JSLnbbvPhmCX6EV7MIIH) | 3:24 | 2026-09-25 | 2026-10-17 |
 | [SATISFY](https://open.spotify.com/track/3yHwfHQn3qU1WLTLSw7VL8) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SATISFY](https://open.spotify.com/album/6pTszhm2TxKPaAplNDzdtM) | 2:45 | 2025-05-30 | 2025-11-01 |
 | [Save My Love](https://open.spotify.com/track/0qu1XA5uPrnQhLQE4HxMxd) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Save My Love](https://open.spotify.com/album/3x90nYeP7qyH2XZ5FKRajK) | 3:21 | 2023-12-15 | 2024-05-14 |
 | [Save My Love](https://open.spotify.com/track/7lUWCTUYrYFDHEtF7PWL1M) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Still Your Girl](https://open.spotify.com/album/3WcixlLtHVP03XBLU19dZL) | 3:21 | 2024-05-13 | 2025-06-07 |
@@ -541,6 +542,7 @@
 | [Skin](https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Skin](https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB) | 3:34 | 2024-03-08 | 2024-05-14 |
 | [Skin On Skin](https://open.spotify.com/track/122FrmjHy0x5IJtvo2KiVB) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Skin On Skin](https://open.spotify.com/album/6fdKohnIlpVFtyqC9TbSq4) | 3:20 | 2024-08-09 | 2025-09-06 |
 | [SLAP ME IN THE FACE](https://open.spotify.com/track/0HQPkNb17LKJdclvwGR3sc) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [SLAP ME IN THE FACE](https://open.spotify.com/album/6zv7tsfgptS8LPQySUgyyl) | 2:18 | 2023-12-15 | 2024-07-13 |
+| [Slide](https://open.spotify.com/track/5xHbllWdvBHs6LGAWVk3Hl) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Slide](https://open.spotify.com/album/1m9LbRtekfGQm3Q635GlND) | 4:20 | 2026-10-16 |  |
 | [SLIME!](https://open.spotify.com/track/4DrUyJa0hYPyQDRmBILNud) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [SLIME!](https://open.spotify.com/album/4acPedNdAJSINJN7X6aCP9) | 2:36 | 2023-12-15 | 2024-08-10 |
 | [So Into You](https://open.spotify.com/track/3wnittJZDFl1CvwiIh8XZH) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [So Into You](https://open.spotify.com/album/3N8ruQPTPw5mjDUbmr8jns) | 3:24 | 2025-11-28 | 2026-01-15 |
 | [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 | 2026-03-17 | 2026-04-04 |

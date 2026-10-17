@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,526 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,442 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [dime dónde estás](https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [dime dónde estás](https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp) | 2:43 |
 | 50 | [Flechazo](https://open.spotify.com/track/3Y0bm2psmsSji70OYz1EWm) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Kien me presta una guitarra?](https://open.spotify.com/album/4q4MIPjP96zPQVk6pVDPEp) | 2:02 |
 
-Snapshot ID: `AAAAAOp3U/sQ7XdfpbhGAH5rbFjb9ulo`
+Snapshot ID: `AAAAAJEGiTFwOKaIEo55DAwiW9z/9f9m`

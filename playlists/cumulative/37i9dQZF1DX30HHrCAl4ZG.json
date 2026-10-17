@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Wishy",
+  "description": "Explore all things indie rock right now. Featuring music from Fontaines D.C.",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5iGdEBup6R3hQE8jFdT9EI"
@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Believe You Me",
+        "url": "https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ"
+    },
+    {
+      "album": {
         "name": "swanlike (loosies 2020-2023)",
         "url": "https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ"
       },
@@ -4782,6 +4800,24 @@
       "duration_ms": 249290,
       "name": "Blue",
       "url": "https://open.spotify.com/track/25dMFOp9UeMCVkJoUXczwW"
+    },
+    {
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
     },
     {
       "album": {
@@ -8974,7 +9010,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 124133,
       "name": "Cryptid",
       "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
@@ -14454,7 +14490,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 203167,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
@@ -15826,7 +15862,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218476,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/7xKtm7nXBMwdQTkHyL1m3d"
@@ -16114,7 +16150,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 275841,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU"
@@ -17352,6 +17388,24 @@
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
+    },
+    {
+      "album": {
+        "name": "Pull of the Moon",
+        "url": "https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z"
+      },
+      "artists": [
+        {
+          "name": "Billboard Style",
+          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202561,
+      "name": "I am a Man",
+      "url": "https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT"
     },
     {
       "album": {
@@ -19154,7 +19208,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
@@ -19712,7 +19766,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 261931,
       "name": "ITS FINE",
       "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
@@ -19824,6 +19878,24 @@
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194205,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
     },
     {
       "album": {
@@ -20130,7 +20202,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 173637,
       "name": "Joy",
       "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
@@ -21288,6 +21360,32 @@
       "duration_ms": 240153,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ"
+    },
+    {
+      "album": {
+        "name": "KOOL FAITH / LOOSIES II",
+        "url": "https://open.spotify.com/album/1BYliQLIbtADojb9uv37qB"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Dead Sullivan",
+          "url": "https://open.spotify.com/artist/6l1iT5q2DEGQTPIED2fU8I"
+        },
+        {
+          "name": "Scarlet Rae",
+          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243055,
+      "name": "letter and point (ft. Dead Sullivan, Scarlet Rae)",
+      "url": "https://open.spotify.com/track/1cSqCxEn5Wn8ZCBaJJjYJw"
     },
     {
       "album": {
@@ -23068,7 +23166,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -28656,7 +28754,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 208146,
       "name": "Projecting",
       "url": "https://open.spotify.com/track/2qSKxBPSowYas4iYfmDX77"
@@ -30084,7 +30182,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201353,
       "name": "Rotting Ripe",
       "url": "https://open.spotify.com/track/3eVR4S2JjPF1ITdoUTMLWk"
@@ -30522,7 +30620,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 222639,
       "name": "Sandcastles 2008",
       "url": "https://open.spotify.com/track/0hsreXDVImxswGp7pZEwyi"
@@ -30750,7 +30848,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 195406,
       "name": "Scratches",
       "url": "https://open.spotify.com/track/3tpqmATobykYj8Z89YCgVq"
@@ -31256,7 +31354,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 100913,
       "name": "SF & GG",
       "url": "https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ"
@@ -33567,6 +33665,24 @@
     },
     {
       "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/4yJ6xcyg1Rv7htmNxwSdX8"
+      },
+      "artists": [
+        {
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236453,
+      "name": "star",
+      "url": "https://open.spotify.com/track/6amVMTh1Lr08QA27a7FtCx"
+    },
+    {
+      "album": {
         "name": "Chip Chrome & The Mono-Tones (Deluxe)",
         "url": "https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ"
       },
@@ -35188,7 +35304,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 332405,
       "name": "Tears Are",
       "url": "https://open.spotify.com/track/7stcnuYJENeGeElIewTiSM"
@@ -35564,6 +35680,24 @@
       "duration_ms": 191413,
       "name": "the comedown",
       "url": "https://open.spotify.com/track/3oHfyJpmuR3OzV7fZRGeDK"
+    },
+    {
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "album": {
@@ -36238,7 +36372,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
@@ -36274,7 +36408,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 144286,
       "name": "The Wahs",
       "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
@@ -37750,7 +37884,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 224824,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
@@ -39814,7 +39948,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 314764,
       "name": "What\u2019s Right?",
       "url": "https://open.spotify.com/track/2YXDguAdOrvWYIwbPjvAkA"
@@ -40194,7 +40328,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 210683,
       "name": "Whole Other Life",
       "url": "https://open.spotify.com/track/3wj9rh2CBL6C1Sf6BKvVdr"
@@ -41224,7 +41358,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 244766,
       "name": "You Were Solved",
       "url": "https://open.spotify.com/track/2GCpKaWWtcM6UKG2oJ2hut"

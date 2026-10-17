@@ -3155,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Evening Walk",
+        "url": "https://open.spotify.com/album/7pziZPyc4n1arI3dZYubTV"
+      },
+      "artists": [
+        {
+          "name": "Grant Ellery",
+          "url": "https://open.spotify.com/artist/4DdsTxB7WLBe0AyRkAr2Fc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152573,
+      "name": "Evening Walk",
+      "url": "https://open.spotify.com/track/6pr6zE2tGbPBENXD2pXyuH"
+    },
+    {
+      "album": {
         "name": "Eventide",
         "url": "https://open.spotify.com/album/5rGNwZOi7HmnCVQlpes1bp"
       },
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 139159,
       "name": "In the Still of the Night",
       "url": "https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3"
@@ -6892,7 +6910,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 129571,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH"
@@ -8026,7 +8044,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 143466,
       "name": "No Rush",
       "url": "https://open.spotify.com/track/5vHJmW9jEtdiSrEkPknw0n"
@@ -12818,6 +12836,24 @@
       "duration_ms": 243472,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a"
+    },
+    {
+      "album": {
+        "name": "When the House Fell Silent",
+        "url": "https://open.spotify.com/album/67X7jE6M9MtUfhjohYpSVF"
+      },
+      "artists": [
+        {
+          "name": "Lecce Mchano",
+          "url": "https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136502,
+      "name": "When the House Fell Silent",
+      "url": "https://open.spotify.com/track/4OrMBZ8SQc7aEuzMw9Q6Xb"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Muthoka",
-  "num_followers": 51553,
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Kethan",
+  "num_followers": 51565,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgX0aWa9ZL3VZJ/Po+24YDpISiJ",
+  "snapshot_id": "AAAAANuDDLye7j7huQ7+XQUmmSS09yIx",
   "tracks": [
     {
       "added_at": "2026-10-08 23:59:04",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD"
     },
     {
+      "added_at": "2026-10-16 06:17:54",
+      "album": {
+        "name": "Dua (Alternate Version)",
+        "url": "https://open.spotify.com/album/0DRrsykwSDSXEHjYBAMjVj"
+      },
+      "artists": [
+        {
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
+        }
+      ],
+      "duration_ms": 211482,
+      "name": "Dua - Alternate Version",
+      "url": "https://open.spotify.com/track/0z27AgBe4LTpuJAIVxJefo"
+    },
+    {
       "added_at": "2026-10-08 23:59:04",
       "album": {
         "name": "RNB",
@@ -55,6 +71,22 @@
       "duration_ms": 209563,
       "name": "Ngozi Kama Jua",
       "url": "https://open.spotify.com/track/7lScV0vUMxy1tt2HnYGMXq"
+    },
+    {
+      "added_at": "2026-10-08 23:59:04",
+      "album": {
+        "name": "Unanipa",
+        "url": "https://open.spotify.com/album/2MH90bwjE29b9TrsNTa47s"
+      },
+      "artists": [
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "duration_ms": 192579,
+      "name": "Unanipa",
+      "url": "https://open.spotify.com/track/263NrbGTVJI5draas4VOnY"
     },
     {
       "added_at": "2026-10-08 23:59:04",
@@ -103,22 +135,6 @@
     {
       "added_at": "2026-10-08 23:59:04",
       "album": {
-        "name": "Unanipa",
-        "url": "https://open.spotify.com/album/2MH90bwjE29b9TrsNTa47s"
-      },
-      "artists": [
-        {
-          "name": "Zaituni",
-          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
-        }
-      ],
-      "duration_ms": 192579,
-      "name": "Unanipa",
-      "url": "https://open.spotify.com/track/263NrbGTVJI5draas4VOnY"
-    },
-    {
-      "added_at": "2026-10-08 23:59:04",
-      "album": {
         "name": "On My Own / Let Them Know",
         "url": "https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ"
       },
@@ -151,6 +167,26 @@
       "duration_ms": 136551,
       "name": "Wawili",
       "url": "https://open.spotify.com/track/6fUSXK3W1rsv4mhFDP7dZy"
+    },
+    {
+      "added_at": "2026-10-08 23:59:04",
+      "album": {
+        "name": "Boy Lover",
+        "url": "https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb"
+      },
+      "artists": [
+        {
+          "name": "Kahuti",
+          "url": "https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg"
+        },
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb"
     },
     {
       "added_at": "2026-10-08 23:59:04",
@@ -215,26 +251,6 @@
       "duration_ms": 200160,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/4y7kdlDWPMxbegjUrW6SPX"
-    },
-    {
-      "added_at": "2026-10-08 23:59:04",
-      "album": {
-        "name": "Boy Lover",
-        "url": "https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb"
-      },
-      "artists": [
-        {
-          "name": "Kahuti",
-          "url": "https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg"
-        },
-        {
-          "name": "Kinoti",
-          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Feel The Love",
-      "url": "https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb"
     },
     {
       "added_at": "2026-10-08 23:59:04",
@@ -815,62 +831,6 @@
     {
       "added_at": "2026-10-08 23:59:04",
       "album": {
-        "name": "Off My Chest",
-        "url": "https://open.spotify.com/album/3UkjFytj440El2a712oDX9"
-      },
-      "artists": [
-        {
-          "name": "Muthaka",
-          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
-        },
-        {
-          "name": "Matt Ngesa",
-          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "masala tea (with Matt Ngesa)",
-      "url": "https://open.spotify.com/track/2AOoQZUFENNf5c663stU20"
-    },
-    {
-      "added_at": "2026-10-08 23:59:04",
-      "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 121544,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
-    },
-    {
-      "added_at": "2026-10-08 23:59:04",
-      "album": {
-        "name": "Stories Untold",
-        "url": "https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        },
-        {
-          "name": "Shudu Musida",
-          "url": "https://open.spotify.com/artist/1rE20iFWfaTa3G1kZR98rK"
-        }
-      ],
-      "duration_ms": 239993,
-      "name": "Stories Untold",
-      "url": "https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg"
-    },
-    {
-      "added_at": "2026-10-08 23:59:04",
-      "album": {
         "name": "Hale",
         "url": "https://open.spotify.com/album/60dvHw4f6N9YnMocVWY1Cx"
       },
@@ -919,6 +879,26 @@
       "duration_ms": 233142,
       "name": "Mapenzi",
       "url": "https://open.spotify.com/track/0VKokjztRSUUcukN6cRmkF"
+    },
+    {
+      "added_at": "2026-10-08 23:59:04",
+      "album": {
+        "name": "Stories Untold",
+        "url": "https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Shudu Musida",
+          "url": "https://open.spotify.com/artist/1rE20iFWfaTa3G1kZR98rK"
+        }
+      ],
+      "duration_ms": 239993,
+      "name": "Stories Untold",
+      "url": "https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg"
     },
     {
       "added_at": "2026-10-08 23:59:04",
@@ -975,6 +955,26 @@
       "duration_ms": 181714,
       "name": "Look The Other Way",
       "url": "https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx"
+    },
+    {
+      "added_at": "2026-10-08 23:59:04",
+      "album": {
+        "name": "Off My Chest",
+        "url": "https://open.spotify.com/album/3UkjFytj440El2a712oDX9"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "masala tea (with Matt Ngesa)",
+      "url": "https://open.spotify.com/track/2AOoQZUFENNf5c663stU20"
     },
     {
       "added_at": "2026-10-08 23:59:04",

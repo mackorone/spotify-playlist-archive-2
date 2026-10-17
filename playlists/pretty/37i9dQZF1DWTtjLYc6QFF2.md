@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 59 | [Цигарковий дим](https://open.spotify.com/track/6npfsglJvGEMNowG4chvCP) | [Stage Moonna](https://open.spotify.com/artist/7r2TBV25eq3uMI0svU62jT) | [Цигарковий дим](https://open.spotify.com/album/0Wohg496PwMIrmBWHum63X) | 2:20 |
 | 60 | [Знайди мене](https://open.spotify.com/track/1GUQJU4M76atFmI5Yu9I8i) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB) | 2:30 |
 
-Snapshot ID: `AAAAAJbxXBVLkco1by8FyB9NIUa1SEH/`
+Snapshot ID: `AAAAANtIZAxM0A6UKSTSdvMkhX09DeBB`

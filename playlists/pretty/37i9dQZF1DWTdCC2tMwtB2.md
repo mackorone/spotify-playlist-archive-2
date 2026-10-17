@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,981 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,014 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 49 | [Intezaar](https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Intezaar](https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe) | 4:27 |
 | 50 | [Cold Showers](https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Cold Showers](https://open.spotify.com/album/2vcu1JmTKHFZKL1CoHzaSH) | 4:17 |
 
-Snapshot ID: `AAAAAFNtPPaMZGwkO0blSTfF1J9PtvcK`
+Snapshot ID: `AAAAAJVn/jjdkovcqUivEhJvgW8JpXUw`

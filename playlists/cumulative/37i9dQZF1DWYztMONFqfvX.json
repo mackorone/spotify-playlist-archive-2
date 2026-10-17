@@ -1003,6 +1003,32 @@
     },
     {
       "album": {
+        "name": "Udta Teer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5w8BWgvkabp4eWuP0YgR3A"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217764,
+      "name": "Chann (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/2oxJR1QaLRhLMDVZGhf2y2"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -5056,7 +5082,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 196138,
       "name": "Zamaana Lage (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/76ec1a1bkFfOqoVf6e7nae"

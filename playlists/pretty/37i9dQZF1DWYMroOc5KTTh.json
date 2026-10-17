@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 769773,
+  "num_followers": 769880,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4iB1pIipIgjenhpbhoGi9P7Rgt",
+  "snapshot_id": "AAAAALCqLVuzUvy4YWT/cumbm8pCR1wg",
   "tracks": [
     {
       "added_at": "2026-10-02 00:00:02",
@@ -647,22 +647,18 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+      "duration_ms": 214958,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -699,18 +695,22 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9"
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
       "artists": [
         {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         }
       ],
-      "duration_ms": 214958,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I"
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2026-10-02 00:00:02",

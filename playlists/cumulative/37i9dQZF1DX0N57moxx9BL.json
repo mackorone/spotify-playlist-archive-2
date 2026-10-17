@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 219989,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/1oASD0qwbdirb4zragkrIJ"
@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Grave Stomper",
+      "url": "https://open.spotify.com/track/00IJfwYpin6v5HkLXMCSnn"
+    },
+    {
+      "album": {
         "name": "Death By Admiration",
         "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
@@ -3849,6 +3867,28 @@
     },
     {
       "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/1byLaOowXxQUP6Ky7RYOau"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        },
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250334,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/0h5ryjBkEbR3cpHtCZ7PCy"
+    },
+    {
+      "album": {
         "name": "Peace That Starts the War",
         "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
       },
@@ -3896,7 +3936,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 218015,
       "name": "Praise",
       "url": "https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv"
@@ -3918,6 +3958,24 @@
       "duration_ms": 154427,
       "name": "Praise With Everything - Live",
       "url": "https://open.spotify.com/track/1O3NkK3h81fmNyW40GpUof"
+    },
+    {
+      "album": {
+        "name": "Pray For You",
+        "url": "https://open.spotify.com/album/0obF1MB6AblOu6vUii5VcY"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176569,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/52NyGaMBUmFvahSs4PoAoN"
     },
     {
       "album": {
@@ -4210,7 +4268,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 163399,
       "name": "Revival",
       "url": "https://open.spotify.com/track/30DoqK6rLbkFOXpJDzljBj"
@@ -4560,7 +4618,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 294144,
       "name": "Showtime - Live",
       "url": "https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE"
@@ -4974,7 +5032,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 161639,
       "name": "Tear Down The Dark",
       "url": "https://open.spotify.com/track/1whhEIbZShoYjlRr0ztk1d"

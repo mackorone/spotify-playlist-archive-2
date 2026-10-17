@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 101110,
+  "num_followers": 101115,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAIKRJ+WT7ETvGUFleAkuikgAqQQ",
+  "snapshot_id": "AAAAAO2NEND/2C2wG7x+OYTolBc9MklT",
   "tracks": [
     {
       "added_at": "2026-01-29 16:00:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
-        "url": "https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 182150,
-      "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
-      "url": "https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 177757,
       "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
+        "url": "https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 182150,
+      "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u80fd\u4e0d\u80fd",
-        "url": "https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4"
-      },
-      "artists": [
-        {
-          "name": "\u5434\u6620\u9999",
-          "url": "https://open.spotify.com/artist/1Fo0Se0PLcgVkmOIo4l9ZI"
-        }
-      ],
-      "duration_ms": 175062,
-      "name": "\u80fd\u4e0d\u80fd",
-      "url": "https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u795d\u4f60\u751f\u65e5\u5feb\u6a02",
         "url": "https://open.spotify.com/album/2AsrBsR18di75bRFTWArvC"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 246666,
       "name": "\u795d\u4f60\u751f\u65e5\u5feb\u6a02",
       "url": "https://open.spotify.com/track/0swDTbKkAtlG3FanC6jUct"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u80fd\u4e0d\u80fd",
+        "url": "https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4"
+      },
+      "artists": [
+        {
+          "name": "\u5434\u6620\u9999",
+          "url": "https://open.spotify.com/artist/1Fo0Se0PLcgVkmOIo4l9ZI"
+        }
+      ],
+      "duration_ms": 175062,
+      "name": "\u80fd\u4e0d\u80fd",
+      "url": "https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -955,22 +955,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u7f8e\u4e3d\u7684\u59b3",
-        "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
+        "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
       },
       "artists": [
         {
-          "name": "3P",
-          "url": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
         },
         {
-          "name": "Caven Tang",
-          "url": "https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF"
+          "name": "Xiao Yu",
+          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
         }
       ],
-      "duration_ms": 189004,
-      "name": "\u7f8e\u4e3d\u7684\u59b3",
-      "url": "https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt"
+      "duration_ms": 273950,
+      "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -991,22 +991,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
+        "name": "\u7f8e\u4e3d\u7684\u59b3",
+        "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
       },
       "artists": [
         {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+          "name": "3P",
+          "url": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
         },
         {
-          "name": "Xiao Yu",
-          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+          "name": "Caven Tang",
+          "url": "https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF"
         }
       ],
-      "duration_ms": 273950,
-      "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
+      "duration_ms": 189004,
+      "name": "\u7f8e\u4e3d\u7684\u59b3",
+      "url": "https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
+        "name": "\u6211\u559c\u6b61\u4f60",
+        "url": "https://open.spotify.com/album/2TbRtoKHcCkt39yb9JBnC6"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "duration_ms": 195088,
+      "name": "\u6211\u559c\u6b61\u4f60",
+      "url": "https://open.spotify.com/track/75EBF5dwgU2w0u4IJtdUI5"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
         "name": "\u4f60\u597d\u55ce\uff1f",
         "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
       },
@@ -1095,26 +1111,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
-        "url": "https://open.spotify.com/album/7sptJfmA71o8mztzZEz419"
-      },
-      "artists": [
-        {
-          "name": "Lil RAD",
-          "url": "https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc"
-        },
-        {
-          "name": "\u6591\u6069Ben",
-          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
-      "url": "https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
         "url": "https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i"
       },
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u6211\u559c\u6b61\u4f60",
-        "url": "https://open.spotify.com/album/2TbRtoKHcCkt39yb9JBnC6"
+        "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
+        "url": "https://open.spotify.com/album/7sptJfmA71o8mztzZEz419"
       },
       "artists": [
         {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+          "name": "Lil RAD",
+          "url": "https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc"
+        },
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
         }
       ],
-      "duration_ms": 195088,
-      "name": "\u6211\u559c\u6b61\u4f60",
-      "url": "https://open.spotify.com/track/75EBF5dwgU2w0u4IJtdUI5"
+      "duration_ms": 167013,
+      "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
+      "url": "https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq"
     },
     {
       "added_at": "2026-01-29 16:00:38",

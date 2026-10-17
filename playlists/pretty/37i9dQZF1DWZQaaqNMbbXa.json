@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops! Cover: Bebe Rexha",
-  "num_followers": 604700,
+  "num_followers": 604778,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgTprgNSeB6MP6omLfzUJXYQ6RS",
+  "snapshot_id": "AAAAAK7xvYpK4qedvA/CoYdmrPuuJGXE",
   "tracks": [
     {
       "added_at": "2026-05-01 16:04:53",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 184405,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 227073,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 184405,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
     },
     {
       "added_at": "2026-07-24 04:02:20",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Heroes (we could be)",
-      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 184560,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Heroes (we could be)",
+      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Just The Way You Are",
-        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 174800,
       "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "A New Day (feat. Celine Dion)",
-        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 207223,
-      "name": "A New Day (feat. Celine Dion)",
-      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Sexual",
         "url": "https://open.spotify.com/album/4fpw9otqwjuKWM7OLu8DgP"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 188888,
       "name": "Sexual",
       "url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 191387,
-      "name": "Hello (feat. Dragonette)",
-      "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 191387,
+      "name": "Hello (feat. Dragonette)",
+      "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -2627,26 +2627,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Break Free",
-      "url": "https://open.spotify.com/track/1X2Zd5wKGbY1oKzb8dzJRy"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Stereo Love",
         "url": "https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF"
       },
@@ -2663,6 +2643,26 @@
       "duration_ms": 184000,
       "name": "Stereo Love - Radio Edit",
       "url": "https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/1X2Zd5wKGbY1oKzb8dzJRy"
     },
     {
       "added_at": "2026-05-01 16:04:53",

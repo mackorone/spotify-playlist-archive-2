@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 153685,
+  "num_followers": 153711,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACO3aGelNjkjuIoP9+ZI92KimV5t",
+  "snapshot_id": "AAAAAHxSnVDNmux4hL9gO9JRr934VflD",
   "tracks": [
     {
       "added_at": "2024-07-10 08:16:23",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "At Night (Remixes)",
         "url": "https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
+        "name": "Higher State Of Consciousness",
+        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
       },
       "artists": [
         {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
         }
       ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness - Tweekin Acid Funk",
+      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -439,22 +455,6 @@
       "duration_ms": 393740,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Higher State Of Consciousness",
-        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness - Tweekin Acid Funk",
-      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
     },
     {
       "added_at": "2024-07-10 08:16:23",

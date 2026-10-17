@@ -1,12 +1,12 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77085,
+  "num_followers": 77082,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5uRNdyk2tLKfdppvZWQq/8LOQm",
+  "snapshot_id": "AAAAALbyYJEYgr40aWY59+Yc8HxXlx8P",
   "tracks": [
     {
       "added_at": "2025-09-17 15:00:09",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "big buraco",
-        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
-      },
-      "artists": [
-        {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
-        }
-      ],
-      "duration_ms": 180185,
-      "name": "sol na pele",
-      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198650,
       "name": "Lara",
       "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "big buraco",
+        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
+      },
+      "artists": [
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "duration_ms": 180185,
+      "name": "sol na pele",
+      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "JAZZWOMAN",
+        "url": "https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG"
+      },
+      "artists": [
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 252694,
+      "name": "Transeunte",
+      "url": "https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 841920,
       "name": "Su\u00edte Amer\u00edndia",
       "url": "https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "JAZZWOMAN",
-        "url": "https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG"
-      },
-      "artists": [
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 252694,
-      "name": "Transeunte",
-      "url": "https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Ida e Volta",
-        "url": "https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7"
-      },
-      "artists": [
-        {
-          "name": "Yamandu Costa",
-          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Profecia",
-      "url": "https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 452573,
       "name": "Flight 962",
       "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Ida e Volta",
+        "url": "https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7"
+      },
+      "artists": [
+        {
+          "name": "Yamandu Costa",
+          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Profecia",
+      "url": "https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW"
     },
     {
       "added_at": "2025-09-17 15:00:09",

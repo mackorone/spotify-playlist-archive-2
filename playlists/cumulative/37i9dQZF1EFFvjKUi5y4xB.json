@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Poster Girl",
+      "url": "https://open.spotify.com/track/5EUIAKpcGL0CS9O0Tx3sl4"
+    },
+    {
+      "album": {
         "name": "In Pieces",
         "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
       },

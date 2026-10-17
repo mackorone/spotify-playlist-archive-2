@@ -9175,6 +9175,24 @@
     },
     {
       "album": {
+        "name": "Musa Paradis\u00edaka",
+        "url": "https://open.spotify.com/album/1msl6OCTSg7W9Xp6eRaD6A"
+      },
+      "artists": [
+        {
+          "name": "Shonny",
+          "url": "https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125677,
+      "name": "Musa Paradis\u00edaka",
+      "url": "https://open.spotify.com/track/5qycAsLJTjWFqVuwNBNOtw"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ecas",
         "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,680 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,702 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 48 | [Si Tú No Vuelves \(feat\. Miguel Bosé\) \- En Vivo](https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Ha\-Ash "En Vivo"](https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY) | 5:29 |
 | 49 | [Las Mil y una Noches \- Primera Fila Flans \(En Vivo\)](https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq) | [Ilse, Ivonne y Mimi](https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX) | [Primera Fila Flans](https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C) | 4:14 |
 
-Snapshot ID: `AAAAAPWrAXONSl4Vhb2m+aLEoWu0Dcll`
+Snapshot ID: `AAAAACbJnc0LURdinnyWNjpvDsLA7s5C`

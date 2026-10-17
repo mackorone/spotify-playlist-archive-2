@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 617851,
       "name": "Darbari Kanara Teen Taal",
       "url": "https://open.spotify.com/track/6SdKS6uQA7Cvecsibddb2f"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 477371,
       "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
       "url": "https://open.spotify.com/track/0ZbJLfZcTrn3NqpIjjQZdk"
@@ -7697,6 +7697,28 @@
     },
     {
       "album": {
+        "name": "Rasik Balma",
+        "url": "https://open.spotify.com/album/012ANOjlqicHLcIjShQo5F"
+      },
+      "artists": [
+        {
+          "name": "Kulfi",
+          "url": "https://open.spotify.com/artist/2Me9Hxjt0srBR4KMcPp6HP"
+        },
+        {
+          "name": "Momin Khan",
+          "url": "https://open.spotify.com/artist/4W3H0Rxj085dprH7XKaKlv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340225,
+      "name": "Rasik Balma",
+      "url": "https://open.spotify.com/track/4gpse19cseQeJIXFEUYtfa"
+    },
+    {
+      "album": {
         "name": "World Music By Indian Maestros",
         "url": "https://open.spotify.com/album/4PBgCpCGwiiLE8xZrOdXH2"
       },
@@ -8010,7 +8032,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 310786,
       "name": "Saadho",
       "url": "https://open.spotify.com/track/2Q82mCCsgJPqNH8ceuCc9P"

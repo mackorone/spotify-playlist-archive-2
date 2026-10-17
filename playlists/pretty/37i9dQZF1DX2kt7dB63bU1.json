@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 175014,
+  "num_followers": 175063,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADo7xUgJkscQCnH1ZRuYmwBrFpCy",
+  "snapshot_id": "AAAAAOCV/kYvjwaR4Ai/tul9VqHjtQx2",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:00:13",
+      "album": {
+        "name": "Eat Your Greens (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ljntOyWpkpxXAdITpNTPp"
+      },
+      "artists": [
+        {
+          "name": "Kelly Green",
+          "url": "https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "If I'm Lucky",
+      "url": "https://open.spotify.com/track/2JXAQDvactBLDNWtqO0fTT"
+    },
     {
       "added_at": "2026-10-09 04:00:56",
       "album": {
@@ -1723,22 +1739,6 @@
       "duration_ms": 355223,
       "name": "I Got It Bad (And That Ain't Good) - Live",
       "url": "https://open.spotify.com/track/5MQbrriNIHtgSCfQsdJWXQ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "First Song",
-      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
     },
     {
       "added_at": "2024-10-11 04:00:00",

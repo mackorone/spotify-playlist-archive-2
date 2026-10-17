@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 178 | [MVP](https://open.spotify.com/track/3sypCr4jYSJSfOIwxNRsrD) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:21 |
 | 179 | [Motive](https://open.spotify.com/track/2p4s0gtr3rvRexcKALY8Oa) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 3:03 |
 | 180 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 |
-| 181 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
-| 182 | [WORLD DOESN'T HAVE TO BE SUCH A SCARY PLACE!!](https://open.spotify.com/track/1hPhpIygqhmiEk5vqOhuZ2) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 6:25 |
+| 181 | [WORLD DOESN'T HAVE TO BE SUCH A SCARY PLACE!!](https://open.spotify.com/track/1hPhpIygqhmiEk5vqOhuZ2) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 6:25 |
+| 182 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
 | 183 | [Heroes](https://open.spotify.com/track/7hZ2EoSYkzmONuIKFHWu4s) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [21st Century Living](https://open.spotify.com/album/0twHIfNLYeDZ4Q7YAEOhUR) | 3:38 |
 | 184 | [Fantasy](https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Fantasy](https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U) | 2:53 |
 | 185 | [Make Yourself Over](https://open.spotify.com/track/0eLlQCo4q3CcNY8UZ25nzA) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:20 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 190 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 191 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcfCiAAAAAC1LjOPmRi+JeNXJ2kV7zfr`
+Snapshot ID: `AcfIKAAAAACLgg4BxCP+sIL9DslYwPiV`

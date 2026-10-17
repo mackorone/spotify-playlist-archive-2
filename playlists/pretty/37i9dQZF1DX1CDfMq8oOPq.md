@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,389 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,382 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 35 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
 | 36 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
 | 37 | [Dedo na ferida](https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:51 |
-| 38 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |
-| 39 | [O bonde tá no levan](https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL) | [O bonde tá no levan](https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7) | 2:25 |
+| 38 | [O bonde tá no levan](https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL) | [O bonde tá no levan](https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7) | 2:25 |
+| 39 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |
 | 40 | [Império](https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06) | [yulii A](https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [GND.rec](https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0) | [Império](https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr) | 2:05 |
 | 41 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
 | 42 | [SÍNDROME DE REF](https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd) | [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Vitonez](https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL) | [SÍNDROME DE REF](https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Daria um Filme](https://open.spotify.com/track/60ebdd8aFtIgcbOM9gpHgA) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [Vitor Vril](https://open.spotify.com/artist/6zElQx7msv91CIWwIz1YH7), [DJMDBEATS](https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn) | [Daria um Filme](https://open.spotify.com/album/53oomJcea1w6NxO9yb3Nul) | 2:41 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 
-Snapshot ID: `AAAAAOEt99kGpEE/3rV+OEPGwQTBLKTj`
+Snapshot ID: `AAAAAO952S9x3wTCohW1Oj3eK6aOHvAH`

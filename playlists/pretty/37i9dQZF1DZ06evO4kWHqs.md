@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 49 | [nana](https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:29 |
 | 50 | [DAMAGE](https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy) | [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [METAL TAIL](https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1) | 2:58 |
 
-Snapshot ID: `as7GAAAAAAD50iHb5b/JhM91T7aVO4As`
+Snapshot ID: `atAXgAAAAACWWQMLMkhpzBERK+9HB32D`

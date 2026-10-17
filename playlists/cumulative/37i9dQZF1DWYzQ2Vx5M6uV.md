@@ -4,7 +4,7 @@
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Luister La Voz & Manuel Turizo
 
-354 songs - 17 hr 48 min
+355 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Toko Challenge](https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN) | 1:38 | 2023-11-08 | 2024-04-19 |
 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 | 2022-02-16 | 2023-10-16 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-02-16 | 2024-09-21 |
-| [Tu Boquita](https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG) | [OM.VI](https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh) | [S3NSACIóN](https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV) | 2:14 | 2026-01-30 |  |
+| [Tu Boquita](https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG) | [OM.VI](https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh) | [S3NSACIóN](https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV) | 2:14 | 2026-01-30 | 2026-10-17 |
 | [Tu Luz](https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Tu Luz](https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC) | 2:49 | 2025-05-16 | 2025-09-06 |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-05-25 | 2024-09-21 |
 | [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 | 2024-09-20 |  |
@@ -335,6 +335,7 @@
 | [Un Rodeoooo](https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Un Rodeoooo](https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi) | 2:16 | 2023-07-14 | 2024-09-21 |
 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 | 2025-05-12 |  |
 | [Una Oportunidad](https://open.spotify.com/track/2FaS8IcO6JN9ITfYkri23O) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Una Oportunidad](https://open.spotify.com/album/6LXXWavOjtwpGicz0FWq3V) | 2:22 | 2024-10-25 | 2025-06-07 |
+| [Usame](https://open.spotify.com/track/00T3k0HadzMCUOH4G0h9MY) | [Yelex](https://open.spotify.com/artist/1qIgmSvOXdibVbPRzyFD93), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Usame](https://open.spotify.com/album/6b5ZtfPbYkqbI5ftbfO0pt) | 2:39 | 2026-10-16 |  |
 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 | 2025-09-05 |  |
 | [Uueeeee](https://open.spotify.com/track/2rbveA82byggveMkKICvy2) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Beto](https://open.spotify.com/artist/4Wbl3vLb9qXJdyE6mWAExA), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Uueeeee](https://open.spotify.com/album/144ipzW4clREg2EDAzrPHm) | 2:35 | 2024-12-20 | 2025-06-07 |
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-09-20 | 2025-06-07 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Torren Foot, rhys from the sticks
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,904 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,919 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 |
+| 1 | [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Rohan Pinnock\-Hamilton](https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 |
 | 2 | [Staring At The Sun](https://open.spotify.com/track/7J0kkgb99OIb3a7IJb6SDT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Staring At The Sun](https://open.spotify.com/album/4uUYfu9Qtnt5RiTZnPDceK) | 3:21 |
 | 3 | [Out of My Head](https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Out of My Head](https://open.spotify.com/album/2butoupcYhsMrCOWpM54nw) | 3:18 |
 | 4 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 9 | [Promise You](https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Everything, Briefly](https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf) | 2:29 |
 | 10 | [Someone Like You](https://open.spotify.com/track/34kzZyRcTKCDql0or0qKLS) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Someone Like You](https://open.spotify.com/album/6Vj4KgGZt2w18VE5AXKwb4) | 5:27 |
 | 11 | [All I See](https://open.spotify.com/track/0IFONYwtUss0mDhNiOLeEI) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [All I See](https://open.spotify.com/album/1ogz7gOWCybP1KV4HNxLPp) | 2:33 |
-| 12 | [Out of Sight, Out of Mind](https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [Odd Boys](https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ) | 3:03 |
+| 12 | [Out of Sight, Out of Mind](https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Odd Boys](https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ) | 3:03 |
 | 13 | [DOYANA](https://open.spotify.com/track/5G4avkoEj5jXAaofkkFEKo) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [DOYANA](https://open.spotify.com/album/4V1uxrh4hv6uv9ZdII61wS) | 3:13 |
 | 14 | [Sentimental Ultra](https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Sentimental Ultra](https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT) | 3:12 |
 | 15 | [Mi Casa](https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Mi Casa](https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [U N ME](https://open.spotify.com/track/6yAsXhdjZd8AvcX91LtQ7a) | [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [U N ME](https://open.spotify.com/album/2Ex11o8saGa4dvWlhucqD4) | 2:32 |
 | 100 | [Crazy](https://open.spotify.com/track/7aYBPp0VIdidTQr7H77pio) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [EWAN CARTER](https://open.spotify.com/artist/1wjHMUncSf4Iq5APKUGmAI) | [Crazy](https://open.spotify.com/album/5JjO5PjxA1tm3PD6z7tXiZ) | 3:38 |
 
-Snapshot ID: `AAAAAJUBiJFm/zhTN82lIonG7QghVVbi`
+Snapshot ID: `AAAAAK/2U5MARd7KoQqpCeFHNd/1/Xpd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,479 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,486 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 6 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
 | 7 | [Empty Stadium](https://open.spotify.com/track/6HHCf0DrccfgC3GlbfmXgH) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:45 |
 | 8 | [Dying In Reverse](https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Dying In Reverse](https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx) | 3:54 |
-| 9 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
-| 10 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
+| 9 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
+| 10 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
 | 11 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
 | 12 | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu) | 2:52 |
 | 13 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 44 | [Parler pour rien dire en Am](https://open.spotify.com/track/506mNiqZNvaOOQh3eeuQg1) | [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h), [AZZZ](https://open.spotify.com/artist/5Xjz10rR5J9btPUj7CaiLq) | [Parler pour rien dire en Am](https://open.spotify.com/album/4Zf2pP5L4aAMXWzC8Kfzap) | 2:08 |
 | 45 | [Merci Michel](https://open.spotify.com/track/0syqWWuURjbVqIxAGUk4zr) | [Yirji](https://open.spotify.com/artist/0lJutluQaLSfvUX5Q7YpPu) | [Merci Michel](https://open.spotify.com/album/4N1284XkjTjLLoEZUkvD33) | 2:36 |
 
-Snapshot ID: `AAAAAN9IJc7aMunQNYMYBUbc3fdYijD/`
+Snapshot ID: `AAAAAJ41vtiV3lHykSbb93sIAot+CD+j`

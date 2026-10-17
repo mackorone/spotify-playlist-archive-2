@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Album",
+        "url": "https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Black Stars",
+      "url": "https://open.spotify.com/track/6wEEMtMPL93ON1XWwMoCTj"
+    },
+    {
+      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },

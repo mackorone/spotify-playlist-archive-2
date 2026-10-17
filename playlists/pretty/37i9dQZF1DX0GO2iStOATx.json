@@ -1,12 +1,12 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 238980,
+  "num_followers": 239035,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJk0Z4+tyEiyvv4ZS6XwVCKj5TDw",
+  "snapshot_id": "AAAAAOnnEIJZhl3SVzNqhKge+N5c83VD",
   "tracks": [
     {
       "added_at": "2026-09-11 10:46:59",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 275083,
       "name": "Psychotic",
       "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "Advisory",
-        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Heer",
-      "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
         "name": "Con.Fi.Den.Tial",
         "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 173638,
       "name": "Future",
       "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Taare",
-      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Advisory",
-        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "Holster",
-      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
       },
@@ -959,8 +943,24 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 127802,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
       },
       "artists": [
         {
@@ -968,13 +968,21 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        },
+        {
+          "name": "604Blizzy",
+          "url": "https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj"
         }
       ],
-      "duration_ms": 180698,
-      "name": "Kehkashan",
-      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
+      "duration_ms": 194000,
+      "name": "Gunda",
+      "url": "https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

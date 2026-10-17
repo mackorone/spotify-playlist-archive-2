@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKMMeYN2Fk1ceuxe5XaPQgk6LH6",
+  "snapshot_id": "AAAAANI4gbiBq5t3sFQjtk3ojXE5NlDn",
   "tracks": [
     {
       "added_at": "2026-10-16 03:01:03",
@@ -579,34 +579,6 @@
     {
       "added_at": "2026-10-16 03:01:03",
       "album": {
-        "name": "Mistura de Sotaque",
-        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Mistura de Sotaque",
-      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
-    },
-    {
-      "added_at": "2026-10-16 03:01:03",
-      "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
@@ -631,6 +603,34 @@
       "duration_ms": 153600,
       "name": "Modelo Brasileiro",
       "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
+        "name": "Mistura de Sotaque",
+        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Mistura de Sotaque",
+      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
     },
     {
       "added_at": "2026-10-16 03:01:03",
@@ -1319,6 +1319,30 @@
       "duration_ms": 171774,
       "name": "BANDIDO COM BANDIDA",
       "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
+        "name": "Amor \u00c9 F*da 2",
+        "url": "https://open.spotify.com/album/7bTDF7amcSP4ldR0ByQad0"
+      },
+      "artists": [
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod.Jay-C",
+          "url": "https://open.spotify.com/artist/2uuwFjqmWlrhouHBaiUllY"
+        }
+      ],
+      "duration_ms": 133997,
+      "name": "Amor \u00c9 F*da 2",
+      "url": "https://open.spotify.com/track/6sQMYNNkWaZ7pvZyzXq6tw"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

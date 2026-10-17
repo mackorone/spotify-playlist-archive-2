@@ -1,13 +1,29 @@
 {
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: \u00cdcaro e Gilmar",
-  "num_followers": 8052132,
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
+  "num_followers": 8052255,
   "original_name": "Esquenta Sertanejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzX+urBhaKGmjVnFdrSBD6Q7MPX",
+  "snapshot_id": "AAAAAED2gqxfCGwY+kBJy40Z+VVSBQ8a",
   "tracks": [
+    {
+      "added_at": "2026-10-15 20:39:38",
+      "album": {
+        "name": "P\u00f3s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 175577,
+      "name": "P\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR"
+    },
     {
       "added_at": "2026-10-09 19:36:43",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 143371,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB"
-    },
-    {
-      "added_at": "2026-10-15 20:39:38",
-      "album": {
-        "name": "P\u00f3s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 175577,
-      "name": "P\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-10-09 19:36:43",
       "album": {
+        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Oi, Tudo Bem? - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF"
+    },
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
         "name": "S\u00f3 Com Ela (Ao Vivo)",
         "url": "https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD"
       },
@@ -119,22 +135,6 @@
     {
       "added_at": "2026-10-09 19:36:43",
       "album": {
-        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
-        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Oi, Tudo Bem? - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
         "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
       },
@@ -147,22 +147,6 @@
       "duration_ms": 179215,
       "name": "Ignora - Ao Vivo",
       "url": "https://open.spotify.com/track/7dNXSf4lS30n1lBfFavQK5"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
-        "name": "O D\u00e9cimo Vol. 02 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AfnwegDE4N2E6l1Hiewfz"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 161862,
-      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0MuzQYLoFUYqcy89hH8cDR"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -223,30 +207,6 @@
     {
       "added_at": "2026-10-09 19:36:43",
       "album": {
-        "name": "Fora do Padr\u00e3o Vol. 01 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4"
-      },
-      "artists": [
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 199379,
-      "name": "Calcinha de Renda - Ao Vivo",
-      "url": "https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
         "name": "Voc\u00eas & Deus (Ao Vivo no Rio de Janeiro)",
         "url": "https://open.spotify.com/album/7fF43JKZ1MTkFiWRzrkzcn"
       },
@@ -291,6 +251,46 @@
       "duration_ms": 166666,
       "name": "Assunto Que D\u00f3i",
       "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
+    },
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
+        "name": "O D\u00e9cimo Vol. 02 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AfnwegDE4N2E6l1Hiewfz"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 161862,
+      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0MuzQYLoFUYqcy89hH8cDR"
+    },
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
+        "name": "Fora do Padr\u00e3o Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 199379,
+      "name": "Calcinha de Renda - Ao Vivo",
+      "url": "https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ"
     },
     {
       "added_at": "2026-10-09 19:36:43",

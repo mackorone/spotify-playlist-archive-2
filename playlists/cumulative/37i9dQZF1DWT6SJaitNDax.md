@@ -2,9 +2,9 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Tml Vibez
+> Afro sounds crossing borders\. Cover: Victony
 
-1,066 songs - 2 day 6 hr 29 min
+1,068 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Julie](https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Julie](https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2) | 2:58 | 2026-03-13 | 2026-05-09 |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-05-03 | 2024-06-01 |
 | [Just Fine](https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 4:02 | 2025-07-07 | 2025-07-19 |
+| [JUSTINA \(feat\. Ruger\)](https://open.spotify.com/track/09kmmrYVi31ZrO01z15PVb) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [JUSTINA \(feat\. Ruger\)](https://open.spotify.com/album/5DyGzlE7Y0xtmtFmo4y4Z8) | 2:08 | 2026-10-16 |  |
 | [Ka Lekeke \(feat\. Dj Motee, L4desh & Turnupkiid\)](https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Massive95k](https://open.spotify.com/artist/06rXjpDaHY3HYMdtO6gNA1), [Dj Motee](https://open.spotify.com/artist/1Q7aamGM1xQOxh2bXnBW8p), [L4desh](https://open.spotify.com/artist/1eiE0nWAgbpRnehlnB7egF), [Turnupkiid](https://open.spotify.com/artist/346Y1QmQRcQJzhUUskQcQe) | [Ka Lekeke \(feat\. Dj Motee, L4desh & Turnupkiid\)](https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP) | 5:47 | 2024-01-26 | 2024-04-19 |
 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 | 2024-01-26 | 2024-06-01 |
 | [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 | 2025-05-01 | 2026-05-09 |
@@ -882,6 +883,7 @@
 | [Sleepless Nights \(feat\. Davido\)](https://open.spotify.com/track/44d2FqQgjb2wmuGOoRg334) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 4:16 | 2021-09-10 | 2022-07-25 |
 | [Sleepwalk](https://open.spotify.com/track/6T976FcOwgtI0mUxbkhaz5) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu) | [Sleepwalk](https://open.spotify.com/album/0jktKZTpGNYjBjI56AGGCp) | 3:20 | 2021-09-10 | 2022-05-30 |
 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 | 2026-07-17 |  |
+| [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X) | 2:30 | 2026-10-16 |  |
 | [Slow](https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Business](https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI) | 3:13 | 2026-07-24 |  |
 | [Slow Down](https://open.spotify.com/track/2uLMcZ2GqlhdW0Gg8WuVPZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 3:28 | 2022-03-25 | 2022-04-19 |
 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 | 2021-09-10 | 2022-07-13 |

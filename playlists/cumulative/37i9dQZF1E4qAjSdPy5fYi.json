@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "HELLRAISER",
+        "url": "https://open.spotify.com/album/2YCTjmK4MCBHIfmF67XTjC"
+      },
+      "artists": [
+        {
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/5XnEaGhnWsAywwADYeeZi1"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164326,
+      "name": "BLOODSUCKER",
+      "url": "https://open.spotify.com/track/2yqlvyL0057XusSfpi9YaZ"
+    },
+    {
+      "album": {
         "name": "BOARD GAME",
         "url": "https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -1526,6 +1544,24 @@
       "duration_ms": 193096,
       "name": "CHANGED",
       "url": "https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j"
+    },
+    {
+      "album": {
+        "name": "my teeth will free you",
+        "url": "https://open.spotify.com/album/6sOmrSqrGQfomVYRh4QqkP"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109594,
+      "name": "choke it out!",
+      "url": "https://open.spotify.com/track/2JRa1gDVltWcmd7R9kvRR5"
     },
     {
       "album": {
@@ -2804,7 +2840,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 123668,
       "name": "HA! DESERVED",
       "url": "https://open.spotify.com/track/3IP1TdI8S7JMvX8xQnDD2L"
@@ -2840,7 +2876,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 200986,
       "name": "Happy Girl - English Version",
       "url": "https://open.spotify.com/track/5oxB4Ut3wcHLOOnxasrY3z"
@@ -2992,7 +3028,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 232922,
       "name": "HORRIBLE TRUTH",
       "url": "https://open.spotify.com/track/429sQD0nz6qU1r7eviz0gb"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 132173,
       "name": "I REALLY REALLY REALLY HATE THE WORLD BUT THAT'S OK AT LEAST I'VE GOT MY GABBER DRUM",
       "url": "https://open.spotify.com/track/0dBffLuyZ97YHFTbTWby2D"
@@ -4626,7 +4662,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 183209,
       "name": "N0WICH3 - Daycore",
       "url": "https://open.spotify.com/track/5THWNLNI93RvOs8Q6Tbu6a"
@@ -4644,7 +4680,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 135714,
       "name": "N0WICH3 - Nightcore",
       "url": "https://open.spotify.com/track/77OEEZ3k98kf8czd6EoRM8"
@@ -4710,7 +4746,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 170403,
       "name": "narcissist",
       "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
@@ -4818,7 +4854,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 111494,
       "name": "no inbetween",
       "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
@@ -4854,7 +4890,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 121874,
       "name": "no response",
       "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
@@ -5502,7 +5538,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -5690,7 +5726,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202000,
       "name": "re:ARRANGEMENT",
       "url": "https://open.spotify.com/track/13F6tG0As0WV4fSx6WX9NP"
@@ -5824,7 +5860,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/4esmQcHd8M6w7s5SWMMHpM"
@@ -6562,7 +6598,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 203624,
       "name": "The Last One Left",
       "url": "https://open.spotify.com/track/6vCoPOCloqfrlUV9R0yYSH"
@@ -7174,7 +7210,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 125500,
       "name": "Why do i miss u",
       "url": "https://open.spotify.com/track/7wS766zakrGZdc1WpaiXmk"
@@ -7250,7 +7286,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 205125,
       "name": "www.PUPPYLUV.xoxo",
       "url": "https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ"

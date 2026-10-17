@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 170655,
       "name": "Aladin",
       "url": "https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 157079,
       "name": "Blackberry",
       "url": "https://open.spotify.com/track/5wGuX8TzM2KK6Ut6M5vKnv"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 145339,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR"
@@ -3071,6 +3071,28 @@
     },
     {
       "album": {
+        "name": "DROP LOW",
+        "url": "https://open.spotify.com/album/0ENkXnrGfTuZv1JHEmcVkj"
+      },
+      "artists": [
+        {
+          "name": "Akim4t4",
+          "url": "https://open.spotify.com/artist/6kiOlOxSUYIi77bxrcLgn4"
+        },
+        {
+          "name": "RAW SEASON",
+          "url": "https://open.spotify.com/artist/7wLe8mMaKibLDb7TXC76CD"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126942,
+      "name": "DROP LOW",
+      "url": "https://open.spotify.com/track/4dfpE6mExrjqftnaDTt6Ls"
+    },
+    {
+      "album": {
         "name": "DR\u00dcCK",
         "url": "https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4"
       },
@@ -3580,7 +3602,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 132112,
       "name": "Fashion Killa",
       "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
@@ -4396,7 +4418,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 95049,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
@@ -5529,6 +5551,28 @@
     },
     {
       "album": {
+        "name": "SSJ2",
+        "url": "https://open.spotify.com/album/1um7QvBqDWunTyV8moXcio"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189490,
+      "name": "Lieb und Hass mich",
+      "url": "https://open.spotify.com/track/0MCCC1i6mrxF5BIkW6YBGz"
+    },
+    {
+      "album": {
         "name": "Liebestext",
         "url": "https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N"
       },
@@ -6038,7 +6082,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 144905,
       "name": "Madd Ting",
       "url": "https://open.spotify.com/track/5Iku7QUJV5KXyT5fVHAxcd"
@@ -8446,7 +8490,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 149553,
       "name": "Sera",
       "url": "https://open.spotify.com/track/3C24jbcbotdNpyDUqNIJEi"
@@ -8548,7 +8592,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 161146,
       "name": "Show",
       "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
@@ -10372,7 +10416,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 169736,
       "name": "Wach",
       "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
@@ -10536,7 +10580,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 132571,
       "name": "Wempe",
       "url": "https://open.spotify.com/track/33carOizvQbe1sCJrdsL9T"

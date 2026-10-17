@@ -1,12 +1,12 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Zenar &amp; Nick Jam",
-  "num_followers": 117625,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: BOABOA",
+  "num_followers": 117621,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiFzGGFVtZxJxOSkrihOdiyDqZhCa5",
+  "snapshot_id": "AAAiHZ/TZx3MpQOEwlDNGo4x7dbdTMT1",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:04",
@@ -367,6 +367,22 @@
       "duration_ms": 168746,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0"
+    },
+    {
+      "added_at": "2026-10-16 08:53:18",
+      "album": {
+        "name": "Timberlake",
+        "url": "https://open.spotify.com/album/6x7XHGZisV0YZ9yLMTElfK"
+      },
+      "artists": [
+        {
+          "name": "J-VAD",
+          "url": "https://open.spotify.com/artist/24zx5C88UfVgieiCm084q4"
+        }
+      ],
+      "duration_ms": 191022,
+      "name": "Timberlake",
+      "url": "https://open.spotify.com/track/6TgEokT138kzo83DGQljqn"
     },
     {
       "added_at": "2026-09-17 22:00:16",

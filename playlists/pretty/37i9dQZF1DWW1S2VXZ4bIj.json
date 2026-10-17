@@ -1,13 +1,33 @@
 {
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: atom chanakan",
-  "num_followers": 302725,
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lipta, Na Polycat",
+  "num_followers": 302823,
   "original_name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjyYOMLMFE83ADKBhoo2wJF5lJl",
+  "snapshot_id": "AAAAACTqrRxFT3V75rmJw/qFJ/VXqIP5",
   "tracks": [
+    {
+      "added_at": "2026-10-09 09:15:26",
+      "album": {
+        "name": "IN MY ROOM SESSION",
+        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
+      "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
+    },
     {
       "added_at": "2026-10-09 09:15:26",
       "album": {
@@ -29,24 +49,144 @@
       "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
     },
     {
-      "added_at": "2026-10-09 09:15:26",
+      "added_at": "2026-10-16 11:32:29",
       "album": {
-        "name": "IN MY ROOM SESSION",
-        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
+        "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/5fjVFZslA8DLG50CqansB9"
       },
       "artists": [
         {
-          "name": "GAVIN:D",
-          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
         },
+        {
+          "name": "Na Polycat",
+          "url": "https://open.spotify.com/artist/1CYPqOns66RhMv8T1Cbn2m"
+        }
+      ],
+      "duration_ms": 242830,
+      "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0zhGBzopyFieEJy9mZ0TED"
+    },
+    {
+      "added_at": "2026-10-09 09:15:26",
+      "album": {
+        "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+        "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
+      "url": "https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5"
+    },
+    {
+      "added_at": "2026-10-16 11:32:29",
+      "album": {
+        "name": "\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/362sWcKJr0sfC0zGAaJbtO"
+      },
+      "artists": [
+        {
+          "name": "atom chanakan",
+          "url": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+        },
+        {
+          "name": "Pod",
+          "url": "https://open.spotify.com/artist/0vPvYLoKxrrPgMr4ejU89r"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d (feat. Pod)",
+      "url": "https://open.spotify.com/track/4a5e7IKljxiQju1kamtexp"
+    },
+    {
+      "added_at": "2026-10-09 09:15:26",
+      "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
+        "url": "https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
+      "url": "https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA"
+    },
+    {
+      "added_at": "2026-10-16 11:32:29",
+      "album": {
+        "name": "\u0e2b\u0e21\u0e2d\u0e01 (just u and i)",
+        "url": "https://open.spotify.com/album/1bxrbwh9M9WTyp2071KBKn"
+      },
+      "artists": [
         {
           "name": "Violette Wautier",
           "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
         }
       ],
-      "duration_ms": 228493,
-      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
-      "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
+      "duration_ms": 226506,
+      "name": "\u0e2b\u0e21\u0e2d\u0e01 (just u and i)",
+      "url": "https://open.spotify.com/track/1Qhl0FxqskZpvmMy0oqMtJ"
+    },
+    {
+      "added_at": "2026-10-09 09:15:26",
+      "album": {
+        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
+    },
+    {
+      "added_at": "2026-10-16 11:32:29",
+      "album": {
+        "name": "\u0e40\u0e01\u0e47\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23 (NO! NO! NO!)",
+        "url": "https://open.spotify.com/album/3WyCXW9qo1BsJPARzTHjwm"
+      },
+      "artists": [
+        {
+          "name": "WAV",
+          "url": "https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf"
+        }
+      ],
+      "duration_ms": 229495,
+      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23 (NO! NO! NO!)",
+      "url": "https://open.spotify.com/track/11gPsp6fSdvCyJF6kaDqFj"
+    },
+    {
+      "added_at": "2026-10-09 09:15:26",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/4sEAqrhYwapYYBC2LXgTlJ"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "duration_ms": 261641,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/39AgEgwkAasTQgKgaO7KWI"
     },
     {
       "added_at": "2026-10-09 09:15:26",
@@ -71,42 +211,6 @@
     {
       "added_at": "2026-10-09 09:15:26",
       "album": {
-        "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
-        "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        },
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
-      "url": "https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
-        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
         "name": "DUST",
         "url": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
       },
@@ -119,22 +223,6 @@
       "duration_ms": 232175,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Too Late)",
       "url": "https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19",
-        "url": "https://open.spotify.com/album/4sEAqrhYwapYYBC2LXgTlJ"
-      },
-      "artists": [
-        {
-          "name": "PORZAX",
-          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
-        }
-      ],
-      "duration_ms": 261641,
-      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19",
-      "url": "https://open.spotify.com/track/39AgEgwkAasTQgKgaO7KWI"
     },
     {
       "added_at": "2026-10-09 09:15:26",
@@ -187,22 +275,6 @@
       "duration_ms": 185686,
       "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
       "url": "https://open.spotify.com/track/0TiRqRymaTwwqfvZPlL9TS"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
-        "url": "https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K"
-      },
-      "artists": [
-        {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
-      "url": "https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA"
     },
     {
       "added_at": "2026-10-09 09:15:26",
@@ -403,26 +475,6 @@
     {
       "added_at": "2026-10-09 09:15:26",
       "album": {
-        "name": "\u0e23\u0e49\u0e2d\u0e22\u0e04\u0e19\u0e17\u0e31\u0e01 \u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e01\u0e48\u0e32",
-        "url": "https://open.spotify.com/album/5k72S6FaWYy4L5IMLw8S4s"
-      },
-      "artists": [
-        {
-          "name": "Season Five",
-          "url": "https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H"
-        },
-        {
-          "name": "Maiyarap",
-          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "\u0e23\u0e49\u0e2d\u0e22\u0e04\u0e19\u0e17\u0e31\u0e01 \u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e01\u0e48\u0e32",
-      "url": "https://open.spotify.com/track/5QWsVzpUd3Lnlb1BdvJzsU"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
       },
@@ -451,26 +503,6 @@
       "duration_ms": 258973,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/24VfUtHxbkCrscWC00toom"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
-        "name": "\u0e21\u0e31\u0e19\u0e01\u0e47\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e04\u0e48\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
-        "url": "https://open.spotify.com/album/4Qm3LyZLp2OjqDInsiOIbh"
-      },
-      "artists": [
-        {
-          "name": "MaxMillor",
-          "url": "https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63"
-        },
-        {
-          "name": "SURIYA MQT",
-          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "\u0e21\u0e31\u0e19\u0e01\u0e47\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e04\u0e48\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
-      "url": "https://open.spotify.com/track/1OGSYElgBhsVzc1SPIVOQY"
     },
     {
       "added_at": "2026-10-09 09:15:26",
@@ -539,22 +571,6 @@
       "duration_ms": 184800,
       "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e23\u0e32\u0e15\u0e23\u0e35 (Aroma)",
       "url": "https://open.spotify.com/track/01r3leuypcVycEuIvTLDAT"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
       "added_at": "2026-10-09 09:15:26",
@@ -1415,22 +1431,6 @@
       "duration_ms": 197500,
       "name": "\u0e2a\u0e21\u0e14\u0e38\u0e25\u0e23\u0e31\u0e01 (Balance)",
       "url": "https://open.spotify.com/track/2luYdyxKSSxuC3cSW8N6A0"
-    },
-    {
-      "added_at": "2026-10-09 09:15:26",
-      "album": {
-        "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K"
-      },
-      "artists": [
-        {
-          "name": "Z9",
-          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ"
     },
     {
       "added_at": "2026-10-09 09:15:26",

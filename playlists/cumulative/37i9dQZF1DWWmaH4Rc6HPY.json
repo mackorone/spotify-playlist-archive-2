@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Motel en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Desierto Drive en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00e1nto nos queda",
+        "url": "https://open.spotify.com/album/50yE0eLO8QTDvoY95WfbQy"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194288,
+      "name": "Cu\u00e1nto nos queda",
+      "url": "https://open.spotify.com/track/1AJQzARciyt3rrR9NKEFDO"
+    },
+    {
+      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/6JhinkHNQUKvMqpyDCyRik"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 210410,
       "name": "De vuelta al ruedo",
       "url": "https://open.spotify.com/track/6P0y8zJbP27ROCtZeW71wK"
@@ -1790,6 +1808,42 @@
       "duration_ms": 215250,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
+    },
+    {
+      "album": {
+        "name": "Despu\u00e9s del after",
+        "url": "https://open.spotify.com/album/73FHavTgdfQRbAo43xhcsr"
+      },
+      "artists": [
+        {
+          "name": "Lola Club",
+          "url": "https://open.spotify.com/artist/7tHOTsYBRasezMbwfwotZF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229998,
+      "name": "Despu\u00e9s del after",
+      "url": "https://open.spotify.com/track/7kUfzBWNMXCh23zOVUM2h0"
+    },
+    {
+      "album": {
+        "name": "Desvanecer",
+        "url": "https://open.spotify.com/album/0hgExYdCezbqVC52kG9pxN"
+      },
+      "artists": [
+        {
+          "name": "Desierto Drive",
+          "url": "https://open.spotify.com/artist/7yRpXimBBuifq5IwlbVfSY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283466,
+      "name": "Desvanecer",
+      "url": "https://open.spotify.com/track/68K8AUI0psagxordDpcuCN"
     },
     {
       "album": {
@@ -2280,7 +2334,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 235141,
       "name": "EN LO TOTAL",
       "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
@@ -2523,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Gilipollas",
+        "url": "https://open.spotify.com/album/50drLygk6ym0QNIgKALnhS"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215663,
+      "name": "Gilipollas",
+      "url": "https://open.spotify.com/track/4y0A1ot2Vg2Sbvfa2PHSeO"
+    },
+    {
+      "album": {
         "name": "Godzilla",
         "url": "https://open.spotify.com/album/0M2bvqcwOcvc0ZhmoIDBFS"
       },
@@ -2632,6 +2704,28 @@
       "duration_ms": 178160,
       "name": "Hagamos Que",
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+    },
+    {
+      "album": {
+        "name": "Har\u00e9 lo que me pidas",
+        "url": "https://open.spotify.com/album/024FLAMfTOoPYGweO8Cjmt"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Har\u00e9 lo que me pidas",
+      "url": "https://open.spotify.com/track/5XyfjGMnDT3qVrecOG0A1X"
     },
     {
       "album": {
@@ -3526,6 +3620,24 @@
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "album": {
+        "name": "me saco de pedo",
+        "url": "https://open.spotify.com/album/28we3CdYNrlZuBLX0UGL1c"
+      },
+      "artists": [
+        {
+          "name": "Chepi Meyer",
+          "url": "https://open.spotify.com/artist/7xn5Owk1WwzPuI6spZvNCv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "me saco de pedo",
+      "url": "https://open.spotify.com/track/5s09fwwsn0OV3X2ZIYeaFi"
     },
     {
       "album": {
@@ -4463,6 +4575,28 @@
     },
     {
       "album": {
+        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea (Revisitado)",
+        "url": "https://open.spotify.com/album/1xZPF0L6AxIxnsoemmOYTy"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        },
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276586,
+      "name": "Paula",
+      "url": "https://open.spotify.com/track/7a8YMMkF6rQQssbA5Sst5k"
+    },
+    {
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -4550,7 +4684,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 219272,
       "name": "Perder",
       "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
@@ -5130,7 +5264,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 267238,
       "name": "Quiero saber si es amor (feat. Joy)",
       "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
@@ -5148,7 +5282,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 230097,
       "name": "Quisiera Ser Como T\u00fa",
       "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
@@ -5290,7 +5424,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 341600,
       "name": "Rayo de Luz",
       "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
@@ -5496,7 +5630,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 231027,
       "name": "Sabor a Chocolate",
       "url": "https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq"

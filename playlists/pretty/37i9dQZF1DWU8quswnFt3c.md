@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Majo Aguilar from Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,519 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,400 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
 | 29 | [t escucho al pensar](https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:18 |
 | 30 | [Thisavros Mou](https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Thisavros Mou](https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7) | 3:24 |
-| 31 | [Que Culpa tengo Yo](https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Que Culpa tengo Yo](https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv) | 3:11 |
-| 32 | [LOBO](https://open.spotify.com/track/6iOQKeQA9IQWlheCgtiXon) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Pop Pesado](https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4) | 2:27 |
+| 31 | [LOBO](https://open.spotify.com/track/6iOQKeQA9IQWlheCgtiXon) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Pop Pesado](https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4) | 2:27 |
+| 32 | [Que Culpa tengo Yo](https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Que Culpa tengo Yo](https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv) | 3:11 |
 | 33 | [好鍾意！](https://open.spotify.com/track/7EiOKCZaPnIyQuvD7T84T1) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [好鍾意！](https://open.spotify.com/album/7LsMpEveA8Ak8TazJdUmIs) | 3:10 |
 | 34 | [Amor Azar](https://open.spotify.com/track/0utCRix8bmtLLhMSItgE72) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda Eterna](https://open.spotify.com/album/60upWGNYp7K9cllRlT8UJT) | 2:42 |
 | 35 | [Qué Hubiera Pasado](https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Qué Hubiera Pasado](https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC) | 2:39 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 42 | [Te Mereces Un Amor](https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:46 |
 | 43 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
 | 44 | [Pagana](https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Pagana](https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0) | 2:57 |
-| 45 | [abans abans](https://open.spotify.com/track/02m8VMKmUILOO6aufAkJaQ) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Pripyat](https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE) | 4:04 |
-| 46 | [amor con coco](https://open.spotify.com/track/7s0D5cHFmgwKPqv8Bzf4Ia) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [amor con coco](https://open.spotify.com/album/09stTRWAeegzwtavBVXjD6) | 3:23 |
+| 45 | [amor con coco](https://open.spotify.com/track/7s0D5cHFmgwKPqv8Bzf4Ia) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [amor con coco](https://open.spotify.com/album/09stTRWAeegzwtavBVXjD6) | 3:23 |
+| 46 | [abans abans](https://open.spotify.com/track/02m8VMKmUILOO6aufAkJaQ) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Pripyat](https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE) | 4:04 |
 | 47 | [playa](https://open.spotify.com/track/65x6H83om4kmtQMRo6G4ea) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [playa](https://open.spotify.com/album/0MRYUqJVQnXymX1cWAlqsc) | 3:09 |
 | 48 | [Mua Mua Mua](https://open.spotify.com/track/29RyqkUPTH38nwOXuj6dAj) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Lo Que Hay](https://open.spotify.com/album/6WZuiN4RpAA4DYVXiEl0bs) | 2:11 |
 | 49 | [Hotter Than Hot](https://open.spotify.com/track/1DcRZgk0OzhN9Fhxj0GiFs) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Callaita Nunca](https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd) | 3:10 |
 | 50 | [The Last Encounter](https://open.spotify.com/track/5RUkIOblbZ8P9fz4dUhQII) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hallucinating](https://open.spotify.com/album/3VQpTlLYpOhFbtbPSQQuBS) | 3:04 |
 
-Snapshot ID: `AAAAAPhU8eR/r1zmbBkx6Ou2Kjs3o6qq`
+Snapshot ID: `AAAAADhzqQPfo5uSM137kL8b9U68tiIF`

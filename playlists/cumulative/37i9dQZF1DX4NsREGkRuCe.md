@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,291 songs - 2 day 14 hr 51 min
+1,292 songs - 2 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-21 | 2025-02-25 |
 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 | 2024-03-29 | 2024-07-13 |
 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-08-08 | 2025-09-02 |
+| [For Me](https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [For Me](https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo) | 2:20 | 2026-10-16 |  |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 | 2023-09-29 |
 | [FOR YOU](https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [FOR YOU](https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV) | 2:28 | 2025-03-21 | 2025-11-07 |
 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 | 2022-06-08 | 2023-12-15 |
@@ -504,7 +505,7 @@
 | [Happiness](https://open.spotify.com/track/0ASno3zrAbwRe4cVfH1c7K) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [DJ YK](https://open.spotify.com/artist/2VLe3q3Vp7R9aQQGip5oMe) | [Built Different](https://open.spotify.com/album/0eZrosDFkbClhRzEnoJD63) | 2:41 | 2026-06-25 | 2026-07-17 |
 | [Happy Day](https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Happy Day](https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz) | 2:45 | 2025-07-04 | 2025-09-17 |
 | [Happy People](https://open.spotify.com/track/1qKJYnVtLg7pwT5JtOcB11) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Happy People](https://open.spotify.com/album/70TPFsb10L2Tya74jZdsl3) | 2:51 | 2024-10-04 | 2024-10-19 |
-| [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 | 2026-08-14 |  |
+| [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 | 2026-08-14 | 2026-10-17 |
 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2024-02-02 | 2024-02-09 |
 | [HAUSAPIANO](https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [HAUSAPIANO](https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5) | 1:43 | 2024-10-07 | 2024-11-03 |
 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-04-19 | 2024-05-10 |

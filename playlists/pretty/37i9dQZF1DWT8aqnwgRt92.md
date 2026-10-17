@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,573 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,526 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [TERASE](https://open.spotify.com/track/0jrzB8QjvZLiCiwNfQqorF) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [一ノ瀬みか](https://open.spotify.com/artist/0MVOHHDO1LA2XtowO6pVMw) | [TERASE](https://open.spotify.com/album/2HzcoDWuxrM5LSqnBuAfKo) | 3:04 |
 | 100 | [Nicoichi](https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Nicoichi](https://open.spotify.com/album/43XRkt6cUp8lOLtKSqjlIr) | 2:30 |
 
-Snapshot ID: `AAAAAAG5bCIEyh8M0h2geuq3DnQ5Cp+0`
+Snapshot ID: `AAAAAMYkjsBUBiRcnao4z2xsNq1iuakS`

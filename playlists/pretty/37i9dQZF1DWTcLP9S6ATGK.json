@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Matter Mos, Dere",
-  "num_followers": 168233,
+  "num_followers": 168239,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5MixV21EmBvR8a8j6Kxcl3IAEX",
+  "snapshot_id": "AAAAALtw09cRmIgXsVk+LtdI1SpU0dNS",
   "tracks": [
     {
       "added_at": "2026-10-15 23:20:42",
@@ -31,6 +31,26 @@
     {
       "added_at": "2026-10-15 23:20:42",
       "album": {
+        "name": "Lebih Beruntung Sedikit",
+        "url": "https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 241215,
+      "name": "Lebih Beruntung Sedikit",
+      "url": "https://open.spotify.com/track/0NNoaEAeftkCLPMYmpcGsX"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
         "name": "MARBLES",
         "url": "https://open.spotify.com/album/4NARgADquipnlhx9XzjsUZ"
       },
@@ -43,42 +63,6 @@
       "duration_ms": 176086,
       "name": "Tak Ingin Pulang",
       "url": "https://open.spotify.com/track/3Qs3UyQWrcMBZusrE5eNZm"
-    },
-    {
-      "added_at": "2026-10-15 23:20:42",
-      "album": {
-        "name": "Kalau Aku Lebih Darinya",
-        "url": "https://open.spotify.com/album/4ZgasxLGs6rIncquhm28O2"
-      },
-      "artists": [
-        {
-          "name": "Giant Jay",
-          "url": "https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI"
-        },
-        {
-          "name": "Dewanda Pratama",
-          "url": "https://open.spotify.com/artist/2fyO8muxJQylRhoNGHdIRV"
-        }
-      ],
-      "duration_ms": 286320,
-      "name": "Kalau Aku Lebih Darinya",
-      "url": "https://open.spotify.com/track/0K2MsV4d21Q2oF6O4qTf74"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "Kita Yang Mesra",
-        "url": "https://open.spotify.com/album/5l9TJ5nOPwVg4Mp9hjZYtl"
-      },
-      "artists": [
-        {
-          "name": "Adrian Khalif",
-          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
-        }
-      ],
-      "duration_ms": 225227,
-      "name": "Kita Yang Mesra",
-      "url": "https://open.spotify.com/track/5Dr0kHJTKfd5KlbCUfjPJB"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -105,6 +89,26 @@
       "url": "https://open.spotify.com/track/3nBGItIJq4HoLQy4wu0305"
     },
     {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Kalau Aku Lebih Darinya",
+        "url": "https://open.spotify.com/album/4ZgasxLGs6rIncquhm28O2"
+      },
+      "artists": [
+        {
+          "name": "Giant Jay",
+          "url": "https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI"
+        },
+        {
+          "name": "Dewanda Pratama",
+          "url": "https://open.spotify.com/artist/2fyO8muxJQylRhoNGHdIRV"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Kalau Aku Lebih Darinya",
+      "url": "https://open.spotify.com/track/0K2MsV4d21Q2oF6O4qTf74"
+    },
+    {
       "added_at": "2026-10-09 01:13:20",
       "album": {
         "name": "Mendung",
@@ -125,24 +129,20 @@
       "url": "https://open.spotify.com/track/3uughs6wfHNEeyPSR5u4US"
     },
     {
-      "added_at": "2026-10-15 23:20:42",
+      "added_at": "2026-10-09 01:13:20",
       "album": {
-        "name": "Lebih Beruntung Sedikit",
-        "url": "https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q"
+        "name": "Kita Yang Mesra",
+        "url": "https://open.spotify.com/album/5l9TJ5nOPwVg4Mp9hjZYtl"
       },
       "artists": [
         {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        },
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
         }
       ],
-      "duration_ms": 241215,
-      "name": "Lebih Beruntung Sedikit",
-      "url": "https://open.spotify.com/track/0NNoaEAeftkCLPMYmpcGsX"
+      "duration_ms": 225227,
+      "name": "Kita Yang Mesra",
+      "url": "https://open.spotify.com/track/5Dr0kHJTKfd5KlbCUfjPJB"
     },
     {
       "added_at": "2026-10-15 23:20:42",
@@ -163,54 +163,6 @@
       "duration_ms": 252200,
       "name": "Maukah Kau Menikah Denganku?",
       "url": "https://open.spotify.com/track/003fbsliPwJfMgylqwcoyV"
-    },
-    {
-      "added_at": "2026-10-15 23:20:42",
-      "album": {
-        "name": "Oh Semoga",
-        "url": "https://open.spotify.com/album/1xT1OMRep1UfugffULFXVk"
-      },
-      "artists": [
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Oh Semoga",
-      "url": "https://open.spotify.com/track/7hmpSmU4rmr7qJyU3puCxs"
-    },
-    {
-      "added_at": "2026-10-15 23:20:42",
-      "album": {
-        "name": "Tanpa Tepuk Tangan",
-        "url": "https://open.spotify.com/album/5Hyq3NXxzqbx54jBSH2lNl"
-      },
-      "artists": [
-        {
-          "name": "SANDHYA",
-          "url": "https://open.spotify.com/artist/0VsRsCo38OFeoEY9vlas0J"
-        }
-      ],
-      "duration_ms": 243829,
-      "name": "Tanpa Tepuk Tangan",
-      "url": "https://open.spotify.com/track/2jTSgloY3pNEZnrZ6duTAy"
-    },
-    {
-      "added_at": "2026-10-15 23:20:42",
-      "album": {
-        "name": "manja aja! ( gpp )",
-        "url": "https://open.spotify.com/album/41DIqN6g3jCS4dBavcbgNc"
-      },
-      "artists": [
-        {
-          "name": "DEABDIL",
-          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "manja aja! ( gpp )",
-      "url": "https://open.spotify.com/track/4nk3eIoIUOjEfMC0hmebqZ"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -275,6 +227,86 @@
       "duration_ms": 191489,
       "name": "Tak Akan Mati Sia Sia",
       "url": "https://open.spotify.com/track/2bdrnzspivUynDakjRMvb9"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Oh Semoga",
+        "url": "https://open.spotify.com/album/1xT1OMRep1UfugffULFXVk"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Oh Semoga",
+      "url": "https://open.spotify.com/track/7hmpSmU4rmr7qJyU3puCxs"
+    },
+    {
+      "added_at": "2026-10-16 11:11:53",
+      "album": {
+        "name": "Seratus Hidup Lagi",
+        "url": "https://open.spotify.com/album/43EEGIVO0AUOx9nctLN4Ue"
+      },
+      "artists": [
+        {
+          "name": "Meidra",
+          "url": "https://open.spotify.com/artist/1ncnrVp75hhvVYoseGD9mD"
+        }
+      ],
+      "duration_ms": 211665,
+      "name": "Seratus Hidup Lagi",
+      "url": "https://open.spotify.com/track/7gTaUqRa3geMRK2QAuz7pW"
+    },
+    {
+      "added_at": "2026-10-09 01:13:20",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/6E1lp4IK8ocysYI0pUVEsl"
+      },
+      "artists": [
+        {
+          "name": "El Putra Sarira",
+          "url": "https://open.spotify.com/artist/50Fq9p1golo64d4KMsf11a"
+        }
+      ],
+      "duration_ms": 235797,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/2KrmQlQ1526v6IUr8osikD"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Tanpa Tepuk Tangan",
+        "url": "https://open.spotify.com/album/5Hyq3NXxzqbx54jBSH2lNl"
+      },
+      "artists": [
+        {
+          "name": "SANDHYA",
+          "url": "https://open.spotify.com/artist/0VsRsCo38OFeoEY9vlas0J"
+        }
+      ],
+      "duration_ms": 243829,
+      "name": "Tanpa Tepuk Tangan",
+      "url": "https://open.spotify.com/track/2jTSgloY3pNEZnrZ6duTAy"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "manja aja! ( gpp )",
+        "url": "https://open.spotify.com/album/41DIqN6g3jCS4dBavcbgNc"
+      },
+      "artists": [
+        {
+          "name": "DEABDIL",
+          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "manja aja! ( gpp )",
+      "url": "https://open.spotify.com/track/4nk3eIoIUOjEfMC0hmebqZ"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -363,22 +395,6 @@
       "duration_ms": 204615,
       "name": "Berdua Lebih Baik",
       "url": "https://open.spotify.com/track/5YUAUPCkpCS248DBtpPSLl"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/6E1lp4IK8ocysYI0pUVEsl"
-      },
-      "artists": [
-        {
-          "name": "El Putra Sarira",
-          "url": "https://open.spotify.com/artist/50Fq9p1golo64d4KMsf11a"
-        }
-      ],
-      "duration_ms": 235797,
-      "name": "Memoria",
-      "url": "https://open.spotify.com/track/2KrmQlQ1526v6IUr8osikD"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -1667,26 +1683,6 @@
       "duration_ms": 232086,
       "name": "Jalan Buntu",
       "url": "https://open.spotify.com/track/44zRIiIf41crQiLSPT85NF"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "Siapa Yang Salah",
-        "url": "https://open.spotify.com/album/5obhUbNmLoOTuu4bR7Hjzm"
-      },
-      "artists": [
-        {
-          "name": "Yung Caters",
-          "url": "https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2"
-        },
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Siapa Yang Salah",
-      "url": "https://open.spotify.com/track/1zAvBONvnVO8JBW0kXGJcZ"
     },
     {
       "added_at": "2026-10-09 01:13:20",

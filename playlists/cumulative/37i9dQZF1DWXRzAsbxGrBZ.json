@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Dwson",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Earful Soul",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 401449,
       "name": "A Nostalgic Experience (Nostalgic Mix)",
       "url": "https://open.spotify.com/track/0L7WzwubxF1ETrSWoLbAaF"
@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 433098,
       "name": "Hornbill",
       "url": "https://open.spotify.com/track/0i9ah34nxsEZfIPY1znLvs"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 359473,
       "name": "Isaiah 60",
       "url": "https://open.spotify.com/track/6z2WUWnIOr3CCw71MdGKX3"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 512068,
       "name": "Kunzima Ukungazi",
       "url": "https://open.spotify.com/track/5fO2BOSw7bj4QEHmaGhKuA"
@@ -3874,7 +3874,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 442676,
       "name": "Live & Love",
       "url": "https://open.spotify.com/track/0oVKH4rc0jSsxgSA8KP5OK"
@@ -4687,6 +4687,28 @@
     },
     {
       "album": {
+        "name": "This & That",
+        "url": "https://open.spotify.com/album/171fDFT0ih5HZVReh3ONvN"
+      },
+      "artists": [
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Coco SA",
+          "url": "https://open.spotify.com/artist/45rjVmb6zfzig44apPYQqi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424778,
+      "name": "My ways",
+      "url": "https://open.spotify.com/track/7FegBAzvjk1X1ba729e289"
+    },
+    {
+      "album": {
         "name": "Sentimental Affair",
         "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
       },
@@ -4734,10 +4756,6 @@
         {
           "name": "Dwson",
           "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        },
-        {
-          "name": "Unwnd",
-          "url": "https://open.spotify.com/artist/7CZtZueTYIQSbFf6uq5Epx"
         },
         {
           "name": "Salvador",
@@ -5690,7 +5708,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 402782,
       "name": "Praise Him - Original Mix",
       "url": "https://open.spotify.com/track/4XAQHnJvIuzvuKMO2UmBZr"
@@ -6442,7 +6460,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 359232,
       "name": "Silent Tears",
       "url": "https://open.spotify.com/track/0Pz5v9wO6Dk1eWmM2s5dS0"
@@ -7064,6 +7082,28 @@
       "duration_ms": 407331,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/2h6VNxyFwgv8clh5Fiiahc"
+    },
+    {
+      "album": {
+        "name": "Tears Fall",
+        "url": "https://open.spotify.com/album/4e3FOfskgO3SP4ioQt22vg"
+      },
+      "artists": [
+        {
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+        },
+        {
+          "name": "Bonj",
+          "url": "https://open.spotify.com/artist/69SzBlSnGFv8Fuz8JHBHfT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506440,
+      "name": "Tears Fall",
+      "url": "https://open.spotify.com/track/6SrEDvbKj4JAPDj0qrPHSP"
     },
     {
       "album": {

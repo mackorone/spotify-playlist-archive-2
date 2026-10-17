@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,825 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,936 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 45 | [El Papá de los Amores](https://open.spotify.com/track/1oeEXETl1l4PoJiJnH6rzL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Papá De Los Amores](https://open.spotify.com/album/4bDVM51RU9kfd1mKv8kMKl) | 4:00 |
 | 46 | [Los Caminos De La Vida](https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:35 |
 | 47 | [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |
-| 48 | [Dime Cómo Te Olvido](https://open.spotify.com/track/3eY3uh3Rj7AkUM6A0qWnYt) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Sólo Clasicos](https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm) | 4:47 |
+| 48 | [Amigo el Corazón](https://open.spotify.com/track/4OxGIqQxKDzDtzy8qf6I7W) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 4:56 |
 | 49 | [Me Sobran las Palabras](https://open.spotify.com/track/3jPpZ5ikg40XJ8g6rjjUvJ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Dubán Bayona](https://open.spotify.com/artist/6jGkJmr4vmIFRPIRy7zsF1) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/00vITF8SZst4YVAbF8nqOq) | 4:30 |
-| 50 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 |
+| 50 | [Adiós Amor](https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW) | [Grandes Éxitos \- Luis Mateus y David Rendón](https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU) | 4:19 |
 
-Snapshot ID: `AAAAAH4iEfQDNE/2oBx1lXlvGsEt0h3H`
+Snapshot ID: `AAAAAFALyUVks6ew9O21ibGUjOEC0SgU`

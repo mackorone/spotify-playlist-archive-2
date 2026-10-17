@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,825 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,845 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 44 | [Pista do Céu \(Quase 30\)](https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9), [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Pista do Céu \(Quase 30\)](https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT) | 7:12 |
 | 45 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
 | 46 | [Quero Te Levar Comigo](https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB) | [Bruno Cerqueira](https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D) | [Quero Te Levar Comigo](https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6) | 4:39 |
-| 47 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
-| 48 | [Ele Me Salvou](https://open.spotify.com/track/369AIQyJtYlpCythA4cC1d) | [Vet](https://open.spotify.com/artist/3KohAVuMpVdQoeLi7LwvVn), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Ele Me Salvou](https://open.spotify.com/album/4YG8f8VlBecQsisfW9tBOz) | 2:57 |
+| 47 | [Ele Me Salvou](https://open.spotify.com/track/369AIQyJtYlpCythA4cC1d) | [Vet](https://open.spotify.com/artist/3KohAVuMpVdQoeLi7LwvVn), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Ele Me Salvou](https://open.spotify.com/album/4YG8f8VlBecQsisfW9tBOz) | 2:57 |
+| 48 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
 | 49 | [Livre Eu Sou](https://open.spotify.com/track/5SNvqC52ylY8OjI9IGsiEA) | [Veronica Sacer](https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v) | [Livre Eu Sou](https://open.spotify.com/album/1ugTboCsgYOuNwpJraHNZz) | 3:18 |
 | 50 | [Glória](https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Multiforme](https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT) | 4:48 |
 | 51 | [Mais Que Vencedor](https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL) | [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Redenção](https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA) | 4:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 80 | [O Melhor Pra Mim \- Ao Vivo](https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:06 |
 
-Snapshot ID: `AAAAAFnT0bdi9LcWReC0yGt6DC7N5PoE`
+Snapshot ID: `AAAAAANPEOglfKgyeyCAXGAGm8uQ2p1r`

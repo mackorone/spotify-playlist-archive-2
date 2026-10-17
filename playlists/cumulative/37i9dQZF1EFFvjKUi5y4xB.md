@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 6 hr 24 min
+123 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Pass Me By](https://open.spotify.com/track/6EK7bweTWfQV9d6hilejVd) | [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Dinah Jane 1](https://open.spotify.com/album/0Yt8grxHvJlhWVyu6b81J5) | 3:22 | 2025-06-01 |  |
 | [Peace Sign](https://open.spotify.com/track/3DlGY66fukwF71OYNLylxc) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | ["A"](https://open.spotify.com/album/7JZi4kTfYCJcqOzVbKAYh5) | 2:58 | 2025-06-01 |  |
 | [Popular](https://open.spotify.com/track/2fWS8C0jDYqP0eSF7cKwrY) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Popular](https://open.spotify.com/album/4ZUvFLlyJfIvJUPhMHPo8A) | 3:15 | 2025-06-01 |  |
+| [Poster Girl](https://open.spotify.com/track/5EUIAKpcGL0CS9O0Tx3sl4) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 | 2026-10-16 |  |
 | [Pray It Away](https://open.spotify.com/track/0pAtZ4p3Db9jrO58TbMvDs) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 2:36 | 2025-06-01 |  |
 | [Push Thru](https://open.spotify.com/track/0rkvjZuAO56gvlFdsokv5w) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Push Thru](https://open.spotify.com/album/3yAVmXJQVOjtoE2npitBaS) | 3:49 | 2025-06-01 |  |
 | [Real One](https://open.spotify.com/track/2gtPsXfyc1CHhzAla6AYMd) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:26 | 2025-06-01 |  |

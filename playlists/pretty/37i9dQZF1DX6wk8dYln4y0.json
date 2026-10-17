@@ -1,12 +1,12 @@
 {
   "description": "pop that *hits different* featuring nick ward",
-  "num_followers": 626603,
+  "num_followers": 626554,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGiSIUo6OOHwhJftpcnY4hoC/PyB",
+  "snapshot_id": "AAAAAJEixCuo7Fe9ps9OGo8EQavOy5Rt",
   "tracks": [
     {
       "added_at": "2026-10-05 23:43:38",
@@ -599,18 +599,22 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Made My Night",
-        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
       },
       "artists": [
         {
           "name": "LE SSERAFIM",
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Made My Night",
-      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
+      "duration_ms": 172313,
+      "name": "SPAGHETTI",
+      "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -683,22 +687,18 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "SPAGHETTI",
-        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+        "name": "Made My Night",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
       },
       "artists": [
         {
           "name": "LE SSERAFIM",
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
         }
       ],
-      "duration_ms": 172313,
-      "name": "SPAGHETTI",
-      "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
+      "duration_ms": 126000,
+      "name": "Made My Night",
+      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "WANTCHU",
         "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "If I Ever Talk To God",
-        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
       },
       "artists": [
         {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 160120,
-      "name": "If I Ever Talk To God",
-      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -931,6 +915,22 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
+        "name": "If I Ever Talk To God",
+        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "If I Ever Talk To God",
+      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Asleep Talking",
-        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 156329,
-      "name": "Asleep Talking",
-      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "Loveland",
         "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 211280,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
+        "name": "Asleep Talking",
+        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "duration_ms": 156329,
+      "name": "Asleep Talking",
+      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
         "name": "Twizzler",
         "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Big Disgrace",
-        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
       "artists": [
         {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 187658,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -1119,22 +1135,6 @@
       "duration_ms": 114056,
       "name": "rollerblade",
       "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
-        "name": "Piss In The Wind",
-        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 128986,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
       "added_at": "2026-10-05 23:43:38",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-10-05 23:43:38",
       "album": {
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Notting Hill",
-      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
-    },
-    {
-      "added_at": "2026-10-05 23:43:38",
-      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 224661,
       "name": "SAME LA",
       "url": "https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M"
+    },
+    {
+      "added_at": "2026-10-05 23:43:38",
+      "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Notting Hill",
+      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
     },
     {
       "added_at": "2026-10-05 23:43:38",

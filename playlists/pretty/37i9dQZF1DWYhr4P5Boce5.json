@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210317,
+  "num_followers": 210321,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM9JhwAjL/tfmPKEhehw1WeXBWC2",
+  "snapshot_id": "AAAAAIKB0+cGtplpR8foWasWVdTwPptC",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "DANCING ON YOUR OWN (Wedding Version)",
-        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "DANCING ON YOUR OWN - Wedding Version",
-      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "DANCING ON YOUR OWN (Wedding Version)",
+        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "DANCING ON YOUR OWN - Wedding Version",
+      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Just Too Good",
         "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Slow Renaissance",
-        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
-      },
-      "artists": [
-        {
-          "name": "Josh Gauton",
-          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Love In the Time of Madness",
-      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 201526,
       "name": "Look At Love",
       "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Slow Renaissance",
+        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
+      },
+      "artists": [
+        {
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Love In the Time of Madness",
+      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Colton Dixon",
         "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 200538,
       "name": "Can't Quit You",
       "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Cortado",
         "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 160514,
       "name": "Cortado",
       "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 185095,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Tuff Luv",
         "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
       },
@@ -1567,6 +1583,22 @@
       "duration_ms": 161020,
       "name": "Tuff Luv",
       "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 207620,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Giving In",
-        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Lions and Liars",
         "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 192893,
       "name": "We Can Be More",
       "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 185095,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
     },
     {
       "added_at": "2026-07-29 15:15:10",

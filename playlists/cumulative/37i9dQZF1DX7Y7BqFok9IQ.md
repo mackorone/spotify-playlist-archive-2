@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Ghost Hounds
 
-432 songs - 1 day 3 hr 43 min
+434 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 | 2023-08-25 | 2023-11-18 |
 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 | 2023-09-23 |
 | [Sweet Southern Sounds](https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds](https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB) | 5:01 | 2025-02-14 | 2025-04-05 |
+| [Tailgate](https://open.spotify.com/track/0AuKzsMIxOAPWHDtZxET0Q) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Lost In Creation](https://open.spotify.com/album/4rXaJxzNjmFajJl0sbngv5) | 3:36 | 2026-10-16 |  |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 | 2023-03-04 |
 | [Tastes Like Heaven](https://open.spotify.com/track/7rWzGacuXlFQrtxxBKwWM7) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Tastes Like Heaven](https://open.spotify.com/album/53Rg8ZnwNUA2iuwjLpyGS6) | 3:20 | 2024-07-05 | 2024-12-07 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2021-02-26 | 2024-04-19 |
@@ -372,7 +373,7 @@
 | [Testify \- Radio Edit](https://open.spotify.com/track/0AMQlLoWnXwD9rwe852cUM) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Testify \(Radio Edit\)](https://open.spotify.com/album/3gboQHxNh9JFRNk1A1tib4) | 4:13 | 2023-02-03 | 2023-09-16 |
 | [The Call](https://open.spotify.com/track/7jC3g7Zt4hTsuOOMOBc75b) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [The Call](https://open.spotify.com/album/7JO8hvc7MmKxvM217csaMz) | 3:29 | 2022-04-08 |  |
 | [The Deep and the Dirty](https://open.spotify.com/track/3nQpyaOEql2BECg4QmaCrF) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:47 | 2023-06-23 | 2024-04-13 |
-| [The Deep And The Dirty](https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk) | 3:47 | 2023-06-23 |  |
+| [The Deep And The Dirty](https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk) | 3:47 | 2023-06-23 | 2026-10-17 |
 | [The Devil's Wrong, but Not to Blame](https://open.spotify.com/track/6U7nODmDU0GD1fyVrnXFLo) | [Eddie & The Wolves](https://open.spotify.com/artist/0LLPFS3w5aAnQ8DyOGV7of) | [The Devil's Wrong, but Not to Blame](https://open.spotify.com/album/5aoIg1oGowkstefojC9X11) | 3:40 | 2024-08-09 |  |
 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 | 2020-10-16 | 2023-12-23 |
 | [The Drop](https://open.spotify.com/track/4RaIGi86fsQ34SC4r7nGf5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/7uDSOgunaHsoMJchpIU44T) | 3:39 | 2020-10-16 | 2024-07-06 |
@@ -382,6 +383,7 @@
 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 | 2020-10-16 | 2026-02-28 |
 | [The Mould](https://open.spotify.com/track/1jPljtqOC6hH1imHy4NcLy) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/2bREEW7AtYFG8yZLr6M0N7) | 3:59 | 2022-06-03 |  |
 | [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 | 2022-06-10 | 2024-04-19 |
+| [The Open Bayou](https://open.spotify.com/track/1kVU5NX316rmK6R6Qxwohf) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Open Bayou](https://open.spotify.com/album/1FlK2YoZ4ebIZibeQxNjVC) | 5:09 | 2026-10-16 |  |
 | [The Pusher](https://open.spotify.com/track/29HbMTL672MugzhklYvStz) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:52 | 2024-05-24 | 2024-07-06 |
 | [The Pusher feat\. Chris Robinson](https://open.spotify.com/track/7cq8suXYNYjutg72pzIEES) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Robinson](https://open.spotify.com/artist/7C1Wl8H93z5X5UqD8fNE94) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 7:07 | 2024-05-24 | 2024-07-06 |
 | [The Waltz](https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2ITas01lzZe2kVZ1YYBZr8) | 5:28 | 2020-10-16 | 2023-05-27 |
@@ -404,7 +406,7 @@
 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 | 2025-06-20 |  |
 | [Trouble](https://open.spotify.com/track/0rwpF4XtV2JL9857906zHq) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Trouble](https://open.spotify.com/album/6xca8kKugBDofCcvC4gsDe) | 3:45 | 2026-02-27 |  |
 | [True Lies](https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [True Lies](https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV) | 5:51 | 2022-09-16 | 2023-04-09 |
-| [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 | 2022-11-18 |  |
+| [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 | 2022-11-18 | 2026-10-17 |
 | [Turnaround](https://open.spotify.com/track/40RTf2Z6gTKw1JSz39oH40) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [Trio](https://open.spotify.com/album/0Bm8F5fCHuxiSBtSBYHyyG) | 3:59 | 2026-03-13 |  |
 | [Twisted Angel](https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [About to Xplode](https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ) | 2:48 | 2021-04-09 | 2024-07-13 |
 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 | 2023-04-14 |  |

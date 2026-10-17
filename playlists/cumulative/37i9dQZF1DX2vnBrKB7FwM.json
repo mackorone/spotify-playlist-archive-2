@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Penyair",
+  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Granuja & DeeJohend",
   "name": "RAP\u00fablica de Colombia",
   "tracks": [
     {
@@ -559,6 +559,28 @@
     },
     {
       "album": {
+        "name": "Medell\u00edn A Solas",
+        "url": "https://open.spotify.com/album/4q7CQXkGuVcTVHh8r0F6BR"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Criollo",
+      "url": "https://open.spotify.com/track/0lRK1b5XNhXCOnLS8weLuY"
+    },
+    {
+      "album": {
         "name": "Serenata Sin Mariachis",
         "url": "https://open.spotify.com/album/35t877YggZ2nnsg5lhC5JD"
       },
@@ -1020,7 +1042,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 222773,
       "name": "Estado Mental",
       "url": "https://open.spotify.com/track/2MdCEO1ghH4VHGDouv2huM"

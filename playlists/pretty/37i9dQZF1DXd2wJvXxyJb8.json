@@ -1,12 +1,12 @@
 {
   "description": "as gigas da net\n",
-  "num_followers": 1647755,
+  "num_followers": 1647775,
   "original_name": "Hits da Internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIswnMga0Ls+mW0dovHVw222Fvis",
+  "snapshot_id": "AAAAAFTSEMtfzdaNJWwLKeLFK5JzeTsN",
   "tracks": [
     {
       "added_at": "2026-09-03 17:06:06",
@@ -92,24 +92,24 @@
           "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
         },
         {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
           "name": "DJ Dael",
           "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        },
-        {
-          "name": "DJ JO\u00c3O PEREIRA",
-          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
         },
         {
           "name": "G.A",
           "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
         },
         {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        },
+        {
           "name": "Galdino",
           "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
       "duration_ms": 243692,

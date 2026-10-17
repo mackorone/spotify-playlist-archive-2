@@ -1,13 +1,317 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: The Tallest Man On Earth",
-  "num_followers": 166026,
+  "description": "A laid-back trip in the folk scene. Cover: Andy Shauf",
+  "num_followers": 166024,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAuDIBBCs4xBkUnLygGU9r7FxbmH",
+  "snapshot_id": "AAAAABDvqutNVSt8bM81j7k9UT59Bt7z",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "the afterparty",
+        "url": "https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 167820,
+      "name": "angela the traveller",
+      "url": "https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Natural Law",
+        "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 147346,
+      "name": "Natural Law (ft. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/3j2lqvYUUnQZ0GgkoGS4JD"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 153758,
+      "name": "33",
+      "url": "https://open.spotify.com/track/5rP1SqAtnoMHU655knRdlA"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Felice County Fair (A Celebration of The Felice Brothers)",
+        "url": "https://open.spotify.com/album/3KzKglgUmogktIg1YLo82f"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Felice County Fair",
+          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "Life In The Dark",
+      "url": "https://open.spotify.com/track/3nPe8kguVhPkgApTQrxC71"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Best of Our Possible Lives (Deluxe)",
+        "url": "https://open.spotify.com/album/6ituIIPw3mOlIOnS0Zndgm"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        },
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Fell In Love (Couldn't Get Out)",
+      "url": "https://open.spotify.com/track/2LT0EEkdCg1GFXbTKtz3Ci"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "The Underworld",
+        "url": "https://open.spotify.com/album/3pelB3xfhorcKEPpSc27jM"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 361040,
+      "name": "the weight",
+      "url": "https://open.spotify.com/track/4TVeDcIxXMR46zcnA2ArKo"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "laundry song",
+        "url": "https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 227541,
+      "name": "laundry song",
+      "url": "https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/5OaytXrSOsk0oVf39MhehV"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        },
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 177340,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/2aoz4H7U7N61pbbifzXHOj"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "It Was My First Time",
+        "url": "https://open.spotify.com/album/6EhUzjYXlfFVT3lPXrosPy"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 181977,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/1a1YmkR6iJeTXUS4hx1kmJ"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Spencer Burton",
+        "url": "https://open.spotify.com/album/4NT5oFSJ4o4OyhF6m60MkH"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+        }
+      ],
+      "duration_ms": 299743,
+      "name": "I Need a Song",
+      "url": "https://open.spotify.com/track/07iHDLOYUGabXgYLfdgDOl"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Red Label Bourbon",
+        "url": "https://open.spotify.com/album/6LdHmCluKasIiEE2VPBCIN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "duration_ms": 166019,
+      "name": "Red Label Bourbon",
+      "url": "https://open.spotify.com/track/6NbVCqFJnnIrKJkHKMO0B5"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Georgia Peaches",
+        "url": "https://open.spotify.com/album/4HbxD1phmD6CSrw4f0m5Ga"
+      },
+      "artists": [
+        {
+          "name": "The Bankes Brothers",
+          "url": "https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o"
+        }
+      ],
+      "duration_ms": 177803,
+      "name": "Georgia Peaches",
+      "url": "https://open.spotify.com/track/4WUe6xp2s6MXQWRQyNOxFB"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "We Both Care",
+        "url": "https://open.spotify.com/album/3ATMs8puzPxt5ecEXlpqZe"
+      },
+      "artists": [
+        {
+          "name": "Ten Kills the Pack",
+          "url": "https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l"
+        }
+      ],
+      "duration_ms": 217035,
+      "name": "We Both Care",
+      "url": "https://open.spotify.com/track/1IXIgmdRsJGKNOfkOr1vlM"
+    },
+    {
+      "added_at": "2026-10-09 04:03:52",
+      "album": {
+        "name": "Black Cloud",
+        "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 269653,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "duration_ms": 237946,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX"
+    },
+    {
+      "added_at": "2026-10-09 04:03:52",
+      "album": {
+        "name": "In The Silver Wire Up The Hill",
+        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "In The Silver Wire Up The Hill",
+      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
+    },
+    {
+      "added_at": "2026-10-16 04:03:26",
+      "album": {
+        "name": "Loop-de-Loop",
+        "url": "https://open.spotify.com/album/2VgjU3J1Vpl4KHri8x4OgD"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Loop-de-Loop",
+      "url": "https://open.spotify.com/track/1bgo7b0IZzjN1OIpAawaFf"
+    },
     {
       "added_at": "2026-10-09 04:03:52",
       "album": {
@@ -71,38 +375,6 @@
       "duration_ms": 186468,
       "name": "Postcard",
       "url": "https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D"
-    },
-    {
-      "added_at": "2026-10-09 04:03:52",
-      "album": {
-        "name": "In The Silver Wire Up The Hill",
-        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "In The Silver Wire Up The Hill",
-      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
-    },
-    {
-      "added_at": "2026-10-09 04:03:52",
-      "album": {
-        "name": "Black Cloud",
-        "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 269653,
-      "name": "Black Cloud",
-      "url": "https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v"
     },
     {
       "added_at": "2026-10-09 04:03:52",
@@ -2207,262 +2479,6 @@
       "duration_ms": 207261,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4ybLYvD4DIYmjgublEgas1"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "Three Reds",
-        "url": "https://open.spotify.com/album/1TORmjib416bF532Zsd0rL"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Three Reds",
-      "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "Hardtiming",
-        "url": "https://open.spotify.com/album/0SLmcPVYG2IyuA0qJPdBWm"
-      },
-      "artists": [
-        {
-          "name": "Scott Orr",
-          "url": "https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1"
-        }
-      ],
-      "duration_ms": 212317,
-      "name": "Hardtiming",
-      "url": "https://open.spotify.com/track/0Tiza6pFtosFXkQPw7GrFK"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "Big World",
-        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "What I Had",
-      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "Sorry, Kid",
-        "url": "https://open.spotify.com/album/2BYdFpwcIUWLQCcVgFTtrK"
-      },
-      "artists": [
-        {
-          "name": "Johanna Samuels",
-          "url": "https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 206997,
-      "name": "Rare (The Runner Song)",
-      "url": "https://open.spotify.com/track/2LXFWcV15XY5QfGFgTpVbu"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "the evergreen, the birch",
-        "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        },
-        {
-          "name": "MEGGO",
-          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "the evergreen, the birch",
-      "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "Tracking the Tropics",
-        "url": "https://open.spotify.com/album/4LlZw9oTyPzf0B9znBLizF"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 241185,
-      "name": "Tracking the Tropics",
-      "url": "https://open.spotify.com/track/08VqSre55py2u3WlYSg1Ix"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "Brace for Impact",
-        "url": "https://open.spotify.com/album/5lFVhnQha0G8jPBMxLGrdZ"
-      },
-      "artists": [
-        {
-          "name": "yeemz",
-          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
-        }
-      ],
-      "duration_ms": 171085,
-      "name": "Brace for Impact",
-      "url": "https://open.spotify.com/track/4m5h9O9nUCg5njX8tC344q"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5IjXFTsyhZlequxisljKhi"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 226072,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0e2LldrTup4Mw01aFolhgp"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "How To Make A Cowboy",
-        "url": "https://open.spotify.com/album/4x6KlybMIeAVflLNpDSbOB"
-      },
-      "artists": [
-        {
-          "name": "Fleeland",
-          "url": "https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4"
-        }
-      ],
-      "duration_ms": 227230,
-      "name": "How To Make A Cowboy",
-      "url": "https://open.spotify.com/track/5LQb0bP59Mnn79Pg5kUFbm"
-    },
-    {
-      "added_at": "2026-08-14 04:03:34",
-      "album": {
-        "name": "For The Boys",
-        "url": "https://open.spotify.com/album/4LLlQtvQNtrVM7sMRLrSGi"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "For The Boys",
-      "url": "https://open.spotify.com/track/0S2pDnQzdCmDxHKOIh5taS"
-    },
-    {
-      "added_at": "2026-08-07 04:03:07",
-      "album": {
-        "name": "Trying to Love You",
-        "url": "https://open.spotify.com/album/0EkpTvE8v9vackhs5lxMXk"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 290141,
-      "name": "Trying to Love You",
-      "url": "https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ"
-    },
-    {
-      "added_at": "2026-08-07 04:03:07",
-      "album": {
-        "name": "Her Eyes Dart Round",
-        "url": "https://open.spotify.com/album/4d1Bz3PslXUTI4ofL2VqC1"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        },
-        {
-          "name": "Felice County Fair",
-          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
-        }
-      ],
-      "duration_ms": 173024,
-      "name": "Her Eyes Dart Round",
-      "url": "https://open.spotify.com/track/19usgOmcdzZMRx5XKJZlmV"
-    },
-    {
-      "added_at": "2026-08-07 04:03:07",
-      "album": {
-        "name": "Second Song",
-        "url": "https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "neil young and the chrome hearts",
-          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
-        }
-      ],
-      "duration_ms": 675476,
-      "name": "Second Song",
-      "url": "https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z"
-    },
-    {
-      "added_at": "2026-08-07 04:03:07",
-      "album": {
-        "name": "Old-Fashioned Love Song",
-        "url": "https://open.spotify.com/album/5SnS6yKukeKSU2jbXgt92C"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 264125,
-      "name": "Old-Fashioned Love Song",
-      "url": "https://open.spotify.com/track/5UFbRkSIHF5ONf7iibz4pr"
     }
   ],
   "unique_name": "Folk & Friends",

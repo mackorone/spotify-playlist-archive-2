@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Shenseea
+> A melting pot of Caribbean culture\. Cover: Damian Marley and 450
 
-385 songs - 18 hr 53 min
+387 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Gogo](https://open.spotify.com/track/1bDaEMD1EmC3xQoSq0Hfce) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Gogo](https://open.spotify.com/album/0KQRMSiOnN7TGZDAqQinYD) | 2:36 | 2024-08-29 |  |
 | [Good Good](https://open.spotify.com/track/69xsImgaWVgZ4fiCo1rkBf) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Good Good](https://open.spotify.com/album/4L5VT0M3x3erBVmtaFVqDF) | 3:16 | 2026-04-17 | 2026-05-23 |
 | [Good Like Jesus](https://open.spotify.com/track/06HHRkb1vkskeKJZq4nNpB) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Good Like Jesus](https://open.spotify.com/album/4rB4Zu1eQrb3MZybj0Uu6a) | 2:40 | 2024-11-08 | 2024-12-07 |
+| [Good Morning](https://open.spotify.com/track/6RcqkNnsyQqRLdzzG7kUa6) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Good Morning](https://open.spotify.com/album/0UGOA85TuPg24d7uhn5CFK) | 3:26 | 2026-10-16 |  |
 | [Grimey](https://open.spotify.com/track/7pFPV349uEN6BQ0BxC94im) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Grimey](https://open.spotify.com/album/2Essm8ZknWrj3hHmEf6hjb) | 3:17 | 2025-01-17 | 2025-05-24 |
 | [Guapi](https://open.spotify.com/track/3yNI1o1FqHkiIU62tS31qj) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Guapi](https://open.spotify.com/album/2vEIpqj9zZiX9HNqUQLuv8) | 2:39 | 2025-11-21 | 2026-04-18 |
 | [Gunman](https://open.spotify.com/track/0ba0O7H3njLImm5DnsQHa1) | [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO), [Titony](https://open.spotify.com/artist/2WjhbZMqCfot1f3ZgLQBmy) | [Breakfast Titony](https://open.spotify.com/album/3UDW06GEOGJy676HBKQklU) | 1:57 | 2025-02-14 | 2025-03-29 |
@@ -375,6 +376,7 @@
 | [What If](https://open.spotify.com/track/0IJ7vYRyxKcf3Zeszr04Mk) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [What If](https://open.spotify.com/album/08p4g5egk6GyGq0FCquNFH) | 2:46 | 2024-08-29 | 2025-04-26 |
 | [What It Feels Like](https://open.spotify.com/track/2v1amskPjMOOAZZc1VGPoT) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [What It Feels Like](https://open.spotify.com/album/0DqMZ3ToWJsTs5z8QcJVvc) | 3:09 | 2026-07-24 | 2026-08-15 |
 | [What's Up \(Big Buddy\)](https://open.spotify.com/track/2Zqi4KB2Wl0Luxwwx4qEM7) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [What's Up \(Big Buddy\)](https://open.spotify.com/album/2Mee0OzBr15EoIr0CYuwwh) | 2:21 | 2024-08-29 |  |
+| [Whats Cooking](https://open.spotify.com/track/3tMNvdILDjed3fvB6bcco8) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [Whats Cooking](https://open.spotify.com/album/0C8lltfUhcZLe21p9KRycd) | 2:28 | 2026-10-16 |  |
 | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx) | 3:03 | 2024-09-27 |  |
 | [Where We Come From](https://open.spotify.com/track/4Oiznv60jL110BFPEZ3Ax0) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Where We Come From](https://open.spotify.com/album/15CGM23XyqTGaY1iUhDnDr) | 3:23 | 2024-10-25 | 2025-10-25 |
 | [Whites](https://open.spotify.com/track/4Sf6Kt4Tnskbszxl7hui7t) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Whites](https://open.spotify.com/album/1g3G2ljyw7q8TvEG6FsQMR) | 4:28 | 2024-12-02 | 2025-03-01 |

@@ -2557,6 +2557,32 @@
     },
     {
       "album": {
+        "name": "Rachmaninov: Symphony No. 3, Op. 44 & Symphonic Dances, Op. 45",
+        "url": "https://open.spotify.com/album/6LhWVjc5ewUqeCBxf6phcA"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        },
+        {
+          "name": "Saint Petersburg Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1Xw28dK9PzkDagTyuRRnGd"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 736133,
+      "name": "Rachmaninov: Symphony No. 3 in A Minor, Op. 44: II. Adagio ma non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/5kxD327PkM5ygRe1Dl22cr"
+    },
+    {
+      "album": {
         "name": "Rachmaninov:Symphony No.3, Op.44 & Symphonic Dances, Op.45",
         "url": "https://open.spotify.com/album/3HohDIVIzjymarLEzlNXYo"
       },
@@ -2580,32 +2606,6 @@
       "duration_ms": 736133,
       "name": "Rachmaninov: Symphony No. 3 in A Minor, Op. 44: II. Adagio ma non troppo - Allegro vivace",
       "url": "https://open.spotify.com/track/1D8thP6LFqcJjE9e1WK9HF"
-    },
-    {
-      "album": {
-        "name": "Rachmaninov: Symphony No. 3, Op. 44 & Symphonic Dances, Op. 45",
-        "url": "https://open.spotify.com/album/6LhWVjc5ewUqeCBxf6phcA"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Mariss Jansons",
-          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
-        },
-        {
-          "name": "St. Petersburg Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1Xw28dK9PzkDagTyuRRnGd"
-        }
-      ],
-      "date_added": "2022-06-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 736133,
-      "name": "Rachmaninov: Symphony No. 3 in A Minor, Op. 44: II. Adagio ma non troppo - Allegro vivace",
-      "url": "https://open.spotify.com/track/5kxD327PkM5ygRe1Dl22cr"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: El Malilla",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Dei V",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 180474,
       "name": "$TRIP CLUB",
       "url": "https://open.spotify.com/track/0ozQRe0Z4dcvcXLxE3k3iw"
+    },
+    {
+      "album": {
+        "name": "+ DELOMISMO",
+        "url": "https://open.spotify.com/album/7wdaGsbjSI5Jc4H81ScIVA"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "+ DELOMISMO",
+      "url": "https://open.spotify.com/track/2nfPnlcI5VDcZko1cO4Jof"
     },
     {
       "album": {
@@ -2917,6 +2935,28 @@
     },
     {
       "album": {
+        "name": "Flavorz Pack",
+        "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218059,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
+    },
+    {
+      "album": {
         "name": "FX De La Rose",
         "url": "https://open.spotify.com/album/5axCFUuprKXWFT1zpbv4sQ"
       },
@@ -5566,6 +5606,28 @@
       "duration_ms": 213913,
       "name": "Banda",
       "url": "https://open.spotify.com/track/0TXnPOsRZQIFjPkzyKMFXv"
+    },
+    {
+      "album": {
+        "name": "BANDI",
+        "url": "https://open.spotify.com/album/08f1ub3WpFtiP8IBjuYgTk"
+      },
+      "artists": [
+        {
+          "name": "Rowma",
+          "url": "https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO"
+        },
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "BANDI",
+      "url": "https://open.spotify.com/track/2x8Cjn0GsBxqD40F5qPZJT"
     },
     {
       "album": {
@@ -12415,6 +12477,28 @@
     },
     {
       "album": {
+        "name": "Cuerpo Bendito",
+        "url": "https://open.spotify.com/album/2uzp4TH0xAjRhfHi8pqE2B"
+      },
+      "artists": [
+        {
+          "name": "Young Fatty",
+          "url": "https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184001,
+      "name": "Cuerpo Bendito",
+      "url": "https://open.spotify.com/track/2w9m7aQFXdLd86Xj8hyzqL"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY"
       },
@@ -14252,7 +14336,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 167744,
       "name": "Diecis\u00e9is",
       "url": "https://open.spotify.com/track/2EaHGQWhvw5GWV1cEKBGoE"
@@ -20210,7 +20294,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 173076,
       "name": "Fumeteo",
       "url": "https://open.spotify.com/track/2ReJVtPeflFcSBOCImS4To"
@@ -20334,7 +20418,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172688,
       "name": "G. Cat\u00e1n",
       "url": "https://open.spotify.com/track/1cnc9DZ57KLgAKa8jX4xMd"
@@ -22526,7 +22610,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166812,
       "name": "Hag\u00e1moslo Real",
       "url": "https://open.spotify.com/track/0DPWsdqgw4BXDc7QV5xLYV"
@@ -29992,7 +30076,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 299294,
       "name": "MANIQUI",
       "url": "https://open.spotify.com/track/6qIbGiz1Ud1IPHJuWouN4I"
@@ -33326,6 +33410,28 @@
       "duration_ms": 161688,
       "name": "MitiMiti",
       "url": "https://open.spotify.com/track/6Lqk2agSo3egimB2BOFC4d"
+    },
+    {
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/2mYOmFVZM3TiNP3dQKiXXw"
+      },
+      "artists": [
+        {
+          "name": "J Castle",
+          "url": "https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk"
+        },
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/5RWGLnu3d48nz6quRe3d3W"
     },
     {
       "album": {
@@ -40104,7 +40210,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 189417,
       "name": "pedazos de mi",
       "url": "https://open.spotify.com/track/076uPUEVkZlwGQf2PNBcLq"
@@ -40122,6 +40228,10 @@
         {
           "name": "THE FAVORITES",
           "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
         }
       ],
       "date_added": "2026-10-02",
@@ -41451,6 +41561,46 @@
     },
     {
       "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "PLATO TIPICO",
+      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
+    },
+    {
+      "album": {
+        "name": "Romances de una Nota III",
+        "url": "https://open.spotify.com/album/7G4CsythEr76ea95ddbDW5"
+      },
+      "artists": [
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/6SmfDs3qjuAdKurpM1Nkdl"
+    },
+    {
+      "album": {
         "name": "Playa Sola",
         "url": "https://open.spotify.com/album/5rx9nKzhq4RckTVsi2vcTt"
       },
@@ -41878,7 +42028,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 161739,
       "name": "Ponte",
       "url": "https://open.spotify.com/track/3UceAWztKeghzo6ni26N8v"
@@ -48872,7 +49022,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 195555,
       "name": "SOL",
       "url": "https://open.spotify.com/track/6oqCOoKkBPYDZa7s2C0cuT"
@@ -48938,6 +49088,36 @@
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
+    },
+    {
+      "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/3E7TLBN3xfO6B7ZShNLRYS"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298223,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/54OdBCAa1KXJDP1uuCaTQT"
     },
     {
       "album": {

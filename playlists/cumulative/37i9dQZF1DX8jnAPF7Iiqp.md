@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-407 songs - 1 day 0 hr 10 min
+408 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Feel The Vibration](https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Feel The Vibration](https://open.spotify.com/album/4L2BjQY9sslyCYkcF8CsS0) | 3:21 | 2025-10-09 | 2026-07-02 |
 | [Feelin' This Way](https://open.spotify.com/track/5INHtXHAYKhHurNAM2DMjT) | [Brookes Brothers](https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6), [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG) | [Feelin' This Way](https://open.spotify.com/album/4Yz7yqvMw1zmB6vjj1hce8) | 4:30 | 2026-08-20 |  |
 | [Feels Like](https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Feels Like](https://open.spotify.com/album/4tXty4RLKNyDH0ltilC9jJ) | 3:23 | 2022-07-05 | 2022-08-17 |
-| [Fever Thoughts](https://open.spotify.com/track/4lZRBPSSYSsM1ab0bRLfGf) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Fever Thoughts](https://open.spotify.com/album/7D9lretg5Ms82Zjsogyw6W) | 3:31 | 2026-08-20 |  |
+| [Fever Thoughts](https://open.spotify.com/track/4lZRBPSSYSsM1ab0bRLfGf) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Fever Thoughts](https://open.spotify.com/album/7D9lretg5Ms82Zjsogyw6W) | 3:31 | 2026-08-20 | 2026-10-17 |
 | [Fire & Water \(feat\. Marianna Ray\)](https://open.spotify.com/track/3hv6PwiE4VGEaipmDuepdV) | [Junk Mail](https://open.spotify.com/artist/6wVoaI7lR9EKl2xBjt92x8), [Marianna Ray](https://open.spotify.com/artist/0PyV4VBxPsxRmInWJWxqkm) | [Fire & Water \(feat\. Marianna Ray\)](https://open.spotify.com/album/0BdohkF1N7ZaItAWMHlxVE) | 4:30 | 2021-12-21 | 2022-07-27 |
 | [First To Go \- Edlan Remix](https://open.spotify.com/track/4YDgz9iDzgs8FC47XwSyjP) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Edlan](https://open.spotify.com/artist/0kmYD4ijzuztxYkzJBbQQa), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [First To Go \(Edlan Remix\)](https://open.spotify.com/album/32giDCk4nvQK3QAWNnSFJ4) | 4:57 | 2021-12-21 | 2022-07-28 |
 | [Flip the Narrative](https://open.spotify.com/track/4MofxvuNdf1MTSi33NBDUw) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Flip the Narrative](https://open.spotify.com/album/3mhsiCN7eYCaCZoabi3zjW) | 5:27 | 2021-12-21 | 2022-07-20 |
@@ -204,6 +204,7 @@
 | [Know What It Means](https://open.spotify.com/track/0RQuLXr0cWjAombfMjdvc3) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/3IexPXzS8noVX2EpbQx5Ds) | 2:40 | 2023-04-11 | 2023-05-02 |
 | [Know What It Means](https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d) | 2:40 | 2023-04-11 | 2024-02-23 |
 | [Le Retour](https://open.spotify.com/track/4GTiaWj1zkQktmEBcdzc2x) | [Kove](https://open.spotify.com/artist/4cxzGdmQtUZJL1WYOdFQ5F) | [Le Retour \[UKF10 x Drum&BassArena\]](https://open.spotify.com/album/70ckmQgbUvWchdDTZJEo7A) | 4:10 | 2021-12-21 | 2022-07-22 |
+| [Legit](https://open.spotify.com/track/2wNNglZs6fWPNZjyOwATos) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX), [OKO UK](https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV) | [Legit](https://open.spotify.com/album/0Loed09SSf2Yz9hmbuE3UZ) | 3:01 | 2026-08-20 |  |
 | [Less Than Zero](https://open.spotify.com/track/4zjeq511EOtrdEYaedTfFc) | [Missing](https://open.spotify.com/artist/4B9sESZ5Lzsln4KM71YWf1), [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug), [Heidi Vogel](https://open.spotify.com/artist/5H6KAuCOwgEpQXx6WKYCcN) | [Brighter Now EP](https://open.spotify.com/album/5qcutD5yTDics4SDtHYDoE) | 4:31 | 2022-07-05 | 2022-07-11 |
 | [Let It Go \(feat\. Shapes\)](https://open.spotify.com/track/280gb8mXCUDCvFQzmthd6g) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Let It Go \(feat\. Shapes\)](https://open.spotify.com/album/4075cfIWOb7hrh9SxbMPrY) | 3:02 | 2024-06-14 | 2024-11-15 |
 | [Let You Go](https://open.spotify.com/track/5arVVJKESEOMXqJ41QUcVl) | [Genetics](https://open.spotify.com/artist/2TtirRFdqoWG9avOqFKGWI) | [Let You Go](https://open.spotify.com/album/3NZAZ01r9Lg2J35gWVEnCC) | 5:18 | 2021-12-21 | 2022-07-29 |

@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 101 | [Honky Tonk Christmas](https://open.spotify.com/track/6sSzHqqEYj3iHbCckchnxi) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Honky Tonk Christmas](https://open.spotify.com/album/5kIfAEfAWBYRKHnhLS6ise) | 2:52 |
 | 102 | [Milk and Cookies \('till Santa's Gone\)](https://open.spotify.com/track/2Ocrrp9yiHYy08Qw0Ht4eo) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [The Clint Black Christmas Collection](https://open.spotify.com/album/2F1CtdI1ERhG5Sufzevk3l) | 2:41 |
 
-Snapshot ID: `AAAAAHFKRi5m5rjT90+u5lFEYuOKXJo9`
+Snapshot ID: `AAAAADprD0lp2KrSY0DH+VKwlaIsH/cC`

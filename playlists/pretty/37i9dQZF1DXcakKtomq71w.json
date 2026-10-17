@@ -1,92 +1,68 @@
 {
   "description": "<a href=\"spotify:artist:3UlAQex8nw3vquHcmY8fpb\">Sinego's</a> favorite tracks. Updated regularly. Curated by Sinego. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 35661,
+  "num_followers": 35668,
   "original_name": "Sinego's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbLeM+U0Hv/T+pxroRXQK3HwEz5",
+  "snapshot_id": "AAAAAOpSq2eZErySWXZg5wQegooulCjm",
   "tracks": [
+    {
+      "added_at": "2026-10-16 14:36:54",
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT"
+    },
+    {
+      "added_at": "2026-10-16 14:36:54",
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/0Z5gOunIQgtYnte0ZL3I1b"
+      },
+      "artists": [
+        {
+          "name": "Miguelle & Tons",
+          "url": "https://open.spotify.com/artist/1U7nDI6jydkqHWaOtUdlkx"
+        },
+        {
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        }
+      ],
+      "duration_ms": 264843,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/5YobNdB3ydXAXKxFjZdKXJ"
+    },
     {
       "added_at": "2026-08-17 16:27:36",
       "album": {
-        "name": "Flotando",
-        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
+        "name": "Alterego (Deluxe)",
+        "url": "https://open.spotify.com/album/6jOdwUUp5v7JGEr8IhbMMJ"
       },
       "artists": [
         {
           "name": "Sinego",
           "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
         }
       ],
-      "duration_ms": 235795,
-      "name": "Flotando",
-      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/3UFSz2Y1CXg9QskndC7Ep7"
-      },
-      "artists": [
-        {
-          "name": "D.J.S.",
-          "url": "https://open.spotify.com/artist/3tbuFxkU3aZ2pH8n6Z5M6o"
-        },
-        {
-          "name": "Jay Fase",
-          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
-        },
-        {
-          "name": "Dymos & Shizzo",
-          "url": "https://open.spotify.com/artist/7owJmPvRxNxReTkZV4s40k"
-        }
-      ],
-      "duration_ms": 201355,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3sp3iWWeTYNCN0at7qtW74"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/1FNDBQA8vCw775bm5BrVLb"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/5EJ6xAvHPJmPqmgxDzIEwK"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/5gPQStZ112bHjLB4Gx4JFj"
-      },
-      "artists": [
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Kingstarlight",
-          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
-        }
-      ],
-      "duration_ms": 196096,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1gp6J1CXS73DDYmSop5UfS"
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/0Iiz1SRKpK99qdUvPiiVgu"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -129,20 +105,20 @@
       "url": "https://open.spotify.com/track/7gjdw7zbEnF9gdlpl1IKxO"
     },
     {
-      "added_at": "2026-08-17 16:27:36",
+      "added_at": "2026-10-16 14:36:54",
       "album": {
-        "name": "Alterego (Deluxe)",
-        "url": "https://open.spotify.com/album/6jOdwUUp5v7JGEr8IhbMMJ"
+        "name": "Offcuts",
+        "url": "https://open.spotify.com/album/4bFMPj86EIvOKaWeL1jRjO"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Benjam\u00edn Carri\u00f3n",
-      "url": "https://open.spotify.com/track/0Iiz1SRKpK99qdUvPiiVgu"
+      "duration_ms": 219428,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/1rGf62MjPoGOUyiwyLbcEC"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -159,6 +135,66 @@
       "duration_ms": 281379,
       "name": "This Way",
       "url": "https://open.spotify.com/track/5DjKYHA5HKdwJylVBPprQU"
+    },
+    {
+      "added_at": "2026-08-17 16:27:36",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3UFSz2Y1CXg9QskndC7Ep7"
+      },
+      "artists": [
+        {
+          "name": "D.J.S.",
+          "url": "https://open.spotify.com/artist/3tbuFxkU3aZ2pH8n6Z5M6o"
+        },
+        {
+          "name": "Jay Fase",
+          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
+        },
+        {
+          "name": "Dymos & Shizzo",
+          "url": "https://open.spotify.com/artist/7owJmPvRxNxReTkZV4s40k"
+        }
+      ],
+      "duration_ms": 201355,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3sp3iWWeTYNCN0at7qtW74"
+    },
+    {
+      "added_at": "2026-08-17 16:27:36",
+      "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 235795,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
+    },
+    {
+      "added_at": "2026-10-16 14:36:54",
+      "album": {
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/6Pjs7yNBDDgQZlFiapErTL"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -223,42 +259,6 @@
     {
       "added_at": "2026-08-17 16:27:36",
       "album": {
-        "name": "Massako",
-        "url": "https://open.spotify.com/album/4jugnC3t0VJuScQveV9Ds7"
-      },
-      "artists": [
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        }
-      ],
-      "duration_ms": 249249,
-      "name": "Massako",
-      "url": "https://open.spotify.com/track/54fo79hH3GjbWjW3zdhpLY"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
-        "name": "El Mar (parece roto)",
-        "url": "https://open.spotify.com/album/4eoIU0UKHbJNbBbOpEp3aO"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Laguna",
-          "url": "https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1"
-        }
-      ],
-      "duration_ms": 362134,
-      "name": "El Mar (parece roto)",
-      "url": "https://open.spotify.com/track/0ARduJZzHGefGVwvbmaWFe"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 179495,
       "name": "Atirou - Original Mix",
       "url": "https://open.spotify.com/track/7cI1kdr4wyJdxN9lLZxwOx"
+    },
+    {
+      "added_at": "2026-10-16 14:36:54",
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/5GUpwgodJTG9dGZW84eITd"
+      },
+      "artists": [
+        {
+          "name": "Jay Fase",
+          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/35cDNhnXah82OKiY5jdgdI"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -407,6 +423,22 @@
     {
       "added_at": "2026-08-17 16:27:36",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/1FNDBQA8vCw775bm5BrVLb"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/5EJ6xAvHPJmPqmgxDzIEwK"
+    },
+    {
+      "added_at": "2026-08-17 16:27:36",
+      "album": {
         "name": "El Ritmo (La Noche) (Xinobi Remix)",
         "url": "https://open.spotify.com/album/4UtfPOsiK9TZ9pVtoJGhXG"
       },
@@ -427,6 +459,26 @@
       "duration_ms": 318912,
       "name": "El Ritmo (La Noche) (Xinobi Remix)",
       "url": "https://open.spotify.com/track/5G8ucMkM4wsJzuvZLszfqx"
+    },
+    {
+      "added_at": "2026-10-16 14:36:54",
+      "album": {
+        "name": "Indigo Seat (Viken Arman Remix)",
+        "url": "https://open.spotify.com/album/2qO7HMnHxZCR5ndmIBvdCk"
+      },
+      "artists": [
+        {
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+        },
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "duration_ms": 461562,
+      "name": "Indigo Seat - Viken Arman Remix",
+      "url": "https://open.spotify.com/track/0bOmdhkHHfYBiTjPaEexwR"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -503,6 +555,26 @@
       "duration_ms": 175081,
       "name": "El Jefe",
       "url": "https://open.spotify.com/track/6kJhHky6m9VtOX2DOjSvpL"
+    },
+    {
+      "added_at": "2026-10-16 14:36:54",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6TsmZegxeqPRBYUfrq5ewQ"
+      },
+      "artists": [
+        {
+          "name": "Fiona Kraft",
+          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
+        },
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/6qmWTcuqdLwgCrMe3C3o98"
+        }
+      ],
+      "duration_ms": 256301,
+      "name": "Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/5WezdG7WCZItkbQlUN0o2f"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -609,28 +681,20 @@
       "url": "https://open.spotify.com/track/7ogSgVXefTQwOS11q9f6Et"
     },
     {
-      "added_at": "2026-08-17 16:27:36",
+      "added_at": "2026-10-16 14:36:54",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/7IwEQsGm8jQ5F6YMA9mLxZ"
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
       },
       "artists": [
         {
-          "name": "AWEN",
-          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
-        },
-        {
-          "name": "D4NYO",
-          "url": "https://open.spotify.com/artist/6i78SJT2qUALxC41EGyIwv"
-        },
-        {
-          "name": "Daniel Rateuke",
-          "url": "https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 209512,
-      "name": "Hustler",
-      "url": "https://open.spotify.com/track/505V8I63QiIHDkpjHHBnUd"
+      "duration_ms": 278000,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/28I9vIiZWeEox4NccEgwKR"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -715,34 +779,6 @@
     {
       "added_at": "2026-08-17 16:27:36",
       "album": {
-        "name": "Give It Up",
-        "url": "https://open.spotify.com/album/0cdhR6qRuZME7Na4js2OuI"
-      },
-      "artists": [
-        {
-          "name": "The Good Men",
-          "url": "https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX"
-        },
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "Khenya",
-          "url": "https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8"
-        },
-        {
-          "name": "Chocolate Puma",
-          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
-        }
-      ],
-      "duration_ms": 174869,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/2DCm64GpkkLNvovKPCQt73"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2KJMFeOH9GEM1EM1p9qHb7"
       },
@@ -805,64 +841,28 @@
       "url": "https://open.spotify.com/track/4UZindmHKTn1YdqixOUYGM"
     },
     {
-      "added_at": "2026-08-17 16:27:36",
+      "added_at": "2026-10-16 14:36:54",
       "album": {
-        "name": "Lump Records [Mediterranea] (DJ Mix)",
-        "url": "https://open.spotify.com/album/1vc5nqSacl8lduWOO9qKyM"
+        "name": "Salaam (Francis Mercier Remix)",
+        "url": "https://open.spotify.com/album/1wQUECOcBHdaW7zLFSJaKV"
       },
       "artists": [
         {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 312772,
-      "name": "Shamma - Mixed",
-      "url": "https://open.spotify.com/track/2hurzetg6nqmPIFq6xZGGm"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
-        "name": "Believe In Us",
-        "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
-      },
-      "artists": [
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        },
         {
           "name": "Francis Mercier",
           "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
-        },
-        {
-          "name": "Neyl",
-          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
-        },
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 188852,
-      "name": "Believe In Us",
-      "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
-        "name": "You're a Star",
-        "url": "https://open.spotify.com/album/350A5du2DM13luw7uLfJmU"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 268743,
-      "name": "You're a Star",
-      "url": "https://open.spotify.com/track/2YbuRaVpUb5GUgYu4k0ZkZ"
+      "duration_ms": 223414,
+      "name": "Salaam - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/1egghObxtLj9DKvEA3souC"
     },
     {
       "added_at": "2026-08-17 16:27:36",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-08-17 16:27:36",
       "album": {
-        "name": "Unconditional (Xinobi Remix)",
-        "url": "https://open.spotify.com/album/7y7K9C6OsKluOGCzBMv2tK"
-      },
-      "artists": [
-        {
-          "name": "Sainte Vie",
-          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
-        },
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 242926,
-      "name": "Unconditional - Xinobi Remix",
-      "url": "https://open.spotify.com/track/5m4mnJ1lot8geJyIDHp2Ld"
-    },
-    {
-      "added_at": "2026-08-17 16:27:36",
-      "album": {
         "name": "I Cared For You (Remixes)",
         "url": "https://open.spotify.com/album/6q4c7paWmSehuZgYCuL1PG"
       },
@@ -973,20 +953,20 @@
       "url": "https://open.spotify.com/track/2c2KtRKoFja6BvY9f4QV3s"
     },
     {
-      "added_at": "2026-08-17 16:27:36",
+      "added_at": "2026-10-16 14:36:54",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/3o5xa0ZxSugbMwbQvihRr7"
+        "name": "Here Comes The Sun",
+        "url": "https://open.spotify.com/album/1m84e1Rhp6qX8ljClDpe9x"
       },
       "artists": [
         {
-          "name": "LYRONIQ",
-          "url": "https://open.spotify.com/artist/6noBW2v07LyKq1DU0KNqhA"
+          "name": "Khenya",
+          "url": "https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8"
         }
       ],
-      "duration_ms": 354000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/4EntXHsQVElqb7eo6WAa13"
+      "duration_ms": 209256,
+      "name": "Here Comes The Sun - Radio Edit",
+      "url": "https://open.spotify.com/track/15a0JVPWr5dqej4sygk2kv"
     }
   ],
   "unique_name": "Sinego's track IDs",

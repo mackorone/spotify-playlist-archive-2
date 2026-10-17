@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-547 songs - 1 day 9 hr 3 min
+549 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 | 2026-02-06 | 2026-07-25 |
 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 | 2022-11-25 | 2023-02-22 |
 | [how did they know](https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [how did they know](https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K) | 4:03 | 2025-08-07 | 2025-09-13 |
-| [How Many Days](https://open.spotify.com/track/0T2VUiQ3D1rcuUOrttAr07) | [Ella Lewis](https://open.spotify.com/artist/6wvqJlwBM26DWBLPaTXQKZ) | [How Many Days](https://open.spotify.com/album/5Lm8ZOhp3ZjaHAeQ0tKxcN) | 3:00 | 2026-09-17 |  |
+| [How Many Days](https://open.spotify.com/track/0T2VUiQ3D1rcuUOrttAr07) | [Ella Lewis](https://open.spotify.com/artist/6wvqJlwBM26DWBLPaTXQKZ) | [How Many Days](https://open.spotify.com/album/5Lm8ZOhp3ZjaHAeQ0tKxcN) | 3:00 | 2026-09-17 | 2026-10-17 |
 | [Hurts so Good](https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Hurts so Good](https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ) | 4:55 | 2023-05-25 | 2023-07-05 |
 | [HÂTE DE VIVRE](https://open.spotify.com/track/5WHBv4A7s71zPJEUBwh29v) | [Dajak](https://open.spotify.com/artist/4UzhGDGnyLajt5ZoeEciGh) | [SOLAR STEREO](https://open.spotify.com/album/63CNNQAFo5dLHPV70fU1ed) | 5:25 | 2026-07-23 |  |
 | [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 | 2024-04-15 |  |
@@ -427,6 +427,7 @@
 | [Shrike](https://open.spotify.com/track/3ieUtb4ecQgEYxae8dzEUi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:58 | 2024-04-15 |  |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-31 | 2023-09-09 |
 | [Silent Killer](https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lovebites](https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V) | 3:52 | 2026-05-21 | 2026-07-03 |
+| [Sing](https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Sing](https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS) | 6:11 | 2026-10-15 |  |
 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 | 2026-01-30 |  |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-11-25 | 2024-04-19 |
 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-02-08 | 2024-03-28 |
@@ -494,7 +495,7 @@
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-10 | 2026-07-25 |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:25 | 2023-01-11 | 2023-03-28 |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-14 | 2025-03-21 |
-| [Things I've done](https://open.spotify.com/track/160RtgEld3QWI5bHOSna6i) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Things I've done](https://open.spotify.com/album/3vSjGMxPRfNHvxe5h7rDnD) | 3:46 | 2026-10-15 |  |
+| [Things I've done](https://open.spotify.com/track/160RtgEld3QWI5bHOSna6i) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Things I've done](https://open.spotify.com/album/3vSjGMxPRfNHvxe5h7rDnD) | 3:46 | 2026-10-15 | 2026-10-17 |
 | [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 | 2025-03-14 | 2025-04-11 |
 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 | 2023-05-12 | 2023-07-05 |
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-01-23 | 2025-02-28 |
@@ -536,6 +537,7 @@
 | [what's good](https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough \(Deluxe\)](https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO) | 3:23 | 2025-11-06 | 2026-01-17 |
 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-10-17 |  |
 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 | 2022-11-25 | 2023-02-22 |
+| [Where Is Gone?](https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 5:16 | 2026-10-15 |  |
 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 | 2025-11-06 |  |
 | [Why Can't I Cry About It?](https://open.spotify.com/track/6jZUN3N3oDTuePPCVxpP3W) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Why Can't I Cry About It?](https://open.spotify.com/album/6LiaRWi95Dn6JMMGhs3zh0) | 2:44 | 2025-08-07 | 2025-08-31 |
 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 | 2025-03-14 | 2025-05-17 |

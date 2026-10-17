@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2181205,
+  "num_followers": 2181202,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWh/itSUE9kGOquVgdbZFnKSI4i",
+  "snapshot_id": "AAAAAFJJME2UDYlG4c802AJ8XJ0VPkYA",
   "tracks": [
     {
       "added_at": "2026-09-21 13:05:28",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Nearness Of You: The Ballad Book",
-        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Midnight Mood",
-      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 262545,
       "name": "Largo",
       "url": "https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Nearness Of You: The Ballad Book",
+        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Midnight Mood",
+      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Tango for One",
-        "url": "https://open.spotify.com/album/4NUENIWtAH1KL422uAhE5A"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 264248,
-      "name": "Tango for One",
-      "url": "https://open.spotify.com/track/66zKqUaMX5F445Ux0FRNwt"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Fainted Light",
         "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
       },
@@ -707,6 +691,38 @@
       "duration_ms": 407910,
       "name": "Fainted Light",
       "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Tango for One",
+        "url": "https://open.spotify.com/album/4NUENIWtAH1KL422uAhE5A"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 264248,
+      "name": "Tango for One",
+      "url": "https://open.spotify.com/track/66zKqUaMX5F445Ux0FRNwt"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -739,22 +755,6 @@
       "duration_ms": 168666,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 423813,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -999,6 +999,30 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski",
+          "url": "https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF"
+        },
+        {
+          "name": "Slawomir Kurkiewicz",
+          "url": "https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR"
+        },
+        {
+          "name": "Michal Miskiewicz",
+          "url": "https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT"
+        }
+      ],
+      "duration_ms": 329600,
+      "name": "Ballad Of The Sad Young Men",
+      "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Song To An Old Friend",
         "url": "https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 369293,
       "name": "Song To An Old Friend",
       "url": "https://open.spotify.com/track/456KdVK2lZh5ngKyxvFpfg"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski",
-          "url": "https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF"
-        },
-        {
-          "name": "Slawomir Kurkiewicz",
-          "url": "https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR"
-        },
-        {
-          "name": "Michal Miskiewicz",
-          "url": "https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT"
-        }
-      ],
-      "duration_ms": 329600,
-      "name": "Ballad Of The Sad Young Men",
-      "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "ARTEMIS",
-        "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
-      },
-      "artists": [
-        {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
-        }
-      ],
-      "duration_ms": 327379,
-      "name": "Nocturno",
-      "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Layers of Life",
         "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 286080,
       "name": "Lullaby in Green",
       "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "ARTEMIS",
+        "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 327379,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Precarious Towers",
-        "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
       },
       "artists": [
         {
-          "name": "Johannes Wallmann",
-          "url": "https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm"
-        },
-        {
-          "name": "Sharel Cassity",
-          "url": "https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs"
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
         }
       ],
-      "duration_ms": 284333,
-      "name": "Try To Remember",
-      "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
+      "duration_ms": 270896,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+        "name": "Precarious Towers",
+        "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
       },
       "artists": [
         {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+          "name": "Johannes Wallmann",
+          "url": "https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm"
+        },
+        {
+          "name": "Sharel Cassity",
+          "url": "https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs"
         }
       ],
-      "duration_ms": 270896,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
+      "duration_ms": 284333,
+      "name": "Try To Remember",
+      "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1559,18 +1559,26 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "The Past Is What Changes The Most",
-        "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
       },
       "artists": [
         {
-          "name": "Peace Flag Ensemble",
-          "url": "https://open.spotify.com/artist/3osiBkb0uSyLyMuWkWxjlU"
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "Par-Ola Landin",
+          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
+        },
+        {
+          "name": "Karl-Henrik Ousb\u00e4ck",
+          "url": "https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV"
         }
       ],
-      "duration_ms": 225206,
-      "name": "The Past Is What Changes The Most",
-      "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
+      "duration_ms": 379245,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1603,26 +1611,18 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Round Midnight",
-        "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
+        "name": "The Past Is What Changes The Most",
+        "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
       },
       "artists": [
         {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
-        },
-        {
-          "name": "Par-Ola Landin",
-          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
-        },
-        {
-          "name": "Karl-Henrik Ousb\u00e4ck",
-          "url": "https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV"
+          "name": "Peace Flag Ensemble",
+          "url": "https://open.spotify.com/artist/3osiBkb0uSyLyMuWkWxjlU"
         }
       ],
-      "duration_ms": 379245,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF"
+      "duration_ms": 225206,
+      "name": "The Past Is What Changes The Most",
+      "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Orange Sea",
-        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
-      },
-      "artists": [
-        {
-          "name": "Matthias Bublath",
-          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
-        }
-      ],
-      "duration_ms": 369060,
-      "name": "What Are You Doing for the Rest of Your Life",
-      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Broken Balance",
         "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 160999,
       "name": "Quiet Corner",
       "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Orange Sea",
+        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
+      },
+      "artists": [
+        {
+          "name": "Matthias Bublath",
+          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
+        }
+      ],
+      "duration_ms": 369060,
+      "name": "What Are You Doing for the Rest of Your Life",
+      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
-      },
-      "artists": [
-        {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 270508,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Abeyance",
-        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
-      },
-      "artists": [
-        {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
-        }
-      ],
-      "duration_ms": 414108,
-      "name": "Abeyance",
-      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Ledsen",
         "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 330120,
       "name": "Ledsen",
       "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Abeyance",
+        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 414108,
+      "name": "Abeyance",
+      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "The Deep",
-        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 176871,
-      "name": "Close Enough for Love",
-      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Love Letters (The Ballad Sessions)",
         "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 310182,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 176871,
+      "name": "Close Enough for Love",
+      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Semantics",
-        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rathbun",
-          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
-        }
-      ],
-      "duration_ms": 501106,
-      "name": "Old Ballad For Hawk",
-      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Secondo",
         "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 369564,
       "name": "Secondo",
       "url": "https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Semantics",
+        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rathbun",
+          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
+        }
+      ],
+      "duration_ms": 501106,
+      "name": "Old Ballad For Hawk",
+      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
     },
     {
       "added_at": "2026-09-21 13:05:28",

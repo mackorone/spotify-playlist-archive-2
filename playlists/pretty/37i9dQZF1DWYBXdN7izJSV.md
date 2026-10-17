@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,488 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,486 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 33 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
 | 34 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
 | 35 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
-| 36 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
-| 37 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
+| 36 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
+| 37 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 38 | [Conversation With The Devil](https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Crusades Of The Restless Knights](https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU) | 4:54 |
 | 39 | [New Orleans](https://open.spotify.com/track/30DrekKEh1G4jBkQlEfKQl) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR) | 3:31 |
 | 40 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 42 | [Everything Is Free](https://open.spotify.com/track/4hOGvEXmiu9LQcQSRM5dvn) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/5q1V1otgRVF39cZY2RQab8) | 4:47 |
 | 43 | [Drunken Angel](https://open.spotify.com/track/3plLbnUUKpf8BSXLiIqkPx) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:20 |
 | 44 | [It's Not You, It's Me](https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv) | [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [The Little Willies](https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw) | 2:43 |
-| 45 | [Nights Like These](https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A) | 3:55 |
-| 46 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
+| 45 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
+| 46 | [Nights Like These](https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A) | 3:55 |
 | 47 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
 | 48 | [Radio King](https://open.spotify.com/track/3C46CEeM0ltNQwOtPN8jRg) | [Golden Smog](https://open.spotify.com/artist/0BLh5cn4nqfqoVUREx3hLj) | [Down By The Old Mainstream](https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY) | 3:09 |
 | 49 | [Indianapolis](https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [24 Hours A Day](https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |
 | 75 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 
-Snapshot ID: `AAAAAAsCbafdo/qd54OSiiFfy/wrqQ0L`
+Snapshot ID: `AAAAAFWSxV5CQDRGjDyH/2O3WA3sp7j/`

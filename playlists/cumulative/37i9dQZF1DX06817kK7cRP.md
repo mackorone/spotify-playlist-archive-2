@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're focusing, studying or relaxing.
 
-296 songs - 12 hr 9 min
+298 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Chardonnay Kisses](https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd) | [G Bliz](https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Chardonnay Kisses](https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48) | 2:32 | 2023-01-13 | 2024-05-25 |
 | [Cherry Beach](https://open.spotify.com/track/1s9SHfXSkXGGCt5FRmPdmd) | [PRGMAT](https://open.spotify.com/artist/3n36M7jE1JSaZ5OXHdxo37) | [Cherry Beach](https://open.spotify.com/album/2BfhwrpcSXq99iMGeytEqw) | 2:57 | 2023-01-12 | 2023-01-18 |
 | [chrome](https://open.spotify.com/track/71hsXyvmjTahqj1eqP6tBw) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [chrome](https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL) | 2:15 | 2026-09-23 |  |
+| [ciempiés](https://open.spotify.com/track/1nvNlhc1uaZLHLOSZsd2Xy) | [maccina](https://open.spotify.com/artist/582TWba0yQUrl1cghoB51a) | [ciempiés](https://open.spotify.com/album/1LelFGrzA6ijQCnFCtnDKk) | 1:26 | 2026-10-16 |  |
 | [Circle Reflections](https://open.spotify.com/track/5FIxocSQFn74wY3rJHS7HC) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Circle Reflections](https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83) | 2:40 | 2024-08-23 | 2026-09-24 |
 | [Circles](https://open.spotify.com/track/3AN1XehfQNYZ1j0VUCezhU) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:05 | 2023-01-12 | 2026-05-27 |
 | [citynights](https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx) | [Ny Cic](https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9) | [citynights](https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF) | 2:14 | 2023-03-16 | 2025-02-22 |
@@ -144,6 +145,7 @@
 | [Late Nights & The Moon](https://open.spotify.com/track/7ClkEROkgQZjroYtEK4sPm) | [glowdayz](https://open.spotify.com/artist/3OL6ZKe15Zli8NicwAUEHF) | [Late Nights & The Moon](https://open.spotify.com/album/7qHioyqzRgi3YkY8Okmjyg) | 2:04 | 2024-06-07 | 2026-09-24 |
 | [Lava Lamp](https://open.spotify.com/track/1Zk4cXeXgFzRZRFxj9xqqc) | [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Lava Lamp](https://open.spotify.com/album/4uaf1d87TUIuyo60wU09WK) | 2:05 | 2026-09-23 |  |
 | [Lavanta](https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [When Every Leaf Is A Flower](https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ) | 2:03 | 2023-01-12 | 2026-09-24 |
+| [Lazy In The Hammock](https://open.spotify.com/track/5th2gDBLlxbjyl5pT4nUK7) | [YorBeatz](https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR) | [Lazy In The Hammock](https://open.spotify.com/album/6SWBwZPchGDycd8qj1utlO) | 2:45 | 2026-10-16 |  |
 | [Leafy Greens](https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Leafy Greens](https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt) | 2:40 | 2023-06-20 |  |
 | [Legacy](https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Legacy](https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p) | 1:56 | 2024-07-12 | 2026-05-27 |
 | [Levitation](https://open.spotify.com/track/317eNmnJ762BJIsfxIT6sO) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Levitation](https://open.spotify.com/album/2P6tjQhG0AMAD3lNm7GjMO) | 2:21 | 2025-02-21 | 2026-09-24 |
@@ -161,7 +163,7 @@
 | [Make it yours](https://open.spotify.com/track/6YkIFLSDDE7PbSZAhBnpZT) | [Melissa Hiroto](https://open.spotify.com/artist/4hK3cuRw1FxWyRlg0JQlmZ) | [Make it yours](https://open.spotify.com/album/474dXkkDlsOZIo5EY9Cq2Y) | 2:32 | 2025-02-21 | 2026-05-27 |
 | [Making It Rain](https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Making It Rain / Buckets](https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z) | 2:27 | 2023-01-12 | 2026-09-24 |
 | [Marigot](https://open.spotify.com/track/43Ni4j90A0bFH6ygRNeyfW) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Marigot](https://open.spotify.com/album/08mK985PXhFRSnEDZyhep0) | 2:00 | 2026-09-23 |  |
-| [Marijus](https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC) | [Colin Jubilee](https://open.spotify.com/artist/0DNgrGKyrlJRgQm1AF7oZ8) | [Marijus](https://open.spotify.com/album/4fZ55qsRlCk4cZK06WUmNh) | 2:46 | 2023-09-29 |  |
+| [Marijus](https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC) | [Colin Jubilee](https://open.spotify.com/artist/0DNgrGKyrlJRgQm1AF7oZ8) | [Marijus](https://open.spotify.com/album/4fZ55qsRlCk4cZK06WUmNh) | 2:46 | 2023-09-29 | 2026-10-17 |
 | [Maui Midnight](https://open.spotify.com/track/5RhzrTGuWdN9BwLrsQNK8I) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Maui Midnight](https://open.spotify.com/album/0Qi2WNmlR7BRDqgFnmMTFZ) | 1:59 | 2024-07-25 | 2026-05-27 |
 | [Melting Away](https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Melting Away](https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ) | 3:06 | 2023-04-20 |  |
 | [Merits](https://open.spotify.com/track/2BVSKW7MV2zVhew0GcbW9G) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7) | [Merits](https://open.spotify.com/album/6PAaMZ7PcRN3LtLg1F7ifY) | 1:43 | 2023-01-12 | 2023-05-02 |
@@ -244,7 +246,7 @@
 | [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [CHAERIN](https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2025-02-21 | 2026-09-24 |
 | [Smooth Sunday Barbeque](https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM) | [Pat Kujala](https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK) | [Smooth Sunday Barbeque](https://open.spotify.com/album/3248TWghWQaI4iwhukipLS) | 3:17 | 2023-06-20 | 2024-07-13 |
 | [smooveoperator](https://open.spotify.com/track/02uMZoFw264keGVYbNzOMa) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [smooveoperator](https://open.spotify.com/album/1d4mBlFhdQUB3W5cj2awJA) | 3:12 | 2023-09-29 | 2026-05-09 |
-| [Soft Shadows](https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Soft Shadows](https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf) | 2:35 | 2024-07-12 |  |
+| [Soft Shadows](https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Soft Shadows](https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf) | 2:35 | 2024-07-12 | 2026-10-17 |
 | [solid](https://open.spotify.com/track/3OTTrRBwf6h7Inr8bs6bxV) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [solid](https://open.spotify.com/album/3dZj6KE3zyR68GLyybP9vn) | 2:17 | 2026-09-23 |  |
 | [Somewhere](https://open.spotify.com/track/03W7SAX0oTXQqWkeO1Eoql) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Somewhere](https://open.spotify.com/album/2tH0WniQaD92x1JpTxzyEO) | 2:01 | 2026-09-23 |  |
 | [Soul Charger](https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Soul Charger](https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv) | 2:20 | 2023-11-26 |  |

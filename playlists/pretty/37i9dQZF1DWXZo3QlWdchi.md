@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,980 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,987 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 11 | [Sweet Child O' Mine \(feat\. Myles Kennedy and The Conspirators\) \- Live at Spotify, London](https://open.spotify.com/track/1BMDaiVYDREQnrQZA7Drpk) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR), [Myles Kennedy & The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Spotify Sessions](https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2) | 6:36 |
 | 12 | [Agora Só Falta Você \- Ao Vivo](https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Acústico \(Live\)](https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s) | 3:32 |
 | 13 | [Pescador de ilusões \- Ao vivo](https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [O Rappa \- Acústico Oficina Francisco Brennand \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR) | 6:09 |
-| 14 | [Ironic \- Live / Unplugged](https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 3:53 |
-| 15 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
+| 14 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
+| 15 | [Ironic \- Live / Unplugged](https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 3:53 |
 | 16 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7) | 2:31 |
 | 17 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
 | 18 | [Do Seu Lado \- Acústico](https://open.spotify.com/track/3wYP8mfPEMBmCjT3DcG2la) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:23 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 61 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days \(International Version\)](https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx) | 3:52 |
 | 62 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
 | 63 | [Every Time I Look At You \- Live](https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5) | 4:43 |
-| 64 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
-| 65 | [Society](https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 3:56 |
+| 64 | [Society](https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 3:56 |
+| 65 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
 | 66 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |
 | 67 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/2sMYviwwmjpVasUAMRBwDY) | 3:42 |
 | 68 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Fare Thee Well](https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Fare Thee Well](https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414) | 4:21 |
 | 75 | [Enquanto Houver Sol \- Trio Acústico](https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Enquanto Houver Sol \(Trio Acústico\)](https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9) | 3:33 |
 
-Snapshot ID: `AAAAAJuynOY+mOs77tQsS7Wf6+c2tPgY`
+Snapshot ID: `AAAAAMeC7TB5xxIGSjJnDHFtNe010zj5`

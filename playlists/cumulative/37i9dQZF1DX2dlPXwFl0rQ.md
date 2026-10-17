@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Mariana Soane y Majo Aguilar en portada 🔥
 
-494 songs - 1 day 2 hr 18 min
+495 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [El Corrido de Milo Vela](https://open.spotify.com/track/1FvNYJei932TIqXsyHkAhG) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/4wSDu2770UGHS1FH3yjF43) | 3:30 | 2023-08-22 | 2023-09-01 |
 | [El Corrido de Milo Vela](https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8) | 3:30 | 2023-08-22 | 2023-11-18 |
 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 | 2024-02-23 | 2024-08-10 |
+| [El Sentimiento](https://open.spotify.com/track/4PpntNh5c9kgGoNERs727v) | [Isaveli Laina](https://open.spotify.com/artist/37dfV12XY35kkD8roaOSnj) | [El Sentimiento](https://open.spotify.com/album/6MlPxzsWGfMqFRWBL8Guiw) | 3:24 | 2026-10-16 |  |
 | [El Sera Y El Chavo \(En Vivo\)](https://open.spotify.com/track/5jLgewYLafUMtUrlw7sO5l) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6dxy3pwF7XdCqq6epojLsP) | 2:44 | 2024-04-19 | 2024-06-13 |
 | [El Tubo y la Blindada](https://open.spotify.com/track/5ZNYDmqWUMDWMSZHHrut9d) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Corridos Empoderados](https://open.spotify.com/album/6r6JRi3rLCuIP0YVIGe43w) | 2:36 | 2024-04-19 | 2024-07-13 |
 | [El Último Trago](https://open.spotify.com/track/4FfxvqOOvnMTohiuI97IOr) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [El Último Trago](https://open.spotify.com/album/6Y8sbC5e2aufAaV09W2LiS) | 3:05 | 2021-12-17 | 2022-04-29 |
@@ -353,7 +354,7 @@
 | [Pobre Corazón](https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw) | 3:18 | 2023-07-28 | 2024-04-19 |
 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 | 2021-12-17 |  |
 | [Ponte Las Pilas](https://open.spotify.com/track/6iZ1Fd3YjhDek7nWZub395) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Ponte Las Pilas](https://open.spotify.com/album/223lyPMI0rFgcCYS201YLp) | 3:00 | 2022-01-28 | 2022-03-22 |
-| [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge) | 8:49 | 2024-08-09 |  |
+| [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge) | 8:49 | 2024-08-09 | 2026-10-17 |
 | [Por Cbrn y x Qlero](https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Por Cbrn y x Qlero](https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ) | 2:50 | 2023-07-14 | 2024-03-23 |
 | [Por Confiar En Ti](https://open.spotify.com/track/2MfJSHRdG2hZWX6YEL0Kjv) | [Rocio Reyna](https://open.spotify.com/artist/35IdmDZL2acYsC86sLEUbK) | [Por Confiar En Ti](https://open.spotify.com/album/5A931C8ImEjy9HPMCyxJhl) | 3:40 | 2021-12-17 | 2022-03-18 |
 | [POR EL CONTRARIO \(with Ángela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:05 | 2023-10-27 |  |

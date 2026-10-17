@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover: Stryper",
-  "num_followers": 212336,
+  "num_followers": 212429,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFAMH5bdkLpdn2bI0GkS1DAzHtm",
+  "snapshot_id": "AAAAAMRY9L+AWvZeN7O4ln3MRObUYXxK",
   "tracks": [
     {
       "added_at": "2026-09-25 05:41:43",
@@ -39,6 +39,22 @@
       "duration_ms": 193940,
       "name": "Ain't On Me",
       "url": "https://open.spotify.com/track/1tqGq7XfvHUHIizkL7otAD"
+    },
+    {
+      "added_at": "2026-10-16 09:32:31",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Grave Stomper",
+      "url": "https://open.spotify.com/track/00IJfwYpin6v5HkLXMCSnn"
     },
     {
       "added_at": "2026-09-25 05:41:43",
@@ -115,6 +131,26 @@
       "duration_ms": 214860,
       "name": "Forever & Ever (feat. Lindsey Stirling)",
       "url": "https://open.spotify.com/track/6mc2rHTCtXcLSSG0b7W6wy"
+    },
+    {
+      "added_at": "2026-10-16 09:32:31",
+      "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/1byLaOowXxQUP6Ky7RYOau"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        },
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 250334,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/0h5ryjBkEbR3cpHtCZ7PCy"
     },
     {
       "added_at": "2026-09-25 05:41:43",
@@ -233,36 +269,20 @@
       "url": "https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG"
     },
     {
-      "added_at": "2026-09-25 05:41:43",
+      "added_at": "2026-10-16 09:32:31",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU"
+        "name": "Pray For You",
+        "url": "https://open.spotify.com/album/0obF1MB6AblOu6vUii5VcY"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
         }
       ],
-      "duration_ms": 218015,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv"
-    },
-    {
-      "added_at": "2026-09-25 05:41:43",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/5j3IED9rKSCzf7T2JgCU77"
-      },
-      "artists": [
-        {
-          "name": "Glory in the Ruins",
-          "url": "https://open.spotify.com/artist/6clJ1baTREjSAxrsec1bTo"
-        }
-      ],
-      "duration_ms": 163399,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/30DoqK6rLbkFOXpJDzljBj"
+      "duration_ms": 176569,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/52NyGaMBUmFvahSs4PoAoN"
     },
     {
       "added_at": "2026-09-25 05:41:43",
@@ -607,22 +627,6 @@
     {
       "added_at": "2026-09-25 05:41:43",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/4Qv4y9GQAmp4Gmkw2PhdjL"
-      },
-      "artists": [
-        {
-          "name": "J Bumi",
-          "url": "https://open.spotify.com/artist/04KukyCGwGzV7OphBeN5qa"
-        }
-      ],
-      "duration_ms": 219989,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/1oASD0qwbdirb4zragkrIJ"
-    },
-    {
-      "added_at": "2026-09-25 05:41:43",
-      "album": {
         "name": "Neighbor",
         "url": "https://open.spotify.com/album/5pLSE330HFHVMRJEl6jAlP"
       },
@@ -759,38 +763,6 @@
       "duration_ms": 218571,
       "name": "Revivalist (feat. For Today)",
       "url": "https://open.spotify.com/track/6lA54ruhRaZ9b6Y82S4M5C"
-    },
-    {
-      "added_at": "2026-09-25 05:41:43",
-      "album": {
-        "name": "Showtime (Live)",
-        "url": "https://open.spotify.com/album/1aLb0v21t3iYfoEJKbGD4X"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 294144,
-      "name": "Showtime - Live",
-      "url": "https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE"
-    },
-    {
-      "added_at": "2026-09-25 05:41:43",
-      "album": {
-        "name": "Tear Down The Dark",
-        "url": "https://open.spotify.com/album/5Ew0szCkowyMmATp99o38x"
-      },
-      "artists": [
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        }
-      ],
-      "duration_ms": 161639,
-      "name": "Tear Down The Dark",
-      "url": "https://open.spotify.com/track/1whhEIbZShoYjlRr0ztk1d"
     },
     {
       "added_at": "2026-09-25 05:41:43",

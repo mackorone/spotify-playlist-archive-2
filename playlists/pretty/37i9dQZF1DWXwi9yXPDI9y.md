@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Grab a drink and relax to the Jazz played in the background at the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,096 likes - 99 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,143 likes - 99 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 43 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 |
 | 44 | [I Remember Clifford](https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 3:30 |
 | 45 | [Ballad Medley](https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 10:07 |
-| 46 | [Misty](https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ) | [Don Byas](https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa) | [Amoureusement Vôtre](https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC) | 3:06 |
-| 47 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
-| 48 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
+| 46 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
+| 47 | [Misty](https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ) | [Don Byas](https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa) | [Amoureusement Vôtre](https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC) | 3:06 |
+| 48 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
 | 49 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 9:29 |
 | 50 | [Angel Eyes](https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 8:48 |
 | 51 | [If I Had You \- Bonus Track](https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 4:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 98 | [You Go To My Head](https://open.spotify.com/track/2pBmeIySauuuuhSjisbppN) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson](https://open.spotify.com/album/6EX3QQ06sp8JgyJudZyLow) | 6:25 |
 | 99 | [Tenderly \- Trio Version](https://open.spotify.com/track/7EQ72FTeZaaIcjofTXrwsM) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Tenderly \(Trio Version\)](https://open.spotify.com/album/7r0Vf0QajnA4VMl83yHbwn) | 2:31 |
 
-Snapshot ID: `AAAAAGpRtquXH5IezW7SNH5fBTy4Pz4R`
+Snapshot ID: `AAAAAGyWN3xT2tnP94HEpTWQ7EwvgZRN`

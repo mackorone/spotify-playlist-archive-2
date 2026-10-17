@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dezinho entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,296 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,329 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Nossa Hora](https://open.spotify.com/track/2SPviMJFbknUyaHjHb48Oq) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO), [Maktub](https://open.spotify.com/artist/3nKAYmceAIB4siDOyhXWt9), [Manaur](https://open.spotify.com/artist/3QUyyZXvzfKjUKt9N1zS0X) | [Nossa Hora](https://open.spotify.com/album/3P4qi8CBX5uEJOS2uYL3Px) | 3:35 |
 | 70 | [Modo Voo](https://open.spotify.com/track/0xmHz1jJlWbmCwAOsDZ78K) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Modo Voo](https://open.spotify.com/album/1o1OqeqZ6M4NgPbOWbZ8rd) | 3:10 |
 
-Snapshot ID: `AAAAABk8Pwuycs3AV7SMabQ031s1fcsl`
+Snapshot ID: `AAAAADulLNVBm8cQcXbuYTv0iR6HNaSf`

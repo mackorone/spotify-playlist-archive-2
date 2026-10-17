@@ -42991,24 +42991,6 @@
     },
     {
       "album": {
-        "name": "Just Call Me Trap",
-        "url": "https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn"
-      },
-      "artists": [
-        {
-          "name": "Fatt Macc",
-          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN"
-    },
-    {
-      "album": {
         "name": "TRACKHAWK",
         "url": "https://open.spotify.com/album/1ItLOxHON2RHBRTl6GP3bY"
       },
@@ -45128,6 +45110,28 @@
       "duration_ms": 148645,
       "name": "WASTED",
       "url": "https://open.spotify.com/track/5Qvl79mOnL2qzdCxuY2pPv"
+    },
+    {
+      "album": {
+        "name": "Just Call Me Trap",
+        "url": "https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn"
+      },
+      "artists": [
+        {
+          "name": "Fatt Macc",
+          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
+        },
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169544,
+      "name": "Wat U Want (feat. Fatt Smaxk)",
+      "url": "https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-994 songs - 1 day 23 hr 15 min
+995 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [The Alto Knights](https://open.spotify.com/track/4en2nJGlv1CFumOGPI6511) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [The Alto Knights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0cA3U7WhfdUXKNWt8mwYDq) | 3:44 | 2025-03-19 | 2025-09-20 |
 | [The Alumni](https://open.spotify.com/track/7DLEuECFeZx0kqPvtdfEm9) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Last Repair Shop \(Original Score\)](https://open.spotify.com/album/2RWhaiSxllnArDZzmpUU8g) | 3:45 | 2023-11-24 | 2025-03-22 |
 | [The Apple](https://open.spotify.com/track/0qWU5CdMJdFUYGsHk9gSVi) | [Jeff Morrow](https://open.spotify.com/artist/6ZJuPowdBLBXkvZE8FjuTY), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Śnieżka \(Muzyka z filmu/Wersja Deluxe\)](https://open.spotify.com/album/4mtZTDti3mhJgegPUYi2kn) | 4:56 | 2025-03-21 | 2025-09-06 |
+| [The Bad Guys](https://open.spotify.com/track/1rx0CFgOTRBqX8t7ZPMhTw) | [Polerik Rouvière](https://open.spotify.com/artist/0EacAdA7Yf7SDUdREVfBZb) | [Masterplan \(Original Motion Picture Score\)](https://open.spotify.com/album/3Mk1KihTh01MYvkZ0iVCeb) | 1:56 | 2026-10-16 |  |
 | [The Banished Angel \- From "The Musical Anthology of His Dark Materials" Series 3](https://open.spotify.com/track/2eukTYngjYXpq61xu2b0Mn) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Banished Angel \(From "The Musical Anthology of His Dark Materials Series 3"\)](https://open.spotify.com/album/1va9x2K79Q7otoB5PGB9Q1) | 2:41 | 2022-10-28 | 2024-10-12 |
 | [The Batman](https://open.spotify.com/track/0hs3unYvc0bFG2NgheFdkO) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(from "The Batman"\)](https://open.spotify.com/album/17zHcTl1W5UB4G7kr6e838) | 6:47 | 2022-01-21 | 2025-01-11 |
 | [The Batman](https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 6:47 | 2022-07-22 | 2024-04-19 |

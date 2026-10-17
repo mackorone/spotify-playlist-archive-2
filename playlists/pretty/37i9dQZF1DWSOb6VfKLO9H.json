@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111746,
+  "num_followers": 111751,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACrTUUi/j2WclrvnwMc75OUtLrSR",
+  "snapshot_id": "AAAAAHfVCQzvMoi5Oe2Ax1gKTHT8mgb3",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -923,26 +923,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Omlaag",
-        "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
+        "name": "POSITIE",
+        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
       },
       "artists": [
         {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
         },
         {
-          "name": "Keizer",
-          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
-        },
-        {
-          "name": "Freddy Moreira",
-          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
         }
       ],
-      "duration_ms": 196958,
-      "name": "Omlaag",
-      "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
+      "duration_ms": 200970,
+      "name": "POSITIE",
+      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -975,22 +971,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "POSITIE",
-        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
+        "name": "Omlaag",
+        "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
       },
       "artists": [
         {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
         },
         {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
         }
       ],
-      "duration_ms": 200970,
-      "name": "POSITIE",
-      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
+      "duration_ms": 196958,
+      "name": "Omlaag",
+      "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "VBALERT",
-        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Naar Beneden",
-      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "My B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 154077,
       "name": "My B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "VBALERT",
+        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naar Beneden",
+      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

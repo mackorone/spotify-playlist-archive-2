@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-719 songs - 2 day 10 hr 43 min
+721 songs - 2 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [I Love You](https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [I Love You](https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl) | 4:22 | 2023-07-07 |  |
 | [I Never Really Cared](https://open.spotify.com/track/05GiEzky4rkUc2aS95qaUr) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Afterlife](https://open.spotify.com/album/1GC0SjdlXjnx0NyhHV0Ug8) | 4:21 | 2021-12-08 | 2026-05-16 |
 | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/album/4mIi7gfPx1zEvaMHtJ2Hvs) | 7:51 | 2022-05-03 | 2023-04-12 |
-| [I Will Love You](https://open.spotify.com/track/4goVQdV53Rd3eCgBjVJ5dQ) | [Never Spring](https://open.spotify.com/artist/7qDIib7phg7setGtjb4mrc) | [I Will Love You](https://open.spotify.com/album/4yTnBKIdAE74uJvoGcpDjg) | 3:13 | 2026-09-18 |  |
+| [I Will Love You](https://open.spotify.com/track/4goVQdV53Rd3eCgBjVJ5dQ) | [Never Spring](https://open.spotify.com/artist/7qDIib7phg7setGtjb4mrc) | [I Will Love You](https://open.spotify.com/album/4yTnBKIdAE74uJvoGcpDjg) | 3:13 | 2026-09-18 | 2026-10-17 |
 | [I'll be](https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp) | [Banba](https://open.spotify.com/artist/5Igs4byggiqZsQBWJUT1Ad) | [I'll be](https://open.spotify.com/album/3uyVqqDEqwM8vlUok3XX4j) | 5:41 | 2021-12-08 | 2022-07-29 |
 | [I'll Be There \(feat\. Extra Special\)](https://open.spotify.com/track/6zNQHbsFK3ZY6qm9AdZE3C) | [Kaiyan](https://open.spotify.com/artist/2LTLYlJsnetSUuVQEnVNrE), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [I'll Be There \(feat\. Extra Special\)](https://open.spotify.com/album/4GzizSW5HvRENlslbUrPLk) | 3:40 | 2025-08-08 |  |
 | [Ibiza Blue](https://open.spotify.com/track/3HnJq0iCE0bVO1yYFxNX1C) | [Sue Avenue](https://open.spotify.com/artist/2UohvWGrvyjG67c93W6aqv) | [Ibiza Blue](https://open.spotify.com/album/6x9IjCEY9ZAwKtAUopoXKm) | 8:54 | 2021-12-08 | 2026-05-16 |
@@ -370,7 +370,7 @@
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 | 2026-05-16 |
 | [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 | 2023-11-16 |
 | [Mancora](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Anjunadeep Explorations 19](https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg) | 3:59 | 2023-01-06 | 2025-08-30 |
-| [Many Faces](https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s) | [Beat Soul](https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV) | [A Million Dreams](https://open.spotify.com/album/5v0usD8Am87oCQjETKzirI) | 7:22 | 2025-06-19 |  |
+| [Many Faces](https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s) | [Beat Soul](https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV) | [A Million Dreams](https://open.spotify.com/album/5v0usD8Am87oCQjETKzirI) | 7:22 | 2025-06-19 | 2026-10-17 |
 | [Maria](https://open.spotify.com/track/4y7moiPcmh1naRAZVwLjEL) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:37 | 2025-02-21 |  |
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 | 2026-05-16 |
 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 | 2025-03-28 |  |
@@ -426,6 +426,7 @@
 | [Night Walking](https://open.spotify.com/track/76uWZYQ8ifL8fAq7byloD2) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Night Walking](https://open.spotify.com/album/0TTwI6HXox5rTmgxKUp3tE) | 2:49 | 2026-02-27 |  |
 | [Nightcall](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Nightcall](https://open.spotify.com/album/5fTwR0zWU6EKHVDHxffJLO) | 5:27 | 2024-07-12 |  |
 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 | 2023-07-31 | 2026-02-07 |
+| [Nightshades](https://open.spotify.com/track/3XDdAA0GE63UOkSd8zk0Ki) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Nightshades](https://open.spotify.com/album/21JhL2GZmgCkRriBWzNyeR) | 3:21 | 2026-10-16 |  |
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 | 2024-04-13 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 | 2021-12-08 | 2022-09-04 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/1Y5C8ioJGpEYzSdAbcJsqn) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Nillla \(La la La la La\)](https://open.spotify.com/album/6LOzTtWRvtuCHlsRZchMu4) | 4:02 | 2022-05-03 | 2023-05-06 |
@@ -565,6 +566,7 @@
 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 | 2023-08-18 |  |
 | [Skyline](https://open.spotify.com/track/4ycrKfixNsqQgIwX7sSFFp) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu) | [Skyline EP](https://open.spotify.com/album/2MKafBnnTlKq8MrWeevkxN) | 8:26 | 2024-02-02 | 2024-04-19 |
 | [Skyline](https://open.spotify.com/track/6RkBU15iuIWpNA67pL4ZE7) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu) | [Skyline EP](https://open.spotify.com/album/4mDdzRcCfgkleAYlKB17VG) | 8:26 | 2021-12-08 | 2023-11-06 |
+| [Slow rise](https://open.spotify.com/track/1M97AwHG9QJIyJpXcfB7fO) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Familiar](https://open.spotify.com/album/4JzaNFwJjOtZ22MO8RiIv5) | 4:34 | 2026-10-16 |  |
 | [Snow In The Distance](https://open.spotify.com/track/0bjkjsN2X2IeXFRClxSfvw) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate Deluxe](https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR) | 2:32 | 2023-12-15 | 2024-04-19 |
 | [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 | 2023-04-04 | 2024-07-30 |
 | [Sofia's Theme](https://open.spotify.com/track/16qgL8moRXVRZA5K0yU4yZ) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/2GBTgLWpMzjDS3LPazU8C1) | 5:26 | 2021-12-08 | 2022-07-29 |

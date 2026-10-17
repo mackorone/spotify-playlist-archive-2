@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,586 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,587 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 36 | [Plano Secuencia](https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:44 |
 | 37 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 |
 | 38 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
-| 39 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
-| 40 | [Milonga Sentimental](https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Lautaro Greco](https://open.spotify.com/artist/54ob6kM8grbO4ymojmp804) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:38 |
+| 39 | [Milonga Sentimental](https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Lautaro Greco](https://open.spotify.com/artist/54ob6kM8grbO4ymojmp804) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:38 |
+| 40 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
 | 41 | [La Última Copa](https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE) | [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Modo Tango](https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK) | 2:35 |
 | 42 | [Sube Y Baja](https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [Mlnga Club](https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73) | 4:04 |
 | 43 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 59 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 |
 | 60 | [Ghost Town](https://open.spotify.com/track/3vEZd9EiNj1fiwY6oFclTu) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh), [Mela Green](https://open.spotify.com/artist/1OoRlzoPBEdN9gPMt7Dx69), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Ghost Town](https://open.spotify.com/album/3drZDHi0DVKGn6mLwDueij) | 4:29 |
 | 61 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
-| 62 | [Patotero Sentimental](https://open.spotify.com/track/6Lp2X06YCNEtLk2h4BVV54) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Patotero Sentimental](https://open.spotify.com/album/3reLc7DI5WhetVDHhGqLCM) | 2:59 |
-| 63 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
+| 62 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
+| 63 | [Patotero Sentimental](https://open.spotify.com/track/6Lp2X06YCNEtLk2h4BVV54) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Patotero Sentimental](https://open.spotify.com/album/3reLc7DI5WhetVDHhGqLCM) | 2:59 |
 | 64 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 | 65 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 |
 | 66 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 69 | [Barrio Maravillas](https://open.spotify.com/track/27RhzFpBqR4JaOVzzQvH94) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 2:33 |
 | 70 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
 
-Snapshot ID: `AAAAAK3ElfS5ZWuovSFfis2IL6/Q7NLT`
+Snapshot ID: `AAAAALTz5zU2tYGmB48vs8/mpyOPrd/8`

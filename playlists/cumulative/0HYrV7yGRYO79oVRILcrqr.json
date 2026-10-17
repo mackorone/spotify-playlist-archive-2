@@ -4731,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "Ghost in the Machine",
+        "url": "https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy"
+      },
+      "artists": [
+        {
+          "name": "Dan Folland",
+          "url": "https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190113,
+      "name": "Ghost in the Machine",
+      "url": "https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY"
+    },
+    {
+      "album": {
         "name": "Don\u2019t let the overshadow",
         "url": "https://open.spotify.com/album/2cEf0VRnSzQtBTh9E4Iafq"
       },

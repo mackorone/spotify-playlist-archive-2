@@ -4,7 +4,7 @@
 
 > Voici les hits du moment avec Charlotte Cardin
 
-755 songs - 1 day 15 hr 42 min
+756 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [KIA RIO](https://open.spotify.com/track/6BXhCFvAKAp8N7ZhWoBfDv) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [KIA RIO](https://open.spotify.com/album/79NtucSknC4MTsKrpew1Al) | 3:05 | 2025-10-03 | 2025-11-22 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-23 | 2023-02-04 |
 | [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 | 2026-05-29 |  |
+| [Kiss My Glass \(version française\) \[feat\. Marie\-Mai\]](https://open.spotify.com/track/2KENKXHWak667JKh1ulxKn) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Kiss My Glass \(version française\) \[feat\. Marie\-Mai\]](https://open.spotify.com/album/2YazwcERQrgqYdMeOnOeCe) | 2:52 | 2026-10-16 |  |
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-11-29 | 2025-06-24 |
 | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2022-12-12 | 2022-12-17 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-02 | 2022-10-01 |
@@ -614,7 +615,7 @@
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-25 | 2024-07-19 |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-15 | 2023-12-16 |
 | [Sicario](https://open.spotify.com/track/7CQW2QMr6WGaksSqn5Y4Lf) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Sicario](https://open.spotify.com/album/0SoqqGHxdSJpNf7MNNE1Fq) | 2:29 | 2026-09-18 | 2026-10-09 |
-| [Signal](https://open.spotify.com/track/2YcbZbVDVFzf1puWGFOlqU) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Signal](https://open.spotify.com/album/0DZKF3Lv2pSWXi7lVZi6II) | 3:21 | 2026-06-26 |  |
+| [Signal](https://open.spotify.com/track/2YcbZbVDVFzf1puWGFOlqU) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Signal](https://open.spotify.com/album/0DZKF3Lv2pSWXi7lVZi6II) | 3:21 | 2026-06-26 | 2026-10-17 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-07-09 | 2022-08-02 |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-18 | 2025-10-11 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 | 2023-11-11 |
@@ -633,7 +634,7 @@
 | [SPIN](https://open.spotify.com/track/1dUvysCwz1rpDYC4dB4LQ2) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [SPIN](https://open.spotify.com/album/3IwFRHsFLXMg4NrW2aU8Gv) | 2:00 | 2026-09-04 | 2026-10-09 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-06-07 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 | 2023-08-05 |
-| [St\-Félix](https://open.spotify.com/track/666mu3SoJs6OrJSNZz4lJH) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [St\-Félix](https://open.spotify.com/album/75DFRV98Zc4v4CUmQDipHB) | 2:39 | 2025-10-17 | 2026-01-17 |
+| [St\-Félix](https://open.spotify.com/track/666mu3SoJs6OrJSNZz4lJH) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [St\-Félix](https://open.spotify.com/album/75DFRV98Zc4v4CUmQDipHB) | 2:39 | 2025-10-17 |  |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-10-07 | 2024-02-24 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-24 | 2025-07-19 |
 | [Start Over](https://open.spotify.com/track/17xfpZekr8Gg79yvqhTNC4) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Start Over](https://open.spotify.com/album/6duVW5TmNORItMR1x7xoXr) | 2:38 | 2022-07-09 | 2023-06-17 |
@@ -673,7 +674,7 @@
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-13 | 2025-09-19 |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-03 | 2025-11-08 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-21 | 2025-10-03 |
-| [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 | 2026-05-04 |  |
+| [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 | 2026-05-04 | 2026-10-17 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-07-22 | 2023-04-01 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-12-16 | 2023-07-15 |
 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 | 2026-06-26 | 2026-09-19 |

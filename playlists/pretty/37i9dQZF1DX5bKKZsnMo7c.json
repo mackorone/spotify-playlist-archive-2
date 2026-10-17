@@ -1,13 +1,77 @@
 {
-  "description": "Dramatic, theatrical pop: Grace Power it's your moment!",
-  "num_followers": 567796,
+  "description": "Dramatic, theatrical pop: Haute & Freddy it's your moment!",
+  "num_followers": 568282,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA5Yn9bKszJIdB0qvLndjmskeU0Q",
+  "snapshot_id": "AAAAAK6kgD4PN8NOyDBeLF68u3czID79",
   "tracks": [
+    {
+      "added_at": "2026-04-08 17:34:45",
+      "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-10-16 04:01:22",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Swan Lake",
+      "url": "https://open.spotify.com/track/4EXi4kcNP02S4zUEqrqFuP"
+    },
+    {
+      "added_at": "2026-05-22 04:02:09",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-10-16 04:01:22",
+      "album": {
+        "name": "Ghost in My Walls",
+        "url": "https://open.spotify.com/album/3DWIwr5wEOcXka8B0z4dew"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 139004,
+      "name": "Ghost in My Walls",
+      "url": "https://open.spotify.com/track/3X2H97ey1e1KkmwyBFw2IW"
+    },
     {
       "added_at": "2026-09-18 04:00:36",
       "album": {
@@ -23,6 +87,78 @@
       "duration_ms": 224413,
       "name": "Black Hole Baby Bottom Feeder",
       "url": "https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0"
+    },
+    {
+      "added_at": "2026-08-21 04:00:24",
+      "album": {
+        "name": "STARCROSSED",
+        "url": "https://open.spotify.com/album/7B883f1Pcg6WGmP9hz8BOg"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        },
+        {
+          "name": "Lydia the Bard",
+          "url": "https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "STARCROSSED",
+      "url": "https://open.spotify.com/track/3bxGv7giekHGcXUtGumcVp"
+    },
+    {
+      "added_at": "2026-10-16 04:01:22",
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+    },
+    {
+      "added_at": "2026-09-18 04:00:36",
+      "album": {
+        "name": "Mascara Masquerade",
+        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "duration_ms": 236527,
+      "name": "LSD (Love, Sex & Diamonds)",
+      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
+    },
+    {
+      "added_at": "2026-10-16 04:01:22",
+      "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
     },
     {
       "added_at": "2026-10-02 04:02:24",
@@ -57,42 +193,6 @@
       "url": "https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63"
     },
     {
-      "added_at": "2026-09-18 04:00:36",
-      "album": {
-        "name": "Mascara Masquerade",
-        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
-      },
-      "artists": [
-        {
-          "name": "VANITY",
-          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
-        }
-      ],
-      "duration_ms": 236527,
-      "name": "LSD (Love, Sex & Diamonds)",
-      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
-    },
-    {
-      "added_at": "2026-08-21 04:00:24",
-      "album": {
-        "name": "STARCROSSED",
-        "url": "https://open.spotify.com/album/7B883f1Pcg6WGmP9hz8BOg"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        },
-        {
-          "name": "Lydia the Bard",
-          "url": "https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "STARCROSSED",
-      "url": "https://open.spotify.com/track/3bxGv7giekHGcXUtGumcVp"
-    },
-    {
       "added_at": "2026-09-04 04:02:26",
       "album": {
         "name": "The Fatal Flaw",
@@ -123,22 +223,6 @@
       "duration_ms": 174881,
       "name": "The Poet and Her Vice (Happy Ending)",
       "url": "https://open.spotify.com/track/7xyxpnf63Bad2KTRNY5a5b"
-    },
-    {
-      "added_at": "2026-05-22 04:02:09",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-09-11 13:41:36",
@@ -187,6 +271,22 @@
       "duration_ms": 159157,
       "name": "Knight of Swords",
       "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
+    },
+    {
+      "added_at": "2026-07-20 18:13:27",
+      "album": {
+        "name": "ORPHEUS",
+        "url": "https://open.spotify.com/album/4VYOon2ocn14m34JHiKVd1"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "ORPHEUS",
+      "url": "https://open.spotify.com/track/7GxfZNCcvcZQVVNNyojpAJ"
     },
     {
       "added_at": "2026-10-13 22:11:11",
@@ -335,22 +435,6 @@
       "duration_ms": 212075,
       "name": "Lucky You're A Star",
       "url": "https://open.spotify.com/track/6ohOpO4diHtaf0EPtBpzFg"
-    },
-    {
-      "added_at": "2026-07-20 18:13:27",
-      "album": {
-        "name": "ORPHEUS",
-        "url": "https://open.spotify.com/album/4VYOon2ocn14m34JHiKVd1"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "ORPHEUS",
-      "url": "https://open.spotify.com/track/7GxfZNCcvcZQVVNNyojpAJ"
     },
     {
       "added_at": "2026-09-04 04:02:26",
@@ -585,22 +669,6 @@
       "url": "https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv"
     },
     {
-      "added_at": "2026-04-08 17:34:45",
-      "album": {
-        "name": "Big Disgrace",
-        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
-    },
-    {
       "added_at": "2025-06-20 04:00:48",
       "album": {
         "name": "piano in the sky",
@@ -665,22 +733,6 @@
       "url": "https://open.spotify.com/track/2n6HMpJ82rMHGnOMqVP0Wp"
     },
     {
-      "added_at": "2026-04-10 04:00:34",
-      "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 200969,
-      "name": "I Wanna Be In Love So Bad",
-      "url": "https://open.spotify.com/track/1ZeZ1DnI5FU0ii7WNx1Zeo"
-    },
-    {
       "added_at": "2026-02-27 05:00:49",
       "album": {
         "name": "La Folie",
@@ -695,22 +747,6 @@
       "duration_ms": 206760,
       "name": "Golden Brown",
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
-    },
-    {
-      "added_at": "2026-04-10 04:00:34",
-      "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 195627,
-      "name": "Beauty Pageant",
-      "url": "https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr"
     },
     {
       "added_at": "2024-08-23 04:11:51",
@@ -1245,22 +1281,6 @@
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2025-08-22 04:00:35",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
-    },
-    {
       "added_at": "2025-09-15 22:13:38",
       "album": {
         "name": "Little Caesar",
@@ -1275,22 +1295,6 @@
       "duration_ms": 174256,
       "name": "Little Caesar",
       "url": "https://open.spotify.com/track/1DVRDDz3uoN09hhrIZSiLo"
-    },
-    {
-      "added_at": "2025-08-18 02:36:33",
-      "album": {
-        "name": "The Last Werewolf",
-        "url": "https://open.spotify.com/album/3lZ6LgRBT4VV6bjFSdIFxp"
-      },
-      "artists": [
-        {
-          "name": "The Real Tuesday Weld",
-          "url": "https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Me and Mr Wolf",
-      "url": "https://open.spotify.com/track/1v6IAzMitH1xrFEZLQmmRN"
     },
     {
       "added_at": "2025-05-27 15:37:48",

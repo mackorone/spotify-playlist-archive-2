@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 544515,
+  "num_followers": 544587,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMwh9NRinuKEy/vP5ZZVQH8RgjTS",
+  "snapshot_id": "AAAAAHbeg642rwYiF0hCNQUWrspxANVs",
   "tracks": [
     {
       "added_at": "2026-09-25 04:00:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "just us",
-        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 190163,
-      "name": "just us",
-      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "just us",
+        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 190163,
+      "name": "just us",
+      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Light That Match",
-        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
-      },
-      "artists": [
-        {
-          "name": "Down Like Silver",
-          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "Light That Match",
-      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "caroline",
         "url": "https://open.spotify.com/album/5fPUD2TBb1DugPHDj7ylgF"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 213000,
       "name": "caroline",
       "url": "https://open.spotify.com/track/0jcMqjt7AYtDkn5INK1aDb"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Light That Match",
+        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
+      },
+      "artists": [
+        {
+          "name": "Down Like Silver",
+          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "Light That Match",
+      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "With a Lightning Strike",
+        "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 209163,
+      "name": "Mean Guy",
+      "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Good Guy (feat. Faye Webster)",
         "url": "https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 241548,
       "name": "Good Guy - feat. Faye Webster",
       "url": "https://open.spotify.com/track/3SeFOhYky0cIaoEhf9cEs3"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "With a Lightning Strike",
-        "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 209163,
-      "name": "Mean Guy",
-      "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "I Can See The Future",
         "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 205200,
       "name": "I Will",
       "url": "https://open.spotify.com/track/0SH2YEQOI59HiIaY591KM9"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Steady Now",
-        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
-      },
-      "artists": [
-        {
-          "name": "William Wild",
-          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
-        }
-      ],
-      "duration_ms": 262571,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Sentimental (Reimagined)",
         "url": "https://open.spotify.com/album/7FtA4yHesiXguXulNgFDxe"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+        "name": "Steady Now",
+        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
       },
       "artists": [
         {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
+      "duration_ms": 262571,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1683,6 +1667,22 @@
       "duration_ms": 224893,
       "name": "How (ft. Brandi Carlile)",
       "url": "https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Never Meant",
-        "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Never Meant",
-      "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Sun",
         "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
       },
@@ -1791,6 +1775,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Never Meant",
+        "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "The Only Ones",
         "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
       },
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Soho House Valet",
-        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 242223,
-      "name": "Soho House Valet",
-      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Half Alive",
         "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 183303,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Soho House Valet",
+        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 242223,
+      "name": "Soho House Valet",
+      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210650,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "This Heart",
         "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 252580,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 210650,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
     },
     {
       "added_at": "2026-09-25 04:00:27",

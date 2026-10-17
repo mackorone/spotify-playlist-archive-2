@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Alternative indie music etc. Cover: Thundercat",
+  "description": "Alternative indie music etc. Cover: Mackeeper",
   "name": "anti pop",
   "tracks": [
     {
@@ -3098,6 +3098,24 @@
       "duration_ms": 166927,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
+    },
+    {
+      "album": {
+        "name": "Believe You Me",
+        "url": "https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ"
     },
     {
       "album": {
@@ -8160,7 +8178,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 255965,
       "name": "Darth Vapor",
       "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
@@ -16148,7 +16166,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 214336,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen"
@@ -16250,6 +16268,24 @@
       "duration_ms": 153779,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/4edmBZ5KvOETrP0OsAw8nS"
+    },
+    {
+      "album": {
+        "name": "I BET YOU'D LIKE THAT",
+        "url": "https://open.spotify.com/album/01DzLMVWpsQoXtf4Vu8Oa0"
+      },
+      "artists": [
+        {
+          "name": "ZIG MENTALITY",
+          "url": "https://open.spotify.com/artist/3LlnfJdyvokTn7n9yHIAsX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190363,
+      "name": "I BET YOU'D LIKE THAT",
+      "url": "https://open.spotify.com/track/7CuKL9cuO6a5HHXWwxkPB4"
     },
     {
       "album": {
@@ -17992,6 +18028,24 @@
       "duration_ms": 180675,
       "name": "IV. Sweatpants",
       "url": "https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms"
+    },
+    {
+      "album": {
+        "name": "Stick Around For Tea",
+        "url": "https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU"
+      },
+      "artists": [
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320713,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/3HGZUb5t818Ie2MsJJZhMq"
     },
     {
       "album": {
@@ -24974,7 +25028,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 160680,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
@@ -25046,7 +25100,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 201331,
       "name": "Party",
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
@@ -26191,6 +26245,24 @@
     },
     {
       "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233708,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb"
+    },
+    {
+      "album": {
         "name": "Pixel Bath",
         "url": "https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL"
       },
@@ -26246,6 +26318,24 @@
       "duration_ms": 113146,
       "name": "Prada",
       "url": "https://open.spotify.com/track/4vaEOyy9MYJIsa8YvaxCD6"
+    },
+    {
+      "album": {
+        "name": "prada",
+        "url": "https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "prada",
+      "url": "https://open.spotify.com/track/6jMgG7UWL3rVZDdc4BVdpC"
     },
     {
       "album": {
@@ -26762,6 +26852,24 @@
       "duration_ms": 133445,
       "name": "Pull A James Baldwin",
       "url": "https://open.spotify.com/track/4O8036TCZJZBl2We78Ju3A"
+    },
+    {
+      "album": {
+        "name": "Pull Me Under",
+        "url": "https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292125,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O"
     },
     {
       "album": {
@@ -28498,7 +28606,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 166972,
       "name": "San Antonio",
       "url": "https://open.spotify.com/track/6q9h23X8y4PCpZJTCLy1cl"
@@ -29478,7 +29586,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 197868,
       "name": "Shop Girl",
       "url": "https://open.spotify.com/track/6Zp5qV01yNBbpEQKe6wTwl"
@@ -36841,6 +36949,24 @@
     },
     {
       "album": {
+        "name": "vintage vuitton",
+        "url": "https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86964,
+      "name": "vintage vuitton",
+      "url": "https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u"
+    },
+    {
+      "album": {
         "name": "VIVID",
         "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
@@ -37040,7 +37166,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178334,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
@@ -37713,6 +37839,28 @@
     },
     {
       "album": {
+        "name": "Where Is Gone?",
+        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
+    },
+    {
+      "album": {
         "name": "POWER HOUSE",
         "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
       },
@@ -37960,7 +38108,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 177285,
       "name": "WHY'D YOU HAVE TO GO THERE",
       "url": "https://open.spotify.com/track/4PElKeEniFFnlYceryQUhB"
@@ -38134,7 +38282,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 386020,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"

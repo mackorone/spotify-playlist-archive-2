@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 104531,
+  "num_followers": 104551,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALc8HNsCrtdgkE8x0nk/DGX41SOf",
+  "snapshot_id": "AAAAAIWd9puqcyZ3Y2xzFSqPOlEUuUyM",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "B.o.B Presents: The Adventures of Bobby Ray",
         "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 196133,
       "name": "Magic (feat. Rivers Cuomo)",
       "url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "D.A.N.C.E.",
-      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
     },
     {
       "added_at": "2022-05-11 15:37:27",

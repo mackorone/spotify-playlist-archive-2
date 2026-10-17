@@ -1,12 +1,12 @@
 {
   "description": "Nuovi brani di Geolier, Fontaines D.C., Angelina Mango, Tate McRae, Olivia Rodrigo con Chappell Roan e tanti altri.",
-  "num_followers": 370431,
+  "num_followers": 370786,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbugfS+EP1N4Nl5ASXuTwDLghUH",
+  "snapshot_id": "AAAAANu7nkGh2Y+yU6xNgie0S+hddL8R",
   "tracks": [
     {
       "added_at": "2026-10-15 23:01:03",
@@ -303,6 +303,26 @@
     {
       "added_at": "2026-10-15 23:01:03",
       "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-10-15 23:01:03",
+      "album": {
         "name": "Before You Know It",
         "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
       },
@@ -319,6 +339,22 @@
       "duration_ms": 173202,
       "name": "Before You Know It",
       "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+    },
+    {
+      "added_at": "2026-10-15 23:01:03",
+      "album": {
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
     },
     {
       "added_at": "2026-10-15 23:01:03",
@@ -463,6 +499,22 @@
       "duration_ms": 186666,
       "name": "Due gocce d'acqua",
       "url": "https://open.spotify.com/track/3XUkqKfIrqleWOqcmAHoOR"
+    },
+    {
+      "added_at": "2026-10-15 23:01:03",
+      "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb"
     },
     {
       "added_at": "2026-10-15 23:01:03",
@@ -651,6 +703,22 @@
     {
       "added_at": "2026-10-15 23:01:03",
       "album": {
+        "name": "KOYSAR",
+        "url": "https://open.spotify.com/album/4KR3nXEF1tS3c4bOh6nuzX"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 195870,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/716d7YjHJsPjzZ9nVfafC8"
+    },
+    {
+      "added_at": "2026-10-15 23:01:03",
+      "album": {
         "name": "the cut of your jib",
         "url": "https://open.spotify.com/album/1CQEpwo8E0HJsgTnqWKXs1"
       },
@@ -676,8 +744,8 @@
           "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 204360,
+      "name": "Blood On The Dashboard",
       "url": "https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG"
     },
     {
@@ -878,6 +946,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "duration_ms": 204884,
@@ -1558,10 +1630,18 @@
         {
           "name": "Skip Waiters",
           "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "Serious Klein",
+          "url": "https://open.spotify.com/artist/118HlFjDgUCku033j3YD81"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 195918,
+      "name": "black entertaiNMENT (feat. Serious Klein)",
       "url": "https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6"
     },
     {

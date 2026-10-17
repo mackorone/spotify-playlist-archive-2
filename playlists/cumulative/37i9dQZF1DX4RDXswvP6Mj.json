@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "<LOVE&POP> pt.2",
+        "url": "https://open.spotify.com/album/0nui9KVjjgQGiyKPFsNbPB"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Andless",
+      "url": "https://open.spotify.com/track/1W5v9eqmHWglEcKInhgbca"
+    },
+    {
+      "album": {
         "name": "Be My BoyFriend (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1XfnCND8h4hRky8uOw0u0Q"
       },

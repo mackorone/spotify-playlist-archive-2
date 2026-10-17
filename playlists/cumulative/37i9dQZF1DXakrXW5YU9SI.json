@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
@@ -3245,6 +3245,28 @@
     },
     {
       "album": {
+        "name": "DOM\u00d3WKI",
+        "url": "https://open.spotify.com/album/1NyDAAb27rumGN0PD6SdtG"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "Micha\u0142 Smajdor",
+          "url": "https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134147,
+      "name": "DAJ MI S\u0141OWO",
+      "url": "https://open.spotify.com/track/7v8DdV2781TGAPBkusVVYt"
+    },
+    {
+      "album": {
         "name": "daj mi znak",
         "url": "https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7"
       },
@@ -3300,6 +3322,24 @@
       "duration_ms": 182124,
       "name": "Dalej, Dalej! (Chopin, Chopin!)",
       "url": "https://open.spotify.com/track/3Fhw0gcq1RsXMpSTESDYCp"
+    },
+    {
+      "album": {
+        "name": "Daleko",
+        "url": "https://open.spotify.com/album/3CtxvH0J7Q7R3lJe3Vt0SB"
+      },
+      "artists": [
+        {
+          "name": "Barry Black",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173737,
+      "name": "Daleko",
+      "url": "https://open.spotify.com/track/2zClIj3bbb32u2z6prh1Uf"
     },
     {
       "album": {
@@ -7705,6 +7745,24 @@
     },
     {
       "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194205,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
+    },
+    {
+      "album": {
         "name": "Je t\u2019aime",
         "url": "https://open.spotify.com/album/5xkAfTuVQ8SbDZpeWAQy4B"
       },
@@ -7716,7 +7774,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 176157,
       "name": "Je t\u2019aime",
       "url": "https://open.spotify.com/track/1n7laOrsIo8kwmJRJSdrZk"
@@ -7884,7 +7942,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 142538,
       "name": "Je\u015bli co\u015b ma by\u0107",
       "url": "https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w"
@@ -10713,6 +10771,24 @@
     },
     {
       "album": {
+        "name": "Mo\u017cna oddycha\u0107 pod wod\u0105",
+        "url": "https://open.spotify.com/album/4kaYUEmsV3KslNTZPFCXPi"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212621,
+      "name": "Mo\u017cna oddycha\u0107 pod wod\u0105",
+      "url": "https://open.spotify.com/track/4sSZcoPhyj4nN7108NM7UN"
+    },
+    {
+      "album": {
         "name": "It\u2019s All About The Changes",
         "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
       },
@@ -11056,7 +11132,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 185113,
       "name": "na moje nieszcz\u0119\u015bcie",
       "url": "https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13"
@@ -12042,6 +12118,24 @@
       "duration_ms": 188181,
       "name": "Nie znam tego miejsca",
       "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
+    },
+    {
+      "album": {
+        "name": "Niebieska",
+        "url": "https://open.spotify.com/album/0fllq1w7swGXYmTHIAczbk"
+      },
+      "artists": [
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "Niebieska",
+      "url": "https://open.spotify.com/track/2IEW11q0HyWTLmID7uuT5k"
     },
     {
       "album": {
@@ -14848,7 +14942,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 260643,
       "name": "P\u0142yn\u0119 nad chmurami",
       "url": "https://open.spotify.com/track/3bQI3FXBKEXA5s4kAMIfVW"
@@ -15068,6 +15162,24 @@
       "duration_ms": 291067,
       "name": "Remedium (Wsi\u0105\u015b\u0107 do poci\u0105gu)",
       "url": "https://open.spotify.com/track/6ZXESlOLiryfEWxqpC37oi"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/2BPkjLvbZmJXrhvqCcUCtq"
+      },
+      "artists": [
+        {
+          "name": "J.Bernardt",
+          "url": "https://open.spotify.com/artist/6LiV1FV5nwdp3k6n3LMoQn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301133,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1XCP81CTkXJCCabEDDwnnr"
     },
     {
       "album": {
@@ -17827,6 +17939,24 @@
     },
     {
       "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "The Girl Of Your Dreams",
+      "url": "https://open.spotify.com/track/5C44dbkTrsdtpcP05LOH7G"
+    },
+    {
+      "album": {
         "name": "Lost Weekend",
         "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
       },
@@ -18984,7 +19114,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 369812,
       "name": "Tyle \u015alad\u00f3w",
       "url": "https://open.spotify.com/track/1Tkg3k3NiG7N8fFS7HnsvS"
@@ -19219,6 +19349,24 @@
     },
     {
       "album": {
+        "name": "Unloveu",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232527,
+      "name": "Unloveu",
+      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
+    },
+    {
+      "album": {
         "name": "Avenoir",
         "url": "https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw"
       },
@@ -19364,7 +19512,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 156209,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
@@ -19556,7 +19704,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 228336,
       "name": "Wagoniki",
       "url": "https://open.spotify.com/track/218RVrFkpsNNX58I5kPdlQ"
@@ -21590,7 +21738,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 173382,
       "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
       "url": "https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg"
@@ -21608,7 +21756,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 264333,
       "name": "\u015awietlik",
       "url": "https://open.spotify.com/track/3zJLf5fKHfdmwpSfPKB7L6"

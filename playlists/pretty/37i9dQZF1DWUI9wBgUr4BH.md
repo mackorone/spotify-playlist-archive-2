@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo :  Angèle
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,568 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,718 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Nightshift Superstar](https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Nightshift Superstar](https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm) | 4:07 |
 | 40 | [Deliciosa](https://open.spotify.com/track/17QCWlVhlMWt5VVwale5nS) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Deliciosa](https://open.spotify.com/album/2yQEjpmi32nlH7DLUl62cd) | 2:45 |
 
-Snapshot ID: `AAAAAChIYHgRC/pPOklxw9IBNmltER14`
+Snapshot ID: `AAAAAD+ahpsRXEKzKvTkbnxiGUSzpJqJ`

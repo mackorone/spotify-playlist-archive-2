@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,643 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,646 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 35 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
 | 36 | [+\-0](https://open.spotify.com/track/1MWkXV0BeBUXYiqAKfPAdF) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 3:53 |
 | 37 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
-| 38 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 |
+| 38 | [Make up your mind](https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Make up your mind](https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj) | 3:08 |
 | 39 | [Palamaan](https://open.spotify.com/track/5oOeg8tJgIl4y2YFCj4tId) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 3:25 |
-| 40 | [Make up your mind](https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Make up your mind](https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj) | 3:08 |
+| 40 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 |
 | 41 | [Ikävä, kyllä](https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:54 |
 | 42 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
 | 43 | [Walk](https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Walk](https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM) | 2:56 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 49 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
 | 50 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
 | 51 | [Kaikki viel edessä](https://open.spotify.com/track/2E1Mh0I5MrZy3AHidKr63j) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kaikki viel edessä](https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD) | 3:04 |
-| 52 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |
-| 53 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 |
+| 52 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 |
+| 53 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |
 | 54 | [CEO \(Rich Man\)](https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [CEO \(Rich Man\)](https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy) | 2:29 |
 | 55 | [SHOTIT](https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SHOTIT](https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ) | 2:34 |
 | 56 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 94 | [Kamikaze](https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF) | [Molly Mae](https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl) | [Kamikaze](https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj) | 2:02 |
 | 95 | [Kangastus](https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf) | [Otto](https://open.spotify.com/artist/3A8s2MMhh7HmdromfKDCBp) | [Kangastus](https://open.spotify.com/album/4tqjrdVVDFkNy0nF2cL9Mg) | 2:29 |
 | 96 | [I Wasn't Young, I Needed the Money](https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y) | [Sin Cos Tan](https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ) | [I Wasn't Young, I Needed the Money](https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi) | 3:27 |
-| 97 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 98 | [Come Back](https://open.spotify.com/track/0ELSvcZ3EKntkBHqARS0Vw) | [Killer](https://open.spotify.com/artist/2Ce4WjRfZtYR4Z8Z6fDkOQ) | [Come Back](https://open.spotify.com/album/7lol51cvjCqEr587nLcY6t) | 2:50 |
+| 97 | [Come Back](https://open.spotify.com/track/0ELSvcZ3EKntkBHqARS0Vw) | [Killer](https://open.spotify.com/artist/2Ce4WjRfZtYR4Z8Z6fDkOQ) | [Come Back](https://open.spotify.com/album/7lol51cvjCqEr587nLcY6t) | 2:50 |
+| 98 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 99 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
 | 100 | [Shinola](https://open.spotify.com/track/3tJ7DnD7488H5g1EzIqe4T) | [Michael Monroe](https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ) | [Shinola](https://open.spotify.com/album/7FRxZI6MPRqy66KUjw3KOK) | 2:43 |
 
-Snapshot ID: `AAAAAFR/XHWjZ3GtHMdROLAMjSGf53rX`
+Snapshot ID: `AAAAANzwbChtakOR6T8U+sgl/nvdx79r`

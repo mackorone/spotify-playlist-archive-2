@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Marra e Guè in cover della playlist con tutte le hit 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707,001 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706,853 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 49 | [AL MIO PAESE](https://open.spotify.com/track/0C2IeaV0r1F8IYWe4JjM2u) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [AL MIO PAESE](https://open.spotify.com/album/2puopS5aH6YlpFJYqx6jGK) | 3:17 |
 | 50 | [AMOR](https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 2:57 |
 
-Snapshot ID: `AAAAAEXC2W88kPXQsYgIqqtvXPzUonSD`
+Snapshot ID: `AAAAAP7Coli1EFm3vfQQTkFNWt/JRUVX`

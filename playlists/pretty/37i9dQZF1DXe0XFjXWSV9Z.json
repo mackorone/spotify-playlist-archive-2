@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 52033,
+  "num_followers": 52037,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALLUVfD09vgsQq4NL+8W+NKiJUow",
+  "snapshot_id": "AAAAAPPnLMfc42lsN3KUBb2CV7TO5thy",
   "tracks": [
     {
       "added_at": "2025-05-19 17:05:09",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Agujas en el pecho",
-        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 320682,
-      "name": "Agujas en el pecho",
-      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Hijo de Tigre",
         "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 356693,
       "name": "La We\u00e1",
       "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Agujas en el pecho",
+        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "duration_ms": 320682,
+      "name": "Agujas en el pecho",
+      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Lalango",
-        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
       "artists": [
         {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
         }
       ],
-      "duration_ms": 209371,
-      "name": "Republica Federal de Malphino",
-      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+        "name": "Lalango",
+        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
       },
       "artists": [
         {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
         }
       ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+      "duration_ms": 209371,
+      "name": "Republica Federal de Malphino",
+      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 160067,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mamarron, Vol.1",
         "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
       },
@@ -1263,22 +1247,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Chica Psy",
         "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
       },
@@ -1291,6 +1259,38 @@
       "duration_ms": 202302,
       "name": "Chica Psy",
       "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "STYNDOUDOU",
+        "url": "https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt"
+      },
+      "artists": [
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        },
+        {
+          "name": "Styn",
+          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+        }
+      ],
+      "duration_ms": 173362,
+      "name": "BADINERIE",
+      "url": "https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Solo Yo",
         "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 401937,
       "name": "Cumbia Ocea\u00cc\u0081nica",
       "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "STYNDOUDOU",
-        "url": "https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt"
-      },
-      "artists": [
-        {
-          "name": "King Doudou",
-          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
-        },
-        {
-          "name": "Styn",
-          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
-        }
-      ],
-      "duration_ms": 173362,
-      "name": "BADINERIE",
-      "url": "https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+        "name": "Virgen de Guadalupe",
+        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
       },
       "artists": [
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
         }
       ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+      "duration_ms": 222214,
+      "name": "Virgen de Guadalupe",
+      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1523,22 +1539,6 @@
       "duration_ms": 270090,
       "name": "Puerta del sol",
       "url": "https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Virgen de Guadalupe",
-        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
-      },
-      "artists": [
-        {
-          "name": "Los Pe\u00f1aloza",
-          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Virgen de Guadalupe",
-      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Infame Golpazo En Keroxen",
-        "url": "https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 234603,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Ocelote",
         "url": "https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 434400,
       "name": "Ocelote",
       "url": "https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Infame Golpazo En Keroxen",
+        "url": "https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 234603,
+      "name": "Todos tenemos hogar",
+      "url": "https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv"
     },
     {
       "added_at": "2025-05-19 17:05:09",

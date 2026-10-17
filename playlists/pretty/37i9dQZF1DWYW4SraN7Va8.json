@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 218035,
+  "num_followers": 218093,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkHenWVE89z/5sRZ0bo/XUoAd4c",
+  "snapshot_id": "AAAAANwLG1AKAMxHjqpTzoSvoZ3Qd77T",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:08",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
       "artists": [
         {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 245640,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -215,18 +215,18 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
         }
       ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261495,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 269712,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261495,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Rock! Rock! (Till You Drop)",
-      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 223533,
       "name": "I Wanna Be Somebody",
       "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Rock! Rock! (Till You Drop)",
+      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
     },
     {
       "added_at": "2026-09-11 06:00:08",

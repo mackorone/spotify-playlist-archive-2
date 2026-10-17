@@ -1,12 +1,12 @@
 {
   "description": "Calm jazz instrumentals for working, reading, focusing, or simply winding down.",
-  "num_followers": 2342568,
+  "num_followers": 2343048,
   "original_name": "Jazz in the Background",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKSb+xeLIOHMQbGK2fPvwXQLahFA",
+  "snapshot_id": "AAAAAAzk/TSqPzeeUfhWpqHY/8dpmuIl",
   "tracks": [
     {
       "added_at": "2026-10-05 13:08:50",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/0nz6AHqyCbT8tPfUTATOAT"
     },
     {
+      "added_at": "2026-10-16 08:50:13",
+      "album": {
+        "name": "Right in Front of Me, Was You",
+        "url": "https://open.spotify.com/album/12Tw2oddho1VLLdsaiXFFo"
+      },
+      "artists": [
+        {
+          "name": "Northern Collective",
+          "url": "https://open.spotify.com/artist/2Ok6bdrv7TkhrTy3YldbCB"
+        }
+      ],
+      "duration_ms": 204624,
+      "name": "Right in Front of Me, Was You",
+      "url": "https://open.spotify.com/track/3cuhpRVEXe8tGKDGsYZrR0"
+    },
+    {
       "added_at": "2026-10-05 13:08:50",
       "album": {
         "name": "Dirty Martini",
@@ -87,6 +103,22 @@
       "duration_ms": 255775,
       "name": "Homeward",
       "url": "https://open.spotify.com/track/5XmzPjdSk86l8PQCm7BBIo"
+    },
+    {
+      "added_at": "2026-10-16 08:50:13",
+      "album": {
+        "name": "Almost Familiar",
+        "url": "https://open.spotify.com/album/5P5amuD7NROXnarAMLazGv"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "duration_ms": 215750,
+      "name": "Almost Familiar",
+      "url": "https://open.spotify.com/track/40trKt1SweTw8S42KhNxhi"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -121,6 +153,22 @@
       "url": "https://open.spotify.com/track/1dnyvjDQH5dESQxdNdv3iS"
     },
     {
+      "added_at": "2026-10-16 08:50:13",
+      "album": {
+        "name": "Vesper",
+        "url": "https://open.spotify.com/album/4aAG6a4xvNVxXbyY9pUrcO"
+      },
+      "artists": [
+        {
+          "name": "The 52nd Street Club",
+          "url": "https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU"
+        }
+      ],
+      "duration_ms": 180502,
+      "name": "Vesper",
+      "url": "https://open.spotify.com/track/0x3Q11ZQzXqKDlw1G63Ra2"
+    },
+    {
       "added_at": "2026-10-05 13:08:50",
       "album": {
         "name": "An eyelash on your cheek",
@@ -139,22 +187,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Reminiscent",
-        "url": "https://open.spotify.com/album/4O22cW3JN7ptjNVXYZIvoM"
-      },
-      "artists": [
-        {
-          "name": "Dean St. Trio",
-          "url": "https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7"
-        }
-      ],
-      "duration_ms": 278395,
-      "name": "Reminiscent",
-      "url": "https://open.spotify.com/track/1kSgVoVd7WQ6PCUDPIIRv2"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "For Three Minutes",
         "url": "https://open.spotify.com/album/3o6gK1YIub1454FXOINpu1"
       },
@@ -167,6 +199,22 @@
       "duration_ms": 214335,
       "name": "For Three Minutes",
       "url": "https://open.spotify.com/track/3lVtamdAM8I6H41mSLMO1T"
+    },
+    {
+      "added_at": "2026-10-16 08:50:13",
+      "album": {
+        "name": "I Knew Enough",
+        "url": "https://open.spotify.com/album/0LEa6Pu6ypidZot5VO9bvk"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 221872,
+      "name": "I Knew Enough",
+      "url": "https://open.spotify.com/track/2U1GzKRHmRy7KO8Ewli256"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -183,6 +231,22 @@
       "duration_ms": 201736,
       "name": "Be the Real Thing",
       "url": "https://open.spotify.com/track/7Emis89n3tDGSuClGUIthI"
+    },
+    {
+      "added_at": "2026-10-16 08:50:13",
+      "album": {
+        "name": "Could You Be That Someone",
+        "url": "https://open.spotify.com/album/1C0e5NaIE2lrWd71oNsWGZ"
+      },
+      "artists": [
+        {
+          "name": "Tritone Trio",
+          "url": "https://open.spotify.com/artist/2CiZxBwiRIvtH5n0Nrps1b"
+        }
+      ],
+      "duration_ms": 244848,
+      "name": "Could You Be That Someone",
+      "url": "https://open.spotify.com/track/4E0uvpJK8cezGjocZYmztl"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -233,6 +297,22 @@
       "url": "https://open.spotify.com/track/0fswN3BXxEMpHt0FMFkee5"
     },
     {
+      "added_at": "2026-10-16 08:50:13",
+      "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/7ce1BgSDZiz6bScteNflMx"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 256346,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/5UqQYACFfcGyyj3VLxRjLn"
+    },
+    {
       "added_at": "2026-10-05 13:08:50",
       "album": {
         "name": "Yard Rat's Waltz",
@@ -247,22 +327,6 @@
       "duration_ms": 188366,
       "name": "Yard Rat's Waltz",
       "url": "https://open.spotify.com/track/3xtweVNI6RwkJzgcWL0jKD"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Silky Smooth",
-        "url": "https://open.spotify.com/album/5VTdbOAUTm7Kzs5iMbhDAe"
-      },
-      "artists": [
-        {
-          "name": "Trio Apertura",
-          "url": "https://open.spotify.com/artist/4NAmtCdBLrmzr5avVCNhzF"
-        }
-      ],
-      "duration_ms": 260588,
-      "name": "Silky Smooth",
-      "url": "https://open.spotify.com/track/1KD8BEsmmsVxsRym5tiL0P"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -295,22 +359,6 @@
       "duration_ms": 306400,
       "name": "Count The Stars",
       "url": "https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Nothing Changes",
-        "url": "https://open.spotify.com/album/1A6YmP0UX7FL6psyg3n9C6"
-      },
-      "artists": [
-        {
-          "name": "Marc & Friends",
-          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
-        }
-      ],
-      "duration_ms": 220003,
-      "name": "Nothing Changes",
-      "url": "https://open.spotify.com/track/7esw340aZ2vBuv6eXxEuhY"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -459,6 +507,22 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
+        "name": "Silky Smooth",
+        "url": "https://open.spotify.com/album/5VTdbOAUTm7Kzs5iMbhDAe"
+      },
+      "artists": [
+        {
+          "name": "Trio Apertura",
+          "url": "https://open.spotify.com/artist/4NAmtCdBLrmzr5avVCNhzF"
+        }
+      ],
+      "duration_ms": 260588,
+      "name": "Silky Smooth",
+      "url": "https://open.spotify.com/track/1KD8BEsmmsVxsRym5tiL0P"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
         "name": "Eyes in Disguise",
         "url": "https://open.spotify.com/album/1laoaLmIRH5oc5jVngYCdY"
       },
@@ -491,18 +555,18 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Alone with you",
-        "url": "https://open.spotify.com/album/06wnAvoQd6FvpVPY3MKWbH"
+        "name": "Nothing Changes",
+        "url": "https://open.spotify.com/album/1A6YmP0UX7FL6psyg3n9C6"
       },
       "artists": [
         {
-          "name": "Mareld Trio",
-          "url": "https://open.spotify.com/artist/4uWLlqbaxT3HX5ucOLaiSJ"
+          "name": "Marc & Friends",
+          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Alone with you",
-      "url": "https://open.spotify.com/track/4ghLTnIe4wfTIzNnTVODTm"
+      "duration_ms": 220003,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/7esw340aZ2vBuv6eXxEuhY"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -1051,22 +1115,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "When You're Done",
-        "url": "https://open.spotify.com/album/6MpA5fX3dAHm7iroQxK0Ai"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 309852,
-      "name": "When You're Done",
-      "url": "https://open.spotify.com/track/34g5Flffr597kesFfa0BVr"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Where The Light Fades",
         "url": "https://open.spotify.com/album/4eJOgIlFISg9IIsSm3xmsC"
       },
@@ -1143,6 +1191,22 @@
       "duration_ms": 217541,
       "name": "The Happy Genius",
       "url": "https://open.spotify.com/track/3lK4qeCfpNz06k9zpVHDUu"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Reminiscent",
+        "url": "https://open.spotify.com/album/4O22cW3JN7ptjNVXYZIvoM"
+      },
+      "artists": [
+        {
+          "name": "Dean St. Trio",
+          "url": "https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7"
+        }
+      ],
+      "duration_ms": 278395,
+      "name": "Reminiscent",
+      "url": "https://open.spotify.com/track/1kSgVoVd7WQ6PCUDPIIRv2"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -1227,6 +1291,22 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
+        "name": "When You're Done",
+        "url": "https://open.spotify.com/album/6MpA5fX3dAHm7iroQxK0Ai"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 309852,
+      "name": "When You're Done",
+      "url": "https://open.spotify.com/track/34g5Flffr597kesFfa0BVr"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
         "name": "The Weight of White",
         "url": "https://open.spotify.com/album/0fcoGl543q9kjhwicmAt43"
       },
@@ -1303,22 +1383,6 @@
       "duration_ms": 271125,
       "name": "I'm Thru with Love",
       "url": "https://open.spotify.com/track/0ZiczPLy7n7MYcgTBYnVqC"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Two Floors Up",
-        "url": "https://open.spotify.com/album/0NKug6Z4uhT8uWkJD1uNXs"
-      },
-      "artists": [
-        {
-          "name": "The Indigo Trio",
-          "url": "https://open.spotify.com/artist/3X8jbykM6jKWuKKSzQ6kCb"
-        }
-      ],
-      "duration_ms": 285608,
-      "name": "Two Floors Up",
-      "url": "https://open.spotify.com/track/0bvvH67pvhtUCgNWdV4mcE"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -1527,6 +1591,22 @@
       "duration_ms": 170803,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/2TzloHEOXqQd6bVpMl3bPX"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Two Floors Up",
+        "url": "https://open.spotify.com/album/0NKug6Z4uhT8uWkJD1uNXs"
+      },
+      "artists": [
+        {
+          "name": "The Indigo Trio",
+          "url": "https://open.spotify.com/artist/3X8jbykM6jKWuKKSzQ6kCb"
+        }
+      ],
+      "duration_ms": 285608,
+      "name": "Two Floors Up",
+      "url": "https://open.spotify.com/track/0bvvH67pvhtUCgNWdV4mcE"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -1947,22 +2027,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Almost Heard Your Name",
-        "url": "https://open.spotify.com/album/0ZtvIaunyZZcGJt5ABl9ZR"
-      },
-      "artists": [
-        {
-          "name": "Akio",
-          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
-        }
-      ],
-      "duration_ms": 189260,
-      "name": "Almost Heard Your Name",
-      "url": "https://open.spotify.com/track/6JH13HNKl7Saer5yXvV85d"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Spring Into Summer",
         "url": "https://open.spotify.com/album/0BwYFXtc4ZJrDkSN3PCqcS"
       },
@@ -2119,6 +2183,22 @@
       "duration_ms": 175198,
       "name": "Dimma",
       "url": "https://open.spotify.com/track/0psxsB5R09bk0oNd7pBK6U"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Almost Heard Your Name",
+        "url": "https://open.spotify.com/album/0ZtvIaunyZZcGJt5ABl9ZR"
+      },
+      "artists": [
+        {
+          "name": "Akio",
+          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
+        }
+      ],
+      "duration_ms": 189260,
+      "name": "Almost Heard Your Name",
+      "url": "https://open.spotify.com/track/6JH13HNKl7Saer5yXvV85d"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -2331,54 +2411,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Failure to Exist",
-        "url": "https://open.spotify.com/album/3UPrpDHbuepzIysdkU7FFj"
-      },
-      "artists": [
-        {
-          "name": "Astoria Three",
-          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
-        }
-      ],
-      "duration_ms": 213587,
-      "name": "Failure to Exist",
-      "url": "https://open.spotify.com/track/2fOMqKlzIREduamkKPVbFY"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Skating",
-        "url": "https://open.spotify.com/album/0ZrbloJJ2ydZEyycVtlb5U"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Skating",
-      "url": "https://open.spotify.com/track/3243Z1KdvJ2EUGhOooqk6Q"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "All For Real",
-        "url": "https://open.spotify.com/album/58GV49Orr2iqyGwlkUzfrF"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
-        }
-      ],
-      "duration_ms": 175123,
-      "name": "All For Real",
-      "url": "https://open.spotify.com/track/2ixbwKok3VySVDAFYkRWyD"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Under a Blanket of Blue",
         "url": "https://open.spotify.com/album/22FIG7MozDFZA5OGLFoKld"
       },
@@ -2487,6 +2519,22 @@
       "duration_ms": 145204,
       "name": "Contours",
       "url": "https://open.spotify.com/track/1KojQHlLhq9jSycjWnkYgn"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Failure to Exist",
+        "url": "https://open.spotify.com/album/3UPrpDHbuepzIysdkU7FFj"
+      },
+      "artists": [
+        {
+          "name": "Astoria Three",
+          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "Failure to Exist",
+      "url": "https://open.spotify.com/track/2fOMqKlzIREduamkKPVbFY"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -2987,22 +3035,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "When Love Lets You Down",
-        "url": "https://open.spotify.com/album/74MKgaW2OyOk5UXG97qfTX"
-      },
-      "artists": [
-        {
-          "name": "The Southern Belle",
-          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
-        }
-      ],
-      "duration_ms": 176887,
-      "name": "When Love Lets You Down",
-      "url": "https://open.spotify.com/track/4ijzQS5HIgCI7b7pi9mSek"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "A minute so long",
         "url": "https://open.spotify.com/album/4hq76KYACxP9LUb8CqZttE"
       },
@@ -3243,38 +3275,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "What's New?",
-        "url": "https://open.spotify.com/album/1hUaTxytV1XZvWFzogfoIa"
-      },
-      "artists": [
-        {
-          "name": "Francis Graden",
-          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
-        }
-      ],
-      "duration_ms": 184778,
-      "name": "What's New?",
-      "url": "https://open.spotify.com/track/7IekZIkU2wD5Kz2B1VeO2n"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "From my point of view",
-        "url": "https://open.spotify.com/album/0qgi2h6QTpFE8J8KZwVCee"
-      },
-      "artists": [
-        {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "From my point of view",
-      "url": "https://open.spotify.com/track/3aVhhxJ2TkaqFvQt7NlC6G"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Evening Sun",
         "url": "https://open.spotify.com/album/47uiCpOa5y5ZEwBjkhwve0"
       },
@@ -3371,18 +3371,18 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "If we don't meet again",
-        "url": "https://open.spotify.com/album/5RUKXQ3Z5KIeWu6gZxCjGV"
+        "name": "What's New?",
+        "url": "https://open.spotify.com/album/1hUaTxytV1XZvWFzogfoIa"
       },
       "artists": [
         {
-          "name": "Trio in Transit",
-          "url": "https://open.spotify.com/artist/5N4Y1kGWdM70gOzO41lvk1"
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
         }
       ],
-      "duration_ms": 208470,
-      "name": "If we don't meet again",
-      "url": "https://open.spotify.com/track/5QSXWwxMRtDDdiSiH5CcWB"
+      "duration_ms": 184778,
+      "name": "What's New?",
+      "url": "https://open.spotify.com/track/7IekZIkU2wD5Kz2B1VeO2n"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -3431,22 +3431,6 @@
       "duration_ms": 167307,
       "name": "The Small Things",
       "url": "https://open.spotify.com/track/3Ifr0lmnOeTaCHDXuDMR25"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Long Have I Longed For",
-        "url": "https://open.spotify.com/album/44xa25y3tXuGxa2xdw3AdM"
-      },
-      "artists": [
-        {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
-        }
-      ],
-      "duration_ms": 190965,
-      "name": "Long Have I Longed For",
-      "url": "https://open.spotify.com/track/6i1w3XtzHwlDGP1qgF2p8P"
     }
   ],
   "unique_name": "Jazz in the Background",

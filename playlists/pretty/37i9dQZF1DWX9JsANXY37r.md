@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > drinks em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,604 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,609 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 46 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |
 | 47 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
 | 48 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 4:11 |
-| 49 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 50 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
-| 51 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
+| 49 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
+| 50 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
+| 51 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
 | 52 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 53 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 |
-| 54 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
-| 55 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
-| 56 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |
-| 57 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
+| 54 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
+| 55 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
+| 56 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
+| 57 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |
 | 58 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |
 | 59 | [Sur Une Chanson En Français](https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Couleurs Primaires](https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9) | 5:14 |
 | 60 | [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 |
 
-Snapshot ID: `AAAAALf+T5WJ/CmJvLi9d3lVyCPCsbkI`
+Snapshot ID: `AAAAABvp6Cvg9Z2I7vuuiiOZc5ozO1Af`

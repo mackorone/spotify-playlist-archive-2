@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-870 songs - 1 day 18 hr 28 min
+873 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 | 2025-03-25 |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flaming Katy](https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Flaming Katy](https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J) | 3:21 | 2023-09-22 | 2024-10-09 |
-| [Floating between your words](https://open.spotify.com/track/2R10v5xG1S5aoCKzwT5CId) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Floating between your words](https://open.spotify.com/album/06HpM4qVrQZlgaRs5cFcAD) | 2:26 | 2026-07-10 |  |
+| [Floating between your words](https://open.spotify.com/track/2R10v5xG1S5aoCKzwT5CId) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Floating between your words](https://open.spotify.com/album/06HpM4qVrQZlgaRs5cFcAD) | 2:26 | 2026-07-10 | 2026-10-17 |
 | [Floor 21](https://open.spotify.com/track/75rkXMCUU80CIjpgWADrdz) | [Joel Owen](https://open.spotify.com/artist/0ESPKqwnmULAnGy14BSiZJ) | [Floor 21](https://open.spotify.com/album/7uknfb6brZhOzIBaqEb4IS) | 2:05 | 2024-06-04 | 2025-06-18 |
 | [Flowers in the Morning](https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Flowers in the Morning](https://open.spotify.com/album/0tHJZJcfoSTqBZyec9bOOX) | 3:11 | 2024-01-05 | 2026-01-24 |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 | 2024-09-04 |
@@ -291,6 +291,7 @@
 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 | 2025-06-17 | 2026-01-24 |
 | [Habit\-forming](https://open.spotify.com/track/6whyQbbwPowZ3u24SsgDWE) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Habit\-forming](https://open.spotify.com/album/2cneO9u6mzVafnCAY8lZWe) | 2:31 | 2023-08-10 | 2025-10-16 |
 | [Haley's Comet](https://open.spotify.com/track/6l5ugDTNaJpzROfC1OLEIJ) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Haley's Comet](https://open.spotify.com/album/6wVjnR2KDv2pzNKN3g7HTe) | 2:40 | 2026-07-10 | 2026-07-27 |
+| [Halfway To Somewhere](https://open.spotify.com/track/0JyokWjQl9sfihnoD4Mned) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [Halfway To Somewhere](https://open.spotify.com/album/1JmZ4VaIcjVOqO7unakgZm) | 2:09 | 2026-10-16 |  |
 | [Happy Days](https://open.spotify.com/track/6OXbT5aTGZDURNRG9XBNi9) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Happy Days](https://open.spotify.com/album/7DIg6LQbbwVZNioht5hana) | 2:57 | 2023-03-30 | 2024-09-04 |
 | [Harbor of Dreams](https://open.spotify.com/track/7JudkcEQdrEyy8b0aSyVxA) | [Julian Emerson](https://open.spotify.com/artist/5ndOevWj1KK1Za6cMrz1d8) | [Harbor of Dreams](https://open.spotify.com/album/3XtoSB1THdZ5vaLjpa1jG8) | 2:06 | 2024-06-14 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3CNMWUJPO4LLndGl6RrSYR) | [Nathalie Ambrosi](https://open.spotify.com/artist/6xOxkOrdq0NoTTAIsrOVEB) | [Have You Met Miss Jones](https://open.spotify.com/album/2Jn4Vsvht7JcDihWent9iT) | 2:41 | 2023-03-30 | 2025-10-16 |
@@ -544,6 +545,7 @@
 | [Nothing at All](https://open.spotify.com/track/4mtlNEE9HaH28kvs9AhCer) | [Vera Nightingale](https://open.spotify.com/artist/6dgvfOxu8nivAN0pQPLeEo) | [Nothing at All](https://open.spotify.com/album/3nINBOgVRQuG7gZWr6m15A) | 2:23 | 2026-05-08 |  |
 | [Nothing Like](https://open.spotify.com/track/2Vw46xS7R0mGrY7LnYxypY) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Nothing Like I Thought](https://open.spotify.com/album/5ewgEcHCrdQGnsuQln849p) | 2:38 | 2025-12-02 |  |
 | [Nothing Like Home](https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb) | [Degli Scalzi](https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp) | [Nothing Like Home](https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6) | 2:33 | 2025-04-15 | 2026-05-09 |
+| [Nothing Moves Quickly Here](https://open.spotify.com/track/2wmvVgoX2ZhR8JhiIdQYvE) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Nothing Moves Quickly Here](https://open.spotify.com/album/29SLQngYuGhaWgsGKCxUU4) | 2:36 | 2026-10-16 |  |
 | [Noticed Moments](https://open.spotify.com/track/1c65kXG4oxgx3PMCRMhD1n) | [Novo Alonso](https://open.spotify.com/artist/5CswSV6SeGqATyFK4cEUqg) | [Noticed Moments](https://open.spotify.com/album/4zrw0vkGLzU1G3xdw49d16) | 2:46 | 2024-05-30 | 2025-10-16 |
 | [novak](https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [novak](https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM) | 2:10 | 2023-12-22 | 2026-01-24 |
 | [Now\-empty](https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Now\-empty](https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t) | 1:49 | 2023-05-25 | 2023-08-19 |
@@ -565,7 +567,7 @@
 | [Only A Few Will Know](https://open.spotify.com/track/5wv2EtqjTwRsVM9oFSQAln) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Only A Few Will Know](https://open.spotify.com/album/7o7Vhmq9212zMiNymtnPCi) | 2:41 | 2024-10-01 | 2025-11-11 |
 | [Only Trust Your Heart](https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Only Trust Your Heart](https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta) | 2:22 | 2024-02-23 | 2025-11-11 |
 | [Only You](https://open.spotify.com/track/73j1TvyRJyX7ntAixyiZCK) | [Emile Valadon](https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS) | [Only You](https://open.spotify.com/album/0aZdPmg3NYMj4Bfs8KXPh0) | 2:25 | 2026-07-10 |  |
-| [Orion](https://open.spotify.com/track/5fhlriWxzZWNOCAL9z9AwG) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Orion](https://open.spotify.com/album/1yfASIKHgeXoWasPQwWMeI) | 2:04 | 2024-06-27 |  |
+| [Orion](https://open.spotify.com/track/5fhlriWxzZWNOCAL9z9AwG) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Orion](https://open.spotify.com/album/1yfASIKHgeXoWasPQwWMeI) | 2:04 | 2024-06-27 | 2026-10-17 |
 | [Our Last Night](https://open.spotify.com/track/1kn5wHyoMHdVWG7nGfK4uq) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Our Last Night](https://open.spotify.com/album/0MWb0DUPUyt6bMaRWbPDSs) | 2:28 | 2025-07-23 | 2026-04-25 |
 | [Our Time](https://open.spotify.com/track/41AJ4gZHoL7JOpgUPXl4vr) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Our Time](https://open.spotify.com/album/4uX4neguBj1gfq3xum5kSs) | 2:16 | 2024-04-23 | 2025-09-24 |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2022-11-17 | 2025-06-18 |
@@ -736,7 +738,7 @@
 | [The Drive](https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Drive](https://open.spotify.com/album/0iOkAxEHl2pxlAu9edGyJu) | 2:40 | 2023-06-22 | 2024-08-20 |
 | [The Echo of Us](https://open.spotify.com/track/6GixKW2Z0BzdEim77bNGj6) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [The Echo of Us](https://open.spotify.com/album/3byzzk983VYIMZGBTSkv6K) | 3:14 | 2026-04-24 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2023-03-16 | 2025-10-16 |
-| [The gentle kind of blue](https://open.spotify.com/track/5FTAiWsy7XMHOjd1jYV3Li) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [The gentle kind of blue](https://open.spotify.com/album/0ixxw6w3mV64PUZHxDm2T7) | 2:23 | 2026-07-10 |  |
+| [The gentle kind of blue](https://open.spotify.com/track/5FTAiWsy7XMHOjd1jYV3Li) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [The gentle kind of blue](https://open.spotify.com/album/0ixxw6w3mV64PUZHxDm2T7) | 2:23 | 2026-07-10 | 2026-10-17 |
 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 | 2021-12-07 | 2025-03-04 |
 | [The Green Sky](https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [The Green Sky](https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec) | 3:01 | 2023-05-04 | 2025-10-16 |
 | [The Hills](https://open.spotify.com/track/6R1p1fumkttTWuMZqMLojv) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [The Hills](https://open.spotify.com/album/2EpNaRXAmNdUmG3I40dJXv) | 2:48 | 2024-01-05 | 2025-11-04 |
@@ -846,6 +848,7 @@
 | [When My Piano Sleeps](https://open.spotify.com/track/5phC8Pv8rQvGNwUnKmU4cZ) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [When My Piano Sleeps](https://open.spotify.com/album/5ybfirWoSKN4w1MDQlxmIb) | 2:25 | 2023-11-17 | 2025-11-21 |
 | [When shadows fall](https://open.spotify.com/track/3fZhmPTU8TFCNqp2FQkQG9) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [When shadows fall](https://open.spotify.com/album/314JkcRJ3k6bAZkSu5Nf0m) | 2:41 | 2026-07-10 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [When Sunny Gets Blue](https://open.spotify.com/album/52eXoXB6bX5hvKocauqYKC) | 4:03 | 2023-02-09 | 2025-07-02 |
+| [When the House Fell Silent](https://open.spotify.com/track/4OrMBZ8SQc7aEuzMw9Q6Xb) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [When the House Fell Silent](https://open.spotify.com/album/67X7jE6M9MtUfhjohYpSVF) | 2:16 | 2026-10-16 |  |
 | [When the night remembers](https://open.spotify.com/track/5dzLAmOiZEr1EgyNQFQKQP) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [When the night remembers](https://open.spotify.com/album/1GfAXP4n0AOSMr2x9qzlgi) | 2:44 | 2025-11-03 |  |
 | [When the night was kind](https://open.spotify.com/track/6DicT5IHrKFy5AA7QWY0ro) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [When the night was kind](https://open.spotify.com/album/6e4ltPXfH6d6Xz3pzCXmP8) | 2:49 | 2026-02-13 |  |
 | [When We Meet Again](https://open.spotify.com/track/71vWUMeyrgikHr6MwkUpCv) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [When We Meet Again](https://open.spotify.com/album/6vOUy7BcO38Yzd8Sfepaqm) | 2:47 | 2021-12-07 | 2024-07-13 |

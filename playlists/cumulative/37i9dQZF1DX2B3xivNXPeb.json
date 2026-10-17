@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/1Rgi7cJxdtyEBiw82eRo0H"
+      },
+      "artists": [
+        {
+          "name": "Barny Fletcher",
+          "url": "https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180818,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/1CIy9H06HPGqs92dnKGTTG"
+    },
+    {
+      "album": {
         "name": "Came Thru",
         "url": "https://open.spotify.com/album/13AAQF1ds0legttoSUV573"
       },
@@ -8884,7 +8902,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 202016,
       "name": "Stick Fight",
       "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"

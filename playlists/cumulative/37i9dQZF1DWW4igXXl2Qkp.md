@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Johnny Slime
 
-2,466 songs - 4 day 8 hr 33 min
+2,466 songs - 4 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2217,7 +2217,6 @@
 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 | 2022-08-10 | 2022-10-06 |
 | [Toxic Situation](https://open.spotify.com/track/72v4BijnUMQoU2LB9lAZTU) | [Big Bratt](https://open.spotify.com/artist/4H7s71IsQDWe4DFArSBzD4), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The First Lady](https://open.spotify.com/album/1QpImHMH1H8R9zocMvmbsq) | 2:31 | 2024-06-12 | 2024-06-20 |
 | [Toxicity 2 \(feat\. devLfg\)](https://open.spotify.com/track/6D5XMrqwuxBJzsEPxJL4Ue) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4), [devLfg](https://open.spotify.com/artist/2CjquMeNWoDJvziMEyjJtA) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:08 | 2026-01-14 | 2026-04-16 |
-| [Track 5](https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN) | [Fatt Macc](https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4) | [Just Call Me Trap](https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn) | 0:00 | 2026-10-15 |  |
 | [TRACKHAWK](https://open.spotify.com/track/1tOnsspmCml7fdSC4TsI77) | [Wiardon](https://open.spotify.com/artist/7DNWAdCPicuaw9vhjudRlS) | [TRACKHAWK](https://open.spotify.com/album/1ItLOxHON2RHBRTl6GP3bY) | 2:40 | 2023-05-17 | 2023-07-20 |
 | [Trade It All](https://open.spotify.com/track/7ss4s3jFOUjMUqNZXaUkWn) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Trade It All](https://open.spotify.com/album/4Hyw9B3QDXQ6SxBGgyVRZ5) | 3:24 | 2022-02-03 | 2022-03-03 |
 | [Traumatized](https://open.spotify.com/track/4V6Ft7oleUWzFDwkibXFGV) | [lil toonk](https://open.spotify.com/artist/0Ns0gyxXD9EHaig3WyuqTt) | [Traumatized](https://open.spotify.com/album/2iOKsw5yhVDUYIeBCBQXPI) | 1:34 | 2024-11-27 | 2025-01-16 |
@@ -2327,6 +2326,7 @@
 | [Waste My Time](https://open.spotify.com/track/2EAWI4rpdfx6xSESkBevGB) | [Kansh](https://open.spotify.com/artist/5NhfYdxgkSTb0OIStFPR1Z) | [Waste My Time](https://open.spotify.com/album/1o0BBYB1LKAj6IFpuoxEK3) | 2:58 | 2022-09-07 | 2022-10-20 |
 | [WASTE NO TIME](https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ) | [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [WASTE NO TIME](https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a) | 3:00 | 2022-09-02 | 2022-10-14 |
 | [WASTED](https://open.spotify.com/track/5Qvl79mOnL2qzdCxuY2pPv) | [Riley Kane](https://open.spotify.com/artist/3fq9z5kAQQf7F6eeWK0jvw) | [WASTED](https://open.spotify.com/album/49bwKURCNVonSvm8CeeFLO) | 2:28 | 2025-07-18 | 2025-09-18 |
+| [Wat U Want \(feat\. Fatt Smaxk\)](https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN) | [Fatt Macc](https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4), [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Just Call Me Trap](https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn) | 2:49 | 2026-10-15 |  |
 | [Wata](https://open.spotify.com/track/6zuBr0T4FNsaqT0ThVRDZF) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [Wata](https://open.spotify.com/album/0Y87XYGHA1o8ZtaNdXd7pu) | 1:53 | 2026-04-08 | 2026-05-07 |
 | [Watch It Burn](https://open.spotify.com/track/32FM8juG27Fst9SqKpxiTx) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [Watch It Burn](https://open.spotify.com/album/5YNn4y6IkGRXsA09zDgG8R) | 2:03 | 2026-01-14 | 2026-04-23 |
 | [Watch My Back](https://open.spotify.com/track/7dklyqtYZvgiKWsAtpkSYF) | [Yung Skooley](https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl), [Zo Trapalot](https://open.spotify.com/artist/0zOFJko99w7x4NxEptB5cA) | [Watch My Back](https://open.spotify.com/album/6FJbKj4IzwoCN51pRrN76I) | 3:25 | 2025-03-20 | 2025-07-03 |

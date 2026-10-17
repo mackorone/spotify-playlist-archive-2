@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2222776,
+  "num_followers": 2222969,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJvt5TCZIo5N7vAKblGwchw0pPw/",
+  "snapshot_id": "AAAAAF3WJL6N40OyUZKmPj8HR7v3piRs",
   "tracks": [
     {
       "added_at": "2026-05-25 21:42:21",
@@ -109,28 +109,24 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2026-10-16 04:01:38",
       "album": {
-        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+        "name": "High All The Time (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/2emAr44ZSMVO0S1jIf9rgI"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
         },
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         }
       ],
-      "duration_ms": 244684,
-      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
-      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+      "duration_ms": 177284,
+      "name": "High All The Time (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/7aBHTd1qfoO6gUDGFOhCPT"
     },
     {
       "added_at": "2026-05-25 21:42:21",
@@ -155,18 +151,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
         }
       ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
       "added_at": "2026-06-26 04:00:10",
@@ -183,6 +187,22 @@
       "duration_ms": 119267,
       "name": "LET ME IN",
       "url": "https://open.spotify.com/track/0FJKAzOCba9AX4cVfAudd1"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1671,22 +1691,6 @@
       "duration_ms": 160382,
       "name": "more than just a little bit",
       "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
-    },
-    {
-      "added_at": "2026-06-05 04:01:51",
-      "album": {
-        "name": "jAGUAR",
-        "url": "https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 223025,
-      "name": "jAGUAR",
-      "url": "https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT"
     },
     {
       "added_at": "2024-09-20 04:00:00",

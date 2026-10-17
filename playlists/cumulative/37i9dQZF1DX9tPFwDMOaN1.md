@@ -4,7 +4,7 @@
 
 > The new & hottest K\-Pop is here! \(Cover: MEOVV\)
 
-942 songs - 2 day 0 hr 27 min
+943 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Nectar](https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.3 Love Letter](https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F) | 3:04 | 2024-03-18 | 2024-04-19 |
 | [Nectar \(Feat\. Jay Park\)](https://open.spotify.com/track/0Tq39nkuBrIdhGhUSRFISJ) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BM 1st EP 'Element'](https://open.spotify.com/album/6q2zOdLESHZyOpfSwA8Reb) | 2:57 | 2024-05-16 | 2024-07-06 |
 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-13 | 2022-09-02 |
+| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-16 |  |
 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 | 2024-03-29 | 2024-05-16 |
 | [Never Ending Story](https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:44 | 2025-05-28 | 2025-06-21 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-07 | 2024-08-13 |
@@ -799,7 +800,7 @@
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 | 2024-11-05 |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-04-03 | 2024-06-08 |
 | [Surf](https://open.spotify.com/track/2bJI4NceMjye26SmzewutW) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Surf](https://open.spotify.com/album/5XC6zgE2x581zlkJdOxjsZ) | 3:04 | 2025-08-12 | 2025-09-01 |
-| [Surfin' Boy](https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:48 | 2026-08-07 |  |
+| [Surfin' Boy](https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:48 | 2026-08-07 | 2026-10-17 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-24 | 2022-07-30 |
 | [Sweet Dreams](https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:09 | 2024-08-01 | 2024-09-21 |
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-08 | 2025-07-10 |

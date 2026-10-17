@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,321 songs - 3 day 1 hr 9 min
+1,322 songs - 3 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Kia Ora \- AK Remix](https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Kia Ora \(AK Remix\)](https://open.spotify.com/album/3rVMOyQFmAh39v3S8mPhL8) | 3:15 | 2023-12-05 | 2024-03-19 |
 | [Kibo](https://open.spotify.com/track/0yUs4kfYFLWI72EOhhtNyI) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Kibo](https://open.spotify.com/album/6hCpTjqGmd9qrBo5mNp3S3) | 2:25 | 2023-08-08 | 2023-12-14 |
 | [Kill The Lights](https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Kill The Lights](https://open.spotify.com/album/37NA8ATUVqpIxgLWv3LlGP) | 3:20 | 2024-01-18 | 2024-04-10 |
+| [Killer Instinct](https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Killer Instinct](https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO) | 3:12 | 2026-10-16 |  |
 | [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-12 | 2023-08-10 |
 | [KINGS OF THE BLOCK](https://open.spotify.com/track/7COTnn3UDXkMLclKWnPzU3) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AFTER HOURS MIXTAPE](https://open.spotify.com/album/2ONCilDSqQYTYjD2b1sRtG) | 1:12 | 2024-07-03 | 2024-09-26 |
 | [Kingslayer](https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [Kingslayer](https://open.spotify.com/album/7uAVQn7dKdmZSqk3Lu47g8) | 3:44 | 2023-03-20 | 2023-06-13 |

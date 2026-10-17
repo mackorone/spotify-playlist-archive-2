@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: The Tallest Man On Earth",
+  "description": "A laid-back trip in the folk scene. Cover: Andy Shauf",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 130600,
       "name": "1999",
       "url": "https://open.spotify.com/track/16N4Uin8Z7dr3wLq87EA6S"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/3j2lqvYUUnQZ0GgkoGS4JD"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153758,
+      "name": "33",
+      "url": "https://open.spotify.com/track/5rP1SqAtnoMHU655knRdlA"
     },
     {
       "album": {
@@ -1649,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "the afterparty",
+        "url": "https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167820,
+      "name": "angela the traveller",
+      "url": "https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY"
+    },
+    {
+      "album": {
         "name": "Animal Thing",
         "url": "https://open.spotify.com/album/57ew8V2ptdGl030ldaFiE8"
       },
@@ -1786,7 +1822,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 226072,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/0e2LldrTup4Mw01aFolhgp"
@@ -4156,7 +4192,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 171085,
       "name": "Brace for Impact",
       "url": "https://open.spotify.com/track/4m5h9O9nUCg5njX8tC344q"
@@ -10189,6 +10225,28 @@
     },
     {
       "album": {
+        "name": "Best of Our Possible Lives (Deluxe)",
+        "url": "https://open.spotify.com/album/6ituIIPw3mOlIOnS0Zndgm"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        },
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Fell In Love (Couldn't Get Out)",
+      "url": "https://open.spotify.com/track/2LT0EEkdCg1GFXbTKtz3Ci"
+    },
+    {
+      "album": {
         "name": "fetishizing struggle",
         "url": "https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV"
       },
@@ -11038,7 +11096,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 184000,
       "name": "For The Boys",
       "url": "https://open.spotify.com/track/0S2pDnQzdCmDxHKOIh5taS"
@@ -11688,6 +11746,24 @@
       "duration_ms": 129204,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
+    },
+    {
+      "album": {
+        "name": "Georgia Peaches",
+        "url": "https://open.spotify.com/album/4HbxD1phmD6CSrw4f0m5Ga"
+      },
+      "artists": [
+        {
+          "name": "The Bankes Brothers",
+          "url": "https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177803,
+      "name": "Georgia Peaches",
+      "url": "https://open.spotify.com/track/4WUe6xp2s6MXQWRQyNOxFB"
     },
     {
       "album": {
@@ -12630,7 +12706,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 212317,
       "name": "Hardtiming",
       "url": "https://open.spotify.com/track/0Tiza6pFtosFXkQPw7GrFK"
@@ -13168,7 +13244,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 173024,
       "name": "Her Eyes Dart Round",
       "url": "https://open.spotify.com/track/19usgOmcdzZMRx5XKJZlmV"
@@ -14050,7 +14126,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 227230,
       "name": "How To Make A Cowboy",
       "url": "https://open.spotify.com/track/5LQb0bP59Mnn79Pg5kUFbm"
@@ -14750,6 +14826,24 @@
       "duration_ms": 145185,
       "name": "i might say something stupid",
       "url": "https://open.spotify.com/track/34fnaIGoQq0j9iflnSEoaL"
+    },
+    {
+      "album": {
+        "name": "Spencer Burton",
+        "url": "https://open.spotify.com/album/4NT5oFSJ4o4OyhF6m60MkH"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299743,
+      "name": "I Need a Song",
+      "url": "https://open.spotify.com/track/07iHDLOYUGabXgYLfdgDOl"
     },
     {
       "album": {
@@ -15586,7 +15680,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172596,
       "name": "In My Gut",
       "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
@@ -16899,6 +16993,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
+    },
+    {
+      "album": {
         "name": "Knock The Wind",
         "url": "https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG"
       },
@@ -17184,6 +17296,24 @@
       "duration_ms": 221245,
       "name": "Laughter - Bouquet Version",
       "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
+    },
+    {
+      "album": {
+        "name": "laundry song",
+        "url": "https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227541,
+      "name": "laundry song",
+      "url": "https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK"
     },
     {
       "album": {
@@ -17620,6 +17750,28 @@
       "duration_ms": 173888,
       "name": "Life I Wanted",
       "url": "https://open.spotify.com/track/3So7Hy4evTP8sqkrVftZQy"
+    },
+    {
+      "album": {
+        "name": "Felice County Fair (A Celebration of The Felice Brothers)",
+        "url": "https://open.spotify.com/album/3KzKglgUmogktIg1YLo82f"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Felice County Fair",
+          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235789,
+      "name": "Life In The Dark",
+      "url": "https://open.spotify.com/track/3nPe8kguVhPkgApTQrxC71"
     },
     {
       "album": {
@@ -18324,6 +18476,24 @@
       "duration_ms": 233500,
       "name": "Looking For Love - Spotify Singles",
       "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
+    },
+    {
+      "album": {
+        "name": "Loop-de-Loop",
+        "url": "https://open.spotify.com/album/2VgjU3J1Vpl4KHri8x4OgD"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Loop-de-Loop",
+      "url": "https://open.spotify.com/track/1bgo7b0IZzjN1OIpAawaFf"
     },
     {
       "album": {
@@ -20845,6 +21015,28 @@
     },
     {
       "album": {
+        "name": "Natural Law",
+        "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147346,
+      "name": "Natural Law (ft. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
+    },
+    {
+      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/0mL20bpj5r7ftV7i5U3Zql"
       },
@@ -22416,7 +22608,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 264125,
       "name": "Old-Fashioned Love Song",
       "url": "https://open.spotify.com/track/5UFbRkSIHF5ONf7iibz4pr"
@@ -23224,6 +23416,24 @@
       "duration_ms": 245373,
       "name": "Outlaw in Me",
       "url": "https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237946,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX"
     },
     {
       "album": {
@@ -24317,6 +24527,24 @@
     },
     {
       "album": {
+        "name": "It Was My First Time",
+        "url": "https://open.spotify.com/album/6EhUzjYXlfFVT3lPXrosPy"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181977,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/1a1YmkR6iJeTXUS4hx1kmJ"
+    },
+    {
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -24758,7 +24986,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 206997,
       "name": "Rare (The Runner Song)",
       "url": "https://open.spotify.com/track/2LXFWcV15XY5QfGFgTpVbu"
@@ -24874,6 +25102,24 @@
       "duration_ms": 201652,
       "name": "Rebloom",
       "url": "https://open.spotify.com/track/3g0DRFppjlQ7aR8zjaCi0y"
+    },
+    {
+      "album": {
+        "name": "Red Label Bourbon",
+        "url": "https://open.spotify.com/album/6LdHmCluKasIiEE2VPBCIN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166019,
+      "name": "Red Label Bourbon",
+      "url": "https://open.spotify.com/track/6NbVCqFJnnIrKJkHKMO0B5"
     },
     {
       "album": {
@@ -26177,6 +26423,28 @@
     },
     {
       "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/5OaytXrSOsk0oVf39MhehV"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        },
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177340,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/2aoz4H7U7N61pbbifzXHOj"
+    },
+    {
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/7vF5BZUGryoLSIdQXwc7ey"
       },
@@ -26398,7 +26666,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 675476,
       "name": "Second Song",
       "url": "https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z"
@@ -30160,7 +30428,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 179050,
       "name": "the evergreen, the birch",
       "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
@@ -31025,6 +31293,24 @@
     },
     {
       "album": {
+        "name": "The Underworld",
+        "url": "https://open.spotify.com/album/3pelB3xfhorcKEPpSc27jM"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361040,
+      "name": "the weight",
+      "url": "https://open.spotify.com/track/4TVeDcIxXMR46zcnA2ArKo"
+    },
+    {
+      "album": {
         "name": "The Well Has Run Dry",
         "url": "https://open.spotify.com/album/5Op8BG0Ex8C3BHvRQvKE6H"
       },
@@ -31566,7 +31852,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 232146,
       "name": "Three Reds",
       "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
@@ -32210,7 +32496,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 241185,
       "name": "Tracking the Tropics",
       "url": "https://open.spotify.com/track/08VqSre55py2u3WlYSg1Ix"
@@ -32412,7 +32698,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 290141,
       "name": "Trying to Love You",
       "url": "https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ"
@@ -33431,6 +33717,24 @@
     },
     {
       "album": {
+        "name": "We Both Care",
+        "url": "https://open.spotify.com/album/3ATMs8puzPxt5ecEXlpqZe"
+      },
+      "artists": [
+        {
+          "name": "Ten Kills the Pack",
+          "url": "https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217035,
+      "name": "We Both Care",
+      "url": "https://open.spotify.com/track/1IXIgmdRsJGKNOfkOr1vlM"
+    },
+    {
+      "album": {
         "name": "we fly for the ones we love",
         "url": "https://open.spotify.com/album/3jl8hPTGLX9Jc5dYfGeLa2"
       },
@@ -33608,7 +33912,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 181333,
       "name": "What I Had",
       "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"

@@ -1,12 +1,12 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 328877,
+  "num_followers": 328886,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAptxS/Ifr2zXZSjW+zKckP2+tYQ",
+  "snapshot_id": "AAAAAC+r4xoy38RGDM1ddFZ2wk6yppEV",
   "tracks": [
     {
       "added_at": "2025-10-27 20:26:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Vampire Money",
-      "url": "https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 112426,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Vampire Money",
+      "url": "https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL"
     },
     {
       "added_at": "2025-10-27 20:26:25",

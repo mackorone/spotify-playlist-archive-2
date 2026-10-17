@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Los Gaiteros de San Jacinto, Fruko Y Sus Tesos, Carmelo Torres y Su Cumbia Sabanera & Madre Cumbia",
+  "description": "Lo nuevo del mundo tropical. Cover: Andr\u00e9s Cepeda y Maluma",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1624,6 +1624,36 @@
       "duration_ms": 208347,
       "name": "Ay, Ay, Ay",
       "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
+    },
+    {
+      "album": {
+        "name": "Ayer la vi",
+        "url": "https://open.spotify.com/album/2BkbkzPSmXXjFvUGzYFx55"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/7ACPhTO8Z1KOy1r0XOAaQ7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Ayer la vi",
+      "url": "https://open.spotify.com/track/5KxmFjMprD8S7KWL44jjLy"
     },
     {
       "album": {
@@ -3457,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Como Yo",
+        "url": "https://open.spotify.com/album/42dQ4OLWiKBF8dxsq616oQ"
+      },
+      "artists": [
+        {
+          "name": "Pen\u00e9lope Santacruz",
+          "url": "https://open.spotify.com/artist/1QlqS12K73y5zruVIzo37D"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185874,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/4r92GfYvKjePrQmHYYG8CN"
+    },
+    {
+      "album": {
         "name": "SEROTONINA (DELUXE)",
         "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
       },
@@ -3786,6 +3834,24 @@
       "duration_ms": 197200,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/7ftYb4y7GwiSmpbZizpZgZ"
+    },
+    {
+      "album": {
+        "name": "Corazones Llenos",
+        "url": "https://open.spotify.com/album/4q455bKDviWcnm3yo54oA6"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222473,
+      "name": "Corazones Llenos",
+      "url": "https://open.spotify.com/track/7oV1wcMzKDU5kNZjkqLblZ"
     },
     {
       "album": {
@@ -4372,6 +4438,24 @@
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
+    },
+    {
+      "album": {
+        "name": "Debajo De Tu Ombligo",
+        "url": "https://open.spotify.com/album/70ltLmllL3cCDb3yQCMjqT"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219929,
+      "name": "Debajo De Tu Ombligo",
+      "url": "https://open.spotify.com/track/0btRgVtEbCEGT8OVMLyErH"
     },
     {
       "album": {
@@ -5829,6 +5913,28 @@
     },
     {
       "album": {
+        "name": "El Perd\u00f3n",
+        "url": "https://open.spotify.com/album/7iCuQqBdp3URnblQgelfFL"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153822,
+      "name": "El Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5kcc8jQfzh9r6wNI06H6Ce"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -6012,6 +6118,24 @@
       "duration_ms": 182040,
       "name": "Ella Es Pa MI",
       "url": "https://open.spotify.com/track/4jGNTiWNeLrvb9jadmBhNu"
+    },
+    {
+      "album": {
+        "name": "Ella Esta Buena",
+        "url": "https://open.spotify.com/album/17iKuwfmuk6qYaKYk43RxE"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168436,
+      "name": "Ella Esta Buena",
+      "url": "https://open.spotify.com/track/6CYhcI2d0eXxmu70wj1tQ1"
     },
     {
       "album": {
@@ -6870,6 +6994,24 @@
       "duration_ms": 166998,
       "name": "Estas Ganas",
       "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
+    },
+    {
+      "album": {
+        "name": "Esto es distinto",
+        "url": "https://open.spotify.com/album/7rUYc1XYyZvkqrDFlNaUuh"
+      },
+      "artists": [
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281546,
+      "name": "Esto es distinto",
+      "url": "https://open.spotify.com/track/2vm8WnraOL4V7lF8bYVfbA"
     },
     {
       "album": {
@@ -8162,6 +8304,28 @@
       "duration_ms": 259588,
       "name": "Juanito",
       "url": "https://open.spotify.com/track/1RIlupWmpvwverfGALQALt"
+    },
+    {
+      "album": {
+        "name": "K-Bron",
+        "url": "https://open.spotify.com/album/4Q4ue0F5Xmd5fP5i98b2eH"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220748,
+      "name": "K-Bron",
+      "url": "https://open.spotify.com/track/6974ip6j09z1JX05T0atSJ"
     },
     {
       "album": {
@@ -9669,6 +9833,24 @@
     },
     {
       "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/2wCPL6MDguOP9bQIngrLwg"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274937,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/4XDaqSDD7KeDVGYWUoTXzB"
+    },
+    {
+      "album": {
         "name": "Llamadas Perdidas",
         "url": "https://open.spotify.com/album/7ypgWk9aVVzZ8sCKEWn46a"
       },
@@ -9807,6 +9989,28 @@
     },
     {
       "album": {
+        "name": "Lluvia (AWOO)",
+        "url": "https://open.spotify.com/album/3mo4ufVu2QADIxYmtqqnfF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294808,
+      "name": "Lluvia (AWOO)",
+      "url": "https://open.spotify.com/track/10kFJcJ2IAeadNm3R1zhD0"
+    },
+    {
+      "album": {
         "name": "Lo Caro y Lo Bueno",
         "url": "https://open.spotify.com/album/0OfQaUoTd5zBiB7J9KdjbX"
       },
@@ -9862,6 +10066,24 @@
       "duration_ms": 196829,
       "name": "Lo Nuestro Se Acab\u00f3",
       "url": "https://open.spotify.com/track/3clgHCFjmDz5MLr7XhQ58Y"
+    },
+    {
+      "album": {
+        "name": "Lo Peor",
+        "url": "https://open.spotify.com/album/4CcjRXWG9whaUeornuPuA6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159136,
+      "name": "Lo Peor",
+      "url": "https://open.spotify.com/track/3ZdJkHecQ8W8TrkefZBOrG"
     },
     {
       "album": {
@@ -10985,6 +11207,28 @@
     },
     {
       "album": {
+        "name": "ME EST\u00c1 GUSTANDO",
+        "url": "https://open.spotify.com/album/2U7FxU8vmjs5U9ZDVK7dqk"
+      },
+      "artists": [
+        {
+          "name": "Mariana Ochoa",
+          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
+        },
+        {
+          "name": "Maria Bernal",
+          "url": "https://open.spotify.com/artist/4b1FbId1PaWUVGCfES76E3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152222,
+      "name": "ME EST\u00c1 GUSTANDO",
+      "url": "https://open.spotify.com/track/5Hb6hM6PLEJjacDVRnx58s"
+    },
+    {
+      "album": {
         "name": "Me falta el Tiempo",
         "url": "https://open.spotify.com/album/1twfAZ8F9S1nCs1v4rMTT3"
       },
@@ -11465,6 +11709,24 @@
     },
     {
       "album": {
+        "name": "Mi Isla del Encanto",
+        "url": "https://open.spotify.com/album/07DincC8rWgyGGAmt1JKV5"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227056,
+      "name": "Mi Isla del Encanto",
+      "url": "https://open.spotify.com/track/7Dhaxe4C86alXvd0JP5U4r"
+    },
+    {
+      "album": {
         "name": "Mi Mejor Amiga",
         "url": "https://open.spotify.com/album/25tzyzIX2g6Zo1bMVhNS9C"
       },
@@ -11582,6 +11844,24 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "album": {
+        "name": "Mi Supuesto Amor",
+        "url": "https://open.spotify.com/album/1D9CsZATVcCGrb6n4k3xBK"
+      },
+      "artists": [
+        {
+          "name": "YORFERIAS",
+          "url": "https://open.spotify.com/artist/7p61gRXJMzdZ43uPvixXnr"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330967,
+      "name": "Mi Supuesto Amor",
+      "url": "https://open.spotify.com/track/7gVAACZ6mp4RRtyj0wnb6M"
     },
     {
       "album": {
@@ -13250,6 +13530,28 @@
       "duration_ms": 215300,
       "name": "Origami",
       "url": "https://open.spotify.com/track/6K1tnrsiLeVwLL60BlZq1o"
+    },
+    {
+      "album": {
+        "name": "Oto\u00f1oo",
+        "url": "https://open.spotify.com/album/2e3eGMo2MhHSWiYuuKNLWq"
+      },
+      "artists": [
+        {
+          "name": "MYGUEL",
+          "url": "https://open.spotify.com/artist/7vz9w9UZsOrmHHmz8fR2qt"
+        },
+        {
+          "name": "Jensen",
+          "url": "https://open.spotify.com/artist/24tjWCXUAwkLJ6bCvYXIde"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Oto\u00f1oo",
+      "url": "https://open.spotify.com/track/4OLxUmV5RrJuSCOwCVI1ti"
     },
     {
       "album": {
@@ -15064,6 +15366,24 @@
       "duration_ms": 210692,
       "name": "Qu\u00e9 Culpa Tengo Yo (feat. Rafa Pab\u00f6n)",
       "url": "https://open.spotify.com/track/4AixJH9KlcFih0TeGxBMDa"
+    },
+    {
+      "album": {
+        "name": "Angela",
+        "url": "https://open.spotify.com/album/1wnYM7OWNpmz1CNOel10X8"
+      },
+      "artists": [
+        {
+          "name": "Angela",
+          "url": "https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167802,
+      "name": "Qu\u00e9 Hubiera Pasado",
+      "url": "https://open.spotify.com/track/2IiYQMlKqUcy7B5aSFrjwK"
     },
     {
       "album": {
@@ -16965,6 +17285,24 @@
     },
     {
       "album": {
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/3eyXAKsrMEmJMkCL2Q4p99"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/673GPTuwX6SApsqwmByq4z"
+    },
+    {
+      "album": {
         "name": "Soy Tuyo",
         "url": "https://open.spotify.com/album/2DZ7J2DinhXaNCDB10XgEF"
       },
@@ -17528,6 +17866,28 @@
       "duration_ms": 320023,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5Ihw9hDRGBDxS39ASUXg5v"
+    },
+    {
+      "album": {
+        "name": "Tengo Ganas 2.0",
+        "url": "https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159419,
+      "name": "Tengo Ganas 2.0",
+      "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"
     },
     {
       "album": {

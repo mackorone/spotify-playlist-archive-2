@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Look fear in the face\. Scary movie themes, including tracks from Clayface, only in theatres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,869 likes - 86 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,895 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 3 | [Prelude](https://open.spotify.com/track/3kOLSO0EZvDZvJh1uX3J5X) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Psycho \(The Complete Original Motion Picture Score\)](https://open.spotify.com/album/6edM5SIgWBo8EdbiWQwIUs) | 1:56 |
 | 4 | [Tubular Bells \- Opening Theme / From "The Exorcist"](https://open.spotify.com/track/2hJyhHWeDrnTuy24TtD4sd) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Halloween Party](https://open.spotify.com/album/1AQGra8TF7PX94whCy7tsY) | 3:16 |
 | 5 | [Main Title \(A Nightmare on Elm Street\)](https://open.spotify.com/track/68ml3Lm4GNTlpNmmUJfvUu) | [Charles Bernstein](https://open.spotify.com/artist/1r5HqYbJ06Q75oCXSEdoJU) | [Wes Craven's A Nightmare on Elm Street \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Tno1annbzyMzeoF44RXwI) | 3:32 |
-| 6 | [Track 9](https://open.spotify.com/track/7xXrZH16UoKpdSxjNslUzw) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 0:00 |
+| 6 | [Mirror](https://open.spotify.com/track/7xXrZH16UoKpdSxjNslUzw) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 3:07 |
 | 7 | [Hall of Mirrors](https://open.spotify.com/track/1ukzF852rI3gSw9OOBn6Vz) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [IT Chapter Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5H94TuqhT5k2odQ0aMUu3Y) | 2:14 |
 | 8 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
-| 9 | [Track 12](https://open.spotify.com/track/59BNWzDecXxvS1r5JsVrzp) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 0:00 |
+| 9 | [No Soft Story](https://open.spotify.com/track/59BNWzDecXxvS1r5JsVrzp) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 1:16 |
 | 10 | [American Horror Story Theme \- From "American Horror Story"](https://open.spotify.com/track/24CpnVMo4ZFcvG9a3UsfAW) | [César Dávila\-Irizarry](https://open.spotify.com/artist/6q6vvWG5LiTpjUqeGmSabF), [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [American Horror Story Theme \(From "American Horror Story"\)](https://open.spotify.com/album/2lz1Syu861EfgMDtIOyEF5) | 3:06 |
-| 11 | [Track 6](https://open.spotify.com/track/3qOVDZdAQJqg86GaxExpsq) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 0:00 |
+| 11 | [Pretty No More](https://open.spotify.com/track/3qOVDZdAQJqg86GaxExpsq) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 2:47 |
 | 12 | [Main Theme \(from Weapons\)](https://open.spotify.com/track/0p1kpOfg9aZdwn20Jbv7qE) | [Ryan Holladay](https://open.spotify.com/artist/5Avhvu4chjrA10c0p70cOc), [Hays Holladay](https://open.spotify.com/artist/2rcjIwc9iPMdaOMCSECtzk), [Zach Cregger](https://open.spotify.com/artist/7bAw28j06w8E8lNncY40As) | [Weapons \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77fF23B6tnhVZlLxynbCon) | 1:58 |
 | 13 | [Agatha's Theme \- From "Agatha All Along"](https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha's Theme \(From "Agatha All Along"\)](https://open.spotify.com/album/3AMZyBSKCheBzS2Gg1VrD1) | 2:11 |
 | 14 | [Deadlights](https://open.spotify.com/track/5UQEpK2VdAOzTuEPzpui1m) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [IT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF) | 2:04 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 85 | [Sidney's Lament \- From "Scream"](https://open.spotify.com/track/0V7wkk4c6GUJyVs8Ou2XpF) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [Scream And Scream 2 \(Music From The Dimension Motion Pictures\)](https://open.spotify.com/album/6O5CLPCsZzKLSqyCo0XbJS) | 1:37 |
 | 86 | [Main Title \(Chucky Theme\)](https://open.spotify.com/track/3FmOCXB7Gj9931lGFXpWHl) | [Joseph Loduca](https://open.spotify.com/artist/7K8ZZVUXpoWs9KH9VAoVhi) | [Curse of Chucky \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PoC4zyUUmYyJIm4rlgpaJ) | 2:23 |
 
-Snapshot ID: `AAAAAGOIgVbtHP6wVcVgfdWzAvzufw76`
+Snapshot ID: `AAAAAK4rHc+Yfo4uftAWPH+4RybGzWk6`

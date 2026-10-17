@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 151733,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
@@ -8660,7 +8660,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "seesaw",
       "url": "https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd"
@@ -8902,7 +8902,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 194633,
       "name": "So life goes on",
       "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
@@ -10924,6 +10924,24 @@
       "duration_ms": 215430,
       "name": "Unrelenting Love",
       "url": "https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/0LKhx5arSydD2TEGqdNAsX"
+      },
+      "artists": [
+        {
+          "name": "Seo's Room",
+          "url": "https://open.spotify.com/artist/2VQqvcjhx8LJAEBW8PpxpA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207079,
+      "name": "Up the Hill",
+      "url": "https://open.spotify.com/track/2Hkk0yOptEbhFudWGIsDfN"
     },
     {
       "album": {
@@ -11510,7 +11528,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"

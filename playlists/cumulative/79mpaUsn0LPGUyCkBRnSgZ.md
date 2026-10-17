@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,253 songs - 3 day 9 hr 12 min
+1,255 songs - 3 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 | 2024-06-18 |  |
 | [Battery \(Remastered\)](https://open.spotify.com/track/7qRxAH7ZRB2Ita3mebXfR3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered\)](https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k) | 5:12 | 2022-09-30 |  |
 | [BBC Radiophonic Workshop](https://open.spotify.com/track/5eqrwcF6uJiDaSDQ3o1WAv) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Holiday](https://open.spotify.com/album/43gU5fFjKslAS9hXXDvkdz) | 0:22 | 2026-01-15 | 2026-02-02 |
+| [Bd\-R](https://open.spotify.com/track/6xugCaKQQzLo0xnD3dZfjy) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 0:41 | 2026-10-17 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2023-06-24 |  |
 | [Be My Love](https://open.spotify.com/track/3VDZHydhAOVI7L0PngrZRC) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:19 | 2025-08-08 | 2025-08-12 |
 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 | 2024-02-23 |  |
@@ -146,6 +147,7 @@
 | [Big Day Coming](https://open.spotify.com/track/0azh8Cxn6sUDdyXDBE9qUk) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Painful](https://open.spotify.com/album/7a4l81UqmFYs13351IyOSc) | 7:05 | 2026-06-24 |  |
 | [Big Shot](https://open.spotify.com/track/002Xm1nZI8cAhb5Fda7lRk) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Afternooners](https://open.spotify.com/album/1qLqr2Fs2ACB6FAwmlapdY) | 4:28 | 2026-09-25 |  |
 | [Bio18](https://open.spotify.com/track/4P0ne8HWGFCV8gac5zcEh4) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 4:01 | 2024-01-17 | 2024-02-08 |
+| [Bird](https://open.spotify.com/track/5LtqJkOoeaAjN2vwLXldcC) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr) | 3:22 | 2026-10-17 |  |
 | [Bird's Nest](https://open.spotify.com/track/5ms47HpSovxUpNrHVxaAs3) | [Jordaan Mason](https://open.spotify.com/artist/5zInXkhCwoT9HGWgeKjKS6), [Jordaan Mason & The Horse Museum](https://open.spotify.com/artist/5EQ6WS0sO77AIhthug6S0U) | [Divorce Lawyers I Shaved My Head](https://open.spotify.com/album/6uxDtA96cuZ2FbPCT3EL40) | 4:02 | 2023-06-09 |  |
 | [Birds](https://open.spotify.com/track/4qrv4KMBrGVcaN5NU1TSlF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/44Sy39wQjQFX0jJOufXTvv) | 0:53 | 2023-06-03 |  |
 | [Birds & the Bees](https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:16 | 2026-02-28 |  |

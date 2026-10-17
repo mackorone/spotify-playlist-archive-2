@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-628 songs - 1 day 4 hr 24 min
+629 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Mind](https://open.spotify.com/track/1OekV80ySFNwfXFEk8oGlV) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mind](https://open.spotify.com/album/0pgMNPo0dopgdtKRGuoBkD) | 2:04 | 2025-04-08 | 2025-07-22 |
 | [Misery](https://open.spotify.com/track/37WO9r4U3LLqFkwHqZ2qg1) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Misery](https://open.spotify.com/album/0cWD3IQM9T3kYvIc5w7vpv) | 1:39 | 2023-08-28 | 2024-01-13 |
 | [Misfits \(feat\. Rio Da Yung OG\)](https://open.spotify.com/track/5KBFoGbuzcNkGFhqTcBThW) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Less is More](https://open.spotify.com/album/4WdviJiKtj699pNZvI9VS5) | 2:28 | 2025-07-07 | 2025-08-26 |
+| [Missing Home](https://open.spotify.com/track/3B18FHfCzhBzqGTy1CQVuH) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Day by Day, Shway Shway](https://open.spotify.com/album/40qljUA8WPAsuSTyO9JyGN) | 2:38 | 2026-10-16 |  |
 | [Mob](https://open.spotify.com/track/4zeLNybpK3UO6p3QhCYNGl) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mob](https://open.spotify.com/album/3t4MBMVuq9899LgkqGSAAr) | 3:12 | 2024-01-12 | 2024-05-21 |
 | [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 | 2025-05-28 | 2025-08-14 |
 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-09-24 | 2026-01-27 |

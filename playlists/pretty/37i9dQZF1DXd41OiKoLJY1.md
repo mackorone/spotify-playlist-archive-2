@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Pastel Sky\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,864 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,885 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [Biggest Critic](https://open.spotify.com/track/2M3GCRCIOh6s1K0pagulso) | [Rafi](https://open.spotify.com/artist/7wWWnyjBVXSwvTrXAuURtl) | [Biggest Critic](https://open.spotify.com/album/3DHRwOgqD1G2lpzNiXrLLE) | 3:29 |
 | 50 | [Urong Sulong](https://open.spotify.com/track/069wBYuPG4AHBucoNW5StN) | [Paul Monserrate](https://open.spotify.com/artist/3sa2GW7TbeCFIYLacBk4kD) | [Urong Sulong](https://open.spotify.com/album/2NSPpIGvccI3sYQ5991e5o) | 3:34 |
 
-Snapshot ID: `AAAAAF6JLgt1sODAJ65H5trx/aKcvs00`
+Snapshot ID: `AAAAAIVx3CzNGqvjeCn6kzHXd1DvoSqZ`

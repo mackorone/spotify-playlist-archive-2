@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,875 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,877 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 34 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
 | 35 | [De Tanto Amor](https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Não Sou Nenhum Roberto, Mas às Vezes Chego Perto](https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh) | 3:31 |
 | 36 | [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 |
-| 37 | [O Vento](https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [O Vento](https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3) | 4:56 |
-| 38 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 3:20 |
+| 37 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 3:20 |
+| 38 | [O Vento](https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [O Vento](https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3) | 4:56 |
 | 39 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
 | 40 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 |
 | 41 | [Nossa música](https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Nossa música](https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj) | 3:59 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 65 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 |
 | 66 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 67 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
-| 68 | [Amuleto](https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Amuleto](https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn) | 3:27 |
-| 69 | [Vumbora Amar](https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ) | [Alexandre Leão](https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8) | [Axé Babá](https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN) | 3:31 |
+| 68 | [Vumbora Amar](https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ) | [Alexandre Leão](https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8) | [Axé Babá](https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN) | 3:31 |
+| 69 | [Amuleto](https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Amuleto](https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn) | 3:27 |
 | 70 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
 
-Snapshot ID: `AAAAAF3nshqQRPpGBW8y6uS62tMlMVwW`
+Snapshot ID: `AAAAAGvo/hTIV6be6goF1aT5qkjqb5Gv`

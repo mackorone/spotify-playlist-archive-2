@@ -1,12 +1,12 @@
 {
   "description": "Pop you need to hear! Cover: Jamie Miller",
-  "num_followers": 870725,
+  "num_followers": 870655,
   "original_name": "The Pop List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFRBPWUWXLn638xialb0pKOxc4zG",
+  "snapshot_id": "AAAAANO8pex8/m12gyEDxKFu9wHNrzgS",
   "tracks": [
     {
       "added_at": "2026-10-15 23:00:22",
@@ -343,6 +343,26 @@
       "duration_ms": 181246,
       "name": "to love and to lose",
       "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
+    },
+    {
+      "added_at": "2026-10-15 23:00:22",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-15 23:00:22",

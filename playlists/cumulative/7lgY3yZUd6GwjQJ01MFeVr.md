@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-333 songs - 17 hr 48 min
+334 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Leave The Light On \(feat\. Alexandra Kay\)](https://open.spotify.com/track/7zXm5RfPShKDVnbMQb7gJ7) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 3:20 | 2024-07-22 | 2025-09-13 |
 | [Left Me In The Dusk](https://open.spotify.com/track/06gWq2O5V29LniLkheByNS) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Left Me In The Dusk](https://open.spotify.com/album/4fTR9hPpT2xTd4YaY78ql5) | 2:50 | 2023-12-08 | 2024-11-02 |
 | [Left To Get Right](https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Spanish Moss](https://open.spotify.com/album/7k56MAd5kMXPEGLlH8s13V) | 3:01 | 2025-06-28 |  |
+| [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 | 2026-10-16 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-13 | 2025-08-09 |
 | [Life Ain't Like The Radio](https://open.spotify.com/track/38BmjbEoiX9dy08w375JfB) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [forgive, forget.](https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp) | 2:43 | 2026-04-27 |  |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-28 | 2026-09-01 |

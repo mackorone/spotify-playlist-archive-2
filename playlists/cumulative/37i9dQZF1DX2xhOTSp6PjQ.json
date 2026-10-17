@@ -3399,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "iTekisi",
+        "url": "https://open.spotify.com/album/0WcvW7hJWCFvf4lP6uKO9E"
+      },
+      "artists": [
+        {
+          "name": "Sminofu",
+          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260048,
+      "name": "Madagascar",
+      "url": "https://open.spotify.com/track/6zrSV6339hY4MjN9JoJ6cb"
+    },
+    {
+      "album": {
         "name": "Sipho",
         "url": "https://open.spotify.com/album/16QKAhgay0amx5AgBIwFo0"
       },
@@ -5318,24 +5336,6 @@
       "duration_ms": 250546,
       "name": "Thuma mina baba",
       "url": "https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv"
-    },
-    {
-      "album": {
-        "name": "iTekisi",
-        "url": "https://open.spotify.com/album/0WcvW7hJWCFvf4lP6uKO9E"
-      },
-      "artists": [
-        {
-          "name": "Sminofu",
-          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/6zrSV6339hY4MjN9JoJ6cb"
     },
     {
       "album": {

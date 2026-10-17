@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,944 songs - 11 day 4 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,946 songs - 11 day 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4952,5 +4952,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4942 | [Left the Building](https://open.spotify.com/track/5v4cWjdgjxFPXiwzcOtz10) | [CTRVL](https://open.spotify.com/artist/4KGZBTFYCnhD0WSoLfcYPD) | [We Feed](https://open.spotify.com/album/6w0YipA4CwwgWSM7zAq9sv) | 4:53 |
 | 4943 | [Circles.](https://open.spotify.com/track/3JIbKIazg8zymTcObTRZ8N) | [Şaşkın](https://open.spotify.com/artist/1OOUQZ8MAjTIvCEY75mVIF) | [Circles.](https://open.spotify.com/album/4yqaoLivWeD5fu0bBvH8rG) | 3:48 |
 | 4944 | [Roundabout](https://open.spotify.com/track/5ubJywKQxqVWVBSYOkxda7) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [Roundabout](https://open.spotify.com/album/4V8ViZcy59VM5FyWh2ugaF) | 2:59 |
+| 4945 | [Always You and I](https://open.spotify.com/track/21VD4mfZ3FUGNN4MvKmXLJ) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl), [Cathrine Restad\-Hvalby](https://open.spotify.com/artist/0B9DYx33j8xGopYcFNpzqc) | [Always You and I](https://open.spotify.com/album/5DMrlFAmeAMIJHajphsvRE) | 3:40 |
+| 4946 | [Hoi Hoi Helsinki \- 2.0 Version](https://open.spotify.com/track/6mSQWVTLFzvKKplsx2qZkP) | [Miciz](https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW) | [Hoi Hoi Helsinki \(2.0 Version\)](https://open.spotify.com/album/3rXFnECY3rKLsOgAJgO4iA) | 4:18 |
 
-Snapshot ID: `AAAKjmFwzmjIiJC0W2gV7S3XS4ezC/Nh`
+Snapshot ID: `AAAKkq179lPFcxQDLgktCMa5rJgpsI31`

@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 255435,
       "name": "Afterlife (Gunship Remix) - Spotify Singles",
       "url": "https://open.spotify.com/track/0SOyTeewK1hwBvNuPONbwr"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 178708,
       "name": "Bodies (feat. JID)",
       "url": "https://open.spotify.com/track/6erjw7dcQoYGaa6rXDnsLC"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -5354,7 +5354,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
@@ -6272,6 +6272,40 @@
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -19872,6 +19906,28 @@
       "duration_ms": 192956,
       "name": "Wants and Needs (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "name": "GAMER",
+        "url": "https://open.spotify.com/album/0U7AKce2pvre0M6Dk9ps3a"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        },
+        {
+          "name": "Fabvl",
+          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146618,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/7FpcMqTmbieaSnJYb6LwZQ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Lainey Wilson
+> The cream of today's country crop\. Cover: Zach Bryan
 
-1,320 songs - 3 day 0 hr 31 min
+1,323 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 | 2025-04-24 | 2025-09-19 |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-02-09 | 2024-08-16 |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2023-05-18 | 2023-09-22 |
-| [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 | 2026-07-24 |  |
+| [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 | 2026-07-24 | 2026-10-17 |
 | [Burn Like Summer](https://open.spotify.com/track/37ohol7aZPn8i8ZZuUtA4L) | [Brooke Schubert](https://open.spotify.com/artist/37AhJFVvcLzRvWWHaHOrlq) | [Burn Like Summer](https://open.spotify.com/album/0AjwMHWg2aEbfkrPdQ7i9n) | 3:38 | 2023-07-06 | 2023-09-08 |
 | [Bury Me in Georgia \- Single Edit](https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Bury Me in Georgia](https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo) | 2:50 | 2023-04-13 | 2023-08-11 |
 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 | 2023-05-04 | 2024-02-23 |
@@ -272,7 +272,7 @@
 | [Cowboys Were Kings](https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboys Were Kings](https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep) | 3:15 | 2025-03-20 | 2025-07-05 |
 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:55 | 2026-06-05 | 2026-08-14 |
 | [Crazy](https://open.spotify.com/track/3e98KFohMydiffbocGQgbH) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Been There Done That](https://open.spotify.com/album/7DctejlgEzk5lMv8H34l0B) | 2:59 | 2026-06-11 | 2026-08-28 |
-| [Crazy To Yourself](https://open.spotify.com/track/7FrvRHtpJM9ApODPbLx5F8) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Sunburn Mixtape](https://open.spotify.com/album/4sXvPhfap6905lHTMJB4gw) | 3:23 | 2026-07-30 |  |
+| [Crazy To Yourself](https://open.spotify.com/track/7FrvRHtpJM9ApODPbLx5F8) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Sunburn Mixtape](https://open.spotify.com/album/4sXvPhfap6905lHTMJB4gw) | 3:23 | 2026-07-30 | 2026-10-17 |
 | [Crisco](https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crisco](https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE) | 2:56 | 2026-05-14 | 2026-06-26 |
 | [CROOKED ROAD](https://open.spotify.com/track/47sb7pIsZeJ7v19Pcy8yZy) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROOKED ROAD](https://open.spotify.com/album/2zxfSHnDIzxmnfCsHrMgm3) | 3:22 | 2026-04-23 | 2026-06-12 |
 | [Cruise Control](https://open.spotify.com/track/3ZdNbkfAPiYxN53jYQOh4c) | [Jesse Dozzi](https://open.spotify.com/artist/5V6iCwSrD8np7jjVSxZH6f) | [Cruise Control](https://open.spotify.com/album/5xEP796HQV7XpByVpgZC9e) | 3:26 | 2024-09-19 | 2024-11-22 |
@@ -366,6 +366,7 @@
 | [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 | 2026-06-04 | 2026-07-17 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-09-08 | 2023-02-17 |
 | [Everything](https://open.spotify.com/track/045YT1MAfeRSbtAxA2Vkyo) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Everything](https://open.spotify.com/album/4InMmBXbvnfYt2fXckBIax) | 2:38 | 2024-02-29 | 2024-06-14 |
+| [EVERYTHING ALL WORKS OUT](https://open.spotify.com/track/177yVU3d0fwG3MoFOj1zUi) | [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [EVERYTHING ALL WORKS OUT](https://open.spotify.com/album/6AOBDOHgsrJh3wElQ66a3s) | 2:59 | 2026-10-16 |  |
 | [Everything I Love](https://open.spotify.com/track/03fs6oV5JAlbytRYf3371S) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:07 | 2023-12-19 | 2024-04-26 |
 | [Everything I've Got](https://open.spotify.com/track/0kQ0uNi0EsT3o3D20hCk5S) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Everything I've Got](https://open.spotify.com/album/2vqXP7Z50UqEbN8F6JOePd) | 4:41 | 2024-09-26 | 2025-01-31 |
 | [Everything She Does](https://open.spotify.com/track/0WXwVx2Ni5yimjV9gunwpV) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Everything She Does](https://open.spotify.com/album/5LYZjezeOhI4MVMASc3ZZn) | 3:16 | 2025-09-11 | 2025-11-14 |
@@ -886,6 +887,7 @@
 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-09 | 2022-09-30 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-07-05 |
 | [Place for Me](https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Place for Me](https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT) | 3:12 | 2023-01-05 | 2023-04-28 |
+| [Plainsman \(feat\. Turnpike Troubadours\)](https://open.spotify.com/track/1MvpArWMOKjTlJq6Gvz645) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Plainsman \(feat\. Turnpike Troubadours\)](https://open.spotify.com/album/2y6T5TpxvA3163wUWzgM3J) | 3:46 | 2026-10-16 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-15 | 2026-04-03 |
 | [Porch Light](https://open.spotify.com/track/3SM8VdUoDb7e3OUWkApJdn) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Porch Light](https://open.spotify.com/album/0qQgzw883N7XGkTuno2kNS) | 3:30 | 2026-10-02 |  |
 | [Porch Light \(Valley Version\)](https://open.spotify.com/track/0XpadPENnHNnUUA0sTqPe2) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Porch Light \(Valley Version\)](https://open.spotify.com/album/6wlSTQlPPQjly70oSZraPn) | 3:33 | 2025-10-23 | 2026-01-15 |
@@ -1001,6 +1003,7 @@
 | [Single Life](https://open.spotify.com/track/6vIqfL3W4YUjR1WSuvCQ3D) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Single Life](https://open.spotify.com/album/2H10WiAVS7BZf5chdbvJOn) | 3:42 | 2022-09-01 | 2023-03-18 |
 | [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 | 2024-10-31 | 2025-02-07 |
 | [Siren](https://open.spotify.com/track/0qNtQH5ocN5Md4DoqVU0JS) | [Andy Golledge](https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh) | [Young, Dumb & Wild](https://open.spotify.com/album/2EoVN0G04GgBVH1s1bXsPR) | 5:16 | 2024-04-18 | 2024-06-01 |
+| [Sitting Around](https://open.spotify.com/track/3xF3akBcgGqcLIjsNnVRnG) | [Sons Of Atticus](https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g) | [On The Way](https://open.spotify.com/album/36TTGxdyqzNcre4OWQsmfD) | 3:52 | 2026-10-16 |  |
 | [Six Months](https://open.spotify.com/track/05paQ7mU0payekqGzuAaPh) | [Bud Rokesky](https://open.spotify.com/artist/1UJ1coJeMJWb3tEgAXKv67) | [Six Months](https://open.spotify.com/album/6uySkfpD546vhjX7Eo9Y28) | 2:58 | 2024-02-29 | 2024-03-29 |
 | [Sleep On It](https://open.spotify.com/track/4WIfHW4NCpHuypEQYZ4PGi) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Sleep On It](https://open.spotify.com/album/6qz0hjuJHpeaiQNzk37vuk) | 3:11 | 2023-04-13 | 2023-08-04 |
 | [Slow Dancin'](https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Slow Dancin'](https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8) | 2:04 | 2026-01-29 | 2026-03-20 |
@@ -1094,7 +1097,7 @@
 | [Sunday Supper](https://open.spotify.com/track/0CYYKGgw3lshoHVOKjSn8i) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Sunday Supper](https://open.spotify.com/album/4INxn0b1dgoKZ9uWukk4ul) | 3:22 | 2025-01-16 | 2025-02-28 |
 | [Sweet Lady](https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Sweet Lady](https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM) | 2:59 | 2025-06-05 | 2025-07-18 |
 | [Take It To The Highway](https://open.spotify.com/track/62ydigyjJjnnDglH1F31ov) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 3:12 | 2024-03-14 | 2024-08-23 |
-| [TAKE ME AS I AM](https://open.spotify.com/track/1WbfAGf7Fo6eKZTZoHMbna) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROSSROADS](https://open.spotify.com/album/4VA9gdfckx7uV0noJVrZEU) | 3:51 | 2026-07-30 |  |
+| [TAKE ME AS I AM](https://open.spotify.com/track/1WbfAGf7Fo6eKZTZoHMbna) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROSSROADS](https://open.spotify.com/album/4VA9gdfckx7uV0noJVrZEU) | 3:51 | 2026-07-30 | 2026-10-17 |
 | [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Take Me Back \(Leave Me There\)](https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3) | 2:58 | 2026-05-28 | 2026-06-26 |
 | [Take Me Home](https://open.spotify.com/track/404HkGbdie5tqrkFGs1pSB) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Take Me Home](https://open.spotify.com/album/0Oah9EbCYErHmTl68eXbCh) | 3:05 | 2026-08-13 |  |
 | [Take Me Home](https://open.spotify.com/track/2nuAkoDw5i0jLogecydq1y) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Take Me Home](https://open.spotify.com/album/01Y0pBzYfnlxvcjG9HxCym) | 2:58 | 2023-09-28 | 2023-12-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > La Fouine au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,435,095 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434,924 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [RIEN D'EXCEPTIONNEL \- A COLORS SHOW](https://open.spotify.com/track/3BLfy4wMaa7qha4Of6Owdl) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [RIEN D'EXCEPTIONNEL \- A COLORS SHOW](https://open.spotify.com/album/7iCAUOOPAX9AVsUlwwYvch) | 3:03 |
 | 40 | [Histoire sans fin](https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [MATHILDE](https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1) | [Histoire sans fin](https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj) | 3:29 |
 
-Snapshot ID: `AAAAAIAbQ09x4lh4f9nDX+WqtEbIfrvd`
+Snapshot ID: `AAAAAAddv2/ZhjGNYX67FUVsYdxQ8+3p`

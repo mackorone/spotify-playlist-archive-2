@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: GAVIN:D, Violette Wautier
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: PUN, THE TOYS
 
-299 songs - 17 hr 57 min
+300 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2025-09-19 |
 | [Move On แบบใด](https://open.spotify.com/track/53XeQvCYruEEHVDgWmraKq) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [Move On แบบใด](https://open.spotify.com/album/1SYedOaOGyBXObvmBMpp1X) | 4:18 | 2026-03-19 |  |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-20 | 2024-08-16 |
-| [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-18 |  |
+| [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-18 | 2026-10-17 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2025-03-30 |
 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-10-02 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-11 | 2024-08-08 |
@@ -273,6 +273,7 @@
 | [อย่ามากกว่าฉันก็พอ \(Jealous\)](https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [IN MY ROOM SESSION](https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq) | 3:48 | 2026-10-09 |  |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-06-20 | 2024-08-29 |
 | [อู้บ่จ้าง](https://open.spotify.com/track/5RhEVajyRoOtks0txRnCke) | [Sukrit Wisetkaew](https://open.spotify.com/artist/05ycwBAg6CYEweEbZgAYeT) | [อู้บ่จ้าง](https://open.spotify.com/album/67pHjCmyZ9jaPhNSjujGyp) | 3:59 | 2026-04-17 | 2026-05-23 |
+| [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv) | 3:23 | 2026-10-16 |  |
 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 | 2025-06-13 | 2026-10-03 |
 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 | 2024-06-20 | 2025-02-22 |
 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 | 2024-11-22 | 2026-05-23 |

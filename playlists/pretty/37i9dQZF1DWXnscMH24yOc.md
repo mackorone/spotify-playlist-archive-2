@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,988 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,010 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 79 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 | 80 | [Everybody Here Wants You](https://open.spotify.com/track/6Ae3iEZalzep9aDRbGGMHK) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 4:17 |
 | 81 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 |
-| 82 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
-| 83 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 |
+| 82 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 |
+| 83 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
 | 84 | [High by the Beach](https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU) | [Modern Space](https://open.spotify.com/artist/6gINjiQZIN2b9G2i6zj13e) | [High By The Beach.](https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk) | 3:37 |
 | 85 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 |
 | 86 | [What Is Love](https://open.spotify.com/track/2cbUbYYjFEXJucB4YXLWtf) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Hideaway](https://open.spotify.com/album/5WyTbS28X2D8bkGSw0dlq3) | 3:07 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 93 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
 | 94 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 |
 | 95 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
-| 96 | [Into the Black](https://open.spotify.com/track/78PuKTcvpFTh5PceV9kBM6) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill for Love](https://open.spotify.com/album/5Rz4NIqwoYGDbIh40UTylV) | 5:22 |
-| 97 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
-| 98 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
-| 99 | [Tainted Love](https://open.spotify.com/track/1SZ63wN0pk18Dr4Epyhcsf) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/3EDsEmujCvWc5ZzUIR17Ss) | 2:33 |
-| 100 | [In My Life](https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX) | 2:34 |
+| 96 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
+| 97 | [Into the Black](https://open.spotify.com/track/78PuKTcvpFTh5PceV9kBM6) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill for Love](https://open.spotify.com/album/5Rz4NIqwoYGDbIh40UTylV) | 5:22 |
+| 98 | [California Dreamin'](https://open.spotify.com/track/41uHv2ZIT0YDUHoyNzvRQ1) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9) | 3:08 |
+| 99 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
+| 100 | [Tainted Love](https://open.spotify.com/track/1SZ63wN0pk18Dr4Epyhcsf) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/3EDsEmujCvWc5ZzUIR17Ss) | 2:33 |
 
-Snapshot ID: `AAAAADWSTb7/DrBsWNs8oiJ0NfwEtM/F`
+Snapshot ID: `AAAAAPxbbiQ7+sxFzY4FQdoVV3mza3FL`

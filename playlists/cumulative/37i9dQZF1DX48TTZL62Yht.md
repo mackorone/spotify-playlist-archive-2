@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Quavo & Takeoff 🕊
+> The tracks you just keep pulling up\. Cover: Don Toliver
 
-914 songs - 1 day 23 hr 51 min
+915 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [EUPHORIC](https://open.spotify.com/track/5Mt2ygfSPAEOCeZ03tbc7u) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [EUPHORIC](https://open.spotify.com/album/1mqPUS6ijHQN5Aib46Y90j) | 2:10 | 2022-01-07 | 2022-05-03 |
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2024-05-22 | 2025-02-19 |
 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 | 2024-04-05 | 2024-05-10 |
-| [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2022-12-29 |  |
+| [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2022-12-29 | 2026-10-17 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-07-12 | 2025-09-12 |
 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 | 2022-04-08 | 2022-04-15 |
 | [False Idols \(with Lil Baby, Suzanna Son\)](https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6) | 4:22 | 2024-05-23 | 2024-06-14 |
@@ -706,6 +706,7 @@
 | [Secrets](https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:13 | 2022-12-02 | 2026-08-15 |
 | [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 | 2022-09-22 | 2022-11-05 |
 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-04-03 | 2025-06-12 |
+| [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 | 2026-10-16 |  |
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-06-24 | 2023-02-02 |
 | [Shaking](https://open.spotify.com/track/7MhphbsnT2fXtmJMn6IZX0) | [2Kz](https://open.spotify.com/artist/34NZtBmujV74j9fglzWlxW) | [Rated T for Trap](https://open.spotify.com/album/1Eb9MKx7N4BTL07o32F8JY) | 4:06 | 2022-02-18 | 2022-02-23 |
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip) | 2:41 | 2022-01-07 | 2023-05-13 |

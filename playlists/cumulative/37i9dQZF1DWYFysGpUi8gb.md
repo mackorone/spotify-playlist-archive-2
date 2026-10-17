@@ -2,9 +2,9 @@
 
 ### [melomania](https://open.spotify.com/playlist/37i9dQZF1DWYFysGpUi8gb)
 
-> unearthing music that makes life feel interesting, featuring pollyfromthedirt
+> unearthing music that makes life feel interesting, featuring purple pilgrims
 
-680 songs - 1 day 18 hr 11 min
+684 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Candlelight](https://open.spotify.com/track/6oHLiMAN1cp8nlTNTKx1aG) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX), [Rael](https://open.spotify.com/artist/44mRUBKLs6EOQ2CyN9Jfr7), [Will Lister](https://open.spotify.com/artist/1odMNU4WdV8g46ku7SgfJz) | [Candlelight](https://open.spotify.com/album/6TV6kDLZ8FzbgHNqCQyI2m) | 3:18 | 2026-02-23 | 2026-08-15 |
 | [Carried Away](https://open.spotify.com/track/75F4TSKg87eYFHFKdnpN8s) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Carried Away](https://open.spotify.com/album/44lhdSDMItGwW0nsmXbioN) | 3:20 | 2026-09-24 |  |
 | [Cartography](https://open.spotify.com/track/0DcaDx6b5ycTUjIlWrfQmJ) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Cartography](https://open.spotify.com/album/64JipGp2nASRjpEsgfyoHz) | 4:07 | 2025-07-04 | 2025-10-03 |
-| [Cat Piss Junkie \- The Healing Power of Horses Both Have Flu Remix](https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG), [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR) | 4:00 | 2026-08-14 |  |
+| [Cat Piss Junkie \- The Healing Power of Horses Both Have Flu Remix](https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG), [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR) | 4:00 | 2026-08-14 | 2026-10-17 |
 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 | 2025-02-21 | 2025-05-02 |
 | [Change](https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Change](https://open.spotify.com/album/4NkwHEXLQ1eTEo0NY9r6hy) | 5:25 | 2026-07-23 | 2026-10-09 |
 | [Charlie's Comet](https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [Charlie's Comet](https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH) | 4:02 | 2024-07-26 | 2024-11-23 |
@@ -223,7 +223,7 @@
 | [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 | 2025-09-01 | 2026-03-28 |
 | [Forever and a Day](https://open.spotify.com/track/351lU5mojxsZ2f7IOUEL0d) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Sandworms: The Songs of Howe Gelb and Giant Sand](https://open.spotify.com/album/0ClKIidKy6ivQttSS3BIpO) | 5:26 | 2025-09-01 | 2026-01-31 |
 | [Four](https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Four](https://open.spotify.com/album/2rMmBni7bR0pH9wiWVmmBf) | 3:00 | 2025-02-03 | 2025-05-02 |
-| [Four in a bed](https://open.spotify.com/track/26ILgpUQ7fe9CjUZzyFaLb) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Four in a bed](https://open.spotify.com/album/68XTDfvOvY5epM4iIhZofm) | 2:12 | 2026-06-18 |  |
+| [Four in a bed](https://open.spotify.com/track/26ILgpUQ7fe9CjUZzyFaLb) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Four in a bed](https://open.spotify.com/album/68XTDfvOvY5epM4iIhZofm) | 2:12 | 2026-06-18 | 2026-10-17 |
 | [four\-o\-five](https://open.spotify.com/track/13N8GJbUVL8x7PhiwGRrV3) | [green star](https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe) | [four\-o\-five](https://open.spotify.com/album/03PVDTBeHRD41alH9tt5OP) | 3:30 | 2025-03-24 | 2025-06-07 |
 | [FRANCES](https://open.spotify.com/track/6rae1njvXdSigrnHrQaaqf) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [FRANCES](https://open.spotify.com/album/63krr0RdIndpriaq4otBgB) | 2:03 | 2025-03-24 | 2025-06-07 |
 | [Frankie](https://open.spotify.com/track/47fMuVSN5yQozooX2Vd0J7) | [Sylvie's Head](https://open.spotify.com/artist/6Re2HYnIxbLkNiAY5QqPDa) | [Frankie](https://open.spotify.com/album/79hWREXqkYRwRzCjp3Uc2g) | 4:22 | 2026-03-27 | 2026-08-15 |
@@ -262,6 +262,7 @@
 | [haha](https://open.spotify.com/track/3vKAnMOGw7ys5fKxxSMBu3) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2RSOqEmQIEq3rWzHhW9h3b) | 2:01 | 2025-06-06 | 2025-10-17 |
 | [Hanging on a Bassline](https://open.spotify.com/track/4z0lcaGvXOHJsZozZkBcao) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Beautiful Noise](https://open.spotify.com/album/2mWsjpD66CjqxhrRef9ML6) | 2:38 | 2025-10-02 | 2026-03-13 |
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-24 | 2025-07-05 |
+| [Hares on The Mountain](https://open.spotify.com/track/23XRxuggbBfTNEq1aheLzF) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [No Human Tongue Can Tell](https://open.spotify.com/album/6TxgYAxC0MRdjZ2HJ4eAWH) | 3:33 | 2026-10-16 |  |
 | [Hate Goodbyes](https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Hate Goodbyes](https://open.spotify.com/album/07w74aZOr10AawZOJND2BY) | 3:47 | 2025-07-04 | 2025-07-25 |
 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 | 2025-11-07 | 2026-07-24 |
 | [Headfirst](https://open.spotify.com/track/1pBiGqXUOVRrCxP44nonG2) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Headfirst](https://open.spotify.com/album/0UeCgZQsDJTmdPMAQRKHkc) | 2:38 | 2026-07-23 |  |
@@ -448,6 +449,7 @@
 | [On A Grassy Knoll \(We'll Bow Together\)](https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 4:19 | 2025-05-05 | 2025-10-17 |
 | [Out of Context](https://open.spotify.com/track/5fJTo2ubmucz5Q5A981p3o) | [Library Card](https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT) | [Out of Context](https://open.spotify.com/album/2qT8Za2HwhNkGPoSgPJuYQ) | 2:58 | 2026-04-23 | 2026-07-24 |
 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-15 | 2026-03-28 |
+| [Outside](https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Outside](https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT) | 3:57 | 2026-10-16 |  |
 | [Pale Blue Dot](https://open.spotify.com/track/1XoiHwKdW9GhlNxODsMV7M) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:40 | 2025-05-20 | 2025-07-18 |
 | [Parts And Labour](https://open.spotify.com/track/3ScmdoD5svPVwjwjxXVhM3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Parts And Labour](https://open.spotify.com/album/7oXJJjePduXpixLo2OgfVk) | 3:07 | 2026-03-27 | 2026-07-24 |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-10-07 |
@@ -529,6 +531,7 @@
 | [Sinnes](https://open.spotify.com/track/2D00zLYJHZRuWue5jL8L9K) | [Hot Face](https://open.spotify.com/artist/42uDv2iDELwbdlk45yUt1a) | [Automated Response](https://open.spotify.com/album/1rUqGhkYNHhsgOmNScQATs) | 2:24 | 2026-01-30 | 2026-03-28 |
 | [Sisyphus](https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Sisyphus](https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz) | 3:14 | 2025-04-14 | 2025-07-05 |
 | [Sit Down](https://open.spotify.com/track/0iG660xtCKsqkhQAKZXgKm) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Sit Down](https://open.spotify.com/album/4Cdiz8h4ii3gDqX0l0WXLo) | 3:06 | 2024-06-14 | 2024-12-06 |
+| [Six Shot Morning](https://open.spotify.com/track/3GOOBbC0uedCdUQZfSrwOp) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 4:56 | 2026-10-16 |  |
 | [Skeletons Coupling](https://open.spotify.com/track/3AjfZFzMkI6jr4r1JKAOd0) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Skeletons Coupling](https://open.spotify.com/album/5cPMW5JjKembPp2CJBKPHu) | 3:27 | 2025-09-01 | 2025-09-12 |
 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 | 2025-02-07 | 2025-05-02 |
 | [Skins](https://open.spotify.com/track/6A3WzehznFCrvM17ESvJmb) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Plan 75](https://open.spotify.com/album/3Tgh3kQIVqmsRTWW2QDe48) | 4:20 | 2025-05-05 | 2025-09-02 |
@@ -639,7 +642,7 @@
 | [Topaz](https://open.spotify.com/track/3R9DihE7a7adJoHZBj1zCG) | [Dying 4](https://open.spotify.com/artist/5BsY72eb3azYvmYzxFIcWU) | [Topaz](https://open.spotify.com/album/1EuYfjBh8oYoTAKUevYuAg) | 3:59 | 2026-08-14 |  |
 | [TORMENTOR](https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [TORMENTOR](https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc) | 5:10 | 2024-11-22 | 2025-03-25 |
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-18 | 2025-06-19 |
-| [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 | 2026-07-23 |  |
+| [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 | 2026-07-23 | 2026-10-17 |
 | [TOURNIQUET](https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Summer Indoors \(or outside wearing black\)](https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27) | 2:36 | 2026-07-23 |  |
 | [Trash TV](https://open.spotify.com/track/4qM7Iig1Uw8XesVVZr4yt6) | [Hex Girlfriend](https://open.spotify.com/artist/5a4wwtDgBVk5RKDQzWxYbE) | [Trash TV](https://open.spotify.com/album/1CPV9kx5Kyh2nRHmv45Qlh) | 2:42 | 2025-07-24 | 2025-10-17 |
 | [Trenches](https://open.spotify.com/track/218P4brorJq8BLcyzconqS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Trenches](https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh) | 3:32 | 2025-09-01 | 2026-03-28 |
@@ -687,6 +690,7 @@
 | [Your New Place](https://open.spotify.com/track/27G7xkS9uc18t1FgTr89Pl) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Your New Place](https://open.spotify.com/album/0X2GVJ31G9U0rrbw4kneBa) | 7:32 | 2025-07-10 | 2025-09-02 |
 | [Yr Big Day](https://open.spotify.com/track/2IDFkS8nFkqQOhULvsX1Qi) | [Why Horses?](https://open.spotify.com/artist/1R0IeELEhgNJjMfuXPHYjy) | [Yr Big Day](https://open.spotify.com/album/0qYavbkx4FEo5hLnBaoJtV) | 2:27 | 2026-08-14 |  |
 | [⁠The Ghost of Her Smile](https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Julie Dawson](https://open.spotify.com/artist/1TzJp2tHjwJG5CZKPWGBIL) | [The Ghost of Her Smile](https://open.spotify.com/album/1eqB2GZ3j5ElZdXHUctKOB) | 3:40 | 2025-10-16 | 2026-05-01 |
+| [ズーキッド｜Zookid](https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [ズーキッド｜Zookid](https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS) | 3:01 | 2026-10-16 |  |
 | [円相 ｜Enso](https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno) | 3:11 | 2026-06-12 | 2026-09-25 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

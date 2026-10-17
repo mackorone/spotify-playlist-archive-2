@@ -4004,6 +4004,28 @@
     {
       "album": {
         "name": "Mania",
+        "url": "https://open.spotify.com/album/1F83f4IDZ16t3rdkt0Ryvn"
+      },
+      "artists": [
+        {
+          "name": "cenker",
+          "url": "https://open.spotify.com/artist/6i9dgMWMsyRU7rCWcXAXsN"
+        },
+        {
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244003,
+      "name": "Mania",
+      "url": "https://open.spotify.com/track/0ngV4IjCJMBHLHctKCS6Sq"
+    },
+    {
+      "album": {
+        "name": "Mania",
         "url": "https://open.spotify.com/album/09kovsHVqfARXDGMq0Ayud"
       },
       "artists": [
@@ -4022,7 +4044,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 163738,
       "name": "Mania",
       "url": "https://open.spotify.com/track/3DmYeRGkCXxoxz3BiiBQNN"

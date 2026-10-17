@@ -1,12 +1,12 @@
 {
   "description": "SPINGERE",
-  "num_followers": 118094,
+  "num_followers": 118111,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKj1luXblF6SSoUQPQVD4g+N5ZJ2",
+  "snapshot_id": "AAAAAFH0QJei+BVewh8hZ37SmUvAiFIg",
   "tracks": [
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
         "name": "VIDA LOCA (feat. Medy)",
         "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 182067,
       "name": "VIDA LOCA (feat. Medy)",
       "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "added_at": "2026-09-03 22:02:54",

@@ -4449,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "d e v i l",
+        "url": "https://open.spotify.com/album/6qWYP9ADGWwcx42gcobTBI"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204308,
+      "name": "d e v i l",
+      "url": "https://open.spotify.com/track/2iI6ZrmVzpYgEJdlDht9wB"
+    },
+    {
+      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -7191,6 +7209,24 @@
     },
     {
       "album": {
+        "name": "Break The Body EP",
+        "url": "https://open.spotify.com/album/2KuiYPVlPlmizwgLBy2mVP"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172514,
+      "name": "Floor Burn",
+      "url": "https://open.spotify.com/track/2Q5qXnQ2Woguv1HMRPTewj"
+    },
+    {
+      "album": {
         "name": "Flowstate",
         "url": "https://open.spotify.com/album/4196ok6tXu8gKks8ik5KmA"
       },
@@ -8108,7 +8144,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
@@ -9886,7 +9922,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 132272,
       "name": "I Got Love (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/573wEbtTrCoyZFm3HaZg1d"
@@ -21518,7 +21554,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-17",
       "duration_ms": 172733,
       "name": "Up Down",
       "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"

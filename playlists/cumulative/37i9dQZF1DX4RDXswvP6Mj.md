@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: DAILY:DIRECTION\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-955 songs - 2 day 2 hr 11 min
+956 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alright](https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Alright](https://open.spotify.com/album/4tPe3h6ShVtDHo3TOeyqIL) | 3:18 | 2021-12-29 | 2022-07-01 |
 | [Amaid \(Prod\. Dynamicduo, Padi\)](https://open.spotify.com/track/3VlGIOModL226RrY3wy393) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I Adore](https://open.spotify.com/album/77psuhNmtbgwLPLpSyCteg) | 2:58 | 2024-05-08 | 2024-05-10 |
 | [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 | 2022-10-26 | 2022-10-29 |
+| [Andless](https://open.spotify.com/track/1W5v9eqmHWglEcKInhgbca) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.2](https://open.spotify.com/album/0nui9KVjjgQGiyKPFsNbPB) | 2:46 | 2026-10-15 |  |
 | [Another Level](https://open.spotify.com/track/5KZhDpwtheiGQLMKPzgd3y) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO), [OH SEUNGHEE](https://open.spotify.com/artist/4oIE2ZAuPXuOyHNPwjc2Ku), [SEUNGYEON](https://open.spotify.com/artist/2Uv2OMwSDN0lfqnpqBx1UD), [Jang Ye Eun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [Be My BoyFriend \(Original Television Soundtrack\)](https://open.spotify.com/album/1XfnCND8h4hRky8uOw0u0Q) | 3:21 | 2021-12-29 | 2022-04-16 |
 | [Antidote](https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [YELLOW](https://open.spotify.com/album/4igVZxLMxQDV7D94RzW6cw) | 3:38 | 2021-12-21 | 2022-06-27 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 | 2024-03-16 |

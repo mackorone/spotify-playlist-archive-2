@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-72 songs - 4 hr 0 min
+73 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Big Dawgs](https://open.spotify.com/track/6u94evMWCToFG9pwEPZ3gI) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6wkd68ryjF7uuUrMTG9iY5) | 3:54 | 2025-12-09 |  |
 | [Big Energy](https://open.spotify.com/track/2SVaLNAPb15vnkwv40u5sc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/5MrU5xtIT0a7LZYDxDClR0) | 3:21 | 2025-12-09 | 2026-06-23 |
 | [Blick Blick](https://open.spotify.com/track/6v4pVSkyOXL3nOXzPJ8r8O) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/6etIolgwICygZOazhrRLnj) | 2:58 | 2025-12-09 |  |
+| [BOMBS](https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOMBS](https://open.spotify.com/album/7tvZ9e94jBOdxHTJC1VAbf) | 1:34 | 2026-10-16 |  |
 | [Breathe](https://open.spotify.com/track/0M68GE694Iyzearl93bIhV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Breathe](https://open.spotify.com/album/2A4NQQ1eRAPaX6f2z3SqYc) | 2:50 | 2025-12-09 | 2026-07-14 |
 | [Cheetah Print](https://open.spotify.com/track/0iuTNksY8beesQvuwbXDx1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Cheetah Print](https://open.spotify.com/album/1dY7RApxPwP2wvKSg5HYFM) | 3:18 | 2026-09-21 |  |
 | [Classic](https://open.spotify.com/track/2s2seehd980lW7hUSFcyBW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Classic](https://open.spotify.com/album/0O6bP1vTxjWBss5sW2hLqN) | 2:51 | 2026-09-21 |  |
@@ -55,7 +56,7 @@
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/0WbcKUAQS6B9sNEkD4IYhR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/album/488pZDqs0wI32NhlWXciQg) | 4:13 | 2025-12-09 |  |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-04-14 |  |
 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 | 2026-05-26 |  |
-| [ROCKSTAR](https://open.spotify.com/track/5hXq7UFMtyRRb4VZdTOGgI) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCKSTAR](https://open.spotify.com/album/34P8deDnbdqeWbtYOTZbbi) | 7:10 | 2025-12-09 |  |
+| [ROCKSTAR](https://open.spotify.com/track/5hXq7UFMtyRRb4VZdTOGgI) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCKSTAR](https://open.spotify.com/album/34P8deDnbdqeWbtYOTZbbi) | 7:10 | 2025-12-09 | 2026-10-17 |
 | [Runnin](https://open.spotify.com/track/3hqfHOXBfmwj1vTP3S4wnq) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Runnin](https://open.spotify.com/album/37UihOA0sVJ9gXRc3Jh5G5) | 3:23 | 2025-12-09 |  |
 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 | 2026-05-26 | 2026-09-22 |
 | [SkeeYee](https://open.spotify.com/track/6muHHIwOi1mGGcqV8b34Gj) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SkeeYee](https://open.spotify.com/album/5dsb2MEXRCZkZAdqQ3olcl) | 3:16 | 2025-12-09 |  |
