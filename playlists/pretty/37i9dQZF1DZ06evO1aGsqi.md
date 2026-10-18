@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,552 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,559 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 | 18 | [Groves](https://open.spotify.com/track/1hAiPMWwuIqPDPu6UzFXMe) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 3:03 |
 | 19 | [Ice Cold \(Final Round\) \(with Vince Staples & Ludwig Göransson\)](https://open.spotify.com/track/701RVIizxCUMCO92CfcPby) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 2:05 |
 | 20 | [Smokestack Twins](https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:28 |
-| 21 | [Penelope](https://open.spotify.com/track/5CsZuYia3R65X0Z5sNLsak) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 4:16 |
+| 21 | [Another Name](https://open.spotify.com/track/0KebKJIyG9EzIaAldHPaRM) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 1:51 |
 | 22 | [Manhattan Project](https://open.spotify.com/track/4yX2SVMLL3MV9kIYqS8B76) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 3:01 |
 | 23 | [Rotta](https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 1:33 |
 | 24 | [Truths \(From "Everything, Everything" Score\)](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 | 29 | [BETRAYAL](https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:55 |
 | 30 | [RAINY NIGHT IN TALLINN](https://open.spotify.com/track/5r6l0sPvfeAPjQ67fCgOwG) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 8:00 |
 
-Snapshot ID: `as7GAAAAAABVyCiKjdS6VPlkoZj/18d4`
+Snapshot ID: `atFpAAAAAACC/mkmCWisXTBZpf7aO2MG`

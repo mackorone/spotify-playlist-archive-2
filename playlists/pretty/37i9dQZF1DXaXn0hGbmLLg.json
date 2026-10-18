@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! October ambassador: <a href=\"spotify:artist:6OOF9nSZbNw4etK0InqtEZ\">CVNTS</a>",
-  "num_followers": 14511,
+  "num_followers": 14510,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Ta peau",
-        "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
-      },
-      "artists": [
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
-        }
-      ],
-      "duration_ms": 187254,
-      "name": "Ta peau",
-      "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "GGZ",
         "url": "https://open.spotify.com/album/41MRGU73ataKlGfJZU1G6r"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 160943,
       "name": "GGZ",
       "url": "https://open.spotify.com/track/3iyMNlT06VVYsraeRvMR0w"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Ta peau",
+        "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
+        }
+      ],
+      "duration_ms": 187254,
+      "name": "Ta peau",
+      "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Tijdloos",
-        "url": "https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc"
-      },
-      "artists": [
-        {
-          "name": "Danique",
-          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Tijdloos",
-      "url": "https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/7ae570khGQLheU8OibdwtB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 209881,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2L1hG8qv7LPuyIzsNCyfeT"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Tijdloos",
+        "url": "https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Tijdloos",
+      "url": "https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Bad Bitch At The Rave",
-        "url": "https://open.spotify.com/album/2vSVcYTNcZV6albuf03pKx"
-      },
-      "artists": [
-        {
-          "name": "LYNSY",
-          "url": "https://open.spotify.com/artist/5BMrgT9eEWEWWambA5iFjn"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "Bad Bitch At The Rave",
-      "url": "https://open.spotify.com/track/5XsPIrcERl4j8HIYegOCL0"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Crunchy, Sad and Strangely Happy",
         "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 224383,
       "name": "I Wish I Never Met You",
       "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Bad Bitch At The Rave",
+        "url": "https://open.spotify.com/album/2vSVcYTNcZV6albuf03pKx"
+      },
+      "artists": [
+        {
+          "name": "LYNSY",
+          "url": "https://open.spotify.com/artist/5BMrgT9eEWEWWambA5iFjn"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "Bad Bitch At The Rave",
+      "url": "https://open.spotify.com/track/5XsPIrcERl4j8HIYegOCL0"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/1ablmD9hjxK5WLl6O58Fgg"
-      },
-      "artists": [
-        {
-          "name": "Quinty's",
-          "url": "https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl"
-        }
-      ],
-      "duration_ms": 192982,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0W4VEKGacTuzvJUe8i8da6"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Trial & Error",
         "url": "https://open.spotify.com/album/57sG1gu8jeTmnWYR2Ss9sb"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228800,
       "name": "Mama",
       "url": "https://open.spotify.com/track/43lD6s1AJLws5e2EEk8fjY"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/1ablmD9hjxK5WLl6O58Fgg"
+      },
+      "artists": [
+        {
+          "name": "Quinty's",
+          "url": "https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl"
+        }
+      ],
+      "duration_ms": 192982,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0W4VEKGacTuzvJUe8i8da6"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Spaans Benauwd",
+        "url": "https://open.spotify.com/album/20a8FZXUJTaAS0SZQsP4LQ"
+      },
+      "artists": [
+        {
+          "name": "Romy Monteiro",
+          "url": "https://open.spotify.com/artist/7JPsdOU0xVePMa20YsbZdY"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Spaans Benauwd",
+      "url": "https://open.spotify.com/track/7os250jZHWdOl4auBEbdPl"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Niet Janken Maar Planken",
         "url": "https://open.spotify.com/album/5zbfco3ApkzBnFMdoyGUPd"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 191306,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/5C4KgyogyD9HVRKtKXJWEO"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Spaans Benauwd",
-        "url": "https://open.spotify.com/album/20a8FZXUJTaAS0SZQsP4LQ"
-      },
-      "artists": [
-        {
-          "name": "Romy Monteiro",
-          "url": "https://open.spotify.com/artist/7JPsdOU0xVePMa20YsbZdY"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Spaans Benauwd",
-      "url": "https://open.spotify.com/track/7os250jZHWdOl4auBEbdPl"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "alles in.",
-        "url": "https://open.spotify.com/album/1lsJZvPwaMFTuK3aMg15SK"
+        "name": "Fuck You <3",
+        "url": "https://open.spotify.com/album/6tP32hnUOIge0kFArr66aE"
       },
       "artists": [
         {
-          "name": "Kim Petite",
-          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
+          "name": "Renee Rose",
+          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
         }
       ],
-      "duration_ms": 177874,
-      "name": "alles in.",
-      "url": "https://open.spotify.com/track/6Clejmlj90tyKx6qyArk5i"
+      "duration_ms": 158053,
+      "name": "Fuck You <3",
+      "url": "https://open.spotify.com/track/2OtKijVqgCHJICLDZYbVyN"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Fuck You <3",
-        "url": "https://open.spotify.com/album/6tP32hnUOIge0kFArr66aE"
+        "name": "alles in.",
+        "url": "https://open.spotify.com/album/1lsJZvPwaMFTuK3aMg15SK"
       },
       "artists": [
         {
-          "name": "Renee Rose",
-          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+          "name": "Kim Petite",
+          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
         }
       ],
-      "duration_ms": 158053,
-      "name": "Fuck You <3",
-      "url": "https://open.spotify.com/track/2OtKijVqgCHJICLDZYbVyN"
+      "duration_ms": 177874,
+      "name": "alles in.",
+      "url": "https://open.spotify.com/track/6Clejmlj90tyKx6qyArk5i"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1023,22 +1023,6 @@
       "duration_ms": 144635,
       "name": "vergeef me als ik slide",
       "url": "https://open.spotify.com/track/4TLP2oLr2ee4jwX1BBpgDp"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "De dagen",
-        "url": "https://open.spotify.com/album/5yJXfOssStBnFWjsSkP1ra"
-      },
-      "artists": [
-        {
-          "name": "Yentl en de Boer",
-          "url": "https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE"
-        }
-      ],
-      "duration_ms": 290231,
-      "name": "De mug",
-      "url": "https://open.spotify.com/track/4DNWdKw2I0BqIvH9pwYr9H"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1071,6 +1055,22 @@
       "duration_ms": 155368,
       "name": "Tranen Voor De Dorst",
       "url": "https://open.spotify.com/track/7y3dWG3ygFd9wKtf2Z9UWx"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "De dagen",
+        "url": "https://open.spotify.com/album/5yJXfOssStBnFWjsSkP1ra"
+      },
+      "artists": [
+        {
+          "name": "Yentl en de Boer",
+          "url": "https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE"
+        }
+      ],
+      "duration_ms": 290231,
+      "name": "De mug",
+      "url": "https://open.spotify.com/track/4DNWdKw2I0BqIvH9pwYr9H"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Branches to the Sky",
-        "url": "https://open.spotify.com/album/7HoGHUIwguJMBk1fAiOg0V"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        }
-      ],
-      "duration_ms": 183605,
-      "name": "Branches to the Sky",
-      "url": "https://open.spotify.com/track/60p4RZZYqC3T7KptYYvRL8"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Back to Me",
         "url": "https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 187992,
       "name": "De Leugen",
       "url": "https://open.spotify.com/track/2WhpOLpyrvtsWi0IxY77AG"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Branches to the Sky",
+        "url": "https://open.spotify.com/album/7HoGHUIwguJMBk1fAiOg0V"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "duration_ms": 183605,
+      "name": "Branches to the Sky",
+      "url": "https://open.spotify.com/track/60p4RZZYqC3T7KptYYvRL8"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Mi No Sabi",
-        "url": "https://open.spotify.com/album/22IHlTKLz9GrQ1okGU9FHZ"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Mi No Sabi",
-      "url": "https://open.spotify.com/track/12Ck6WW19yoEM6pfd6zf4V"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/4RPE5w6vUuIv47QtIuvrrJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 153461,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/79um7b9Dd0UQ2hGwGJNLJx"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Mi No Sabi",
+        "url": "https://open.spotify.com/album/22IHlTKLz9GrQ1okGU9FHZ"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Mi No Sabi",
+      "url": "https://open.spotify.com/track/12Ck6WW19yoEM6pfd6zf4V"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/0H32xOvi6XQcAig8FnBXHy"
-      },
-      "artists": [
-        {
-          "name": "Mila & Mira",
-          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
-        }
-      ],
-      "duration_ms": 158649,
-      "name": "Layers",
-      "url": "https://open.spotify.com/track/38cgIJelIBbtC5VFbFPbA9"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Desire Is Movement",
         "url": "https://open.spotify.com/album/7LewXoNUuPAbxL4UDBPX0v"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 328680,
       "name": "Desire Is Movement",
       "url": "https://open.spotify.com/track/39qyXA2HjZ7pvtPJjgpMTd"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/0H32xOvi6XQcAig8FnBXHy"
+      },
+      "artists": [
+        {
+          "name": "Mila & Mira",
+          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
+        }
+      ],
+      "duration_ms": 158649,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/38cgIJelIBbtC5VFbFPbA9"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "That's Me",
-        "url": "https://open.spotify.com/album/4qr4wscnEzB7I1p72vJGj6"
-      },
-      "artists": [
-        {
-          "name": "Ebony Winter",
-          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
-        }
-      ],
-      "duration_ms": 159882,
-      "name": "That's Me",
-      "url": "https://open.spotify.com/track/0JlJiS9UGwwuFuKvy302ro"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "STAR VIVA",
         "url": "https://open.spotify.com/album/2XMuXw1xBx0o3ERV3op3E0"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 169304,
       "name": "MATAMOS TIEMPO",
       "url": "https://open.spotify.com/track/5bw9K71y47BzBXbbc8vNd5"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/4qr4wscnEzB7I1p72vJGj6"
+      },
+      "artists": [
+        {
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+        }
+      ],
+      "duration_ms": 159882,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/0JlJiS9UGwwuFuKvy302ro"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/3ZGPb9uQBroN0o26CK2GXZ"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Ewbank",
-          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1a6Kg9KhFMXD3BnyOXUKSD"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "9to5",
         "url": "https://open.spotify.com/album/137SrdxZngzFFwUaZuRqS7"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Als jij het niet bent",
-        "url": "https://open.spotify.com/album/2hBXUwRUMdtF6kd2DIWHqO"
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/3ZGPb9uQBroN0o26CK2GXZ"
       },
       "artists": [
         {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+          "name": "Jennifer Ewbank",
+          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
         }
       ],
-      "duration_ms": 211508,
-      "name": "Als jij het niet bent",
-      "url": "https://open.spotify.com/track/1Y08ygmeSrkGHxTp5wOrq9"
+      "duration_ms": 211500,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1a6Kg9KhFMXD3BnyOXUKSD"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Als jij het niet bent",
+        "url": "https://open.spotify.com/album/2hBXUwRUMdtF6kd2DIWHqO"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "duration_ms": 211508,
+      "name": "Als jij het niet bent",
+      "url": "https://open.spotify.com/track/1Y08ygmeSrkGHxTp5wOrq9"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/6siWmmAx2R0xa5Gp1l8lFX"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 216453,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/3CXadUqQ5eUVbDxtDaidgN"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
+      },
+      "artists": [
+        {
+          "name": "Sandrien",
+          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
-      },
-      "artists": [
-        {
-          "name": "Sandrien",
-          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Sad Bitches",
         "url": "https://open.spotify.com/album/5o5zjnSBBapOvrLmUSwdOS"
       },
@@ -1611,6 +1611,38 @@
       "duration_ms": 191554,
       "name": "Sad Bitches",
       "url": "https://open.spotify.com/track/3yNQW3ygXKf8BHJGebpPqI"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "D2F",
+        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
+      },
+      "artists": [
+        {
+          "name": "JANE",
+          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+        }
+      ],
+      "duration_ms": 123273,
+      "name": "D2F",
+      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "The House",
+        "url": "https://open.spotify.com/album/20JwXguQZQ56bQYkY0B6zE"
+      },
+      "artists": [
+        {
+          "name": "Elis Floreen",
+          "url": "https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Sleepless Dream",
+      "url": "https://open.spotify.com/track/2FfNTLtBLYQ91faLchKmlr"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1647,22 +1679,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "D2F",
-        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
-      },
-      "artists": [
-        {
-          "name": "JANE",
-          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
-        }
-      ],
-      "duration_ms": 123273,
-      "name": "D2F",
-      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Eventjes",
         "url": "https://open.spotify.com/album/5rBszwlnFviFMcBcU5Gxdz"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 180090,
       "name": "Eventjes",
       "url": "https://open.spotify.com/track/28bjwlN83oLvzh3rgE01kh"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "The House",
-        "url": "https://open.spotify.com/album/20JwXguQZQ56bQYkY0B6zE"
-      },
-      "artists": [
-        {
-          "name": "Elis Floreen",
-          "url": "https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Sleepless Dream",
-      "url": "https://open.spotify.com/track/2FfNTLtBLYQ91faLchKmlr"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "In Mijn Hoofd",
-        "url": "https://open.spotify.com/album/5dhpC9nIK3AiMK2ehZYSd6"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
-        }
-      ],
-      "duration_ms": 180540,
-      "name": "In Mijn Hoofd",
-      "url": "https://open.spotify.com/track/1kQGYDPso2tJSeqijPzxxz"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Systeemplafond",
         "url": "https://open.spotify.com/album/5RaMvDvjMW31Sjw3Mdo5XF"
       },
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "In Mijn Hoofd",
+        "url": "https://open.spotify.com/album/5dhpC9nIK3AiMK2ehZYSd6"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+        }
+      ],
+      "duration_ms": 180540,
+      "name": "In Mijn Hoofd",
+      "url": "https://open.spotify.com/track/1kQGYDPso2tJSeqijPzxxz"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "BB ILY",
         "url": "https://open.spotify.com/album/5aidWbmZt8CQzqgvvXIzkV"
       },
@@ -1755,6 +1755,22 @@
       "duration_ms": 171358,
       "name": "BB ILY",
       "url": "https://open.spotify.com/track/1iYu4iQ2dfLQuNxpZAbKtt"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "I'll Do It Myself",
+        "url": "https://open.spotify.com/album/5ZifGri1bN6NC0XnUBXFKa"
+      },
+      "artists": [
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "I'll Do It Myself",
+      "url": "https://open.spotify.com/track/2iV6HI3qmjfT2pddW2hfWk"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1787,22 +1803,6 @@
       "duration_ms": 196153,
       "name": "I'm An Island",
       "url": "https://open.spotify.com/track/23mP07l4I4FQ02AmmzN6Jd"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "I'll Do It Myself",
-        "url": "https://open.spotify.com/album/5ZifGri1bN6NC0XnUBXFKa"
-      },
-      "artists": [
-        {
-          "name": "JEN",
-          "url": "https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "I'll Do It Myself",
-      "url": "https://open.spotify.com/track/2iV6HI3qmjfT2pddW2hfWk"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "UNO",
-        "url": "https://open.spotify.com/album/0Gmg3TOZpQE1wtHW25IB7T"
-      },
-      "artists": [
-        {
-          "name": "Ella John",
-          "url": "https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "UNO",
-      "url": "https://open.spotify.com/track/5hPmrAINaIwu80f2h89cWw"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Baranka Music Promo Tape (26)",
         "url": "https://open.spotify.com/album/0eeTdND0Ua4KK9PceETEHK"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 205489,
       "name": "Wateren",
       "url": "https://open.spotify.com/track/1jc6Q3JrL4hu8ZRYqKQGcU"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "UNO",
+        "url": "https://open.spotify.com/album/0Gmg3TOZpQE1wtHW25IB7T"
+      },
+      "artists": [
+        {
+          "name": "Ella John",
+          "url": "https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "UNO",
+      "url": "https://open.spotify.com/track/5hPmrAINaIwu80f2h89cWw"
     },
     {
       "added_at": "2026-10-06 22:00:25",

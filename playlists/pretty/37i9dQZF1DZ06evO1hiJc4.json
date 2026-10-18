@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 158051,
+  "num_followers": 158054,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADxMo9E0tdPFu9GHi9Xs4nl",
+  "snapshot_id": "atFpAAAAAABLlCInX+A+vg6e0TlaCtsM",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Collectors & Mens",
+      "url": "https://open.spotify.com/track/2OkX2rHcBZ0H3gsmz1wH6c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 175826,
       "name": "No New Friends (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Collectors & Mens",
-      "url": "https://open.spotify.com/track/2OkX2rHcBZ0H3gsmz1wH6c"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 191842,
-      "name": "Kill For Your Love",
-      "url": "https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 181986,
       "name": "Sleek Noir",
       "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "Kill For Your Love",
+      "url": "https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 310626,
+      "name": "Studio",
+      "url": "https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disc-Overy",
         "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 295413,
       "name": "Frisky (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 310626,
-      "name": "Studio",
-      "url": "https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT II",
-        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "THE LIVING",
-      "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 150222,
       "name": "Power Couple",
       "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COSMIC OPERA ACT II",
+        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "THE LIVING",
+      "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 53353,
+      "name": "What Would You Want Me To Be",
+      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COSMIC OPERA ACT II",
         "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
       },
@@ -827,6 +843,22 @@
       "duration_ms": 188497,
       "name": "PROSTITUTE",
       "url": "https://open.spotify.com/track/0y3wCiRJ5g5EDSN2WX4f8W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Let the Sun Shine",
+      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
     },
     {
       "added_at": null,
@@ -847,22 +879,6 @@
       "duration_ms": 240960,
       "name": "To Be Human (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic Earth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Let the Sun Shine",
-      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
       "duration_ms": 131720,
       "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 53353,
-      "name": "What Would You Want Me To Be",
-      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
     }
   ],
   "unique_name": "This Is Labrinth",

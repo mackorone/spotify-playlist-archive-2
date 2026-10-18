@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "+ DELOMISMO",
+        "url": "https://open.spotify.com/album/7wdaGsbjSI5Jc4H81ScIVA"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "+ DELOMISMO",
+      "url": "https://open.spotify.com/track/2nfPnlcI5VDcZko1cO4Jof"
+    },
+    {
+      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -11392,7 +11410,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/6XXQA6e8qXPJ1sZtRxvbws"
@@ -14362,6 +14380,24 @@
       "duration_ms": 160373,
       "name": "FR\u00cdO",
       "url": "https://open.spotify.com/track/47IVaRZDAKsUC3x5Zhn2Gr"
+    },
+    {
+      "album": {
+        "name": "15 SEGUNDOS",
+        "url": "https://open.spotify.com/album/7pURbovGTiWRVfDFotw57B"
+      },
+      "artists": [
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140919,
+      "name": "Fua kabr\u00f3n",
+      "url": "https://open.spotify.com/track/65RkRhNkNnTMPGdHD9OdEJ"
     },
     {
       "album": {
@@ -29308,7 +29344,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 229226,
       "name": "QUERIDO TIEMPO",
       "url": "https://open.spotify.com/track/17KNvgjeg1wY2pAaMpiFcT"
@@ -35768,7 +35804,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 166625,
       "name": "TOO",
       "url": "https://open.spotify.com/track/318NR7D302xujYnNHHFv13"
@@ -39418,7 +39454,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 362908,
       "name": "YO QUIERO - REMIX",
       "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"

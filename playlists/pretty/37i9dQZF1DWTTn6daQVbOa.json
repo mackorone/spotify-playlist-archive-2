@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1185118,
+  "num_followers": 1185276,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 252960,
       "name": "Fernando",
       "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 255875,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 285413,
-      "name": "I Have A Dream",
-      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+      "duration_ms": 285413,
+      "name": "I Have A Dream",
+      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Sky's The Limit",
         "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Dream Weaver",
-      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "A Night on the Town",
         "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 271200,
       "name": "The First Cut Is the Deepest",
       "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1693,6 +1693,22 @@
       "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
     },
     {
+      "added_at": "2023-03-13 08:18:56",
+      "album": {
+        "name": "Closing Time (Remastered)",
+        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "I Hope That I Don't Fall In Love With You",
+      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
+    },
+    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
@@ -1711,22 +1727,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2023-03-13 08:18:56",
-      "album": {
-        "name": "Closing Time (Remastered)",
-        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "I Hope That I Don't Fall In Love With You",
-      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 326244,
-      "name": "Two Out of Three Ain't Bad",
-      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rose Royce III: Strikes Again!",
         "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 238306,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 326244,
+      "name": "Two Out of Three Ain't Bad",
+      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1943,18 +1943,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Fate For Breakfast",
-        "url": "https://open.spotify.com/album/49XeWorlh4MXcslygZb0Kf"
+        "name": "Diana & Marvin (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
       "artists": [
         {
-          "name": "Art Garfunkel",
-          "url": "https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Bright Eyes",
-      "url": "https://open.spotify.com/track/3Jy0dWV5AnnfyTvHK6UWof"
+      "duration_ms": 190440,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1975,22 +1979,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Diana & Marvin (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
+        "name": "Fate For Breakfast",
+        "url": "https://open.spotify.com/album/49XeWorlh4MXcslygZb0Kf"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Art Garfunkel",
+          "url": "https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS"
         }
       ],
-      "duration_ms": 190440,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+      "duration_ms": 238600,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/3Jy0dWV5AnnfyTvHK6UWof"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Stranger",
-        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 202267,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Let Me In Your Life",
         "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 208466,
       "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
       "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 202267,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sealed With A Kiss",
-        "url": "https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Sealed with a Kiss",
-      "url": "https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "This Girl's in Love with You",
         "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 237066,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/1JEFsHZxUy24AvyC49GKVj"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Sealed With A Kiss",
+        "url": "https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Sealed with a Kiss",
+      "url": "https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Danny's Song",
-        "url": "https://open.spotify.com/album/6ZwsElAMgLjdZXL04okPcs"
+        "name": "I'm In You",
+        "url": "https://open.spotify.com/album/1yn9J074uklyngo5SGS49U"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Danny's Song",
-      "url": "https://open.spotify.com/track/5lQxMlCMTzCj3j4vyzdl8T"
+      "duration_ms": 250000,
+      "name": "I'm In You",
+      "url": "https://open.spotify.com/track/03zB9duFz1JqLxAIYvGdac"
     }
   ],
   "unique_name": "Soft 70s",

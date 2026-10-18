@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,480 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,493 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [See You Tonight \- Live From MTV Unplugged/1995](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 |
 | 50 | [King Of The Night Time World \- Live at Anaheim Stadium, Anaheim, California \- August 20, 1976](https://open.spotify.com/track/5qGBFUToAl7XumOQqtHW1t) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroys Anaheim '76 \(Live At Anaheim Stadium, Anaheim, California \- August 20, 1976\)](https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa) | 3:16 |
 
-Snapshot ID: `as7GAAAAAABjRyIbEDcWAGlItZ3RQ3t6`
+Snapshot ID: `atAXgAAAAADWAh1DMGgUMpm7znoakjuk`

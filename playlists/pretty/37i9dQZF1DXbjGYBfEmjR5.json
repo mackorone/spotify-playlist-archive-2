@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 367844,
+  "num_followers": 367856,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 220055,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Delicate",
+        "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 251151,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Delicate",
-        "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
       },
       "artists": [
         {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
         }
       ],
-      "duration_ms": 251151,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Paradise Break",
-        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 175567,
-      "name": "Lady Paradise",
-      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Virtual Girls Band a.k.a. Sparkle",
         "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Paradise Break",
+        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 175567,
+      "name": "Lady Paradise",
+      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Cheetahs in Barcelona",
         "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 169714,
       "name": "Cheetahs in Barcelona",
       "url": "https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sua Noite",
+        "url": "https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 142612,
+      "name": "Sua Noite",
+      "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1579,22 +1595,6 @@
       "duration_ms": 157500,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Sua Noite",
-        "url": "https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 142612,
-      "name": "Sua Noite",
-      "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
     },
     {
       "added_at": "2023-07-18 02:21:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 > The best of 2000s Y2K nostalgia! Coachella, Stagecoach from \*NSYNC's Bye Bye Bye, to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,571,531 likes - 220 songs - 14 hr 20 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,571,453 likes - 220 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

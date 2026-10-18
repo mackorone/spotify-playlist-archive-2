@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 225532,
+  "num_followers": 225550,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACLVWYxtfvSKyCfEiO3bRcF",
+  "snapshot_id": "atAXgAAAAABHl7VqCSuAcJrVEnKjawQa",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 576783,
       "name": "Freddie Freeloader",
       "url": "https://open.spotify.com/track/4OMxTfe96Bjy6EL8hNycBF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anedac (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6hHbKSxgWYpgNRpHkM0bpS"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Wilbur Harden",
+          "url": "https://open.spotify.com/artist/1zObM8Nu9u5qzUoRyXydeq"
+        }
+      ],
+      "duration_ms": 313195,
+      "name": "Anedac - Remastered 2026",
+      "url": "https://open.spotify.com/track/11VkPLyB8PN0s3BmluORlM"
     },
     {
       "added_at": null,
@@ -275,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 479023,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coltrane's Sound",
         "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
       },
@@ -303,6 +307,22 @@
       "duration_ms": 487279,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/1OtISG0K02k06m1BENey4H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 479023,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
     },
     {
       "added_at": null,
@@ -383,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 643127,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -411,22 +447,6 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 643127,
-      "name": "Blue Train",
-      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
     },
     {
       "added_at": null,
@@ -495,38 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 420693,
-      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coltrane Plays the Blues",
         "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
       },
@@ -555,6 +543,38 @@
       "duration_ms": 324493,
       "name": "Village Blues",
       "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 420693,
+      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
     },
     {
       "added_at": null,
@@ -611,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Favorite Things (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 345266,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -655,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Favorite Things (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 345266,
-      "name": "Everytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -687,6 +707,22 @@
       "duration_ms": 259866,
       "name": "Autumn Serenade",
       "url": "https://open.spotify.com/track/3lrcl8bNSUkHMjHEtP5yC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 297880,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": null,
@@ -715,22 +751,6 @@
       "duration_ms": 904493,
       "name": "How Deep Is The Ocean?",
       "url": "https://open.spotify.com/track/1xhjDUztnjD42UfY72Atg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 297880,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": null,
@@ -783,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 550189,
+      "name": "Moment's Notice",
+      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -815,22 +851,6 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 550189,
-      "name": "Moment's Notice",
-      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     },
     {
       "added_at": null,
@@ -1043,26 +1063,6 @@
       "duration_ms": 267133,
       "name": "Big Nick",
       "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mating Call [RVG Remaster]",
-        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
-      },
-      "artists": [
-        {
-          "name": "Tadd Dameron",
-          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Soultrane - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
     }
   ],
   "unique_name": "This Is John Coltrane",

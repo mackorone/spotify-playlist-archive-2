@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 18638,
+  "num_followers": 18653,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAA1/xJSAG828QFmT5kWuiA+",
+  "snapshot_id": "atFpAAAAAADPrK1kWgQeg2D55kpuMMc6",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+        "name": "Sometimes (From \"Fire Island\")",
+        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
       },
       "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 227706,
-      "name": "Morning Pages",
-      "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
+      "duration_ms": 183811,
+      "name": "Sometimes - From \"Fire Island\"",
+      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
     },
     {
       "added_at": null,
@@ -315,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes (From \"Fire Island\")",
-        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
       "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 183811,
-      "name": "Sometimes - From \"Fire Island\"",
-      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
+      "duration_ms": 227706,
+      "name": "Morning Pages",
+      "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tegan and Sara Present the Con X: Covers",
-        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
+        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 177320,
-      "name": "Relief Next to Me",
-      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
+      "duration_ms": 205373,
+      "name": "Nihilist - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
+        "name": "Tegan and Sara Present the Con X: Covers",
+        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Nihilist - From \"Promising Young Woman\" Soundtrack",
-      "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
+      "duration_ms": 177320,
+      "name": "Relief Next to Me",
+      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
     },
     {
       "added_at": null,

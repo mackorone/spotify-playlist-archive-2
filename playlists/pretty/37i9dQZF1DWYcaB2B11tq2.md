@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,761 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,842 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 89 | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ) | 5:38 |
 | 90 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 91 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
-| 92 | [Vida encontré](https://open.spotify.com/track/4ts1vpaLcmzKCOAclnkeqM) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida encontré](https://open.spotify.com/album/7eFRbzg1911WCCShZbR2Iq) | 3:35 |
-| 93 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
+| 92 | [Himno De Victoria](https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 4:00 |
+| 93 | [Vida encontré](https://open.spotify.com/track/4ts1vpaLcmzKCOAclnkeqM) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida encontré](https://open.spotify.com/album/7eFRbzg1911WCCShZbR2Iq) | 3:35 |
 | 94 | [La Sunamita](https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ), [Alex Marquez Oficial](https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt) | [La Sunamita](https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N) | 12:53 |
-| 95 | [Himno De Victoria](https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 4:00 |
+| 95 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
 | 96 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
-| 97 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
-| 98 | [El Cielo Gobierna](https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW) | 4:25 |
-| 99 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
-| 100 | [El Rey Te Mandó Llamar](https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Voy A Profetizar](https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG) | 4:44 |
+| 97 | [El Rey Te Mandó Llamar](https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Voy A Profetizar](https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG) | 4:44 |
+| 98 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
+| 99 | [El Cielo Gobierna](https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW) | 4:25 |
+| 100 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
 
 Snapshot ID: `AAAAAG0qrg2jJPS74rCHLxgbJ14yb4Zn`

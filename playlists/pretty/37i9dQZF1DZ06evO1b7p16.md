@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,725 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,727 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 10 | [What's It Feel Like To Be A Ghost?](https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:47 |
 | 11 | [Timberwolves At New Jersey \- Remastered](https://open.spotify.com/track/1JFPraHovseDzutd6BOIry) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:25 |
 | 12 | [Set Phasers To Stun](https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:03 |
-| 13 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 |
-| 14 | [My Blue Heaven](https://open.spotify.com/track/6pYzQWbPT3zw4F8Y5euTfl) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 4:07 |
-| 15 | [There's No 'I' In Team \- Remastered](https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:48 |
-| 16 | [One\-Eighty By Summer](https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:53 |
+| 13 | [My Blue Heaven](https://open.spotify.com/track/6pYzQWbPT3zw4F8Y5euTfl) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 4:07 |
+| 14 | [There's No 'I' In Team \- Remastered](https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:48 |
+| 15 | [One\-Eighty By Summer](https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:53 |
+| 16 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 |
 | 17 | [Spin](https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:39 |
 | 18 | [You Know How I Do \- Remastered](https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:21 |
 | 19 | [Number Five With A Bullet](https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:49 |
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 26 | [Call Me In The Morning](https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:59 |
 | 27 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 |
 | 28 | [Better Homes And Gardens](https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:54 |
-| 29 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
+| 29 | [Lightbringer](https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 2:48 |
 | 30 | [You Got Me](https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:21 |
 | 31 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 |
 | 32 | [Stood A Chance](https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:39 |
-| 33 | [Lightbringer](https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 2:48 |
+| 33 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
 | 34 | [This Is All Now](https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 4:03 |
 | 35 | [New Again](https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:33 |
 | 36 | [Beat Up Car](https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 49 | [Suburban Home / I Like Food](https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) | 1:56 |
 | 50 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 |
 
-Snapshot ID: `as7GAAAAAABkXwDHyxFnvnRy/nLC5VXP`
+Snapshot ID: `atFpAAAAAADqfeYFkYFHWqGzkKmwjNxY`

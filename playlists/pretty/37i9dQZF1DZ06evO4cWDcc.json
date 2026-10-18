@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 329491,
+  "num_followers": 329507,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABk+xuCAkGDiBKWb1zu+XPG",
+  "snapshot_id": "atFpAAAAAACH0Xw2ykdI315hwSp5oIZs",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 332800,
       "name": "Message To Love - Live At Berkeley - 1st Show",
       "url": "https://open.spotify.com/track/1cERuP1cDlK5XFWndnTDWC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic Boy: The Jimi Hendrix Experience Live At Berkeley [First Show]",
+        "url": "https://open.spotify.com/album/1kvQfnOEYKiU6RYEdRosWi"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 257493,
+      "name": "Johnny B. Goode - Live At Berkeley - 1st Show",
+      "url": "https://open.spotify.com/track/3c2JhiszPrDz3G03Dylz0r"
     },
     {
       "added_at": null,
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 224653,
-      "name": "Izabella",
-      "url": "https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl"
+      "duration_ms": 221026,
+      "name": "Hey Gypsy Boy",
+      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
     },
     {
       "added_at": null,
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 221026,
-      "name": "Hey Gypsy Boy",
-      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
+      "duration_ms": 224653,
+      "name": "Izabella",
+      "url": "https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Monterey",
-        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Killing Floor - Live At Monterey",
-      "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Band Of Gypsys (50th Anniversary / Live)",
         "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Things I Used to Do",
-      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+      "duration_ms": 194653,
+      "name": "Killing Floor - Live At Monterey",
+      "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

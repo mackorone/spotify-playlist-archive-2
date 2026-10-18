@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 218093,
+  "num_followers": 218175,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
+        "name": "BANSHEE/#REBEL",
+        "url": "https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
         "name": "Anything but You",
         "url": "https://open.spotify.com/album/11fElf60VTbmDPs3MMxPa7"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 208405,
       "name": "Anything but You",
       "url": "https://open.spotify.com/track/4ZXZEJAJfgeg679dvkQWki"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
-        "name": "BANSHEE/#REBEL",
-        "url": "https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "BANSHEE",
-      "url": "https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik"
     },
     {
       "added_at": "2026-09-11 06:00:08",

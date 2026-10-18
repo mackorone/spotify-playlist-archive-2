@@ -5157,6 +5157,28 @@
     },
     {
       "album": {
+        "name": "mosca",
+        "url": "https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220928,
+      "name": "Dientes De Fierro",
+      "url": "https://open.spotify.com/track/2j5ImvoXOHcsAFSzoi3SyH"
+    },
+    {
+      "album": {
         "name": "digo que no, pero si",
         "url": "https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E"
       },
@@ -10472,7 +10494,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 225760,
       "name": "love that stains",
       "url": "https://open.spotify.com/track/6sFUlgljN8JyvqI5mDJUUF"
@@ -10544,7 +10566,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 226697,
       "name": "Lucero",
       "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
@@ -18750,6 +18772,28 @@
       "duration_ms": 171340,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/2Blydh05Xl0U0LST9beyR7"
+    },
+    {
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
     },
     {
       "album": {

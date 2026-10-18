@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,417 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,415 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Once In a Blue Moon](https://open.spotify.com/track/0nlvbQBi4XNQGB2Rsi51oF) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [In Harmony](https://open.spotify.com/album/5ciWiRD3ZT6YkAwaM7DzE5) | 3:57 |
 | 50 | [Nkosi Yama Khosi](https://open.spotify.com/track/601yCRAHvab7ayl2DuuiST) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Amabutho](https://open.spotify.com/album/0K1hHIOKtRK8zJccos9PUH) | 3:01 |
 
-Snapshot ID: `as7GAAAAAACa/h1j3ea1QMlXuQjaklyJ`
+Snapshot ID: `atAXgAAAAAAQbyAs5OHF6Uzesqf1B42D`

@@ -4,7 +4,7 @@
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-120 songs - 9 hr 51 min
+121 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Cuan Grande Es el](https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva) | [Eunice Rodriguez](https://open.spotify.com/artist/2hgP8nOel52OiqwXIFxZYD), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Cuan Grande Es el](https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt) | 4:44 | 2025-04-24 |  |
 | [Cuán Bello es el Señor](https://open.spotify.com/track/3iJcqcWzfTi5Pkp2or41d9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 5:55 | 2026-09-10 |  |
 | [Cuán Bello Es El Señor](https://open.spotify.com/track/5JDoXnmDmAFmZbkwQSBaCD) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Cuán Bello Es El Señor](https://open.spotify.com/album/5oRGES0ivZDuRuBSPdbSpN) | 3:31 | 2025-05-07 | 2025-11-19 |
-| [Cuán Grande Es Él](https://open.spotify.com/track/3oYM3bftHK06aiuUsdZqWW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 6:06 | 2026-05-20 |  |
+| [Cuán Grande Es Él](https://open.spotify.com/track/3oYM3bftHK06aiuUsdZqWW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 6:06 | 2026-05-20 | 2026-10-18 |
 | [Damos honor a Ti](https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Homenaje a Jesús \(En Vivo\)](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 8:01 | 2023-04-02 |  |
 | [De Gloria en Gloria](https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:56 | 2023-04-02 |  |
 | [Dios de Pactos](https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Dios de Pactos](https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR) | 10:51 | 2023-04-02 |  |
@@ -92,6 +92,7 @@
 | [Sana Nuestra Tierra](https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra \(En Vivo\)](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:12 | 2023-04-02 |  |
 | [Santo Espíritu](https://open.spotify.com/track/7pTBwEInekrkhZwsbow2Fa) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Santo Espíritu](https://open.spotify.com/album/1U3WKVZB7o268YPH48OMj7) | 3:49 | 2023-04-30 | 2023-09-16 |
 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 | 2023-04-02 |  |
+| [Será Llena La Tierra](https://open.spotify.com/track/0b39lBHTetw0TvHnvNtjAe) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ulices Gamaliel](https://open.spotify.com/artist/4kDRTsjKgkN2Sro1pbL0Y0) | [Será Llena La Tierra](https://open.spotify.com/album/6N16Erp14W76ybIzqtyNCE) | 3:30 | 2026-10-18 |  |
 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 | 2023-04-02 |  |
 | [Sigues Siendo Dios \- En Vivo](https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sigues Siendo Dios \(En Vivo\)](https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5) | 4:46 | 2023-04-02 | 2024-11-17 |
 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 | 2023-04-02 | 2025-03-14 |

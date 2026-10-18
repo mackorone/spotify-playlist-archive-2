@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 172978,
       "name": "CRASH",
       "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
@@ -5658,6 +5658,28 @@
       "duration_ms": 221958,
       "name": "expectations",
       "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
+    },
+    {
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "album": {
@@ -7680,7 +7702,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -14074,7 +14096,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -15334,7 +15356,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -15710,7 +15732,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -21308,7 +21330,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 236574,
       "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
       "url": "https://open.spotify.com/track/3rmuXslHhKytFULrHMlXCX"
@@ -21474,7 +21496,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 210280,
       "name": "\u4e00\u6b65\u4e00\u751f",
       "url": "https://open.spotify.com/track/3KX0nFmTrl722UBcrS1CV6"
@@ -24674,6 +24696,24 @@
       "duration_ms": 277011,
       "name": "\u5c0f\u8ae7\u661f",
       "url": "https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu"
+    },
+    {
+      "album": {
+        "name": "\u5c31\u7b97\u6211\u932f\u6f0f\u767e\u51fa",
+        "url": "https://open.spotify.com/album/1TwVTTXfz2tr2ooTFL8WGK"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226873,
+      "name": "\u5c31\u7b97\u6211\u932f\u6f0f\u767e\u51fa",
+      "url": "https://open.spotify.com/track/6b0Edx5yaxu2NKWO01oczU"
     },
     {
       "album": {
@@ -29880,7 +29920,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 216373,
       "name": "\u871a\u871a",
       "url": "https://open.spotify.com/track/5LauAY4lEriiCul4br4Hz6"

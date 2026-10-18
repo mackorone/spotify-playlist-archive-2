@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35896,
+  "num_followers": 35898,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 88615,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Montagem Supersonic",
         "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 88615,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "ESTA NOCHE",
-        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 68702,
-      "name": "ESTA NOCHE",
-      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ESTA NOCHE",
+        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        }
+      ],
+      "duration_ms": 68702,
+      "name": "ESTA NOCHE",
+      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+        "name": "Sea Of Problems",
+        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
       },
       "artists": [
         {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+      "duration_ms": 110624,
+      "name": "Sea Of Problems",
+      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1115,6 +1099,22 @@
       "duration_ms": 140459,
       "name": "WILD",
       "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2139,30 +2139,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "PULL ME CLOSER",
-        "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "PULL ME CLOSER",
-      "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "G\u00cdRIA",
         "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
       },
@@ -2187,6 +2163,30 @@
       "duration_ms": 147428,
       "name": "SYRINX",
       "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "PULL ME CLOSER",
+        "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 199183,
+      "name": "PULL ME CLOSER",
+      "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2555,18 +2555,18 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "club maki",
-        "url": "https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb"
+        "name": "Eternal Pursuit",
+        "url": "https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS"
       },
       "artists": [
         {
-          "name": "uramaki.",
-          "url": "https://open.spotify.com/artist/3AMDhBn0zTUgeY5o7Wplxh"
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
         }
       ],
-      "duration_ms": 304928,
-      "name": "cantcatchme",
-      "url": "https://open.spotify.com/track/71XdxnvFc773OCQaJynqmf"
+      "duration_ms": 202040,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/2S0U0ZFayIOw4L1BQancT3"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2591,18 +2591,18 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Eternal Pursuit",
-        "url": "https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS"
+        "name": "club maki",
+        "url": "https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb"
       },
       "artists": [
         {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+          "name": "uramaki.",
+          "url": "https://open.spotify.com/artist/3AMDhBn0zTUgeY5o7Wplxh"
         }
       ],
-      "duration_ms": 202040,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/2S0U0ZFayIOw4L1BQancT3"
+      "duration_ms": 304928,
+      "name": "cantcatchme",
+      "url": "https://open.spotify.com/track/71XdxnvFc773OCQaJynqmf"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Sucker",
-        "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 123316,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
       },
@@ -2715,6 +2699,22 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 123316,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
     },
     {
       "added_at": "2026-04-13 15:38:24",

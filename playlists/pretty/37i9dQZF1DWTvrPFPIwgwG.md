@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,841 likes - 80 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,877 likes - 80 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 69 | [Porta Aberta Por Deus \(Ao Vivo\)](https://open.spotify.com/track/4vtHOQxQAC6tAKXvqTtSCZ) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Porta Aberta Por Deus \(Ao Vivo\)](https://open.spotify.com/album/3iSb7sZnncjj6U66Jc2q9q) | 4:28 |
 | 70 | [Águas Purificadoras \- Ao Vivo](https://open.spotify.com/track/1MFs9xeuKZlp74cV7OmeSu) | [Momento Solene](https://open.spotify.com/artist/54zL5JenxhZlJS9kHdSlwu), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Momento Solene \- Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/2lJ8G5FVkvDpKCd2Xi5OTD) | 8:30 |
 | 71 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw) | 5:03 |
-| 72 | [Ora Que Melhora \- Ao Vivo](https://open.spotify.com/track/6i3XCmIMFZiyRZQlatuWmW) | [Ariely Bonatti](https://open.spotify.com/artist/4OyTlvqTXUeLEiyOq7KLNU), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Ora Que Melhora](https://open.spotify.com/album/20gcNbc4MlDGwXKKWUi7xy) | 5:17 |
+| 72 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
 | 73 | [Minha Adoração](https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Minha Adoração](https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo) | 3:50 |
-| 74 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
+| 74 | [Ora Que Melhora \- Ao Vivo](https://open.spotify.com/track/6i3XCmIMFZiyRZQlatuWmW) | [Ariely Bonatti](https://open.spotify.com/artist/4OyTlvqTXUeLEiyOq7KLNU), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Ora Que Melhora](https://open.spotify.com/album/20gcNbc4MlDGwXKKWUi7xy) | 5:17 |
 | 75 | [Apocalipse \- Ao Vivo](https://open.spotify.com/track/7LPHrgdhNhECxxvHYI4y11) | [Mara Souza](https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw), [Vanessa Cavalcante](https://open.spotify.com/artist/3b9sDZuaG4AYqiLSK1H6Kc), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse \(43 Anos Louvor Eterno\) \[Ao Vivo, Curitiba, Teatro Positivo, 2025\]](https://open.spotify.com/album/2LDrK6Gh3zQuy02aYkcTuw) | 6:16 |
 | 76 | [Na Face de Deus](https://open.spotify.com/track/5gEqIlsNrfEFIXWu6lqaak) | [Vanderléia Moura](https://open.spotify.com/artist/67dsr5fU0B1Vn3isdmfmcC), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Na Face de Deus](https://open.spotify.com/album/4SqyF7EMwS0LEzX8MJv2jy) | 4:19 |
 | 77 | [Casinha](https://open.spotify.com/track/4JQBhlLb8HtfbcxkgW32Cq) | [Amanda Ferrari](https://open.spotify.com/artist/75wI9bTpjKQgKTBfYNzs4W) | [Casinha](https://open.spotify.com/album/7jBDXpre1faySyuL8MFAHA) | 5:25 |

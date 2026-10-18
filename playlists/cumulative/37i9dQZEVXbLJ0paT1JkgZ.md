@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-651 songs - 1 day 11 hr 9 min
+652 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Bentley](https://open.spotify.com/track/00BjWhfYjpmRqKd1qCzdM0) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:24 | 2024-10-25 | 2025-02-15 |
 | [Bentley](https://open.spotify.com/track/2oVpXTAmiotbE8akm04LwE) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [Bentley](https://open.spotify.com/album/2ckdAH0yjemNnvuqsE3MEa) | 2:24 | 2024-09-06 | 2024-10-26 |
 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 | 2024-04-26 | 2024-05-25 |
-| [Besos Mojados](https://open.spotify.com/track/0cpzO8YjhyR8JfLzfm5cOr) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolución \- Evolution \(International Version\)](https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1) | 4:24 | 2026-10-16 |  |
+| [Besos Mojados](https://open.spotify.com/track/0cpzO8YjhyR8JfLzfm5cOr) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolución \- Evolution \(International Version\)](https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1) | 4:24 | 2026-10-16 | 2026-10-18 |
+| [Besos Mojados](https://open.spotify.com/track/0fZq7eIpfg7GHi9UOeRaaB) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 4:24 | 2026-10-16 |  |
 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-05-01 | 2026-09-12 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-08-23 | 2025-03-01 |
 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 | 2025-04-04 | 2025-04-19 |

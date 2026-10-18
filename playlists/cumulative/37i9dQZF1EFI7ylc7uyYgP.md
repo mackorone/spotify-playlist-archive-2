@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 7 hr 11 min
+148 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Satisfied \(Radio Edit\)](https://open.spotify.com/track/50AekvESV8GtXwAfwqra54) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Satisfied](https://open.spotify.com/album/6DwG2GveJsbyOo3ArVBRFj) | 3:41 | 2024-01-29 | 2025-06-28 |
 | [Satisfied \- Radio Edit](https://open.spotify.com/track/5tNgqJL81WfGOrwqXZHPoZ) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Satisfied](https://open.spotify.com/album/33dMcFU6PA3XnxWxtjbIJt) | 3:41 | 2025-06-27 |  |
 | [Secrets \- Radio Edit](https://open.spotify.com/track/0a9wk9ZCwe0ONEyBXXsNpE) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [A Town Called Paradise \(Japan Special Edition\)](https://open.spotify.com/album/473olrWTIYqylqGEVlS9t7) | 3:36 | 2024-01-29 |  |
+| [She'll Come Around](https://open.spotify.com/track/1ZZNJ1fPGB6NjfIkaiGU8a) | [Iglu & Hartly](https://open.spotify.com/artist/3E0zaebSkY5aN4PhDcvt9C) | [She'll Come Around](https://open.spotify.com/album/5HLQhUumymoBTiea2EXoVS) | 2:21 | 2026-10-17 |  |
 | [Sleepover Survival Kit](https://open.spotify.com/track/3tj6EmcDiII8FMPtcuAQ5x) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:56 | 2024-01-29 |  |
 | [Somebody New](https://open.spotify.com/track/5RzgwtW8nAjqfhjIvgLe6e) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Somebody New](https://open.spotify.com/album/3PzmHBqGIozqs3HTrKOvDS) | 2:57 | 2024-01-29 |  |
 | [Somebody To You](https://open.spotify.com/track/1V1yRZA4w6D366wFXypWMb) | [Sean Jacobs](https://open.spotify.com/artist/2VsXB6XjjHstoQo3vOL2CF), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Somebody To You](https://open.spotify.com/album/6TNHvHOMtvDrV03jzvWSS4) | 3:02 | 2024-03-17 |  |
@@ -130,6 +131,7 @@
 | [Swagger Right](https://open.spotify.com/track/2tSPLQSQ4XkFwffpxvrGxm) | [Manufactured Superstars](https://open.spotify.com/artist/0sqAJzf2NCihzzyiH0e0d1), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Party All the Time](https://open.spotify.com/album/5sAlN16zuw2ruoAbUSkbYw) | 2:59 | 2024-01-29 |  |
 | [Tequila Talkin’](https://open.spotify.com/track/1Qs5B6q9Bjq4qMDLUPlBsj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:18 | 2024-01-29 |  |
 | [The Fanciest Midnight](https://open.spotify.com/track/1IJSQLi50kg514yn6FtjgH) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:33 | 2024-01-29 |  |
+| [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 | 2026-10-17 |  |
 | [The Love You Left Behind](https://open.spotify.com/track/3wK48lSPDdMLTlEFiwHQET) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 2:05 | 2024-01-29 |  |
 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 | 2024-01-29 |  |
 | [The World Can Wait](https://open.spotify.com/track/1QejH8ORbZv2bimBkfyQWm) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [The World Can Wait](https://open.spotify.com/album/3MJi1JKY9EoQVzaYz4GrGM) | 3:39 | 2026-02-06 |  |

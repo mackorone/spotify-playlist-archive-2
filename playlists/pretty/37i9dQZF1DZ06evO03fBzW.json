@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 123016,
+  "num_followers": 123021,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACvvSvpKX/MvHPpksWlGQ9O",
+  "snapshot_id": "atAXgAAAAAC9muPtrWL/RpMko/YwvGs7",
   "tracks": [
     {
       "added_at": null,
@@ -772,29 +772,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 215080,
-      "name": "Sailin' On",
-      "url": "https://open.spotify.com/track/3J3gmwEpUnCcTEBjxmMLeO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/6ODiIJASdmYZwoyhLhUz7c"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        },
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/58ulODLlgkcE9I4z5B5vrG"
+      "duration_ms": 192093,
+      "name": "Under Construction",
+      "url": "https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t"
     },
     {
       "added_at": null,
@@ -808,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 192093,
-      "name": "Under Construction",
-      "url": "https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t"
+      "duration_ms": 215080,
+      "name": "Sailin' On",
+      "url": "https://open.spotify.com/track/3J3gmwEpUnCcTEBjxmMLeO"
     }
   ],
   "unique_name": "This Is No Doubt",

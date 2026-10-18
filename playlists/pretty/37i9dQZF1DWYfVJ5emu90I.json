@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26881,
+  "num_followers": 26888,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,30 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "Villains feat. edhiii boi, Novel Core",
+        "url": "https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        },
+        {
+          "name": "edhiii boi",
+          "url": "https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf"
+        },
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Villains feat. edhiii boi, Novel Core",
+      "url": "https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "KAWASAKI (with Felip & th\u1ee7y)",
         "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
@@ -623,30 +647,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Villains feat. edhiii boi, Novel Core",
-        "url": "https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m"
-      },
-      "artists": [
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        },
-        {
-          "name": "edhiii boi",
-          "url": "https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf"
-        },
-        {
-          "name": "Novel Core",
-          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Villains feat. edhiii boi, Novel Core",
-      "url": "https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "KJ SEASON2",
         "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
       },
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "KAWASAKI (with Big Sean)",
-        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 126935,
-      "name": "KAWASAKI (with Big Sean)",
-      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "YW",
         "url": "https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "KAWASAKI (with Big Sean)",
+        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 126935,
+      "name": "KAWASAKI (with Big Sean)",
+      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
     },
     {
       "added_at": "2026-08-19 00:34:26",

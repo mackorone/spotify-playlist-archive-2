@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398493,
+  "num_followers": 398511,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
+      "duration_ms": 226813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -203,6 +203,22 @@
       "duration_ms": 218870,
       "name": "It Feels Right",
       "url": "https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -235,22 +251,6 @@
       "duration_ms": 181413,
       "name": "Make It A Better Place",
       "url": "https://open.spotify.com/track/2Ylixb6RYn2zi8KfO56bgI"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Saturday Silence",
-        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
-      },
-      "artists": [
-        {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Saturday Silence",
-      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Never Felt The Rain (feat. FENNE)",
         "url": "https://open.spotify.com/album/5l1lpfVQcauzbECuyD5BxQ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 269253,
       "name": "Never Felt The Rain (feat. FENNE)",
       "url": "https://open.spotify.com/track/3X9RJFvBRpfiHrWeB3iE9V"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Saturday Silence",
+        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Saturday Silence",
+      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "duration_ms": 194675,
+      "name": "Last Forever - Acoustic",
+      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Calling Out",
         "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 150904,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "I'm In Heaven",
-        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
-      },
-      "artists": [
-        {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
-        }
-      ],
-      "duration_ms": 205671,
-      "name": "I'm In Heaven",
-      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
+        "name": "I'm In Heaven",
+        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
       },
       "artists": [
         {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
         }
       ],
-      "duration_ms": 194675,
-      "name": "Last Forever - Acoustic",
-      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+      "duration_ms": 205671,
+      "name": "I'm In Heaven",
+      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -943,6 +943,54 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 237545,
+      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "When She\u2019s Around",
+        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "When She\u2019s Around",
+      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Be My Own",
         "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
       },
@@ -975,22 +1023,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Save It For Later",
         "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
@@ -1003,38 +1035,6 @@
       "duration_ms": 208575,
       "name": "Not The One",
       "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "When She\u2019s Around",
-        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "When She\u2019s Around",
-      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 237545,
-      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Hunter",
-        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 177306,
       "name": "Falling Easy",
       "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Grow Up",
         "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 229347,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/77oKNGacehJqbi7mUk9fgD"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 185893,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/1vVssPQ9gAwSI8HmFTVAUT"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     }
   ],
   "unique_name": "'t Koffiehuis",

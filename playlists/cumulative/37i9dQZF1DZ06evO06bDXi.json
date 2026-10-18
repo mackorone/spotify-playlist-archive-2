@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 394560,
       "name": "Mendelssohn: Violin Concerto in E Minor, Op. 64, MWV O14: III. Allegretto non troppo - Allegro molto vivace",
       "url": "https://open.spotify.com/track/4iMIwIruufuyVUVNFnpb7d"
@@ -1870,6 +1870,36 @@
       "duration_ms": 212573,
       "name": "Tara's Theme (From \"Gone with the Wind\" 1939)",
       "url": "https://open.spotify.com/track/2snz7Wi9ImuxwqHlcBNFrB"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto & S\u00e9r\u00e9nade m\u00e9lancolique",
+        "url": "https://open.spotify.com/album/6D3ykT44NQLYkST5TltXjk"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Eugene Ormandy",
+          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421266,
+      "name": "Tchaikovsky: Violin Concerto in D Major, Op. 35: II. Canzonetta. Andante",
+      "url": "https://open.spotify.com/track/6Zl4htTpRUhdTklneDiVhJ"
     },
     {
       "album": {

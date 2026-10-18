@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft and contemplative piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,813,097 likes - 154 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813,037 likes - 154 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 153 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
 | 154 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 |
 
-Snapshot ID: `AAAAAA0CCiVKUGX2PXM+y/Z5Z3OZF2qI`
+Snapshot ID: `AAAAALUrNgm/8XzPDR0+7sJer/1xW/GG`

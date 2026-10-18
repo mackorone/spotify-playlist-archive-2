@@ -11157,25 +11157,7 @@
     },
     {
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/5jmcDbXtJoOnwfFe76i4pp"
-      },
-      "artists": [
-        {
-          "name": "Viktor Borges",
-          "url": "https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW"
-        }
-      ],
-      "date_added": "2026-10-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137872,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/0KMxeO43v7H3jlQgUDwnBh"
-    },
-    {
-      "album": {
-        "name": "Teske",
+        "name": "Te Ske",
         "url": "https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX"
       },
       "artists": [
@@ -11192,8 +11174,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152030,
-      "name": "Teske",
+      "name": "Te Ske",
       "url": "https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0"
+    },
+    {
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/5jmcDbXtJoOnwfFe76i4pp"
+      },
+      "artists": [
+        {
+          "name": "Viktor Borges",
+          "url": "https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/0KMxeO43v7H3jlQgUDwnBh"
     },
     {
       "album": {

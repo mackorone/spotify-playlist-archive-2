@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-207 songs - 11 hr 39 min
+208 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Mother In Law Blues \- Live](https://open.spotify.com/track/61uAL19jLip0wnHyF9Bynq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Ain't Gonna Get Drunk No More \(Live Montreaux '73\)](https://open.spotify.com/album/64ko1TULssSWBUYUQznf2I) | 5:15 | 2026-04-16 | 2026-06-02 |
 | [Mr\. Cool](https://open.spotify.com/track/78qFFh8ovPynpVChRwz8I8) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama!](https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR) | 7:45 | 2022-08-05 | 2024-10-26 |
 | [My Baby Left Me \- Live](https://open.spotify.com/track/5kCcsWPQ78fqUdAJqmRmJ6) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Have Mercy! \(Live 1973\)](https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ) | 5:48 | 2022-12-13 | 2022-12-15 |
-| [My Man Called Me](https://open.spotify.com/track/44j02kVJqYuTgtCSxPSPvf) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:40 | 2024-04-08 |  |
+| [My Man Called Me](https://open.spotify.com/track/3J2793pV6RGx2gAxpJl2mK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog \- The Essential Collection](https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4) | 2:36 | 2026-10-18 |  |
+| [My Man Called Me](https://open.spotify.com/track/44j02kVJqYuTgtCSxPSPvf) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:40 | 2024-04-08 | 2026-10-18 |
 | [My Man Called Me](https://open.spotify.com/track/6Yg6G5EhOmcFPYCYIo6mnr) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Greatest Moments](https://open.spotify.com/album/5BvB0Ht7jQfeOWo2rvKVav) | 2:40 | 2023-04-01 | 2023-04-16 |
 | [My Man Called Me](https://open.spotify.com/track/6VyhQsQIKMAnrLAzQ8mnHL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:40 | 2023-04-17 | 2024-04-04 |
 | [My Man Called Me](https://open.spotify.com/track/6tnOqc5lsMQYqfvo7wVWk7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:40 | 2022-08-06 | 2023-04-02 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,239 likes - 150 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,244 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [mommy’s boy](https://open.spotify.com/track/0FfwykHXznjHI9MT5AGAch) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [mommy’s boy](https://open.spotify.com/album/7aW7QtqXNkC2su5JJLSavm) | 2:52 |
 | 2 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
-| 3 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
+| 3 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
 | 4 | [Blue Moon](https://open.spotify.com/track/5EDHxPobOf50pYWwcwxI8y) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Blue Moon](https://open.spotify.com/album/1wqnLiqd9x2fAM0VHHvb97) | 2:57 |
 | 5 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
 | 6 | [Veteraner](https://open.spotify.com/track/4xfl1mBH3zF35Oe5Za10uc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Veteraner](https://open.spotify.com/album/30p7eIg2ZUEsa02NqX7yZm) | 4:32 |

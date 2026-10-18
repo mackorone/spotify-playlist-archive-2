@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,200,513 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,200,877 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 45 | [What I've Done \- Unshatter Film Soundtrack \- Live in São Paulo](https://open.spotify.com/track/043TnILbwnO6PsRcNTZ6cP) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter Film Soundtrack \(Live in São Paulo\)](https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw) | 3:31 |
 | 46 | [Lost \- Unshatter Film Soundtrack \- Live in São Paulo](https://open.spotify.com/track/5lLYhn61327TTcnPwn5Eb6) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter Film Soundtrack \(Live in São Paulo\)](https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw) | 2:10 |
 
-Snapshot ID: `as7GAAAAAACsKXT2vwwmtDBzcgEIi2Tr`
+Snapshot ID: `atFpAAAAAACMf/D8R74Vl2hviLhIqSwL`

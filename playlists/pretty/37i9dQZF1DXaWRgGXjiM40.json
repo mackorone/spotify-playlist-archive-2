@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945723,
+  "num_followers": 945685,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "Serenata - Ao Vivo",
+      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "AgroPlay Ver\u00e3o Vol.1",
         "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "Serenata - Ao Vivo",
-      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -755,22 +755,18 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
+        "name": "Intensamente Hoje!",
+        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ricardo & Thiago",
-          "url": "https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 162464,
-      "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
-      "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
+      "duration_ms": 170459,
+      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
+      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -791,18 +787,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Intensamente Hoje!",
-        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
+        "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Z\u00e9 Ricardo & Thiago",
+          "url": "https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 170459,
-      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
-      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+      "duration_ms": 162464,
+      "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
     },
     {
       "added_at": "2026-10-09 03:00:30",

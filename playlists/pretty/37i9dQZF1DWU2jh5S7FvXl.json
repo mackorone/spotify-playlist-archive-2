@@ -1,6 +1,6 @@
 {
   "description": "Move to this mix of recent dance hits! Cover: WHIPPED CREAM",
-  "num_followers": 95876,
+  "num_followers": 95873,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing in the Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
-    },
-    {
-      "added_at": "2026-08-07 04:01:10",
-      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 148135,
       "name": "Location",
       "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "added_at": "2026-08-07 04:01:10",
+      "album": {
+        "name": "Dancing In The Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing in the Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -1463,22 +1463,26 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "Silver Lines (feat. Emily Warren)",
-        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
+        "name": "Never Going Home Tonight (feat. Madison Love)",
+        "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Emily Warren",
-          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Madison Love",
+          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
         }
       ],
-      "duration_ms": 201296,
-      "name": "Silver Lines (feat. Emily Warren)",
-      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
+      "duration_ms": 164285,
+      "name": "Never Going Home Tonight (feat. Madison Love)",
+      "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -1507,26 +1511,22 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "Never Going Home Tonight (feat. Madison Love)",
-        "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
         },
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Madison Love",
-          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
         }
       ],
-      "duration_ms": 164285,
-      "name": "Never Going Home Tonight (feat. Madison Love)",
-      "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2026-08-07 04:01:10",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 220978,
       "name": "light years (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
-    },
-    {
-      "added_at": "2026-08-07 04:01:10",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -1755,22 +1755,22 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "California Dreamin' (feat. High Jinx)",
-        "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "High Jinx",
-          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
         }
       ],
-      "duration_ms": 196899,
-      "name": "California Dreamin' (feat. High Jinx)",
-      "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "Beautiful Places",
-        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+        "name": "California Dreamin' (feat. High Jinx)",
+        "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         },
         {
-          "name": "Brieanna Grace",
-          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+          "name": "High Jinx",
+          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Beautiful Places",
-      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+      "duration_ms": 196899,
+      "name": "California Dreamin' (feat. High Jinx)",
+      "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
     },
     {
       "added_at": "2026-08-07 04:01:10",

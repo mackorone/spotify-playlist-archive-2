@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume with Majo Aguilar from Mexico.",
-  "num_followers": 1023400,
+  "num_followers": 1023307,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADhzqQPfo5uSM137kL8b9U68tiIF",
+  "snapshot_id": "AAAAAEQ3GNwej8XJoyHMEKwR8P3I0cZD",
   "tracks": [
     {
       "added_at": "2026-10-08 04:00:22",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-10-08 04:00:22",
       "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "added_at": "2026-10-08 04:00:22",
+      "album": {
         "name": "Stories From The City, Stories From The Sea",
         "url": "https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 156209,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
-    },
-    {
-      "added_at": "2026-10-08 04:00:22",
-      "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
-      },
-      "artists": [
-        {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
     },
     {
       "added_at": "2026-10-08 04:00:22",

@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 166711,
+  "num_followers": 166708,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 162794,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 197487,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 162794,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "pity dirty",
         "url": "https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 193000,
       "name": "pity dirty",
       "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Emo Regulation",
+        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Spirals On My Tongue",
+      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Everything I Didn\u2019t Say",
         "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Emo Regulation",
-        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
-      },
-      "artists": [
-        {
-          "name": "RIP Swirl",
-          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
-        },
-        {
-          "name": "Ydegirl",
-          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Spirals On My Tongue",
-      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/1z6tq8fF4NsOsYKaFzOjB4"
+      },
+      "artists": [
+        {
+          "name": "Soulstice",
+          "url": "https://open.spotify.com/artist/3GeU43m5eWxLSfdJQ0s5h9"
+        }
+      ],
+      "duration_ms": 311773,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/6BLyfd1qNujFORWVu5EXzg"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

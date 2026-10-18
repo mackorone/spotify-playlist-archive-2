@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Forwardman, Rose Alaimo, JUST LIZZY and more",
+  "description": "With Ursula, JUST LIZZY, NUDNIK and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 188527,
       "name": "Artisan Lover",
       "url": "https://open.spotify.com/track/6XVfoIaDPoGj3s3quOe2g5"
@@ -2837,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Better Broken King",
+        "url": "https://open.spotify.com/album/5eTDFtEAkJQH03OupRnv1o"
+      },
+      "artists": [
+        {
+          "name": "Simian Politik",
+          "url": "https://open.spotify.com/artist/5usSNtXbvaQbYDV6crubQo"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219024,
+      "name": "Broken Picasso (A Very British Protest)",
+      "url": "https://open.spotify.com/track/1Rm4dNrtCihWV9WBuQ62Ww"
+    },
+    {
+      "album": {
         "name": "Broken Picasso",
         "url": "https://open.spotify.com/album/6bZfHh7INSfg73Seh7xkPs"
       },
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/3zDIxb2YHxCrxu5ObouenM"
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 230590,
       "name": "Buy Now",
       "url": "https://open.spotify.com/track/5967VxIaJHSHZKRmaT0JGx"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 188317,
       "name": "City At Night",
       "url": "https://open.spotify.com/track/6Se0YBP3C6ofomn2MH9naU"
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -6117,6 +6135,24 @@
     },
     {
       "album": {
+        "name": "Dropping Leaves, Setting Sun",
+        "url": "https://open.spotify.com/album/07IX7LruOIHYq4Pg7WuS1V"
+      },
+      "artists": [
+        {
+          "name": "Dandelion Lakewood",
+          "url": "https://open.spotify.com/artist/7EUPOfvi6GhnIi4kg24JPG"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239034,
+      "name": "Dropping Leaves, Setting Sun",
+      "url": "https://open.spotify.com/track/2dunnpZTQHMv63nKGjqHkt"
+    },
+    {
+      "album": {
         "name": "How Did We End up Here?",
         "url": "https://open.spotify.com/album/1tc6ZZbEXxwkR120A5WcU0"
       },
@@ -6500,6 +6536,24 @@
       "duration_ms": 172296,
       "name": "Employee Factory",
       "url": "https://open.spotify.com/track/4CUKpVkB4pfa9blzNiJIot"
+    },
+    {
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/4WD7I8qFCq0L96N8yTGeSO"
+      },
+      "artists": [
+        {
+          "name": "Hey Calamity",
+          "url": "https://open.spotify.com/artist/6JIU9ey0yGi4uv0lDGTC8G"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250136,
+      "name": "Empty Room",
+      "url": "https://open.spotify.com/track/0auX5w6US3LPwAQcpjMygH"
     },
     {
       "album": {
@@ -7438,7 +7492,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 245527,
       "name": "Feels Like Heaven - White Horses",
       "url": "https://open.spotify.com/track/27iEHpWLExtnoRI1pPoyyq"
@@ -8172,7 +8226,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "Gazing Back",
       "url": "https://open.spotify.com/track/0wLwXaiQfTdsbToiIU3kso"
@@ -10206,7 +10260,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 189558,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
@@ -10614,7 +10668,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -11054,7 +11108,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -12350,7 +12404,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -13046,7 +13100,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 345230,
       "name": "Luvurgurl",
       "url": "https://open.spotify.com/track/05EXjL88NiXSOedFEWhBka"
@@ -14769,6 +14823,24 @@
     },
     {
       "album": {
+        "name": "NOTHING LEFT",
+        "url": "https://open.spotify.com/album/7xCNYqewTe418ZHSm8ZDje"
+      },
+      "artists": [
+        {
+          "name": "Black Marine",
+          "url": "https://open.spotify.com/artist/4ldRd8z0FkjQw4RTbQI8VN"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "NOTHING LEFT",
+      "url": "https://open.spotify.com/track/7FgjZWcUprWKPs17zovab2"
+    },
+    {
+      "album": {
         "name": "One I and Two Es",
         "url": "https://open.spotify.com/album/6K7Dt9PgjUQXpmaO9wGnEF"
       },
@@ -14982,7 +15054,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 220853,
       "name": "On the Roof",
       "url": "https://open.spotify.com/track/0H2p6f13jbv6x2OBuVKCab"
@@ -15580,7 +15652,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 222439,
       "name": "Persephone's Sister",
       "url": "https://open.spotify.com/track/1FcBLISw3NmxAcdPZqg7k8"
@@ -16318,7 +16390,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -17184,7 +17256,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -19674,7 +19746,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 261696,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6MhcROf37o3rAqVnGpVFQK"
@@ -20442,7 +20514,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -21296,7 +21368,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 196000,
       "name": "The Vampire Lady",
       "url": "https://open.spotify.com/track/4m8AcMGzAXpdsWES9KwAy4"
@@ -21888,7 +21960,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -22274,7 +22346,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 197570,
       "name": "Totality",
       "url": "https://open.spotify.com/track/1wmjBBrwY2oTn0wat6PLBL"
@@ -22296,6 +22368,24 @@
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
+    },
+    {
+      "album": {
+        "name": "AB Positive",
+        "url": "https://open.spotify.com/album/2dMKvqeX8YYpthCIXWtr3B"
+      },
+      "artists": [
+        {
+          "name": "NUDNIK",
+          "url": "https://open.spotify.com/artist/6wXx613GPctyfnNcbRn3p0"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262280,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
     },
     {
       "album": {
@@ -23574,7 +23664,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
@@ -23788,7 +23878,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 259813,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/5i2R6mynkMNZncrwishbGJ"

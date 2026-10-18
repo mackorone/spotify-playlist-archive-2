@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove with a selection of new underground deep house
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,528 likes - 150 songs - 13 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,551 likes - 150 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

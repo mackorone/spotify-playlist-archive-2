@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-813 songs - 2 day 2 hr 35 min
+815 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Abandono](https://open.spotify.com/track/6R993gafBxnGWUwymORDml) | [Condoizelles](https://open.spotify.com/artist/5zltVdFyM13oCtomjbvwme) | [Considerações sobre a paisagem](https://open.spotify.com/album/4vQzOdbdQ9ttVKoFdOCJK4) | 5:18 | 2026-04-15 | 2026-06-25 |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-11-26 | 2025-12-17 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-24 | 2025-12-17 |
+| [Adam and Eve \- Eden Mix](https://open.spotify.com/track/3IvdG736Iecgv3kcMgT6R6) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Adam and Eve \(Eden Mix\)](https://open.spotify.com/album/6CDVznzZkibrHhoX94mKm1) | 3:46 | 2026-10-17 |  |
 | [Addicted to Disco](https://open.spotify.com/track/7gcSHFl4IYfJQhsyfy9e1T) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 2:43 | 2026-07-11 |  |
 | [Addicted to Failure](https://open.spotify.com/track/4VZf9Fvio0gJujRfGwqLl8) | [LUDIOSIS](https://open.spotify.com/artist/0clKpUY5LwTMTMRs9a3Gsp) | [Addicted to Failure](https://open.spotify.com/album/7sp6s7LO5qVt5RNrtnmqEd) | 3:46 | 2026-09-17 |  |
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2026-04-23 | 2026-06-25 |
@@ -418,6 +419,7 @@
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2025-11-24 | 2025-12-17 |
 | [Love Lies Cold](https://open.spotify.com/track/2ppN2JHxGi6wps7RBBlZUu) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Love Lies Cold](https://open.spotify.com/album/4BvAfPva3VDcDqAvb8n9sO) | 4:11 | 2026-05-03 | 2026-05-26 |
 | [Love Me Back](https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Love Me Back](https://open.spotify.com/album/0MkfpV7NcjQbXOpq0SMa3z) | 3:22 | 2026-06-23 | 2026-07-12 |
+| [Love Song](https://open.spotify.com/track/2pBWAh4CFdlt0cVvkxY4eo) | [Vickwon](https://open.spotify.com/artist/3kzbCHuLMhl5RCsAPRkGhi) | [Love Song](https://open.spotify.com/album/4O1OL52TZkdGed1DgWvjiz) | 2:12 | 2026-10-17 |  |
 | [LTK](https://open.spotify.com/track/44Qqn1dhvDng9pLPANoRGh) | [Steve Schwartz](https://open.spotify.com/artist/0rFuKciUQDbtEQmQ6XJ4YQ) | [LTK](https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO) | 3:52 | 2025-12-22 | 2026-04-21 |
 | [Lucha](https://open.spotify.com/track/3uukDbfr18JxhaGbqijTWT) | [Flores & Mcewen](https://open.spotify.com/artist/1qpP1qC1284dxZNqHwoGnp) | [Lucha](https://open.spotify.com/album/6YiYSdZZMLpnjlMwM4Ljm0) | 3:15 | 2026-03-14 | 2026-04-21 |
 | [Lullaby](https://open.spotify.com/track/7eARSBGQOxV1v9Who29Mdv) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 4:26 | 2026-06-01 | 2026-06-18 |

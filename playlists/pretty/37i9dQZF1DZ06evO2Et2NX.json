@@ -1,12 +1,12 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 9227,
+  "num_followers": 9228,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACxNLF9WHFlcG7pFqezXXF3",
+  "snapshot_id": "atFpAAAAAABYvuzQrX+dvzGvWW5iU0DP",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 120173,
-      "name": "Slow Song",
-      "url": "https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Path of Wellness",
         "url": "https://open.spotify.com/album/46Yku4K5V0lhqSosqu8GLR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 231783,
       "name": "Worry With You",
       "url": "https://open.spotify.com/track/47FsO3C9qgAC3W9ZOGkCfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 120173,
+      "name": "Slow Song",
+      "url": "https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Hands on the Bad One (Remastered)",
+        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 154146,
+      "name": "Ironclad",
+      "url": "https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sleater-Kinney (Remastered)",
         "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
       },
@@ -571,38 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call the Doctor (Remastered)",
-        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/3ZL06j6DJy3rsfeFEokm42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Hands on the Bad One (Remastered)",
-        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 154146,
-      "name": "Ironclad",
-      "url": "https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Cities to Love",
         "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
@@ -615,38 +599,6 @@
       "duration_ms": 203813,
       "name": "Bury Our Friends",
       "url": "https://open.spotify.com/track/2MycpboRozeeoFNqWGrnak"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hot Rock (Remastered)",
-        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "The End of You",
-      "url": "https://open.spotify.com/track/2nXozfA3QYdeUqX6TAVbYD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Center Won't Hold",
-        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 168208,
-      "name": "Hurry On Home",
-      "url": "https://open.spotify.com/track/2m3YK65b88DBDmSceFT8HD"
     },
     {
       "added_at": null,
@@ -667,6 +619,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call the Doctor (Remastered)",
+        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/3ZL06j6DJy3rsfeFEokm42"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hot Rock (Remastered)",
+        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "The End of You",
+      "url": "https://open.spotify.com/track/2nXozfA3QYdeUqX6TAVbYD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Cities to Love",
         "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 185800,
       "name": "No Cities To Love",
       "url": "https://open.spotify.com/track/0wpRFd0TbToitoqseB4rm7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Center Won't Hold",
+        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 168208,
+      "name": "Hurry On Home",
+      "url": "https://open.spotify.com/track/2m3YK65b88DBDmSceFT8HD"
     },
     {
       "added_at": null,
@@ -715,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hot Rock (Remastered)",
-        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "Hot Rock",
-      "url": "https://open.spotify.com/track/1R0BVvHYndjyXDdfba8mTD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell",
-        "url": "https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 193516,
-      "name": "Hell",
-      "url": "https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Beat (Remastered)",
         "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
       },
@@ -779,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hands on the Bad One (Remastered)",
-        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK"
       },
       "artists": [
         {
@@ -788,9 +756,25 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 183640,
-      "name": "#1 Must Have",
-      "url": "https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A"
+      "duration_ms": 193516,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hot Rock (Remastered)",
+        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "Hot Rock",
+      "url": "https://open.spotify.com/track/1R0BVvHYndjyXDdfba8mTD"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 234013,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/6EMWlmbIgSzXHSBjV3lfm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Hands on the Bad One (Remastered)",
+        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "#1 Must Have",
+      "url": "https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A"
     }
   ],
   "unique_name": "This Is Sleater-Kinney",

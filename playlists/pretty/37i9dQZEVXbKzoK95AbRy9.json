@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Brazil.",
-  "num_followers": 248945,
+  "num_followers": 248970,
   "original_name": "Top Songs - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MmWX0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MmbpUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-10-16 14:53:09",
@@ -602,6 +602,14 @@
         {
           "name": "Ian Durso",
           "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        },
+        {
+          "name": "DJ GB do Dick",
+          "url": "https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1"
+        },
+        {
+          "name": "Dj Cabelinho de Caxias",
+          "url": "https://open.spotify.com/artist/0ztADIB4LxyvhWRiFVsEzm"
         }
       ],
       "duration_ms": 103759,

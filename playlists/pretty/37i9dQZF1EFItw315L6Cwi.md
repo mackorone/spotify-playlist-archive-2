@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 84 | [Manie](https://open.spotify.com/track/3iTZSWuyt8q63NYYef57TH) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:20 |
 | 85 | [@ MICH NICHT](https://open.spotify.com/track/0577wNwjGF5MdVmN1cJgMj) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:03 |
 | 86 | [stich in mein herz](https://open.spotify.com/track/3XDP4nGBcE0sXjDukzAlz1) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [stich in mein herz](https://open.spotify.com/album/0JCCjiK9p9mm9DaOBzQa5q) | 2:07 |
-| 87 | [Vibration](https://open.spotify.com/track/5xQti0eelxFmlIsFkwoast) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:23 |
-| 88 | [PINKE CUPS](https://open.spotify.com/track/4NEhe2iMl5aTV56ybgi874) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 1:44 |
-| 89 | [PREMIUM CHAYA](https://open.spotify.com/track/3JmFFDkQ91JCesqIKzYkDl) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:29 |
-| 90 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
-| 91 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 |
-| 92 | [RICH BITCH](https://open.spotify.com/track/0KwDfeMNRdw6h8fZVma1Ef) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:28 |
+| 87 | [PREMIUM CHAYA](https://open.spotify.com/track/3JmFFDkQ91JCesqIKzYkDl) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:29 |
+| 88 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
+| 89 | [Vibration](https://open.spotify.com/track/5xQti0eelxFmlIsFkwoast) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:23 |
+| 90 | [PINKE CUPS](https://open.spotify.com/track/4NEhe2iMl5aTV56ybgi874) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 1:44 |
+| 91 | [RICH BITCH](https://open.spotify.com/track/0KwDfeMNRdw6h8fZVma1Ef) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:28 |
+| 92 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 |
 | 93 | [STOP](https://open.spotify.com/track/10wN7VGTQH6EyFTtc6Jquk) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:05 |
 | 94 | [Song 2](https://open.spotify.com/track/6xEa5BXEjrJrJoztiYNnCs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:20 |
 | 95 | [GRILL ROYAL](https://open.spotify.com/track/7jJR5j9jZd8ELDph3B26gT) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 2:15 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 142 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 143 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `AcfIMgAAAACKeccsnpn84kweq8ZQ6bJo`
+Snapshot ID: `AcfN0gAAAAB84LZ5psDljm4nOXagbUdN`

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-681 songs - 1 day 17 hr 55 min
+683 songs - 1 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [El Despertar](https://open.spotify.com/track/065JBPwhEMyodKOZhmrWI0) | [Rober Mateos](https://open.spotify.com/artist/0b914nKij88tAr6TkZ93ml) | [El Despertar](https://open.spotify.com/album/2SKEGvt1F2dUGLfRywQ3Jm) | 3:28 | 2026-03-20 | 2026-04-20 |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-12 |
 | [elvira](https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [elvira](https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI) | 4:13 | 2026-01-07 | 2026-02-02 |
+| [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 | 2026-10-17 |  |
 | [Encoded Message](https://open.spotify.com/track/0U1cuM8We74nr19QVSBcdW) | [Eyesores](https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks) | [Encoded Message](https://open.spotify.com/album/5zl6g4TatJkS3cjy9CYCMu) | 2:29 | 2026-01-27 | 2026-02-18 |
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2026-01-07 | 2026-02-02 |
 | [Estrellas](https://open.spotify.com/track/1u6yb30nxGeF32KRImj1Hz) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:29 | 2026-01-11 | 2026-02-04 |
@@ -194,6 +195,7 @@
 | [Every 1’s a Winner](https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Every 1’s a Winner](https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG) | 3:16 | 2026-04-16 | 2026-05-17 |
 | [Every Time I Look At You](https://open.spotify.com/track/1iOynYeos1FxRg826Amytc) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Every Time I Look At You](https://open.spotify.com/album/5B6nQwn021EAFMgZpcWfNy) | 4:20 | 2026-07-06 | 2026-08-08 |
 | [Eye's On You](https://open.spotify.com/track/31GtsNBfMAAgius6RmMWul) | [The Jay Howie Trio](https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh), [Jay Howie](https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD) | [Eye's On You](https://open.spotify.com/album/3uuD9DtrH5r4xUQwjFdpXd) | 3:24 | 2026-06-22 | 2026-08-08 |
+| [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 | 2026-10-17 |  |
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-06-02 | 2026-08-08 |
 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 | 2026-09-17 |  |
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 | 2026-06-13 |

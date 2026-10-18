@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,911 likes - 156 songs - 9 hr 53 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,910 likes - 158 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,5 +164,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 154 | [Foot Down On The Freeway](https://open.spotify.com/track/3J6ClwxSl6tbB1MbuIoJzx) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Foot Down On The Freeway](https://open.spotify.com/album/7i5c0fXsKlpQbUmMUK3Iqy) | 3:11 |
 | 155 | [Kommst Du Mit](https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2) | [Con:ter](https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb) | [Con:ter](https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN) | 3:31 |
 | 156 | [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 |
+| 157 | [Adam and Eve \- Eden Mix](https://open.spotify.com/track/3IvdG736Iecgv3kcMgT6R6) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Adam and Eve \(Eden Mix\)](https://open.spotify.com/album/6CDVznzZkibrHhoX94mKm1) | 3:46 |
+| 158 | [Love Song](https://open.spotify.com/track/2pBWAh4CFdlt0cVvkxY4eo) | [Vickwon](https://open.spotify.com/artist/3kzbCHuLMhl5RCsAPRkGhi) | [Love Song](https://open.spotify.com/album/4O1OL52TZkdGed1DgWvjiz) | 2:12 |
 
-Snapshot ID: `AAAMyXmPILnUhQLNLAk736ZL9uCeeMVg`
+Snapshot ID: `AAAMy8zdZbPCtEE1BuYIL2R/jvsL569E`

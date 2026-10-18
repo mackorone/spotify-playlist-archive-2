@@ -1,5 +1,5 @@
 {
-  "description": "With Isaac Cates, Mikael Karlsson, Walter Hawkins and more",
+  "description": "With Mikael Karlsson, Amber Bullock, Isaac Cates and more",
   "num_followers": 437,
   "original_name": "Callie Day Radio",
   "owner": {
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Shall Wear a Crown (Soon as I Get Home)",
-        "url": "https://open.spotify.com/album/2iiFO7ka9UTIy5McnAyzOA"
+        "name": "A Good Man Is Hard To Find: The Soundtrack",
+        "url": "https://open.spotify.com/album/0eKSYSTAFUxv4oo11E040I"
       },
       "artists": [
         {
-          "name": "Yolanda \"Yoli\" Deberry",
-          "url": "https://open.spotify.com/artist/06Q2ILOz7IadxwTslpA6KE"
-        },
-        {
-          "name": "Scott O. Cumberbatch",
-          "url": "https://open.spotify.com/artist/1up3sborbLftwphLPd3R9I"
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
         }
       ],
-      "duration_ms": 522244,
-      "name": "I Shall Wear a Crown (Soon as I Get Home)",
-      "url": "https://open.spotify.com/track/4G7i0ZawSkw1PB5vNW0467"
+      "duration_ms": 288586,
+      "name": "I Won't Complain",
+      "url": "https://open.spotify.com/track/0Z40ksWbWS2Hpmu99XxDV9"
     },
     {
       "added_at": null,
@@ -127,6 +123,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Shall Wear a Crown (Soon as I Get Home)",
+        "url": "https://open.spotify.com/album/2iiFO7ka9UTIy5McnAyzOA"
+      },
+      "artists": [
+        {
+          "name": "Yolanda \"Yoli\" Deberry",
+          "url": "https://open.spotify.com/artist/06Q2ILOz7IadxwTslpA6KE"
+        },
+        {
+          "name": "Scott O. Cumberbatch",
+          "url": "https://open.spotify.com/artist/1up3sborbLftwphLPd3R9I"
+        }
+      ],
+      "duration_ms": 522244,
+      "name": "I Shall Wear a Crown (Soon as I Get Home)",
+      "url": "https://open.spotify.com/track/4G7i0ZawSkw1PB5vNW0467"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Go To The Rock: The Gospel Music Of Whitney Houston",
+        "url": "https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "His Eye Is On The Sparrow",
+      "url": "https://open.spotify.com/track/65QGMwTh15KhXgqjSCIWSr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unplugged... The Way Church Used To Be",
         "url": "https://open.spotify.com/album/40QPXfv7Xq4MNSa7bNXerv"
       },
@@ -139,6 +171,26 @@
       "duration_ms": 367893,
       "name": "There Is No Way",
       "url": "https://open.spotify.com/track/3vOjNcU69o8kkLCu09JNtO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+      },
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+        }
+      ],
+      "duration_ms": 436874,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3qrQELneT3DYFHorpigLwI"
     },
     {
       "added_at": null,
@@ -159,18 +211,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Man Is Hard To Find: The Soundtrack",
-        "url": "https://open.spotify.com/album/0eKSYSTAFUxv4oo11E040I"
+        "name": "Hallelujah, Salvation, and Glory",
+        "url": "https://open.spotify.com/album/0xWK6BxBZGPXHa7QafubrS"
       },
       "artists": [
         {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+          "name": "Holy Soul Choir",
+          "url": "https://open.spotify.com/artist/4a0jm9Rz4ybHIfLJV2u7iU"
         }
       ],
-      "duration_ms": 288586,
-      "name": "I Won't Complain",
-      "url": "https://open.spotify.com/track/0Z40ksWbWS2Hpmu99XxDV9"
+      "duration_ms": 391349,
+      "name": "Hallelujah, Salvation, and Glory",
+      "url": "https://open.spotify.com/track/4vnDJK46RP6XXDXTHLgtFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Must Change",
+        "url": "https://open.spotify.com/album/3Jbc1yBROPyZxVkGFrM0S9"
+      },
+      "artists": [
+        {
+          "name": "Isaac Cates",
+          "url": "https://open.spotify.com/artist/4GHTVWTLQpFN8ogCjbzt0T"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Everything Must Change",
+      "url": "https://open.spotify.com/track/0xJkiA1qZ6PkMaxPXt6MRM"
     },
     {
       "added_at": null,
@@ -207,70 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+        "name": "Nobody But Jesus",
+        "url": "https://open.spotify.com/album/0li1WmPYRhfToNphn8GKix"
       },
       "artists": [
         {
-          "name": "Mikael Karlsson",
-          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
-        },
-        {
-          "name": "Callie Day",
-          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+          "name": "Tasha Page-Lockhart",
+          "url": "https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w"
         }
       ],
-      "duration_ms": 436874,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3qrQELneT3DYFHorpigLwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Must Change",
-        "url": "https://open.spotify.com/album/3Jbc1yBROPyZxVkGFrM0S9"
-      },
-      "artists": [
-        {
-          "name": "Isaac Cates",
-          "url": "https://open.spotify.com/artist/4GHTVWTLQpFN8ogCjbzt0T"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Everything Must Change",
-      "url": "https://open.spotify.com/track/0xJkiA1qZ6PkMaxPXt6MRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live In Detroit II (Video)",
-        "url": "https://open.spotify.com/album/50CsnqOvQh008OJxuKGJsJ"
-      },
-      "artists": [
-        {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
-        }
-      ],
-      "duration_ms": 466106,
-      "name": "Safe In His Arms",
-      "url": "https://open.spotify.com/track/1ixa1TsAKrNWvVBYFqYuM1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All My Best To You",
-        "url": "https://open.spotify.com/album/2y5a73laD429H5BEtEnLIy"
-      },
-      "artists": [
-        {
-          "name": "Tramaine Hawkins",
-          "url": "https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR"
-        }
-      ],
-      "duration_ms": 582200,
-      "name": "Goin' Up Yonder",
-      "url": "https://open.spotify.com/track/5Q8kGGeUqVJMO6fm00qB57"
+      "duration_ms": 331280,
+      "name": "Nobody But Jesus",
+      "url": "https://open.spotify.com/track/39RTTcarbcN5IO3rzQnZ4L"
     },
     {
       "added_at": null,
@@ -291,82 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah, Salvation, and Glory",
-        "url": "https://open.spotify.com/album/0xWK6BxBZGPXHa7QafubrS"
+        "name": "Sinful Obsession (From \"The Drop: A Snowfall Saga\")",
+        "url": "https://open.spotify.com/album/1PCIotfUnyPMOEvBLpsz9v"
       },
       "artists": [
         {
-          "name": "Holy Soul Choir",
-          "url": "https://open.spotify.com/artist/4a0jm9Rz4ybHIfLJV2u7iU"
-        }
-      ],
-      "duration_ms": 391349,
-      "name": "Hallelujah, Salvation, and Glory",
-      "url": "https://open.spotify.com/track/4vnDJK46RP6XXDXTHLgtFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go Get Your Life Back",
-        "url": "https://open.spotify.com/album/2SQmkBZsZVy8XPNtWom6pK"
-      },
-      "artists": [
+          "name": "The Drop - Cast",
+          "url": "https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3"
+        },
         {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+          "name": "Den\u00e9e Benton",
+          "url": "https://open.spotify.com/artist/3bBNMFp7jH66nWZYYIzqc6"
         }
       ],
-      "duration_ms": 402666,
-      "name": "Bless Me (The Prayer Of Jabez)",
-      "url": "https://open.spotify.com/track/05yBRpVuSkNNmYEsKImaBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classic Gold: Can't Hold Back",
-        "url": "https://open.spotify.com/album/0lscY9KZkXhdwxJg9ov2xy"
-      },
-      "artists": [
-        {
-          "name": "L.A. Mass Choir",
-          "url": "https://open.spotify.com/artist/5LUGhBiNHDSTRHFm6WAcZn"
-        }
-      ],
-      "duration_ms": 355160,
-      "name": "That's When You Bless Me",
-      "url": "https://open.spotify.com/track/43z3IaGb4LrPnhhUCtKjIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Earnestly Yours",
-        "url": "https://open.spotify.com/album/3fyezkTWqS53LOieqRp3WF"
-      },
-      "artists": [
-        {
-          "name": "Earnest Pugh",
-          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
-        }
-      ],
-      "duration_ms": 299083,
-      "name": "I Need Your Glory",
-      "url": "https://open.spotify.com/track/7AlrRxDhyVTGF9uusZXOiv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Spirit",
-        "url": "https://open.spotify.com/album/0BzMT2lc01dM50FxLR0eh6"
-      },
-      "artists": [
-        {
-          "name": "Ann Nesby",
-          "url": "https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Pass Me Not",
-      "url": "https://open.spotify.com/track/6geKILHdInlwqJ9tpl0nGT"
+      "duration_ms": 183754,
+      "name": "Sinful Obsession (A Cappella)",
+      "url": "https://open.spotify.com/track/1H1M9a2K9LhbaqSU5tu3DQ"
     },
     {
       "added_at": null,
@@ -391,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dorothy Norwood: Live",
+        "url": "https://open.spotify.com/album/3i4Yau185PBEkcyAZ0rgkE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Norwood",
+          "url": "https://open.spotify.com/artist/3B2PSZmAw3xz6cQ2XMXta7"
+        },
+        {
+          "name": "The Northern California G.M.W.A. Mass Choir",
+          "url": "https://open.spotify.com/artist/3LeKU2nLETcT0vNrHLUnpd"
+        }
+      ],
+      "duration_ms": 308866,
+      "name": "Victory Is Mine",
+      "url": "https://open.spotify.com/track/2PdoPOjC8qhDgpz2NlOcYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play (Original Soundtrack)",
         "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
       },
@@ -411,8 +387,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Time God",
-        "url": "https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv"
+        "name": "The Joy Of The Lord Is My Strength",
+        "url": "https://open.spotify.com/album/3L7fOhTlbVWRT67h22KhGP"
+      },
+      "artists": [
+        {
+          "name": "Douglas Miller",
+          "url": "https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB"
+        },
+        {
+          "name": "The True Way Choir C.O.G.I.C.",
+          "url": "https://open.spotify.com/artist/5sgs1JOaLlU4Nc7bLYSpnC"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Pass Me Not",
+      "url": "https://open.spotify.com/track/1pGfsKTVU8e7vcCeL2cln4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greenleaf (Gospel Companion Soundtrack, Vol. 1)",
+        "url": "https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ"
       },
       "artists": [
         {
@@ -420,237 +416,25 @@
           "url": "https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI"
         }
       ],
-      "duration_ms": 263640,
+      "duration_ms": 241906,
       "name": "Get Your House In Order",
-      "url": "https://open.spotify.com/track/2hxNsvAnjC0rGA6noLGynw"
+      "url": "https://open.spotify.com/track/1jHKB3VyaRrj9hvcMTDKk9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nobody But Jesus",
-        "url": "https://open.spotify.com/album/0li1WmPYRhfToNphn8GKix"
+        "name": "NO",
+        "url": "https://open.spotify.com/album/3tKHWLrigdVEaFGITBDS0t"
       },
       "artists": [
         {
-          "name": "Tasha Page-Lockhart",
-          "url": "https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w"
+          "name": "Shameia Crawford",
+          "url": "https://open.spotify.com/artist/1pKEmvg6XfxAB98SK72Avx"
         }
       ],
-      "duration_ms": 331280,
-      "name": "Nobody But Jesus",
-      "url": "https://open.spotify.com/track/39RTTcarbcN5IO3rzQnZ4L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Remix",
-        "url": "https://open.spotify.com/album/11QgoM6j7XAD5PayoJArS4"
-      },
-      "artists": [
-        {
-          "name": "DR.Charles G. Hayes & The Warriors",
-          "url": "https://open.spotify.com/artist/58Os5B2rw4yC3HIAergQDa"
-        }
-      ],
-      "duration_ms": 365946,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/4hBzaEsph2yHh8IuRNPYaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Available to You",
-        "url": "https://open.spotify.com/album/1IQuZftfTc9JXWQCWnqE5A"
-      },
-      "artists": [
-        {
-          "name": "Rev. Milton Brunson",
-          "url": "https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis"
-        },
-        {
-          "name": "The Thompson Community Singers",
-          "url": "https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI"
-        }
-      ],
-      "duration_ms": 379734,
-      "name": "I'm Available to You",
-      "url": "https://open.spotify.com/track/2lWFN5HviKVkFtybv85FaU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/3zQvObWa6jN6OwN99lKdsl"
-      },
-      "artists": [
-        {
-          "name": "Jamal Roberts",
-          "url": "https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg"
-        }
-      ],
-      "duration_ms": 203538,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/7F8PxTQf6eTnpSKuZ7IDZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Restoring The Years",
-        "url": "https://open.spotify.com/album/01pIvzYlVYgw0eFOiRljnj"
-      },
-      "artists": [
-        {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
-        }
-      ],
-      "duration_ms": 463516,
-      "name": "When Sunday Comes",
-      "url": "https://open.spotify.com/track/3qlebrluRR64lNDOtQSWUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/5kUeJHSlI4top32XLVQ4yS"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Bell Armstrong",
-          "url": "https://open.spotify.com/artist/1dF0qAJMVOCfhBnPiPfUIm"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Faith That Conquers",
-      "url": "https://open.spotify.com/track/0mrJNYhpHYc7G3Q8t52R0k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Jamal Roberts",
-          "url": "https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg"
-        }
-      ],
-      "duration_ms": 472368,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6UEn7Qjd2FSkpS4ta4H3ST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Soul Children",
-        "url": "https://open.spotify.com/album/4SABjASUY8yyTcnxoyTT93"
-      },
-      "artists": [
-        {
-          "name": "New Orleans Gospel Soul Children",
-          "url": "https://open.spotify.com/artist/6l1Zb4sK2U3ACjQW7O60eD"
-        }
-      ],
-      "duration_ms": 428173,
-      "name": "Pass Me Not, Oh Gentle Savior",
-      "url": "https://open.spotify.com/track/1fQ385JMFRPNt8IcDNSmtD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let the Chuch Say Amen",
-        "url": "https://open.spotify.com/album/1gxnQ1ikRxTqd5drgDBbxH"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gerald Thompson",
-          "url": "https://open.spotify.com/artist/72tWYdu50PzacNYUSIw2Jr"
-        },
-        {
-          "name": "The Tennessee Full Gospel Baptist Church Mass Choir",
-          "url": "https://open.spotify.com/artist/1PjwzuAd8U99xpMADndAyU"
-        }
-      ],
-      "duration_ms": 309266,
-      "name": "Jesus Is My Rock",
-      "url": "https://open.spotify.com/track/5rVLSb4AszW1t9PDxOLjJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
-      },
-      "artists": [
-        {
-          "name": "Mikael Karlsson",
-          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
-        },
-        {
-          "name": "Callie Day",
-          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Years and Years",
-      "url": "https://open.spotify.com/track/3znZxD0rkQIb2XyTD92JzD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count On God",
-        "url": "https://open.spotify.com/album/3mlMbqTPdiL0ZjRWkN0Kma"
-      },
-      "artists": [
-        {
-          "name": "Dottie Peoples",
-          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
-        },
-        {
-          "name": "The Peoples Choice Chorale",
-          "url": "https://open.spotify.com/artist/0zPt6BhJR9uEARNHRtzW57"
-        }
-      ],
-      "duration_ms": 351640,
-      "name": "Oh Lord Let Me Lean On You",
-      "url": "https://open.spotify.com/track/4FbjLYCMDaQngE3FNQX4gj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marvin L. Winans Presents: The Praise & Worship Experience",
-        "url": "https://open.spotify.com/album/1ozNUUriplzs0TWgflNey5"
-      },
-      "artists": [
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 385985,
-      "name": "Draw Me Close/Thy Will Be Done",
-      "url": "https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 297960,
-      "name": "Can't Give Up Now",
-      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
+      "duration_ms": 224365,
+      "name": "NO",
+      "url": "https://open.spotify.com/track/3XNfER4M7Zk6Zbjte0Q1mY"
     },
     {
       "added_at": null,
@@ -667,6 +451,54 @@
       "duration_ms": 411249,
       "name": "Psalms 34:1",
       "url": "https://open.spotify.com/track/6VcMI9jdsNeqTmEeTr8bYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Win",
+        "url": "https://open.spotify.com/album/0dLzwtgLElkNFYqDzXJ8Di"
+      },
+      "artists": [
+        {
+          "name": "Samoht",
+          "url": "https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK"
+        }
+      ],
+      "duration_ms": 293545,
+      "name": "I Win",
+      "url": "https://open.spotify.com/track/30w9M5Ve4pi2944Szk15rQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Why Not Me",
+        "url": "https://open.spotify.com/album/5tUhCsxmgmgFfNAjtzI94n"
+      },
+      "artists": [
+        {
+          "name": "Tasha Page-Lockhart",
+          "url": "https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w"
+        }
+      ],
+      "duration_ms": 319621,
+      "name": "Why Not Me",
+      "url": "https://open.spotify.com/track/0SQOpNgJOwJWv29nseRsLV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Remix",
+        "url": "https://open.spotify.com/album/11QgoM6j7XAD5PayoJArS4"
+      },
+      "artists": [
+        {
+          "name": "DR.Charles G. Hayes & The Warriors",
+          "url": "https://open.spotify.com/artist/58Os5B2rw4yC3HIAergQDa"
+        }
+      ],
+      "duration_ms": 365946,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/4hBzaEsph2yHh8IuRNPYaS"
     },
     {
       "added_at": null,
@@ -691,18 +523,158 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/5WkM8ZewHX0tnX94aSeaSF"
+        "name": "REMEMBER ME",
+        "url": "https://open.spotify.com/album/4knnVaNOKU8OYLZxNDjTYY"
       },
       "artists": [
         {
-          "name": "Ricky Dillard & the New Generation Chorale",
-          "url": "https://open.spotify.com/artist/7aKGwoTYBjFT1dccw1TVua"
+          "name": "Stanley Brown",
+          "url": "https://open.spotify.com/artist/2SkIiDmOxLJlgSq7oeKH2W"
+        },
+        {
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
         }
       ],
-      "duration_ms": 250893,
-      "name": "More Abundantly",
-      "url": "https://open.spotify.com/track/5LhDlzZY48ePfGxR64gioC"
+      "duration_ms": 204784,
+      "name": "REMEMBER ME",
+      "url": "https://open.spotify.com/track/1GVMYvF7uINf7ZUGb6uvMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moved",
+        "url": "https://open.spotify.com/album/6QzaLQ6pBHHMDWr75dJBRW"
+      },
+      "artists": [
+        {
+          "name": "Emma Nissen",
+          "url": "https://open.spotify.com/artist/1DnRR6YVHXOJJ960ZKUzGS"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Moved",
+      "url": "https://open.spotify.com/track/2FyqcONwHX1WlxrLpGqDF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+      },
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Years and Years",
+      "url": "https://open.spotify.com/track/3znZxD0rkQIb2XyTD92JzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/1I19eatzCQ4WboYkiEnVPx"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 468280,
+      "name": "Let The Church Say Amen",
+      "url": "https://open.spotify.com/track/794MiXq5ktzEv9lQpFpHi0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Safety",
+        "url": "https://open.spotify.com/album/5Sh7Bmh0GlIxaWvG4me4To"
+      },
+      "artists": [
+        {
+          "name": "Kevin Terry",
+          "url": "https://open.spotify.com/artist/2WPfGJWm3alX3OMb02I5lC"
+        },
+        {
+          "name": "Predestined",
+          "url": "https://open.spotify.com/artist/69y8kI1KFuOEqGahRRIOQH"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/4ixgKZr8BupI31QsPEddZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Restoring The Years",
+        "url": "https://open.spotify.com/album/01pIvzYlVYgw0eFOiRljnj"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+        }
+      ],
+      "duration_ms": 463516,
+      "name": "When Sunday Comes",
+      "url": "https://open.spotify.com/track/3qlebrluRR64lNDOtQSWUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earnestly Yours",
+        "url": "https://open.spotify.com/album/3fyezkTWqS53LOieqRp3WF"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "duration_ms": 299083,
+      "name": "I Need Your Glory",
+      "url": "https://open.spotify.com/track/7AlrRxDhyVTGF9uusZXOiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/7DIm0ObqvLqNeGBuO3K3uV"
+      },
+      "artists": [
+        {
+          "name": "Nolan Williams, Jr.",
+          "url": "https://open.spotify.com/artist/6gs1O4Ku0os6sZ1kPD66I7"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Take It to the Lord in Prayer",
+      "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magnify (Live)",
+        "url": "https://open.spotify.com/album/6OW95a1MIqn0lpKKcMcFPV"
+      },
+      "artists": [
+        {
+          "name": "Lecresia",
+          "url": "https://open.spotify.com/artist/0SlnMfvRr4keLFdCLkXirc"
+        }
+      ],
+      "duration_ms": 311040,
+      "name": "Magnify - Live",
+      "url": "https://open.spotify.com/track/6DuQaPaKQ2K1XkBZSWMAkJ"
     },
     {
       "added_at": null,
@@ -723,150 +695,186 @@
     {
       "added_at": null,
       "album": {
-        "name": "Introducing DeWayne Woods & When Singers Meet",
-        "url": "https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB"
+        "name": "Pastor LaRue F. Kidd Presents a True Light Centennial Celebration",
+        "url": "https://open.spotify.com/album/3Dd00utmLAP2QtluaZ6bVk"
       },
       "artists": [
         {
-          "name": "DeWayne Woods",
-          "url": "https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce"
-        }
-      ],
-      "duration_ms": 295746,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7swd6mQ5turfCSVi93n7Sz"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 438960,
-      "name": "Come On In the Room",
-      "url": "https://open.spotify.com/track/0LfPC4pCvTJSvhgmc5lzhc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let the Chuch Say Amen",
-        "url": "https://open.spotify.com/album/1gxnQ1ikRxTqd5drgDBbxH"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gerald Thompson",
-          "url": "https://open.spotify.com/artist/72tWYdu50PzacNYUSIw2Jr"
+          "name": "Pastor LaRue F. Kidd",
+          "url": "https://open.spotify.com/artist/6UBxgAOBSJw0PWnweTClze"
         },
         {
-          "name": "The Tennessee Full Gospel Baptist Church Mass Choir",
-          "url": "https://open.spotify.com/artist/1PjwzuAd8U99xpMADndAyU"
+          "name": "True Light Centennial Celebration Choir",
+          "url": "https://open.spotify.com/artist/2b3oQJR9zyIgkdsJoOdVbS"
         }
       ],
-      "duration_ms": 497866,
-      "name": "It Will Never Lose It's Power (The Blood)",
-      "url": "https://open.spotify.com/track/77yIU5OnhH5pfb28yfr3dB"
+      "duration_ms": 314240,
+      "name": "He Has Done Marvelous Things",
+      "url": "https://open.spotify.com/track/2RRX2qjCMKsoZ4zI3UNcQo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Why Not Me",
-        "url": "https://open.spotify.com/album/5tUhCsxmgmgFfNAjtzI94n"
+        "name": "Gospel Soul Children",
+        "url": "https://open.spotify.com/album/4SABjASUY8yyTcnxoyTT93"
       },
       "artists": [
         {
-          "name": "Tasha Page-Lockhart",
-          "url": "https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w"
+          "name": "New Orleans Gospel Soul Children",
+          "url": "https://open.spotify.com/artist/6l1Zb4sK2U3ACjQW7O60eD"
         }
       ],
-      "duration_ms": 319621,
-      "name": "Why Not Me",
-      "url": "https://open.spotify.com/track/0SQOpNgJOwJWv29nseRsLV"
+      "duration_ms": 428173,
+      "name": "Pass Me Not, Oh Gentle Savior",
+      "url": "https://open.spotify.com/track/1fQ385JMFRPNt8IcDNSmtD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Classic Gold: Unspeakable Joy",
-        "url": "https://open.spotify.com/album/76cvPXlNE69T7cVedSi47i"
+        "name": "Live In Detroit II (Video)",
+        "url": "https://open.spotify.com/album/50CsnqOvQh008OJxuKGJsJ"
       },
       "artists": [
         {
-          "name": "Douglas Miller",
-          "url": "https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB"
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
         }
       ],
-      "duration_ms": 363720,
-      "name": "My Soul Has Been Anchored In the Lord",
-      "url": "https://open.spotify.com/track/4EHtR9cO2I26wORt2C7Tk1"
+      "duration_ms": 432346,
+      "name": "Oh What Love",
+      "url": "https://open.spotify.com/track/5YhWW0Iy7kG5TZeScytV5H"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Five Heartbeats (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta"
+        "name": "Count On God",
+        "url": "https://open.spotify.com/album/3mlMbqTPdiL0ZjRWkN0Kma"
       },
       "artists": [
         {
-          "name": "The 5 Heartbeats",
-          "url": "https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG"
+          "name": "Dottie Peoples",
+          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
+        },
+        {
+          "name": "The Peoples Choice Chorale",
+          "url": "https://open.spotify.com/artist/0zPt6BhJR9uEARNHRtzW57"
         }
       ],
-      "duration_ms": 401040,
-      "name": "I Feel Like Going On",
-      "url": "https://open.spotify.com/track/6rCVGZwhOWpxRJOejAGVQp"
+      "duration_ms": 351640,
+      "name": "Oh Lord Let Me Lean On You",
+      "url": "https://open.spotify.com/track/4FbjLYCMDaQngE3FNQX4gj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Classic Gold: Tramaine Treasury",
-        "url": "https://open.spotify.com/album/05vmLtEPz3tfkTWtJ8s34Y"
+        "name": "The Making of a Soldier",
+        "url": "https://open.spotify.com/album/3lHfJzcWbbPS7lPZIXVQ10"
       },
       "artists": [
         {
-          "name": "Tramaine Hawkins",
-          "url": "https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR"
+          "name": "Duranice Pace",
+          "url": "https://open.spotify.com/artist/6LCt9JTrXfkiltY1JtVJap"
         }
       ],
-      "duration_ms": 471573,
-      "name": "Changed",
-      "url": "https://open.spotify.com/track/1Q933bpVvYfRibYiReq4eV"
+      "duration_ms": 241698,
+      "name": "I'll Always Be Thankful (Live)",
+      "url": "https://open.spotify.com/track/0WHBbnfUWNSjEX400PFjxe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "What If God Is Unhappy?",
-        "url": "https://open.spotify.com/album/6hcTgQqDhenfqwBqAT05xR"
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/5WkM8ZewHX0tnX94aSeaSF"
       },
       "artists": [
         {
-          "name": "Christopher Brinson",
-          "url": "https://open.spotify.com/artist/1zMFNtb5QgWsTOnTcVFl0U"
+          "name": "Ricky Dillard & the New Generation Chorale",
+          "url": "https://open.spotify.com/artist/7aKGwoTYBjFT1dccw1TVua"
         }
       ],
-      "duration_ms": 287706,
-      "name": "What If God",
-      "url": "https://open.spotify.com/track/1CXrrLGBPX719XhByetNdQ"
+      "duration_ms": 250893,
+      "name": "More Abundantly",
+      "url": "https://open.spotify.com/track/5LhDlzZY48ePfGxR64gioC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "It's Praying Time",
-        "url": "https://open.spotify.com/album/25N4CRU5jKGcVSWHkCqJ8G"
+        "name": "Go Get Your Life Back",
+        "url": "https://open.spotify.com/album/2SQmkBZsZVy8XPNtWom6pK"
       },
       "artists": [
         {
-          "name": "Miami Mass Choir",
-          "url": "https://open.spotify.com/artist/0W0gghXxDYUpmjMc0lHXQg"
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
         }
       ],
-      "duration_ms": 371306,
-      "name": "It Is For Me",
-      "url": "https://open.spotify.com/track/0f184mRNMdjiNcVUe7EAqX"
+      "duration_ms": 402666,
+      "name": "Bless Me (The Prayer Of Jabez)",
+      "url": "https://open.spotify.com/track/05yBRpVuSkNNmYEsKImaBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worship Soul",
+        "url": "https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "duration_ms": 557452,
+      "name": "Jesus Will",
+      "url": "https://open.spotify.com/track/3xPTxWTEkTqUsyv954O377"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/7wueq9pnnfjd0SM0SYkfTL"
+      },
+      "artists": [
+        {
+          "name": "Amber Bullock",
+          "url": "https://open.spotify.com/artist/2UM3duwCMBDd8EykmBNOjw"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/1v6xbvbZjqkpUzj5XtQ782"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+      },
+      "artists": [
+        {
+          "name": "Gods Property",
+          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "My Life Is In Your Hands",
+      "url": "https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angels There",
+        "url": "https://open.spotify.com/album/7u7jt3BqeKtRRkNOArIqCd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Liggins Thomas",
+          "url": "https://open.spotify.com/artist/3P0sNLnXhuxC5nFJCjyGez"
+        }
+      ],
+      "duration_ms": 170031,
+      "name": "Angels There",
+      "url": "https://open.spotify.com/track/6qfxQVcwMDeK4HNHTQqhtV"
     }
   ],
   "unique_name": "Callie Day Radio",

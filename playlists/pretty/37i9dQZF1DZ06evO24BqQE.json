@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 54982,
+  "num_followers": 55014,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABtLura4SMvAX2XpYXiNrSZ",
+  "snapshot_id": "atAXgAAAAAD/8we7dopFNBtiFQBnOh7i",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Game Needs Us",
-        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 185429,
-      "name": "Rum & Soda",
-      "url": "https://open.spotify.com/track/70NDHUkE7tNOI6lCla0PpL"
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": null,
@@ -307,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+      "duration_ms": 185429,
+      "name": "Rum & Soda",
+      "url": "https://open.spotify.com/track/70NDHUkE7tNOI6lCla0PpL"
     },
     {
       "added_at": null,

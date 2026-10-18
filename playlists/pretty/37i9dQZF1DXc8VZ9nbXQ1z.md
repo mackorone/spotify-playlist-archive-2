@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,701 likes - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,757 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 18 | [Jekalo](https://open.spotify.com/track/6ONeracdIO8ijLL9bK18dW) | [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD), [Simone Glad](https://open.spotify.com/artist/23qU7I4dEm0phzNweQiVE7), [eL\-Jay](https://open.spotify.com/artist/3AdQcvHPUsbnXLvuCFtjZE) | [Jekalo](https://open.spotify.com/album/2OE43gckEmbUY17BpnNAre) | 3:19 |
 | 19 | [Masaa](https://open.spotify.com/track/3QElrrfOjmiD0QXjkNvF1B) | [Ghedi](https://open.spotify.com/artist/0Lyny0hbx38TM6ZoXSCONO), [Mura](https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd), [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Paps Okwach](https://open.spotify.com/artist/6iYbvYlNp3oOx3Dr35YVPH) | [Masaa](https://open.spotify.com/album/3XEHky9JmUviDHuE8HKRAW) | 3:50 |
 | 20 | [Tomorrow](https://open.spotify.com/track/0EWbCIe0CmNmSE55W1huLq) | [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [PA NGU](https://open.spotify.com/artist/6sMU60D1GkWWUbBRjt1xFO) | [Tomorrow](https://open.spotify.com/album/7pMvtoft0Jc906cQV7D4Ip) | 3:46 |
-| 21 | [Rift Valley](https://open.spotify.com/track/2sKy3sbnArMST1tVIW8aQQ) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Rift Valley](https://open.spotify.com/album/7i2Y4z0OLEM5DlMtLe5Ncx) | 6:43 |
+| 21 | [Rift Valley \- 2026 Rework](https://open.spotify.com/track/2sKy3sbnArMST1tVIW8aQQ) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Rift Valley \(2026 Rework\)](https://open.spotify.com/album/7i2Y4z0OLEM5DlMtLe5Ncx) | 6:43 |
 | 22 | [Waves \- Enoo Napa Remix](https://open.spotify.com/track/0VaHtlHiUEWPAHqrRIHkYt) | [Chelsea Como](https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac), [Jacko](https://open.spotify.com/artist/2eGQ2U7oSfLP26Bl9nBCKA), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Waves \(Enoo Napa Remix\)](https://open.spotify.com/album/5ZQuvOnCp38opDe5Et1EK6) | 6:53 |
 | 23 | [Mercy Of Time \- Louie Vega Mix](https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Mercy Of Time](https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8) | 10:15 |
 | 24 | [Kaltron](https://open.spotify.com/track/1FK4IcCtkvkmkqb7n18PfI) | [LiloCox](https://open.spotify.com/artist/72PekNwjrVD4vIpnA6Kxy4) | [Kaltron](https://open.spotify.com/album/2fuTFpCf5Y9ozKOtC5i0Fk) | 5:52 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 118252,
+  "num_followers": 118282,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACkjzdKXsuFh77o45hpnxmK",
+  "snapshot_id": "atFpAAAAAAC2UMOjtXO5OshlnCYdXTfm",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "Would If I Could (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/26o6A0vDrmjiaM0bgP5BH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 237773,
       "name": "Good Horses - feat. Miranda Lambert",
       "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "Would If I Could (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/26o6A0vDrmjiaM0bgP5BH8"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 228373,
       "name": "Prop Me Up Beside The Jukebox (If I Die) [feat. The Difftones]",
       "url": "https://open.spotify.com/track/5X9G3iIyegabYrQQLuzFIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": null,

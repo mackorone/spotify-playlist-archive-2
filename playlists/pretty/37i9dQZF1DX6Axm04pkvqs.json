@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 86699,
+  "num_followers": 86755,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 468360,
+      "name": "The Call (Chants)",
+      "url": "https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Dide (Soundtracks from the movie ENOCH)",
         "url": "https://open.spotify.com/album/5YaA3qQpHQMnUZjY3B8yzH"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 201599,
       "name": "Dide",
       "url": "https://open.spotify.com/track/1ySo3tFztJvwjCjnDLRxK5"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 468360,
-      "name": "The Call (Chants)",
-      "url": "https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Jesus Christ is seen",
-        "url": "https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 183275,
-      "name": "Jesus Christ is seen",
-      "url": "https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 444255,
       "name": "Sound of Revival",
       "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Jesus Christ is seen",
+        "url": "https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 183275,
+      "name": "Jesus Christ is seen",
+      "url": "https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Agbara Olorun po",
-        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
-      },
-      "artists": [
-        {
-          "name": "Clement whyte",
-          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
-        }
-      ],
-      "duration_ms": 301141,
-      "name": "Agbara Olorun po",
-      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "The Glory Experience (Songs of Zion)",
         "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 778895,
       "name": "When God Walks In",
       "url": "https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Agbara Olorun po",
+        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
+      },
+      "artists": [
+        {
+          "name": "Clement whyte",
+          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
+        }
+      ],
+      "duration_ms": 301141,
+      "name": "Agbara Olorun po",
+      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/1K5rXNAbWyOhDpNXFK9Hd1"
     },
     {
-      "added_at": "2026-09-25 00:01:15",
-      "album": {
-        "name": "FIRE",
-        "url": "https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4"
-      },
-      "artists": [
-        {
-          "name": "Sandra Boakye-Duah",
-          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
-        }
-      ],
-      "duration_ms": 553200,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "We Are Fire",
@@ -1187,6 +1171,22 @@
       "duration_ms": 380123,
       "name": "Awake",
       "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
+    },
+    {
+      "added_at": "2026-09-25 00:01:15",
+      "album": {
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4"
+      },
+      "artists": [
+        {
+          "name": "Sandra Boakye-Duah",
+          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
+        }
+      ],
+      "duration_ms": 553200,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ"
     },
     {
       "added_at": "2024-07-26 00:01:00",

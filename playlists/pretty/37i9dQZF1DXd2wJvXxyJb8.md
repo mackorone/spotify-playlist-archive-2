@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,775 likes - 63 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,817 likes - 63 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 24 | [Sal Grosso](https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [KBrum](https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 2:31 |
 | 25 | [Carnívoro](https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Carnívoro](https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa) | 3:36 |
 | 26 | [Sign Of The Times \- Arrocha](https://open.spotify.com/track/5lEwqFPxb3tfbFLJjD2szM) | [Íkaro Mendes](https://open.spotify.com/artist/1wwKPlc0xyhK6Z0gEITJpO) | [Sign Of The Times](https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB) | 2:47 |
-| 27 | [Medley Relíquia](https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT) | [TOMAS](https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ ADUTTZ](https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB) | [Medley Relíquia](https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr) | 3:00 |
+| 27 | [Medley Relíquia](https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT) | [TOMAS](https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ ADUTTZ](https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB), [TREM TOP](https://open.spotify.com/artist/503PjO0QPJTU8epgUnknR0) | [Medley Relíquia](https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr) | 3:00 |
 | 28 | [pros menor da nova](https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [FUNK DE CANALHA](https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm) | 3:16 |
 | 29 | [Alvejante](https://open.spotify.com/track/7fnXPPBrHSGb15iPvVgFd8) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Alvejante](https://open.spotify.com/album/5O7bnwLcBZyXJqJHJNF12a) | 3:27 |
 | 30 | [Arrependidaço \(Onde Você Anda\)](https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Sentimento](https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E) | 3:00 |

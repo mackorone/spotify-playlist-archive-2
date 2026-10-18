@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 40449,
+  "num_followers": 40458,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABCcJpNNiuKcikqRUZXBl8E",
+  "snapshot_id": "atFpAAAAAACZz7G+YzEvHNnzHIGkyyBT",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "El Vino Y La Parranda",
-      "url": "https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 171146,
       "name": "La Patrulla 05",
       "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "El Vino Y La Parranda",
+      "url": "https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Con",
-        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Maquina 501",
-      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 174573,
       "name": "La Emboscada Del Gallo",
       "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Maquina 501",
+      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Imposible",
-        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "El Mandil\u00f3n",
-      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 165280,
       "name": "El Rayo De Sinaloa",
       "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "El Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Corrido De Gabino",
-      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 160813,
       "name": "Los Dos Contrabandos",
       "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Corrido De Gabino",
+      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Jacinto el Tullido",
-      "url": "https://open.spotify.com/track/1aktDwKgomwwxwj2Xwqo6T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 164053,
       "name": "Jorge Y El Comandante",
       "url": "https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Jacinto el Tullido",
+      "url": "https://open.spotify.com/track/1aktDwKgomwwxwj2Xwqo6T"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noches Eternas",
-        "url": "https://open.spotify.com/album/5pk5NixB6iYy7OJp7syRPL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "Cuenta Cobrado",
-      "url": "https://open.spotify.com/track/6aMIefsSZSiZsRyXjLnKoV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 227306,
       "name": "Dos Cruces En La Curva",
       "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noches Eternas",
+        "url": "https://open.spotify.com/album/5pk5NixB6iYy7OJp7syRPL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Cuenta Cobrado",
+      "url": "https://open.spotify.com/track/6aMIefsSZSiZsRyXjLnKoV"
     },
     {
       "added_at": null,

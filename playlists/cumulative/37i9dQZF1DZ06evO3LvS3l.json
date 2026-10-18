@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Million Reasons",
+        "url": "https://open.spotify.com/album/1bfjEyZsT3daZv9quo6XMo"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229862,
+      "name": "A Million Reasons",
+      "url": "https://open.spotify.com/track/64BYhPaU7Tj5gFZ6sSAyUQ"
+    },
+    {
+      "album": {
         "name": "The Mysterious Rhinestone Cowboy",
         "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 266000,
       "name": "Satisfied Mind",
       "url": "https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2"

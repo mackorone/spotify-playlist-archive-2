@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35179,
+  "num_followers": 35189,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Tindouf",
-        "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
-      },
-      "artists": [
-        {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Kontiki Blues",
-      "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Reality And Fantasy (Special Edition)",
         "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 214053,
       "name": "Follia D'Amore",
       "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Tindouf",
+        "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Kontiki Blues",
+      "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vacation and Probation",
-        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "Vacation and Probation",
-      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Sogni",
         "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186107,
       "name": "Bird\u00b4s Lament",
       "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "New Game Plus",
-        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
-      },
-      "artists": [
-        {
-          "name": "magikAAAAArp",
-          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 348375,
       "name": "Here We Gong",
       "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
       "artists": [
         {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
         }
       ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
       },
       "artists": [
         {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     }
   ],
   "unique_name": "Jazz Italia",

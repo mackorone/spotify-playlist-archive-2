@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > Shine on me, kiss me in the dark!!!! 🩵💫🧚🏻🦋
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,067 likes - 78 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,076 likes - 78 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

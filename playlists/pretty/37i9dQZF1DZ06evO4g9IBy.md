@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,064 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,076 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 19 | [Nightbird \- 2016 Remaster](https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 5:01 |
 | 20 | [Crying in the Night](https://open.spotify.com/track/3FBJq7wLTogeipvXMbTNrU) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:59 |
 | 21 | [Rhiannon \- Live 2005](https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 7:01 |
-| 22 | [Planets of the Universe](https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:45 |
+| 22 | [Trouble in Shangri\-La](https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:49 |
 | 23 | [I Will Run to You \- 2016 Remaster](https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 3:21 |
 | 24 | [How Still My Love \- 2016 Remaster](https://open.spotify.com/track/2Qgs5ycYkVe4nPI0f2k5yC) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:55 |
 | 25 | [Remedy \(feat\. Stevie Nicks\)](https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:29 |
-| 26 | [Trouble in Shangri\-La](https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:49 |
+| 26 | [Planets of the Universe](https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:45 |
 | 27 | [If Anyone Falls \- 2016 Remaster](https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 4:09 |
-| 28 | [Landslide \(with The Melbourne Symphony Orchestra\) \- Live 2006; 2019 Remaster](https://open.spotify.com/track/0OmofBGMfRFHJNlIXiS3KZ) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Melbourne Symphony Orchestra](https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH) | [Stand Back](https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K) | 4:15 |
-| 29 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
+| 28 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
+| 29 | [Landslide \(with The Melbourne Symphony Orchestra\) \- Live 2006; 2019 Remaster](https://open.spotify.com/track/0OmofBGMfRFHJNlIXiS3KZ) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Melbourne Symphony Orchestra](https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH) | [Stand Back](https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K) | 4:15 |
 | 30 | [The Dealer](https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [24 Karat Gold: Songs from the Vault](https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R) | 4:38 |
 | 31 | [Dreams \- Album Mix](https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [George Is On](https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT) | 4:39 |
 | 32 | [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/0gzI0zfUaoXFVNTUNQE9ad) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 6:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 49 | [New Orleans](https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [In Your Dreams](https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj) | 5:34 |
 | 50 | [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/5XRE1d7LrJJ3yA5AbpRogE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 5:01 |
 
-Snapshot ID: `as7GAAAAAABYGXBZfGHIJv5OELsUcKA8`
+Snapshot ID: `atAXgAAAAACGGJpxkmN0aGbbvcLm+z2N`

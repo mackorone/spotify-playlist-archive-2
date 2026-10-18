@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 197 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 197 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 99 | [Limonare](https://open.spotify.com/track/0hJJgXpm0nBjfE3U8EIXec) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Limonare](https://open.spotify.com/album/3XGu4Uha6uqbOrhzm17AuP) | 2:17 |
 | 100 | [LUNA NERA](https://open.spotify.com/track/7GDtPLktomNn5oQrD26aKj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [LUNA NERA](https://open.spotify.com/album/6xA7Wo1jDgIoGWZaCjx176) | 3:24 |
 | 101 | [ICONA](https://open.spotify.com/track/4J0KAFyrq0uibV9WxW2aRM) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [ICONA](https://open.spotify.com/album/2tnspppLpd17wrWXaBT45p) | 2:45 |
-| 102 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 |
-| 103 | [ko tempo](https://open.spotify.com/track/0f1A2w2tdYJsrHKP2qXw2W) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:39 |
+| 102 | [ko tempo](https://open.spotify.com/track/0f1A2w2tdYJsrHKP2qXw2W) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:39 |
+| 103 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 |
 | 104 | [Sad Love](https://open.spotify.com/track/3dln34GJ0WsCKixaM1ZoDV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:24 |
 | 105 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
 | 106 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 151 | [Se fosse vero \(feat\. Giorgia\)](https://open.spotify.com/track/2kLHaxWVINdMQpwNReE82z) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Se fosse vero \(feat\. Giorgia\)](https://open.spotify.com/album/3IiWqNaFFP6TbTiOTFHuPs) | 2:04 |
 | 152 | [Labbra blu \(feat\. YTAM\)](https://open.spotify.com/track/19IZq1j2WflYlidjB26DpU) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DEFAULT](https://open.spotify.com/album/3i83xKoFsymSxIkxoKm9pB) | 2:34 |
 | 153 | [ko pausa](https://open.spotify.com/track/1stoCuMxnyX9ITVze7RJvS) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 1:59 |
-| 154 | [Male](https://open.spotify.com/track/26HVAOi74rSqtArB3AwR8v) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Male](https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW) | 2:27 |
-| 155 | [incantesimi v96](https://open.spotify.com/track/4c77bLupkvrEB6bpmfqFAQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:56 |
+| 154 | [incantesimi v96](https://open.spotify.com/track/4c77bLupkvrEB6bpmfqFAQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:56 |
+| 155 | [Male](https://open.spotify.com/track/26HVAOi74rSqtArB3AwR8v) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Male](https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW) | 2:27 |
 | 156 | [VAMPIRO](https://open.spotify.com/track/1n4es6teVTXY4TbSSOzekf) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [VAMPIRO](https://open.spotify.com/album/2vDG7La75UyjOy7jJ4UOU4) | 2:48 |
 | 157 | [BlaBlaBla](https://open.spotify.com/track/14XKk6Ly4Os7O3KKMLBnfP) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:34 |
 | 158 | [CHE MUTANDE HAI v9](https://open.spotify.com/track/4QWsUSBK8aL8nNwqtF9MWS) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:22 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 196 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 
-Snapshot ID: `AcfIMgAAAAAKbAJNC7KHZLy3o0B780to`
+Snapshot ID: `AcfN0gAAAACh6iSWFIBzsJgqNAec19aG`

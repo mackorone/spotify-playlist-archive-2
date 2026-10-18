@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 101906,
+  "num_followers": 101931,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACh2bviQ14ifLDxLJApS99+",
+  "snapshot_id": "atAXgAAAAABpD7eBP9tM8ziz0QMjN7OK",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 177949,
-      "name": "Sin Evidencias",
-      "url": "https://open.spotify.com/track/4xCdzDuxh7H8HaU3xgrm8r"
+      "duration_ms": 180208,
+      "name": "Simbolo Sexual",
+      "url": "https://open.spotify.com/track/3fYV6za0eCj6b692AnOgDA"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 180208,
-      "name": "Simbolo Sexual",
-      "url": "https://open.spotify.com/track/3fYV6za0eCj6b692AnOgDA"
+      "duration_ms": 177949,
+      "name": "Sin Evidencias",
+      "url": "https://open.spotify.com/track/4xCdzDuxh7H8HaU3xgrm8r"
     },
     {
       "added_at": null,
@@ -235,6 +235,26 @@
       "duration_ms": 199274,
       "name": "Y Tu",
       "url": "https://open.spotify.com/track/3YzK5ai82cZ7PewBtMul78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me dicen Ponchito - Remix",
+        "url": "https://open.spotify.com/album/2kAbVwqPcTiqS73qxn9X6a"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 240757,
+      "name": "Me dicen Ponchito - Remix",
+      "url": "https://open.spotify.com/track/0FEtE3YelodR3FECITImlk"
     },
     {
       "added_at": null,
@@ -295,26 +315,6 @@
       "duration_ms": 131392,
       "name": "EXOTIC\u00d3N ll",
       "url": "https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me dicen Ponchito - Remix",
-        "url": "https://open.spotify.com/album/2kAbVwqPcTiqS73qxn9X6a"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 240757,
-      "name": "Me dicen Ponchito - Remix",
-      "url": "https://open.spotify.com/track/0FEtE3YelodR3FECITImlk"
     },
     {
       "added_at": null,
@@ -467,42 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramo Buch\u00f3n",
-        "url": "https://open.spotify.com/album/2arbYfprda4X7sQCtvvHua"
-      },
-      "artists": [
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ramo Buch\u00f3n",
-      "url": "https://open.spotify.com/track/1FJDNq6RPx8TelKBmAe8RI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 164416,
-      "name": "El G\u00fcicho",
-      "url": "https://open.spotify.com/track/6kAV5MT0hKfm5m8xb7w0dO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -523,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 164416,
+      "name": "El G\u00fcicho",
+      "url": "https://open.spotify.com/track/6kAV5MT0hKfm5m8xb7w0dO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 121151,
       "name": "Que Sube Y Baja - En Vivo",
       "url": "https://open.spotify.com/track/1PJfPWmFB47tKhnvkrtwcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramo Buch\u00f3n",
+        "url": "https://open.spotify.com/album/2arbYfprda4X7sQCtvvHua"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ramo Buch\u00f3n",
+      "url": "https://open.spotify.com/track/1FJDNq6RPx8TelKBmAe8RI"
     },
     {
       "added_at": null,
@@ -566,31 +566,11 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 170546,
-      "name": "Agarrense De Los Pelos",
-      "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 179737,
-      "name": "Fue Un Error",
-      "url": "https://open.spotify.com/track/0z66YjcX6FD7XBP25h5e81"
+      "duration_ms": 187119,
+      "name": "Coordinando Gente",
+      "url": "https://open.spotify.com/track/3zXHraACnTEbNmtv6ncDeF"
     },
     {
       "added_at": null,
@@ -607,6 +587,22 @@
       "duration_ms": 178175,
       "name": "El Puente Roto - En Vivo",
       "url": "https://open.spotify.com/track/3MMi65sc2HfkcHwrWz9KPx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 179737,
+      "name": "Fue Un Error",
+      "url": "https://open.spotify.com/track/0z66YjcX6FD7XBP25h5e81"
     },
     {
       "added_at": null,
@@ -638,31 +634,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 187119,
-      "name": "Coordinando Gente",
-      "url": "https://open.spotify.com/track/3zXHraACnTEbNmtv6ncDeF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
-        "url": "https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr"
-      },
-      "artists": [
-        {
-          "name": "Arley Perez",
-          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
         },
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 225512,
-      "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
-      "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
+      "duration_ms": 170546,
+      "name": "Agarrense De Los Pelos",
+      "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
     },
     {
       "added_at": null,
@@ -715,6 +695,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
+        "url": "https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 225512,
+      "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
+      "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 118656,
+      "name": "El 50 - En Vivo",
+      "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 118656,
-      "name": "El 50 - En Vivo",
-      "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
     },
     {
       "added_at": null,

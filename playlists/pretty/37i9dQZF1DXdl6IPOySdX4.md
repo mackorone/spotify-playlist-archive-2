@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,222,969 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,223,222 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 91 | [DIET](https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DIET](https://open.spotify.com/album/2huGDWA6lBNEszl3AsYjhd) | 2:49 |
 | 92 | [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 |
 | 93 | [NSFW](https://open.spotify.com/track/5PkQJUjEmdoGdpYTbCv1QC) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [NSFW](https://open.spotify.com/album/1DxNF6nz0EbEtPYIpHnJm3) | 2:45 |
-| 94 | [Angel Eyes](https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [Angel Eyes](https://open.spotify.com/album/3K7zpVgBTbQMAGMFuKd8yx) | 2:44 |
-| 95 | [Let Me Love You](https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dangerous Woman](https://open.spotify.com/album/008gkJbe7n4eG8cifJOyKY) | 3:43 |
+| 94 | [Let Me Love You](https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dangerous Woman](https://open.spotify.com/album/008gkJbe7n4eG8cifJOyKY) | 3:43 |
+| 95 | [Angel Eyes](https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [Angel Eyes](https://open.spotify.com/album/3K7zpVgBTbQMAGMFuKd8yx) | 2:44 |
 | 96 | [Bad Ones](https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Bad Ones](https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng) | 2:45 |
 | 97 | [So Good](https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [So Good](https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU) | 2:47 |
 | 98 | [Sex with my Ex](https://open.spotify.com/track/36LKcafeByy2ybG5783w7e) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sex with my Ex](https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA) | 2:59 |

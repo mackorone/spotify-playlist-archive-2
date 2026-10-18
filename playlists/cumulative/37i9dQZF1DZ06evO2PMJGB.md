@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-121 songs - 6 hr 9 min
+122 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 | 2025-02-23 |  |
 | [Bêbada Favorita](https://open.spotify.com/track/2Kuf7IkhGSFLHVRNojyxV2) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:24 | 2024-06-14 | 2024-09-01 |
 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 | 2023-10-10 |  |
-| [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 | 2023-10-10 |  |
+| [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 | 2023-10-10 | 2026-10-18 |
 | [Calling Me](https://open.spotify.com/track/0y5E23MHzuHs4vkBC9p170) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:42 | 2025-11-09 | 2026-03-26 |
 | [Campo De Morango](https://open.spotify.com/track/2exu569k07hUulN9CoPnMH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 1:16 | 2023-11-10 |  |
 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 | 2023-10-10 | 2023-11-11 |
@@ -61,6 +61,7 @@
 | [Luísa Manequim](https://open.spotify.com/track/6bz8FVEWr58UGvj6BuG02Q) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:29 | 2023-10-10 | 2023-11-11 |
 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 | 2023-10-10 |  |
 | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz) | 9:39 | 2023-10-10 | 2023-12-14 |
+| [melhor sozinha :\-\)\-:](https://open.spotify.com/track/4quGxX3KhLaPARJ6TAJO5o) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/2SwNs2FYYcTxefM2oXPebp) | 3:46 | 2026-10-18 |  |
 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 | 2023-10-10 | 2025-11-21 |
 | [Memórias \- Ao Vivo](https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Virado No Pagode \(Ao Vivo\)](https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE) | 3:00 | 2024-04-08 |  |
 | [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-15 | 2025-11-02 |

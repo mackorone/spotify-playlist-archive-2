@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 37 | [pause](https://open.spotify.com/track/4mJoDnHlIwjTY1Yjz5dSSC) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/2yeqQbB1Iy80xXKDNzZ0o7) | 2:37 |
 | 38 | [Bored](https://open.spotify.com/track/4Dh90SQzKOotf1bDD3TMxS) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Bored](https://open.spotify.com/album/2hkbvDGl0ac4XjXTebdRoR) | 2:56 |
 | 39 | [Stop Me Dead](https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Stop Me Dead](https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF) | 2:31 |
-| 40 | [Your Eyes](https://open.spotify.com/track/35p4WrkkBUHwkiWQK1agEQ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:01 |
-| 41 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
-| 42 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 |
-| 43 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 40 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 41 | [Your Eyes](https://open.spotify.com/track/35p4WrkkBUHwkiWQK1agEQ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:01 |
+| 42 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
+| 43 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 |
 | 44 | [MAESTRO](https://open.spotify.com/track/6waMyYYhkiFHg0hPd2luQo) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [FLOW](https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2) | 2:57 |
 | 45 | [Tragic, Really](https://open.spotify.com/track/5SgJNSTHLNGozF7ZyfuSYB) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Tragic, Really](https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq) | 2:34 |
 | 46 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 74 | [It’s Cian B\*tch](https://open.spotify.com/track/1Ecw5MvtLLOGq8d7UBzBo9) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 1:11 |
 | 75 | [Freak](https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Freak](https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP) | 3:01 |
 | 76 | [Love Like Us](https://open.spotify.com/track/4PUWuwvbqSKFvTZ5O0pqhF) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Love Like Us](https://open.spotify.com/album/0hDq3gHJMQgfMW8vg8RttR) | 2:58 |
-| 77 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 |
-| 78 | [Get Me High](https://open.spotify.com/track/2nLmaxn0gzNAg777MbrDhN) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 3:25 |
+| 77 | [Get Me High](https://open.spotify.com/track/2nLmaxn0gzNAg777MbrDhN) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 3:25 |
+| 78 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 |
 | 79 | [Afternoon Song](https://open.spotify.com/track/5l8NOrAi6aywtuZZFiec3r) | [HAMISH](https://open.spotify.com/artist/0vZ9bgfKD1AXIsJCIzqKsq) | [Afternoon Song](https://open.spotify.com/album/7v6lU4UWokW2qDnlZI6iTm) | 3:16 |
 | 80 | [Ordinary Love](https://open.spotify.com/track/2E5dMEYWxm3gY39vvAyOY6) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:40 |
 | 81 | [Breakfast Over Bae](https://open.spotify.com/track/6y8JwscZfUoEFBhoTLX7Ie) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:35 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 96 | [Fairytales Are Nightmares](https://open.spotify.com/track/4osk5RIQHGsm4aMkvfsy9l) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/59j6XNKxuJUs7Lpw8eCEad) | 2:31 |
 | 97 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AcfIKAAAAACFeZXYUAH7ZyWMNcnIb2UZ`
+Snapshot ID: `AcfNyAAAAABw9smLFWdRcIUnlDVbpARP`

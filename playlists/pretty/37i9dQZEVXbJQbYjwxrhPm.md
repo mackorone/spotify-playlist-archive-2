@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,959 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,960 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Времето лекува](https://open.spotify.com/track/4kuW4hHAIl9tn8LuFQbAoz) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Времето лекува](https://open.spotify.com/album/4VtU0bvfeiySYWyZIsKiG0) | 3:37 |
 | 50 | [Iskam ot teb](https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae) | [Djulia](https://open.spotify.com/artist/6KsiFFe8CENPP9DN3SRouY) | [Tochka za men](https://open.spotify.com/album/7DB2xbWZn9cQC6w3tmD4vP) | 2:54 |
 
-Snapshot ID: `MmWX0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MmbpUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

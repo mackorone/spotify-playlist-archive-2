@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 
 > This is Luther Vandross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,896 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,909 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 44 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:47 |
 | 45 | [For You to Love](https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 5:37 |
 | 46 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
-| 47 | [It's All About You](https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 5:27 |
+| 47 | [Creepin'](https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 4:05 |
 | 48 | [Forever, for Always, for Love](https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:23 |
-| 49 | [Creepin'](https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 4:05 |
+| 49 | [It's All About You](https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 5:27 |
 | 50 | [When I Need You](https://open.spotify.com/track/1iDxh5WR2otHnPFRoipGk8) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 6:47 |
 
-Snapshot ID: `as7GAAAAAABSsHtNhStTit9DPXip55yy`
+Snapshot ID: `atFpAAAAAACaXsFiv0KAHNUlMS8HWKzK`

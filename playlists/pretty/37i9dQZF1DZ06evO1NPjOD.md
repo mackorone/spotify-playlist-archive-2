@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,130 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,133 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 20 | [Rodeo](https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:57 |
 | 21 | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa) | 4:15 |
 | 22 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/40XYe9tVw4oOSVJZkfDN5T) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 3:34 |
-| 23 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 |
+| 23 | [Caramel \(feat\. City Girls\)](https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Caramel \(feat\. City Girls\)](https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM) | 3:52 |
 | 24 | [Double CC's](https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:11 |
-| 25 | [Caramel \(feat\. City Girls\)](https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Caramel \(feat\. City Girls\)](https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM) | 3:52 |
+| 25 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 |
 | 26 | [Where The Bag At](https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 3:20 |
 | 27 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
 | 28 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Static \(feat\. Lil Durk\)](https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:47 |
 | 50 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
 
-Snapshot ID: `as7GAAAAAAB9o8t6iK7TiXYp/1TI15q8`
+Snapshot ID: `atFpAAAAAADJGBxFUof02v/A+2+Ts/Jk`

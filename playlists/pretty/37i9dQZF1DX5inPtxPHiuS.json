@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Kidchen",
-  "num_followers": 91767,
+  "num_followers": 91765,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Sencillo, para mentes complicadas",
-        "url": "https://open.spotify.com/album/3hpEYw3DvnOLVjITr7EG0H"
+        "name": "Balas De Beb\u00e9 (Y Otras Canciones De Cuna)",
+        "url": "https://open.spotify.com/album/2BWUhwSn6GXNjCfKdMF9cK"
       },
       "artists": [
         {
-          "name": "Arbol De Ojos",
-          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
         }
       ],
-      "duration_ms": 227244,
-      "name": "Sencillo, para mentes complicadas",
-      "url": "https://open.spotify.com/track/0lzt4EY7s401pnx3O5ND4c"
+      "duration_ms": 236923,
+      "name": "Si Te Busco",
+      "url": "https://open.spotify.com/track/4OfWUGEFIOKGrHVaN4SzAh"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Balas De Beb\u00e9 (Y Otras Canciones De Cuna)",
-        "url": "https://open.spotify.com/album/2BWUhwSn6GXNjCfKdMF9cK"
+        "name": "Sencillo, para mentes complicadas",
+        "url": "https://open.spotify.com/album/3hpEYw3DvnOLVjITr7EG0H"
       },
       "artists": [
         {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
+          "name": "Arbol De Ojos",
+          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
         }
       ],
-      "duration_ms": 236923,
-      "name": "Si Te Busco",
-      "url": "https://open.spotify.com/track/4OfWUGEFIOKGrHVaN4SzAh"
+      "duration_ms": 227244,
+      "name": "Sencillo, para mentes complicadas",
+      "url": "https://open.spotify.com/track/0lzt4EY7s401pnx3O5ND4c"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Mi Mal Y Mi Bien",
-        "url": "https://open.spotify.com/album/38MO92AEgN89ORci9FYeS2"
-      },
-      "artists": [
-        {
-          "name": "The Hall Effect",
-          "url": "https://open.spotify.com/artist/0HHtlGzwCgymgLzZZisV9e"
-        }
-      ],
-      "duration_ms": 250371,
-      "name": "Mi Mal Y Mi Bien",
-      "url": "https://open.spotify.com/track/52OUKtvQoMi6Ih8W7oF4rc"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "No Hay Tiempo Que Perder",
         "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 177711,
       "name": "\u00bfQu\u00e9 se yo?",
       "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Mi Mal Y Mi Bien",
+        "url": "https://open.spotify.com/album/38MO92AEgN89ORci9FYeS2"
+      },
+      "artists": [
+        {
+          "name": "The Hall Effect",
+          "url": "https://open.spotify.com/artist/0HHtlGzwCgymgLzZZisV9e"
+        }
+      ],
+      "duration_ms": 250371,
+      "name": "Mi Mal Y Mi Bien",
+      "url": "https://open.spotify.com/track/52OUKtvQoMi6Ih8W7oF4rc"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Todo Se Olvida",
-        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
+        "name": "Los Kitsch de Colombia Presentan: 1/3",
+        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
       },
       "artists": [
         {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+          "name": "The Kitsch",
+          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
         }
       ],
-      "duration_ms": 272999,
-      "name": "Todo Se Olvida",
-      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
+      "duration_ms": 155000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Los Kitsch de Colombia Presentan: 1/3",
-        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
+        "name": "Todo Se Olvida",
+        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
       "artists": [
         {
-          "name": "The Kitsch",
-          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
         }
       ],
-      "duration_ms": 155000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
+      "duration_ms": 272999,
+      "name": "Todo Se Olvida",
+      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
     },
     {
       "added_at": "2026-10-16 05:01:29",

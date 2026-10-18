@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Archie",
-  "num_followers": 56186,
+  "num_followers": 56192,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 242970,
+      "name": "Dire\u00e7\u00e3o Paris",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+    },
+    {
+      "added_at": "2026-10-15 23:00:24",
+      "album": {
         "name": "IT WILL HURT BOTH WAYS",
         "url": "https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 187869,
       "name": "Even",
       "url": "https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55"
-    },
-    {
-      "added_at": "2026-10-15 23:00:24",
-      "album": {
-        "name": "O Pr\u00f3prio",
-        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 242970,
-      "name": "Dire\u00e7\u00e3o Paris",
-      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2026-10-15 23:00:24",
+      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/76YoWFZEncJeVpaVZ6FVmE"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 177586,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2tISXxwodSLlthdraiuHxW"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -455,22 +471,6 @@
       "duration_ms": 169230,
       "name": "Amor de Agosto",
       "url": "https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M"
-    },
-    {
-      "added_at": "2026-10-15 23:00:24",
-      "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/76YoWFZEncJeVpaVZ6FVmE"
-      },
-      "artists": [
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/2tISXxwodSLlthdraiuHxW"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -895,30 +895,6 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "FIM DO NADA DELUXE",
-        "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        },
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
-      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
-    },
-    {
-      "added_at": "2026-10-15 23:00:24",
-      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 222315,
       "name": "SUPER",
       "url": "https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV"
+    },
+    {
+      "added_at": "2026-10-15 23:00:24",
+      "album": {
+        "name": "FIM DO NADA DELUXE",
+        "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
+      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
+    },
+    {
+      "added_at": "2026-10-15 23:00:24",
+      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
-    },
-    {
-      "added_at": "2026-10-15 23:00:24",
-      "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "Lego",
-        "url": "https://open.spotify.com/album/30tAYQGkJcl3bRrUQIoenk"
+        "name": "Flexin On U",
+        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
       },
       "artists": [
         {
           "name": "X-Tense",
           "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Tatiana Duarte",
+          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
         }
       ],
-      "duration_ms": 178411,
-      "name": "Lego",
-      "url": "https://open.spotify.com/track/2Mg48cMZMxfyW4KahrjPek"
+      "duration_ms": 271500,
+      "name": "Flexin On U",
+      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
     },
     {
       "added_at": "2026-10-15 23:00:24",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Live From Sound City",
+        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269533,
+      "name": "'Til the End - Acoustic",
+      "url": "https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm"
+    },
+    {
+      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 270213,
       "name": "Perfectly Lonely",
       "url": "https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs"

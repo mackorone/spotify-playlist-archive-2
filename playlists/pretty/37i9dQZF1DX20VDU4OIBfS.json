@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3007140,
+  "num_followers": 3007046,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "1 + 1 = 2 Enamorados",
-        "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 205909,
-      "name": "1+1=2 Enamorados",
-      "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "El Angel Del Rock Vol. 2",
         "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 254826,
       "name": "Sue\u00f1os Compartidos",
       "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "1 + 1 = 2 Enamorados",
+        "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 205909,
+      "name": "1+1=2 Enamorados",
+      "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Orgullosa Nena",
+      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Selecao De Ouro Vol.2",
         "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 218720,
       "name": "Tu Mu\u00f1eca",
       "url": "https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Orgullosa Nena",
-      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Tiempo De Vals",
         "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 247933,
       "name": "Tiempo De Vals",
       "url": "https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 263320,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 130066,
       "name": "Amor de Estudiante",
       "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 263320,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Digan lo que digan",
+      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Digan lo que digan",
-      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Exitos Con Trio",
-        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "Sombras - Versi\u00f3n Tr\u00edo",
-      "url": "https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Heridas",
         "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 213680,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Exitos Con Trio",
+        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 207146,
+      "name": "Sombras - Versi\u00f3n Tr\u00edo",
+      "url": "https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Esencial Miguel Bose",
-        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5BTyfTMJWLnauuI0jxOE8I"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 234546,
       "name": "Amandote",
       "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Esencial Miguel Bose",
+        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 292080,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5BTyfTMJWLnauuI0jxOE8I"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Las Ma\u00f1anitas con Pedro Infante",
-        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Esencial Miguel Bose",
         "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 210706,
       "name": "Te Amar\u00e9",
       "url": "https://open.spotify.com/track/1GE253J05v6oCUmuav7zq2"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Las Ma\u00f1anitas con Pedro Infante",
+        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2159,38 +2159,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
-      },
-      "artists": [
-        {
-          "name": "Polo",
-          "url": "https://open.spotify.com/artist/6uVofP20iSu79YzFaBVXkj"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "El \u00faltimo beso - The Last Kiss",
-      "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Coleccion Original: Rocio Jurado",
-        "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Jurado",
-          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
-        }
-      ],
-      "duration_ms": 256093,
-      "name": "Como una Ola",
-      "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Amar A Muerte",
         "url": "https://open.spotify.com/album/10e1egk25WgesgUH8hFZCn"
       },
@@ -2207,6 +2175,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
+      },
+      "artists": [
+        {
+          "name": "Polo",
+          "url": "https://open.spotify.com/artist/6uVofP20iSu79YzFaBVXkj"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "El \u00faltimo beso - The Last Kiss",
+      "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Esencial Miguel Bose",
         "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 248800,
       "name": "Morir de Amor",
       "url": "https://open.spotify.com/track/2gnqQL64mbsTnrxYXjjCsK"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Coleccion Original: Rocio Jurado",
+        "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Jurado",
+          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
+        }
+      ],
+      "duration_ms": 256093,
+      "name": "Como una Ola",
+      "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
     },
     {
       "added_at": "2026-07-28 20:14:40",

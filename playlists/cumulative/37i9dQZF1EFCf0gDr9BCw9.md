@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-290 songs - 21 hr 18 min
+292 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Lonely Co\-Ed](https://open.spotify.com/track/2VERuOjNs50QNeXrbGNeu3) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ivie And Duke Vol 2](https://open.spotify.com/album/5OKLbINAcZkdjibWW9d6CN) | 3:15 | 2026-08-18 |  |
 | [A Lonely CoEd](https://open.spotify.com/track/05D9j2TH4OAXUkgEJwGBz4) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 3:18 | 2022-09-08 | 2025-01-30 |
 | [A Midnight In Paris](https://open.spotify.com/track/45paxmJz3gh8UVgARIx9ES) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:36 | 2026-07-09 |  |
+| [A Penthouse on Shady Avenue](https://open.spotify.com/track/54hzFh2mERvdl6pawl23Z3) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Something To Live For: The Music of Billy Strayhorn](https://open.spotify.com/album/49zze2JVgBNviHLK21YYON) | 3:18 | 2026-10-17 |  |
 | [A Train](https://open.spotify.com/track/5eXSfxJEQ97wabK59E4Q8V) | [The Bob Florence Limited Edition](https://open.spotify.com/artist/1j9ZcAj2ccKF0T05WIOtSZ) | [Legendary](https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3) | 9:06 | 2022-09-08 |  |
 | [Absinthe](https://open.spotify.com/track/7eB4SpTgVxvZWuIeyixPR0) | [Duke Ellington And His Orchestra](https://open.spotify.com/artist/2uRZKi0u39J5Ip0fMcSMVm) | [Afro Bossa](https://open.spotify.com/album/7M9vNpxkRVlKyV1gk9tbNB) | 3:36 | 2026-04-15 | 2026-08-19 |
 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 | 2022-09-08 |  |
@@ -86,6 +87,7 @@
 | [Duke Ellington Medley \- Live](https://open.spotify.com/track/0SrJrHWV3abLD4h7KUONN2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Classic Concert Live](https://open.spotify.com/album/0aGbP1QfJ6beGHdSLPyVXU) | 5:24 | 2022-09-08 |  |
 | [Elysee](https://open.spotify.com/track/33lviUYxL1teikwgjjBtkM) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 4: Studio Sessions New York 1963](https://open.spotify.com/album/5pyw7AuWKPPAZ4Y4OU4SZM) | 2:25 | 2023-12-13 |  |
 | [Elysee](https://open.spotify.com/track/05Phfs2CroaIG0SBzv7tCU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection](https://open.spotify.com/album/66Oost5ckDJDeVddVnAmcR) | 2:26 | 2022-09-08 | 2023-12-14 |
+| [Everything Is Copasetic!](https://open.spotify.com/track/1vBZMsO8qtYXWo61MBf5Md) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Something To Live For: The Music of Billy Strayhorn](https://open.spotify.com/album/49zze2JVgBNviHLK21YYON) | 2:08 | 2026-10-17 |  |
 | [Fantastic Rhythm](https://open.spotify.com/track/2XJwPVsQ7iDLDopNIbhtUs) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Mellomjul jazz 2022](https://open.spotify.com/album/7iSNn22fdETlTFyC5ikyAv) | 2:35 | 2022-11-19 | 2022-11-21 |
 | [Fantastic Rhythm](https://open.spotify.com/track/7ANqRzBkL37YYzqrvO18Tg) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 | 2022-09-08 |  |
 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 | 2022-09-08 |  |

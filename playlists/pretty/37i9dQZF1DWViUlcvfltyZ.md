@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🥁 GIIN in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,238 likes - 102 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,230 likes - 102 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 17 | [Crepe](https://open.spotify.com/track/7kTcHcXqckJdca3WTFXL6o) | [fallimento](https://open.spotify.com/artist/0VCQDpOfWR5bFdBQXb7Mq0) | [Da Non Ascoltare](https://open.spotify.com/album/4pmP6f4thsy6CICKZ3pJWe) | 3:29 |
 | 18 | [Freccia Rossa](https://open.spotify.com/track/4H6CGn4vlCTitULeFQX2Oo) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [La distanza tra noi e la riva](https://open.spotify.com/album/6lABr1q9xWtpu2it0p8uOi) | 4:16 |
 | 19 | [Vieni Qua](https://open.spotify.com/track/2Q08k3Leo7uGGyB6Os6FP6) | [Perturbazione](https://open.spotify.com/artist/6oHCbM8jtvJRe0BjKQ90mD) | [Risuona](https://open.spotify.com/album/1x7Ky3tcZfL6FRXgJRbhTV) | 3:14 |
-| 20 | [Spiccio](https://open.spotify.com/track/6Ddots1x5MAnnXvXq7eCJG) | [JAGWARY](https://open.spotify.com/artist/3K7eAZzJUhIqUnHgTX7GWE) | [Spiccio](https://open.spotify.com/album/0avDO89zOkDhiwpHWxSfAT) | 1:57 |
+| 20 | [Spiccio](https://open.spotify.com/track/6Ddots1x5MAnnXvXq7eCJG) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [Spiccio](https://open.spotify.com/album/0avDO89zOkDhiwpHWxSfAT) | 1:57 |
 | 21 | [Velvet](https://open.spotify.com/track/75UrfwJf31x1WCvKWp8BCl) | [Red Red Flamingo](https://open.spotify.com/artist/6Nbnh67N5I2KBkztEFMXnH) | [TESTAROSSA](https://open.spotify.com/album/7d1ELqyo1Rv6VYL19VdN2V) | 3:15 |
 | 22 | [Fusa!](https://open.spotify.com/track/3FkSXQmbiIJm5v7PLYjZto) | [La Rivoluzione Industriale e le sue Conseguenze](https://open.spotify.com/artist/1oEMqcj6YTvRlRzV6Szyyl) | [Fusa!](https://open.spotify.com/album/3X1VlFymTmiPxXht3Jcuwy) | 3:09 |
 | 23 | [Saxophonist](https://open.spotify.com/track/1FgO639eftNc6r2LYVGQzv) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [Stelle aggressive si addormentano come cani in tempesta](https://open.spotify.com/album/5oIJiKTNJNyBRbRfAU07IL) | 3:04 |

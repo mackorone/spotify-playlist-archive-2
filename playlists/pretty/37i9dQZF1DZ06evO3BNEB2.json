@@ -1,13 +1,33 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41250,
+  "num_followers": 41257,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAWiIV/hiW94jFD4Olz/Fey",
+  "snapshot_id": "atFpAAAAAABCYewMs87jQAgLMu7WpWb6",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gifted",
+        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Bad (feat. Rihanna) - Remix",
+      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 263773,
       "name": "No Hands (feat. Roscoe Dash & Wale)",
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gifted",
-        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Bad (feat. Rihanna) - Remix",
-      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
     },
     {
       "added_at": null,
@@ -487,42 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Chops",
-        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 213954,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambition",
         "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
       },
@@ -543,6 +507,42 @@
       "duration_ms": 269266,
       "name": "That Way (feat. Jeremih & Rick Ross)",
       "url": "https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 188205,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Chops",
+        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 188205,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
+      "duration_ms": 213954,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constellations",
-        "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "Red Lights (feat. Wale)",
-      "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 208000,
       "name": "Angles (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "Red Lights (feat. Wale)",
+      "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "MY PYT",
+      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
         "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 247293,
       "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
       "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "MY PYT",
-      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 286900,
-      "name": "You Got It (feat. Wale)",
-      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Attention Deficit (Explicit Version)",
         "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 304613,
       "name": "Beautiful Bliss",
       "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 286900,
+      "name": "You Got It (feat. Wale)",
+      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 222068,
-      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
+      "duration_ms": 204533,
+      "name": "Chillin",
+      "url": "https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W"
     }
   ],
   "unique_name": "This Is Wale",

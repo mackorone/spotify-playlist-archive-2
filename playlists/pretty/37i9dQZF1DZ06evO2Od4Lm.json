@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 134819,
+  "num_followers": 134833,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABAFD4afNOneWrCumnc4zDY",
+  "snapshot_id": "atAXgAAAAAB6vP8AteEzsD0Gqr6DmygP",
   "tracks": [
     {
       "added_at": null,
@@ -611,70 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carrie & Lowell (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 400661,
-      "name": "Wallowa Lake Monster - Version 2",
-      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Delighted People",
-        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Enchanting Ghost",
-      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Genuflecting Ghost",
-      "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
       },
@@ -715,6 +651,70 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Genuflecting Ghost",
+      "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 400661,
+      "name": "Wallowa Lake Monster - Version 2",
+      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Delighted People",
+        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Enchanting Ghost",
+      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
     },
     {
       "added_at": null,

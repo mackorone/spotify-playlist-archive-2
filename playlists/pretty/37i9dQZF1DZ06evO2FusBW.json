@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11265,
+  "num_followers": 11264,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAwBF+ZXyA3h/V3AB1PkYiH",
+  "snapshot_id": "atFpAAAAAABaucjd2Vuagtl80/3tJiG2",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
+      "duration_ms": 170346,
+      "name": "La Vernatelle",
+      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 170346,
-      "name": "La Vernatelle",
-      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 333",
-        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 298468,
-      "name": "Twilight Meditation",
-      "url": "https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL"
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+        "name": "Meditation 333",
+        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+      "duration_ms": 298468,
+      "name": "Twilight Meditation",
+      "url": "https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 262506,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46"
+      "duration_ms": 154000,
+      "name": "Tree of Light - A Call to Arms",
+      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Tree of Light - A Call to Arms",
-      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
+      "duration_ms": 262506,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 278750,
-      "name": "NATURE VIBRATION",
-      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Love",
         "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 231773,
       "name": "Age of Aquarius",
       "url": "https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "NATURE VIBRATION",
+      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
       "duration_ms": 287906,
       "name": "Piano 17",
       "url": "https://open.spotify.com/track/6n6P2a9Vf1hEmYmyFHnGg3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Thrive",
+      "url": "https://open.spotify.com/track/5920pJnL6yYMWQYLUWMgpm"
     }
   ],
   "unique_name": "This Is RIOPY",

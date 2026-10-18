@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-72 songs - 3 hr 46 min
+73 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Jouw Geluk \(Vivo Por Ti\)](https://open.spotify.com/track/2W6227oegq7pAkYGucvziS) | [Déon Leon](https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj) | [Jouw Geluk \(Vivo Por Ti\)](https://open.spotify.com/album/5DYeSUrMJ1s0VaIFjmeAyy) | 3:10 | 2022-06-04 | 2026-10-07 |
 | [LA City Limits \(feat\. Emy Perez\)](https://open.spotify.com/track/6aCBL4rBMo9XqmzXgy0jCR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [LA City Limits \(feat\. Emy Perez\)](https://open.spotify.com/album/3Y1UR0IxI6PhZa8moiv5TC) | 2:40 | 2022-06-04 |  |
 | [La Noche](https://open.spotify.com/track/2MurtNOTSzfR3UDmiM6qKu) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/0O5np1Eu0H7DphgWg33g8N) | 3:06 | 2022-06-04 | 2025-02-15 |
-| [La Noche](https://open.spotify.com/track/4WFedIr1hQDtqAkiqob97B) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/34AGdenzYowMsdzFaFu1wZ) | 3:06 | 2025-02-14 |  |
+| [La Noche](https://open.spotify.com/track/3qJ85D29PtLmT2IwFbbYVO) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/3OxJHpJekBMvylxqn8pE4l) | 3:06 | 2026-10-17 |  |
+| [La Noche](https://open.spotify.com/track/4WFedIr1hQDtqAkiqob97B) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/34AGdenzYowMsdzFaFu1wZ) | 3:06 | 2025-02-14 | 2026-10-18 |
 | [Laat Maar Van Je Houden](https://open.spotify.com/track/2bt1VOjF1jAgVj5UbTJpvR) | [Déon Leon](https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj) | [Laat Maar Van Je Houden](https://open.spotify.com/album/2wLv8ycuJ67wkFXFAVoWFm) | 2:56 | 2022-06-04 | 2026-10-07 |
 | [Loco](https://open.spotify.com/track/4djkKXYJu5FuNMwCJdGzYl) | [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Loco](https://open.spotify.com/album/2hHwH5zwnxIEVrRAczECMl) | 2:26 | 2022-06-04 |  |
 | [Loquita](https://open.spotify.com/track/5uuNPORdHV6PYNclkvNGaA) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Loquita](https://open.spotify.com/album/3TWxVMXRwH9EuH3MjhVNJa) | 2:50 | 2022-06-04 |  |

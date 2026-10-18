@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 65 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 65 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 51 | [Celebration Weight](https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:08 |
 | 52 | [radar](https://open.spotify.com/track/6V7ITByqDVsW7LUI2xf6pu) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [radar](https://open.spotify.com/album/4ephbTdUL4J4na51zhS8ns) | 3:09 |
 | 53 | [Waterfall](https://open.spotify.com/track/2aInc7CdIKt4AWlArGipGM) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Therapy](https://open.spotify.com/album/4Kst3KEL3qb5loPXVBQzqA) | 2:55 |
-| 54 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 |
-| 55 | [White](https://open.spotify.com/track/1kVBKVPXEJKNgnfvO52BKb) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [White](https://open.spotify.com/album/6HflvcsTk8MGHctD3OwGdW) | 2:29 |
+| 54 | [White](https://open.spotify.com/track/1kVBKVPXEJKNgnfvO52BKb) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [White](https://open.spotify.com/album/6HflvcsTk8MGHctD3OwGdW) | 2:29 |
+| 55 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 |
 | 56 | [The End](https://open.spotify.com/track/64FhJfZJRhxdous0h5ycG4) | [Indi Star](https://open.spotify.com/artist/4SVyJmNEqIM2LEOpQeI1N8) | [eMotion Sick](https://open.spotify.com/album/2egqfVCmY9hC2zOMJipEXr) | 2:12 |
 | 57 | [Applause](https://open.spotify.com/track/4r6XgerXxg41GLq2cvGD6N) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Applause](https://open.spotify.com/album/7mYlLHYVsgjlrAlozK7cwu) | 1:52 |
 | 58 | [SHARK baiT](https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Tommy Parker](https://open.spotify.com/artist/1GSmDgjAARIKP0x1m4De6J) | [SHARK baiT](https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX) | 2:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 64 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 65 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AcfIMgAAAABqYPKM3vqTJnYJe1wU49l0`
+Snapshot ID: `AcfN0gAAAAA+SzI73D1nQGPgQZ3TF570`

@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Koyo",
-  "num_followers": 86834,
+  "num_followers": 86860,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Afraid To Die",
-        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+        "name": "End Eric Sparrow and the Life of Him",
+        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 182216,
-      "name": "Afraid To Die",
-      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+      "duration_ms": 169000,
+      "name": "End Eric Sparrow and the Life of Him",
+      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -223,18 +223,18 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "End Eric Sparrow and the Life of Him",
-        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 169000,
-      "name": "End Eric Sparrow and the Life of Him",
-      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Prototheme",
         "url": "https://open.spotify.com/album/19PUMO1CapZOaG5ubLXxj7"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 137600,
       "name": "Prototheme",
       "url": "https://open.spotify.com/track/4AjHQ8r44uVsIHvsZ8G3jV"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Feeling Not Found",
-        "url": "https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 200292,
-      "name": "Where Blue Light Blooms",
-      "url": "https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "And a Big Load",
         "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 173791,
       "name": "And a Big Load",
       "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Feeling Not Found",
+        "url": "https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 200292,
+      "name": "Where Blue Light Blooms",
+      "url": "https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "I Just Kept On Forgetting",
-        "url": "https://open.spotify.com/album/0ciqBm0Emp0XdOCagR0ax6"
-      },
-      "artists": [
-        {
-          "name": "Dear Maryanne",
-          "url": "https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8"
-        }
-      ],
-      "duration_ms": 150916,
-      "name": "No One is Gonna Love You",
-      "url": "https://open.spotify.com/track/1s9gkaK7yVGhXznpDQf2Xi"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "the CIA",
         "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Trying Not to Have a Thought",
-        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+        "name": "I Just Kept On Forgetting",
+        "url": "https://open.spotify.com/album/0ciqBm0Emp0XdOCagR0ax6"
       },
       "artists": [
         {
-          "name": "Algernon Cadwallader",
-          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+          "name": "Dear Maryanne",
+          "url": "https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8"
         }
       ],
-      "duration_ms": 249304,
-      "name": "noitanitsarcorP",
-      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
+      "duration_ms": 150916,
+      "name": "No One is Gonna Love You",
+      "url": "https://open.spotify.com/track/1s9gkaK7yVGhXznpDQf2Xi"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1043,6 +1027,22 @@
       "duration_ms": 153087,
       "name": "espresso lemonade",
       "url": "https://open.spotify.com/track/0oyIQwGA643nX5gM934FtV"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "This Is Teamwork!",
-        "url": "https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E"
-      },
-      "artists": [
-        {
-          "name": "Aren't We Amphibians",
-          "url": "https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy"
-        }
-      ],
-      "duration_ms": 204815,
-      "name": "This Is Teamwork!",
-      "url": "https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "When I Come East",
         "url": "https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 171000,
       "name": "When I Come East",
       "url": "https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "This Is Teamwork!",
+        "url": "https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E"
+      },
+      "artists": [
+        {
+          "name": "Aren't We Amphibians",
+          "url": "https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy"
+        }
+      ],
+      "duration_ms": 204815,
+      "name": "This Is Teamwork!",
+      "url": "https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1452,7 +1452,7 @@
       },
       "artists": [
         {
-          "name": "Footballhead",
+          "name": "footballheadv",
           "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
         }
       ],
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Oolong",
-        "url": "https://open.spotify.com/album/09FrmnTKU7jcO8bD5NMt1r"
-      },
-      "artists": [
-        {
-          "name": "Oolong",
-          "url": "https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Tofurkey Tough",
-      "url": "https://open.spotify.com/track/3euvyTQL3FzbvL1MRJ2Y0M"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "kissinginacarcrash",
         "url": "https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 189613,
       "name": "kissinginacarcrash",
       "url": "https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Oolong",
+        "url": "https://open.spotify.com/album/09FrmnTKU7jcO8bD5NMt1r"
+      },
+      "artists": [
+        {
+          "name": "Oolong",
+          "url": "https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Tofurkey Tough",
+      "url": "https://open.spotify.com/track/3euvyTQL3FzbvL1MRJ2Y0M"
     },
     {
       "added_at": "2026-03-13 17:53:46",

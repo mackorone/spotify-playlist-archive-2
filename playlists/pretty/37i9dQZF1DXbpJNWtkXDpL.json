@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93987,
+  "num_followers": 93985,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,26 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
+        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
+      },
+      "artists": [
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        },
+        {
+          "name": "Emiliano Athie",
+          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "14 plegarias /x\\",
+      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "sobrio",
         "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
       },
@@ -935,22 +955,6 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "ETHEREA",
-        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 224416,
-      "name": "Encu\u00e9ntrame en Tokio",
-      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
         "name": "Miop\u00eda",
         "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
       },
@@ -971,6 +975,22 @@
       "duration_ms": 212250,
       "name": "Miop\u00eda",
       "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1027,26 +1047,6 @@
       "duration_ms": 196629,
       "name": "Ping\u00fcinos",
       "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
-        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
-      },
-      "artists": [
-        {
-          "name": "El Verumcito",
-          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
-        },
-        {
-          "name": "Emiliano Athie",
-          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "14 plegarias /x\\",
-      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "Bexos",
-        "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
-      },
-      "artists": [
-        {
-          "name": "Ezzlaer",
-          "url": "https://open.spotify.com/artist/71M8VO0bmKsiQHcO8VFr83"
-        },
-        {
-          "name": "Loveudani",
-          "url": "https://open.spotify.com/artist/5x3BsMh9dAVENBP83VKVW9"
-        },
-        {
-          "name": "CELTAA",
-          "url": "https://open.spotify.com/artist/1V5J3XP9OqwdwhPLFoHJW9"
-        }
-      ],
-      "duration_ms": 160661,
-      "name": "Bexos",
-      "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
         "name": "En el sur//Flakita (REMIX)",
         "url": "https://open.spotify.com/album/77xAgVySzn76nQ2fNNYLac"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 186639,
       "name": "En el sur - REMIX",
       "url": "https://open.spotify.com/track/7h31UFRcfMvKgBKIWDWVFg"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
+        "name": "Bexos",
+        "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
+      },
+      "artists": [
+        {
+          "name": "Ezzlaer",
+          "url": "https://open.spotify.com/artist/71M8VO0bmKsiQHcO8VFr83"
+        },
+        {
+          "name": "Loveudani",
+          "url": "https://open.spotify.com/artist/5x3BsMh9dAVENBP83VKVW9"
+        },
+        {
+          "name": "CELTAA",
+          "url": "https://open.spotify.com/artist/1V5J3XP9OqwdwhPLFoHJW9"
+        }
+      ],
+      "duration_ms": 160661,
+      "name": "Bexos",
+      "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
     },
     {
       "added_at": "2026-10-16 06:00:29",

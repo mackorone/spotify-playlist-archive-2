@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1239,
+  "num_followers": 1241,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAF2OBak3EYPP/M6mPZC/6DxjYNTrxG",
+  "snapshot_id": "AAAF2XS4DiofbE5W7HoTnBalk6/0qvjN",
   "tracks": [
     {
       "added_at": "2026-10-11 04:36:26",
@@ -91,6 +91,22 @@
       "duration_ms": 310375,
       "name": "excalibur",
       "url": "https://open.spotify.com/track/6maoOHcCkq2xkjfYmIQ7PD"
+    },
+    {
+      "added_at": "2026-10-17 17:52:21",
+      "album": {
+        "name": "Life at the Cemetery",
+        "url": "https://open.spotify.com/album/4qPJRC5h3rEzkyHp117Ljh"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Life at the Cemetery",
+      "url": "https://open.spotify.com/track/6ObwlDeZ55HUfptbjflreb"
     },
     {
       "added_at": "2026-10-15 17:20:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,529 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,543 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 10 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 11 | [ceiling fan](https://open.spotify.com/track/1aT6EBdtCy8VY0WsZLxWbS) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 1:32 |
 | 12 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
-| 13 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
-| 14 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
-| 15 | [heartbeat](https://open.spotify.com/track/7LmCQaJpg5o76eF27GbGIe) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:03 |
-| 16 | [nobody](https://open.spotify.com/track/0IEJyXHC9aykHdpp6yPEEN) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
+| 13 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
+| 14 | [heartbeat](https://open.spotify.com/track/7LmCQaJpg5o76eF27GbGIe) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:03 |
+| 15 | [nobody](https://open.spotify.com/track/0IEJyXHC9aykHdpp6yPEEN) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
+| 16 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
 | 17 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR) | 3:15 |
 | 18 | [Goosebumps](https://open.spotify.com/track/4SelzUrCidrhIGNrICgT0o) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 3:08 |
 | 19 | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 25 | [FEEL SOMETHING](https://open.spotify.com/track/20QCGkd9sKJKuBbkWUkb3b) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 2:32 |
 | 26 | [Exception](https://open.spotify.com/track/0pbPiK8zJedhwBHOKPz9Fx) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 4:06 |
 | 27 | [Just Friends](https://open.spotify.com/track/0x982r9aceSlBtLzcZJkZx) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Just Friends](https://open.spotify.com/album/3Ku6dD9ecLNxZvV2P32p8a) | 4:10 |
-| 28 | [Under Your Skin](https://open.spotify.com/track/5Qg23yGJ9l20JMCRXhIcCD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [MAN](https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde) | 4:45 |
-| 29 | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d) | 3:12 |
+| 28 | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d) | 3:12 |
+| 29 | [Under Your Skin](https://open.spotify.com/track/5Qg23yGJ9l20JMCRXhIcCD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [MAN](https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde) | 4:45 |
 | 30 | [Don't Get Lost](https://open.spotify.com/track/5LgHHLy2dZZsbOQBmPDvHB) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 3:42 |
 | 31 | [Loyalty \(Acoustic\)](https://open.spotify.com/track/0QrgYVvsHzzmJ5kM80VC85) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Loyalty \(Acoustic\)](https://open.spotify.com/album/65Xg40i0Wlqu7sdOkEMZPK) | 4:23 |
-| 32 | [Mr Always Impatient](https://open.spotify.com/track/5nrp9PophCkuzDLAcB6gz5) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [MAN](https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde) | 3:46 |
-| 33 | [That's the Shit](https://open.spotify.com/track/4yV3QkskfPf2dRJMBbVTqk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [That's the Shit](https://open.spotify.com/album/2oAse00yR0sZoTByqVvmxn) | 3:06 |
+| 32 | [That's the Shit](https://open.spotify.com/track/4yV3QkskfPf2dRJMBbVTqk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [That's the Shit](https://open.spotify.com/album/2oAse00yR0sZoTByqVvmxn) | 3:06 |
+| 33 | [Mr Always Impatient](https://open.spotify.com/track/5nrp9PophCkuzDLAcB6gz5) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [MAN](https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde) | 3:46 |
 | 34 | [Opening Arms](https://open.spotify.com/track/229Enf6eB8tVscej1QD2qd) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 2:50 |
 | 35 | [Treat Me Like I'm All Yours](https://open.spotify.com/track/3PNLXPBiS5XK2Luibg8Fum) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Treat Me Like I'm All Yours](https://open.spotify.com/album/0ntuQXHcdJqSbyMQ0zlxx7) | 4:04 |
 | 36 | [Middle of Eden](https://open.spotify.com/track/5fBge6qhvBUQi9xYFP6Ncs) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 49 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
 | 50 | [Spoke To Myself](https://open.spotify.com/track/5CVnpiYwMTNYeJofND7y3x) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:28 |
 
-Snapshot ID: `as7GAAAAAAA9FXZs1XE5qKRiqqrwiZe7`
+Snapshot ID: `atAXgAAAAAA9Go/DnNMQe8M4VilC4aZp`

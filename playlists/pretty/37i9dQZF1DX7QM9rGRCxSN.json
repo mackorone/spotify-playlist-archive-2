@@ -1,6 +1,6 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39461,
+  "num_followers": 39468,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "micheladas",
-        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
-      },
-      "artists": [
-        {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
-        }
-      ],
-      "duration_ms": 136255,
-      "name": "micheladas",
-      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "\u00bfQui\u00e9n Jugar\u00e1 Nintendo? (25 Aniversario)",
         "url": "https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Sociedad De Socorro Mutuo",
-        "url": "https://open.spotify.com/album/2kJMFGORcX2UM7lEBx4WAC"
+        "name": "micheladas",
+        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
       },
       "artists": [
         {
-          "name": "El Sue\u00f1o de Alicia",
-          "url": "https://open.spotify.com/artist/1Jdy7PQDJZPnCplQ3HxCbs"
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
         }
       ],
-      "duration_ms": 165992,
-      "name": "Miedo a Perder",
-      "url": "https://open.spotify.com/track/3X6apLf8f7fD7qDFdOCj13"
+      "duration_ms": 136255,
+      "name": "micheladas",
+      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -451,6 +435,22 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
+        "name": "Sociedad De Socorro Mutuo",
+        "url": "https://open.spotify.com/album/2kJMFGORcX2UM7lEBx4WAC"
+      },
+      "artists": [
+        {
+          "name": "El Sue\u00f1o de Alicia",
+          "url": "https://open.spotify.com/artist/1Jdy7PQDJZPnCplQ3HxCbs"
+        }
+      ],
+      "duration_ms": 165992,
+      "name": "Miedo a Perder",
+      "url": "https://open.spotify.com/track/3X6apLf8f7fD7qDFdOCj13"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
         "name": "Perfecto acuerdo para estar en desacuerdo",
         "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 211184,
       "name": "Perfecto acuerdo para estar en desacuerdo",
       "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
-        "name": "Est\u00e9tica Unisex",
-        "url": "https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS"
-      },
-      "artists": [
-        {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
-        }
-      ],
-      "duration_ms": 113253,
-      "name": "Est\u00e9tica Unisex",
-      "url": "https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -499,6 +483,22 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
+        "name": "Est\u00e9tica Unisex",
+        "url": "https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "duration_ms": 113253,
+      "name": "Est\u00e9tica Unisex",
+      "url": "https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
         "name": "Gu\u00eda para Comprender los Sue\u00f1os",
         "url": "https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 149000,
       "name": "Todos Preguntaron por Ti",
       "url": "https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ"
-      },
-      "artists": [
-        {
-          "name": "Allanamiento Emocional",
-          "url": "https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz"
-        }
-      ],
-      "duration_ms": 244576,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -547,18 +531,18 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Nada Bueno Termina Bien",
-        "url": "https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb"
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ"
       },
       "artists": [
         {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+          "name": "Allanamiento Emocional",
+          "url": "https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz"
         }
       ],
-      "duration_ms": 153798,
-      "name": "Guerra de Novios",
-      "url": "https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO"
+      "duration_ms": 244576,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -579,6 +563,38 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
+        "name": "Nada Bueno Termina Bien",
+        "url": "https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "duration_ms": 153798,
+      "name": "Guerra de Novios",
+      "url": "https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C"
+      },
+      "artists": [
+        {
+          "name": "Baja killa",
+          "url": "https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8"
+        }
+      ],
+      "duration_ms": 174954,
+      "name": "Apareces despu\u00e9s de tres veranos",
+      "url": "https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
         "name": "Muchas Formas de Decir Casa",
         "url": "https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 232000,
       "name": "Jard\u00edn de Plastilina",
       "url": "https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
-        "name": "Dame fuerza",
-        "url": "https://open.spotify.com/album/06Uff0c3YKDE4FcksJsiHT"
-      },
-      "artists": [
-        {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Dame fuerza",
-      "url": "https://open.spotify.com/track/1K0vZvFvGdMmuTtk3lG695"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C"
+        "name": "Dame fuerza",
+        "url": "https://open.spotify.com/album/06Uff0c3YKDE4FcksJsiHT"
       },
       "artists": [
         {
-          "name": "Baja killa",
-          "url": "https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8"
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
         }
       ],
-      "duration_ms": 174954,
-      "name": "Apareces despu\u00e9s de tres veranos",
-      "url": "https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr"
+      "duration_ms": 272000,
+      "name": "Dame fuerza",
+      "url": "https://open.spotify.com/track/1K0vZvFvGdMmuTtk3lG695"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Todo Ocaso Resplandece y Acaba",
-        "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
-      },
-      "artists": [
-        {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
-        }
-      ],
-      "duration_ms": 300596,
-      "name": "Destello",
-      "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "lo que no tiene forma",
         "url": "https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 251894,
       "name": "lo que no tiene forma",
       "url": "https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Todo Ocaso Resplandece y Acaba",
+        "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "duration_ms": 300596,
+      "name": "Destello",
+      "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
+        "name": "S / T",
+        "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
+      },
+      "artists": [
+        {
+          "name": "recuerdo acariciar con miedo las alas de un ave herida",
+          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Mata a Tus \u00cddolos",
+      "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 228198,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
-        "name": "Bronson EP",
-        "url": "https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 246150,
-      "name": "Un Sue\u00f1o de Verano",
-      "url": "https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h"
     }
   ],
   "unique_name": "Emo En Tu Idioma",

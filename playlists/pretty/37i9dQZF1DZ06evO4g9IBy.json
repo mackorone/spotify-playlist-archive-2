@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 175064,
+  "num_followers": 175076,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABYGXBZfGHIJv5OELsUcKA8",
+  "snapshot_id": "atAXgAAAAACGGJpxkmN0aGbbvcLm+z2N",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 285666,
-      "name": "Planets of the Universe",
-      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
+      "duration_ms": 289626,
+      "name": "Trouble in Shangri-La",
+      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 289626,
-      "name": "Trouble in Shangri-La",
-      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
+      "duration_ms": 285666,
+      "name": "Planets of the Universe",
+      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 279413,
+      "name": "Has Anyone Ever Written Anything for You",
+      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stand Back",
         "url": "https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 255986,
       "name": "Landslide (with The Melbourne Symphony Orchestra) - Live 2006; 2019 Remaster",
       "url": "https://open.spotify.com/track/0OmofBGMfRFHJNlIXiS3KZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 279413,
-      "name": "Has Anyone Ever Written Anything for You",
-      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
     },
     {
       "added_at": null,

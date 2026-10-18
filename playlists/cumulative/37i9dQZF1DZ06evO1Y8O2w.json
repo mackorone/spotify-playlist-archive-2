@@ -1184,10 +1184,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 450306,
       "name": "Loving You - Losing You",
       "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
+    },
+    {
+      "album": {
+        "name": "Mask of Gold",
+        "url": "https://open.spotify.com/album/192O1kJvidIIH2V4cdnbRq"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239685,
+      "name": "Mask of Gold",
+      "url": "https://open.spotify.com/track/2TAnqVBJRz9iQZZO49YYCP"
     },
     {
       "album": {

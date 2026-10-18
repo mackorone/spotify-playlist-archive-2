@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Enrique Iglesias y Santos Bravos en portada \u2728",
-  "num_followers": 96577,
+  "num_followers": 96583,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,22 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "Lejos de la Ciudad (con Camilo)",
-        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+        "name": "Antes Que Te Cases",
+        "url": "https://open.spotify.com/album/2mVRI81ml1lRbhXN6osYcD"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         },
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 187358,
-      "name": "Lejos de la Ciudad - con Camilo",
-      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+      "duration_ms": 203486,
+      "name": "Antes Que Te Cases",
+      "url": "https://open.spotify.com/track/4m4YeA7v8mfK5EZbQBYJFj"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -311,22 +311,38 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "Antes Que Te Cases",
-        "url": "https://open.spotify.com/album/2mVRI81ml1lRbhXN6osYcD"
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         },
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 203486,
-      "name": "Antes Que Te Cases",
-      "url": "https://open.spotify.com/track/4m4YeA7v8mfK5EZbQBYJFj"
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
+        "name": "superpoder",
+        "url": "https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "superpoder",
+      "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -355,22 +371,6 @@
       "duration_ms": 169846,
       "name": "pongo remix",
       "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
-        "name": "superpoder",
-        "url": "https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "superpoder",
-      "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
+        "name": "La Espina",
+        "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 206662,
+      "name": "La Espina",
+      "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -535,34 +551,18 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "La Espina",
-        "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
+        "name": "S\u00e1lvame Otra Vez",
+        "url": "https://open.spotify.com/album/16JvWibqyTqxaz7eeGZXjT"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 206662,
-      "name": "La Espina",
-      "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
-        "name": "Una y Otra Vez",
-        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 182129,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
+      "duration_ms": 144000,
+      "name": "S\u00e1lvame Otra Vez",
+      "url": "https://open.spotify.com/track/6WUxiNHMldVSzFhbTZRruA"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "S\u00e1lvame Otra Vez",
-        "url": "https://open.spotify.com/album/16JvWibqyTqxaz7eeGZXjT"
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 144000,
-      "name": "S\u00e1lvame Otra Vez",
-      "url": "https://open.spotify.com/track/6WUxiNHMldVSzFhbTZRruA"
+      "duration_ms": 182129,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
+        "name": "Limonar",
+        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 195892,
+      "name": "Limonar",
+      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "Limonar",
-        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 195892,
-      "name": "Limonar",
-      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
         "name": "SEGUNDO INTENTO",
         "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
       },
@@ -787,6 +787,38 @@
       "duration_ms": 191368,
       "name": "SEGUNDO INTENTO",
       "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
+        "name": "MISI\u00d3N IMPOSIBLE",
+        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "MISI\u00d3N IMPOSIBLE",
+      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -811,22 +843,6 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "MISI\u00d3N IMPOSIBLE",
-        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "MISI\u00d3N IMPOSIBLE",
-      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -843,18 +859,26 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+        "name": "Intensamente",
+        "url": "https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt"
       },
       "artists": [
         {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/6yB30YN6Hjo4auuVUzXhVR"
+        },
+        {
+          "name": "Armando Gomez",
+          "url": "https://open.spotify.com/artist/2dplSKaTG3Rdk6M1rrVCuy"
         }
       ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+      "duration_ms": 209733,
+      "name": "Intensamente",
+      "url": "https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -895,30 +919,6 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "Intensamente",
-        "url": "https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/6yB30YN6Hjo4auuVUzXhVR"
-        },
-        {
-          "name": "Armando Gomez",
-          "url": "https://open.spotify.com/artist/2dplSKaTG3Rdk6M1rrVCuy"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Intensamente",
-      "url": "https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
         "name": "Estas Ganas",
         "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 166998,
       "name": "Estas Ganas",
       "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -967,6 +951,22 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -979,34 +979,6 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
-        "name": "Motherflowers (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
-        }
-      ],
-      "duration_ms": 276150,
-      "name": "PA'LL\u00c1 YA YO VOY - Spotify Sessions",
-      "url": "https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -1047,6 +1019,34 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
+        "name": "Motherflowers (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        }
+      ],
+      "duration_ms": 276150,
+      "name": "PA'LL\u00c1 YA YO VOY - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
         "name": "QUIERO OLVIDARTE (Respuesta #1)",
         "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
       },
@@ -1059,6 +1059,42 @@
       "duration_ms": 162099,
       "name": "QUIERO OLVIDARTE - Respuesta #1",
       "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
+    },
+    {
+      "added_at": "2026-10-16 06:00:21",
+      "album": {
+        "name": "Bella Nostalgia",
+        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
     },
     {
       "added_at": "2026-10-16 06:00:21",
@@ -1083,22 +1119,6 @@
     {
       "added_at": "2026-10-16 06:00:21",
       "album": {
-        "name": "Cuando Estamos Solas",
-        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 160322,
-      "name": "Cuando Estamos Solas",
-      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
         "name": "Otra Vez (Vol. 1)",
         "url": "https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 172104,
       "name": "Paisajes",
       "url": "https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9"
-    },
-    {
-      "added_at": "2026-10-16 06:00:21",
-      "album": {
-        "name": "Bella Nostalgia",
-        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
     },
     {
       "added_at": "2026-10-16 06:00:21",

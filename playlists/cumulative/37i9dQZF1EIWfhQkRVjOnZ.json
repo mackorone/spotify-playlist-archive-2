@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
+    {
+      "album": {
+        "name": "Truth And Purpose",
+        "url": "https://open.spotify.com/album/2Z9DQBpSZThdi5YTOoSsPk"
+      },
+      "artists": [
+        {
+          "name": "I The Breather",
+          "url": "https://open.spotify.com/artist/6OpFzG0Srh37pwJUdwsETa"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "04.12.11",
+      "url": "https://open.spotify.com/track/0DGZveC7hGczDt9UPNJpCN"
+    },
     {
       "album": {
         "name": "Chapters",
@@ -250,7 +268,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "A Pathetic Psalm",
       "url": "https://open.spotify.com/track/2tkXYoeNoONdzfrnpAwvHS"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 204053,
       "name": "Artifice",
       "url": "https://open.spotify.com/track/4dQEv9oai9L6yZQzDcs6G6"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 228960,
       "name": "Bruised & Broken",
       "url": "https://open.spotify.com/track/6BXCA3BBhx6c3Idv5cLfR1"
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 266653,
       "name": "Circle The Sky",
       "url": "https://open.spotify.com/track/5OW3hWZIfWIGa41N26sL6I"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 217000,
       "name": "Compromised",
       "url": "https://open.spotify.com/track/62bn0wrhmzWQzsBLQNGlwp"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 249733,
       "name": "Crimson Grim",
       "url": "https://open.spotify.com/track/7xpZCf829QQ48ffpW5lwDk"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 242906,
       "name": "Crowns",
       "url": "https://open.spotify.com/track/4prky9H55Mo5jy63BJY2Ao"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 227293,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/0iGbZvEQaiwMhvANv5lztz"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 292946,
       "name": "I Am the Lion",
       "url": "https://open.spotify.com/track/0jLbtjGSkBTinA4Wi92l4H"
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 240453,
       "name": "Malevolence",
       "url": "https://open.spotify.com/track/3m5t9Z6DyQCjepVvz7sjNv"
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -4701,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "New Medicines",
+        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
+      },
+      "artists": [
+        {
+          "name": "Dead Poetic",
+          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "Taste The Red Hands",
+      "url": "https://open.spotify.com/track/5rVO7v6A6Yva7wXPNaCnzH"
+    },
+    {
+      "album": {
         "name": "The Fiction We Live",
         "url": "https://open.spotify.com/album/3o7hJydFolbqna8vFoTGX0"
       },
@@ -4748,10 +4784,46 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 262001,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/5u8kYO44UpooGgnraWOSBq"
+    },
+    {
+      "album": {
+        "name": "Great Faith In Fools",
+        "url": "https://open.spotify.com/album/0M4FpSgm8ZkkGMJcSPTuQR"
+      },
+      "artists": [
+        {
+          "name": "The Air I Breathe",
+          "url": "https://open.spotify.com/artist/2esri1FQ20U2rQjfC7RA9C"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256532,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/4OlVP6PVEKt08bMV5LNQVU"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy"
+      },
+      "artists": [
+        {
+          "name": "It Dies Today",
+          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "The Bacchanal Affair",
+      "url": "https://open.spotify.com/track/5NJwII3YNbYcgdswjlno8I"
     },
     {
       "album": {
@@ -4874,7 +4946,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 216000,
       "name": "The Fear In Your Eyes",
       "url": "https://open.spotify.com/track/4QpMKLBnPPjU1KTq3usyTC"
@@ -4892,7 +4964,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
@@ -5018,7 +5090,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 277933,
       "name": "the life",
       "url": "https://open.spotify.com/track/4pNqa5A4HbRnhWnRm0QvIJ"
@@ -5076,6 +5148,24 @@
       "duration_ms": 176053,
       "name": "The Marriage Of Steel And Skin",
       "url": "https://open.spotify.com/track/3sDJ4E593mzxMIxPYe30zi"
+    },
+    {
+      "album": {
+        "name": "The Great I Am",
+        "url": "https://open.spotify.com/album/3QONsWXpEVJfaBNvpfFZ6g"
+      },
+      "artists": [
+        {
+          "name": "Agraceful",
+          "url": "https://open.spotify.com/artist/13s1X8jBhNaN0r3hmTVLUm"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "The Messengers Are Winds, Pt. 1",
+      "url": "https://open.spotify.com/track/6FaVLPhk8jO3AZQCWkD7EE"
     },
     {
       "album": {
@@ -5526,7 +5616,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"

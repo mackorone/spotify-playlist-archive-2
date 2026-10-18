@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 603023,
+  "num_followers": 603059,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABKzjjbM/6Ub3QCsdKrI9DK",
+  "snapshot_id": "atFpAAAAAACOWfbUUbn2PeyN5hY0XkSK",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
-      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 217537,
       "name": "Heartbreak Feels So Good",
       "url": "https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
+      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
     },
     {
       "added_at": null,

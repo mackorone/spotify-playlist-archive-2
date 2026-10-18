@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 32888,
+  "num_followers": 32896,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAC+4v+76vbZ42FjBtGlUx2e",
+  "snapshot_id": "atFpAAAAAABSTrrstVJMG47ObLlbZ84l",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "El Cazador",
-      "url": "https://open.spotify.com/track/0QB1e0Kp9vJZrCwp6GAI6B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zona De Peligro",
         "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 182960,
       "name": "Permaneces En M\u00ed",
       "url": "https://open.spotify.com/track/4hBKlTsn1rW7DxvEwgriaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "El Cazador",
+      "url": "https://open.spotify.com/track/0QB1e0Kp9vJZrCwp6GAI6B"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00edas de Ayer",
         "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 199733,
       "name": "Alg\u00fan D\u00eda",
       "url": "https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp"
     },
     {
       "added_at": null,
@@ -612,29 +612,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Sergio El Bailador - En Vivo",
-      "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "D\u00edas de Ayer",
-      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
+      "duration_ms": 187066,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 216345,
       "name": "Amor Se Escribe Con Llanto - En Vivo",
       "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "D\u00edas de Ayer",
+      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
     },
     {
       "added_at": null,
@@ -684,13 +684,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
+      "duration_ms": 182533,
+      "name": "Sergio El Bailador - En Vivo",
+      "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
     },
     {
       "added_at": null,

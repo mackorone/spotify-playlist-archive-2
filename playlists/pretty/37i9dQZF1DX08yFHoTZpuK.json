@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 34235,
+  "num_followers": 34290,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "OB PKWY",
-        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
-      },
-      "artists": [
-        {
-          "name": "banvox",
-          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "OB PKWY",
-      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
         "name": "Life, Dream, Love",
         "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 294435,
       "name": "Clockwork Dub",
       "url": "https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
+        "name": "OB PKWY",
+        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
+      },
+      "artists": [
+        {
+          "name": "banvox",
+          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
+        }
+      ],
+      "duration_ms": 235312,
+      "name": "OB PKWY",
+      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
+      },
+      "artists": [
+        {
+          "name": "Yu Seki",
+          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        }
+      ],
+      "duration_ms": 163255,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+    },
+    {
+      "added_at": "2026-09-22 16:46:40",
+      "album": {
         "name": "DOSHABURI (feat. JUMADIBA) [PAS TASTA Remix]",
         "url": "https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR"
       },
@@ -831,22 +851,18 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
+        "name": "Love Flutter",
+        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
       },
       "artists": [
         {
-          "name": "Yu Seki",
-          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
-        },
-        {
-          "name": "Yohji Igarashi",
-          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
         }
       ],
-      "duration_ms": 163255,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+      "duration_ms": 243626,
+      "name": "Fabric",
+      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -871,18 +887,18 @@
     {
       "added_at": "2026-09-22 16:46:40",
       "album": {
-        "name": "Love Flutter",
-        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
+        "name": "SWARMER",
+        "url": "https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6"
       },
       "artists": [
         {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+          "name": "SYCLES",
+          "url": "https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I"
         }
       ],
-      "duration_ms": 243626,
-      "name": "Fabric",
-      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
+      "duration_ms": 361643,
+      "name": "SWARMER",
+      "url": "https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE"
     },
     {
       "added_at": "2026-09-22 16:46:40",
@@ -899,22 +915,6 @@
       "duration_ms": 192760,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/5QQCo78CIPxUwGRePzLra0"
-    },
-    {
-      "added_at": "2026-09-22 16:46:40",
-      "album": {
-        "name": "SWARMER",
-        "url": "https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6"
-      },
-      "artists": [
-        {
-          "name": "SYCLES",
-          "url": "https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I"
-        }
-      ],
-      "duration_ms": 361643,
-      "name": "SWARMER",
-      "url": "https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE"
     }
   ],
   "unique_name": "Tokyo Club Beat",

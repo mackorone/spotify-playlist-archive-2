@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: Yarden
 
-1,073 songs - 2 day 3 hr 54 min
+1,074 songs - 2 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Go Harder](https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Go Harder](https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj) | 2:20 | 2024-06-07 | 2024-09-14 |
 | [Gobe](https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Before I Blow](https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr) | 2:40 | 2026-04-17 |  |
 | [God Design](https://open.spotify.com/track/4lFPM3Nstjkh7yQlTNO8dn) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [God Design](https://open.spotify.com/album/7IWLmZBAMG52YhYJUvbTwv) | 2:06 | 2026-08-21 | 2026-08-28 |
+| [GODDESS \(feat\. Lojay\)](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 | 2026-10-16 |  |
 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 | 2025-09-05 |  |
 | [Gone Back](https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Gone Back](https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo) | 2:36 | 2023-05-19 | 2023-05-27 |
 | [Gone Girl](https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/4LIZDD51I8rr6OpdEX7S9a) | 4:13 | 2021-10-14 | 2022-04-22 |
@@ -1057,7 +1058,7 @@
 | [WYD](https://open.spotify.com/track/13ulmsrmNsMMuqX61yJIU5) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [WYD](https://open.spotify.com/album/50u9TSex0yCf6OEcysr9eN) | 2:55 | 2022-04-21 | 2022-07-29 |
 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 | 2026-03-13 | 2026-03-27 |
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-05 | 2026-05-19 |
-| [YBTM](https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [YBTM](https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv) | 2:56 | 2026-06-26 |  |
+| [YBTM](https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [YBTM](https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv) | 2:56 | 2026-06-26 | 2026-10-18 |
 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 | 2025-08-29 | 2025-10-03 |
 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 | 2021-10-14 | 2022-07-25 |
 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 | 2023-02-03 | 2023-02-24 |

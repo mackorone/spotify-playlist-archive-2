@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-643 songs - 1 day 14 hr 4 min
+644 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [En kväll i tunnelbanan](https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [En kväll i tunnelbanan](https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN) | 3:04 | 2024-10-24 | 2025-01-03 |
 | [En kväll i tunnelbanan](https://open.spotify.com/track/4R0cQO0CWatHVI6LlXs7l7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C) | 3:04 | 2025-01-02 | 2025-05-16 |
 | [En kärlek själv](https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ) | [Henning](https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn) | [En kärlek själv](https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum) | 3:57 | 2024-08-08 | 2024-09-22 |
+| [En sida kvar](https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Bar Nîmes \- Primi](https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt) | 2:32 | 2026-10-15 |  |
 | [En sommar utan dig](https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ) | [Andreas Leksell](https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun) | [En sommar utan dig](https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z) | 3:09 | 2025-05-08 | 2025-10-08 |
 | [En sång till modet](https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En sång till modet](https://open.spotify.com/album/0phUs84n1MODY1e3lxUNJg) | 4:55 | 2026-09-24 |  |
 | [En tår för varje tår](https://open.spotify.com/track/5bR2R637w1Z7OtUk6qn26P) | [Melina Borglowe](https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj) | [En tår för varje tår](https://open.spotify.com/album/6idVeqKsRaSPry1D2pXqsD) | 3:24 | 2024-06-27 | 2024-08-09 |
@@ -286,7 +287,7 @@
 | [Ingen plockar en maskros](https://open.spotify.com/track/55kyGw7WmOpInVrabROr68) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Ingen plockar en maskros](https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC) | 3:43 | 2026-06-04 | 2026-10-05 |
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-10-06 |
 | [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 | 2026-10-16 |
-| [Ingenting är efter oss](https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Ingenting är efter oss](https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ) | 3:01 | 2026-02-19 |  |
+| [Ingenting är efter oss](https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Ingenting är efter oss](https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ) | 3:01 | 2026-02-19 | 2026-10-18 |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-27 | 2024-08-23 |
 | [Inget är förlåtet](https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD) | [Joakim Åhlund & Jockum Nordström](https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy) | [Sköldpaddsön](https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9) | 4:15 | 2026-02-12 | 2026-03-06 |
 | [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ) | 3:49 | 2025-11-20 | 2026-10-13 |

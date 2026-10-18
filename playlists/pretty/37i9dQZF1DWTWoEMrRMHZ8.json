@@ -483,6 +483,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Pra Ter Fim",
+        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 204177,
+      "name": "Pra Ter Fim",
+      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "Dr\u00e3o",
         "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 228314,
       "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
       "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Pra Ter Fim",
-        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 204177,
-      "name": "Pra Ter Fim",
-      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Em Sil\u00eancio o Afeto Cresce",
-        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
-      },
-      "artists": [
-        {
-          "name": "Rafa Castro",
-          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Perdi Meu Rumo Na Sua Boca",
-      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "Viva Donato",
         "url": "https://open.spotify.com/album/1NDiIYFG9wXz1U1FUlegRl"
       },
@@ -671,6 +655,38 @@
       "duration_ms": 170450,
       "name": "Falta de Ar",
       "url": "https://open.spotify.com/track/58myXg6RN7eUBst4LhmZKj"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Em Sil\u00eancio o Afeto Cresce",
+        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
+      },
+      "artists": [
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Perdi Meu Rumo Na Sua Boca",
+      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Leo Jaime - As Mais Pedidas",
+        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -711,22 +727,6 @@
       "duration_ms": 223680,
       "name": "Varandas",
       "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Leo Jaime - As Mais Pedidas",
-        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
-      },
-      "artists": [
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Uirapuru",
+        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        }
+      ],
+      "duration_ms": 102143,
+      "name": "Uirapuru",
+      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "3\u00b0 Ato (Ao Vivo)",
         "url": "https://open.spotify.com/album/5yKxd23TajUzOHj7WAzQXu"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 181813,
       "name": "Tantos Amores",
       "url": "https://open.spotify.com/track/0I4DvvxFa0sBuuJId2bU9L"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Uirapuru",
-        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 102143,
-      "name": "Uirapuru",
-      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Desculpe o Au\u00ea",
+        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 199690,
+      "name": "Desculpe o Au\u00ea",
+      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "Pra Gente Se Acabar",
         "url": "https://open.spotify.com/album/4aPQULZO2vMg0UhUqzlOx6"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 186938,
       "name": "O Tempo Leva",
       "url": "https://open.spotify.com/track/6vljTD3BamQ2TFWxm26cnz"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Desculpe o Au\u00ea",
-        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 199690,
-      "name": "Desculpe o Au\u00ea",
-      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "AMARINA Canta Kid Abelha",
         "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Inofensiva Flor (Primeiro Ato)",
-        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
       },
       "artists": [
         {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
         }
       ],
-      "duration_ms": 179029,
-      "name": "N\u00e3o Sento \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
+      "duration_ms": 175000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Inofensiva Flor (Primeiro Ato)",
+        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "duration_ms": 179029,
+      "name": "N\u00e3o Sento \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "Minha Pele",
         "url": "https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu"
       },
@@ -1099,26 +1099,6 @@
       "duration_ms": 264993,
       "name": "Ser \u00c1gua",
       "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "NORTEAR",
-        "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        },
-        {
-          "name": "morgana",
-          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "NORTEAR",
-      "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1143,18 +1123,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Inofensiva Flor",
-        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
+        "name": "NORTEAR",
+        "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
       "artists": [
         {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        },
+        {
+          "name": "morgana",
+          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
         }
       ],
-      "duration_ms": 158731,
-      "name": "Fera Domesticada",
-      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
+      "duration_ms": 218651,
+      "name": "NORTEAR",
+      "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1175,6 +1159,22 @@
       "duration_ms": 194281,
       "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
       "url": "https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Inofensiva Flor",
+        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "duration_ms": 158731,
+      "name": "Fera Domesticada",
+      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "MATUMBI (Ao vivo)",
+        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
+      },
+      "artists": [
+        {
+          "name": "Lazzo Matumbi",
+          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "MATUMBI - Ao vivo",
+      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "Feira de Mangaio",
         "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 144296,
       "name": "Presente",
       "url": "https://open.spotify.com/track/3GCQrVE2tt0gmEQaxzD8gS"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "MATUMBI (Ao vivo)",
-        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
-      },
-      "artists": [
-        {
-          "name": "Lazzo Matumbi",
-          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "MATUMBI - Ao vivo",
-      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
     },
     {
       "added_at": "2026-10-09 17:04:01",

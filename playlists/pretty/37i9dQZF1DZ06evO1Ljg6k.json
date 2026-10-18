@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 79162,
+  "num_followers": 79181,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACF39L7SPl0kpv2qWnhdcl5",
+  "snapshot_id": "atFpAAAAAABcXlyZctNFcIJHn3qLZylD",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 302840,
-      "name": "Sugah Daddy",
-      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
+      "duration_ms": 358558,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
     },
     {
       "added_at": null,
@@ -460,9 +460,25 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 358558,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
+      "duration_ms": 302840,
+      "name": "Sugah Daddy",
+      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Heaven Must Be Like This",
+      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
     },
     {
       "added_at": null,
@@ -487,8 +503,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best So Far",
-        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 277639,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
       "artists": [
         {
@@ -496,9 +532,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Heaven Must Be Like This",
-      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
+      "duration_ms": 289026,
+      "name": "Ain't That Easy",
+      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
     },
     {
       "added_at": null,
@@ -519,22 +555,6 @@
       "duration_ms": 267626,
       "name": "So Far To Go",
       "url": "https://open.spotify.com/track/5Hu9CX99Rdyuyweh5mGcah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Ain't That Easy",
-      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
     },
     {
       "added_at": null,
@@ -599,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 277639,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I"
+      "duration_ms": 235773,
+      "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
     },
     {
       "added_at": null,

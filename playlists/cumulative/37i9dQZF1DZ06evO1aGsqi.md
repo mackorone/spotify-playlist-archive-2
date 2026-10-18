@@ -4,11 +4,12 @@
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 52 min
+33 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [American Prometheus](https://open.spotify.com/track/2nBqwc3h3psFgPF1J0v24T) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 2:37 | 2026-08-08 |  |
+| [Another Name](https://open.spotify.com/track/0KebKJIyG9EzIaAldHPaRM) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 1:51 | 2026-10-18 |  |
 | [BETRAYAL](https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:55 | 2026-08-17 |  |
 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 | 2026-08-08 |  |
 | [Caught in the Shadow](https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed \(Original Motion Picture Score\)](https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n) | 1:20 | 2026-08-19 |  |
@@ -25,7 +26,7 @@
 | [MEETING NEIL](https://open.spotify.com/track/4GZnjZKMYhG1CCBfjI3nN4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 2:15 | 2026-08-29 | 2026-10-10 |
 | [Mound Bayou / Proper Black Folks \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/06S9yAhcFOoxdc9ES0JXWP) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:26 | 2026-08-08 |  |
 | [Odysseus](https://open.spotify.com/track/4cNfcmyCGw53tOSOsRI3z8) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 8:41 | 2026-08-08 |  |
-| [Penelope](https://open.spotify.com/track/5CsZuYia3R65X0Z5sNLsak) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 4:16 | 2026-08-08 |  |
+| [Penelope](https://open.spotify.com/track/5CsZuYia3R65X0Z5sNLsak) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 4:16 | 2026-08-08 | 2026-10-18 |
 | [Quantum Mechanics](https://open.spotify.com/track/09I8yYd9egMHOLDRFenYrV) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 3:00 | 2026-08-08 |  |
 | [RAINY NIGHT IN TALLINN](https://open.spotify.com/track/5r6l0sPvfeAPjQ67fCgOwG) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 8:00 | 2026-08-27 |  |
 | [Rotta](https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 1:33 | 2026-08-08 |  |

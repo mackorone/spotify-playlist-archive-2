@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 144 songs - 8 hr 29 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 151 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 142 | [the plot](https://open.spotify.com/track/0byJTjjV8MGyxGrg7KKc6m) | [Young JD](https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL) | [the plot](https://open.spotify.com/album/7rCfpT9ro31RR4vZ0e4oAs) | 4:52 |
 | 143 | [Moksha](https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF) | [Pale State](https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA) | [Moksha](https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3) | 4:00 |
 | 144 | [Zulf\-E\-Paresha \- 3 Am Version](https://open.spotify.com/track/7gg7OYPDwEUefgsaaHMRhn) | [Avesh Khan](https://open.spotify.com/artist/2K6Qes78gnXr5Z8hV8DcSn) | [Zulf\-E\-Paresha \(3 Am Version\)](https://open.spotify.com/album/2BaHPRdEsJa2evDn7BFtFi) | 3:41 |
+| 145 | [There Is a World](https://open.spotify.com/track/2lsErqJ4KA7M0CK0pT6fSn) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [There Is a World](https://open.spotify.com/album/5TX0ToBVrzgBX9f0dw6BM8) | 4:07 |
+| 146 | [Hu Hu Hu Hu](https://open.spotify.com/track/3Mtjc9H84GL7lC9KyWkcDk) | [Emy´s Puppenlieder](https://open.spotify.com/artist/4Rw58yycqhNe93iyZGRfVs) | [Hu Hu Hu Hu](https://open.spotify.com/album/3ogR981oxv92kuuuAEV4Lg) | 4:19 |
+| 147 | [Spike](https://open.spotify.com/track/3PF0i0pCKArrwlQ2jA7kkp) | [Lydike](https://open.spotify.com/artist/5pfQvVGF8XX7d1hwJ1CGzh) | [Madly In Love](https://open.spotify.com/album/2xNqGlxvnfq1JMlAlTLzLu) | 3:35 |
+| 148 | [Cold Fire](https://open.spotify.com/track/1M6YOvNK6zgRIhXsrinK7c) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [Cold Fire](https://open.spotify.com/album/01VKQafoJ1BWI90WJqbbcu) | 3:51 |
+| 149 | [Mi dimenticherai](https://open.spotify.com/track/1co4cBTJ0WQtxyNtQEwXT2) | [A.O.B](https://open.spotify.com/artist/45l5RrUy1Y90pinFGGKais) | [Mi dimenticherai](https://open.spotify.com/album/5hV5Oq6fMr9cD27N8xaSg5) | 2:01 |
+| 150 | [Novembre](https://open.spotify.com/track/2doFukGt8lBRqKd72vqyJm) | [Tony Hate](https://open.spotify.com/artist/0LLWf7FSYyzfQwjHTSBPeo) | [Novembre](https://open.spotify.com/album/6pZcuAwek6kiCX95jIwWia) | 3:45 |
+| 151 | [In the Sky](https://open.spotify.com/track/4TDBRNtX9kbQwwFIFzNke8) | [Neil Hatton](https://open.spotify.com/artist/1iudBy0VzOcvJdLy8l0oVC) | [In the Sky](https://open.spotify.com/album/7lR4YXUckhTlm7MfQjXgt9) | 6:40 |
 
-Snapshot ID: `AAAYrgF7saiuxBToxD/vnZLu+IZIrQiT`
+Snapshot ID: `AAAYtSuDZf8ZR0I1SRoFTE2qaU2T1hWx`

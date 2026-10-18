@@ -6,8 +6,24 @@
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMmPjqYBmE3qfY+x7+ixk3A5eahnu1",
+  "snapshot_id": "AAAMmRNG+z8QJjQ4Xs0E1yAWcSnNf53S",
   "tracks": [
+    {
+      "added_at": "2026-10-17 15:35:36",
+      "album": {
+        "name": "Add Up",
+        "url": "https://open.spotify.com/album/40wiZJDK3hndJnBieU5iXg"
+      },
+      "artists": [
+        {
+          "name": "DNCR",
+          "url": "https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u"
+        }
+      ],
+      "duration_ms": 154511,
+      "name": "Add Up",
+      "url": "https://open.spotify.com/track/57OL6bTg2wqd7Rc5vLGmBC"
+    },
     {
       "added_at": "2026-10-09 14:59:52",
       "album": {

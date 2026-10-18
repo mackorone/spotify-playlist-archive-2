@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > ¡Tus canciones favoritas del momento, todas en un solo lugar! Cover: Banda El Recodo
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,974 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,040 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 | 51 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 |
 | 52 | [Recuerdos en Común](https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Recuerdos en Común](https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT) | 3:34 |
 | 53 | [Que Te Quieran Bonito](https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Que Te Quieran Bonito](https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx) | 2:42 |
-| 54 | [29:11](https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 3:44 |
-| 55 | [Ya Es Muy Tarde](https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:01 |
+| 54 | [Ya Es Muy Tarde](https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:01 |
+| 55 | [29:11](https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 3:44 |
 | 56 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 |
 | 57 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
 | 58 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 | 65 | [El Peor De Mis Fracasos \- En Vivo](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
 | 66 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
 | 67 | [El Beneficio De La Duda](https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Beneficio De La Duda](https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6) | 4:05 |
-| 68 | [Ansiedad](https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ansiedad](https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb) | 2:57 |
-| 69 | [Hablemos](https://open.spotify.com/track/71aT33Muvsuim800OqZ0st) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD) | 3:08 |
+| 68 | [Hablemos](https://open.spotify.com/track/71aT33Muvsuim800OqZ0st) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD) | 3:08 |
+| 69 | [Ansiedad](https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ansiedad](https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb) | 2:57 |
 | 70 | [No Me Pidas Perdón](https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:43 |
 | 71 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 |
 | 72 | [Mi Princesa](https://open.spotify.com/track/0Axl0XXpjltt7Hi6mzeAhx) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 3:03 |

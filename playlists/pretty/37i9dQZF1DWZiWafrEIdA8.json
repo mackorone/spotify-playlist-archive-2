@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15676,
+  "num_followers": 15681,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "More ASH",
-        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "More ASH",
+        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -799,22 +799,18 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -855,34 +851,22 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
       "artists": [
         {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
-        "name": "\ube44\ub204",
-        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
-      },
-      "artists": [
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 182200,
-      "name": "\ube44\ub204",
-      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -903,6 +887,22 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "\ube44\ub204",
+        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "\ube44\ub204",
+      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
     },
     {
       "added_at": "2026-10-08 07:16:06",

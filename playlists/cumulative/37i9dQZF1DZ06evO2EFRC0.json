@@ -422,7 +422,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 366761,
       "name": "Cu\u00e1n Grande Es \u00c9l",
       "url": "https://open.spotify.com/track/3oYM3bftHK06aiuUsdZqWW"
@@ -1754,6 +1754,28 @@
       "duration_ms": 301958,
       "name": "Santo R\u00edo de Dios",
       "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1 Llena La Tierra",
+        "url": "https://open.spotify.com/album/6N16Erp14W76ybIzqtyNCE"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ulices Gamaliel",
+          "url": "https://open.spotify.com/artist/4kDRTsjKgkN2Sro1pbL0Y0"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210282,
+      "name": "Ser\u00e1 Llena La Tierra",
+      "url": "https://open.spotify.com/track/0b39lBHTetw0TvHnvNtjAe"
     },
     {
       "album": {

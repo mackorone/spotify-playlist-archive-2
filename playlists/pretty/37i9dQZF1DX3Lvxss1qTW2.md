@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Solana
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,533 likes - 94 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,565 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

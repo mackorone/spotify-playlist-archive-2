@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: NCT WISH\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-888 songs - 1 day 23 hr 50 min
+889 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [I'm in Trouble](https://open.spotify.com/track/30iB3Vk6T4gAUfZ0OvmwxY) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/5j8qRyyqFwXkIH7boJ6m9N) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [ICE AGE](https://open.spotify.com/track/1q2bu7PaEUUiFJYFsAiHiz) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [into the ICE AGE](https://open.spotify.com/album/2N9Y7kFSctM8v4T4G2uYWo) | 3:10 | 2022-02-15 | 2022-06-22 |
 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 | 2026-07-10 |  |
-| [Ice On My Teeth](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) | 3:03 | 2024-11-29 |  |
+| [Ice On My Teeth](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) | 3:03 | 2024-11-29 | 2026-10-18 |
 | [ICONIC](https://open.spotify.com/track/4BSx3P80BGTTh0hRmvSvxL) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/5Boa7YknUbdFy87sIxQ2vG) | 3:26 | 2025-08-04 | 2025-08-13 |
 | [ICONIK](https://open.spotify.com/track/7srZ5Feiz5S4R4O9jL1Dx4) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/6zfGu7WflAzOzsC2Dxgu5I) | 3:13 | 2025-09-01 | 2025-11-21 |
 | [IF I](https://open.spotify.com/track/6m0pwEawaU2NIygsdc8OPP) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO) | 3:00 | 2026-06-02 |  |
@@ -720,6 +720,7 @@
 | [Stand by you](https://open.spotify.com/track/1FXMaHibQ7Nz8JV4babzfF) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Stand by you](https://open.spotify.com/album/3rizLIFA2GTyYcPe9KYt5M) | 4:21 | 2022-03-22 | 2022-04-21 |
 | [Star](https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lovely Runner, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP) | 3:38 | 2024-04-09 | 2024-07-24 |
 | [STAR](https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [STAR](https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD) | 4:09 | 2021-12-08 | 2022-07-10 |
+| [Star Trace](https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q) | 2:59 | 2026-10-15 |  |
 | [Starry Night \(prod\. dress\)](https://open.spotify.com/track/2skhJRyeMP1EefyjTYwQmA) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Starry Night \(prod\. dress\)](https://open.spotify.com/album/5LveI3wQQYc6XddckFhFzN) | 3:07 | 2022-03-22 | 2022-07-18 |
 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 | 2022-04-04 | 2022-04-13 |
 | [Steady](https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:59 | 2024-09-24 | 2025-06-14 |

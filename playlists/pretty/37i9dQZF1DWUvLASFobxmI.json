@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Equipo HC en portada.",
-  "num_followers": 532327,
+  "num_followers": 532325,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Fotograf\u00eda",
-        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 212532,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Qui\u00e9reme mientras se pueda",
         "url": "https://open.spotify.com/album/4D3ME9fj92h9i91MfLZOOE"
       },
@@ -315,18 +299,34 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Que Se Vaya",
-        "url": "https://open.spotify.com/album/5o1z80S9I0tVQk9Qk2NA7H"
+        "name": "Fotograf\u00eda",
+        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Que Se Vaya",
-      "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
+      "duration_ms": 212532,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/6knZGwHJNsQJzL02SRcLOc"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 166192,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/3uWz9jVTon7QYslzkslfCD"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/6knZGwHJNsQJzL02SRcLOc"
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/5o1z80S9I0tVQk9Qk2NA7H"
       },
       "artists": [
         {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 166192,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/3uWz9jVTon7QYslzkslfCD"
+      "duration_ms": 212250,
+      "name": "Que Se Vaya",
+      "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "Esta Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 159273,
+      "name": "No Te Limites",
+      "url": "https://open.spotify.com/track/3fcVnF22FBqh0fDDVpLhCF"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "La Cazadora",
         "url": "https://open.spotify.com/album/03jIAWMrRp5Bra8pIMdzK1"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 191481,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/5CJSOx4mGZk5jIoCv1QjR6"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "Esta Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/75bnY3wmNEEUkPNMTDVq9O"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 159273,
-      "name": "No Te Limites",
-      "url": "https://open.spotify.com/track/3fcVnF22FBqh0fDDVpLhCF"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "SE LLEG\u00d3 EL VERANO",
+        "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 177408,
+      "name": "LA PLAYA",
+      "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Noche Perfecta",
         "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "SE LLEG\u00d3 EL VERANO",
-        "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 177408,
-      "name": "LA PLAYA",
-      "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Qu\u00e9 Mal",
-        "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
-        }
-      ],
-      "duration_ms": 175105,
-      "name": "Qu\u00e9 Mal",
-      "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "UNO PARA EL OTRO",
         "url": "https://open.spotify.com/album/2HWYoPP10xV4KD68P4T6kw"
       },
@@ -799,22 +783,18 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "TMS",
-        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
+        "name": "Qu\u00e9 Mal",
+        "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Villegas",
-          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
+          "name": "Adri\u00e1n Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
         }
       ],
-      "duration_ms": 161824,
-      "name": "TMS",
-      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
+      "duration_ms": 175105,
+      "name": "Qu\u00e9 Mal",
+      "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -835,6 +815,42 @@
       "duration_ms": 163909,
       "name": "DR. STRANGE",
       "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Me Consulto El Padrino",
+        "url": "https://open.spotify.com/album/2osy2NXRGldVelrNmv0GcH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 175034,
+      "name": "Me Consulto El Padrino",
+      "url": "https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "TMS",
+        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Villegas",
+          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
+        }
+      ],
+      "duration_ms": 161824,
+      "name": "TMS",
+      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Me Consulto El Padrino",
-        "url": "https://open.spotify.com/album/2osy2NXRGldVelrNmv0GcH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 175034,
-      "name": "Me Consulto El Padrino",
-      "url": "https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Amigazo",
         "url": "https://open.spotify.com/album/3FyNmXbA6lwv7fYqVX9y30"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Cartera Llena",
-        "url": "https://open.spotify.com/album/65jEOUenUxbkiSWHIQQe8l"
-      },
-      "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        }
-      ],
-      "duration_ms": 170573,
-      "name": "Cartera Llena",
-      "url": "https://open.spotify.com/track/2k3iQGrWNuStofUwJPkHwj"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Tras del Dolor",
         "url": "https://open.spotify.com/album/3lITpzSz4nIoLvn5oK0wLQ"
       },
@@ -927,22 +911,6 @@
       "duration_ms": 254717,
       "name": "Tras del Dolor",
       "url": "https://open.spotify.com/track/5MhzgiRcnmK2ihDfJUx7IK"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "Faltaba Fe",
-        "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Faltaba Fe",
-      "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -963,18 +931,34 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "The Magic Man",
-        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
+        "name": "Cartera Llena",
+        "url": "https://open.spotify.com/album/65jEOUenUxbkiSWHIQQe8l"
       },
       "artists": [
         {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
         }
       ],
-      "duration_ms": 218235,
-      "name": "Mi Bonita",
-      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
+      "duration_ms": 170573,
+      "name": "Cartera Llena",
+      "url": "https://open.spotify.com/track/2k3iQGrWNuStofUwJPkHwj"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Faltaba Fe",
+        "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Faltaba Fe",
+      "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -999,22 +983,18 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "LA MOVIE",
-        "url": "https://open.spotify.com/album/4e8mMg7JkhltafeA9aDFuQ"
+        "name": "The Magic Man",
+        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
       },
       "artists": [
         {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
-        {
-          "name": "Santiago Figueroa",
-          "url": "https://open.spotify.com/artist/4Ckh2tfEnFmoGg3ROP6qLi"
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
         }
       ],
-      "duration_ms": 142098,
-      "name": "LA MOVIE",
-      "url": "https://open.spotify.com/track/2KUkF0TRwu05j4HdDahmSM"
+      "duration_ms": 218235,
+      "name": "Mi Bonita",
+      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1035,6 +1015,26 @@
       "duration_ms": 142586,
       "name": "Terco Y Que",
       "url": "https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "LA MOVIE",
+        "url": "https://open.spotify.com/album/4e8mMg7JkhltafeA9aDFuQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Santiago Figueroa",
+          "url": "https://open.spotify.com/artist/4Ckh2tfEnFmoGg3ROP6qLi"
+        }
+      ],
+      "duration_ms": 142098,
+      "name": "LA MOVIE",
+      "url": "https://open.spotify.com/track/2KUkF0TRwu05j4HdDahmSM"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "Los Finos Con Los Finos",
+        "url": "https://open.spotify.com/album/5NNGrBjFAjctmNQkrLtulC"
+      },
+      "artists": [
+        {
+          "name": "Lui Santo",
+          "url": "https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq"
+        },
+        {
+          "name": "Siempre De La Sierra",
+          "url": "https://open.spotify.com/artist/4qf6xFprU1nbfbQzcBkENn"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "Los Finos Con Los Finos",
+      "url": "https://open.spotify.com/track/5vMUT3cZpaquDKjq7ec9ob"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Millonario",
         "url": "https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 133636,
       "name": "Pata De Perro",
       "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "Los Finos Con Los Finos",
-        "url": "https://open.spotify.com/album/5NNGrBjFAjctmNQkrLtulC"
-      },
-      "artists": [
-        {
-          "name": "Lui Santo",
-          "url": "https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq"
-        },
-        {
-          "name": "Siempre De La Sierra",
-          "url": "https://open.spotify.com/artist/4qf6xFprU1nbfbQzcBkENn"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "Los Finos Con Los Finos",
-      "url": "https://open.spotify.com/track/5vMUT3cZpaquDKjq7ec9ob"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "LAS QUE SUENAN EN MI TROCA",
-        "url": "https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 227488,
-      "name": "Entre Hierva Polvo y Plomo",
-      "url": "https://open.spotify.com/track/0hzxFetIXZjbF22Ays2ljq"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "El Crossover 3",
         "url": "https://open.spotify.com/album/5zhrL4FJHuqxedfAHxqMFN"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 232847,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/5iUDFtbjgmelY9I2Diirwk"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Arreando La Mula",
+        "url": "https://open.spotify.com/album/2x26HGEeH9nmBf7LBKxYJb"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors de La Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
+        }
+      ],
+      "duration_ms": 142805,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/2BN0gS4aqT6yFywU0kezjj"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "LAS QUE SUENAN EN MI TROCA",
+        "url": "https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 227488,
+      "name": "Entre Hierva Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0hzxFetIXZjbF22Ays2ljq"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Mi Sue\u00f1o",
         "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 181098,
       "name": "Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "Arreando La Mula",
-        "url": "https://open.spotify.com/album/2x26HGEeH9nmBf7LBKxYJb"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors de La Monta\u00f1a",
-          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
-        }
-      ],
-      "duration_ms": 142805,
-      "name": "Arreando La Mula",
-      "url": "https://open.spotify.com/track/2BN0gS4aqT6yFywU0kezjj"
     },
     {
       "added_at": "2026-10-16 05:41:28",

@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 195540,
+  "num_followers": 195606,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -643,58 +643,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Good Vibe",
-      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "Mandona (Se eu te dissesse)",
-        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Mandona (Se eu te dissesse)",
-      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -727,6 +675,58 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Mandona (Se eu te dissesse)",
+        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Mandona (Se eu te dissesse)",
+      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Good Vibe",
+      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1067,18 +1067,30 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 164704,
-      "name": "PASSADO DE UM VIL\u00c3O",
-      "url": "https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1107,30 +1119,18 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 164704,
+      "name": "PASSADO DE UM VIL\u00c3O",
+      "url": "https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "10 Carros",
-        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "10 Carros",
-      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Paz Terr\u00edvel",
         "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
       },
@@ -1231,6 +1207,30 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "10 Carros",
+        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "10 Carros",
+      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -1251,34 +1251,6 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1335,6 +1307,34 @@
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/5RTMpECEVHy3H9jtn7HKi5"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "Mente Al\u00e9m",
+      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "Mente Al\u00e9m",
-      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1571,30 +1571,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Traumas e V\u00edcios",
-        "url": "https://open.spotify.com/album/6lUCF0fQNUTnVCdTgF8k7K"
-      },
-      "artists": [
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Duas Mulheres",
-      "url": "https://open.spotify.com/track/2CcNYXOMvIml8pGwZg2tgY"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "A Cara do Crime 4 (Acendo a Flor)",
         "url": "https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 308243,
       "name": "A Cara do Crime 4 (Acendo a Flor)",
       "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Traumas e V\u00edcios",
+        "url": "https://open.spotify.com/album/6lUCF0fQNUTnVCdTgF8k7K"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Duas Mulheres",
+      "url": "https://open.spotify.com/track/2CcNYXOMvIml8pGwZg2tgY"
     },
     {
       "added_at": "2026-08-07 14:27:34",

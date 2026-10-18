@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-714 songs - 2 day 1 hr 11 min
+715 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All The Way To Heaven](https://open.spotify.com/track/3S3FJ9kcmmmTY4nM0SdMcu) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ) | [Beverly Hills 90210\-The Soundtrack](https://open.spotify.com/album/17zrIQKituLxyNrpFbxYxp) | 4:10 | 2023-12-30 | 2024-07-11 |
 | [All Your Attention](https://open.spotify.com/track/1oczBMCfGBDQeutRuSsgVO) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/4M8n7ibST6xGVllpqormRp) | 3:46 | 2024-09-03 |  |
 | [All Your Attention](https://open.spotify.com/track/6rUQWAQuY5gFMNcltJVbdF) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/3RmAP5v4xev7yl3r0mjJPV) | 3:46 | 2023-12-30 | 2024-09-04 |
+| [Alpha Dance](https://open.spotify.com/track/2bQK58bSHspXGX0tf3pJBL) | [Maurice White](https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx) | [Maurice White](https://open.spotify.com/album/75lRlwwQSTZUDxMeG8NmxX) | 1:18 | 2026-10-17 |  |
 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 | 2023-12-30 | 2025-11-28 |
 | [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 | 2025-11-27 |  |
 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 | 2023-12-30 |  |

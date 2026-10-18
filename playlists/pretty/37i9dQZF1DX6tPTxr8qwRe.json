@@ -1,13 +1,33 @@
 {
-  "description": "sweet. sharp. unbothered - Emei on the cover",
-  "num_followers": 522612,
+  "description": "sweet. sharp. unbothered - GRANT KNOCHE on the cover",
+  "num_followers": 522598,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFv9L95L0cB67aSzc20KzYoD8Rk",
+  "snapshot_id": "AAAAAFgag4flrDxOEI5YQFqwZO5kHmcD",
   "tracks": [
+    {
+      "added_at": "2026-10-17 19:55:54",
+      "album": {
+        "name": "FRICTION",
+        "url": "https://open.spotify.com/album/0zyJH68Hu6kj8N2RcBNHKG"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        },
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "duration_ms": 168913,
+      "name": "FRICTION",
+      "url": "https://open.spotify.com/track/38QQX5owEYU3h4alb7CaPU"
+    },
     {
       "added_at": "2026-10-02 04:00:40",
       "album": {
@@ -71,6 +91,22 @@
       "duration_ms": 157307,
       "name": "A MiLLiON DAGGERS",
       "url": "https://open.spotify.com/track/09MeUcgkzXJFN4OSMkEMlb"
+    },
+    {
+      "added_at": "2026-10-17 19:31:05",
+      "album": {
+        "name": "Botticelli",
+        "url": "https://open.spotify.com/album/12woegyovJJ16U5dGsNkcw"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 143289,
+      "name": "Botticelli",
+      "url": "https://open.spotify.com/track/6iCwFUWtuhkj2pdPMf2EBR"
     },
     {
       "added_at": "2026-10-14 12:45:14",
@@ -781,22 +817,6 @@
       "url": "https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ"
     },
     {
-      "added_at": "2026-06-12 04:01:54",
-      "album": {
-        "name": "pixxxie",
-        "url": "https://open.spotify.com/album/7dYuM0yNjewhDqGq2NqVtO"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 244062,
-      "name": "pixxxie",
-      "url": "https://open.spotify.com/track/4coPiNHqR0LVGipcT57akq"
-    },
-    {
       "added_at": "2026-06-21 16:29:53",
       "album": {
         "name": "Love You To Death",
@@ -827,22 +847,6 @@
       "duration_ms": 155664,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC"
-    },
-    {
-      "added_at": "2026-04-17 04:02:49",
-      "album": {
-        "name": "adagio",
-        "url": "https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "The Symphony of Fxxkboys",
-      "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"
     }
   ],
   "unique_name": "SALT",

@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1068569,
+  "num_followers": 1068552,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Hand It Over (feat. Soweto Gospel Choir)",
         "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 203232,
       "name": "Hand It Over (feat. Soweto Gospel Choir)",
       "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "13 Years",
         "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "You Hear Georgia",
-        "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
         }
       ],
-      "duration_ms": 245838,
-      "name": "You Hear Georgia",
-      "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -607,6 +591,22 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "You Hear Georgia",
+        "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 245838,
+      "name": "You Hear Georgia",
+      "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Flang Dang",
         "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 218746,
       "name": "99 Ways",
       "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Upside",
-        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 301395,
-      "name": "Upside",
-      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Sweet Southern Sounds",
         "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 301430,
       "name": "Sweet Southern Sounds",
       "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "pretty baby",
-        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lundy",
-          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
-        }
-      ],
-      "duration_ms": 150688,
-      "name": "pretty baby",
-      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Blues Worse Than I Ever Had",
         "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 211666,
       "name": "Blues Worse Than I Ever Had",
       "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "pretty baby",
+        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "duration_ms": 150688,
+      "name": "pretty baby",
+      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Days of Mellow",
-        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 154980,
-      "name": "Days of Mellow",
-      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Reconcile",
         "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 219453,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Days of Mellow",
+        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 154980,
+      "name": "Days of Mellow",
+      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Death Rolls Like Thunder",
-        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 223366,
-      "name": "Death Rolls Like Thunder",
-      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
@@ -1623,34 +1607,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
+        "name": "Death Rolls Like Thunder",
+        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
       },
       "artists": [
         {
-          "name": "Kam Franklin",
-          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
         }
       ],
-      "duration_ms": 192877,
-      "name": "A Heathen's Hymn",
-      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/089nElUHIdo4Olf4N1vC7T"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2gY5dl6JfG1dTQu6r0aGsK"
+      "duration_ms": 223366,
+      "name": "Death Rolls Like Thunder",
+      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1671,6 +1639,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/089nElUHIdo4Olf4N1vC7T"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2gY5dl6JfG1dTQu6r0aGsK"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Let's Get Loud",
         "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
+      },
+      "artists": [
+        {
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
+        }
+      ],
+      "duration_ms": 192877,
+      "name": "A Heathen's Hymn",
+      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Neon Sounds",
-        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
       },
       "artists": [
         {
-          "name": "The Delta Bombers",
-          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
         }
       ],
-      "duration_ms": 247013,
-      "name": "Hey! You Know You Wanna!",
-      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
     }
   ],
   "unique_name": "Blues Roots",

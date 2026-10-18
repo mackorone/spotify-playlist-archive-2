@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 315975,
+  "num_followers": 315985,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Lavender Cowboy",
         "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 193555,
       "name": "Lavender Cowboy",
       "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 198173,
       "name": "It Must Be Someone Else\u2019s Fault",
       "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 228962,
-      "name": "I Feel Like Hank Williams Tonight",
-      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "The Lost Outlaw Album",
         "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+      "duration_ms": 228962,
+      "name": "I Feel Like Hank Williams Tonight",
+      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -899,6 +883,22 @@
       "duration_ms": 203973,
       "name": "Rootin\u2019 For You",
       "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Ramblin' Soul",
-        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "From What I Recall",
-      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Fuck With Sad Girls",
         "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 278546,
       "name": "Fuck With Sad Girls",
       "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "From What I Recall",
+      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1667,18 +1667,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Lone Star",
-        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
+        "name": "Havin' A Talk",
+        "url": "https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP"
       },
       "artists": [
         {
-          "name": "Cactus Lee",
-          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        },
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
         }
       ],
-      "duration_ms": 335846,
-      "name": "Lone Star",
-      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
+      "duration_ms": 206480,
+      "name": "The Last To Know",
+      "url": "https://open.spotify.com/track/65965vBWT1mhOGat6GodGa"
     }
   ],
   "unique_name": "Vintage Vibes",

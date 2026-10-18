@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,264 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 16 | [我要去買水彩](https://open.spotify.com/track/0ui2oSnuKyVTgDD3kXS4Ci) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [我要去買水彩](https://open.spotify.com/album/2QLkyrnuyx471ejUGzqRit) | 2:34 |
 | 17 | [给我一个拥抱](https://open.spotify.com/track/3EB8UbtMnKpBc2OTd5xtqX) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37) | [给我一个拥抱](https://open.spotify.com/album/26FyhHPiGdVodBH04t5K6Q) | 3:05 |
 | 18 | [兩隻老虎](https://open.spotify.com/track/5Br1IWBAQtjDSR8Q5mD6Jn) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 0:56 |
-| 19 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 |
+| 19 | [宝贝宝贝](https://open.spotify.com/track/7pXEcYfvlgpQnnbKwkI0Th) | [贝瓦儿歌](https://open.spotify.com/artist/5p42zNY1SK6ILxAZJ4Rkh7) | [宝贝宝贝](https://open.spotify.com/album/3GusfGBQswY0g0AtHoX2yF) | 3:20 |
 | 20 | [捏泥巴](https://open.spotify.com/track/6cs1kK33Fn6a9fBI2G6qVE) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名8 \- 動物音樂課](https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx) | 2:36 |
 | 21 | [一百隻斑馬](https://open.spotify.com/track/2I3HHzCO87ixiD0sWuCJ0k) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [一百隻斑馬](https://open.spotify.com/album/01ZadUJvvzz5vm4emFqWk4) | 2:03 |
-| 22 | [宝贝宝贝](https://open.spotify.com/track/7pXEcYfvlgpQnnbKwkI0Th) | [贝瓦儿歌](https://open.spotify.com/artist/5p42zNY1SK6ILxAZJ4Rkh7) | [宝贝宝贝](https://open.spotify.com/album/3GusfGBQswY0g0AtHoX2yF) | 3:20 |
+| 22 | [快乐起床歌](https://open.spotify.com/track/7hpxOLxRObL1GdlOrEONTG) | [张晶晶](https://open.spotify.com/artist/6uGRh9i4m8kSWZ6kus65B2) | [快乐起床歌](https://open.spotify.com/album/2a1jzAssMtAQtCAqkS1kae) | 3:30 |
 | 23 | [倫敦鐵橋垮下來垮下來](https://open.spotify.com/track/2IOCAsvUSyrzKbEEwutRPq) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌｜經典兒歌唱唱跳跳｜寶寶放電兒歌｜一起來跳舞吧！](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:18 |
-| 24 | [快乐起床歌](https://open.spotify.com/track/7hpxOLxRObL1GdlOrEONTG) | [张晶晶](https://open.spotify.com/artist/6uGRh9i4m8kSWZ6kus65B2) | [快乐起床歌](https://open.spotify.com/album/2a1jzAssMtAQtCAqkS1kae) | 3:30 |
+| 24 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 |
 | 25 | [棒棒棒](https://open.spotify.com/track/0EnTWjXgf8U0NTZB5lyspk) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名9 \- 愛是大明星](https://open.spotify.com/album/3o77dNfJDrzyWm65RpcAjn) | 2:19 |
 | 26 | [勇气大爆发](https://open.spotify.com/track/2vGCXaaTtZOTThEdnnsWAc) | [土豆王国小乐队](https://open.spotify.com/artist/6kevIHD0IeZoso5Pyt2r77), [奶糖乐团](https://open.spotify.com/artist/11mWcwedAZroQwhgbPtokr), [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [勇气大爆发](https://open.spotify.com/album/7k17PJctEb2zMb0y9lZyBI) | 3:13 |
 | 27 | [起床歌](https://open.spotify.com/track/5du31s5tXWd2S6qG4wOwp7) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [寶貝的呢喃歌](https://open.spotify.com/album/2jea9wsUdrk2v2qF3FYH9h) | 3:39 |

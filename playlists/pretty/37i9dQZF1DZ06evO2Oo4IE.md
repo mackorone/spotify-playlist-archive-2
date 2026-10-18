@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,779 likes - 47 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,791 likes - 47 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 39 | [Flower In the Sun \- Live at the Winterland Ballroom, San Francisco, CA \- April 1968](https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin Live At Winterland '68](https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT) | 3:12 |
 | 40 | [Raise Your Hand \- Live at Jahrhunderthalle, Frankfurt, Germany](https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 3:44 |
 | 41 | [Long Black Train](https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:54 |
-| 42 | [All Is Loneliness \- Live at The Fillmore West, San Francisco, CA \- April 1970](https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Joplin In Concert](https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5) | 5:45 |
-| 43 | [Tell Mama \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X) | 6:38 |
+| 42 | [Tell Mama \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X) | 6:38 |
+| 43 | [All Is Loneliness \- Live at The Fillmore West, San Francisco, CA \- April 1970](https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Joplin In Concert](https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5) | 5:45 |
 | 44 | [Women Is Losers \- Live at the Avalon Ballroom, San Francisco, CA \- December 1966](https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 5:06 |
 | 45 | [Hesitation Blues](https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:57 |
 | 46 | [Trouble In Mind](https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB) | [Steve Mann](https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Steve Mann: Alive And Pickin'](https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe) | 3:07 |
 | 47 | [Nobody Knows You When You're Down and Out](https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:20 |
 
-Snapshot ID: `as7GAAAAAAC1SxrDPOTmx6jbZm6h0h0L`
+Snapshot ID: `atFpAAAAAAC1J114jmJF5dcvCHmRAmKl`

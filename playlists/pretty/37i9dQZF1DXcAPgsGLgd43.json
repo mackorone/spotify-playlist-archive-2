@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 122803,
+  "num_followers": 122846,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
+      },
+      "artists": [
+        {
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
+        {
+          "name": "Mydoz",
+          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
+        },
+        {
+          "name": "Zairah",
+          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
+        }
+      ],
+      "duration_ms": 165123,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+    },
+    {
+      "added_at": "2026-10-16 04:00:53",
+      "album": {
         "name": "Tambora",
         "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
       },
@@ -1399,30 +1423,6 @@
       "duration_ms": 167397,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
-    },
-    {
-      "added_at": "2026-10-16 04:00:53",
-      "album": {
-        "name": "Rulay",
-        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
-      },
-      "artists": [
-        {
-          "name": "GROSSOMODDO",
-          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
-        },
-        {
-          "name": "Mydoz",
-          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
-        },
-        {
-          "name": "Zairah",
-          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "Rulay",
-      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
     },
     {
       "added_at": "2026-10-16 04:00:53",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2026-10-16 04:00:53",
-      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2026-10-16 04:00:53",
+      "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2026-10-16 04:00:53",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 159045,
+      "name": "Claro",
+      "url": "https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4"
+    },
+    {
+      "added_at": "2026-10-16 04:00:53",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1939,22 +1959,22 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA"
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
       "artists": [
         {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
         }
       ],
-      "duration_ms": 159045,
-      "name": "Claro",
-      "url": "https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4"
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2026-10-16 04:00:53",
@@ -1975,26 +1995,6 @@
       "duration_ms": 197862,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:53",
-      "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     }
   ],
   "unique_name": "Latin House",

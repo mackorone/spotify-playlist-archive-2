@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tu dosis de energ\u00eda para alegrarte el d\u00eda!",
-  "num_followers": 1782869,
+  "num_followers": 1782812,
   "original_name": "Hits Alegres",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+      "duration_ms": 232533,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -407,22 +411,18 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "RETRICA",
+      "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -887,6 +903,22 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
         "name": "El Ritmo Mundial",
         "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
@@ -899,22 +931,6 @@
       "duration_ms": 279986,
       "name": "Vasos Vac\u00edos - Remasterizado 2008",
       "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "RETRICA",
-      "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -951,22 +967,6 @@
       "duration_ms": 201233,
       "name": "EL BACHAT\u00d3N DE LA L",
       "url": "https://open.spotify.com/track/3RHT8N9fhgqsD6KGDrquaW"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
-        "name": "La Falda",
-        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "La Falda",
-      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 194727,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2026-10-13 15:25:02",

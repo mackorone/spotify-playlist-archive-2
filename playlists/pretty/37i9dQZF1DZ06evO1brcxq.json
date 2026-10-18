@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 229471,
+  "num_followers": 229509,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAB8VUvyWGjI5e0rBWK1vUzv",
+  "snapshot_id": "atAXgAAAAABkjJ9+ibZYxmC9hqXv+pA4",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203907,
+      "name": "Break the Rules",
+      "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 189200,
       "name": "1999",
       "url": "https://open.spotify.com/track/3WGJSY8JaGliVIJyMig5aS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203907,
-      "name": "Break the Rules",
-      "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
     },
     {
       "added_at": null,

@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Diamond Days EP",
+        "url": "https://open.spotify.com/album/0Wq4chx64Msl8lo4Y8nyzG"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260120,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/1XKaicELAvk2XIbWgv1Vgz"
+    },
+    {
+      "album": {
         "name": "The Rat",
         "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 260120,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"

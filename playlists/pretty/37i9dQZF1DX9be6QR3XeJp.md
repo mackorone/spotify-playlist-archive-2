@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: bed
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,422 likes - 302 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,420 likes - 302 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

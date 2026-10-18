@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,697 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,707 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 52 | [Magnética](https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Magnética](https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI) | 3:16 |
 | 53 | [Meu Destino é o Litoral](https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Meu Destino é o Litoral](https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh) | 3:10 |
 | 54 | [Em Paz Com o Mundo](https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Em Paz Com o Mundo](https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo) | 3:37 |
-| 55 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
-| 56 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
+| 55 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
+| 56 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
 | 57 | [Olha Pra Mim](https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Olha Pra Mim](https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d) | 2:57 |
 | 58 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
 | 59 | [Um Sinal](https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq) | [André Rios](https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8), [Lira](https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM) | [Um Sinal](https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09) | 3:58 |

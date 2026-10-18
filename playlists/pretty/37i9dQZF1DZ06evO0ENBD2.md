@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,990,559 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,990,609 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 12 | [Somebody To Love](https://open.spotify.com/track/18OMrZoyyZuVy06FttIFhq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:57 |
 | 13 | [We Are the Champions](https://open.spotify.com/track/0saBeiGcu2dECTvAknHPzL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 3:00 |
 | 14 | [Cool Cat](https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Edition\)](https://open.spotify.com/album/5MJwdeBTZ5V4PZtFh4gaQ6) | 3:29 |
-| 15 | [Love of My Life](https://open.spotify.com/track/0xcWxI1fUxfD6LrrljUH7L) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:39 |
-| 16 | [The Show Must Go On](https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:31 |
+| 15 | [The Show Must Go On](https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:31 |
+| 16 | [Love of My Life](https://open.spotify.com/track/0xcWxI1fUxfD6LrrljUH7L) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:39 |
 | 17 | [You're My Best Friend](https://open.spotify.com/track/46gybz6M2g4oiVvt1aWOV4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM) | 2:52 |
 | 18 | [Fat Bottomed Girls](https://open.spotify.com/track/5GT2mT3P8vMK4U9R4zzu7a) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 4:17 |
 | 19 | [Good Old\-Fashioned Lover Boy](https://open.spotify.com/track/1FXeqJV13iMAeOohMpwJnA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 2:52 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 27 | [Friends Will Be Friends](https://open.spotify.com/track/11fDQmW6T3zyX6OEKKF11O) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:12 |
 | 28 | [Bicycle Race](https://open.spotify.com/track/1HjvOZjeYSmZFU4qHtXOfY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 3:03 |
 | 29 | [Ay\-Oh \- Live Aid](https://open.spotify.com/track/6vSlOsSEWF6IA3kXJj16jF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 0:41 |
-| 30 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
-| 31 | [Save Me](https://open.spotify.com/track/5PYTziNGPjz0HohZVm2coE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:49 |
+| 30 | [Save Me](https://open.spotify.com/track/5PYTziNGPjz0HohZVm2coE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:49 |
+| 31 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
 | 32 | [I Was Born To Love You](https://open.spotify.com/track/62IXvE06fEbcLimzQWRyq8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:49 |
 | 33 | [Seven Seas of Rhye](https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition\)](https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4) | 2:48 |
 | 34 | [It's A Hard Life](https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition\)](https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e) | 5:07 |
 | 50 | [Tie Your Mother Down \- Live in Budapest](https://open.spotify.com/track/2SPnC691IFXgzCk9DGf8eX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Tie Your Mother Down \(Live in Budapest\)](https://open.spotify.com/album/1BGiS3fcRGNi1Fw68WCC2W) | 4:41 |
 
-Snapshot ID: `as7GAAAAAADF1eQVXKF9hIQz0Jk67xZd`
+Snapshot ID: `atFpAAAAAABrWXXib3y3CNq4fnNkLTRC`

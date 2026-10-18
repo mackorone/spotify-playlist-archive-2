@@ -4,7 +4,7 @@
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 44 min
+46 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,11 +35,12 @@
 | [Lying On The Floor](https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:23 | 2023-08-19 |  |
 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 | 2022-09-16 |  |
 | [My Generation](https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:02 | 2024-10-02 |  |
-| [Narrow Ways](https://open.spotify.com/track/0k3F1sYirFzPz7o5MW6b2Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:36 | 2022-09-16 |  |
+| [Narrow Ways](https://open.spotify.com/track/0Ge9FCkOZ6MP6cR4x9RRUS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:36 | 2026-10-18 |  |
+| [Narrow Ways](https://open.spotify.com/track/0k3F1sYirFzPz7o5MW6b2Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:36 | 2022-09-16 | 2026-10-18 |
 | [Neighbour Neighbour](https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Neighbour Neighbour](https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF) | 3:33 | 2022-09-16 |  |
 | [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 | 2022-09-16 |  |
 | [OK Cathedral](https://open.spotify.com/track/45ERko0Qgz1a1xAHrrKLD9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:44 | 2022-09-16 |  |
-| [Outsider](https://open.spotify.com/track/1AsYwPPbpqv5o4M2C3n3kK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:00 | 2026-09-21 |  |
+| [Outsider](https://open.spotify.com/track/1AsYwPPbpqv5o4M2C3n3kK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:00 | 2026-09-21 | 2026-10-18 |
 | [Outsider](https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 | 2022-09-16 | 2023-01-05 |
 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 | 2022-09-16 |  |
 | [Pick it Up Again](https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:10 | 2022-09-16 |  |

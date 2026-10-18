@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43843,
+  "num_followers": 43842,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADivuXvN1JjmzqeNQCTnSb/",
+  "snapshot_id": "atAXgAAAAABgDOnYiKFTkZsUxkL1u6CS",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 225072,
-      "name": "Llegaste t\u00fa (feat. Reykon)",
-      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 225072,
+      "name": "Llegaste t\u00fa (feat. Reykon)",
+      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
     },
     {
       "added_at": null,
@@ -596,13 +596,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 231796,
-      "name": "yo tuya, t\u00fa m\u00edo",
-      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
+      "duration_ms": 211792,
+      "name": "MILAMORES",
+      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
     },
     {
       "added_at": null,
@@ -684,13 +684,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 211792,
-      "name": "MILAMORES",
-      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
+      "duration_ms": 231796,
+      "name": "yo tuya, t\u00fa m\u00edo",
+      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 221320,
       "name": "Highway",
       "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
     },
     {
       "added_at": null,
@@ -882,11 +882,15 @@
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
     },
     {
       "added_at": null,
@@ -966,15 +970,11 @@
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 147482,
-      "name": "U\u00f1as Afiladas",
-      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muevelo Remix (feat. Maffio)",
-        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Carlos \"Maffio\" Peralta",
-          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Muevelo Remix (feat. Maffio)",
-      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "coRaZ\u00d3n fR\u00edO",
         "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muevelo Remix (feat. Maffio)",
+        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Carlos \"Maffio\" Peralta",
+          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Muevelo Remix (feat. Maffio)",
+      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
     },
     {
       "added_at": null,

@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+    },
+    {
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -9090,7 +9112,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 163064,
       "name": "So True",
       "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
@@ -9186,6 +9208,28 @@
       "duration_ms": 175384,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/2KTO4mRnARHCqXhV8f6MBj"
+    },
+    {
+      "album": {
+        "name": "Somehow It Flies",
+        "url": "https://open.spotify.com/album/7bVIDJ4DSctHgCnPvBi3Mt"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161834,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/08T4rQxqam71tSDhl9Z318"
     },
     {
       "album": {
@@ -9826,7 +9870,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 220622,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
@@ -11390,7 +11434,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 148432,
       "name": "What A Time To Be Alive",
       "url": "https://open.spotify.com/track/0xRzOWHlnroH3bdziKbj64"
@@ -11784,6 +11828,28 @@
       "duration_ms": 191718,
       "name": "Wounded",
       "url": "https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj"
+    },
+    {
+      "album": {
+        "name": "WYWD",
+        "url": "https://open.spotify.com/album/5aV211595GuQbpbEAkhWIM"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171438,
+      "name": "WYWD",
+      "url": "https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou"
     },
     {
       "album": {

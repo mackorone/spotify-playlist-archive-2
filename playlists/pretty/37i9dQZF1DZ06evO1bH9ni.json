@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 355359,
+  "num_followers": 355369,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACyyI08fAK92UOn4rK5Ub8T",
+  "snapshot_id": "atAXgAAAAADZeCCNsJh6ewmfa47dGfm+",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas Y De Nadie",
-        "url": "https://open.spotify.com/album/3ASDDNxxZalJZiGLYPdc4n"
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 183996,
-      "name": "De Todas Y De Nadie",
-      "url": "https://open.spotify.com/track/2AN5kdD4iULNxtb17QniI7"
+      "duration_ms": 159694,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+        "name": "De Todas Y De Nadie",
+        "url": "https://open.spotify.com/album/3ASDDNxxZalJZiGLYPdc4n"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 159694,
-      "name": "Mis Ra\u00edces",
-      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
+      "duration_ms": 183996,
+      "name": "De Todas Y De Nadie",
+      "url": "https://open.spotify.com/track/2AN5kdD4iULNxtb17QniI7"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defendiendo la Vieja Escuela",
-        "url": "https://open.spotify.com/album/2ARkzmZMpi6KQUfeE0k5EZ"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "NORTE\u00d1AZO",
-          "url": "https://open.spotify.com/artist/24Spi0bZV1slKqwAOlTf4f"
-        }
-      ],
-      "duration_ms": 261197,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/3zit24OlxsW8Z3pYl55WF6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 202327,
       "name": "El Corrido de Panchito",
       "url": "https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defendiendo la Vieja Escuela",
+        "url": "https://open.spotify.com/album/2ARkzmZMpi6KQUfeE0k5EZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "NORTE\u00d1AZO",
+          "url": "https://open.spotify.com/artist/24Spi0bZV1slKqwAOlTf4f"
+        }
+      ],
+      "duration_ms": 261197,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/3zit24OlxsW8Z3pYl55WF6"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 157285,
-      "name": "Ay Nom\u00e1s",
-      "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 157285,
+      "name": "Ay Nom\u00e1s",
+      "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros Placosos",
+        "url": "https://open.spotify.com/album/6dqyuo713dNGjuRf78SjUZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 150225,
+      "name": "Todo Fine",
+      "url": "https://open.spotify.com/track/4ceRhPSK8XXsL2do0cyyyK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Loco",
         "url": "https://open.spotify.com/album/7joGAzoH53xoweeNof9GwE"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 216583,
       "name": "Lo Logr\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/1fd44meocAPByn3w0Qp3LY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros Placosos",
-        "url": "https://open.spotify.com/album/6dqyuo713dNGjuRf78SjUZ"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 150225,
-      "name": "Todo Fine",
-      "url": "https://open.spotify.com/track/4ceRhPSK8XXsL2do0cyyyK"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

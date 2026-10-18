@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252354,
+  "num_followers": 252349,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1511,22 +1515,18 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 345310,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1563,38 +1563,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Maitri",
-        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Maitri",
-      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "Ithaque",
-        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Ithaque",
-      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
       },
@@ -1615,6 +1583,38 @@
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Jazz Feel",
+        "url": "https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "Jazz Feel",
+      "url": "https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Ithaque",
+        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Ithaque",
+      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1655,38 +1655,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Jazz Feel",
-        "url": "https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "Jazz Feel",
-      "url": "https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "you know",
-        "url": "https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0"
-      },
-      "artists": [
-        {
-          "name": "Giulia Tess",
-          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "you know",
-      "url": "https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1707,18 +1675,34 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "When The Rain Begins To Fall",
-        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+        "name": "you know",
+        "url": "https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
         }
       ],
-      "duration_ms": 214016,
-      "name": "When The Rain Begins To Fall",
-      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+      "duration_ms": 251746,
+      "name": "you know",
+      "url": "https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Maitri",
+        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Maitri",
+      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "First Light Falling",
-        "url": "https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9"
+        "name": "When The Rain Begins To Fall",
+        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
       },
       "artists": [
         {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 172250,
-      "name": "First Light Falling",
-      "url": "https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9"
+      "duration_ms": 214016,
+      "name": "When The Rain Begins To Fall",
+      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1795,22 +1779,18 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Chica",
-        "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
+        "name": "First Light Falling",
+        "url": "https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9"
       },
       "artists": [
         {
-          "name": "NUZZLE",
-          "url": "https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa"
-        },
-        {
-          "name": "Chicca Leaf",
-          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 130393,
-      "name": "Chica",
-      "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
+      "duration_ms": 172250,
+      "name": "First Light Falling",
+      "url": "https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1847,6 +1827,26 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
+      },
+      "artists": [
+        {
+          "name": "NUZZLE",
+          "url": "https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa"
+        },
+        {
+          "name": "Chicca Leaf",
+          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
+        }
+      ],
+      "duration_ms": 130393,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
     },
     {
       "added_at": "2026-09-03 22:02:56",

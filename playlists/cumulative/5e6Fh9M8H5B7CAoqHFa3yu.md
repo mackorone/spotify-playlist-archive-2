@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,694 songs - 6 day 12 hr 48 min
+2,697 songs - 6 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Abelina \- Speed Up Version](https://open.spotify.com/track/5TOCVG00wNVMhfrUPA0NvP) | [Rich.p](https://open.spotify.com/artist/1Qbx5pB7aI2zC8KW53P1ss) | [Abelina \- Speed Up Version](https://open.spotify.com/album/0HcT0zuOQ6EjH0jLoM4vrq) | 2:27 | 2025-05-19 |  |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-08-28 |  |
 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 | 2025-09-24 |  |
+| [Acf](https://open.spotify.com/track/5vMnaiWaAqTZi5Y2jFY4K4) | [Ronce](https://open.spotify.com/artist/1eeE3XG9acxrNxvhvSy9oR) | [Complexe](https://open.spotify.com/album/6YZ5dcTkEcmVQ1GlTg1gWu) | 2:23 | 2026-10-17 |  |
 | [Achtung! Ghetto Lioness](https://open.spotify.com/track/6hHUM8rIEVF9fioBVS2Uev) | [Roadblock Dub Collective](https://open.spotify.com/artist/64UADSwMK2E5Nj3vh7QEkb) | [Suwarnadub](https://open.spotify.com/album/0ywrdUv7aP9Fw8LrN8kawz) | 3:37 | 2024-07-27 |  |
 | [Achtung! Ghetto Lioness \- Khesek Live Dub Mix](https://open.spotify.com/track/2dJ5j7DDcqUTVoQn8Hotxo) | [Roadblock Dub Collective](https://open.spotify.com/artist/64UADSwMK2E5Nj3vh7QEkb), [Sub Conscious Dub](https://open.spotify.com/artist/2POBxX9p6HlWitXFbhWAEl) | [Suwarnadub](https://open.spotify.com/album/0ywrdUv7aP9Fw8LrN8kawz) | 3:29 | 2024-05-01 |  |
 | [Achtung! Ghetto Lioness \- Khesek Mix](https://open.spotify.com/track/449QC2z1gCOcQo9RpHJgvy) | [Roadblock Dub Collective](https://open.spotify.com/artist/64UADSwMK2E5Nj3vh7QEkb) | [Suwarnadub](https://open.spotify.com/album/0ywrdUv7aP9Fw8LrN8kawz) | 3:35 | 2024-05-01 |  |
@@ -393,6 +394,7 @@
 | [Chalice Dub](https://open.spotify.com/track/7JX3Dbh9H3Mtq1cLya90Oo) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:40 | 2024-05-01 |  |
 | [Chalodnaja Zorka](https://open.spotify.com/track/2pnc2Hzf8SrGpNiThKOqVG) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:52 | 2025-10-09 |  |
 | [Change \- Live](https://open.spotify.com/track/67fwh9pjo1EhZv6CRdGn0k) | [Ordinary Rebel](https://open.spotify.com/artist/2xda5wpmZV4e87JXCiqa1n) | [F\#ck your algorithm \(Live\)](https://open.spotify.com/album/1Owmdso3Q3KVgdCWKFhV9k) | 1:36 | 2026-08-26 |  |
+| [Changes](https://open.spotify.com/track/2iZuVrRR2YJ6USU2MSSOgH) | [Alex J'](https://open.spotify.com/artist/5y6K1qHfVQdu4oFMvLe1Wg) | [Changes](https://open.spotify.com/album/4pUcoGAfHuqBBy7FF7Z8Rh) | 4:22 | 2026-10-17 |  |
 | [Chaos In My Head](https://open.spotify.com/track/0zwUK4UeE2GqEuI3riJXYl) | [Bortitz](https://open.spotify.com/artist/0Ypm8wsqi6TW6beD1lO0rC), [Anna Indiana](https://open.spotify.com/artist/5F8GF9eKpRyhV6NQdJ0Bdp) | [Karma](https://open.spotify.com/album/10JyibAycZJEvMjMdHOpvE) | 2:41 | 2025-05-25 |  |
 | [Chasing Daylight](https://open.spotify.com/track/7CzvilbrwlLzVpQGVXPN6k) | [Summer Signals](https://open.spotify.com/artist/5X4r6sqrLaIk0T0mwnpXoq) | [Chasing Daylight](https://open.spotify.com/album/22BKT7lJr4ya7Fc4UmGgh8) | 3:12 | 2026-07-28 |  |
 | [Chau Dios](https://open.spotify.com/track/3oby8FKMeOdOrImV7ttBHb) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Chau Dios](https://open.spotify.com/album/0pma5SzdpBk6r47NH1RFTl) | 3:48 | 2026-04-26 |  |
@@ -1461,6 +1463,7 @@
 | [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 | 2026-09-04 |  |
 | [Men](https://open.spotify.com/track/220iiQKMH4ZMfHERBJSRJC) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 4:54 | 2025-09-17 |  |
 | [Menjadi Utuh](https://open.spotify.com/track/5vcOa8lzcPBO2KQ74AQdtl) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Menjadi Utuh](https://open.spotify.com/album/2jynPXHatxWoOARNGRcYGf) | 4:13 | 2026-07-09 |  |
+| [Menyerah Pada Waktu](https://open.spotify.com/track/4oiVwIwGKYgwdk8vG0Uyr5) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Menyerah Pada Waktu](https://open.spotify.com/album/0kAjLI3QAW58292SFweHHx) | 3:34 | 2026-10-17 |  |
 | [Merri \- Go](https://open.spotify.com/track/5sgEWkDU0LZ1TtH5TZ9Ibp) | [JayzDayz](https://open.spotify.com/artist/6pd58j15goA4rLevfgIVAC) | [Jealousy Never Blooms](https://open.spotify.com/album/4UIZSIxQ32CLauUcxfRHBC) | 2:58 | 2026-01-10 |  |
 | [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 | 2026-04-12 |  |
 | [Message Man](https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 4:00 | 2024-03-04 |  |

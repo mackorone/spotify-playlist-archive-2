@@ -1,6 +1,6 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 152897,
+  "num_followers": 153086,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-09-14 20:54:50",
       "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "added_at": "2026-09-14 20:54:50",
+      "album": {
         "name": "Go Again",
         "url": "https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 240166,
       "name": "Go Again",
       "url": "https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e"
-    },
-    {
-      "added_at": "2026-09-14 20:54:50",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2026-09-14 20:54:50",

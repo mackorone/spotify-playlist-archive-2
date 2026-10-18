@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: TML Vibez
 
-542 songs - 1 day 0 hr 40 min
+543 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bride Price](https://open.spotify.com/track/4FQTBegN76cKnDvjKvD73p) | [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Bride Price](https://open.spotify.com/album/4Cgae05jrRiZFCCFdtqX0m) | 3:35 | 2025-01-17 | 2025-02-21 |
 | [Brother](https://open.spotify.com/track/4ORCmAaIPGRAhtA83TXFP7) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Brother](https://open.spotify.com/album/0GqNtIzGs7hIEYILcPunhs) | 2:49 | 2026-05-01 | 2026-05-08 |
 | [Buga Won](https://open.spotify.com/track/0YwXiAaMSFt9XN5a2T26ZM) | [Dammye](https://open.spotify.com/artist/14cgLDAWHeu4vnHl6p8drF), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Buga Won](https://open.spotify.com/album/19EmQRRM4aUj8prMyGNzvP) | 2:58 | 2025-08-15 | 2025-09-05 |
+| [Bullion Van](https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Bullion Van](https://open.spotify.com/album/5wUCNSjLXZ8sVs5rsN1Xhb) | 2:16 | 2026-10-16 |  |
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2024-02-02 | 2026-05-22 |
 | [Busy](https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Busy](https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK) | 2:52 | 2023-12-15 | 2024-02-16 |
 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-16 | 2025-06-20 |
@@ -127,7 +128,7 @@
 | [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 | 2026-08-28 |  |
 | [Chop Life](https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [Gdzilla](https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO) | 2:32 | 2023-12-08 | 2024-01-09 |
 | [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 | 2026-08-07 |  |
-| [CLEAR](https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:33 | 2026-08-21 |  |
+| [CLEAR](https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:33 | 2026-08-21 | 2026-10-18 |
 | [CLOUD 9 \(GUCCI BBY\)](https://open.spotify.com/track/0s0HKUEoB3vmZqzM90GOJK) | [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [GUCCI & LV](https://open.spotify.com/album/6VFErC5TrSgbttDKc4LJJx) | 2:49 | 2026-04-10 | 2026-05-08 |
 | [Collect \- Afrobeat](https://open.spotify.com/track/4wNUpUL8niDXZX8FHeKs2a) | [DJ Baddo](https://open.spotify.com/artist/2Kw1ePXHREwlgngRzbaqR9), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Collect \(Afrobeat\)](https://open.spotify.com/album/4KtdOekMwPRnpmNFZQJ5nJ) | 2:46 | 2024-10-25 | 2024-11-08 |
 | [Come Back Home](https://open.spotify.com/track/76bJuqprGVU6gHFqw1rjMu) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Come Back Home](https://open.spotify.com/album/79CXyWncscwC0nExbi0w22) | 2:35 | 2026-10-09 |  |

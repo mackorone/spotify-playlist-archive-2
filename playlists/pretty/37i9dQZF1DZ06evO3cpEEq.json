@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atAXgAAAAAD8X+KT9sVvbKUvX6hk7vTW",
+  "snapshot_id": "atFpAAAAAAAklReQz11FdQ8IBFWRwka8",
   "tracks": [
     {
       "added_at": null,
@@ -80,74 +80,6 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 256413,
-      "name": "Girl in the Mall",
-      "url": "https://open.spotify.com/track/6XTfDbMxKApnYww9YOs3r0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frozen Rabbit",
-        "url": "https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 193370,
-      "name": "New Harmony",
-      "url": "https://open.spotify.com/track/22duJOJn8Bc3o2K8x6pfv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Less of Me More Often",
-      "url": "https://open.spotify.com/track/6lIqDxKE72vM3vtIYCypmq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing to Hide",
-        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        },
-        {
-          "name": "Rick Price",
-          "url": "https://open.spotify.com/artist/2IJxOGPJDJzf6lLQqa84jl"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "If You Were My Baby",
-      "url": "https://open.spotify.com/track/2NPiQrtS4BUmXwTWKvUL9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Landing Lights",
-        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
       "duration_ms": 191293,
       "name": "Old Man Trouble",
       "url": "https://open.spotify.com/track/6sis4M3L5lOGd1rzxOKkba"
@@ -167,6 +99,22 @@
       "duration_ms": 217828,
       "name": "Hopscotch Sunday",
       "url": "https://open.spotify.com/track/6wZXs9O8fBFoDAe9Oer5nG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Tropical Fever",
+      "url": "https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo"
     },
     {
       "added_at": null,
@@ -195,6 +143,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "Girl in the Mall",
+      "url": "https://open.spotify.com/track/6XTfDbMxKApnYww9YOs3r0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frozen Rabbit",
+        "url": "https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 193370,
+      "name": "New Harmony",
+      "url": "https://open.spotify.com/track/22duJOJn8Bc3o2K8x6pfv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Sugarloaf Hill",
+      "url": "https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cast",
         "url": "https://open.spotify.com/album/5jjYptXOsQ1SaJDwLETwrp"
       },
@@ -211,74 +207,6 @@
       "duration_ms": 270200,
       "name": "Too Many Drawers",
       "url": "https://open.spotify.com/track/1SbsGO2klPqbfiTju8csUM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Landing Lights",
-        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "So Go On",
-      "url": "https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frozen Rabbit",
-        "url": "https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 280247,
-      "name": "Speck of Dust",
-      "url": "https://open.spotify.com/track/12HXebA19zhK2imE3q6xTD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing to Hide",
-        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Sugar Town",
-      "url": "https://open.spotify.com/track/6kqwN65FEBCatSX3z38670"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Edge of It All",
-        "url": "https://open.spotify.com/album/69hQpAVpRlSgXzZ3YZstcQ"
-      },
-      "artists": [
-        {
-          "name": "Phil Davidson",
-          "url": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/3a9FYOFDfwdcS9a8zr0QtR"
     },
     {
       "added_at": null,
@@ -326,11 +254,15 @@
         {
           "name": "Felicity Urquhart",
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Rick Price",
+          "url": "https://open.spotify.com/artist/2IJxOGPJDJzf6lLQqa84jl"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Tropical Fever",
-      "url": "https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo"
+      "duration_ms": 245280,
+      "name": "If You Were My Baby",
+      "url": "https://open.spotify.com/track/2NPiQrtS4BUmXwTWKvUL9I"
     },
     {
       "added_at": null,
@@ -344,9 +276,77 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 160826,
-      "name": "Every Fool Has a Rainbow",
-      "url": "https://open.spotify.com/track/1ya2GaDcFmCMnuCz6h55TB"
+      "duration_ms": 154666,
+      "name": "Less of Me More Often",
+      "url": "https://open.spotify.com/track/6lIqDxKE72vM3vtIYCypmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "So Go On",
+      "url": "https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frozen Rabbit",
+        "url": "https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 156632,
+      "name": "Strawberry Footprints",
+      "url": "https://open.spotify.com/track/1GgjyW2LWQ7Nw5a892i8c1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/54v7sRXJYPlOhY3brfdCyL"
+      },
+      "artists": [
+        {
+          "name": "Brad Butcher",
+          "url": "https://open.spotify.com/artist/10X5cQoX0Mkm9eMZcXsetC"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 258320,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/5cJROxX3DX3PzZI7SORzd0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 156632,
-      "name": "Strawberry Footprints",
-      "url": "https://open.spotify.com/track/1GgjyW2LWQ7Nw5a892i8c1"
+      "duration_ms": 280247,
+      "name": "Speck of Dust",
+      "url": "https://open.spotify.com/track/12HXebA19zhK2imE3q6xTD"
     },
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Edge of It All",
+        "url": "https://open.spotify.com/album/69hQpAVpRlSgXzZ3YZstcQ"
+      },
+      "artists": [
+        {
+          "name": "Phil Davidson",
+          "url": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/3a9FYOFDfwdcS9a8zr0QtR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Shadow",
         "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
       },
@@ -408,29 +428,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 238266,
-      "name": "Planet of Love",
-      "url": "https://open.spotify.com/track/7wTQs1o4yo1m3aLvuMZHGi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/54v7sRXJYPlOhY3brfdCyL"
-      },
-      "artists": [
-        {
-          "name": "Brad Butcher",
-          "url": "https://open.spotify.com/artist/10X5cQoX0Mkm9eMZcXsetC"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/5cJROxX3DX3PzZI7SORzd0"
+      "duration_ms": 154400,
+      "name": "Live a Little",
+      "url": "https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h"
     },
     {
       "added_at": null,
@@ -464,41 +464,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Sugarloaf Hill",
-      "url": "https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Live a Little",
-      "url": "https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "Lonely Girl",
-      "url": "https://open.spotify.com/track/54stbe8ngYu7gvx0ApTKjs"
+      "duration_ms": 182306,
+      "name": "Sugar Town",
+      "url": "https://open.spotify.com/track/6kqwN65FEBCatSX3z38670"
     },
     {
       "added_at": null,
@@ -512,9 +480,41 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 199880,
-      "name": "I Fall",
-      "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
+      "duration_ms": 257133,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/4bUjw05kVItWjRxaklJKYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Every Fool Has a Rainbow",
+      "url": "https://open.spotify.com/track/1ya2GaDcFmCMnuCz6h55TB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 291626,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0"
+      "duration_ms": 238266,
+      "name": "Planet of Love",
+      "url": "https://open.spotify.com/track/7wTQs1o4yo1m3aLvuMZHGi"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 254840,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC"
+      "duration_ms": 282013,
+      "name": "Lonely Girl",
+      "url": "https://open.spotify.com/track/54stbe8ngYu7gvx0ApTKjs"
     },
     {
       "added_at": null,

@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 27 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
 | 28 | [Memories of Blue](https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 5:40 |
 | 29 | [P.S.](https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 2:06 |
-| 30 | [Titans \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 |
-| 31 | [Alpha](https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:44 |
+| 30 | [Alpha](https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:44 |
+| 31 | [Titans \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 |
 | 32 | [Aquatic Dance](https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 3:43 |
 | 33 | [Antarctica Echoes \- Remastered](https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 5:52 |
 | 34 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 49 | [Rêve \- Remastered](https://open.spotify.com/track/6a9zPEoKGFMjRQeQIJ8h83) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 12:31 |
 | 50 | [El Greco \- Part 1](https://open.spotify.com/track/1QXSIk5n6CJWdFe34uLebP) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/4hGJ3SaDnxyOnouNUe9kQi) | 3:58 |
 
-Snapshot ID: `as7GAAAAAADQfScper/IbLhTsVGs2r+9`
+Snapshot ID: `atFpAAAAAABENOviTPEK90tI+pjiQCQf`

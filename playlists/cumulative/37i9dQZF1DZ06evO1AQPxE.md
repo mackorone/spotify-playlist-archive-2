@@ -4,7 +4,7 @@
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 41 min
+99 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2024-03-23 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2024-01-12 | 2024-03-24 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6xGr4tVzpTX99p9Cf0hRRL) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:21 | 2024-04-25 | 2025-09-05 |
-| [Against The Grain](https://open.spotify.com/track/0trUJorcGfvDRoaqS8zawx) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:13 | 2026-03-27 |  |
+| [Against The Grain](https://open.spotify.com/track/0trUJorcGfvDRoaqS8zawx) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:13 | 2026-03-27 | 2026-10-18 |
 | [All Of My Friends](https://open.spotify.com/track/2LTRSoho4n35jXJBYZrpwp) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 2:57 | 2026-03-15 |  |
 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 | 2024-01-12 |  |
 | [Ambitious](https://open.spotify.com/track/0pytLWYHCQdheIWB2Ay5Dk) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:52 | 2024-06-25 |  |
@@ -82,6 +82,7 @@
 | [RIVER ROAD](https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 4:15 | 2024-05-11 | 2026-10-15 |
 | [ROTTEN \(feat\. EST Gee\)](https://open.spotify.com/track/15jg4vt123axobdGleLugn) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:10 | 2024-01-12 |  |
 | [Route 66 \(feat\. EST Gee\)](https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:33 | 2024-01-12 |  |
+| [Say Hello](https://open.spotify.com/track/2DXZpuKsRuC3I3bpV7YTv6) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 4:57 | 2026-10-18 |  |
 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-16 |  |
 | [Set You Free](https://open.spotify.com/track/5gRE3xO4wmXj5yZXgcqb2j) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/5m2a6d0YdUi1wnnqQ7CjIu) | 2:13 | 2025-02-21 | 2025-03-20 |
 | [Side Piece](https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:54 | 2024-05-11 | 2026-04-01 |

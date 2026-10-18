@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38504,
+  "num_followers": 38506,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAIUN1ayWU0xDH3p1X5bWgn",
+  "snapshot_id": "atFpAAAAAADJ9hvCrwQhBR86mKuXCDcn",
   "tracks": [
     {
       "added_at": null,
@@ -339,46 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me See Ya (feat. MUNA)",
-        "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
-      },
-      "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 205592,
-      "name": "Let Me See Ya (feat. MUNA)",
-      "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 280286,
-      "name": "Infatuation",
-      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hi This Is Flume (Mixtape)",
         "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
@@ -399,6 +359,46 @@
       "duration_ms": 287331,
       "name": "Is It Cold In The Water? - Flume & Eprom Remix",
       "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 280286,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me See Ya (feat. MUNA)",
+        "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Let Me See Ya (feat. MUNA)",
+      "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Down",
-        "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
-      },
-      "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 146069,
-      "name": "Go Down",
-      "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 244839,
       "name": "My Forever (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go Down",
+        "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 146069,
+      "name": "Go Down",
+      "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "Forever - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 244062,
       "name": "Live In My Truth (feat. BC Kingdom and LIZ)",
       "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 219212,
+      "name": "Forever - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
     },
     {
       "added_at": null,
@@ -760,7 +760,7 @@
       "added_at": null,
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 265788,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
+      "duration_ms": 242809,
+      "name": "Pretending I Give In (Let Go)",
+      "url": "https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi"
     },
     {
       "added_at": null,
@@ -800,7 +800,7 @@
       "added_at": null,
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
+        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 242809,
-      "name": "Pretending I Give In (Let Go)",
-      "url": "https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi"
+      "duration_ms": 265788,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
     }
   ],
   "unique_name": "This Is SOPHIE",

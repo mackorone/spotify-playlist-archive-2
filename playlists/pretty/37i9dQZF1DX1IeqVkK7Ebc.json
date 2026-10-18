@@ -1,6 +1,6 @@
 {
   "description": "soft and sweet",
-  "num_followers": 366543,
+  "num_followers": 366534,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural",
-      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
-    },
-    {
-      "added_at": "2026-03-06 15:01:33",
-      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2026-03-06 15:01:33",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "supernatural",
+      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
     },
     {
       "added_at": "2026-03-06 15:01:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "SINK NOW, SWIM LATER",
-        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "ORIGAMI",
-      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
-    },
-    {
-      "added_at": "2026-03-06 15:01:33",
-      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 266021,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+    },
+    {
+      "added_at": "2026-03-06 15:01:33",
+      "album": {
+        "name": "SINK NOW, SWIM LATER",
+        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "ORIGAMI",
+      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
     },
     {
       "added_at": "2026-03-06 15:01:33",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "Alienated",
-        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Alienated",
-      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
-    },
-    {
-      "added_at": "2026-03-06 15:01:33",
-      "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 216471,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "added_at": "2026-03-06 15:01:33",
+      "album": {
+        "name": "Alienated",
+        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Alienated",
+      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
     },
     {
       "added_at": "2026-03-06 15:01:33",

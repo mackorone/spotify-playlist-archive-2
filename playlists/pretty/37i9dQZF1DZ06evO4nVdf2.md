@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,569 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,572 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 31 | [Todo al Revés](https://open.spotify.com/track/3lSmVDh4KW7Qtouy0rklWe) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:35 |
 | 32 | [Corazonada](https://open.spotify.com/track/1pKR8tOrJXI4IYBLFCGfs7) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:57 |
 | 33 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
-| 34 | [Poquito A Poquito](https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:42 |
-| 35 | [Feliz Breakup](https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Feliz Breakup](https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0) | 3:27 |
+| 34 | [Feliz Breakup](https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Feliz Breakup](https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0) | 3:27 |
+| 35 | [Poquito A Poquito](https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:42 |
 | 36 | [Mediocre](https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:16 |
 | 37 | [N.I.T.](https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE) | 3:29 |
 | 38 | [Sophia](https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Sophia Perusquia](https://open.spotify.com/artist/3YmlPJYhKl7hmmOynT0DrX) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 0:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Ruptura](https://open.spotify.com/track/3D51NYZSRztVQqim234LiI) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 4:09 |
 | 50 | [Fetiche](https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 3:15 |
 
-Snapshot ID: `as7GAAAAAAAQXJhQQ/t4qux2wNWwVwYD`
+Snapshot ID: `atFpAAAAAADcRB+gLWmMGrptjOUAE17t`

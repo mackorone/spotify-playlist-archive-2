@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Ryan Trey
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,196 likes - 99 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,221 likes - 99 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 54 | [Yahweh Will Manifest Himself / Who Else](https://open.spotify.com/track/4i5jdpYOvgoyebhTpG0mRy) | [One Voice INT Music](https://open.spotify.com/artist/6c6GqErJ4d8zV8EjLIQAe7), [Gospel Chidi](https://open.spotify.com/artist/4FfmJ8zNSUZ0ZU9rdAAnxt), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Free Worship](https://open.spotify.com/album/7bo2HXmbSls7Skkf99fcrl) | 11:14 |
 | 55 | [Worship Rise](https://open.spotify.com/track/3GM17nt1Nw0qVuumk3aFGQ) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Worship Rise](https://open.spotify.com/album/4HVtYagLd3JCwCOOFoVSaZ) | 3:35 |
 | 56 | [Nobody But You \- Live](https://open.spotify.com/track/2VoPuqrMwBEDPfTKT3jdUy) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [IBHAR: The Chronicle \(Chapter 3\)](https://open.spotify.com/album/3Sa1hzBGJkfQAv5d40y82m) | 6:49 |
-| 57 | [Welcome Home \- Live in Los Angeles](https://open.spotify.com/track/1eIcZ4F1r76UK6kMGAykzb) | [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Travis Malloy](https://open.spotify.com/artist/2L0ZzKX7bCTF0Z44HfUuV1) | [Live in Los Angeles](https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3) | 3:43 |
+| 57 | [Welcome Home \- Live in Los Angeles](https://open.spotify.com/track/1eIcZ4F1r76UK6kMGAykzb) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Travis Malloy](https://open.spotify.com/artist/2L0ZzKX7bCTF0Z44HfUuV1) | [Live in Los Angeles](https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3) | 3:43 |
 | 58 | [Fix Me](https://open.spotify.com/track/3ppt1sX2IaQwEYFiDYMBs2) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Fix Me](https://open.spotify.com/album/6uUo6pmWWGBTpBco286rE1) | 3:56 |
 | 59 | [freefall](https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [pilgrim](https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV) | 3:41 |
 | 60 | [Halle](https://open.spotify.com/track/636n7tssrg6jMzQa5NPijv) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [SpotLite Nation](https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [KHAEL](https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Halle](https://open.spotify.com/album/22nxwgJfy97fB41z7aPGfJ) | 3:21 |

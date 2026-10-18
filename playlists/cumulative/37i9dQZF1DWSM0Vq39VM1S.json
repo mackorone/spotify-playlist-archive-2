@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 194438,
       "name": "Heavensake - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4xh7zcnaWckiIYfv7qFpm6"
@@ -5376,6 +5376,28 @@
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/2MwfrGfon5UGQ13z0Vh5tW"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ"
     },
     {
       "album": {

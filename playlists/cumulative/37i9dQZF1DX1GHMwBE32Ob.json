@@ -1901,6 +1901,28 @@
     },
     {
       "album": {
+        "name": "Bullion Van",
+        "url": "https://open.spotify.com/album/5wUCNSjLXZ8sVs5rsN1Xhb"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Bullion Van",
+      "url": "https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63"
+    },
+    {
+      "album": {
         "name": "Bust Down",
         "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
       },
@@ -2510,7 +2532,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 153070,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"

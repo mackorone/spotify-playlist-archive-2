@@ -1,6 +1,6 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Omar Camacho en portada.",
-  "num_followers": 1504231,
+  "num_followers": 1504417,
   "original_name": "Mega \u00c9xitos 2026",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
-        "name": "El Beneficio De La Duda",
-        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "El Beneficio De La Duda",
-      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
         "name": "Meneo",
         "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/2AWY8422GKdGpGw6ejB1Ys"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
+        "name": "El Beneficio De La Duda",
+        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "El Beneficio De La Duda",
+      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
     },
     {
       "added_at": "2026-06-26 06:00:47",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
-        "name": "Mejores Jordans",
-        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 234077,
-      "name": "Mejores Jordans",
-      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
         "name": "Si No Quieres No",
         "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 147011,
       "name": "Si No Quieres No",
       "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
+        "name": "Mejores Jordans",
+        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 234077,
+      "name": "Mejores Jordans",
+      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
     },
     {
       "added_at": "2026-06-26 06:00:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
-        "name": "Orula",
-        "url": "https://open.spotify.com/album/4KMJ1C8ZPOb1yOPx18QEoO"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 185935,
-      "name": "Orula",
-      "url": "https://open.spotify.com/track/0ejwu6GH5TeXx82YvO6XSN"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
         "name": "Atento Aviso ... Rey Sin Reina",
         "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
+        "name": "Orula",
+        "url": "https://open.spotify.com/album/4KMJ1C8ZPOb1yOPx18QEoO"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 185935,
+      "name": "Orula",
+      "url": "https://open.spotify.com/track/0ejwu6GH5TeXx82YvO6XSN"
     },
     {
       "added_at": "2026-06-26 06:00:47",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
         "name": "Pika Pika",
         "url": "https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
     },
     {
       "added_at": "2026-06-26 06:00:47",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 177580,
       "name": "Giza",
       "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
-        "name": "Ay Mamita",
-        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Ay Mamita",
-      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2026-06-26 06:00:47",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
-        "name": "Mood Malandro",
-        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 191558,
-      "name": "Mood Malandro",
-      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
       "added_at": "2026-06-26 06:00:47",

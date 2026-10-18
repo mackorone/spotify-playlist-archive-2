@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 
 > This is Orla Gartland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,704 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,705 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 | 9 | [I Go Crazy](https://open.spotify.com/track/2Rj9HWaNkUsxdjM2khuqNd) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [I Go Crazy](https://open.spotify.com/album/2xrrcq31pRHAPdQ322aOFy) | 3:34 |
 | 10 | [All of Them Dreams](https://open.spotify.com/track/6owLSHQ9u2jU9CRidHyA9B) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 2:56 |
 | 11 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
-| 12 | [At The End Of The Day](https://open.spotify.com/track/027WTQSQPb9Yna2nDmax0O) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [At The End Of The Day](https://open.spotify.com/album/4zjje3LG2MbggFIV5hOcF6) | 3:37 |
-| 13 | [Codependency](https://open.spotify.com/track/0o2BJHj9wQTCb5UfY7R7jl) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:11 |
+| 12 | [Codependency](https://open.spotify.com/track/0o2BJHj9wQTCb5UfY7R7jl) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:11 |
+| 13 | [At The End Of The Day](https://open.spotify.com/track/027WTQSQPb9Yna2nDmax0O) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [At The End Of The Day](https://open.spotify.com/album/4zjje3LG2MbggFIV5hOcF6) | 3:37 |
 | 14 | [Did It To Myself](https://open.spotify.com/track/0bPB8TqrB1xBYzGEcpC7Q8) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Did It to Myself](https://open.spotify.com/album/4gyfvcxg4RYbtJwpcL3CZl) | 3:16 |
 | 15 | [Late To The Party](https://open.spotify.com/track/3xzpGr5YQ44M1TfAykn7ta) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:35 |
-| 16 | [Vertigo](https://open.spotify.com/track/6etXgNf9H0d1FMb0U823yO) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 2:58 |
-| 17 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 |
+| 16 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 |
+| 17 | [Vertigo](https://open.spotify.com/track/6etXgNf9H0d1FMb0U823yO) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 2:58 |
 | 18 | [Pest](https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:06 |
 | 19 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
-| 20 | [Between My Teeth](https://open.spotify.com/track/07FNKVJKWX08paQiethhD0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Between My Teeth](https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG) | 3:16 |
-| 21 | [Zombie!](https://open.spotify.com/track/6sDeF4lLQHWfGOqBzV3whw) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 2:57 |
+| 20 | [Zombie!](https://open.spotify.com/track/6sDeF4lLQHWfGOqBzV3whw) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 2:57 |
+| 21 | [Between My Teeth](https://open.spotify.com/track/07FNKVJKWX08paQiethhD0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Between My Teeth](https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG) | 3:16 |
 | 22 | [Simple](https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:31 |
 | 23 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 24 | [Favourite Idiot](https://open.spotify.com/track/28cnoaz5QC9u0ZY2xSZiCL) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:29 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 | 38 | [Thirty](https://open.spotify.com/track/7Mds3ACnquh8j0R6F24Fo4) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:05 |
 | 39 | [Shapeshifting](https://open.spotify.com/track/15yipQ0oYQhrsqiqHLdYT2) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Shapeshifting](https://open.spotify.com/album/2ClGs1AMiFhoYdRCnQKDPm) | 3:55 |
 
-Snapshot ID: `as7GAAAAAADxjWT9yuc8U8lXhQJiQq5P`
+Snapshot ID: `atFpAAAAAAAtuj7o3+P0oj/GNK5JmC2m`

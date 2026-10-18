@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,738 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,749 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 22 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 23 | [tiptoeing](https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [tiptoeing](https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys) | 2:34 |
 | 24 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
-| 25 | [Already Gone](https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Already Gone](https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou) | 2:49 |
-| 26 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
+| 25 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
+| 26 | [Already Gone](https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Already Gone](https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou) | 2:49 |
 | 27 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
 | 28 | [Toy Gun](https://open.spotify.com/track/0OXVPuuyCU3Wih7xObJ4HO) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Toy Gun](https://open.spotify.com/album/6FlDkhHiDKhNeInRIdPng1) | 3:14 |
 | 29 | [THIS TIME OF THE YEAR](https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [THIS TIME OF THE YEAR](https://open.spotify.com/album/5qkkmIxIqKuU1RrF1s0dvY) | 3:36 |

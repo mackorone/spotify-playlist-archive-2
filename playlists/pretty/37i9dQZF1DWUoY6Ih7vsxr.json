@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 369226,
+  "num_followers": 369348,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy"
+        "name": "Electric Shock - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 211330,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj"
+      "duration_ms": 196946,
+      "name": "Electric Shock",
+      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -495,34 +495,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Electric Shock - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy"
       },
       "artists": [
         {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Electric Shock",
-      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
+      "duration_ms": 211330,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -539,6 +523,22 @@
       "duration_ms": 239186,
       "name": "Sherlock (Clue + Note)",
       "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 233955,
       "name": "Baby, Don't Cry",
       "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Cheerful Sensibility",
-        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
       "artists": [
         {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
+      "duration_ms": 213400,
+      "name": "Kiss (Dara)",
+      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Kiss (Dara)",
-      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "New Challenge",
         "url": "https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA"
       },
@@ -1235,22 +1219,6 @@
       "duration_ms": 197213,
       "name": "Man In Love",
       "url": "https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "A (Digital Single)",
-        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
-      },
-      "artists": [
-        {
-          "name": "RAINBOW",
-          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
-        }
-      ],
-      "duration_ms": 201737,
-      "name": "A",
-      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1271,6 +1239,38 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "A (Digital Single)",
+        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
+      },
+      "artists": [
+        {
+          "name": "RAINBOW",
+          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
+        }
+      ],
+      "duration_ms": 201737,
+      "name": "A",
+      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Cheerful Sensibility",
+        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/0ODnOMPVDNZki1DMnh6hwh"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "SS501 \uc2a4\ud398\uc15c \uc568\ubc94",
-        "url": "https://open.spotify.com/album/3XoemveVVhEFXWbWgyzKem"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 203678,
-      "name": "U R Man",
-      "url": "https://open.spotify.com/track/4EKS4BdlS8yL7iMbE8G35Z"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 217887,
       "name": "WOW",
       "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "SS501 \uc2a4\ud398\uc15c \uc568\ubc94",
+        "url": "https://open.spotify.com/album/3XoemveVVhEFXWbWgyzKem"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 203678,
+      "name": "U R Man",
+      "url": "https://open.spotify.com/track/4EKS4BdlS8yL7iMbE8G35Z"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "SS501 / Rebirth",
-        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Snow Pink",
         "url": "https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 234967,
       "name": "My My",
       "url": "https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "SS501 / Rebirth",
+        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Bluelove",
-        "url": "https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 227996,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Seven Springs Of Apink",
         "url": "https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R"
       },
@@ -1559,8 +1543,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Can't Stop",
-        "url": "https://open.spotify.com/album/1FezVdVT78L4wviMeDX7tn"
+        "name": "Bluelove",
+        "url": "https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU"
       },
       "artists": [
         {
@@ -1568,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
         }
       ],
-      "duration_ms": 237864,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/2sdf2x4YLaHb1k9HtE9cBs"
+      "duration_ms": 227996,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1619,6 +1603,22 @@
       "duration_ms": 221532,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Name is 4minute",
+        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 186775,
+      "name": "What's your name?",
+      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
     }
   ],
   "unique_name": "Millennium K-Pop",

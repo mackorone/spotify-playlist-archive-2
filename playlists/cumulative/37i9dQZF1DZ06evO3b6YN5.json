@@ -996,10 +996,32 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 248040,
       "name": "Rey Del Glam",
       "url": "https://open.spotify.com/track/0SeIoEjhexEvtCxkQ0rQn1"
+    },
+    {
+      "album": {
+        "name": "El Rey Del Glam",
+        "url": "https://open.spotify.com/album/0PEsRsJ0iRiaaDq0iO4Deu"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248040,
+      "name": "Rey Del Glam",
+      "url": "https://open.spotify.com/track/4LkGhZRHjIfQ25dUS1E4RN"
     },
     {
       "album": {

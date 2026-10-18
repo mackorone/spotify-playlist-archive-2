@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35472,
+  "num_followers": 35476,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABdkDfwli7j0l8a37HHsPU1",
+  "snapshot_id": "atFpAAAAAAAdzzIAwTC6aozT8y7eOT5Y",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Your Roots",
-        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 184986,
-      "name": "Life Is A Honeymoon",
-      "url": "https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "U R (feat. Ziggy Marley)",
         "url": "https://open.spotify.com/album/0o6BaoGVYSBHoYQmtk5JMV"
       },
@@ -159,38 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs for the Saints",
-        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
+        "name": "Dig Your Roots",
+        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 229332,
-      "name": "Love for Love City (with Ziggy Marley)",
-      "url": "https://open.spotify.com/track/6wrzvEu8Sk7sDf6W9ESVui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "A Lifetime",
-      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
+      "duration_ms": 184986,
+      "name": "Life Is A Honeymoon",
+      "url": "https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF"
     },
     {
       "added_at": null,
@@ -211,6 +175,42 @@
       "duration_ms": 236217,
       "name": "Spin It Faster",
       "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "A Lifetime",
+      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs for the Saints",
+        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 229332,
+      "name": "Love for Love City (with Ziggy Marley)",
+      "url": "https://open.spotify.com/track/6wrzvEu8Sk7sDf6W9ESVui"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfers Paradise (Expanded)",
-        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 188668,
       "name": "Sunshine (feat. RUSL) - RUSL Remix",
       "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfers Paradise (Expanded)",
+        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "Never Deny You",
-      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dellali",
         "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
       },
@@ -671,6 +655,38 @@
       "duration_ms": 235306,
       "name": "Madanite",
       "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Never Deny You",
+      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Reggae In My Head",
+      "url": "https://open.spotify.com/track/1pSoPYqaxWTpiqGOnWWIOj"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 213480,
       "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
       "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Reggae In My Head",
-      "url": "https://open.spotify.com/track/1pSoPYqaxWTpiqGOnWWIOj"
     },
     {
       "added_at": null,
@@ -751,6 +751,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 219072,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Personal Revolution",
+      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
       },
@@ -783,38 +815,6 @@
       "duration_ms": 225595,
       "name": "There's A Reward",
       "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 294106,
-      "name": "Personal Revolution",
-      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lucky One",
-        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 219072,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
     },
     {
       "added_at": null,

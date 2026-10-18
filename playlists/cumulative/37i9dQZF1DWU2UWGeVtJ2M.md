@@ -4,7 +4,7 @@
 
 > 半清醒的時刻最迷人，讓最迷人的音樂和你一起隨興...
 
-386 songs - 21 hr 50 min
+387 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [always](https://open.spotify.com/track/5VyDhDfrTZuywIydd5R7j2) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/4LTNyTHaPmgBwzR3JWKhst) | 2:52 | 2022-06-06 | 2022-07-29 |
 | [Amore](https://open.spotify.com/track/7dEhUSzB32GMXhkrqtEYec) | [L•Y](https://open.spotify.com/artist/6TX5wo8K752OtN0iDcTPs3) | [Amore](https://open.spotify.com/album/30MfxQbaHfZ9VqDOyFBjuj) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 | 2022-07-25 |  |
+| [Andromeda](https://open.spotify.com/track/6BLyfd1qNujFORWVu5EXzg) | [Soulstice](https://open.spotify.com/artist/3GeU43m5eWxLSfdJQ0s5h9) | [Illusion](https://open.spotify.com/album/1z6tq8fF4NsOsYKaFzOjB4) | 5:11 | 2026-02-09 |  |
 | [Apathy](https://open.spotify.com/track/5t3JUzspTv8op7W0vX9KL4) | [shy\-c](https://open.spotify.com/artist/08UgDZuFwNBio0gstXxJqm) | [Apathy](https://open.spotify.com/album/6s9lnnZnoPeqzRf78rVsUt) | 3:27 | 2022-06-06 | 2022-07-29 |
 | [April Smile](https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX) | [FLORA](https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ) | [Ambivalence](https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd) | 3:45 | 2022-06-06 | 2025-08-26 |
 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 | 2022-07-25 |  |
@@ -109,7 +110,7 @@
 | [Downtown Vibes](https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Downtown Vibes](https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ) | 1:48 | 2025-07-27 |  |
 | [Dreams](https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Dreams](https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I) | 2:21 | 2025-07-14 |  |
 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 | 2022-10-24 | 2025-06-28 |
-| [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 | 2024-04-08 |  |
+| [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 | 2024-04-08 | 2026-10-18 |
 | [Drowning](https://open.spotify.com/track/5yOy3vK27xjkWaqTS46gHN) | [Three Oscillators](https://open.spotify.com/artist/7sWAzQH4ktfR6aO0L2gwB7), [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Drowning](https://open.spotify.com/album/4mdszm9ez7c8ohdLyG5n8v) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-25 | 2024-04-19 |

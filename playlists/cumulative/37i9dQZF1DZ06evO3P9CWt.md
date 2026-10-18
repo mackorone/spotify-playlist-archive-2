@@ -4,7 +4,7 @@
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-140 songs - 6 hr 40 min
+141 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [frequente\(mente\)](https://open.spotify.com/track/3sxNGrRDz8PTSbK7P91yJ6) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ECDISE](https://open.spotify.com/album/2aLSg64wVLlIUGEyTCqQlK) | 2:54 | 2024-01-30 | 2024-02-06 |
 | [FRIENDS WITH...](https://open.spotify.com/track/1tiFkvnbKIqabnR9aHqm6E) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 1:59 | 2026-10-05 |  |
 | [Fun Tonight \- Pabllo Vittar Remix](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:20 | 2023-10-10 |  |
-| [FUTURE](https://open.spotify.com/track/2Kut34Rk2tFAWbTDYupAt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 1:04 | 2026-10-05 |  |
+| [FUTURE](https://open.spotify.com/track/2Kut34Rk2tFAWbTDYupAt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 1:04 | 2026-10-05 | 2026-10-18 |
 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 | 2023-10-10 |  |
 | [Hoje À Noite \(Alone\)](https://open.spotify.com/track/05JKQNjTszGYFsPpC480Xq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 3:26 | 2024-12-14 | 2025-06-30 |
 | [Hoje À Noite \(Alone\)](https://open.spotify.com/track/5PHhPcZde2BFkoVoWUGaKU) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Hoje À Noite \(Alone\)](https://open.spotify.com/album/6Kt2XnQz9En1KeDvLyjlwV) | 3:26 | 2024-09-06 | 2024-10-03 |
@@ -123,6 +123,7 @@
 | [que delícia o verão](https://open.spotify.com/track/2yHWE0r9mqlLnIIMtASg7o) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [que delícia o verão](https://open.spotify.com/album/6CkP6Rf62M3QtNVtQlgt7z) | 2:34 | 2026-05-28 |  |
 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-07-14 | 2026-10-05 |
 | [Rajadão](https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 | 2023-10-10 |  |
+| [ROCKSTAR](https://open.spotify.com/track/1ylXtdgjPCGaKAcbIgBElF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:28 | 2026-10-18 |  |
 | [ROCKSTAR](https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [ROCKSTAR](https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm) | 2:28 | 2026-07-26 | 2026-10-08 |
 | [Rubi](https://open.spotify.com/track/3BCEDcGbeGpPeRcryMnbdR) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0) | 2:13 | 2024-10-25 | 2024-12-04 |
 | [Rubi](https://open.spotify.com/track/5Ih7yhSHs3F0NY10Pvr7Xq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:13 | 2024-04-12 | 2024-10-25 |

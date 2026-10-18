@@ -4,7 +4,7 @@
 
 > This is Rex Orange County\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 20 min
+60 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Foreword \(feat\. Rex Orange County\)](https://open.spotify.com/track/33i3xxHB4YSYGYbtJrwwO8) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:14 | 2023-12-18 |  |
 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 | 2026-09-26 |  |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-21 |  |
+| [Hannah Montana](https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Hannah Montana](https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X) | 3:33 | 2026-10-18 |  |
 | [Happiness](https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:39 | 2023-12-18 |  |
 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 | 2026-08-22 |  |
 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 | 2023-12-18 |  |

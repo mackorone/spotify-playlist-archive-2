@@ -284,10 +284,28 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 156000,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
+    },
+    {
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/29kCfGrCCIeS0u3RxsvzTC"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz"
     },
     {
       "album": {

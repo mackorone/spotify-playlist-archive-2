@@ -4,7 +4,7 @@
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-87 songs - 6 hr 0 min
+88 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [The Age of Pisces](https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [A Tale in Paris](https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ) | 4:57 | 2025-01-03 | 2025-04-20 |
 | [The Heart's Monologue](https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 3:54 | 2026-01-22 |  |
 | [Theme Music for a Dream](https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:29 | 2025-01-03 |  |
+| [Thrive](https://open.spotify.com/track/5920pJnL6yYMWQYLUWMgpm) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 4:24 | 2026-10-18 |  |
 | [Tree of Light \- A Call to Arms](https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 2:34 | 2025-10-08 |  |
 | [Twilight Meditation](https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 333](https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf) | 4:58 | 2025-09-18 |  |
 | [Twilight Meditation](https://open.spotify.com/track/29s05gFh3nl12QRV4pgNbB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Twilight Meditation](https://open.spotify.com/album/4ytfQGxT3f06uV1Q5oY2II) | 4:58 | 2025-01-03 | 2025-09-18 |

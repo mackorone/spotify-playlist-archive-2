@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,206 likes - 49 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,212 likes - 49 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 48 | [Love No Thot \(feat\. Lil Tecca\)](https://open.spotify.com/track/10axzwbqRSkv4n56GmjmPH) | [Trap Thug Family](https://open.spotify.com/artist/5vaLtyVwbTErZSLqVRCd9b), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Thug Family](https://open.spotify.com/album/2T5uqtLfuewixOOInuc6vC) | 2:06 |
 | 49 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
 
-Snapshot ID: `as7GAAAAAACEXGSd6QkKtQ94BTPIz5wK`
+Snapshot ID: `atAXgAAAAAA7oQHVEhyuB1nsMwCVpCoU`

@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 132026,
       "name": "GET WHAT I WANT",
       "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
@@ -4132,6 +4132,28 @@
       "duration_ms": 193488,
       "name": "I Know You Want To",
       "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
+    },
+    {
+      "album": {
+        "name": "The Night's Not Dead",
+        "url": "https://open.spotify.com/album/672HqumkmGtAtRejCwG61e"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150779,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/2yGvUL3VKUBmvxs5EiSKT5"
     },
     {
       "album": {

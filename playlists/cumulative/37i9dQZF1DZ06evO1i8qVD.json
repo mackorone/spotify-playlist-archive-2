@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "Do Your Thing",
+      "url": "https://open.spotify.com/track/7DDDlFgPwHkocHjlELfQFa"
+    },
+    {
+      "album": {
         "name": "Chicago Plays the Stones",
         "url": "https://open.spotify.com/album/0vjdJ6AWmF5G4gsSx53UlI"
       },
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 176974,
       "name": "It Keeps Me Young (feat. Peter Frampton)",
       "url": "https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML"

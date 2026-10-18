@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Adam and Eve (Eden Mix)",
+        "url": "https://open.spotify.com/album/6CDVznzZkibrHhoX94mKm1"
+      },
+      "artists": [
+        {
+          "name": "Stane",
+          "url": "https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226010,
+      "name": "Adam and Eve - Eden Mix",
+      "url": "https://open.spotify.com/track/3IvdG736Iecgv3kcMgT6R6"
+    },
+    {
+      "album": {
         "name": "Punk Parrot",
         "url": "https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV"
       },
@@ -7598,6 +7616,24 @@
       "duration_ms": 202909,
       "name": "Love Me Back",
       "url": "https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM"
+    },
+    {
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/4O1OL52TZkdGed1DgWvjiz"
+      },
+      "artists": [
+        {
+          "name": "Vickwon",
+          "url": "https://open.spotify.com/artist/3kzbCHuLMhl5RCsAPRkGhi"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132336,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2pBWAh4CFdlt0cVvkxY4eo"
     },
     {
       "album": {

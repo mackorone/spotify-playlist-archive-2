@@ -4,7 +4,7 @@
 
 > 
 
-3,241 songs - 6 day 22 hr 39 min
+3,245 songs - 6 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Cyber War](https://open.spotify.com/track/460oWKJs8r3u08ZbwndzbU) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [Cyber War](https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF) | 3:11 | 2026-05-24 |  |
 | [Cybernetics DOGMA](https://open.spotify.com/track/38wU4VkOBApPtclc462B1N) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Cybernetics DOGMA](https://open.spotify.com/album/2DUEaHo0eY9xHuzRu7OXz1) | 3:48 | 2023-03-30 |  |
 | [Cyberself](https://open.spotify.com/track/4bFcJS4NNuI4bzTjivLNYH) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Cyberself](https://open.spotify.com/album/2Gr98DOReLkCV6w7jhGT4a) | 3:22 | 2023-06-02 |  |
+| [CYCLONE](https://open.spotify.com/track/0l30b38KdfbcDm8L5x0CS5) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Alex M](https://open.spotify.com/artist/0F3x3BTKWHxpExSz8nAtuy) | [CYCLONE](https://open.spotify.com/album/3XpUMvRpQ7lhTVi2hNf79u) | 2:49 | 2026-10-18 |  |
 | [Cyclops](https://open.spotify.com/track/71J6W6Jgc3WlN4TDrqARBy) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Kick's For Liberation 7](https://open.spotify.com/album/5xOr34N3SqxVt3Yh8LjQ8D) | 3:25 | 2022-11-29 |  |
 | [D L FKN M](https://open.spotify.com/track/699EBS8AxkgLbEALUqbH2e) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [The Second Dose](https://open.spotify.com/album/3zShX0xTLDzcTV2dvG7mDk) | 1:12 | 2024-04-26 |  |
 | [Dageki](https://open.spotify.com/track/3mokfADy4F9mRWMACtRFy4) | [Alby Loud](https://open.spotify.com/artist/2LAMUtUpLsPEEBsfGTRRUx), [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Dageki](https://open.spotify.com/album/2jTrTT4a453vGYIgfYngJm) | 2:21 | 2022-02-22 |  |
@@ -1947,6 +1948,7 @@
 | [Natsunohate](https://open.spotify.com/track/51ivh3aVSXeYV6RKrk1I57) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr), [Hoshina Haru](https://open.spotify.com/artist/5tgFcB2DBCVlJwjbq1Ntk8) | [Natsunohate](https://open.spotify.com/album/1EKOSL14zwun268foawaqc) | 4:16 | 2022-08-14 |  |
 | [Need Your Love](https://open.spotify.com/track/6yMBOqfdwlkkkV7CVP45tQ) | [Advanced Dealer](https://open.spotify.com/artist/6GR6nVejsTwxyjtPqBHqyo) | [Need Your Love](https://open.spotify.com/album/18OBlvVLZhZfrh7AGz4bnF) | 2:29 | 2025-04-13 |  |
 | [Need Your Love \(Kick It\) \- Extended Mix](https://open.spotify.com/track/2rjGolOXBxfg1CC15rskVA) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [ELH](https://open.spotify.com/artist/6Uw5MHg48WPyagXEIf1wR5) | [Need Your Love \(Kick It\)](https://open.spotify.com/album/0UpTihSgjLr39A136T4ltI) | 4:06 | 2023-05-12 |  |
+| [Needle On Da Rec](https://open.spotify.com/track/0dxziQAgldE7llmCAEZk1a) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [Hardcore Nation](https://open.spotify.com/album/277eKOCYsBgd2nOwgAngv8) | 2:06 | 2026-10-18 |  |
 | [Negative \- Karun Remix](https://open.spotify.com/track/4b0eaP6Dyh3IrtNge8PUdk) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Negative \(Karun Remix\)](https://open.spotify.com/album/7obK2xqJJQzdokMSTGT6AX) | 2:42 | 2023-10-06 |  |
 | [Neon Dreams](https://open.spotify.com/track/44CkJl3rqt1puuvy10AZMt) | [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Neon Dreams](https://open.spotify.com/album/554GOdfSCyEZig1v4GXlKh) | 2:47 | 2026-03-16 |  |
 | [Neon Hearts](https://open.spotify.com/track/2ZkJvZv7KEIewdcWnyVMMh) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Neon Hearts](https://open.spotify.com/album/7ENCTcdP6bK3YAoX1N5tFj) | 3:28 | 2022-02-13 |  |
@@ -2547,6 +2549,7 @@
 | [So Close](https://open.spotify.com/track/36wokq36MDr66d27WmrJsG) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [So Close](https://open.spotify.com/album/5SAXIPdnfqw6kdRyr5bkUS) | 2:15 | 2025-11-22 |  |
 | [So Cold](https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [So Cold](https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6) | 3:20 | 2023-12-17 |  |
 | [SO CRUSHED](https://open.spotify.com/track/1EgIWVigCWT0B13QUDu9w5) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [The Final Dose](https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5) | 2:55 | 2025-01-25 |  |
+| [So Good](https://open.spotify.com/track/1lAxHBKcVgATKOLMckYNY2) | [Jakka\-B](https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8) | [So Good](https://open.spotify.com/album/38MvtZEMAVZq3wtkGRf3Pa) | 3:06 | 2026-10-18 |  |
 | [SO HIGHER](https://open.spotify.com/track/40ogJaLwZD0t0LRHwjShng) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [SO HIGHER](https://open.spotify.com/album/0xGRvLaNQXIzixkoB8l4Gx) | 3:53 | 2026-08-09 |  |
 | [So Hot](https://open.spotify.com/track/7hdyEMLyLAQJnqg6uZgB7f) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:21 | 2023-04-16 |  |
 | [So Hot](https://open.spotify.com/track/12wf4O6FpjMnVARx02ZhRy) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [So Hot](https://open.spotify.com/album/29FvRyAml4hRQhx8hkWzJC) | 1:56 | 2024-12-20 |  |
@@ -3193,6 +3196,7 @@
 | [Wrath](https://open.spotify.com/track/137aogGs2PAH7IONWa7z2s) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Wrath](https://open.spotify.com/album/07X3uBXeHl2hiI7U9klL7y) | 2:44 | 2025-07-04 |  |
 | [WTF](https://open.spotify.com/track/1BtnXXcIosc7Lib1FyBspB) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu), [Suspect](https://open.spotify.com/artist/1g5TBMBIK1S48I5amyae6u) | [WTF](https://open.spotify.com/album/0MlpRQ2eQYboae4FAj1Mn9) | 2:33 | 2025-06-21 |  |
 | [WTF?](https://open.spotify.com/track/38op0KfEjOs3n5aMrnyVHu) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Hard Techno The Annual 2026](https://open.spotify.com/album/2jzhQtxp1BbzsxgA1q4SzA) | 3:42 | 2026-02-16 |  |
+| [XTAZEE](https://open.spotify.com/track/4Z1V3GTqdm5tzyKkYB9rPW) | [More Kords](https://open.spotify.com/artist/732oUYDDflptHEHS7zy05D) | [XTAZEE](https://open.spotify.com/album/7lz26GNZCCsRSGYgJMLoVU) | 2:50 | 2026-10-17 |  |
 | [XTC](https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [XTC](https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj) | 2:39 | 2023-05-20 |  |
 | [XTC](https://open.spotify.com/track/5yD3aJRKkjDUyAgJVjmn6p) | [Mighty Spiritz](https://open.spotify.com/artist/4aGTta217v3TLIofgHFXkv), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [XTC](https://open.spotify.com/album/00TSVozVVUCfXz9UYA6hv4) | 2:31 | 2025-02-01 |  |
 | [XTC \- Radio Edit](https://open.spotify.com/track/2X0EGmTKTnPXyRFaNf1Kjs) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Till I Die Vol.1](https://open.spotify.com/album/2XM58As4dslAzKdPWlYEGo) | 2:48 | 2022-08-23 |  |

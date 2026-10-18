@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAD1m2RaAQQ5QyJKHt3EerlA",
+  "snapshot_id": "atAXgAAAAADcQ7+uWEcp3bkd+BV4ZhRM",
   "tracks": [
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 295789,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
+      "duration_ms": 101775,
+      "name": "Me of Ocean",
+      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 101775,
-      "name": "Me of Ocean",
-      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     }
   ],
   "unique_name": "This Is Sofie Birch",

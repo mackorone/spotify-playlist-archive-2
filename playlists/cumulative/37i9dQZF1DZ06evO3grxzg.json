@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "SIE7E",
+        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
+    },
+    {
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },

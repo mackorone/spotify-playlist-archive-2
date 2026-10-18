@@ -1,6 +1,6 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 240740,
+  "num_followers": 240764,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Hickory Wind",
+        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Red Dirt Girl",
+      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Freedom Bus (feat. Jesse Welles)",
         "url": "https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 283234,
       "name": "Freedom Bus (feat. Jesse Welles)",
       "url": "https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Hickory Wind",
-        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Red Dirt Girl",
-      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Your Life Is a Record",
         "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
       "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Am I Missing Out",
-        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Am I Missing Out",
-      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Found Dogs",
         "url": "https://open.spotify.com/album/383eZVIN0GzKNWEQZwC6sM"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214664,
       "name": "World Without Love",
       "url": "https://open.spotify.com/track/6hT0Lq7Dc5DTV39pv5c5LV"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Am I Missing Out",
+        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Am I Missing Out",
+      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Long in the Tooth",
         "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
       },
@@ -1171,6 +1171,54 @@
       "duration_ms": 186152,
       "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1211,54 +1259,6 @@
       "duration_ms": 196333,
       "name": "Mr. Lincoln",
       "url": "https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 176232,
-      "name": "Letting People Down",
-      "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Too Blessed to Be Stressed",
         "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 284253,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 176232,
+      "name": "Letting People Down",
+      "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "I Could Have Told You",
-        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "I Could Have Told You",
-      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The Killing Fields",
         "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "I Could Have Told You",
+        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I Could Have Told You",
+      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "At Folsom Prison (Legacy Edition)",
+        "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "In Spite of Ourselves",
         "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 213600,
       "name": "In Spite of Ourselves (feat. Iris DeMent)",
       "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "At Folsom Prison (Legacy Edition)",
-        "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
-      "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 171666,
       "name": "Walking Back To Georgia",
       "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Crossing Muddy Waters",
         "url": "https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Most Messed Up",
         "url": "https://open.spotify.com/album/2AKIfsITXtRcHZL1u6xCQp"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 352546,
       "name": "Longer Than You've Been Alive",
       "url": "https://open.spotify.com/track/2qBfMn3hsyX6QFCOLZfZvV"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2026-10-02 04:01:37",

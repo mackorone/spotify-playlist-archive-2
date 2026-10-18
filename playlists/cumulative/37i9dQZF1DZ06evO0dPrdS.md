@@ -4,7 +4,7 @@
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 2 min
+44 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 | 2025-10-28 |  |
 | [Right Back At Ya](https://open.spotify.com/track/2O8kqbUJS1vkL3x9mF7WzM) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:11 | 2025-10-28 | 2025-12-25 |
 | [Saturday Night Divas](https://open.spotify.com/track/3M83cWfWcFXtkavdM8NuEZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:25 | 2025-10-28 |  |
-| [Say You'll Be There \- 7” Radio Mix](https://open.spotify.com/track/3uGTUf4AQvNkui75eLKide) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:08 | 2025-10-28 |  |
+| [Say You'll Be There \- 7” Radio Mix](https://open.spotify.com/track/3uGTUf4AQvNkui75eLKide) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:08 | 2025-10-28 | 2026-10-18 |
+| [Say You'll Be There \- Kurt's Dub](https://open.spotify.com/track/009uKbPB5TcrveKJozsnRI) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF), [Junior Vasquez](https://open.spotify.com/artist/6X4LvL2xVwf3B6WuQ0YAhm) | [Say You’ll Be There](https://open.spotify.com/album/4aemYzvhOZ5lcxrEmcOROc) | 4:26 | 2026-10-18 |  |
 | [Say You'll Be There \- Single Mix](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 | 2025-10-28 |  |
 | [Seremos 1 Los 2 \- Versión En Español](https://open.spotify.com/track/6hcNd7nKFpTt06C754iIg0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [2 Become 1](https://open.spotify.com/album/7hNNgDU4imUDX29rfuKBGO) | 3:50 | 2026-10-16 |  |
 | [Sisters \(Are Doing It For Themselves\) \- Live](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 | 2025-10-28 |  |

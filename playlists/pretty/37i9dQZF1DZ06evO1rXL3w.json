@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABmE5uYRtMJrV1iw0Ogqgt3",
+  "snapshot_id": "atAXgAAAAAA7yKSWR0FusMfTT9OomEDY",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 95465,
-      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+      "duration_ms": 83301,
+      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+      "duration_ms": 95465,
+      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
     },
     {
       "added_at": null,

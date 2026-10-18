@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93776,
+  "num_followers": 93778,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
+        "name": "The Greatest Show On Earth",
+        "url": "https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 334109,
+      "name": "The Greatest Show On Earth",
+      "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
         "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Mirakel",
-        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Mirakel",
-      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
+        "name": "Mirakel",
+        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Mirakel",
+      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
         "name": "Framtiden som aldrig blev av",
         "url": "https://open.spotify.com/album/2ydJbEdyPq7pPoJhBUcHC0"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 187200,
       "name": "Farsans h\u00e4nder",
       "url": "https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
-        "name": "H\u00e4lsningar",
-        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "H\u00e4lsningar",
-      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
+        "name": "H\u00e4lsningar",
+        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "H\u00e4lsningar",
+      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
         "name": "Moderna tider",
         "url": "https://open.spotify.com/album/1d3a5sjYx3iiaDffKC1BJl"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "The Greatest Show On Earth",
-        "url": "https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb"
+        "name": "Ain't Built For Leaving",
+        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
         }
       ],
-      "duration_ms": 334109,
-      "name": "The Greatest Show On Earth",
-      "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
+      "duration_ms": 212442,
+      "name": "Ain't Built For Leaving",
+      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -659,22 +675,6 @@
       "duration_ms": 295784,
       "name": "En s\u00e5ng till modet",
       "url": "https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
-        "name": "Ain't Built For Leaving",
-        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 212442,
-      "name": "Ain't Built For Leaving",
-      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Scandinavian Eyes",
-        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
+        "name": "In your bed",
+        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
         }
       ],
-      "duration_ms": 291197,
-      "name": "Scandinavian Eyes",
-      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
+      "duration_ms": 206325,
+      "name": "In your bed",
+      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "In your bed",
-        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
+        "name": "Scandinavian Eyes",
+        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
       },
       "artists": [
         {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 206325,
-      "name": "In your bed",
-      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
+      "duration_ms": 291197,
+      "name": "Scandinavian Eyes",
+      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
-      },
-      "artists": [
-        {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
-        }
-      ],
-      "duration_ms": 166733,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
         "name": "Home to Us",
         "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 191325,
       "name": "Home to Us",
       "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
+      },
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "duration_ms": 166733,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -979,38 +979,6 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "You Got The Look",
-        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "You Got The Look",
-      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
-        "name": "Den f\u00f6rsta sn\u00f6n",
-        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
-      },
-      "artists": [
-        {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
-        }
-      ],
-      "duration_ms": 277360,
-      "name": "Den f\u00f6rsta sn\u00f6n",
-      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
         "name": "Sciura",
         "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
@@ -1043,18 +1011,34 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+        "name": "You Got The Look",
+        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
         }
       ],
-      "duration_ms": 233026,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
+      "duration_ms": 181693,
+      "name": "You Got The Look",
+      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
+        "name": "Den f\u00f6rsta sn\u00f6n",
+        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "Den f\u00f6rsta sn\u00f6n",
+      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -1071,6 +1055,22 @@
       "duration_ms": 236479,
       "name": "Din S\u00e5ng",
       "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
+        "name": "Bar N\u00eemes - Primi",
+        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        }
+      ],
+      "duration_ms": 152564,
+      "name": "En sida kvar",
+      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
         "name": "EXISTENS",
         "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 272575,
       "name": "Gullmar Gospel",
       "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
-        "name": "Ton\u00e5rsland",
-        "url": "https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 190881,
-      "name": "Ton\u00e5rsland",
-      "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Ingenting \u00e4r efter oss",
-        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
+        "name": "Ton\u00e5rsland",
+        "url": "https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9"
       },
       "artists": [
         {
-          "name": "Timo R\u00e4is\u00e4nen",
-          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
         }
       ],
-      "duration_ms": 181066,
-      "name": "Ingenting \u00e4r efter oss",
-      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
+      "duration_ms": 190881,
+      "name": "Ton\u00e5rsland",
+      "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
     }
   ],
   "unique_name": "Aktuellt",

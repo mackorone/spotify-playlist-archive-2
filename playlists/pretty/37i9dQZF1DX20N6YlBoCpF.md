@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Die Piesangskille,  Appel, Ichnus, Bernice West, Spoegwolf en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,721 likes - 71 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,724 likes - 71 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAB9e8NrPNimclJpMHhW1IsB",
+  "snapshot_id": "atFpAAAAAAC/u48go2o9SBNzJdBrU0a2",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 279466,
-      "name": "Of\u00edcio de Cantante",
-      "url": "https://open.spotify.com/track/6JsN5A4fxdX6lohZV4CdCD"
+      "duration_ms": 223829,
+      "name": "N\u00f3s Vestimos Branco",
+      "url": "https://open.spotify.com/track/3EcpXkOmdEVoBVl7ZwRHBt"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 223829,
-      "name": "N\u00f3s Vestimos Branco",
-      "url": "https://open.spotify.com/track/3EcpXkOmdEVoBVl7ZwRHBt"
+      "duration_ms": 279466,
+      "name": "Of\u00edcio de Cantante",
+      "url": "https://open.spotify.com/track/6JsN5A4fxdX6lohZV4CdCD"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 244169,
-      "name": "Desapegada",
-      "url": "https://open.spotify.com/track/0uSFnOqTERAmK8zh7cxicq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ostenta\u00e7\u00e3o da Cultura",
         "url": "https://open.spotify.com/album/3sweFWmSyoOxfNnqDXjOyf"
       },
@@ -615,6 +599,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pr\u00f3spera D+",
+        "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Preta Ary",
+          "url": "https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "EVEHIVE",
+          "url": "https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h"
+        }
+      ],
+      "duration_ms": 248354,
+      "name": "Shonda D+",
+      "url": "https://open.spotify.com/track/1oDkooP1cNyW8mKdZi9aWh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pr\u00f3spera",
         "url": "https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3"
       },
@@ -627,26 +639,6 @@
       "duration_ms": 179842,
       "name": "Ansiejazz",
       "url": "https://open.spotify.com/track/5aOFdkn6hOVp4jZS0NXXAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Tiago Mac",
-          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Good Trip",
-      "url": "https://open.spotify.com/track/7FQWyJOiIeM7VHvPlSwLpA"
     },
     {
       "added_at": null,
@@ -699,8 +691,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pr\u00f3spera D+",
-        "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 244169,
+      "name": "Desapegada",
+      "url": "https://open.spotify.com/track/0uSFnOqTERAmK8zh7cxicq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
       },
       "artists": [
         {
@@ -708,21 +716,13 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         },
         {
-          "name": "Preta Ary",
-          "url": "https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "EVEHIVE",
-          "url": "https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h"
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
         }
       ],
-      "duration_ms": 248354,
-      "name": "Shonda D+",
-      "url": "https://open.spotify.com/track/1oDkooP1cNyW8mKdZi9aWh"
+      "duration_ms": 240213,
+      "name": "Good Trip",
+      "url": "https://open.spotify.com/track/7FQWyJOiIeM7VHvPlSwLpA"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patr\u00e3o",
-        "url": "https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 218592,
-      "name": "Patr\u00e3o",
-      "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 240000,
       "name": "Me Beije",
       "url": "https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patr\u00e3o",
+        "url": "https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 218592,
+      "name": "Patr\u00e3o",
+      "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
     }
   ],
   "unique_name": "This Is Tassia Reis",

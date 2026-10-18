@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 38 min
+112 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [新星 \-acoustic live tour 2023 「夜と閃き」\-](https://open.spotify.com/track/6yQNFgWLYrFrcel0V7FDTo) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [acoustic live tour 2023 「夜と閃き」（2023.5.12 ＠GORILLA HALL OSAKA）](https://open.spotify.com/album/1DESIUqjMts9kv44GjDUH3) | 3:55 | 2024-02-13 | 2024-04-09 |
 | [日々](https://open.spotify.com/track/6jyICrPc6z8U3boQyQdPoE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:21 | 2024-01-31 | 2024-11-03 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2023-12-26 |  |
-| [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 | 2023-12-26 |  |
+| [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 | 2023-12-26 | 2026-10-18 |
+| [春を告げる \- With ensemble](https://open.spotify.com/track/32ggYFS2AFOCvzu2940Wcg) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- With ensemble](https://open.spotify.com/album/2XIPTsVGWBxXB4zmVGGw2J) | 3:02 | 2026-10-18 |  |
 | [春を告げる（☆Taku Takahashi Remix）](https://open.spotify.com/track/7bUd6EGBZSeMJnTT92QktK) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [春を告げる（☆Taku Takahashi Remix）](https://open.spotify.com/album/6ghWkxKtZ31ybSx0IsTkvQ) | 3:04 | 2025-04-27 | 2025-10-24 |
 | [春を告げる（☆Taku Takahashi Remix）](https://open.spotify.com/track/54D8qKXBP01QyBQHKaXQZ4) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 3:06 | 2025-09-09 | 2025-09-25 |
 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 | 2023-12-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 616128,
+  "num_followers": 616216,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
         "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 254653,
       "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Plus t\u00f4t (String Quartet Version) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Saint-Sa\u00ebns: Symphonic Poems",
         "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
@@ -2059,26 +2075,6 @@
       "duration_ms": 223493,
       "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
       "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Minuet in A major, D. 334",
-        "url": "https://open.spotify.com/album/5qdmjQCcicNOkYI3H92MDM"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Minuet in A major, D. 334",
-      "url": "https://open.spotify.com/track/6qoKrxleX3tTaDv4kk8jzH"
     }
   ],
   "unique_name": "Classical Focus",

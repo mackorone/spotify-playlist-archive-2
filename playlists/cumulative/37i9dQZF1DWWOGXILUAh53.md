@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Please uplift Tinashe.
 
-2,284 songs - 4 day 16 hr 1 min
+2,285 songs - 4 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1405,7 +1405,7 @@
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 | 2022-07-30 |
 | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/track/6fsBBty7c7eEWvdgkNIWpa) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/album/5Cs89RR1Pn0ApHb634A9k6) | 2:09 | 2025-07-11 | 2025-09-14 |
 | [No Plans](https://open.spotify.com/track/7utHPuTZiXGbWq0yCksPm0) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [No Plans](https://open.spotify.com/album/3I7LW9ddzwjyDNfVC4O2aR) | 2:43 | 2023-06-30 | 2023-09-09 |
-| [NO PRESSURE](https://open.spotify.com/track/0ZULu6dZl09I6ooCsKyOMg) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [EUPHORIA](https://open.spotify.com/album/05tucdy5dW4xZkegDKSCdr) | 2:16 | 2026-08-03 |  |
+| [NO PRESSURE](https://open.spotify.com/track/0ZULu6dZl09I6ooCsKyOMg) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [EUPHORIA](https://open.spotify.com/album/05tucdy5dW4xZkegDKSCdr) | 2:16 | 2026-08-03 | 2026-10-18 |
 | [No Regrets](https://open.spotify.com/track/5UGWtEHRbi3Y44RcSJER3B) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [No Regrets](https://open.spotify.com/album/1Yp44nuzZFD65GoZYxfsAx) | 2:31 | 2025-03-28 | 2025-05-24 |
 | [No Saving Us \(feat\. SAYGRACE\)](https://open.spotify.com/track/4GHxtNdSBBaWaivjS1Y05R) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [No Saving Us \(feat\. SAYGRACE\)](https://open.spotify.com/album/7soMTIjTtiKw0PJQVl60k0) | 3:15 | 2023-02-17 | 2023-05-13 |
 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 | 2024-05-10 | 2024-06-22 |
@@ -2200,6 +2200,7 @@
 | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu) | 3:16 | 2022-09-09 | 2022-12-24 |
 | [Who's That Girl](https://open.spotify.com/track/2NpuppKP7KTdlwvSrJ9RZf) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Who's That Girl](https://open.spotify.com/album/3vEoqTGmcaul1mPjPGrmSI) | 2:49 | 2022-11-04 | 2023-01-14 |
 | [Whole Again](https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Whole Again](https://open.spotify.com/album/7oAsw6jZcotDQl8f1qECqo) | 3:35 | 2023-07-14 | 2023-09-16 |
+| [Whole Room Dancing](https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Whole Room Dancing](https://open.spotify.com/album/44wu5EOlqWT4yVUrAJ0qTC) | 2:56 | 2026-10-17 |  |
 | [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 | 2021-11-26 | 2022-03-05 |
 | [Why I Love You So](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Why I Love You So](https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx) | 2:53 | 2024-08-09 | 2024-09-07 |
 | [Why Should I?](https://open.spotify.com/track/223aYFqV1AHgSq4cKCkrkc) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Why Should I?](https://open.spotify.com/album/17iRGnHZKFr5ASEjrz0ApQ) | 2:29 | 2024-01-12 | 2024-02-17 |

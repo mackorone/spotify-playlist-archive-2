@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,927 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,968 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 38 | [Samajavaragamana \- Female \- Telugu](https://open.spotify.com/track/7kmJKCLcHSx0SYQ65FBCeR) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3HMcwOnORhVISxVRb9FNFj) | 4:01 |
 | 39 | [Aapena Aagena](https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs) | [Prashanth R Vihari](https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1), [Madhura Dhara Talluri](https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq) | [SKYLAB](https://open.spotify.com/album/5N21SLtHRT17d0F7PhWEPO) | 4:27 |
 | 40 | [Orori Sanchari](https://open.spotify.com/track/6WiG6Ufy3q0Cj8101MMSLf) | [Sachin Balu](https://open.spotify.com/artist/079wIH2YkZpPmlvg4C9Pjr) | [Ante Sundaraniki](https://open.spotify.com/album/0uoXlF20x75anQ9kMbo7tu) | 5:24 |
-| 41 | [Yedha Okka Prayamu](https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l) | [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Ashok Anand](https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn) | [Psych Siddhartha](https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw) | 3:20 |
-| 42 | [Laali Laali](https://open.spotify.com/track/2tPzWMEmCJSgf38S896ASk) | [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Don’T Trouble The Trouble \(Telugu\)](https://open.spotify.com/album/7jaN6dXYgPcTMtv0cpUKej) | 3:57 |
+| 41 | [Laali Laali](https://open.spotify.com/track/2tPzWMEmCJSgf38S896ASk) | [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Don’T Trouble The Trouble \(Telugu\)](https://open.spotify.com/album/7jaN6dXYgPcTMtv0cpUKej) | 3:57 |
+| 42 | [Yedha Okka Prayamu](https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l) | [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Ashok Anand](https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn) | [Psych Siddhartha](https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw) | 3:20 |
 | 43 | [Seetaaloo Nuvveleka](https://open.spotify.com/track/2gHh47zmMSM6FfapMfi2ZD) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Donga Donga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KMG2UKnAQbbkVXtu7KYRM) | 4:27 |
 | 44 | [Anuvanuvuu](https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Om Bheem Bush](https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr) | 3:31 |
 | 45 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |

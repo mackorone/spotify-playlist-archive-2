@@ -4,7 +4,7 @@
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 55 min
+50 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Si Me Matan](https://open.spotify.com/track/5LRAZiQRfLKBzd9LVn9gbY) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 4:10 | 2026-03-20 |  |
 | [Te Guardo](https://open.spotify.com/track/0MbiIQrfTj9U3MXzv3AsoK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 3:21 | 2026-03-20 |  |
 | [Tenías Que Ser Tú](https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Tenías Que Ser Tú](https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj) | 2:21 | 2026-03-20 |  |
+| [Todo Baila \(feat\. M\. Ward\)](https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Vendrán Suaves Lluvias \(y el tiempo prudente\)](https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB) | 2:53 | 2026-10-18 |  |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2026-03-20 | 2026-08-01 |
 | [Tom's Diner](https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0) | 3:40 | 2026-08-01 |  |
 | [Tregua](https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 2:10 | 2026-03-20 |  |

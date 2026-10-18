@@ -10484,7 +10484,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 199809,
       "name": "freak",
       "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
@@ -10784,6 +10784,28 @@
       "duration_ms": 183280,
       "name": "FREYA",
       "url": "https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB"
+    },
+    {
+      "album": {
+        "name": "FRICTION",
+        "url": "https://open.spotify.com/album/0zyJH68Hu6kj8N2RcBNHKG"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        },
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168913,
+      "name": "FRICTION",
+      "url": "https://open.spotify.com/track/38QQX5owEYU3h4alb7CaPU"
     },
     {
       "album": {
@@ -13740,6 +13762,24 @@
       "duration_ms": 189351,
       "name": "Hot & Sexy",
       "url": "https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu"
+    },
+    {
+      "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
     },
     {
       "album": {
@@ -20382,7 +20422,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 222178,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/0Fscl5Gt6r9UfJR6OWG1wI"
@@ -23852,7 +23892,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 141315,
       "name": "Pillow Fight",
       "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
@@ -32846,7 +32886,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"

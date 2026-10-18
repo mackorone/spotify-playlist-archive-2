@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Ezgi B
 
-452 songs - 23 hr 10 min
+453 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ahtapot](https://open.spotify.com/track/3FEZHnpPG4jd6Se6QDa2tf) | [KOZ](https://open.spotify.com/artist/78ByOUFZHXBcuZSe8KkTqO) | [İstanbul \(Extended\)](https://open.spotify.com/album/09MzKD18zzrluvyrrF68Ao) | 3:16 | 2025-07-24 | 2025-09-12 |
 | [Ahım Olsun](https://open.spotify.com/track/73ZR1sekgo3fROlSSgfFug) | [Boş Liman](https://open.spotify.com/artist/46P1QP7jskrqlhGGPi80AC) | [Ahım Olsun](https://open.spotify.com/album/3xodheTpvnNvn9dECEBa6j) | 3:01 | 2025-09-25 |  |
 | [Aklın Neredeydi](https://open.spotify.com/track/09OUV9HGBXvWwbsvKfWvDO) | [Neva](https://open.spotify.com/artist/5Mc80B08U84VTd98nZcvuD) | [Aklın Neredeydi](https://open.spotify.com/album/4qth5OmI91na8kin4CbjJ7) | 2:29 | 2025-09-04 | 2025-09-13 |
-| [Aklında Kim Var?](https://open.spotify.com/track/5rTEZu5um5xHiRzHz5UbSQ) | [Doğa](https://open.spotify.com/artist/3GsGRGDFFTzDbigXSVbqne) | [Aklında Kim Var?](https://open.spotify.com/album/1ZJh6UmpsRscCZ2arR4hXk) | 2:55 | 2026-02-19 | 2026-09-21 |
+| [Aklında Kim Var?](https://open.spotify.com/track/5rTEZu5um5xHiRzHz5UbSQ) | [Doğa](https://open.spotify.com/artist/3GsGRGDFFTzDbigXSVbqne) | [Aklında Kim Var?](https://open.spotify.com/album/1ZJh6UmpsRscCZ2arR4hXk) | 2:55 | 2026-02-19 |  |
 | [Akşama Kaldım](https://open.spotify.com/track/2wk3wspfJCBIQ7ggh2jTEH) | [Çetin Dilsiz](https://open.spotify.com/artist/3xVNtr8NgvJI6VmJ2DoYUs) | [Akşama Kaldım](https://open.spotify.com/album/4kpGoHsiKri3IehBFidw3n) | 3:31 | 2025-09-25 | 2025-10-22 |
 | [Alaaddin](https://open.spotify.com/track/7CMBLeVj36I0yHVsGCDzAB) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [Alaaddin](https://open.spotify.com/album/18bzdTfekL5mXeYrTeHB8n) | 2:46 | 2024-10-24 | 2024-11-13 |
 | [Alabora](https://open.spotify.com/track/5dGPB6fmNgdLsFiOl0Ho0s) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Alabora](https://open.spotify.com/album/6u6aFjaF9pRnzYDm5SUdVy) | 2:09 | 2025-07-07 | 2025-09-19 |
@@ -37,6 +37,7 @@
 | [Asi](https://open.spotify.com/track/2JreBBfR668uVO5ZvOeKjT) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Asi](https://open.spotify.com/album/0yoxluWtV2dTiJ1zUch5k5) | 2:44 | 2024-06-20 | 2024-09-06 |
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-07-04 |  |
 | [Atlı Karınca](https://open.spotify.com/track/2d9k45EnYrbdKDZ2IkFl5o) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Atlı Karınca](https://open.spotify.com/album/7qdTfxrw3yNzTCebsKARjz) | 3:42 | 2025-11-06 | 2026-04-04 |
+| [Avcı](https://open.spotify.com/track/2kW0o6GMI6vrrMZMVrwQU8) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Avcı](https://open.spotify.com/album/1TMzza2BjUc0lEgghtaot0) | 3:11 | 2026-10-13 |  |
 | [Ay Aman](https://open.spotify.com/track/0VLw7lk8FeLi1zWd4sLVxy) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Ay Aman](https://open.spotify.com/album/0szu7NaN5ikbRTrhLxV5B2) | 2:20 | 2025-09-04 |  |
 | [Ay Ol](https://open.spotify.com/track/3DLozlivQmldVVgPvimefp) | [Ruh](https://open.spotify.com/artist/7JfjCLCMVZFBGoNRJc6qf2) | [Ay Ol](https://open.spotify.com/album/7nrdCzCCJ5xOmwtEht2g9X) | 2:31 | 2024-06-20 | 2024-09-06 |
 | [aynen](https://open.spotify.com/track/3uGC32ZvLDRFgOXh5eiLdb) | [eski iki](https://open.spotify.com/artist/2Tk0PGJJaxn3NcAMfkp5J0) | [aynen](https://open.spotify.com/album/5IA6LVIRR8l2xe68XHJWBp) | 2:17 | 2025-09-25 | 2025-11-30 |
@@ -88,7 +89,7 @@
 | [Bir Bir](https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bir Bir](https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY) | 2:55 | 2024-08-22 |  |
 | [Bir Daha Kapımı Çalma](https://open.spotify.com/track/0SzChyb7DfyrKxv0WgTptr) | [İpek Özdemir](https://open.spotify.com/artist/0XavlnfrS3L6NxZWiDxW6r) | [Bir Daha Kapımı Çalma](https://open.spotify.com/album/4pK4soqIYCUPdlJvI1wYN6) | 3:32 | 2025-05-15 | 2025-07-11 |
 | [Bir Dalda İki Kiraz](https://open.spotify.com/track/1UVywGyBSyYUFpB9PCbCM1) | [Hissikablelvuku](https://open.spotify.com/artist/483p4aohYiaWAFP6FdRNOf) | [Bir Dalda İki Kiraz](https://open.spotify.com/album/5q3FkhW9n2ns8fPcZ4lzS7) | 6:34 | 2026-02-27 | 2026-03-24 |
-| [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/track/6IMWKyAXOk4ZTi5rqUYVDG) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/album/1NDPFTLMS13VpfLVaktfPK) | 4:33 | 2025-03-06 |  |
+| [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/track/6IMWKyAXOk4ZTi5rqUYVDG) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/album/1NDPFTLMS13VpfLVaktfPK) | 4:33 | 2025-03-06 | 2026-10-18 |
 | [Bir Parçam Olma](https://open.spotify.com/track/7H2yhCawUuB7ZCAqK6GquS) | [Melis Yelman](https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv) | [Bir Parçam Olma](https://open.spotify.com/album/3QO5HDZvxi6YC5ehvhppbf) | 3:11 | 2025-05-08 | 2025-05-16 |
 | [Bir Zamanlar](https://open.spotify.com/track/66pFqTXylOM6k15z7bCtuL) | [Goncagül Sunar](https://open.spotify.com/artist/0lo8nd8X4CeKXokVsuTEJv) | [Bir Zamanlar](https://open.spotify.com/album/5NV5YgWmgt4VCz1InYMcU6) | 4:29 | 2026-05-08 | 2026-05-23 |
 | [Bitti Hikayemiz](https://open.spotify.com/track/0R6PCc8mr0v2DlRZQCzW35) | [Nazlı Yaşan](https://open.spotify.com/artist/6wEC8NwWVlVXzvKRKETpMp) | [Bitti Hikayemiz](https://open.spotify.com/album/0eaiRgGguSXCQNopYBRYGy) | 2:43 | 2024-10-10 | 2024-12-30 |
@@ -361,7 +362,7 @@
 | [Unutamam Seni](https://open.spotify.com/track/5gSWc6uKL437wNiR8kSbmw) | [Emre Dönmez](https://open.spotify.com/artist/0l1SkNuZtTebIGNna4PeCJ) | [Unutamam Seni](https://open.spotify.com/album/5QbPymMvRwJJqsJnSfhn7a) | 2:37 | 2025-07-10 | 2025-09-14 |
 | [uydu bu aşk](https://open.spotify.com/track/5E3pd3QlpaN3cnoY4oVzvs) | [Tutku](https://open.spotify.com/artist/5hgO3u5FjBwpPJZFP8W7DX) | [uydu bu aşk](https://open.spotify.com/album/0Xk8HEwM4wnUPyABbNqgUR) | 3:10 | 2025-05-29 | 2025-07-08 |
 | [Uykusuzum](https://open.spotify.com/track/0FK0LJu6P1S0EoRSsXGI3W) | [Lil Begy](https://open.spotify.com/artist/50do41eMmwBzQICjvnmwxN) | [Uykusuzum](https://open.spotify.com/album/1n0Yub001RO6dD5WVcvPcE) | 2:12 | 2025-01-16 | 2025-03-30 |
-| [UYUDUN MU?](https://open.spotify.com/track/0S7eW1xtpz7Yj8iOBSAc3J) | [İpek Naz](https://open.spotify.com/artist/4FhVqsOVE9TdoUabiEu4Ic) | [UYUDUN MU?](https://open.spotify.com/album/0bkRo72s4lhDFgnAhxjtuK) | 3:37 | 2026-09-22 |  |
+| [UYUDUN MU?](https://open.spotify.com/track/0S7eW1xtpz7Yj8iOBSAc3J) | [İpek Naz](https://open.spotify.com/artist/4FhVqsOVE9TdoUabiEu4Ic) | [UYUDUN MU?](https://open.spotify.com/album/0bkRo72s4lhDFgnAhxjtuK) | 3:37 | 2026-09-22 | 2026-10-18 |
 | [uzak mıdır aşk?](https://open.spotify.com/track/6OoqPxoRorsbKUNAY6oF3u) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [uzak mıdır aşk?](https://open.spotify.com/album/4rYSfKI6uxqIODI2vVa4t1) | 2:00 | 2024-06-20 | 2024-11-17 |
 | [Uzaktan Biri](https://open.spotify.com/track/3EUbQ8gOVePK42p4AG6F4s) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Uzaktan Biri](https://open.spotify.com/album/6T8Pt8JZFK22EGdec01fg9) | 3:41 | 2025-02-27 |  |
 | [Uzatmam](https://open.spotify.com/track/1sGd8ofqiKxm2obCJA8YoQ) | [Gizem Duman](https://open.spotify.com/artist/7CwBX1ov1EbdYm7VPxTkkQ) | [Uzatmam](https://open.spotify.com/album/0hO0bEf6rhYs090LN60ZbY) | 2:30 | 2026-02-27 | 2026-03-23 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "4X4 Is King",
+        "url": "https://open.spotify.com/album/37u4aAYbmdtIoUDPysD4nH"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165240,
+      "name": "4X4 Is King",
+      "url": "https://open.spotify.com/track/3BGw0NaEF8FKa44xeIHfeO"
+    },
+    {
+      "album": {
         "name": "Planet Country",
         "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
@@ -552,7 +570,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 258293,
       "name": "I Was Only 19 (A Walk in the Green Light)",
       "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"

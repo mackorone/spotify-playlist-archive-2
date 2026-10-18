@@ -13510,7 +13510,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 209971,
       "name": "Feed",
       "url": "https://open.spotify.com/track/1ONK0N5n6ugF46VBQmM3XM"
@@ -24236,7 +24236,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 216000,
       "name": "Master Mirror",
       "url": "https://open.spotify.com/track/70bUBgCGTmbftd5BBpRMKq"
@@ -26861,6 +26861,24 @@
     },
     {
       "album": {
+        "name": "no longer human",
+        "url": "https://open.spotify.com/album/1IJOMXJZJZZG83lVuu81Lz"
+      },
+      "artists": [
+        {
+          "name": "carkeys",
+          "url": "https://open.spotify.com/artist/78x0HuFw7jODJaoZussz4y"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168119,
+      "name": "no longer human",
+      "url": "https://open.spotify.com/track/626HwGF7ksc1si7oOaluB1"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/2aOAUdx4KfRRjutYqOxf6x"
       },
@@ -26872,7 +26890,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 162528,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3BNEownrtdFYhF8o7SU3tF"
@@ -27344,7 +27362,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 182805,
       "name": "Not Another Chicken Place",
       "url": "https://open.spotify.com/track/2JcbJSeByCx55aILkGo5dX"
@@ -30557,7 +30575,7 @@
     },
     {
       "album": {
-        "name": "PROTECT UR KNECK",
+        "name": "PROTECT UR NECK",
         "url": "https://open.spotify.com/album/5vStlN4llKwKphSUvVS9Sk"
       },
       "artists": [
@@ -35998,7 +36016,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 228036,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/5Q7LRkw84x7diqZ1ZHHTfd"
@@ -38258,7 +38276,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 169411,
       "name": "Tekk Und Tina",
       "url": "https://open.spotify.com/track/5Nd252b7KZ7cTtc1IbQzQm"
@@ -42490,7 +42508,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 185301,
       "name": "Vamos Viendo",
       "url": "https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO"

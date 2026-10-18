@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 52896,
+  "num_followers": 52919,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "De Stilte Voorbij",
-        "url": "https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2"
-      },
-      "artists": [
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Onderweg",
-      "url": "https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 226466,
       "name": "W\u00ear Bisto",
       "url": "https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "De Stilte Voorbij",
+        "url": "https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Onderweg",
+      "url": "https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Totzoverder (Het Beste Van 3JS)",
-        "url": "https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h"
-      },
-      "artists": [
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Watermensen",
-      "url": "https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Vandaag",
         "url": "https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 159866,
       "name": "Rosanne",
       "url": "https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Totzoverder (Het Beste Van 3JS)",
+        "url": "https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Watermensen",
+      "url": "https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Mijn Van Straat Geredde Roos",
-      "url": "https://open.spotify.com/track/4dT8ndNPoqfhJmEqNO48BE"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Herinneringen Het Beste van Nick & Simon Top 100",
         "url": "https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 176306,
       "name": "Kijk Omhoog",
       "url": "https://open.spotify.com/track/3Ka2Ti5ZreEHlp9R7BXyOj"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Mijn Van Straat Geredde Roos",
+      "url": "https://open.spotify.com/track/4dT8ndNPoqfhJmEqNO48BE"
     }
   ],
   "unique_name": "00's Nederlandstalig",

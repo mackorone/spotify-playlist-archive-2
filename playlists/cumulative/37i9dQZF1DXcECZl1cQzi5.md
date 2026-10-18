@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-247 songs - 11 hr 48 min
+248 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Deductive Theory](https://open.spotify.com/track/6g6O1Sq1BJESerMP1y6Kg5) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [Deductive Theory](https://open.spotify.com/album/3jMaWH7mvmB8Yeq0MLoYBH) | 2:36 | 2025-02-18 |  |
 | [Deep Cove](https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 2:41 | 2023-10-23 |  |
 | [Deep Horizon \(By The Sea\)](https://open.spotify.com/track/1Vr254pm0vAoskLaqR6F24) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Sunrise Serenade](https://open.spotify.com/album/5fXtwzH2IFeVPS1EXzOyc9) | 2:47 | 2023-10-23 | 2025-02-14 |
-| [Deep Surrender](https://open.spotify.com/track/7f6USZOojzum21fDfZGESr) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Deep Surrender](https://open.spotify.com/album/4GjxOSn5T0bqCucFm59YJH) | 2:32 | 2025-02-18 |  |
+| [Deep Surrender](https://open.spotify.com/track/7f6USZOojzum21fDfZGESr) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Deep Surrender](https://open.spotify.com/album/4GjxOSn5T0bqCucFm59YJH) | 2:32 | 2025-02-18 | 2026-10-18 |
 | [Deep Waters 432Hz](https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Deep Waters 432Hz](https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ) | 2:14 | 2023-10-23 | 2026-02-28 |
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-10-23 |  |
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2023-10-23 |  |
@@ -157,6 +157,7 @@
 | [Ocean Mindfulness](https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Ocean Mindfulness](https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh) | 3:27 | 2023-10-23 |  |
 | [Ocean Miracle](https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Ocean Dynamics](https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo) | 2:56 | 2024-05-01 |  |
 | [Ocean Mist](https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Ocean Mist](https://open.spotify.com/album/713IgaOvTqGw9jUgsmyFvY) | 2:31 | 2025-01-15 | 2026-10-06 |
+| [Ocean Pulse](https://open.spotify.com/track/3sP8Z46DJG21pRX4wyiWbA) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Ocean Pulse](https://open.spotify.com/album/30z0BBhnTWKSd2vnJdzoF9) | 2:45 | 2026-10-05 |  |
 | [Ocean Swell](https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Ocean Swell](https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT) | 2:55 | 2024-03-20 |  |
 | [Ocean's Rest](https://open.spotify.com/track/133m9xVMTdOifqyohjzby9) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Ocean's Rest](https://open.spotify.com/album/6Vz8sDcOZBtl4xI87nBC3S) | 3:24 | 2025-12-17 |  |
 | [Oceanfront](https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Oceanfront](https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ) | 3:02 | 2023-10-23 | 2024-08-23 |

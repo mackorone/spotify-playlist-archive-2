@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,482 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,392 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 25 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
 | 26 | [Animal](https://open.spotify.com/track/0ZdppjPgr8yoNS1xbfqjtG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal \(on the dance floor\)](https://open.spotify.com/album/19T0bG3OXAXTePmYZCVK9Z) | 2:38 |
 | 27 | [Atom](https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Atom](https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB) | 2:41 |
-| 28 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
+| 28 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
 | 29 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 30 | [Det ligger nåt i luften](https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Det ligger nåt i luften](https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE) | 2:30 |
 | 31 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |

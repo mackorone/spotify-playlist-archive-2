@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,546 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,568 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 76 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
 | 77 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
 | 78 | [Skylight](https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 4:00 |
-| 79 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
-| 80 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
-| 81 | [Matina](https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Matina](https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A) | 2:08 |
-| 82 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
+| 79 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
+| 80 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
+| 81 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
+| 82 | [Matina](https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Matina](https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A) | 2:08 |
 | 83 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
-| 84 | [Porvenir](https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Porvenir](https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh) | 3:00 |
-| 85 | [Quisiera](https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Quisiera](https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv) | 2:15 |
+| 84 | [Quisiera](https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Quisiera](https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv) | 2:15 |
+| 85 | [Porvenir](https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Porvenir](https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh) | 3:00 |
 | 86 | [Eclipse](https://open.spotify.com/track/18U7HAw98r4jEMC2kce3SO) | [jere](https://open.spotify.com/artist/2pW3XFfc7CT0Uu9Ophy7zx) | [Pensamientos Violentos](https://open.spotify.com/album/5cHn5IrSpXnuyeRkacu0Al) | 3:28 |
 | 87 | [Run A Red Light](https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Fuse](https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx) | 3:39 |
 | 88 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |

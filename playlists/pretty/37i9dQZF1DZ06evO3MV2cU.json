@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141670,
+  "num_followers": 141675,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACu0OSx1rzj6Ba+kqWXOVur",
+  "snapshot_id": "atFpAAAAAAAStFzExWAO9Beno6bANSKU",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 349545,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
+      "duration_ms": 264923,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 264923,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
+      "duration_ms": 349545,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 229680,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
+      "duration_ms": 301240,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 301240,
-      "name": "I Will Rise",
-      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
+      "duration_ms": 229680,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: God Of This City (Live)",
-        "url": "https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305992,
-      "name": "God Of This City - Live",
-      "url": "https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: A Generation United For His Renown",
         "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 514039,
       "name": "Amazing Grace (My Chains Are Gone) - Live",
       "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: God Of This City (Live)",
+        "url": "https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 305992,
+      "name": "God Of This City - Live",
+      "url": "https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52"
     },
     {
       "added_at": null,

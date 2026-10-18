@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1105959,
+  "num_followers": 1106015,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAA6bsO5Yka7aXTxMDD9ATJA",
+  "snapshot_id": "atFpAAAAAAAutNezhLlGb0IGs+DKNq+4",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amala",
-        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 219004,
-      "name": "Wine Pon You (feat. Konshens)",
-      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
+      "duration_ms": 230466,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
       "added_at": null,
@@ -263,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 230466,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+      "duration_ms": 219004,
+      "name": "Wine Pon You (feat. Konshens)",
+      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
     },
     {
       "added_at": null,

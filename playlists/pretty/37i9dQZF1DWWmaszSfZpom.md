@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,377 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,394 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 28 | [Bipolar](https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI) | [Bipolar](https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy) | 4:36 |
 | 29 | [Automaticamente](https://open.spotify.com/track/6AaoEX192rJ6o3UFwG43sV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Leléto](https://open.spotify.com/artist/7qga9VgjmVrAAawr8WwUAH), [Mc Maromba](https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 3:07 |
 | 30 | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV) | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR) | 2:30 |
-| 31 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
-| 32 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 31 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 32 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
 | 33 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 | 34 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |
 | 35 | [Ô Moça](https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Ô Moça](https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6) | 3:00 |

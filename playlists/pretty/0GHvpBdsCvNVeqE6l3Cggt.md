@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 44 | [Ready](https://open.spotify.com/track/3ZI52bSw68jW6y08XY4WYE) | [Marine Medina](https://open.spotify.com/artist/7jTAbRBHYdDJDom9QDG5f1) | [Ready](https://open.spotify.com/album/3CCfpiRc24j6i7sTKXPBiD) | 3:40 |
 | 45 | [Vice](https://open.spotify.com/track/6J7l1PnaKg3Ln9wgzPQbbB) | [NOXON](https://open.spotify.com/artist/60v7Pw2EQJBDbGo3vAdCQH) | [Vice](https://open.spotify.com/album/23IyzQwMt0tbN8dALuWR1u) | 2:56 |
 | 46 | [in my heart](https://open.spotify.com/track/5OyKWAJCPkT9LnfLibWCgP) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [in my heart](https://open.spotify.com/album/2ytCcAF30xlxnxxt0rhcK4) | 3:49 |
-| 47 | [Barebones](https://open.spotify.com/track/2aWzmqndr6lsVJqqQkuaWa) | [MKTM](https://open.spotify.com/artist/0OLjwojWrPQT1pQY8lUGKf), [W Λ R D](https://open.spotify.com/artist/129wGdcEc9j1b9YEkvX50O) | [Barebones](https://open.spotify.com/album/1B86dpWBr8KajNzOHk27iB) | 4:28 |
+| 47 | [Barebones](https://open.spotify.com/track/2aWzmqndr6lsVJqqQkuaWa) | [MKTM](https://open.spotify.com/artist/0OLjwojWrPQT1pQY8lUGKf), [WARD](https://open.spotify.com/artist/4P39VLTSGfAkfPgascJj16) | [Barebones](https://open.spotify.com/album/1B86dpWBr8KajNzOHk27iB) | 4:28 |
 | 48 | [No Hard Feelings](https://open.spotify.com/track/7vV9QDHk4grxd2VGG7eq3R) | [Pascal Brochu](https://open.spotify.com/artist/7pO322Zg9e1EZ0RVB64F1o) | [No Hard Feelings](https://open.spotify.com/album/0GF23WOvjJjLqNjtWDnbAW) | 3:18 |
 
 Snapshot ID: `AAAkaV2mOzdsKiAwRWPPfvV+odWA+cMp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,946 songs - 11 day 4 hr 15 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,949 songs - 11 day 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3894,7 +3894,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3884 | [Goblin Knight](https://open.spotify.com/track/2ubz5puXCEXgeyk0xIj4lC) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Goblin Knight](https://open.spotify.com/album/0i6ImkD3jN1XI1Iw0OvcJK) | 2:53 |
 | 3885 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 |
 | 3886 | [OathBreaker's Call](https://open.spotify.com/track/0sM5SlFGAZnwJg4oD4bizw) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [OathBreaker's Call](https://open.spotify.com/album/1c82DbgAJ73HGNLud7Bwvt) | 3:47 |
-| 3887 | [Qué te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 |
+| 3887 | [Qué Te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué Te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 |
 | 3888 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 |
 | 3889 | [Youngstown](https://open.spotify.com/track/6YmLz8uBq0uX9HkYgLzUOe) | [Deezol](https://open.spotify.com/artist/5ujrYiJqMeAmMMpC22ZLPS), [Buddha Redd](https://open.spotify.com/artist/56zrjCjfufYRkjYSQibL1x) | [Temple of Boone](https://open.spotify.com/album/2xtXCyhGVuWq0acGmGrkES) | 2:54 |
 | 3890 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 |
@@ -4954,5 +4954,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4944 | [Roundabout](https://open.spotify.com/track/5ubJywKQxqVWVBSYOkxda7) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [Roundabout](https://open.spotify.com/album/4V8ViZcy59VM5FyWh2ugaF) | 2:59 |
 | 4945 | [Always You and I](https://open.spotify.com/track/21VD4mfZ3FUGNN4MvKmXLJ) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl), [Cathrine Restad\-Hvalby](https://open.spotify.com/artist/0B9DYx33j8xGopYcFNpzqc) | [Always You and I](https://open.spotify.com/album/5DMrlFAmeAMIJHajphsvRE) | 3:40 |
 | 4946 | [Hoi Hoi Helsinki \- 2.0 Version](https://open.spotify.com/track/6mSQWVTLFzvKKplsx2qZkP) | [Miciz](https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW) | [Hoi Hoi Helsinki \(2.0 Version\)](https://open.spotify.com/album/3rXFnECY3rKLsOgAJgO4iA) | 4:18 |
+| 4947 | [Perspicaz](https://open.spotify.com/track/06ARSnSxReS8ET4ZNJtbr4) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:22 |
+| 4948 | [Menyerah Pada Waktu](https://open.spotify.com/track/4oiVwIwGKYgwdk8vG0Uyr5) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Menyerah Pada Waktu](https://open.spotify.com/album/0kAjLI3QAW58292SFweHHx) | 3:34 |
+| 4949 | [Unmade](https://open.spotify.com/track/3kfYHxdBmhXdEvpn9vXCxE) | [Ascrail](https://open.spotify.com/artist/1041Yy0Ao1YWSBj0gD1hHG) | [Unmade](https://open.spotify.com/album/6MKzwexbNEDlSZFm2tiaZL) | 3:21 |
 
-Snapshot ID: `AAAKkq179lPFcxQDLgktCMa5rJgpsI31`
+Snapshot ID: `AAAKlcCjwYwHg0mViFT8X2cBjvGGB+3i`

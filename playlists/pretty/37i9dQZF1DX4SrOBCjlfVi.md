@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, A$AP Rocky, LUCKI and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,519 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,577 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [McLOVIN](https://open.spotify.com/track/1jExBVQWeYolpiLIGoHo4n) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc) | [Chinese Louis Bag](https://open.spotify.com/album/3dewqctdL4X5Nzjjjj1PvJ) | 1:20 |
 | 28 | [Drain](https://open.spotify.com/track/6nUJye4ha1BKFIQQLDEIeG) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX), [Young KB](https://open.spotify.com/artist/0lzkgFk4UulIYXwdnhVMTs) | [Drain](https://open.spotify.com/album/2CuDB6BgaPJpPK9N8O48tR) | 2:05 |
 | 29 | [Maybach Parked](https://open.spotify.com/track/3J49TRZHFuBz1qapRWXxoX) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [Maybach Parked](https://open.spotify.com/album/7bez9Lx0cUQxLjYz4hhr6p) | 2:25 |
-| 30 | [What A Bummer](https://open.spotify.com/track/6uCWlGNsda8Sx89lDZUJBW) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [What A Bummer](https://open.spotify.com/album/5tN8H0bRE1QBlrFt7gGkCi) | 3:47 |
+| 30 | [What A Bummer Remix](https://open.spotify.com/track/6uCWlGNsda8Sx89lDZUJBW) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [What A Bummer Remix](https://open.spotify.com/album/5tN8H0bRE1QBlrFt7gGkCi) | 3:47 |
 | 31 | [Figure](https://open.spotify.com/track/5kz98Xat9oUuUCOePLZW0z) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Figure](https://open.spotify.com/album/57aYvsZkhKOjYY7wQgNFhc) | 2:45 |
 | 32 | [Hog The Street](https://open.spotify.com/track/27McuarK4DnzFiRztmjKiR) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3) | [Hog The Street](https://open.spotify.com/album/3m7qKsl8Y4RwR6H10JtJ5M) | 2:40 |
 | 33 | [Get It In](https://open.spotify.com/track/1n9MWUkM6mFqkUrz2XJqO3) | [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Get It In](https://open.spotify.com/album/5YqnzoPbg2pf9XTW4RorRB) | 2:16 |

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Knox
 
-1,685 songs - 3 day 12 hr 13 min
+1,686 songs - 3 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [lucid dreaming](https://open.spotify.com/track/5FtbSnllpWLkoDYYzl2Biw) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [lucid dreaming](https://open.spotify.com/album/28b8F7dZus7smK4RW67Heb) | 2:48 | 2025-08-08 | 2025-11-29 |
 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-07-29 | 2022-09-03 |
 | [LUCKY BOY](https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [LUCKY BOY](https://open.spotify.com/album/7sC2LnkJihVuPsBPPUPU7y) | 2:48 | 2025-01-17 | 2025-04-12 |
+| [Lucy, When You Wake Up](https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Lucy, When You Wake Up](https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0) | 3:34 | 2026-10-17 |  |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-27 | 2025-09-06 |
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 | 2024-01-05 |
 | [MAGIK](https://open.spotify.com/track/6zWdODBjSnvZF3V1i2s8lq) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [MAGIK](https://open.spotify.com/album/3Zj2GG4pPjg4ppByk5iCL5) | 2:36 | 2025-05-16 | 2025-06-21 |
@@ -1288,7 +1289,7 @@
 | [Sleeping In My Car](https://open.spotify.com/track/1z72b1oJqfdDbS3jnWcKjN) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Zodiac](https://open.spotify.com/album/1QmYG5rDwfQFjtWFOMv6Kh) | 2:21 | 2026-03-20 | 2026-05-23 |
 | [Sleeping With The Lights On](https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 3:44 | 2025-05-02 | 2025-08-02 |
 | [sleepover](https://open.spotify.com/track/4WEi5dUbKYjiOuc3LCQY2n) | [dreamfone](https://open.spotify.com/artist/00BCWGiYaxkXLJOp3zakyc) | [sleepover](https://open.spotify.com/album/6mJomZ2MN6gyUxbO2efeGT) | 2:38 | 2023-09-22 | 2024-01-05 |
-| [SLEEPOVER](https://open.spotify.com/track/3YzXRNwAGJpGnM8WLSHEYq) | [TJ Minor](https://open.spotify.com/artist/0zu3qkB9uFXeMwrtKQxr8E) | [SLEEPOVER](https://open.spotify.com/album/4102k3U6jMBUEdKP1ZToWr) | 3:10 | 2026-08-07 |  |
+| [SLEEPOVER](https://open.spotify.com/track/3YzXRNwAGJpGnM8WLSHEYq) | [TJ Minor](https://open.spotify.com/artist/0zu3qkB9uFXeMwrtKQxr8E) | [SLEEPOVER](https://open.spotify.com/album/4102k3U6jMBUEdKP1ZToWr) | 3:10 | 2026-08-07 | 2026-10-18 |
 | [Sleepyhead](https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8) | 3:14 | 2024-02-16 | 2024-02-24 |
 | [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 | 2024-02-09 | 2024-02-23 |
 | [Slide](https://open.spotify.com/track/7BzduEaTDTxEhZvLJbZWW2) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/1VJQGEoTco7jhMvYjJhZzR) | 2:35 | 2022-09-16 | 2022-09-24 |

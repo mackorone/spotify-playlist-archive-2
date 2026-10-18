@@ -432,10 +432,32 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/5iYWJ43XIgzhUSKXfvYJW6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159327,
+      "name": "I Put A Spell On You - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/7EFxupVOrrI4HfraUCDYOs"
     },
     {
       "album": {

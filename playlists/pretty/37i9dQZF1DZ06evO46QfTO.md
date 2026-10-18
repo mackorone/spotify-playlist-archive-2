@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,881 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,883 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 49 | [Mamas Don't Let Your Babies Grow Up To Be Cowboys \- Live at The Gorge 2023](https://open.spotify.com/track/3Wf1IsfFTBf2REetJXoaHo) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Live at The Gorge 2023](https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz) | 3:59 |
 | 50 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 |
 
-Snapshot ID: `as7GAAAAAAC1RyYDmv2Pgeg0HYc2OmiU`
+Snapshot ID: `atFpAAAAAACd+5rloQsh49bICLRrtN2U`

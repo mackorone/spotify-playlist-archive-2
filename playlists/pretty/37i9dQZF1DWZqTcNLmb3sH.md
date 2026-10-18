@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Brindavihari
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,466 likes - 101 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,501 likes - 101 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 7 | [Eru Peru Hrudaya \(From "Premada Oorali"\)](https://open.spotify.com/track/10uvd9gC2yb5MQ2Ww3r2eL) | [Ninaada Nayak](https://open.spotify.com/artist/2qliAtSG1g3QsE7E8EExnp) | [Eru Peru Hrudaya \(From "Premada Oorali"\)](https://open.spotify.com/album/5oT0B5b6vl3VhLwBSSU0g9) | 3:29 |
 | 8 | [Bayarike](https://open.spotify.com/track/7A1JMkkcDpTgWnM2pz6dY8) | [Chetan \- Daavy](https://open.spotify.com/artist/0VVvrLAbnAzjjDfJ19PmyD), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Bayarike](https://open.spotify.com/album/7MjS8omGXdiifOZ9HLDRk8) | 4:31 |
 | 9 | [Ee Jeevana Sa Ri Ga Ma \(From "Brindhavihari"\)](https://open.spotify.com/track/3hbUrQj0EHo9WKgPS6dTum) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Ee Jeevana Sa Ri Ga Ma \(From "Brindhavihari"\)](https://open.spotify.com/album/79J93vehswJkNU1F2hIwsb) | 3:45 |
-| 10 | [Aalisada](https://open.spotify.com/track/1JJYz65ANtMmMPirWz0xmH) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [In the Mood for Marriage](https://open.spotify.com/album/61EWMt2tbCw4hYK5DT14j6) | 3:41 |
+| 10 | [Aalisada](https://open.spotify.com/track/1JJYz65ANtMmMPirWz0xmH) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Danka Studios](https://open.spotify.com/artist/75tDAgcYGzXqPWvJfj8ZAX), [Vyshak V Bhargav](https://open.spotify.com/artist/4Bjy1wCYa0nluf7abA749k) | [In the Mood for Marriage](https://open.spotify.com/album/61EWMt2tbCw4hYK5DT14j6) | 3:41 |
 | 11 | [Baanali Jaarida \(From "Premada Oorali"\)](https://open.spotify.com/track/0iovic2BuwklVkuyDFat2k) | [Ninaada Nayak](https://open.spotify.com/artist/2qliAtSG1g3QsE7E8EExnp), [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW) | [Baanali Jaarida \(From "Premada Oorali"\)](https://open.spotify.com/album/5pifBHxjz6gOqrQWhOfEuR) | 3:44 |
 | 12 | [Gejje \(Kannada\)](https://open.spotify.com/track/6ebSo1adkTL19YfpsJKAFk) | [Mayur Ambekallu](https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY), [Mayura Naiga](https://open.spotify.com/artist/4YkHg1kUHk9FNDjrnGxNmn), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Gejje \(Kannada\)](https://open.spotify.com/album/4hKrV29eqKcts6rlH3pWvj) | 4:59 |
 | 13 | [Ee Dhareya Mele \- From "America America 2"](https://open.spotify.com/track/2wpIPggt6cGzBEdREtHmKX) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA), [Mano Murthy](https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj) | [Ee Dhareya Mele \(From "America America 2"\)](https://open.spotify.com/album/4MXX8Zx1LZYyW3IKS4DDS2) | 4:08 |

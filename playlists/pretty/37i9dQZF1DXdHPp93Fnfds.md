@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,525 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,513 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 13 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 |
 | 14 | [17](https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [17](https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO) | 5:11 |
 | 15 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
-| 16 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 |
-| 17 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
+| 16 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
+| 17 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 |
 | 18 | [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 |
 | 19 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
 | 20 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 22 | [Do Not Disturb](https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Do Not Disturb](https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV) | 1:26 |
 | 23 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
 | 24 | [Labio Inferior](https://open.spotify.com/track/62jyvcXfpiZLHWMi0p8VJL) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:51 |
-| 25 | [With Or Without You](https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [With Or Without You](https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn) | 2:34 |
-| 26 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
+| 25 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
+| 26 | [With Or Without You](https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [With Or Without You](https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn) | 2:34 |
 | 27 | [Con Mi Amiga](https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:04 |
 | 28 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 |
 | 29 | [El Día de las Flores](https://open.spotify.com/track/6IDE0OVT1hcMdf1bCqxxSp) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 3:38 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 41 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
 | 42 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
 | 43 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
-| 44 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
-| 45 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 |
+| 44 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 |
+| 45 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
 | 46 | [This is un volcán](https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [This is un volcán](https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif) | 3:26 |
 | 47 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
 | 48 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 73 | [Mis Demonios](https://open.spotify.com/track/0DZqLd2nINJDHa9ITZBP4H) | [Ankli](https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI) | [Mis Demonios](https://open.spotify.com/album/631gWDOw3iyvZFmQNhTlJF) | 3:49 |
 | 74 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 |
 | 75 | [Azul](https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Azul](https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut) | 4:10 |
-| 76 | [Tobogán Ardiendo](https://open.spotify.com/track/4x9anYm599VwzhRDKTglw2) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Tobogán Ardiendo](https://open.spotify.com/album/5NdFVTPZSsDeeoQ7kpiXkY) | 3:35 |
+| 76 | [Me da igual](https://open.spotify.com/track/49C9I2GoMwUrHtHDJQJdKr) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Me da igual](https://open.spotify.com/album/3LGQ7fg8WVtykIfFpD3RiA) | 3:21 |
 | 77 | [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 |
-| 78 | [Me da igual](https://open.spotify.com/track/49C9I2GoMwUrHtHDJQJdKr) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Me da igual](https://open.spotify.com/album/3LGQ7fg8WVtykIfFpD3RiA) | 3:21 |
+| 78 | [Tobogán Ardiendo](https://open.spotify.com/track/4x9anYm599VwzhRDKTglw2) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Tobogán Ardiendo](https://open.spotify.com/album/5NdFVTPZSsDeeoQ7kpiXkY) | 3:35 |
 | 79 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 80 | [El Plan de mi Año](https://open.spotify.com/track/09fcJJWNuvLahpZupAuYOZ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [El Plan de mi Año](https://open.spotify.com/album/04lcjmDQ6qPlDzaU1NzUbT) | 3:44 |
 

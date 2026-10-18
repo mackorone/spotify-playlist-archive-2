@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADh5oTp1O5sZIGHxlpSNwch",
+  "snapshot_id": "atFpAAAAAAD/QTjfBoY7NXtEemcE2bjv",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resumen 16-23",
-        "url": "https://open.spotify.com/album/1UdIN4v7LKvKZ0AuscGLWc"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 198721,
-      "name": "Mirate Nomas",
-      "url": "https://open.spotify.com/track/1HanGbd4wdUiWiaYO59ubb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 150605,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resumen 16-23",
+        "url": "https://open.spotify.com/album/1UdIN4v7LKvKZ0AuscGLWc"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 198721,
+      "name": "Mirate Nomas",
+      "url": "https://open.spotify.com/track/1HanGbd4wdUiWiaYO59ubb"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 187408,
-      "name": "\u00bfComo?",
-      "url": "https://open.spotify.com/track/2ZXgyCqFZy0zwhj8LNWIP5"
+      "duration_ms": 168989,
+      "name": "Tu Llegada",
+      "url": "https://open.spotify.com/track/04oP2g6fvCpIS5jUGg4vhj"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 168989,
-      "name": "Tu Llegada",
-      "url": "https://open.spotify.com/track/04oP2g6fvCpIS5jUGg4vhj"
+      "duration_ms": 187408,
+      "name": "\u00bfComo?",
+      "url": "https://open.spotify.com/track/2ZXgyCqFZy0zwhj8LNWIP5"
     },
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
       "artists": [
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 206905,
-      "name": "Te Romper\u00e9 El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
+      "duration_ms": 155939,
+      "name": "Toditos Somos Iguales",
+      "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
     },
     {
       "added_at": null,
@@ -555,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 206905,
+      "name": "Te Romper\u00e9 El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 234160,
       "name": "A Toda Prueba",
       "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seguimos En El Ruedo",
-        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 155939,
-      "name": "Toditos Somos Iguales",
-      "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 219149,
-      "name": "Entre Mas Te Miro",
-      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 193150,
       "name": "D\u00e9jame Decirle",
       "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 219149,
+      "name": "Entre Mas Te Miro",
+      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 222778,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Ma\u00f1ana Muero",
         "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 279359,
       "name": "Si Ma\u00f1ana Muero",
       "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 222778,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
     },
     {
       "added_at": null,
@@ -807,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Por Vivir",
-        "url": "https://open.spotify.com/album/4ePyH9eyT5Bt23sIxFkNUX"
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
       "artists": [
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 168394,
-      "name": "Vivo Por Vivir",
-      "url": "https://open.spotify.com/track/21Aj47SopRYp01kVhMtYz9"
+      "duration_ms": 220048,
+      "name": "Se Termino",
+      "url": "https://open.spotify.com/track/7pZarDLH0d0ZKaj31PnPUC"
     },
     {
       "added_at": null,
@@ -843,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos En El Ruedo",
-        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+        "name": "Vivo Por Vivir",
+        "url": "https://open.spotify.com/album/4ePyH9eyT5Bt23sIxFkNUX"
       },
       "artists": [
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 220048,
-      "name": "Se Termino",
-      "url": "https://open.spotify.com/track/7pZarDLH0d0ZKaj31PnPUC"
+      "duration_ms": 168394,
+      "name": "Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/21Aj47SopRYp01kVhMtYz9"
     },
     {
       "added_at": null,

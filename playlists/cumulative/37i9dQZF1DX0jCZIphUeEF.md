@@ -4,10 +4,11 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-426 songs - 1 day 13 hr 13 min
+426 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2tAajR0FG5UuqSPtjiB840) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Viciosa](https://open.spotify.com/album/79ndudhRcimoaMtdyvIB4y) | 0:00 | 2025-10-03 |  |
 | [1, 2, 3, 4 \(David Penn Remix\)](https://open.spotify.com/track/6M0ap1gOyMx2grODnn0Vsr) | [César de Melero](https://open.spotify.com/artist/3Nc7eYpmZEfHG5l4KbsTcs), [D.O.D.](https://open.spotify.com/artist/5QUHcvfFO0VHb7mgpEEIeH), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [1, 2, 3, 4 \(César de Melero presents D.O.D.\) \(2022 Mixes\)](https://open.spotify.com/album/0qBJqWmx7BhsOauFoBH6Pv) | 3:21 | 2023-05-31 | 2023-12-16 |
 | [1960 What? \- Opolopo Remix](https://open.spotify.com/track/0nWzUKXBEDxSJEfEFHcOUm) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Water](https://open.spotify.com/album/0gQB99eBkdZLBrMc32ybnY) | 8:24 | 2025-04-09 | 2025-07-15 |
 | [4 AM Jammin'](https://open.spotify.com/track/2CharB9rwsKVfZi0V22OF5) | [Raphael Palacci](https://open.spotify.com/artist/6wj2SK1cy0hNOAdL72U0Av) | [4 AM Jammin'](https://open.spotify.com/album/4vdHWsz24yzBKFVS0XRLB6) | 3:46 | 2026-08-16 |  |
@@ -407,7 +408,6 @@
 | [Veamos](https://open.spotify.com/track/2qYImzePUoEyPryH9fK1GE) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Veamos](https://open.spotify.com/album/4XVBTTE9ubDXdmLjtWsggs) | 6:41 | 2026-04-14 |  |
 | [Velvet Avenue](https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG) | [The Night Trip](https://open.spotify.com/album/3VZvOCAB238uicvonx2U95) | 3:26 | 2026-02-23 |  |
 | [Vibrations](https://open.spotify.com/track/4SJ4NY5dSDhzouWCdVldyk) | [Funkadelicghetto](https://open.spotify.com/artist/05afOPTTP05c2CkVrojBE4) | [Vibrations](https://open.spotify.com/album/4fqeFeeOb1PUtPQSCwK2pL) | 5:25 | 2025-07-14 |  |
-| [Viciosa](https://open.spotify.com/track/2tAajR0FG5UuqSPtjiB840) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Viciosa](https://open.spotify.com/album/79ndudhRcimoaMtdyvIB4y) | 3:18 | 2025-10-03 |  |
 | [Viciosa \- In\-Progress Mix](https://open.spotify.com/track/7zC9tPSjZphwbE7vEC0nmD) | [Sueno Latino pres\. Valeria Vix](https://open.spotify.com/artist/6MJLvTePa524rhrgUwtuGq) | [Ibiza 90's Anthems](https://open.spotify.com/album/3FusbU54ZYF1LV4EnEFC2r) | 7:10 | 2026-02-23 |  |
 | [Voices \- Retrouve Remix](https://open.spotify.com/track/2X9UENNO9wtOtRj4U6B7xS) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Retrouve](https://open.spotify.com/artist/7ImgGmI8gKoPYCmtvBjghb) | [Voices EP](https://open.spotify.com/album/24RVq5Jem8SZsCNtRTHWpg) | 3:45 | 2026-02-23 |  |
 | [Voila](https://open.spotify.com/track/5NWD8eVs4jGoe38DRxNXnS) | [Hard To Tell](https://open.spotify.com/artist/2Fdh88lZzeW3FiSTcyW0LM), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [Voila / Fame](https://open.spotify.com/album/41FOKZVLSRIfkJRFzEKlH1) | 5:13 | 2025-03-04 | 2025-07-15 |

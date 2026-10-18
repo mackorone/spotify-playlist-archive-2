@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 296757,
+  "num_followers": 296735,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Juguete De Madera",
         "url": "https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 209000,
       "name": "Por Si No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
     },
     {
       "added_at": "2021-07-29 16:46:05",

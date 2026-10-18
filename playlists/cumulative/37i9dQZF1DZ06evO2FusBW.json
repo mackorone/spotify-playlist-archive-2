@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264786,
+      "name": "Thrive",
+      "url": "https://open.spotify.com/track/5920pJnL6yYMWQYLUWMgpm"
+    },
+    {
+      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },

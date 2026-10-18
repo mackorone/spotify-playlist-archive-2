@@ -4,11 +4,12 @@
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 3 min
+70 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Cause I'm Country \- Remastered 2017](https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 4:14 | 2023-06-17 |  |
+| [4X4 Is King](https://open.spotify.com/track/3BGw0NaEF8FKa44xeIHfeO) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [4X4 Is King](https://open.spotify.com/album/37u4aAYbmdtIoUDPysD4nH) | 2:45 | 2026-10-18 |  |
 | [Australian Boy \- Remastered 2017](https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:11 | 2023-06-17 |  |
 | [Back in 92](https://open.spotify.com/track/606KWoW6dLcUGHDX5leaVa) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:09 | 2024-06-03 |  |
 | [Backroad Nation](https://open.spotify.com/track/6xnIlmkLTaMmd3UYkPqTgm) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 3:43 | 2023-06-17 |  |
@@ -36,7 +37,7 @@
 | [Hat Town \- Remastered 2017](https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 4:16 | 2023-06-17 |  |
 | [High Country \- Remastered 2017](https://open.spotify.com/track/0xunCI8zIlFHAWY4Qe0NOy) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The Outback Club](https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr) | 3:52 | 2023-06-17 |  |
 | [I Milk Cows \- Remastered 2017](https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 2:58 | 2023-06-17 |  |
-| [I Was Only 19 \(A Walk in the Green Light\)](https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:18 | 2023-06-17 |  |
+| [I Was Only 19 \(A Walk in the Green Light\)](https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:18 | 2023-06-17 | 2026-10-18 |
 | [I'm From The Country](https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Rhythm Of The Highway \(Tamworth Edition\)](https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm) | 3:34 | 2023-06-17 |  |
 | [I'm From The Country](https://open.spotify.com/track/4fqDKBippqVjWxDl0euzIJ) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Rhythm Of The Highway \(Tamworth Edition\)](https://open.spotify.com/album/7q0en8RGs313BoRAf7Pb01) | 3:37 | 2024-11-13 | 2025-01-05 |
 | [It's Only Country](https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:10 | 2023-06-17 |  |

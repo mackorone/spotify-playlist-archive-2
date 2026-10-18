@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "the gates",
-        "url": "https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 262285,
-      "name": "Midsummer Mansion",
-      "url": "https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30d1\u30ec\u30fc\u30c9 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 288586,
       "name": "\u306a\u307f\u3057\u3050\u3055",
       "url": "https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "the gates",
+        "url": "https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 262285,
+      "name": "Midsummer Mansion",
+      "url": "https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Note of Mothership",
-        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 178995,
-      "name": "Note of Mothership",
-      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
@@ -839,6 +823,22 @@
       "duration_ms": 221339,
       "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
       "url": "https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
       "added_at": "2026-03-26 11:46:20",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "TIME SLIP",
+        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 268060,
+      "name": "PERFECT",
+      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Silent Storm",
         "url": "https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 211855,
       "name": "FIVE",
       "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "TIME SLIP",
-        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
-      },
-      "artists": [
-        {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
-        }
-      ],
-      "duration_ms": 268060,
-      "name": "PERFECT",
-      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
     },
     {
       "added_at": "2026-07-09 15:00:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Love me tender",
-        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
-      },
-      "artists": [
-        {
-          "name": "Uniolla",
-          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "So am I",
-      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Turntable in the Lift",
         "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 426250,
       "name": "Tunes for Suly",
       "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Love me tender",
+        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
+      },
+      "artists": [
+        {
+          "name": "Uniolla",
+          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "So am I",
+      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 221490,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u9f13\u52d5",
         "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
       "added_at": "2026-05-07 16:20:46",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 2 - \u9ad8\u6728\u6b63\u52dd \u3046\u305f\u306e\u6642\u9593",
         "url": "https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 211358,
       "name": "Tanana",
       "url": "https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
     },
     {
       "added_at": "2026-02-19 15:16:11",

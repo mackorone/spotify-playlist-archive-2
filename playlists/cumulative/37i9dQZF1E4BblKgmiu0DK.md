@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, Cherri Bomb, Cilver and more
+> With Die Mannequin, Cilver, goblinnib and more
 
 779 songs - 1 day 18 hr 15 min
 

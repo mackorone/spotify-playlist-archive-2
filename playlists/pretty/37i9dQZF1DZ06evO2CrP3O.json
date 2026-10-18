@@ -1,13 +1,29 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 143723,
+  "num_followers": 143733,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAC6J3EAd/J41HUTmEUUImF",
+  "snapshot_id": "atAXgAAAAAA+u0sROkORiBt70/v4d3Qw",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spectral Eyes",
+        "url": "https://open.spotify.com/album/0KoJgvW1kOgVy48U087nBM"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Spectral Eyes",
+      "url": "https://open.spotify.com/track/5uagx4o8QQLVZVm29ffdFn"
+    },
     {
       "added_at": null,
       "album": {
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "X Offender - Remastered 2001",
-      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "X Offender - Remastered 2001",
+      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Letters",
         "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 163306,
       "name": "(I'm Always Touched By Your) Presence, Dear - Remastered 2001",
       "url": "https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "In The Flesh - Remastered 2001",
-      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "In The Flesh - Remastered 2001",
+      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -375,26 +391,6 @@
       "duration_ms": 230240,
       "name": "Island Of Lost Souls",
       "url": "https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Rip Her To Shreds - Remastered 2001",
-      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
     },
     {
       "added_at": null,
@@ -431,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        },
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Rip Her To Shreds - Remastered 2001",
+      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 365693,
       "name": "Good Boys - Blow-Up Mix / Remastered",
       "url": "https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 159960,
-      "name": "In The Sun - Remastered 2001",
-      "url": "https://open.spotify.com/track/6RnnbW4qp7lCTDITqbkbK0"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 159960,
+      "name": "In The Sun - Remastered 2001",
+      "url": "https://open.spotify.com/track/6RnnbW4qp7lCTDITqbkbK0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 239573,
       "name": "End To End",
       "url": "https://open.spotify.com/track/3Tl6l1nAmOcmpbx3ODqLkL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Man Overboard - Remastered 2001",
-      "url": "https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Man Overboard - Remastered 2001",
+      "url": "https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunday Girl",
         "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 194386,
       "name": "Sunday Girl - French Version",
       "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 140640,
-      "name": "Out In The Streets - Remastered 2001",
-      "url": "https://open.spotify.com/track/2Sxny86sWlahqpFV5XqGhs"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 140640,
+      "name": "Out In The Streets - Remastered 2001",
+      "url": "https://open.spotify.com/track/2Sxny86sWlahqpFV5XqGhs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panic of Girls",
-        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "What I Heard",
-      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 249666,
       "name": "Live It Up - Remastered 2001",
       "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Panic of Girls",
+        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "What I Heard",
+      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunter",
-        "url": "https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "For Your Eyes Only - Remastered",
-      "url": "https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 224960,
       "name": "Walk Like Me - Remastered 2001",
       "url": "https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "For Your Eyes Only - Remastered",
+      "url": "https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C"
     },
     {
       "added_at": null,
@@ -799,26 +815,6 @@
       "duration_ms": 218760,
       "name": "One Way Or Another - Live",
       "url": "https://open.spotify.com/track/3l0VXECEIHBasR2gYKezNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Exit",
-        "url": "https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "No Exit - feat. Coolio",
-      "url": "https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp"
     }
   ],
   "unique_name": "This Is Blondie",

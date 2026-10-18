@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,837 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,828 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 19 | [FATE](https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [FATE](https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p) | 3:08 |
 | 20 | [Me, Myself and The Night](https://open.spotify.com/track/1ANHFjW6Z4akC9aDlBC4zY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/04uFoSw7ap9Jv8P9PoZls4) | 4:11 |
 | 21 | [Lost Control](https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:42 |
-| 22 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 |
-| 23 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 |
+| 22 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 |
+| 23 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 |
 | 24 | [End of Time](https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [End of Time](https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl) | 3:07 |
-| 25 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
-| 26 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
+| 25 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
+| 26 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 27 | [Legends Never Die \- Remix](https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die \(Remix\)](https://open.spotify.com/album/1ITtdilZvKZAIIzZDZskCi) | 2:47 |
 | 28 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 29 | [Heart over Mind](https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Fade](https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT) | 4:24 |
 | 50 | [Not Home](https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Not Home](https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM) | 2:00 |
 
-Snapshot ID: `as7GAAAAAACbuL/NHnd6HQLt6e2qwLA5`
+Snapshot ID: `atFpAAAAAABXOkEJlydV0OZixyut77Ig`

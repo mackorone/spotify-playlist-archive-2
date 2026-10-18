@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-199 songs - 10 hr 2 min
+200 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Beautiful Things](https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:00 | 2026-01-21 |  |
 | [Better Place](https://open.spotify.com/track/0Z0zuM0t5zumHKU5jplwcp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:19 | 2024-02-13 | 2024-02-17 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/2L5ML7WOyY6VScyBISDU4E) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 3:12 | 2026-03-08 | 2026-06-07 |
-| [Blank Space](https://open.spotify.com/track/2cbk1iymUvgSSyad62RRSh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 2:52 | 2026-10-08 |  |
+| [Blank Space](https://open.spotify.com/track/2cbk1iymUvgSSyad62RRSh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 2:52 | 2026-10-08 | 2026-10-18 |
 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-02-16 |  |
 | [BONITA](https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [BONITA](https://open.spotify.com/album/47A9TsLtCEIHXMJMFiWC3P) | 2:34 | 2024-06-16 | 2024-07-30 |
 | [Boy’s a liar](https://open.spotify.com/track/77dqc8jtCbVyyxiEX5yzY2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Boy’s a liar](https://open.spotify.com/album/6qLtJJ9Al14QF9xzsWZX7d) | 1:58 | 2023-05-13 | 2023-07-01 |
@@ -204,6 +204,7 @@
 | [Where Have You Been](https://open.spotify.com/track/4ct4lFBPFzEiXYsYGG8zv8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:43 | 2025-03-06 | 2026-02-11 |
 | [Who Do You Love](https://open.spotify.com/track/519eXuXDOHsb7SAIkBWEOy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:24 | 2023-04-20 | 2023-04-24 |
 | [WILDFLOWER](https://open.spotify.com/track/4lRTRntv8Ier9bwkDMEMya) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:40 | 2025-08-11 |  |
+| [Witch Doctor](https://open.spotify.com/track/1BObYVgiXuJdtPxUlNmfRt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7GkHcdpMzRAu4rm2LnOnGj) | 2:13 | 2026-10-18 |  |
 | [Witch Doctor](https://open.spotify.com/track/4oJClLJTAeY0Hb0sTF1Vid) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:40 | 2023-11-10 | 2025-11-17 |
 | [Wolves](https://open.spotify.com/track/7F0ZzUnCAmRo0LsEg1Njt8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:31 | 2024-10-28 | 2024-11-18 |
 | [yes, and?](https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [yes, and?](https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR) | 3:14 | 2024-03-23 | 2024-06-17 |

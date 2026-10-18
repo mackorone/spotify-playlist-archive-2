@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10548,
+  "num_followers": 10547,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABoz6UEBS8+j9JPqVlXP5RS",
+  "snapshot_id": "atFpAAAAAAAsydawmTEr9LPQDKIpZxr1",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Criminales",
+        "url": "https://open.spotify.com/album/4e0vXYazcWfIqSfbbzz1s8"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Como Criminales",
+      "url": "https://open.spotify.com/track/16Vz8q5RmVru8BvlZfVP4u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Mi Reina",
         "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Criminales",
-        "url": "https://open.spotify.com/album/4e0vXYazcWfIqSfbbzz1s8"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Como Criminales",
-      "url": "https://open.spotify.com/track/16Vz8q5RmVru8BvlZfVP4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -327,6 +327,26 @@
       "duration_ms": 187036,
       "name": "Nuestro Amor Es Grande",
       "url": "https://open.spotify.com/track/4vLBtIwx14pBMasSo7DTNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Supone",
+        "url": "https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "Se Supone",
+      "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
     },
     {
       "added_at": null,
@@ -411,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Supone",
-        "url": "https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "Se Supone",
-      "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
@@ -443,6 +443,26 @@
       "duration_ms": 177706,
       "name": "Dulce Morena",
       "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comiendote a Besos",
+        "url": "https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv"
     },
     {
       "added_at": null,
@@ -555,26 +575,6 @@
       "duration_ms": 176666,
       "name": "Hay una Persona en Este Mundo",
       "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comiendote a Besos",
-        "url": "https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta La Miel Amarga",
-        "url": "https://open.spotify.com/album/5q7zBcS4853Hlg6hbyMiBu"
+        "name": "De La Tierra Al Cielo",
+        "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
       },
       "artists": [
         {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
         },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Hasta La Miel Amarga",
-      "url": "https://open.spotify.com/track/4NFMdFJa9j2hWlzrnQqtGF"
+      "duration_ms": 157559,
+      "name": "De La Tierra Al Cielo",
+      "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
     },
     {
       "added_at": null,

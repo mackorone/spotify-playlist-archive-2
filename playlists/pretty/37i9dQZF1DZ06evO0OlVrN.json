@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8335,
+  "num_followers": 8337,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAACBFkrH6rcm6wMsOOTE8Xl",
+  "snapshot_id": "atAXgAAAAAByY6haFr8HIWJdW4zP0rLV",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 140329,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/2SdeCCCwRMGmQx3XQdOVj9"
+      "duration_ms": 143438,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 143438,
-      "name": "La Criminal",
-      "url": "https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf"
+      "duration_ms": 140329,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/2SdeCCCwRMGmQx3XQdOVj9"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
-        "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 168413,
-      "name": "Quiero besarte a la noche",
-      "url": "https://open.spotify.com/track/5peQlcnDpOFw2INz1lYA82"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
         "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 211266,
       "name": "El Espejo",
       "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 168413,
+      "name": "Quiero besarte a la noche",
+      "url": "https://open.spotify.com/track/5peQlcnDpOFw2INz1lYA82"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Mujer de Cabaret",
+      "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Roland Vs. Los Relampagos",
         "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 197734,
       "name": "Pancha La Contrabandista",
       "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Mujer de Cabaret",
-      "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
     },
     {
       "added_at": null,

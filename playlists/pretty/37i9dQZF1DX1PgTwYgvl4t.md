@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,194 likes - 101 songs - 14 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,310 likes - 101 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

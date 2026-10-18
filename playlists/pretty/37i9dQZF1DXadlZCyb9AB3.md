@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,910 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,944 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 75 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 76 | [I Don't Want You Anyway](https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb) | [Look Blue Go Purple](https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv) | [Look Blue Go Purple Compilation](https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00) | 2:57 |
 | 77 | [Love Is the Slug \- Bargainous Longerer Mix](https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK) | [Fuzzbox](https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat) | [Bostin' Steve Austin \(Splendiferous Edition\)](https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ) | 3:57 |
-| 78 | [Let Go of the Past](https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ) | [The Tuts](https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq) | [Update Your Brain](https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD) | 3:14 |
-| 79 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |
+| 78 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |
+| 79 | [Let Go of the Past](https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ) | [The Tuts](https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq) | [Update Your Brain](https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD) | 3:14 |
 | 80 | [I'll Take You Down](https://open.spotify.com/track/5ZU2A9vgPBXlqdl62cpJWv) | [Autoclave](https://open.spotify.com/artist/6ZwMw7VXJyHQmn03eHt6jg) | [Autoclave](https://open.spotify.com/album/1XLmVI9tNjoururBlr2KWO) | 3:48 |
 | 81 | [Wrap It Up](https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 3:25 |
 | 82 | [Any Resemblance...](https://open.spotify.com/track/40owwnovk1h9EFEtmxIeJO) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod) | 2:04 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 89 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 |
 | 90 | [Second Skin](https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching the Bully](https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO) | 2:57 |
 | 91 | [Eating Toothpaste](https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:26 |
-| 92 | [Feed The Tree](https://open.spotify.com/track/43fQztrFu5UpEzqxnDBvLi) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/5fKe3iL64q97JK9Lgp50vz) | 3:29 |
-| 93 | [Get Loud](https://open.spotify.com/track/6fxXI7zYYhNKnsPzR5lYTY) | [Kitten Forever](https://open.spotify.com/artist/49aEBCKsGMO5vaRnr1GBg4) | [Pressure](https://open.spotify.com/album/3IoTZRPtHvNs4UmDUli8Dy) | 0:43 |
+| 92 | [Cry Baby](https://open.spotify.com/track/6D5SZmFPCEvRMeQgBrsMzY) | [Kitten Forever](https://open.spotify.com/artist/49aEBCKsGMO5vaRnr1GBg4) | [Pressure](https://open.spotify.com/album/3IoTZRPtHvNs4UmDUli8Dy) | 1:44 |
+| 93 | [Feed The Tree](https://open.spotify.com/track/43fQztrFu5UpEzqxnDBvLi) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/5fKe3iL64q97JK9Lgp50vz) | 3:29 |
 | 94 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
 | 95 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |
 | 96 | [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 |
-| 97 | [I Hate the Weekend](https://open.spotify.com/track/2lCStc28NuNBBIH4pLyYtb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/0VYPxPMRu8D7PYvsCgwuRE) | 2:05 |
-| 98 | [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 |
-| 99 | [Cry Baby](https://open.spotify.com/track/6D5SZmFPCEvRMeQgBrsMzY) | [Kitten Forever](https://open.spotify.com/artist/49aEBCKsGMO5vaRnr1GBg4) | [Pressure](https://open.spotify.com/album/3IoTZRPtHvNs4UmDUli8Dy) | 1:44 |
+| 97 | [Get Loud](https://open.spotify.com/track/6fxXI7zYYhNKnsPzR5lYTY) | [Kitten Forever](https://open.spotify.com/artist/49aEBCKsGMO5vaRnr1GBg4) | [Pressure](https://open.spotify.com/album/3IoTZRPtHvNs4UmDUli8Dy) | 0:43 |
+| 98 | [I Hate the Weekend](https://open.spotify.com/track/2lCStc28NuNBBIH4pLyYtb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/0VYPxPMRu8D7PYvsCgwuRE) | 2:05 |
+| 99 | [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 |
 | 100 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 |
 
 Snapshot ID: `AAAAAEUtUTv9GLVoa3Buz17hwHkMDNiR`

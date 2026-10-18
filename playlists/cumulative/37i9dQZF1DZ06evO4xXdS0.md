@@ -4,7 +4,7 @@
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 13 min
+75 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Here Comes the Sun](https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:34 | 2025-07-20 |  |
 | [I Am Blessed \- Ginton Remix](https://open.spotify.com/track/0sg50sKNjateKRZbVURa9G) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [I Am Blessed \(Ginton Remix\)](https://open.spotify.com/album/0lXLKn06wP04Brjuh1DplB) | 3:14 | 2025-10-12 | 2025-11-09 |
 | [I Loves You, Porgy \- 2014 \- Remaster](https://open.spotify.com/track/0nQIWIpljdufnG7XEOEbtp) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone and Her Friends \(Remastered 2014\)](https://open.spotify.com/album/2CeiAmKMUqcHfNU9Lv3yuQ) | 4:08 | 2025-07-20 |  |
-| [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2025-07-20 |  |
+| [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2025-07-20 | 2026-10-18 |
+| [I Put A Spell On You \- Austin Millz Remix](https://open.spotify.com/track/7EFxupVOrrI4HfraUCDYOs) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [I Put A Spell On You \(Austin Millz Remix\)](https://open.spotify.com/album/5iYWJ43XIgzhUSKXfvYJW6) | 2:39 | 2026-10-18 |  |
 | [I Shall Be Released](https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 3:53 | 2025-07-20 |  |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:20 | 2025-07-20 |  |
 | [I Want a Little Sugar In My Bowl](https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:32 | 2025-07-20 |  |

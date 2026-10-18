@@ -1,61 +1,13 @@
 {
   "description": "songs that make you feel like you're levitating",
-  "num_followers": 1576845,
+  "num_followers": 1576914,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENu1/OdfQcsK8U7adrWjz1GGO1t",
+  "snapshot_id": "AAAAAC6rxSt/ZaXaHdh4N37RnIdSJn1+",
   "tracks": [
-    {
-      "added_at": "2026-08-07 04:00:36",
-      "album": {
-        "name": "brand new chanel$",
-        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 238505,
-      "name": "brand new chanel$",
-      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
-    },
-    {
-      "added_at": "2026-07-09 05:13:48",
-      "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 345186,
-      "name": "Veridis Quo",
-      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
-    },
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
@@ -71,38 +23,6 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-08-07 04:00:36",
-      "album": {
-        "name": "Pure Devotion",
-        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
-    },
-    {
-      "added_at": "2026-07-15 02:06:32",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
-      },
-      "artists": [
-        {
-          "name": "D'Leesa",
-          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
     },
     {
       "added_at": "2026-07-10 04:01:07",
@@ -123,6 +43,22 @@
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "added_at": "2026-10-17 20:28:42",
+      "album": {
+        "name": "Twin Clouds",
+        "url": "https://open.spotify.com/album/4n3y3pSRbdXlIslExnWaSa"
+      },
+      "artists": [
+        {
+          "name": "Zhala",
+          "url": "https://open.spotify.com/artist/2vI70V5Tc6jB3d2uzb2UEA"
+        }
+      ],
+      "duration_ms": 252633,
+      "name": "Twin Clouds",
+      "url": "https://open.spotify.com/track/4VlFDDzLe3Qo4koW5Gy67Y"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -211,22 +147,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "But, I loved",
-        "url": "https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "But, I loved",
-      "url": "https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -309,6 +229,22 @@
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
+      "added_at": "2026-08-07 04:00:36",
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
       "added_at": "2026-06-08 16:01:54",
       "album": {
         "name": "Love Deluxe",
@@ -343,22 +279,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural",
-      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -387,6 +307,22 @@
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "supernatural",
+      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -579,22 +515,18 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 282873,
-      "name": "The Abyss (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs"
+      "duration_ms": 345186,
+      "name": "Veridis Quo",
+      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -611,6 +543,26 @@
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 282873,
+      "name": "The Abyss (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -989,6 +941,22 @@
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
+      "added_at": "2026-07-09 05:13:48",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K"
+    },
+    {
       "added_at": "2026-06-08 16:01:54",
       "album": {
         "name": "did i tell u that i miss u",
@@ -1007,22 +975,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "drifting",
         "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
       },
@@ -1035,6 +987,22 @@
       "duration_ms": 212440,
       "name": "drifting",
       "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1123,22 +1091,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
       },
@@ -1151,6 +1103,22 @@
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1407,6 +1375,22 @@
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb"
+    },
+    {
+      "added_at": "2026-08-07 04:00:36",
+      "album": {
+        "name": "Pure Devotion",
+        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 195285,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1683,6 +1667,22 @@
       "duration_ms": 295140,
       "name": "Anemone - (Live) | Spotify RADAR",
       "url": "https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3"
+    },
+    {
+      "added_at": "2026-07-15 02:06:32",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
     },
     {
       "added_at": "2026-06-08 16:01:54",

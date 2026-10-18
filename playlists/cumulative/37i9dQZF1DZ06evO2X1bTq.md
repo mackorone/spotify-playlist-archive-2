@@ -4,7 +4,7 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-126 songs - 9 hr 12 min
+127 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Sweetest Thing](https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 3:04 | 2022-10-24 |  |
 | [Take Me To The Clouds Above \- LMC Vs\. U2 / Radio Edit](https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Take Me To The Clouds Above \(LMC Vs\. U2 / Remixes\)](https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC) | 2:51 | 2022-10-24 |  |
 | [The Fly](https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:29 | 2022-11-28 | 2026-08-27 |
+| [The Greatest Show On Earth](https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Greatest Show On Earth](https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb) | 5:34 | 2026-10-18 |  |
 | [The Miracle \(Of Joey Ramone\) \- Songs Of Surrender](https://open.spotify.com/track/3IfReU5MI9ApiJy95ZVCZH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 3:29 | 2023-04-14 | 2023-04-16 |
 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 | 2022-10-24 | 2026-08-27 |
 | [The Showman \- Stories Of Surrender Version](https://open.spotify.com/track/3gLXrIvMPuomkpzZ3DHWW3) | [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Showman \(Stories Of Surrender Version\)](https://open.spotify.com/album/11e7rgEntll0BwbR585Eb7) | 3:10 | 2025-05-18 | 2025-07-14 |
@@ -130,7 +131,7 @@
 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 | 2022-10-24 |  |
 | [Yeah, Yeah, Yeah, Yeah, Yeah](https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf) | [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Yeah, Yeah, Yeah, Yeah, Yeah](https://open.spotify.com/album/4NG6QjqKiqupWuhAarIetU) | 3:24 | 2026-09-02 | 2026-10-02 |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 | 2022-10-24 | 2026-08-27 |
-| [Yours Eternally \(feat\. Ed Sheeran & Taras Topolia\)](https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taras Topolia](https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:26 | 2026-02-21 |  |
+| [Yours Eternally \(feat\. Ed Sheeran & Taras Topolia\)](https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taras Topolia](https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:26 | 2026-02-21 | 2026-10-18 |
 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 | 2022-10-24 |  |
 | [Zoo Station \- ZOO TV Live In Dublin, 1993](https://open.spotify.com/track/3PB7hZJSsVJga60q9gVIuT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [ZOO TV Live In Dublin 1993 EP](https://open.spotify.com/album/03qRoidfH8PEvybfKfWyZm) | 5:02 | 2024-09-16 | 2024-10-14 |
 | [Zooropa](https://open.spotify.com/track/0mGtbkb9zSSxZo1h3qXIDZ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 6:30 | 2024-07-08 | 2024-07-17 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Desierto Drive en portada.",
-  "num_followers": 40071,
+  "num_followers": 40080,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "\u00bfQui\u00e9n Gan\u00f3?",
+        "url": "https://open.spotify.com/album/3c88JcbntIqCVkgxtguh8R"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "duration_ms": 195616,
+      "name": "\u00bfQui\u00e9n Gan\u00f3?",
+      "url": "https://open.spotify.com/track/0oVjMzqIPzgPkGnis5Aikt"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "\u00bfQui\u00e9n Gan\u00f3?",
-        "url": "https://open.spotify.com/album/3c88JcbntIqCVkgxtguh8R"
-      },
-      "artists": [
-        {
-          "name": "Los Vaguens",
-          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
-        }
-      ],
-      "duration_ms": 195616,
-      "name": "\u00bfQui\u00e9n Gan\u00f3?",
-      "url": "https://open.spotify.com/track/0oVjMzqIPzgPkGnis5Aikt"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "Amo Que Te Odio (Odio Que Te Amo)",
         "url": "https://open.spotify.com/album/49kX3ebLciMGNCmrVsMt63"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 172660,
       "name": "Amo Que Te Odio (Odio Que Te Amo)",
       "url": "https://open.spotify.com/track/5unQQTNmDVa7Scr3FMl3Bf"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -683,6 +683,22 @@
       "duration_ms": 192197,
       "name": "Como Queremos",
       "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "\u00bfY Todo Para Qu\u00e9?",
+        "url": "https://open.spotify.com/album/6qPRhJkzOQQhbro2qb43ML"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Md4AfbYI9viZmB6pXvFiT"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -735,22 +751,6 @@
       "duration_ms": 153815,
       "name": "NO ME IMPORTA",
       "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "\u00bfY Todo Para Qu\u00e9?",
-        "url": "https://open.spotify.com/album/6qPRhJkzOQQhbro2qb43ML"
-      },
-      "artists": [
-        {
-          "name": "Motel",
-          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2Md4AfbYI9viZmB6pXvFiT"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "MAPAS II",
-        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "MAPAS II",
+        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 210333,
       "name": "Sed de Acci\u00f3n",
       "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Antes Que Me Vaya",
-        "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Antes Que Me Vaya",
-      "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "Antes Que Me Vaya",
+        "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Antes Que Me Vaya",
+      "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "Perfecto Final",
         "url": "https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx"
       },
@@ -1103,6 +1103,26 @@
       "duration_ms": 206633,
       "name": "Perfecto Final",
       "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "La \u00daltima Noche (con Estopa)",
+        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 229247,
+      "name": "La \u00daltima Noche - con Estopa",
+      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1139,26 +1159,6 @@
       "duration_ms": 215250,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "La \u00daltima Noche (con Estopa)",
-        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 229247,
-      "name": "La \u00daltima Noche - con Estopa",
-      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
     },
     {
       "added_at": "2026-10-16 06:00:26",

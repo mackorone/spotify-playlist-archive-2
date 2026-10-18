@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,870 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,989 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,13 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 84 | [Amiga Traidora \- En Vivo Estadio Luna Park](https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Estadio Luna Park](https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z) | 4:38 |
 | 85 | [Tu Cárcel \- En Vivo](https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 4:43 |
 | 86 | [Era Tranquila \- En Vivo](https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Era Tranquila \(En Vivo\)](https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF) | 3:57 |
-| 87 | [Lloraras mas de diez veces](https://open.spotify.com/track/3nYGOZ9rTj1czXLrKHoFqQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aniversario](https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD) | 3:29 |
-| 88 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr) | 2:01 |
+| 87 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr) | 2:01 |
+| 88 | [Lloraras mas de diez veces](https://open.spotify.com/track/3nYGOZ9rTj1czXLrKHoFqQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aniversario](https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD) | 3:29 |
 | 89 | [Lloraras \- En Vivo Teatro Gran Rex](https://open.spotify.com/track/2s3fthd5osyzRdmZJt9U1J) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Sombras Nada Más](https://open.spotify.com/artist/4BcjHOqvgEZZaarxtCG2Ma) | [Antonio Rios Y Sus Amigos \- Teatro Gran Rex \(En Vivo\)](https://open.spotify.com/album/2czLBfZ0QMfMrlovKJDUcv) | 3:31 |
 | 90 | [Buscala \- Live](https://open.spotify.com/track/72H6DYWQ3XQKswJnXermuq) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0), [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Buscala \(Live\)](https://open.spotify.com/album/3MJGVqtaLPiojt1yqVlucn) | 3:03 |
 | 91 | [Dejame Amarte](https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [La Guerra de los Colores](https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh) | 1:54 |
-| 92 | [Amantes / Mas Hombre Que Tu \- En Vivo](https://open.spotify.com/track/09d8x3UOE0ptPkfW5kz3NO) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inigualable \(En Vivo\)](https://open.spotify.com/album/1lEfjXb3WD9L6c1AtBVwIf) | 3:49 |
-| 93 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
+| 92 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
+| 93 | [Amantes / Mas Hombre Que Tu \- En Vivo](https://open.spotify.com/track/09d8x3UOE0ptPkfW5kz3NO) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inigualable \(En Vivo\)](https://open.spotify.com/album/1lEfjXb3WD9L6c1AtBVwIf) | 3:49 |
 | 94 | [Mi Gran Maestro \- Montevideo Music Sessions](https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j) | [Angela Leiva](https://open.spotify.com/artist/1qBeQNpoer8ntu9MkzIiOf) | [Mi Gran Maestro \(Montevideo Music Sessions\)](https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc) | 3:30 |
 | 95 | [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 |
 | 96 | [Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor](https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 7:42 |

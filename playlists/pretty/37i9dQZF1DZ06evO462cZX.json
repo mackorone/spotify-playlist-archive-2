@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45909,
+  "num_followers": 45913,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACpe9vfHVBkBl7zR93eaATd",
+  "snapshot_id": "atFpAAAAAAARW5/W/EujghHFWue0s2ph",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Calor",
+        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring It Back (feat. Max Styler)",
         "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 165000,
       "name": "Bring It Back (feat. Max Styler)",
       "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Calor",
-        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
     },
     {
       "added_at": null,
@@ -467,22 +467,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camaron Pelao",
-        "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
+        "name": "Como La Flor",
+        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
         },
         {
-          "name": "Voces Del Rancho",
-          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 210349,
-      "name": "Camaron Pelao",
-      "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+      "duration_ms": 174555,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
     },
     {
       "added_at": null,
@@ -511,26 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como La Flor",
-        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
+        "name": "Camaron Pelao",
+        "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
       },
       "artists": [
         {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
         }
       ],
-      "duration_ms": 174555,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+      "duration_ms": 210349,
+      "name": "Camaron Pelao",
+      "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Like You (feat. Lost Boy)",
-        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Nobody Like You (feat. Lost Boy)",
-      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody Like You (feat. Lost Boy)",
+        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Nobody Like You (feat. Lost Boy)",
+      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Teemu",
+          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
+        }
+      ],
+      "duration_ms": 229099,
+      "name": "Turn Back Time (feat. Teemu)",
+      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -827,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
       },
       "artists": [
         {
@@ -836,13 +856,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Teemu",
-          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
         }
       ],
-      "duration_ms": 229099,
-      "name": "Turn Back Time (feat. Teemu)",
-      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -871,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+        "name": "Elevation EP",
+        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
         }
       ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
+      "duration_ms": 240937,
+      "name": "Cayendo",
+      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
     },
     {
       "added_at": null,
@@ -911,38 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevation EP",
-        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "Cayendo",
-      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -959,26 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 229411,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -1007,6 +983,30 @@
       "duration_ms": 155827,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 229411,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
     },
     {
       "added_at": null,

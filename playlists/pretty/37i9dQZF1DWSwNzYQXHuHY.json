@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12972,
+  "num_followers": 12973,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 173732,
+      "name": "Still In Time",
+      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "Summer?",
         "url": "https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 180000,
       "name": "Telepathy (Feat. ADORA)",
       "url": "https://open.spotify.com/track/43huSeupxUXIBkRALBozSO"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 173732,
-      "name": "Still In Time",
-      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "Raindrop",
+        "url": "https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct"
+      },
+      "artists": [
+        {
+          "name": "HYUN SEO",
+          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Raindrop",
+      "url": "https://open.spotify.com/track/249anPnRxbDIAERScEBEkK"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "hamster wheel",
         "url": "https://open.spotify.com/album/6eDBJswzAS09PHpKovcLGJ"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 169325,
       "name": "hamster wheel",
       "url": "https://open.spotify.com/track/0YAGYWY8I7Fa5P4ezujroO"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
-      },
-      "artists": [
-        {
-          "name": "Wine Loop",
-          "url": "https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
     }
   ],
   "unique_name": "\uc378 !",

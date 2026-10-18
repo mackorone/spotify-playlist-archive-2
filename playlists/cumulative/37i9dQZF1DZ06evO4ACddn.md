@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 6 min
+84 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [The Lens](https://open.spotify.com/track/5Jgd7T6LCgGynv0mh6zPSq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Lens](https://open.spotify.com/album/6036RVl51B5aABchGu7ovm) | 3:44 | 2023-08-10 | 2023-12-14 |
 | [The Lens](https://open.spotify.com/track/6Lh5FdtCCWShjxZP9hPGAw) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:44 | 2023-12-13 |  |
 | [The Ramp](https://open.spotify.com/track/3hsSx5Z8sMl58BPznytEzg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 1:33 | 2023-12-13 | 2026-04-07 |
-| [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 | 2022-10-28 |  |
+| [The Rat](https://open.spotify.com/track/1XKaicELAvk2XIbWgv1Vgz) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Diamond Days EP](https://open.spotify.com/album/0Wq4chx64Msl8lo4Y8nyzG) | 4:20 | 2026-10-18 |  |
+| [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 | 2022-10-28 | 2026-10-18 |
 | [The Rat](https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO) | 4:20 | 2022-09-16 | 2022-10-29 |
 | [Things Will Matter](https://open.spotify.com/track/25m9ufcln7PU84c5AO87N8) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/52poTRqk79PXpHF86afIJS) | 2:54 | 2026-10-15 |  |
 | [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 | 2022-10-24 | 2026-10-15 |

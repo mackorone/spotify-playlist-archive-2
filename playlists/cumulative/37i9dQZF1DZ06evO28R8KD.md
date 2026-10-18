@@ -4,7 +4,7 @@
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-42 songs - 3 hr 57 min
+43 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Hokkaido](https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:30 | 2026-05-01 |  |
 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 | 2026-03-27 |  |
 | [Huckleberry](https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:03 | 2026-03-27 |  |
-| [Inscription of Wind](https://open.spotify.com/track/4xfuclNRS0Ppz942FgI9jE) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 2:53 | 2026-10-04 |  |
+| [Inscription of Wind](https://open.spotify.com/track/4xfuclNRS0Ppz942FgI9jE) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 2:53 | 2026-10-04 | 2026-10-18 |
 | [Lava Surrounds](https://open.spotify.com/track/1LnXxzrN008lulaQTyBvBB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 3:39 | 2026-10-04 |  |
 | [Listening Thru](https://open.spotify.com/track/5AcxosXZIhjABRuEvQ4Nyv) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 2:58 | 2026-10-04 | 2026-10-11 |
 | [Matsumoto](https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 10:10 | 2026-03-27 | 2026-10-10 |
@@ -30,7 +30,8 @@
 | [Nagoya](https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:26 | 2026-03-27 |  |
 | [New \(Part 1\)](https://open.spotify.com/track/4xPbiTndGD1qA52NsXSova) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 15:40 | 2026-04-24 | 2026-10-05 |
 | [Night Woven](https://open.spotify.com/track/7m694l1Cr9s6RkMYTvhtHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 5:54 | 2026-10-04 |  |
-| [Noon Liquid Ore](https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Noon Liquid Ore](https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8) | 4:25 | 2026-08-28 |  |
+| [Noon Liquid Ore](https://open.spotify.com/track/2sK1sarOc5DVoVL5k9eXpi) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 4:25 | 2026-10-18 |  |
+| [Noon Liquid Ore](https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Noon Liquid Ore](https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8) | 4:25 | 2026-08-28 | 2026-10-18 |
 | [Osaka](https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:26 | 2026-03-27 |  |
 | [Piano 1](https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:23 | 2026-03-27 |  |
 | [Piano 2 \(Mount Vision\)](https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:41 | 2026-03-27 |  |

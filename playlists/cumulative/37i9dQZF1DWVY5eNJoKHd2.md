@@ -4,7 +4,7 @@
 
 > songs that make you feel like you're levitating
 
-532 songs - 1 day 8 hr 36 min
+533 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2022-05-18 | 2023-05-02 |
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2021-12-16 | 2023-11-11 |
 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 | 2022-05-24 | 2023-05-31 |
-| [But, I loved](https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [But, I loved](https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m) | 3:37 | 2025-08-08 |  |
+| [But, I loved](https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [But, I loved](https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m) | 3:37 | 2025-08-08 | 2026-10-18 |
 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 | 2021-12-16 | 2023-11-11 |
 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 | 2023-03-24 | 2023-05-20 |
 | [Car](https://open.spotify.com/track/0r04MG8C4jr7yCirWGi03Y) | [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [Car](https://open.spotify.com/album/2Nc2587YJw9Lu2gYAk1hAz) | 3:46 | 2022-02-04 | 2022-07-29 |
@@ -494,6 +494,7 @@
 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 | 2023-07-14 | 2023-08-01 |
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-09 | 2023-06-17 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-21 | 2026-07-11 |
+| [Twin Clouds](https://open.spotify.com/track/4VlFDDzLe3Qo4koW5Gy67Y) | [Zhala](https://open.spotify.com/artist/2vI70V5Tc6jB3d2uzb2UEA) | [Twin Clouds](https://open.spotify.com/album/4n3y3pSRbdXlIslExnWaSa) | 4:12 | 2026-10-17 |  |
 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-13 |  |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2022-04-05 | 2022-04-18 |
 | [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 | 2023-03-29 | 2024-04-19 |

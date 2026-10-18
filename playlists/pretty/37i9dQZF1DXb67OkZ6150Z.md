@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,783 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,793 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 30 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
 | 31 | [The Perfect Pair \- Spotify Singles](https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Our Generation \- Spotify Singles](https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw) | 2:42 |
 | 32 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 |
-| 33 | [my love mine all mine](https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [my love mine all mine](https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb) | 2:45 |
-| 34 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
+| 33 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
+| 34 | [my love mine all mine](https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [my love mine all mine](https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb) | 2:45 |
 | 35 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 36 | [Lotta Love](https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Lotta Love](https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0) | 2:49 |
 | 37 | [Fade Into You](https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Fade Into You](https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx) | 4:18 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 66 | [Pure Shores](https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Pure Shores](https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ) | 3:53 |
 | 67 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 |
 | 68 | [Just Be Simple](https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Just Be Simple / Leave The City](https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx) | 3:56 |
-| 69 | [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 |
-| 70 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 |
+| 69 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 |
+| 70 | [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 |
 | 71 | [He Thinks He'll Keep Her](https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv) | [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM), [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Broken Glass, Vol\. 6](https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2) | 3:45 |
 | 72 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 73 | [Hanging By A Moment](https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Hanging By A Moment](https://open.spotify.com/album/2zXWTmzp8t0y8Fhz00WWvj) | 3:38 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 90 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
 | 91 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 |
 | 92 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
-| 93 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
-| 94 | [Femme Fatale](https://open.spotify.com/track/2HDycU1sqxlfYQloriXcK1) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Femme Fatale](https://open.spotify.com/album/6tKQyT3LHSMOsObqfk264N) | 4:42 |
+| 93 | [Femme Fatale](https://open.spotify.com/track/2HDycU1sqxlfYQloriXcK1) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Femme Fatale](https://open.spotify.com/album/6tKQyT3LHSMOsObqfk264N) | 4:42 |
+| 94 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
 | 95 | [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 |
 | 96 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 |
 | 97 | [God Only Knows](https://open.spotify.com/track/31MwXSAGt4BErA3jITUf8m) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [God Only Knows](https://open.spotify.com/album/7eUS2wu8pqoHIQZXuvtKL6) | 2:51 |

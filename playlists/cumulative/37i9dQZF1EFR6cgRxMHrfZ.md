@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-201 songs - 10 hr 15 min
+202 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Save You a Seat](https://open.spotify.com/track/0TdacYZkgRxz8ZvHUtpimP) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:17 | 2026-04-06 |  |
 | [Semi\-Charmed](https://open.spotify.com/track/4vXp4PHotIOQBRWd3lggvT) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Semi\-Charmed](https://open.spotify.com/album/7C1571QooJI5hDOwWm7pRC) | 2:59 | 2026-04-06 |  |
 | [Shades of Grey](https://open.spotify.com/track/05cuqqHBcoP8L5tsRED2tR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 5:10 | 2026-04-06 |  |
+| [Show Starts Now](https://open.spotify.com/track/38wC3l1TdRF8ApuItxTnQ3) | [Savannah Bananas](https://open.spotify.com/artist/00ynWX32K6wbeuljTQI2FW), [Derek Klena](https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw) | [Show Starts Now](https://open.spotify.com/album/47mip4CjJFoZtNlevbkEWR) | 3:06 | 2026-10-17 |  |
 | [Sideways](https://open.spotify.com/track/6k7cZRYaWybpcu4K7SDTP6) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 2:44 | 2026-04-06 |  |
 | [Silver Lining](https://open.spotify.com/track/1rokgLrCwVL5GqjdKHVCs3) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 1:27 | 2026-04-06 |  |
 | [SMFWU](https://open.spotify.com/track/5JufegG0WcgTwd3fTm7v3v) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Warning Signs](https://open.spotify.com/album/0c8G4kwWZRRBNf0O7HfWjF) | 3:07 | 2026-04-06 |  |

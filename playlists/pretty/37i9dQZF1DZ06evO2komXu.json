@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 59606,
+  "num_followers": 59637,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADPKYrCfJzDs9ozxeg8u/kw",
+  "snapshot_id": "atAXgAAAAADio5OaJ6S/3e54ajg6GuID",
   "tracks": [
     {
       "added_at": null,
@@ -459,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 181788,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/7yxVQdvFEbjo9viqUuxxnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -511,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 181788,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/7yxVQdvFEbjo9viqUuxxnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -527,46 +527,6 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "Amazing (feat. kwn)",
-      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
     },
     {
       "added_at": null,
@@ -607,6 +567,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "Amazing (feat. kwn)",
+      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sability",
         "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
       },
@@ -619,6 +619,26 @@
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
       "added_at": null,
@@ -643,26 +663,6 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 202186,
-      "name": "No love",
-      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're Hired (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": null,

@@ -90013,7 +90013,7 @@
         },
         {
           "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+          "url": "https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL"
         }
       ],
       "date_added": "2026-10-15",
@@ -207593,6 +207593,28 @@
     },
     {
       "album": {
+        "name": "Te Ske",
+        "url": "https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "AEL",
+          "url": "https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152030,
+      "name": "Te Ske",
+      "url": "https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0"
+    },
+    {
+      "album": {
         "name": "TEA",
         "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
       },
@@ -208990,28 +209012,6 @@
       "duration_ms": 190247,
       "name": "Terry Andy Joe",
       "url": "https://open.spotify.com/track/2YEHt17M8zYVAXZBVvQVew"
-    },
-    {
-      "album": {
-        "name": "Teske",
-        "url": "https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "AEL",
-          "url": "https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152030,
-      "name": "Teske",
-      "url": "https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,389 likes - 50 songs - 3 hr 0 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,399 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 48 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
 | 49 | [Avocado Eldorado](https://open.spotify.com/track/5T8utfxKwgAyFSef2lTbN1) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Avocado Eldorado](https://open.spotify.com/album/4Xm8ZhHuEq9Gr5Msgr1CRs) | 3:06 |
 | 50 | [The Way](https://open.spotify.com/track/6oP9yeVKCl1cCqS7ue6lkB) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:20 |
+| 51 | [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 |
+| 52 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 |
 
-Snapshot ID: `AAAHPAsmT98W610JgTu7NUAwZ6De8BNS`
+Snapshot ID: `AAAHPsEsjzW49vzX80ni5tch0hMl4Hzz`

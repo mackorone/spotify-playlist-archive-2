@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-377 songs - 17 hr 33 min
+378 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Echoes Amass](https://open.spotify.com/track/6dgWBAnWRwD6Qi6vQAsVuL) | [Verdant Nook](https://open.spotify.com/artist/3TlDwBnwnRaMmyLXdJ5KTw) | [Echoes Amass](https://open.spotify.com/album/6G8XGEcxhunLWlY2hiJnET) | 2:41 | 2026-06-18 |  |
 | [Eden of the East](https://open.spotify.com/track/20XKE857W1BKrod2y6zETQ) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Eden of the East](https://open.spotify.com/album/730BK0VQLn2mMzPcyl1JTL) | 3:24 | 2026-01-21 | 2026-03-21 |
 | [Eden's Twilight](https://open.spotify.com/track/4tvXduo2sBOLHwfQzsBNGr) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Eden's Twilight](https://open.spotify.com/album/644DxTa0f7DUPilf8u2wRQ) | 2:30 | 2026-01-21 |  |
-| [Empathy Through Nature](https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [Empathy Through Nature](https://open.spotify.com/album/7LN049499H3XRYnDdcAG6t) | 3:15 | 2024-03-20 |  |
+| [Empathy Through Nature](https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [Empathy Through Nature](https://open.spotify.com/album/7LN049499H3XRYnDdcAG6t) | 3:15 | 2024-03-20 | 2026-10-18 |
 | [Enchanted Sonata](https://open.spotify.com/track/18SdEvypE4zZjqgHiECdXu) | [Dancing and Dreaming](https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt) | [Enchanted Sonata](https://open.spotify.com/album/4aeodo8iBTwEaIUicB49wS) | 2:34 | 2024-10-01 |  |
 | [Eosphoros T.Merula](https://open.spotify.com/track/5engCD94A1A16P51xvAFiP) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros T.Merula](https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC) | 2:14 | 2023-03-03 | 2025-03-01 |
 | [Estebania Se Acurruca](https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania Se Acurruca](https://open.spotify.com/album/66HQ6SFrna5kkzGdtJGPj4) | 2:52 | 2023-03-03 | 2025-03-03 |
@@ -146,6 +146,7 @@
 | [Forest Retreat](https://open.spotify.com/track/4hgmQr8jUSbcnuRVICCu5R) | [Rika Linn](https://open.spotify.com/artist/3fqx8RiPwj5t3AiBvNcbib) | [Forest Retreat](https://open.spotify.com/album/5455rZrk03dQkAsjToAgwY) | 3:40 | 2026-01-21 |  |
 | [Forest Retreat](https://open.spotify.com/track/5x1SM4426jF89HQPaGp6s8) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Retreat](https://open.spotify.com/album/0XToDY4gtqpEu4CrWDgnP2) | 2:40 | 2024-06-03 | 2026-06-11 |
 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 | 2025-01-15 | 2026-03-21 |
+| [Forest Spirit](https://open.spotify.com/track/5QOdsZG6wlMBNnAMvmJ1IU) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Forest Spirit](https://open.spotify.com/album/64vyJvHWV9plaEJVxim8pH) | 2:48 | 2026-09-09 |  |
 | [Forest Springs](https://open.spotify.com/track/0gbgqU8bsNSv5A5mL4BLEa) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Forest Springs](https://open.spotify.com/album/3rPqj0BK1CLWdvGhreDybN) | 3:22 | 2025-09-24 | 2026-03-05 |
 | [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 | 2026-03-26 |

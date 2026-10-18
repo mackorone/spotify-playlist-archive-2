@@ -4,7 +4,7 @@
 
 > Playlist
 
-662 songs - 1 day 15 hr 11 min
+663 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [90's Girl](https://open.spotify.com/track/2VlLVvToaKsPcKi8hJy60H) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [90's Girl](https://open.spotify.com/album/2zBZGPnA8i2VEifngsFKTR) | 2:42 | 2023-12-15 |  |
 | [A Little Love](https://open.spotify.com/track/0j1OdOdqFlKZemZSTpexvz) | [Shakuhachi on the Minipops](https://open.spotify.com/artist/4AWrTzW7zfCFWRCPg9FJsJ) | [A Little Love](https://open.spotify.com/album/1v1VAU5U5R77LeZJKmL8vp) | 3:19 | 2024-11-14 |  |
 | [Achot](https://open.spotify.com/track/4CYBH8qUPtirrXkfqfyqZt) | [Yosef Madar](https://open.spotify.com/artist/0Om9WwRZyNzAI0NisSEXHg) | [Achot](https://open.spotify.com/album/17sc30yw7VBeTvnT1RYcK3) | 3:43 | 2025-07-28 |  |
+| [Add Up](https://open.spotify.com/track/57OL6bTg2wqd7Rc5vLGmBC) | [DNCR](https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u) | [Add Up](https://open.spotify.com/album/40wiZJDK3hndJnBieU5iXg) | 2:34 | 2026-10-17 |  |
 | [After Hours](https://open.spotify.com/track/0Me77LLns4SCqz7BkqFxOd) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 1:57 | 2023-10-25 |  |
 | [Again](https://open.spotify.com/track/1s7tfuByeXVTBZ3prMVsoA) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Again](https://open.spotify.com/album/6hIzFX46JBzbiLZow2sanR) | 3:47 | 2023-10-25 |  |
 | [Alas](https://open.spotify.com/track/6VV1GH7hA9h9HVYOtq3lTj) | [Selfsteam](https://open.spotify.com/artist/0aQ90r9TMr6IniH31Me6L8) | [Alas](https://open.spotify.com/album/6VbBeoJoQ7tA8kF6TF0mvQ) | 5:24 | 2023-10-25 |  |

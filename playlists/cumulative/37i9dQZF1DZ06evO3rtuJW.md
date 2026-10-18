@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-245 songs - 12 hr 18 min
+246 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [No Pics \(feat\. Chief Keef\)](https://open.spotify.com/track/7JXj4trCV0qc9cdKMY46et) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:27 | 2024-09-08 | 2024-09-09 |
 | [No Recruits \(feat\. G Herbo\)](https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 3:02 | 2024-08-11 | 2025-04-11 |
 | [No Te Veo](https://open.spotify.com/track/2iUb6SjtowOleA5KrKvjdh) | [Amaru Cloud](https://open.spotify.com/artist/06ezMzQs6hP65feMAjteNY), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [No Te Veo](https://open.spotify.com/album/0wT5Pk945dl41rZGzS7J04) | 2:26 | 2023-06-05 | 2023-09-16 |
-| [Nobody \(feat\. Monaleo & G Herbo\) \- Remix](https://open.spotify.com/track/2l1r5fyPZuMnFlpdDV4QIG) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Nobody \(feat\. Monaleo & G Herbo\) \[Remix\]](https://open.spotify.com/album/4ESOFve49SESHhgattAwIr) | 2:53 | 2026-07-26 |  |
+| [Nobody \(feat\. Monaleo & G Herbo\) \- Remix](https://open.spotify.com/track/2l1r5fyPZuMnFlpdDV4QIG) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Nobody \(feat\. Monaleo & G Herbo\) \[Remix\]](https://open.spotify.com/album/4ESOFve49SESHhgattAwIr) | 2:53 | 2026-07-26 | 2026-10-18 |
 | [Nosey](https://open.spotify.com/track/7aXyHLZlfVYtkSuSeYdbMB) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Nosey](https://open.spotify.com/album/7tUFeoopazwZiMSjfi8Z6i) | 1:48 | 2024-10-05 | 2024-11-13 |
 | [Nothin](https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:52 | 2024-11-03 | 2024-12-08 |
 | [Nu Devils](https://open.spotify.com/track/05LERuwwJC1kG4r9THLAah) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [You Can't Kill God With Bullets](https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG) | 5:21 | 2025-12-18 | 2026-01-30 |
@@ -233,6 +233,7 @@
 | [Up Next 3](https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summer Songs 2](https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri) | 2:35 | 2022-10-28 | 2023-05-01 |
 | [Vegeta](https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Vegeta](https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE) | 2:07 | 2024-11-07 | 2024-12-06 |
 | [Ventilator \(feat\. G Herbo\)](https://open.spotify.com/track/1xRpXN0UEFjUj5GTAo9Mj3) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Weight On Me: The Album](https://open.spotify.com/album/30kfDTyLpsMgSH3XXugfZb) | 2:28 | 2026-07-29 |  |
+| [Wanna Be Free \(feat\. G Herbo\)](https://open.spotify.com/track/52blwVMCkXvyyNAEW0JGv9) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Wanna Be Free \(feat\. G Herbo\)](https://open.spotify.com/album/5IM3tOYcuK8pEiYpf2JuK7) | 5:49 | 2026-10-18 |  |
 | [Wayback](https://open.spotify.com/track/0eEHWuhv5CXJUokBDmehfs) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:45 | 2025-04-19 | 2025-06-11 |
 | [We Don't Care](https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:16 | 2023-05-17 | 2024-04-14 |
 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 | 2025-04-11 | 2025-07-31 |

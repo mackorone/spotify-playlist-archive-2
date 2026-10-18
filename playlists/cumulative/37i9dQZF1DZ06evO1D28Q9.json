@@ -423,6 +423,36 @@
     },
     {
       "album": {
+        "name": "Travessia",
+        "url": "https://open.spotify.com/album/6qQjD2vtenrz1gQVUxDXjW"
+      },
+      "artists": [
+        {
+          "name": "Madre Beatz",
+          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
+        },
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219933,
+      "name": "Esperando Minha Vez",
+      "url": "https://open.spotify.com/track/45YqyEC0kGZxt7SDFba3aE"
+    },
+    {
+      "album": {
         "name": "A Rima N\u00e3o Para",
         "url": "https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm"
       },

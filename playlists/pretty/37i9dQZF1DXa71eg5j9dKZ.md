@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: KETTAMA, Prospa
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,727 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,748 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

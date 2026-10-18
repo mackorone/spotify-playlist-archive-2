@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 123 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
 | 124 | [Slow Down](https://open.spotify.com/track/3CqiTpYR4cRPr0zfZhjJQb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:50 |
 | 125 | [Let Me In \- Remix](https://open.spotify.com/track/0pWkxyEMK3I9r8Jc8dqebk) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Let Me In \(Remix\)](https://open.spotify.com/album/3klg5Tg0xDUywQ65oYEtTK) | 2:55 |
-| 126 | [Homewrecker](https://open.spotify.com/track/6k4h7BosIRky5rMH5bv0nA) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 2:55 |
-| 127 | [tastes like](https://open.spotify.com/track/43djL0DI9EEJOMYEbtekgS) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:05 |
+| 126 | [tastes like](https://open.spotify.com/track/43djL0DI9EEJOMYEbtekgS) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:05 |
+| 127 | [Homewrecker](https://open.spotify.com/track/6k4h7BosIRky5rMH5bv0nA) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 2:55 |
 | 128 | [Broken Boy](https://open.spotify.com/track/0dx9ShyVbKmWuLUJk0bktG) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 3:11 |
 | 129 | [Strangers](https://open.spotify.com/track/0R6ns8kYNuiQPCTWs0mmva) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Accidentally On Purpose](https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti) | 3:29 |
 | 130 | [All In](https://open.spotify.com/track/0puB7X6IECpzGZeTGM8VAq) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:14 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcfIKAAAAABXZ/XsN+xjidtbXnY1k9q+`
+Snapshot ID: `AcfNyAAAAABvPsg/ekN9RRMv7tS8tupD`

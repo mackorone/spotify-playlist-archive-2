@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Mechatok & Robyn✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,700 likes - 200 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,705 likes - 200 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

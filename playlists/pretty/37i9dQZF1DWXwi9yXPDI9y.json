@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 205143,
+  "num_followers": 205225,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "Hank Mobley Quintet (Remastered)",
+        "url": "https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 399573,
+      "name": "Fin De L'Affaire - Rudy Van Gelder Edition, 2008 Digital Remaster",
+      "url": "https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "Hank Mobley Quintet (Remastered)",
-        "url": "https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 399573,
-      "name": "Fin De L'Affaire - Rudy Van Gelder Edition, 2008 Digital Remaster",
-      "url": "https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Show Me The Way To Go Home",
-      "url": "https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Something Cool (1955 Version)",
         "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 258893,
       "name": "Something Cool - Mono",
       "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Show Me The Way To Go Home",
+      "url": "https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "Dexter Blows Hot & Cool",
+        "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 222763,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -511,38 +527,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Dexter Blows Hot & Cool",
-        "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 222763,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 331666,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Sings The Winners",
         "url": "https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 331666,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 424493,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 166573,
       "name": "Lover Man (Oh Where Can You Be)",
       "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 424493,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Whisper For You",
         "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 203733,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Amoureusement V\u00f4tre",
-        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
-      },
-      "artists": [
-        {
-          "name": "Don Byas",
-          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Dear Old Stockholm",
         "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 330800,
       "name": "Dear Lord",
       "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Amoureusement V\u00f4tre",
+        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
+      },
+      "artists": [
+        {
+          "name": "Don Byas",
+          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 528226,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 285693,
       "name": "If I Had You - Bonus Track",
       "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 528226,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -883,6 +883,22 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -931,22 +947,6 @@
       "duration_ms": 277013,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 356973,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "The Imperious Dinah Washington",
         "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 154933,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Make The Man Love Me",
+      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Make The Man Love Me",
-      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
     },
     {
       "added_at": "2026-08-31 08:47:58",

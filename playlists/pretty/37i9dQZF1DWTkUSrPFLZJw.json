@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24543,
+  "num_followers": 24561,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-10-16 00:44:07",
       "album": {
+        "name": "Me Sisi",
+        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Me Sisi",
+      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
+    },
+    {
+      "added_at": "2026-10-16 00:44:07",
+      "album": {
         "name": "VOICE OF THE CROWN (African Dancehall)",
         "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
       },
@@ -775,18 +791,22 @@
     {
       "added_at": "2026-10-16 00:44:07",
       "album": {
-        "name": "Me Sisi",
-        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
       },
       "artists": [
         {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+          "name": "Khid Ceejay",
+          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
         }
       ],
-      "duration_ms": 171805,
-      "name": "Me Sisi",
-      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
+      "duration_ms": 141818,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
     },
     {
       "added_at": "2026-10-16 00:44:07",
@@ -823,26 +843,6 @@
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
-    },
-    {
-      "added_at": "2026-10-16 00:44:07",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
-      },
-      "artists": [
-        {
-          "name": "Khid Ceejay",
-          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
     },
     {
       "added_at": "2026-10-16 00:44:07",

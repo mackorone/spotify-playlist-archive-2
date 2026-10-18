@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22837,
+  "num_followers": 22840,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "YANKEE",
-        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 288013,
-      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
-      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
+      "duration_ms": 273535,
+      "name": "\u3057\u308f\u3042\u308f\u305b",
+      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+        "name": "YANKEE",
+        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 273535,
-      "name": "\u3057\u308f\u3042\u308f\u305b",
-      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
+      "duration_ms": 288013,
+      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "\u5922\u304c\u9192\u3081\u305f\u3089",
-        "url": "https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z"
-      },
-      "artists": [
-        {
-          "name": "ZOOKARADERU",
-          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "\u5922\u306e\u604b\u4eba",
-      "url": "https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T"
-    },
-    {
-      "added_at": "2026-02-03 15:00:13",
-      "album": {
         "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
         "url": "https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 254160,
       "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
       "url": "https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d"
+    },
+    {
+      "added_at": "2026-02-03 15:00:13",
+      "album": {
+        "name": "\u5922\u304c\u9192\u3081\u305f\u3089",
+        "url": "https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "\u5922\u306e\u604b\u4eba",
+      "url": "https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T"
     },
     {
       "added_at": "2026-02-03 15:00:13",

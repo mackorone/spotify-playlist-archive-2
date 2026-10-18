@@ -5763,6 +5763,24 @@
     },
     {
       "album": {
+        "name": "Life at the Cemetery",
+        "url": "https://open.spotify.com/album/4qPJRC5h3rEzkyHp117Ljh"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Life at the Cemetery",
+      "url": "https://open.spotify.com/track/6ObwlDeZ55HUfptbjflreb"
+    },
+    {
+      "album": {
         "name": "Light Shines on You",
         "url": "https://open.spotify.com/album/7mPSyGNxdwWrIcQxEysaDx"
       },

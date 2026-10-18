@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,945 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,970 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 23 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1tmD4Xpd1YNSGCG5AYqHDk) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4Mq8pVxLgoSIUGVp6dgYF8) | 2:30 |
 | 24 | [Eu Duvido \- Ao Vivo](https://open.spotify.com/track/3YppiISUkHejCcxEF75Tql) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Deu Rolo No Barretão](https://open.spotify.com/album/2zRjb3y6rKfIQ5y7n2kwSl) | 2:50 |
 | 25 | [Não Mexe nas Minhas Gavetas \- Ao Vivo](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE) | 2:06 |
-| 26 | [Mentira ou Verdade](https://open.spotify.com/track/71LFe32b7ne58NiL1jvwmp) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [$CAM](https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Mentira ou Verdade](https://open.spotify.com/album/1GMrZpzfl1pReQkPYPuNX1) | 1:43 |
+| 26 | [Mentira ou Verdade](https://open.spotify.com/track/71LFe32b7ne58NiL1jvwmp) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [$CAM](https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3), [DJ GB do Dick](https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1), [Dj Cabelinho de Caxias](https://open.spotify.com/artist/0ztADIB4LxyvhWRiFVsEzm) | [Mentira ou Verdade](https://open.spotify.com/album/1GMrZpzfl1pReQkPYPuNX1) | 1:43 |
 | 27 | [Carnívoro](https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Carnívoro](https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa) | 3:36 |
 | 28 | [Eu Não Sou Terapia \- Ao Vivo](https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/1ejLnHri909csVlNncBvyD) | 2:42 |
 | 29 | [Dois Gumes \- Ao Vivo](https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:12 |
 | 50 | [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 |
 
-Snapshot ID: `MmWX0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MmbpUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

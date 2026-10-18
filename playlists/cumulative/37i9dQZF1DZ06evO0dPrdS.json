@@ -380,10 +380,32 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 248253,
       "name": "Say You'll Be There - 7\u201d Radio Mix",
       "url": "https://open.spotify.com/track/3uGTUf4AQvNkui75eLKide"
+    },
+    {
+      "album": {
+        "name": "Say You\u2019ll Be There",
+        "url": "https://open.spotify.com/album/4aemYzvhOZ5lcxrEmcOROc"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+          "name": "Junior Vasquez",
+          "url": "https://open.spotify.com/artist/6X4LvL2xVwf3B6WuQ0YAhm"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266266,
+      "name": "Say You'll Be There - Kurt's Dub",
+      "url": "https://open.spotify.com/track/009uKbPB5TcrveKJozsnRI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Zacardi Cortez
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,166 likes - 80 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,320 likes - 80 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 26 | [offering \(the stand\)](https://open.spotify.com/track/0hoy1kxFaCuAPC9joOkpJi) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [Worship Leader's Diary](https://open.spotify.com/album/211Th8Wp70e5Uz6mOSNt2o) | 4:03 |
 | 27 | [usher in the spirit again](https://open.spotify.com/track/2fpkGSy1zkSHDDMEET03VA) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [usher in the spirit again](https://open.spotify.com/album/4JhuXIkQ2Hrk26reQjYxrz) | 3:04 |
 | 28 | [Stay Here](https://open.spotify.com/track/2S4HKddVaa6hK6jaLcAtDZ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [Briana](https://open.spotify.com/album/5PVBgsc821POgqQ1dBcQ8i) | 3:51 |
-| 29 | [Welcome Home \- Live in Los Angeles](https://open.spotify.com/track/1eIcZ4F1r76UK6kMGAykzb) | [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Travis Malloy](https://open.spotify.com/artist/2L0ZzKX7bCTF0Z44HfUuV1) | [Live in Los Angeles](https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3) | 3:43 |
+| 29 | [Welcome Home \- Live in Los Angeles](https://open.spotify.com/track/1eIcZ4F1r76UK6kMGAykzb) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Travis Malloy](https://open.spotify.com/artist/2L0ZzKX7bCTF0Z44HfUuV1) | [Live in Los Angeles](https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3) | 3:43 |
 | 30 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
 | 31 | [Suddenly](https://open.spotify.com/track/03g8sbVKjDg2o4GBVfI3xc) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Suddenly](https://open.spotify.com/album/1qeOCgKRH1TzpFwFf9ZXMX) | 2:57 |
 | 32 | [Emoji](https://open.spotify.com/track/1NslSQmmWld562HPeASfst) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 4:40 |

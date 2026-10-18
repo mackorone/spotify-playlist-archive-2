@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Knox",
-  "num_followers": 228312,
+  "num_followers": 228297,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ9fsZy9xpcdeie4O3dditzn5jfj",
+  "snapshot_id": "AAAAABVMnoevP01/bxHPHjjo7WIi+RZF",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:37",
@@ -23,6 +23,22 @@
       "duration_ms": 208421,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ"
+    },
+    {
+      "added_at": "2026-10-17 20:24:42",
+      "album": {
+        "name": "Lucy, When You Wake Up",
+        "url": "https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 214806,
+      "name": "Lucy, When You Wake Up",
+      "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
     },
     {
       "added_at": "2026-10-16 04:01:38",
@@ -819,22 +835,6 @@
       "duration_ms": 184417,
       "name": "Faking Smiles",
       "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
-    },
-    {
-      "added_at": "2026-08-07 04:24:23",
-      "album": {
-        "name": "SLEEPOVER",
-        "url": "https://open.spotify.com/album/4102k3U6jMBUEdKP1ZToWr"
-      },
-      "artists": [
-        {
-          "name": "TJ Minor",
-          "url": "https://open.spotify.com/artist/0zu3qkB9uFXeMwrtKQxr8E"
-        }
-      ],
-      "duration_ms": 190166,
-      "name": "SLEEPOVER",
-      "url": "https://open.spotify.com/track/3YzXRNwAGJpGnM8WLSHEYq"
     }
   ],
   "unique_name": "soda",

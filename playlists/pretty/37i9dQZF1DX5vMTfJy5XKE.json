@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Freya Skye",
-  "num_followers": 269245,
+  "num_followers": 269264,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKe9ECZzcTOmm2UYfS+DI6zFnO2B",
+  "snapshot_id": "AAAAAAiEonGyg6s4uOS0fSgi3DO3FYcl",
   "tracks": [
     {
       "added_at": "2026-10-14 04:00:19",
@@ -113,6 +113,26 @@
       "url": "https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF"
     },
     {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "Christmas With Cynthia Erivo",
+        "url": "https://open.spotify.com/album/72IuUMFayDrPGNuAdDJ4Pp"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        }
+      ],
+      "duration_ms": 151226,
+      "name": "Spending My Christmas With You (feat. Jimmy Fallon)",
+      "url": "https://open.spotify.com/track/1CV9G6rn2C1EMnLTm8TkEu"
+    },
+    {
       "added_at": "2026-10-14 04:00:19",
       "album": {
         "name": "Believe",
@@ -147,6 +167,70 @@
       "duration_ms": 272179,
       "name": "April's Gone (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/3dQGIaKFqXMaWunmfxPNjN"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3lZstgDdP8HK7UhW8nbmMv"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "duration_ms": 170439,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0FLyIRYB5bLP3g4Twj2OeE"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 167178,
+      "name": "The Christmas Song - Cheery & Bright",
+      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "wrapped",
+        "url": "https://open.spotify.com/album/0I8rdVH8xmtoNLSs5wfuG4"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "wrapped",
+      "url": "https://open.spotify.com/track/4P9G6gHP2NnNXhwDA3qVuB"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "your love this christmas",
+        "url": "https://open.spotify.com/album/0OTsHIxhyNvqwxpL2T5yf4"
+      },
+      "artists": [
+        {
+          "name": "Mia Lailani",
+          "url": "https://open.spotify.com/artist/0yyjOE8qtButTB98EPNzdV"
+        }
+      ],
+      "duration_ms": 226456,
+      "name": "your love this christmas",
+      "url": "https://open.spotify.com/track/24f5HnJxiWy6HkA6lt0KhD"
     },
     {
       "added_at": "2026-10-14 04:00:19",
@@ -231,6 +315,94 @@
       "duration_ms": 166718,
       "name": "It Ain't Really Christmas",
       "url": "https://open.spotify.com/track/0dPIPHcVQOpIITGai0NIhr"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "That's What I Want For Christmas",
+        "url": "https://open.spotify.com/album/1NB19t02vxFRzmiCBEcWFS"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 237132,
+      "name": "That's What I Want For Christmas",
+      "url": "https://open.spotify.com/track/7pLkojFFUYX5FTHSVKJs40"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "Welcome To Our World",
+        "url": "https://open.spotify.com/album/2PTBYehAW7YSFoX0aquY0h"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 172178,
+      "name": "Welcome To Our World",
+      "url": "https://open.spotify.com/track/442GhpfCdKEgI16DqFqJtx"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "It's the Most Wonderful Time of the Year",
+        "url": "https://open.spotify.com/album/56EhdITkgElNgEuRcpEDjZ"
+      },
+      "artists": [
+        {
+          "name": "Laura Osnes",
+          "url": "https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF"
+        }
+      ],
+      "duration_ms": 159913,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1zY8KxAg7gR2cYe3ULzZS4"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "Rejoice (O Come O Come Emmanuel)",
+        "url": "https://open.spotify.com/album/6JwQwNQTKXByidHD9x1bnb"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        },
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 251030,
+      "name": "Rejoice (O Come O Come Emmanuel)",
+      "url": "https://open.spotify.com/track/38mCMKRBJO8QLPk9wRo1Kl"
+    },
+    {
+      "added_at": "2026-10-17 19:26:11",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/5E63fhAG6CUk6bHWJL8oyC"
+      },
+      "artists": [
+        {
+          "name": "Den\u00e9e Benton",
+          "url": "https://open.spotify.com/artist/3bBNMFp7jH66nWZYYIzqc6"
+        },
+        {
+          "name": "Jordan Donica",
+          "url": "https://open.spotify.com/artist/2NrfAs6msmsiqK4LPxb3sR"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3zd9B4aiSa1VPJSdjA1AfJ"
     },
     {
       "added_at": "2026-10-14 04:00:19",
@@ -679,174 +851,6 @@
       "duration_ms": 241022,
       "name": "Celebrate Me Home",
       "url": "https://open.spotify.com/track/2LhahAutVL3V699VgMXCtt"
-    },
-    {
-      "added_at": "2025-11-21 05:26:56",
-      "album": {
-        "name": "Christmas Ain't Christmas",
-        "url": "https://open.spotify.com/album/2LvZYFeikO05rQ8xBHHl9k"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Christmas Ain't Christmas",
-      "url": "https://open.spotify.com/track/5Gjvb3iVQhkMBKjMEWYszI"
-    },
-    {
-      "added_at": "2025-11-14 05:59:18",
-      "album": {
-        "name": "Luke Bryan Christmas",
-        "url": "https://open.spotify.com/album/02AYiUqhYmz5cyH83yfGfI"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 129894,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/2NvEi1sJUw2YrIoInhQ1Ug"
-    },
-    {
-      "added_at": "2025-11-14 17:14:23",
-      "album": {
-        "name": "Not So Merry Christmas",
-        "url": "https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Not So Merry Christmas",
-      "url": "https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT"
-    },
-    {
-      "added_at": "2025-11-21 05:26:56",
-      "album": {
-        "name": "Home to Me",
-        "url": "https://open.spotify.com/album/54PYzvnCkhc4fIG4lYhM4F"
-      },
-      "artists": [
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "Giovanni Zarrella",
-          "url": "https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln"
-        }
-      ],
-      "duration_ms": 209902,
-      "name": "Home to Me",
-      "url": "https://open.spotify.com/track/3N7TTZ7VQFpSTl0jb5gb87"
-    },
-    {
-      "added_at": "2025-11-07 20:21:02",
-      "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/3DRGhm9rkjANo94CxrhsMc"
-      },
-      "artists": [
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 150205,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/38fhq0EiSzlIwv20tHNGss"
-    },
-    {
-      "added_at": "2025-11-21 05:26:56",
-      "album": {
-        "name": "Christmas Now",
-        "url": "https://open.spotify.com/album/1Ys3OulsgsBZ543zaq76Qi"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 201650,
-      "name": "Christmas Now",
-      "url": "https://open.spotify.com/track/6fuq89jpzHDeFf6npcp54l"
-    },
-    {
-      "added_at": "2025-11-07 20:21:02",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/79TYsmEva4aPAaNhyS7JWl"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 189983,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/3pzBmTac4UZLxdYPVMRuzM"
-    },
-    {
-      "added_at": "2025-10-15 04:00:14",
-      "album": {
-        "name": "Last Christmas (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Last Christmas - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG"
-    },
-    {
-      "added_at": "2025-10-24 04:58:31",
-      "album": {
-        "name": "Christmas in the City",
-        "url": "https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 199607,
-      "name": "Christmas in the City",
-      "url": "https://open.spotify.com/track/2VRC4l8jry3XJupFr6bTIc"
-    },
-    {
-      "added_at": "2025-10-17 23:35:14",
-      "album": {
-        "name": "Peace, Love, and Cowboys (Holiday Edition)",
-        "url": "https://open.spotify.com/album/1gpUamRdguofn1d7duASk0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 213840,
-      "name": "Peace, Love, and Cowboys - Holiday Edition",
-      "url": "https://open.spotify.com/track/47uI5J1L1XdUpxW1ljuXH3"
     }
   ],
   "unique_name": "New Music Holiday",

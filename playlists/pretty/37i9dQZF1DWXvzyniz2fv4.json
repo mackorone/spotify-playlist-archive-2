@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157987,
+  "num_followers": 157983,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 146288,
       "name": "sintetizar",
       "url": "https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -799,30 +799,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Concept Music",
-          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Chayco",
-          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Talism\u00e3",
-      "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Concept Music",
+          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Chayco",
+          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "ALAKASAM",
-        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Ravi",
         "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1331,18 +1331,26 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Certo pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
       "artists": [
         {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         }
       ],
-      "duration_ms": 211549,
-      "name": "Certo pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     }
   ],
   "unique_name": "Resenha na Praia",

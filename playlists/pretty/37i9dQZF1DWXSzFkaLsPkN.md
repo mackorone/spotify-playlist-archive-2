@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Aanchal Tyagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,608 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,613 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 72 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |
 | 73 | [Ho Jayenge Ghum](https://open.spotify.com/track/0uiq5MHUD1rjpqYFsECubQ) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Ho Jayenge Ghum](https://open.spotify.com/album/5ahqap8ClBewlqiLkmiO80) | 3:48 |
 | 74 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
-| 75 | [Sun Re Piya](https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Amrita Saluja](https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU) | [Sun Re Piya](https://open.spotify.com/album/2uh1rvhElikYUKAswxKd8P) | 2:25 |
+| 75 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 |
 
-Snapshot ID: `AAAAAGcjMU2zxm/OGku9zXasB0HddFtT`
+Snapshot ID: `AAAAAFP+UBdO3utI/zJda5JrvH1p7Pfj`

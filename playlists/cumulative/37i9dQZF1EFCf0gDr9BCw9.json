@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Something To Live For: The Music of Billy Strayhorn",
+        "url": "https://open.spotify.com/album/49zze2JVgBNviHLK21YYON"
+      },
+      "artists": [
+        {
+          "name": "The Dutch Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "A Penthouse on Shady Avenue",
+      "url": "https://open.spotify.com/track/54hzFh2mERvdl6pawl23Z3"
+    },
+    {
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3"
       },
@@ -1510,6 +1528,24 @@
       "duration_ms": 146506,
       "name": "Elysee",
       "url": "https://open.spotify.com/track/05Phfs2CroaIG0SBzv7tCU"
+    },
+    {
+      "album": {
+        "name": "Something To Live For: The Music of Billy Strayhorn",
+        "url": "https://open.spotify.com/album/49zze2JVgBNviHLK21YYON"
+      },
+      "artists": [
+        {
+          "name": "The Dutch Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128493,
+      "name": "Everything Is Copasetic!",
+      "url": "https://open.spotify.com/track/1vBZMsO8qtYXWo61MBf5Md"
     },
     {
       "album": {

@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Akila",
+        "url": "https://open.spotify.com/album/2igL5PBsn9bW1C7Rfz9RsV"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Akila",
+      "url": "https://open.spotify.com/track/6TiCIA7EPfjSqpfRP5XKDf"
+    },
+    {
+      "album": {
         "name": "BARI\u015e",
         "url": "https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y"
       },
@@ -5460,7 +5478,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 122000,
       "name": "bi kahve yapt\u0131m",
       "url": "https://open.spotify.com/track/19oVxnhtTJGVbgd5T0gjEX"
@@ -28636,7 +28654,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 118736,
       "name": "TSS",
       "url": "https://open.spotify.com/track/17AsRHpZDmS2uWL3ad27yI"
@@ -31372,7 +31390,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 178752,
       "name": "Y\u00fcce A\u015fk 2.0",
       "url": "https://open.spotify.com/track/1fUEj7uUc14mRwSoNniXQG"

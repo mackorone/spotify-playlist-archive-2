@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 24629,
+  "num_followers": 24638,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAB4nAh59chAKfoCXNqJbbAL",
+  "snapshot_id": "atFpAAAAAAD5wL9OuPwXjkxiyM0beWyf",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Every Thug Needs a Lady",
-      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Addiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 154866,
       "name": "This Addiction",
       "url": "https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 136160,
-      "name": "Fatally Yours",
-      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 198266,
       "name": "Fall Victim",
       "url": "https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 136160,
+      "name": "Fatally Yours",
+      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 187480,
-      "name": "I Wanna Be A Warhol",
-      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+      "duration_ms": 183533,
+      "name": "Dethbed",
+      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
       "artists": [
         {
@@ -636,9 +636,25 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Dethbed",
-      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
+      "duration_ms": 187480,
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
       "duration_ms": 253257,
       "name": "Surprise Surprise",
       "url": "https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "My Standard Break from Life",
-      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Metro",
-      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 187480,
       "name": "Maybe I'll Catch Fire",
       "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 289706,
-      "name": "Fuck You Aurora",
-      "url": "https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I"
+      "duration_ms": 200240,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
     }
   ],
   "unique_name": "This Is Alkaline Trio",

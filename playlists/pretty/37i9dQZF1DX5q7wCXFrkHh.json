@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 156264,
+  "num_followers": 156317,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,26 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
       "artists": [
         {
           "name": "Bill Evans",
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+      "duration_ms": 360546,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/7JtcCde09fsajDNHmPFrX7"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -399,26 +407,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
       "artists": [
         {
           "name": "Bill Evans",
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 360546,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/7JtcCde09fsajDNHmPFrX7"
+      "duration_ms": 214440,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Trio",
-        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones Trio",
-          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
-        }
-      ],
-      "duration_ms": 363179,
-      "name": "How High The Moon",
-      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "My Point Of View (Expanded Edition)",
         "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 499253,
       "name": "Blind Man, Blind Man",
       "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "The Trio",
+        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones Trio",
+          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
+        }
+      ],
+      "duration_ms": 363179,
+      "name": "How High The Moon",
+      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Shearing Piano",
-        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "All Kinds Of Weather",
         "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+        "name": "The Shearing Piano",
+        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 391426,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+      "duration_ms": 172600,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 227323,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+      "duration_ms": 391426,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -991,6 +975,22 @@
       "duration_ms": 367600,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 227323,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 186136,
-      "name": "Someday My Prince Will Come",
-      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "This Here Is Bobby Timmons / Easy Does It",
         "url": "https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 308573,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 186136,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Jazz Impressions Of New York",
-        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Theme From \"Mr. Broadway\"",
-      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Piano Starts Here",
         "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 195000,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Jazz Impressions Of New York",
+        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Theme From \"Mr. Broadway\"",
+      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Eclypso",
-        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "A Blue Time",
-      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 306967,
       "name": "Wild Music",
       "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Eclypso",
+        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "A Blue Time",
+      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1679,26 +1679,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Trio Vol.2",
-        "url": "https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6"
+        "name": "Duke's Dream",
+        "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
       },
       "artists": [
         {
-          "name": "Cedar Walton",
-          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
         },
         {
-          "name": "David Williams",
-          "url": "https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3"
-        },
-        {
-          "name": "Billy Higgins",
-          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
+          "name": "Rosario Giuliani",
+          "url": "https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06"
         }
       ],
-      "duration_ms": 541000,
-      "name": "Off Minor",
-      "url": "https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX"
+      "duration_ms": 440133,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
     }
   ],
   "unique_name": "Jazz Piano Classics",

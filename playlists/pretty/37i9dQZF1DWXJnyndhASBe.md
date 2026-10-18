@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,010 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,992 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 18 | [WIĘCEJ NIEBA](https://open.spotify.com/track/1oI0ZAXcbp2cNC9elQqMQJ) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [WIĘCEJ NIEBA](https://open.spotify.com/album/4aIheOtXr99P8hkvUKb5nQ) | 2:32 |
 | 19 | [LEJ MI BBY](https://open.spotify.com/track/0ABCQ80ojrEfE5b8JLKm4j) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [LEJ MI BBY](https://open.spotify.com/album/3P9SN0gylidOlOgOYxfZlA) | 2:05 |
 | 20 | [Zapach](https://open.spotify.com/track/01HZ3Xmp4a2T41yu7HYnz4) | [Hellfield](https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q), [Baby Nerro](https://open.spotify.com/artist/5tZMd0pUPmQ0ydcd5Vrl16), [CrackHouse](https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr) | [Zapach](https://open.spotify.com/album/7JhcP0myYthnGJdHMD96qn) | 2:30 |
-| 21 | [KTÓRY ROK?](https://open.spotify.com/track/1YAnNs1TCm94Rgls9bRql8) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [KTÓRY ROK?](https://open.spotify.com/album/550EN2VRFQfPMATbseWIdw) | 3:13 |
+| 21 | [KTÓRY ROK?](https://open.spotify.com/track/1YAnNs1TCm94Rgls9bRql8) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Cassa](https://open.spotify.com/artist/1ZVRPI1vXE9KHV3uQkmwFg) | [KTÓRY ROK?](https://open.spotify.com/album/550EN2VRFQfPMATbseWIdw) | 3:13 |
 | 22 | [AFTER](https://open.spotify.com/track/16yUe3nTclu9OopOkuJ06H) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [B](https://open.spotify.com/album/7is4lQft9LA35zqfkE6YQE) | 3:38 |
 | 23 | [GLOBAL](https://open.spotify.com/track/3x3wnyRHpnTTzyyUwzDbYm) | [Pusher](https://open.spotify.com/artist/0fK8tIJvuUipbExfySWTVb), [Oska030](https://open.spotify.com/artist/5mk5cvluGcQc8liUhNc8nO), [Baba Hassan](https://open.spotify.com/artist/0bnklE4AY6Jf8Y3gfDSli4), [DeeVoe](https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL) | [GLOBAL](https://open.spotify.com/album/3mOaQWXMW7YjPNMef7HZDm) | 1:48 |
 | 24 | [RANY CAŁY CZAS NAS GONIĄ](https://open.spotify.com/track/752VI3Aervly2F4Vb5Lew3) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [RANY CAŁY CZAS NAS GONIĄ](https://open.spotify.com/album/5gBWPGQ1O6QH1MQE1ECPFN) | 2:46 |

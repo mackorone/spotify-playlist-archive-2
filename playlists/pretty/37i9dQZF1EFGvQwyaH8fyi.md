@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,355 likes - 152 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,357 likes - 152 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 30 | [drunk face](https://open.spotify.com/track/3k0YJnqMKRZb8swo86vCkq) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:23 |
 | 31 | [TOO MUCH](https://open.spotify.com/track/3O0QQkMGqtKTVL68DR5wJ5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 3:23 |
 | 32 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
-| 33 | [The Visitor](https://open.spotify.com/track/4wfIW1OLIqejwmBYG1LhCl) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:48 |
-| 34 | [SUN GOES DOWN](https://open.spotify.com/track/6btdl1Vl6Ta5lUwUSOFW2H) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:48 |
-| 35 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 33 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 34 | [The Visitor](https://open.spotify.com/track/4wfIW1OLIqejwmBYG1LhCl) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:48 |
+| 35 | [SUN GOES DOWN](https://open.spotify.com/track/6btdl1Vl6Ta5lUwUSOFW2H) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:48 |
 | 36 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
 | 37 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
 | 38 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/2DQayQSTaomynGyTLXzGs0) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:08 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 96 | [WHERE DO YOU SLEEP?](https://open.spotify.com/track/6gOuaXlvEwglEHRpl6Rx12) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 3:12 |
 | 97 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
 | 98 | [B2b featuring tinashe](https://open.spotify.com/track/2xsvVV9DXvYtqXId9Uf2ra) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:33 |
-| 99 | [Good Girl](https://open.spotify.com/track/2lVgHyQt2Jp5GbcNzjqls4) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
-| 100 | [We’re Not In Love](https://open.spotify.com/track/6H5jM1w0NQaHEQq7UDLlaW) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:59 |
+| 99 | [We’re Not In Love](https://open.spotify.com/track/6H5jM1w0NQaHEQq7UDLlaW) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:59 |
+| 100 | [Good Girl](https://open.spotify.com/track/2lVgHyQt2Jp5GbcNzjqls4) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
 | 101 | [PICK SIDES](https://open.spotify.com/track/0ahUvlPhSeyCPh59gX3CrS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:52 |
 | 102 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 103 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 140 | [Nicotine](https://open.spotify.com/track/4Q2SJQAfMAiZHzJwkPdyzP) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/5w1ZUSCUiYue1B796N9w61) | 2:46 |
 | 141 | [Intro \(Hope\)](https://open.spotify.com/track/6eo9xRtWnD9QCFYJ4IS7pa) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:28 |
 | 142 | [Praying 4 Love](https://open.spotify.com/track/3efc1ZMCTGsuLJgpCJCKIt) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:36 |
-| 143 | [Cut It Off](https://open.spotify.com/track/0f7kuCy13GwfYXMTEcwaeo) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:34 |
-| 144 | [jazz burger](https://open.spotify.com/track/0LqqWpieFCkt7jtA6RafAG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 3:11 |
+| 143 | [jazz burger](https://open.spotify.com/track/0LqqWpieFCkt7jtA6RafAG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 3:11 |
+| 144 | [Cut It Off](https://open.spotify.com/track/0f7kuCy13GwfYXMTEcwaeo) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:34 |
 | 145 | [Play Pretend](https://open.spotify.com/track/1US8tshuJbmSTfBgom1uaq) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 2:42 |
 | 146 | [Miami](https://open.spotify.com/track/4TcpNrmOpahEhYmMvsanMY) | [Noah Cunane](https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq) | [Miami](https://open.spotify.com/album/3sVBfbJbMxFhbWjYDC9yOP) | 2:59 |
 | 147 | [Feel The Same](https://open.spotify.com/track/63g7NDleXanRh8ez3DPXKV) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3) | [Feel The Same](https://open.spotify.com/album/3Qut4cW4hwcIrVZTjwgJ1u) | 2:43 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 151 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 152 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 
-Snapshot ID: `AcfIMgAAAABrsAaBl9+wOg4/HTKaj6mm`
+Snapshot ID: `AcfN0gAAAAD01148woY0ntTF1kALKWX/`

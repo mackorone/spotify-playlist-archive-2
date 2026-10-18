@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Karol G, Judeline y rusowsky en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Ravyn Lenae en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-422 songs - 22 hr 4 min
+423 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 | 2024-05-18 | 2025-01-19 |
 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 | 2024-07-13 | 2025-05-04 |
 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 | 2026-03-20 | 2026-04-05 |
-| [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 | 2026-02-14 |  |
+| [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 | 2026-02-14 | 2026-10-18 |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-12-23 | 2024-11-17 |
 | [Lagunas](https://open.spotify.com/track/6MUL2rMYpQ4MxSBqkB8uqr) | [Hilario](https://open.spotify.com/artist/3ACh8ywebnva0GQkJgHuF7) | [Lagunas](https://open.spotify.com/album/5rhQcduxzIfTeGuqrtGRo8) | 3:19 | 2023-03-25 | 2023-10-08 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-15 | 2023-11-12 |
@@ -257,6 +257,7 @@
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-21 | 2023-01-22 |
 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 | 2024-09-21 | 2025-09-07 |
 | [me he colgado de mi ex](https://open.spotify.com/track/3WEzoedCdyFgSi9GkM1HkF) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [me he colgado de mi ex](https://open.spotify.com/album/7El0ClNnWU2t1aIPdG5B3I) | 2:36 | 2024-06-22 | 2024-12-22 |
+| [Me Mata](https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Me Mata](https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C) | 3:06 | 2026-10-17 |  |
 | [ME MATA\(S\) 2.0](https://open.spotify.com/track/6R7JWF97aiLz4LRAe9qlVJ) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\) 2.0](https://open.spotify.com/album/5OyDGj6MD3V3KmrmwkFeic) | 2:16 | 2024-08-03 | 2024-10-13 |
 | [Me Quedo \(feat\. Ana Mena\)](https://open.spotify.com/track/1MdsletWuIR9ItEnitWRwp) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Me Quedo \(feat\. Ana Mena\)](https://open.spotify.com/album/2vVt1IgIral9JtNxlVRW3i) | 2:43 | 2022-02-26 | 2022-08-07 |
 | [Me Toca A Mí](https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Me Toca A Mí](https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5) | 3:00 | 2025-05-03 | 2025-09-14 |

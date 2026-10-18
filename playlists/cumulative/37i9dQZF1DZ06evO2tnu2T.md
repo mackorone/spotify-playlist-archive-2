@@ -4,7 +4,7 @@
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 19 min
+44 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Natural Disaster](https://open.spotify.com/track/5CycJGxE7haKnBuNsssY4r) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:22 | 2026-02-22 | 2026-07-28 |
 | [No Audience](https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:48 | 2026-05-09 |  |
 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 | 2025-11-23 | 2026-05-09 |
-| [No Furniture](https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 2:54 | 2026-02-22 |  |
+| [No Furniture](https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 2:54 | 2026-02-22 | 2026-10-18 |
+| [No Furniture](https://open.spotify.com/track/0yyTZnnMNtHf6pCCWlfTfh) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:54 | 2026-10-18 |  |
 | [Nowhere to Hide](https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:38 | 2026-02-22 |  |
 | [Painting by Numbers](https://open.spotify.com/track/3sEs9Rcwe39dc9UEEzCfUg) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:41 | 2026-02-22 | 2026-02-28 |
 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 | 2026-02-20 | 2026-04-13 |

@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-608 songs - 1 day 9 hr 55 min
+609 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Old School Love](https://open.spotify.com/track/4IywS1K0mIm1fdGDasE6uu) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Old School Love](https://open.spotify.com/album/5vGI2bJb0Xo9CQogz1R8AH) | 2:50 | 2025-08-22 | 2026-01-15 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2025-07-18 | 2025-08-23 |
 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-07-18 | 2025-08-23 |
+| [On My Own](https://open.spotify.com/track/0s3Czbu8IxpmIgmKe3GGBE) | [Mara Mandeau](https://open.spotify.com/artist/2mpPr7r7njJQ7bC66bghCp) | [On My Own](https://open.spotify.com/album/3qCOUaXCTrQO1clDhqV39C) | 2:56 | 2026-10-17 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2025-07-18 |  |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2025-07-18 | 2025-08-23 |
 | [One By One](https://open.spotify.com/track/7LUGvDGuIXsSaKcdsM3MfF) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Boy Made Out Of Stars](https://open.spotify.com/album/61u3bJdUYO6zizGTPxK7zZ) | 3:44 | 2025-07-18 | 2026-09-10 |

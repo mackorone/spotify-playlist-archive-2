@@ -1,6 +1,6 @@
 {
   "description": "\u2615 \ud83d\udcaa\ud83c\udf73\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udfc3\u2600\ufe0f",
-  "num_followers": 391589,
+  "num_followers": 391556,
   "original_name": "Morning Routine",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-08-27 22:02:30",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 160468,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
+    },
+    {
+      "added_at": "2026-08-27 22:02:30",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2026-08-27 22:02:30",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 160468,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
     },
     {
       "added_at": "2026-08-27 22:02:30",

@@ -463,6 +463,32 @@
     },
     {
       "album": {
+        "name": "ADRENALINE",
+        "url": "https://open.spotify.com/album/1axe3FXvHt20fPHTZK20zH"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Arti Prjct",
+          "url": "https://open.spotify.com/artist/1CuqcCv1IrGicv4KIJHE7q"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168574,
+      "name": "ADRENALINE",
+      "url": "https://open.spotify.com/track/47S6IrIjawDVtTTRQ7v5D5"
+    },
+    {
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/7IAdqQVE1IOrdiazy46nK9"
       },
@@ -4484,7 +4510,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 233794,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,986 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,994 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
+| 1 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 2 | [7 din 7](https://open.spotify.com/track/0tFGvE5jMG4rl8e0gP71ti) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [7 din 7](https://open.spotify.com/album/4q3iKz4tg5UUxlnpADDq5W) | 2:47 |
 | 3 | [Nu răsăriți stele](https://open.spotify.com/track/3VJgRYPFOnDdhfqWGuUPib) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Nu răsăriți stele](https://open.spotify.com/album/2ZdyAFBaYBs4EUsGp1oB7L) | 2:45 |
 | 4 | [Hazolina](https://open.spotify.com/track/5NMilcHFhhivtUCwqoASI0) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Hazolina](https://open.spotify.com/album/4upj57p63IS1nFebjr0S3E) | 2:32 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 6 | [Pun mana pe ea](https://open.spotify.com/track/5tM7fT2w14kNUg0CkitDpi) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Pun mana pe ea](https://open.spotify.com/album/7vjIrOpcC1LwoUb6nyCFGE) | 2:17 |
 | 7 | [VASHA](https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR) | [Enca](https://open.spotify.com/artist/6wBMW3WjTK0tQETJviyov9) | [VASHA](https://open.spotify.com/album/3ey3m8Nh0etir8m6h1l6Qr) | 2:39 |
 | 8 | [DEUCESS](https://open.spotify.com/track/60TKXYXSnKsHYsWTDZwnrT) | [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [DEUCESS](https://open.spotify.com/album/6SE2oTrP4JD72LLpxVRitu) | 2:54 |
-| 9 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
+| 9 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 10 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
 | 11 | [Alo, Scuze!](https://open.spotify.com/track/3SJ4jIR6QGX8QSth1NDwuw) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD) | [Alo, Scuze!](https://open.spotify.com/album/4reJm9Y1lomVx3fmHS1iCy) | 3:08 |
 | 12 | [CEARTA \- RADIO SESSION](https://open.spotify.com/track/1R8FVJFRIsSPY60xOrSMol) | [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ) | [CEARTA \(RADIO SESSION\)](https://open.spotify.com/album/0httRRlXY9IUWAyP7mVd6G) | 3:00 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 43 | [FREAKED OUT](https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN) | [Fat Papi](https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov), [prodshushy](https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA) | [FREAKED OUT](https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm) | 2:38 |
 | 44 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 |
 | 45 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 46 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
-| 47 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 46 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 47 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
 | 48 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 49 | [Obsessica](https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 3:39 |
 | 50 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |

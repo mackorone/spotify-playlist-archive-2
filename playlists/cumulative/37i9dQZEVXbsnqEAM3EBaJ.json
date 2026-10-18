@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 360000,
       "name": "A Portrait of Decay",
       "url": "https://open.spotify.com/track/5rMBX7CbIpsG8GSaFxTxAQ"
@@ -5970,7 +5970,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 280986,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/13KuvvnxvN7QYeGcUjlzXl"
@@ -7330,7 +7330,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 230093,
       "name": "Back Into My Life - Single Edit",
       "url": "https://open.spotify.com/track/53eHmGFbh14bn3MNA6JY47"
@@ -8208,7 +8208,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/7DaKKaHko771NE0fEq5rmD"
@@ -12654,7 +12654,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 197119,
       "name": "Chapter 4",
       "url": "https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv"
@@ -13958,7 +13958,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 242249,
       "name": "Come This Madness",
       "url": "https://open.spotify.com/track/22Zdw2pwwvUz1QDgeztYAL"
@@ -14720,7 +14720,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 152746,
       "name": "Cradle Of Love - R3HAB Remix",
       "url": "https://open.spotify.com/track/58gCZtitxBV03Q9D486caH"
@@ -16158,7 +16158,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 423592,
       "name": "Day after Day",
       "url": "https://open.spotify.com/track/38JSCi7fKIOaf3k8QzKvTR"
@@ -19422,7 +19422,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 254176,
       "name": "D\u01ebkksalir",
       "url": "https://open.spotify.com/track/0tstnj1En07pOHpX2SlHTB"
@@ -20188,7 +20188,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 239795,
       "name": "El costo inscrito",
       "url": "https://open.spotify.com/track/1Ie7Sjj8UX4vaMk7GTX3QL"
@@ -20468,7 +20468,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 255427,
       "name": "El Sendero del Mago",
       "url": "https://open.spotify.com/track/3gv20TPUStR8lCYtnz12aR"
@@ -21565,6 +21565,28 @@
     },
     {
       "album": {
+        "name": "Per Gessle Archives - The Room Service Demos",
+        "url": "https://open.spotify.com/album/0pBDbmSiNLjBIgyfo97kpi"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227014,
+      "name": "Entering Your Heart (Long Version) - T&A Demo - Feb 16, 2000 MP Mix 2025",
+      "url": "https://open.spotify.com/track/4sqPfbkjgWz4A48fETqzHo"
+    },
+    {
+      "album": {
         "name": "Room Service (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4Db3aq5ooU3V20qhatrZYj"
       },
@@ -21580,7 +21602,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 201940,
       "name": "Entering Your Heart - T&A Demo \u2013 Feb 16, 2000 / MP Mix 2025",
       "url": "https://open.spotify.com/track/3y7ljux70K2AGB14Mmz8ju"
@@ -28166,7 +28188,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 191000,
       "name": "Half Hearted",
       "url": "https://open.spotify.com/track/54omDnLVXZ3IrzDc1p1Gon"
@@ -30444,10 +30466,36 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 174120,
       "name": "Hold On Let Go",
       "url": "https://open.spotify.com/track/4UNu6MqiSL4e7u1Evcb9eV"
+    },
+    {
+      "album": {
+        "name": "Hold On Let Go",
+        "url": "https://open.spotify.com/album/0K4LTdHZ781XPfHINDrTN7"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "Hold On Let Go",
+      "url": "https://open.spotify.com/track/7uhNCw4om8CK6YJ0VIyil3"
     },
     {
       "album": {
@@ -31704,6 +31752,24 @@
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart - Instrumental",
       "url": "https://open.spotify.com/track/0Z8YQJNXTCZqflWehjoJqJ"
+    },
+    {
+      "album": {
+        "name": "Songs In The Key Of Life - The EP",
+        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277130,
+      "name": "I Can See The Sun In Late December",
+      "url": "https://open.spotify.com/track/2x2uCGJHVPEwqv9MZXFw1r"
     },
     {
       "album": {
@@ -35210,7 +35276,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 361600,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/4ifLKjSU3nEwlVujMtjfBw"
@@ -42682,7 +42748,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 196923,
       "name": "L\u00e0-bas",
       "url": "https://open.spotify.com/track/3Mw0ZipGOHLoyK5tdm7sgW"
@@ -43122,7 +43188,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 153970,
       "name": "Make Your Exit",
       "url": "https://open.spotify.com/track/08ITA9gnwYlLKw31HuBqLu"
@@ -46187,6 +46253,40 @@
     },
     {
       "album": {
+        "name": "Doom and the Dooms",
+        "url": "https://open.spotify.com/album/0qMtdEQAFu7eLqJ4ZkMsip"
+      },
+      "artists": [
+        {
+          "name": "Oliver Leith",
+          "url": "https://open.spotify.com/artist/3oYfG3258SNid91d6wwGKJ"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        },
+        {
+          "name": "12 Ensemble",
+          "url": "https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj"
+        },
+        {
+          "name": "GBSR Duo",
+          "url": "https://open.spotify.com/artist/5t9dwjh5i2wjq0nZ5923jD"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295333,
+      "name": "My Horse Named Dream",
+      "url": "https://open.spotify.com/track/3BJK1smu2ZKBLVNxgSVmkC"
+    },
+    {
+      "album": {
         "name": "My Immortal (Live At O2 Arena / 2022 / Remastered)",
         "url": "https://open.spotify.com/album/2bEaGmjY6rnp5x6oGHQjcr"
       },
@@ -46410,6 +46510,24 @@
       "duration_ms": 216124,
       "name": "My War - Live",
       "url": "https://open.spotify.com/track/4JnMxVOWWBf49qOgzlHm2E"
+    },
+    {
+      "album": {
+        "name": "\u00d8rl\u01ebg",
+        "url": "https://open.spotify.com/album/7khrM45GDRvobbSNRQfRaA"
+      },
+      "artists": [
+        {
+          "name": "SK\u00c1LD",
+          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228354,
+      "name": "Myrkvi\u00f0r",
+      "url": "https://open.spotify.com/track/0f72gUrVCvcgNH3czAxOUI"
     },
     {
       "album": {
@@ -49502,7 +49620,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 231666,
       "name": "Old Times Away",
       "url": "https://open.spotify.com/track/4EoriuWpmmo0bhckGuUjxY"
@@ -51946,7 +52064,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 110576,
       "name": "Pay To Cum",
       "url": "https://open.spotify.com/track/0FmqsZWJXiKZHA9z2S4hbw"
@@ -53426,7 +53544,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 208591,
       "name": "Por Monta\u00f1as y Praderas - Remix Gonzalo Henr\u00edquez",
       "url": "https://open.spotify.com/track/7iAJxfrkL87xBbDVTHXRc8"
@@ -54009,6 +54127,24 @@
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268784,
+      "name": "Prince And The Band - Vault Raw 1",
+      "url": "https://open.spotify.com/track/3O4N50YYrIBPgkXx0ormTs"
+    },
+    {
+      "album": {
+        "name": "Calabama",
+        "url": "https://open.spotify.com/album/4qPZmWodDDJ3hDm8p975fU"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2026-10-18",
       "duration_ms": 431693,
       "name": "Prince And The Band - Vault Raw 2",
       "url": "https://open.spotify.com/track/5rk5bal0kAiaoJUt5vfnIe"
@@ -55788,7 +55924,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 228160,
       "name": "Reach Out I'll Be There - Live Version",
       "url": "https://open.spotify.com/track/75OricYyyeGrUvXziSok6F"
@@ -59864,7 +60000,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 254745,
       "name": "Secuela",
       "url": "https://open.spotify.com/track/2vHqVMwjRg8z7iUeovYpaF"
@@ -60970,7 +61106,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 211125,
       "name": "She Said She Didn't Want Fries (feat. Matty Mullins)",
       "url": "https://open.spotify.com/track/08BEHASUPMvn6C3Zk9Rh8q"
@@ -61670,7 +61806,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 251400,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/6pMfy77kAQBeUx2shKqqtC"
@@ -62538,7 +62674,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 239394,
       "name": "Social Apocalypse",
       "url": "https://open.spotify.com/track/7LYrWNctGC55Ch60eU8AxK"
@@ -62870,6 +63006,32 @@
       "duration_ms": 182666,
       "name": "Solemos Levitar",
       "url": "https://open.spotify.com/track/7Jg67YmXkQzh5EKeWJX1jE"
+    },
+    {
+      "album": {
+        "name": "\u00cdcaro",
+        "url": "https://open.spotify.com/album/3DNtsom4kro4Hp8j3irVQr"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Sajo Bkule",
+          "url": "https://open.spotify.com/artist/5rmErf1L98C4wX0ylKvI4y"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207408,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/292RjI4akT9vOCigjSeT5n"
     },
     {
       "album": {
@@ -67244,7 +67406,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 283840,
       "name": "Tales of Trees",
       "url": "https://open.spotify.com/track/02dR8GB1wcqc7ng8t3yZCN"
@@ -68570,7 +68732,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 243000,
       "name": "The Best Combo Meal on the Worst Night of my Life (feat. Beau Bokan)",
       "url": "https://open.spotify.com/track/42Db9MjkKCYzTwTFgwJo3j"
@@ -71044,7 +71206,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 207836,
       "name": "The Race",
       "url": "https://open.spotify.com/track/2QcpY1UCnl26k9T1U6G7eu"
@@ -71328,7 +71490,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 174767,
       "name": "The Seasons, Op. 37a, TH 135: 11. November: On the Troika",
       "url": "https://open.spotify.com/track/0NnTXaV24Hncss7BdJjy1j"
@@ -71768,6 +71930,32 @@
       "duration_ms": 359000,
       "name": "The Sleeping Beauty Concert Suite (Arr. Pletnev for Piano): IV. Andante",
       "url": "https://open.spotify.com/track/0vMO8685dz5eX2gOUGs7Hl"
+    },
+    {
+      "album": {
+        "name": "\"The Quiet Night: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/2Yf5EQ0giZsCI9tsgTI2pL"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Russian National Orchestra",
+          "url": "https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51600,
+      "name": "The Sleeping Beauty, Op. 66, Act II: No. 12c, Dance of the Baronesses. Gavotte",
+      "url": "https://open.spotify.com/track/5R1hQOpkV4nIGUzRxIQ4yp"
     },
     {
       "album": {
@@ -72997,6 +73185,24 @@
     },
     {
       "album": {
+        "name": "Come This Madness",
+        "url": "https://open.spotify.com/album/5uACCkmbaCuHqx6dzgHIxP"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245032,
+      "name": "This Time of Year",
+      "url": "https://open.spotify.com/track/4VZjMlXuNLAVk6MiKRF4vY"
+    },
+    {
+      "album": {
         "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
         "url": "https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3"
       },
@@ -73270,7 +73476,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 304000,
       "name": "Tierre Obletz",
       "url": "https://open.spotify.com/track/0RTRU4Ci6K4qDTc3iJuKed"
@@ -76484,7 +76690,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 249784,
       "name": "Upperhand - from CONTROL Resonant",
       "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
@@ -77216,7 +77422,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 471638,
       "name": "Victim Of Changes - 2026 Remixed & Remastered",
       "url": "https://open.spotify.com/track/6z0Hr1uWtn3MXoVqSp83e3"
@@ -77234,7 +77440,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 472130,
       "name": "Victim of Changes - Original 1976 Masters",
       "url": "https://open.spotify.com/track/6nRpof5gPgogrU87jsJnhq"
@@ -79310,7 +79516,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 147800,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/1vDoVUiYLv4bCMjcGSZLOW"
@@ -80020,7 +80226,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 195493,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/0iaLDqZvKWWw4YJK5UVNJ0"
@@ -80140,7 +80346,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 277818,
       "name": "Who The Cap Fit - Salaam Remi Remix",
       "url": "https://open.spotify.com/track/50oa8fpOHwZQ3usLSh3DUO"
@@ -82236,10 +82442,28 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 232321,
       "name": "You R Not Alone",
       "url": "https://open.spotify.com/track/0uSokVeM3PXcnz8Eh8CdKU"
+    },
+    {
+      "album": {
+        "name": "You R Not Alone",
+        "url": "https://open.spotify.com/album/4IPdKIEMWEc3xpXMA4xebU"
+      },
+      "artists": [
+        {
+          "name": "Doro",
+          "url": "https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232321,
+      "name": "You R Not Alone",
+      "url": "https://open.spotify.com/track/4h8Tev0a25cAJzFW26F0DV"
     },
     {
       "album": {

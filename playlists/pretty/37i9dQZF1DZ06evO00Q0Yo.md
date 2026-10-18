@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,875 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,879 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 15 | [Mean](https://open.spotify.com/track/3PXi72ZtSqx1PZc40KS0Qj) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Beautiful Havoc](https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x) | 2:05 |
 | 16 | [Rodeo Remix \(feat\. Flo Milli\) \[slowed + reverb\]](https://open.spotify.com/track/29GJ7awnVMJ7A9OJofShnt) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo Remix \(feat\. Flo Milli\) \[slowed + reverb\]](https://open.spotify.com/album/2Djuls8VcnWUNnEJ2HrNr7) | 4:40 |
 | 17 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
-| 18 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 |
-| 19 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
+| 18 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
+| 19 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 |
 | 20 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 |
 | 21 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 |
 | 22 | [Talk My Shit \(feat\. Amaarae & Flo Milli\)](https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Chocolate Rain](https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Chocolate Rain](https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL) | 2:42 |
 | 50 | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ) | 2:05 |
 
-Snapshot ID: `as7GAAAAAABq6MDHkFnaeSs8YpOzc515`
+Snapshot ID: `atAXgAAAAADwlxw5QbPf6g6hHdpqMuDo`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACK2sI49NjJX5psD7qpvDrQ",
+  "snapshot_id": "atFpAAAAAAAA71NTa3ueAhGce45Hyngc",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 138680,
-      "name": "Same Niggas",
-      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
+      "duration_ms": 153546,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
     },
     {
       "added_at": null,
@@ -483,30 +483,6 @@
       "duration_ms": 156819,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Shot (feat. Blxst & Wale)",
-        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 153194,
-      "name": "One Shot (feat. Blxst & Wale)",
-      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
     },
     {
       "added_at": null,
@@ -543,6 +519,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Shot (feat. Blxst & Wale)",
+        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 153194,
+      "name": "One Shot (feat. Blxst & Wale)",
+      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 153546,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
+      "duration_ms": 138680,
+      "name": "Same Niggas",
+      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
     },
     {
       "added_at": null,
@@ -583,30 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "420 in London",
-        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "420 in London",
-      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 207230,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "420 in London",
+        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "420 in London",
+      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
     },
     {
       "added_at": null,
@@ -671,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 180609,
+      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
       },
@@ -699,30 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 180609,
-      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coke Wave 3.5: Narcos",
         "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
       },
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Em Up",
-        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Wake Em Up",
-      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 181306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Em Up",
+        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Wake Em Up",
+      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
     },
     {
       "added_at": null,

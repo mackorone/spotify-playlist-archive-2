@@ -4,7 +4,7 @@
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 18 min
+65 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Qué Hacemos](https://open.spotify.com/track/1caeOHzU4WjJmqSCERLPbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Qué Hacemos](https://open.spotify.com/album/6OoKDX1vOapE6DFW7yRnbw) | 4:43 | 2026-05-31 | 2026-06-28 |
 | [Qué Hacemos](https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 4:43 | 2026-06-28 |  |
 | [Químicos](https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:26 | 2023-10-10 |  |
-| [Rey Del Glam](https://open.spotify.com/track/0SeIoEjhexEvtCxkQ0rQn1) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Rey Del Glam](https://open.spotify.com/album/5woIUUe3VHDtI8L054tejM) | 4:08 | 2026-08-02 |  |
+| [Rey Del Glam](https://open.spotify.com/track/0SeIoEjhexEvtCxkQ0rQn1) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Rey Del Glam](https://open.spotify.com/album/5woIUUe3VHDtI8L054tejM) | 4:08 | 2026-08-02 | 2026-10-18 |
+| [Rey Del Glam](https://open.spotify.com/track/4LkGhZRHjIfQ25dUS1E4RN) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Rey Del Glam](https://open.spotify.com/album/0PEsRsJ0iRiaaDq0iO4Deu) | 4:08 | 2026-10-18 |  |
 | [Se Fue \- Con Ximena Sariñana y Elsa y Elmar](https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Se Fue \(Con Ximena Sariñana y Elsa y Elmar\)](https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K) | 4:07 | 2023-10-10 |  |
 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 | 2023-10-10 |  |
 | [T\. N\. S\. A.](https://open.spotify.com/track/3oslYn1eaqWHelZLDjohE1) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:30 | 2024-08-14 | 2026-09-22 |

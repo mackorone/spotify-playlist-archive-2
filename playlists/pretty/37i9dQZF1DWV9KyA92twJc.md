@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,722 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,723 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 66 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 |
 | 67 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
 | 68 | [כל עכבה לטובה](https://open.spotify.com/track/6spkDJlie5raRezVwEDeQK) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [כל עכבה לטובה](https://open.spotify.com/album/3U3HVgEFqsHHSAyyR3OepE) | 2:42 |
-| 69 | [איפה שתגידי](https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:55 |
+| 69 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 |
 | 70 | [סוד הנעורים](https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk) | [young buta](https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB) | [סוד הנעורים](https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay) | 3:03 |
 | 71 | [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 |
 | 72 | [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 |
 | 73 | [נשמות צמאות](https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [נשמות צמאות](https://open.spotify.com/album/0qYLzHNcwvcvvdGlEDrtmx) | 2:59 |
-| 74 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 |
+| 74 | [איפה שתגידי](https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:55 |
 | 75 | [פלסטרים](https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [פלסטרים](https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV) | 2:58 |
 | 76 | [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 |
 | 77 | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD) | 3:11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 444638,
+  "num_followers": 444690,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAUuMd76eP85ekCZKEG+69M",
+  "snapshot_id": "atAXgAAAAAApNxr7jJ5G6MBTb4OGCeeY",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Million Miles Away",
-      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
+      "duration_ms": 176666,
+      "name": "The Meaning Of Life",
+      "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 176666,
-      "name": "The Meaning Of Life",
-      "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
+      "duration_ms": 219800,
+      "name": "Million Miles Away",
+      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
     },
     {
       "added_at": null,

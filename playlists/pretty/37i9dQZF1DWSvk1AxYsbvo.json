@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc39\uae40\ud584\ucc0c\uc640 \ud568\uaed8 \uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.)",
-  "num_followers": 26527,
+  "num_followers": 26526,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,22 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
+        "name": "Orange Splash",
+        "url": "https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "\uc9c4\ub3d9\uc6b1",
+          "url": "https://open.spotify.com/artist/0Qh4A2i8KfhKwEQscNo48n"
         }
       ],
-      "duration_ms": 208850,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI"
+      "duration_ms": 143666,
+      "name": "Orange Splash (feat. \uc9c4\ub3d9\uc6b1)",
+      "url": "https://open.spotify.com/track/6s2vKdkMUVI9AwKypQYbyL"
     },
     {
       "added_at": "2026-07-24 08:45:19",
@@ -175,22 +179,18 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
-        "name": "Orange Splash",
-        "url": "https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C"
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
       },
       "artists": [
         {
-          "name": "J.BASS",
-          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
-        },
-        {
-          "name": "\uc9c4\ub3d9\uc6b1",
-          "url": "https://open.spotify.com/artist/0Qh4A2i8KfhKwEQscNo48n"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 143666,
-      "name": "Orange Splash (feat. \uc9c4\ub3d9\uc6b1)",
-      "url": "https://open.spotify.com/track/6s2vKdkMUVI9AwKypQYbyL"
+      "duration_ms": 208850,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI"
     },
     {
       "added_at": "2026-07-24 08:45:19",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
-        "name": "Morning Diaries EP 1",
-        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
-      },
-      "artists": [
-        {
-          "name": "Airman",
-          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
-        }
-      ],
-      "duration_ms": 191873,
-      "name": "Take A Nap",
-      "url": "https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
         "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt.4",
         "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 234744,
       "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
       "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
+        "name": "Morning Diaries EP 1",
+        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        }
+      ],
+      "duration_ms": 191873,
+      "name": "Take A Nap",
+      "url": "https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn"
     },
     {
       "added_at": "2026-07-24 08:45:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "While You're Sleeping, I Am",
-      "url": "https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
         "name": "Made In Heart",
         "url": "https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 160346,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "While You're Sleeping, I Am",
+      "url": "https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf"
     },
     {
       "added_at": "2026-07-24 08:45:19",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
+        "name": "\uc138\ub808\ub098\ub370 Serenade",
+        "url": "https://open.spotify.com/album/0HDFUM2tbky2lkTiLfT298"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "\uc138\ub808\ub098\ub370 Serenade",
+      "url": "https://open.spotify.com/track/3Hhe3S1wl9E5sTGjqqKBoV"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
         "name": "Echo (feat .JUKJAE)",
         "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 192586,
       "name": "Echo (feat. JUKJAE)",
       "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
-        "name": "\uc138\ub808\ub098\ub370 Serenade",
-        "url": "https://open.spotify.com/album/0HDFUM2tbky2lkTiLfT298"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "\uc138\ub808\ub098\ub370 Serenade",
-      "url": "https://open.spotify.com/track/3Hhe3S1wl9E5sTGjqqKBoV"
     },
     {
       "added_at": "2026-07-24 08:45:19",

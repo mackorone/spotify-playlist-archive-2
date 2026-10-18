@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,815 likes - 47 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,835 likes - 47 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 30 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 |
 | 31 | [Porsche](https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:52 |
 | 32 | [Alone \(feat\. Bella Shmurda\)](https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:24 |
-| 33 | [Dealer](https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 2:26 |
-| 34 | [Akube](https://open.spotify.com/track/4OAtzMeRzHT7Ns6PEFJHKR) | [D£JAVU](https://open.spotify.com/artist/1Ig25E3GH7TovSosx5Gf4F), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Akube](https://open.spotify.com/album/7JYM4nzVM01kKolPIprB8s) | 2:16 |
+| 33 | [Akube](https://open.spotify.com/track/4OAtzMeRzHT7Ns6PEFJHKR) | [D£JAVU](https://open.spotify.com/artist/1Ig25E3GH7TovSosx5Gf4F), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Akube](https://open.spotify.com/album/7JYM4nzVM01kKolPIprB8s) | 2:16 |
+| 34 | [Dealer](https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 2:26 |
 | 35 | [Motivate](https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:41 |
 | 36 | [Play \(feat\. Fave\)](https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:44 |
 | 37 | [Escober](https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP) | [HypemanDJ Pablo](https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Escober](https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK) | 3:03 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 46 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 |
 | 47 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 
-Snapshot ID: `as7GAAAAAACIPU6Ckp54mUjn3rPELg2w`
+Snapshot ID: `atAXgAAAAAALIGn7DM4Le4cYt7tEkcl8`

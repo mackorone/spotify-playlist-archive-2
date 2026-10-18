@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1389,
+  "num_followers": 1399,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHPAsmT98W610JgTu7NUAwZ6De8BNS",
+  "snapshot_id": "AAAHPsEsjzW49vzX80ni5tch0hMl4Hzz",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -811,6 +811,38 @@
       "duration_ms": 200000,
       "name": "The Way",
       "url": "https://open.spotify.com/track/6oP9yeVKCl1cCqS7ue6lkB"
+    },
+    {
+      "added_at": "2026-10-17 16:52:54",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV"
+      },
+      "artists": [
+        {
+          "name": "Half Open Tales",
+          "url": "https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul"
+    },
+    {
+      "added_at": "2026-10-17 16:57:22",
+      "album": {
+        "name": "En tus ojos",
+        "url": "https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL"
+      },
+      "artists": [
+        {
+          "name": "Leandro Rebolini",
+          "url": "https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI"
+        }
+      ],
+      "duration_ms": 251615,
+      "name": "En tus ojos",
+      "url": "https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC"
     }
   ],
   "unique_name": "Unsigned Rock",

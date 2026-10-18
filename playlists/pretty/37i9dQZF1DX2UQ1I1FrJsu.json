@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 156714,
+  "num_followers": 156780,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-10-16 04:01:44",
       "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
+      "added_at": "2026-10-16 04:01:44",
+      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2026-10-16 04:01:44",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
-    },
-    {
-      "added_at": "2026-10-16 04:01:44",
-      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-10-16 04:01:44",
       "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 174282,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+      "duration_ms": 229853,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
     },
     {
       "added_at": "2026-10-16 04:01:44",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-10-16 04:01:44",
       "album": {
-        "name": "Kingdoms In Colour",
-        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 225910,
-      "name": "Glasshouses",
-      "url": "https://open.spotify.com/track/7isVqPzG3R5ni6IM4YG0sv"
-    },
-    {
-      "added_at": "2026-10-16 04:01:44",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -1615,34 +1599,18 @@
     {
       "added_at": "2026-10-16 04:01:44",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+        "name": "Kingdoms In Colour",
+        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
         }
       ],
-      "duration_ms": 176599,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
-    },
-    {
-      "added_at": "2026-10-16 04:01:44",
-      "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 182607,
-      "name": "From",
-      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
+      "duration_ms": 225910,
+      "name": "Glasshouses",
+      "url": "https://open.spotify.com/track/7isVqPzG3R5ni6IM4YG0sv"
     },
     {
       "added_at": "2026-10-16 04:01:44",
@@ -1663,6 +1631,22 @@
     {
       "added_at": "2026-10-16 04:01:44",
       "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 176599,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
+    },
+    {
+      "added_at": "2026-10-16 04:01:44",
+      "album": {
         "name": "Mystery Lady (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 228453,
       "name": "Mystery Lady (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD"
+    },
+    {
+      "added_at": "2026-10-16 04:01:44",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 182607,
+      "name": "From",
+      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
     },
     {
       "added_at": "2026-10-16 04:01:44",

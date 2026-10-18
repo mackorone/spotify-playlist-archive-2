@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,287 likes - 36 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,283 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 22 | [Kiss Me](https://open.spotify.com/track/761wHjP1czD9swYSbsQzrv) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [For Your Consideration](https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX) | 3:21 |
 | 23 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 |
 | 24 | [Eve, Psyche & the Bluebeard’s wife \- Rina Sawayama Remix](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 |
-| 25 | [Free Woman \- Rina Sawayama & Clarence Clarity Remix](https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:53 |
-| 26 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
+| 25 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
+| 26 | [Free Woman \- Rina Sawayama & Clarence Clarity Remix](https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:53 |
 | 27 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
 | 28 | [Where U Are](https://open.spotify.com/track/30tie454RN2304xzAu5Din) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Where U Are](https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ) | 3:52 |
 | 29 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/0wr4RfIkIAEipo6tGw6zKa) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:02 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 35 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
 | 36 | [Flicker](https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Flicker](https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx) | 3:00 |
 
-Snapshot ID: `as7GAAAAAACsxZS7XuDQBLjscOnXeO84`
+Snapshot ID: `atFpAAAAAACVp2mVI2DXyU8OVdXpaaYM`

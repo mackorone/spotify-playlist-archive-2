@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKkq179lPFcxQDLgktCMa5rJgpsI31",
+  "snapshot_id": "AAAKlcCjwYwHg0mViFT8X2cBjvGGB+3i",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -63435,7 +63435,7 @@
     {
       "added_at": "2025-12-29 17:42:01",
       "album": {
-        "name": "Qu\u00e9 te Pas\u00f3",
+        "name": "Qu\u00e9 Te Pas\u00f3",
         "url": "https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0"
       },
       "artists": [
@@ -63445,7 +63445,7 @@
         }
       ],
       "duration_ms": 211022,
-      "name": "Qu\u00e9 te Pas\u00f3",
+      "name": "Qu\u00e9 Te Pas\u00f3",
       "url": "https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm"
     },
     {
@@ -80699,6 +80699,54 @@
       "duration_ms": 258288,
       "name": "Hoi Hoi Helsinki - 2.0 Version",
       "url": "https://open.spotify.com/track/6mSQWVTLFzvKKplsx2qZkP"
+    },
+    {
+      "added_at": "2026-10-17 17:46:41",
+      "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp"
+      },
+      "artists": [
+        {
+          "name": "Corrupt P1cture",
+          "url": "https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN"
+        }
+      ],
+      "duration_ms": 142025,
+      "name": "Perspicaz",
+      "url": "https://open.spotify.com/track/06ARSnSxReS8ET4ZNJtbr4"
+    },
+    {
+      "added_at": "2026-10-17 17:53:31",
+      "album": {
+        "name": "Menyerah Pada Waktu",
+        "url": "https://open.spotify.com/album/0kAjLI3QAW58292SFweHHx"
+      },
+      "artists": [
+        {
+          "name": "Eklyra",
+          "url": "https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V"
+        }
+      ],
+      "duration_ms": 214538,
+      "name": "Menyerah Pada Waktu",
+      "url": "https://open.spotify.com/track/4oiVwIwGKYgwdk8vG0Uyr5"
+    },
+    {
+      "added_at": "2026-10-17 17:56:27",
+      "album": {
+        "name": "Unmade",
+        "url": "https://open.spotify.com/album/6MKzwexbNEDlSZFm2tiaZL"
+      },
+      "artists": [
+        {
+          "name": "Ascrail",
+          "url": "https://open.spotify.com/artist/1041Yy0Ao1YWSBj0gD1hHG"
+        }
+      ],
+      "duration_ms": 201637,
+      "name": "Unmade",
+      "url": "https://open.spotify.com/track/3kfYHxdBmhXdEvpn9vXCxE"
     }
   ],
   "unique_name": "playlist spotify free",

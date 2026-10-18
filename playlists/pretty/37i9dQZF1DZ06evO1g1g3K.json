@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7958,
+  "num_followers": 7966,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABPK6By0qjhp7OJfH0nLQNr",
+  "snapshot_id": "atFpAAAAAACWmrlLak+neUHZhsUf+2CO",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LK99+ DELUXE",
         "url": "https://open.spotify.com/album/5hUAbUCIJngR91GstQaBNZ"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 225209,
       "name": "Sleepwalking (+ Durand Bernarr)",
       "url": "https://open.spotify.com/track/3lHS33KwhJWbDNyB3DNUwu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
     },
     {
       "added_at": null,
@@ -287,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus Glow (Deluxe)",
-        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
       "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 189813,
-      "name": "Le D\u00e9part - Feat. Durand Bernarr",
-      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
+      "duration_ms": 230517,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
     },
     {
       "added_at": null,
@@ -327,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+        "name": "Lotus Glow (Deluxe)",
+        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
       },
       "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 230517,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
+      "duration_ms": 189813,
+      "name": "Le D\u00e9part - Feat. Durand Bernarr",
+      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 369998,
-      "name": "GENEROUS",
-      "url": "https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW"
+      "duration_ms": 270686,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 270686,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
+      "duration_ms": 369998,
+      "name": "GENEROUS",
+      "url": "https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW"
     },
     {
       "added_at": null,
@@ -671,86 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Fail Are We Still Cool?",
-        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
-      },
-      "artists": [
-        {
-          "name": "Patrick Paige II",
-          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
-        },
-        {
-          "name": "Allen Love",
-          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 229558,
-      "name": "Whisper (Want My Luv)",
-      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 207947,
-      "name": "Neutral",
-      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 239815,
-      "name": "H.I. (feat. Devin Tracy)",
-      "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 282219,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound Check",
         "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
@@ -783,22 +703,98 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip 2 Hip Hypnosis",
-        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
         {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 239815,
+      "name": "H.I. (feat. Devin Tracy)",
+      "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Fail Are We Still Cool?",
+        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Paige II",
+          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
+        },
+        {
+          "name": "Allen Love",
+          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 229558,
+      "name": "Whisper (Want My Luv)",
+      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Hip 2 Hip Hypnosis",
-      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
+      "duration_ms": 282219,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 207947,
+      "name": "Neutral",
+      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -827,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -859,22 +839,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "Hip 2 Hip Hypnosis",
+        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Hip 2 Hip Hypnosis",
+      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Metta",
-          "url": "https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Lil Bit (feat. METTA)",
-      "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
+      "duration_ms": 238000,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
     },
     {
       "added_at": null,
@@ -899,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Metta",
+          "url": "https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
+      "duration_ms": 222173,
+      "name": "Lil Bit (feat. METTA)",
+      "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

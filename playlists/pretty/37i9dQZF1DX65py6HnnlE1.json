@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 772535,
+  "num_followers": 772628,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Morire Bebiendo",
-      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 174573,
       "name": "Shorty, Shorty",
       "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Morire Bebiendo",
+      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Amor Bonito",
-        "url": "https://open.spotify.com/album/3PUYcU1iMJDG30dwHgFDsX"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Hombre No Muere de Pena",
-      "url": "https://open.spotify.com/track/4vVvPFs0eszYfWHO2Qnzau"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Dosis De Amor",
         "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 205480,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Amor Bonito",
+        "url": "https://open.spotify.com/album/3PUYcU1iMJDG30dwHgFDsX"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Hombre No Muere de Pena",
+      "url": "https://open.spotify.com/track/4vVvPFs0eszYfWHO2Qnzau"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Pura Bachata",
-        "url": "https://open.spotify.com/album/5Ay43wmi8TkeMPIgF3jUIp"
+        "name": "The First (Remastered)",
+        "url": "https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR"
       },
       "artists": [
         {
-          "name": "Marino Perez",
-          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        },
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
         }
       ],
-      "duration_ms": 184579,
-      "name": "No la Quiero Ver Con Otro",
-      "url": "https://open.spotify.com/track/4IFtTcUDafDN2ZjlH3rISG"
+      "duration_ms": 263693,
+      "name": "Me Puedo Matar - Remastered",
+      "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "The First (Remastered)",
-        "url": "https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR"
+        "name": "Pura Bachata",
+        "url": "https://open.spotify.com/album/5Ay43wmi8TkeMPIgF3jUIp"
       },
       "artists": [
         {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "Marino Perez",
+          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
         }
       ],
-      "duration_ms": 263693,
-      "name": "Me Puedo Matar - Remastered",
-      "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
+      "duration_ms": 184579,
+      "name": "No la Quiero Ver Con Otro",
+      "url": "https://open.spotify.com/track/4IFtTcUDafDN2ZjlH3rISG"
     },
     {
       "added_at": "2024-06-04 19:13:44",

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,065 songs - 6 day 17 hr 17 min
+3,068 songs - 6 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1603,6 +1603,7 @@
 | [Luminous Locus](https://open.spotify.com/track/6eDkITRQ6cXbPjAPpEocGp) | [nomadogma](https://open.spotify.com/artist/4IcelD3jZeFRfxXyFAwKtq) | [Luminous Locus](https://open.spotify.com/album/2EYt75eUiPQxlqP5mercMo) | 3:09 | 2026-10-04 |  |
 | [Lustful Grave](https://open.spotify.com/track/0lEev4RX1l5v7ocDQPNs3k) | [SelfHarMonica](https://open.spotify.com/artist/3wxbbLOVWoUrsmJ73g1rdP) | [Lustful Grave](https://open.spotify.com/album/1sVTVL3Zq5dvqZ8BSDQc5A) | 4:20 | 2025-11-03 | 2025-12-07 |
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2025-12-11 | 2026-01-15 |
+| [Luz](https://open.spotify.com/track/3Iiq5LNH4stfpe8m4TTgAU) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 2:54 | 2026-10-17 |  |
 | [Lying To Myself](https://open.spotify.com/track/5bt49rYHzV1tAzec6Xqe6J) | [Ellie Carter](https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6), [Chris Fowler](https://open.spotify.com/artist/2rSGFU8JTjc04K6a4AVYO8) | [Legendary Encounter](https://open.spotify.com/album/267hiOLootzd1p08B9ibjs) | 2:38 | 2026-03-10 | 2026-04-11 |
 | [Lying To Myself \- Acoustic Version](https://open.spotify.com/track/24BTPSIntJlEKhMSu92aZ3) | [Chris Fowler](https://open.spotify.com/artist/2rSGFU8JTjc04K6a4AVYO8), [Ellie Carter](https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6) | [Lying To Myself \(Acoustic Version\)](https://open.spotify.com/album/1R0xvTmVMyyOnjn08KhWL6) | 3:02 | 2026-05-18 | 2026-06-19 |
 | [Lymantria](https://open.spotify.com/track/4hpzu2oeDjSy56592SSiaU) | [Faye Ophelia](https://open.spotify.com/artist/6MNLBbT6ctnLmJLuypt7pz), [SAVFAE](https://open.spotify.com/artist/4g1jIyfALcO423JdY5OziP) | [Lymantria](https://open.spotify.com/album/5dWXiG1SsY7feeoS95Haj8) | 3:17 | 2025-11-02 | 2025-12-03 |
@@ -1648,6 +1649,7 @@
 | [Maybe I Do](https://open.spotify.com/track/4hzE0W20NNc7sosHqOfSl2) | [Alice Curly](https://open.spotify.com/artist/5eoy04FuLrE1vj5MCVj7xH) | [Maybe I Do](https://open.spotify.com/album/7nZEwB7e9Eq1TpDhR77ATb) | 3:22 | 2026-03-27 | 2026-04-28 |
 | [Maybe This Time](https://open.spotify.com/track/0Btok8fuH53WscccgEnav6) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Maybe This Time](https://open.spotify.com/album/66VMQdFAOE1xjVEEWfipaT) | 3:29 | 2026-04-27 | 2026-05-28 |
 | [Maze](https://open.spotify.com/track/0QHsPYIUCN8PClhqz5P99A) | [ProMis](https://open.spotify.com/artist/1CiwgTep2mdAPyEfNkmzmt) | [Maze](https://open.spotify.com/album/4TubSH5hLrKu6bmrML4uiI) | 2:42 | 2026-09-24 |  |
+| [MBTAM](https://open.spotify.com/track/1cnaFPJRxqXW5X0TccsoZp) | [Reject Madrigal](https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu), [Midas Maximus](https://open.spotify.com/artist/6gGYY4919eT5VnTW9glmW3) | [MBTAM](https://open.spotify.com/album/17Zwo5lYl2P99qpC4Ff5l3) | 2:26 | 2026-10-17 |  |
 | [Me Myself and I](https://open.spotify.com/track/3PiWa3LqrZlGFUXTvKN9Nj) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [Me Myself and I](https://open.spotify.com/album/1MghVo6hjKuS53251zyMnB) | 2:40 | 2026-07-03 | 2026-08-05 |
 | [Me, Myself & I](https://open.spotify.com/track/7emovHVU7el54MsnX79ver) | [XeeJay](https://open.spotify.com/artist/0pS6tTVzieifr1Cy026Sam) | [Me, Myself & I](https://open.spotify.com/album/2EljTrIfv2K3a8Z210waVv) | 4:44 | 2026-02-20 | 2026-03-25 |
 | [Meant To Be](https://open.spotify.com/track/119I7wxKgqAsqbgkuxsy8X) | [Back In Time](https://open.spotify.com/artist/5Y6JvZL30qZTqKVfRIvpof), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Meant To Be](https://open.spotify.com/album/69LI8nJ1dtsvxYnQ3PmvOU) | 2:59 | 2026-04-29 | 2026-05-30 |
@@ -2165,6 +2167,7 @@
 | [Riptide](https://open.spotify.com/track/5DrPrauSDeFUXD4oMPPfzz) | [Jarrod Cooney](https://open.spotify.com/artist/7nf6t9Cqj7t6UmI5THQwlZ), [Julia Loveless](https://open.spotify.com/artist/4n2IIRwQR3XI4B9V5RT77o) | [Riptide](https://open.spotify.com/album/7jowSYoIdWvSD1k11EBNao) | 2:56 | 2026-03-24 | 2026-04-25 |
 | [Rise](https://open.spotify.com/track/6Rn7XvdISRVVESW8b8qmKo) | [Kate Stanford](https://open.spotify.com/artist/4BVwjeV33enWxFuRSwMNpk) | [Rise](https://open.spotify.com/album/2hJ7Prd23HfcF3KI2HQc2y) | 3:17 | 2026-05-16 | 2026-06-17 |
 | [Rise](https://open.spotify.com/track/6jsNILebZLZNSqwKgID705) | [Norrixx](https://open.spotify.com/artist/6J7sXVIccVsPbMe7S7oPmd) | [Rise](https://open.spotify.com/album/1pMXgCEy4wluLHfDA6lLA2) | 4:48 | 2025-12-09 | 2026-01-15 |
+| [Rise Like Fire](https://open.spotify.com/track/2E1ghm4qnzBxseGpGgxcyq) | [Angie van Hunnik](https://open.spotify.com/artist/0EJCU9mvdYgJ3sztjlZDcP), [Ginny Luke](https://open.spotify.com/artist/1cFYMaZQ8T2zd16EqBvHLy) | [Rise Like Fire](https://open.spotify.com/album/4Vj3XPXOOOpzY3Vjei7fas) | 3:15 | 2026-10-17 |  |
 | [Rise Up](https://open.spotify.com/track/1VeoY0VLCW1GvHMQyMJQHq) | [Camille](https://open.spotify.com/artist/5y7UokHHwyipNDcowuXKT3) | [Rise Up](https://open.spotify.com/album/5vutMXZD0qSFN6xxCS4iOS) | 3:01 | 2026-02-23 | 2026-03-26 |
 | [Rise Up](https://open.spotify.com/track/4S0FVu3XuZcs0AXyKz55py) | [Souless Addiction](https://open.spotify.com/artist/33Ne18PInfFpqhrwt5BGu4) | [Rise Up](https://open.spotify.com/album/5s0WubEe0jKCHjamNvUk2i) | 3:01 | 2026-04-22 | 2026-05-24 |
 | [Rising High](https://open.spotify.com/track/6fTaXFBbFgWuaNUNrNwYLJ) | [Dany Aureo](https://open.spotify.com/artist/14FZ6U8NdBWFoVMr1IRcP2) | [Rising High](https://open.spotify.com/album/7rCIyTaiA7vXRu9hBz9bI6) | 4:35 | 2026-04-15 | 2026-05-16 |

@@ -4375,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205738,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/7fI6oGb9FBWHru0W4sI1Ca"
+    },
+    {
+      "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
       },
@@ -18665,6 +18683,40 @@
     },
     {
       "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -20098,6 +20150,24 @@
       "duration_ms": 273278,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
+    },
+    {
+      "album": {
+        "name": "BLANCO NEMESIS",
+        "url": "https://open.spotify.com/album/2r2FNHpDrYUD8A7j5yZvyo"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147976,
+      "name": "GDG",
+      "url": "https://open.spotify.com/track/02QtmORyVRyo2uB34OjZYN"
     },
     {
       "album": {
@@ -23836,6 +23906,24 @@
       "duration_ms": 167746,
       "name": "J'arr\u00eate",
       "url": "https://open.spotify.com/track/4DBqYAG3eXWFulEs7FR8WN"
+    },
+    {
+      "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
     },
     {
       "album": {
@@ -30032,7 +30120,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -35634,7 +35722,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 153779,
       "name": "m\u00e9li-m\u00e9lo",
       "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
@@ -39198,7 +39286,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 141266,
       "name": "PARLU",
       "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
@@ -42076,7 +42164,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"

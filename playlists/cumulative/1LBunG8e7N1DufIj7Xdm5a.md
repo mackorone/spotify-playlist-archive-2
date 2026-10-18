@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,891 songs - 11 day 1 hr 24 min
+4,894 songs - 11 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2637,6 +2637,7 @@
 | [Mentir](https://open.spotify.com/track/1t879TEk3XrzWpMFfIuBiq) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR) | [Buscando Salidas](https://open.spotify.com/album/3pkT6ZAnN5DCO9Q8vlA9e4) | 3:13 | 2025-07-25 |  |
 | [Mentre il mondo dorme](https://open.spotify.com/track/7bRvmyZJzWzifAkcbt6Gz8) | [Solary](https://open.spotify.com/artist/0klksJbbpQWOEM47rfwg1u) | [Mentre il mondo dorme](https://open.spotify.com/album/5b3RdVvvhVVpZE64wJJScS) | 3:16 | 2025-06-08 |  |
 | [Menu Chahiye Tu](https://open.spotify.com/track/6CybCxXvpohYEOkd8265J2) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 4:39 | 2025-07-02 |  |
+| [Menyerah Pada Waktu](https://open.spotify.com/track/4oiVwIwGKYgwdk8vG0Uyr5) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Menyerah Pada Waktu](https://open.spotify.com/album/0kAjLI3QAW58292SFweHHx) | 3:34 | 2026-10-17 |  |
 | [Mercy](https://open.spotify.com/track/3qxyav9tfrnZkqy64gSCMR) | [Taylor Torch](https://open.spotify.com/artist/1UITVqtcAP6AQFi4uQyBZR), [Musa Kiama](https://open.spotify.com/artist/2HaOR22reVpfXDk5N4sYVw) | [Mercy](https://open.spotify.com/album/0dATv54UIuQUf7uLAKrc4K) | 3:14 | 2025-03-03 |  |
 | [Mere Hathon Mein](https://open.spotify.com/track/3gDPkpNUIGxxpmbGXBpT3Y) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Mere Hathon Mein](https://open.spotify.com/album/7whGu36E2i44ZLfs7wd9uj) | 2:22 | 2025-12-19 |  |
 | [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 | 2026-04-12 |  |
@@ -3235,6 +3236,7 @@
 | [Persi nel Ritmo](https://open.spotify.com/track/69iIP2OpNaWHvz4uQEe4Jq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:08 | 2025-09-12 |  |
 | [Personality](https://open.spotify.com/track/4d6opMFuuaU5YjfkSqpYV7) | [Retroviral](https://open.spotify.com/artist/2bemF0p9xqlEuiClwuECVl) | [Personality](https://open.spotify.com/album/3hNiSRcbKZ8y5tkoBKyC5c) | 3:15 | 2026-09-19 |  |
 | [Personne n’est comme toi](https://open.spotify.com/track/3e9ZUp2zCG7rIjydxxU0fB) | [Carlo Furii](https://open.spotify.com/artist/79WFeSImI8x1pypmrMxTZM), [François Clavel](https://open.spotify.com/artist/6sbqnTkiftUTU1OxZ0PSGa) | [Personne n’est comme toi](https://open.spotify.com/album/3bgSwm3MR8gM2OWnGM5z4G) | 3:51 | 2025-07-01 |  |
+| [Perspicaz](https://open.spotify.com/track/06ARSnSxReS8ET4ZNJtbr4) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:22 | 2026-10-17 |  |
 | [Petrol Fumes](https://open.spotify.com/track/66BBf7Uf3UpyhLFrpnCAmk) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [Emergency Telephone](https://open.spotify.com/album/5lbnFvJgYtqN9UPCVPQu2U) | 4:10 | 2025-11-05 |  |
 | [Pezzi](https://open.spotify.com/track/1J0hPf5fcVogT9ckCRnx8Q) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [Pezzi](https://open.spotify.com/album/2D4RMLYVc9i3FFVuKPafhm) | 3:20 | 2025-06-01 |  |
 | [Phenomenal](https://open.spotify.com/track/4LQ34ZWyUOo4hxeWdQjE18) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Phenomenal](https://open.spotify.com/album/5IJroVhxaVHtmUBa2B8CjZ) | 3:39 | 2025-10-04 |  |
@@ -3347,7 +3349,7 @@
 | [Quietly Grateful \(Piano Ballad\)](https://open.spotify.com/track/1mG0fAko8dkopygHmCe9Sd) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:10 | 2026-04-29 |  |
 | [Quietly Grateful \(Piano Ballad\) ana's loveone](https://open.spotify.com/track/79Jkv8rYadCAueiQjZCoTf) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:18 | 2026-04-29 |  |
 | [Qué bonita era La Habana](https://open.spotify.com/track/02AZmqZRqgzs0v1E7H4LpB) | [CAPITÁN MOSCÚ](https://open.spotify.com/artist/2lsoOFuNDdLyToS0R3M05p) | [Qué bonita era La Habana](https://open.spotify.com/album/7LnZ1gBKDGZwKFs5dSmRpj) | 4:10 | 2025-06-25 |  |
-| [Qué te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 | 2025-12-29 |  |
+| [Qué Te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué Te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 | 2025-12-29 |  |
 | [R.I.P.](https://open.spotify.com/track/23i0tPsziYDQHC7xjMaQzb) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 4:26 | 2026-05-15 |  |
 | [Rabbia Dolce](https://open.spotify.com/track/7xLNh8pMM8z1vd9A47xn34) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 3:02 | 2025-09-14 |  |
 | [Rabbia Dolce \(another\)](https://open.spotify.com/track/3wEhOGps9QE2vlTRIRKkeQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 2:25 | 2025-09-14 |  |
@@ -4492,6 +4494,7 @@
 | [Unforgiving Nights](https://open.spotify.com/track/6fMsIOzZvMal7Va9DVK3YE) | [Ev Kalo](https://open.spotify.com/artist/0kuWGBFMMa8a6jJeFAZwbq) | [Unforgiving Nights](https://open.spotify.com/album/6rAssQcROkNxsZrDfqJsYP) | 3:38 | 2026-07-21 |  |
 | [Ungrateful](https://open.spotify.com/track/7c26Ou3plUtEL0rysjH3qd) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:38 | 2025-06-05 |  |
 | [Unita' Di Produzione](https://open.spotify.com/track/5QvEbD6tQAF74KoTy2JuSg) | [C.S.I.](https://open.spotify.com/artist/64AqIy8bl79mftwUhh6TOh) | [Tabula Rasa Elettrificata](https://open.spotify.com/album/0VQoqsqNipNqDijK9Z2X8w) | 5:34 | 2025-11-12 |  |
+| [Unmade](https://open.spotify.com/track/3kfYHxdBmhXdEvpn9vXCxE) | [Ascrail](https://open.spotify.com/artist/1041Yy0Ao1YWSBj0gD1hHG) | [Unmade](https://open.spotify.com/album/6MKzwexbNEDlSZFm2tiaZL) | 3:21 | 2026-10-17 |  |
 | [UNO DOS TRES](https://open.spotify.com/track/4Mc5YJxzaZ7cp9blMtLGU7) | [N i G H T S](https://open.spotify.com/artist/1qkiRLdru6TQdeTX0PI1CP) | [Margarita](https://open.spotify.com/album/4YHG0Qi5K7IS8MRxrg66Hr) | 1:59 | 2025-05-16 |  |
 | [Unreal Pop Fantasy](https://open.spotify.com/track/0y6NIEdhBauBaKoiTyOmUg) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 2:44 | 2025-09-19 |  |
 | [Unstoppable](https://open.spotify.com/track/7lF8Va3ilPS4CMv9ihv9g9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Aggressive and Electric](https://open.spotify.com/album/4fU6piQ6RsYHW50LXKA2UL) | 2:02 | 2025-09-19 |  |

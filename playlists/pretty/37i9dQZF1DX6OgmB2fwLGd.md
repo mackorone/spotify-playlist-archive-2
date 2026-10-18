@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > greatest.album.of.all.time\_hyper\_sleaze.electro\_glitch\_☆▽☆\_power\_\[FINAL\]\_\[REAL\]\_\_coverartist.sophiastel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370,192 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,126 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

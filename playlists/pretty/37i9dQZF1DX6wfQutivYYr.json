@@ -1,12 +1,12 @@
 {
   "description": "Marra e Gu\u00e8 in cover della playlist con tutte le hit \ud83d\udd25",
-  "num_followers": 1706853,
+  "num_followers": 1706670,
   "original_name": "Hot Hits Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP7Coli1EFm3vfQQTkFNWt/JRUVX",
+  "snapshot_id": "AAAAAN4iWFUWvj3VNSjn7OVIwjEgM80N",
   "tracks": [
     {
       "added_at": "2026-10-15 22:02:54",
@@ -267,6 +267,26 @@
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
+    },
+    {
+      "added_at": "2026-10-17 07:38:04",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "NON SEI PI\u00d9 TU (feat. Lazza)",
+      "url": "https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny"
     },
     {
       "added_at": "2026-10-15 22:02:54",
@@ -555,22 +575,6 @@
     {
       "added_at": "2026-10-15 22:02:54",
       "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CANZONE D'AMORE",
-      "url": "https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc"
-    },
-    {
-      "added_at": "2026-10-15 22:02:54",
-      "album": {
         "name": "Una bara per due",
         "url": "https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7"
       },
@@ -639,6 +643,22 @@
     {
       "added_at": "2026-10-15 22:02:54",
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CANZONE D'AMORE",
+      "url": "https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc"
+    },
+    {
+      "added_at": "2026-10-15 22:02:54",
+      "album": {
         "name": "SINCERO!",
         "url": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI"
       },
@@ -683,22 +703,6 @@
       "duration_ms": 172714,
       "name": "SWAG MUSIC",
       "url": "https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4"
-    },
-    {
-      "added_at": "2026-10-15 22:02:54",
-      "album": {
-        "name": "WINNER",
-        "url": "https://open.spotify.com/album/7l5EaoBmfnW0Fy2zWERCwt"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 185229,
-      "name": "WINNER",
-      "url": "https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq"
     },
     {
       "added_at": "2026-10-15 22:02:54",

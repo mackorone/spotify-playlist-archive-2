@@ -4,12 +4,13 @@
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 15 min
+63 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(If I Could Climb\) The Walls of the Bottle](https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 2:15 | 2026-05-02 |  |
 | [\(She Finally Crossed Over\) Love's Cheatin' Line](https://open.spotify.com/track/6cElDHmiZe35NUwCw1ALou) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 4:07 | 2026-08-26 | 2026-08-27 |
+| [A Million Reasons](https://open.spotify.com/track/64BYhPaU7Tj5gFZ6sSAyUQ) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Million Reasons](https://open.spotify.com/album/1bfjEyZsT3daZv9quo6XMo) | 3:49 | 2026-10-18 |  |
 | [A Sad Country Song](https://open.spotify.com/track/3vYdYMJNg9bSmBWAsdZliY) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 2:22 | 2026-05-02 |  |
 | [Ain't Worth the Powder](https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:12 | 2026-05-02 |  |
 | [Another Pretty Country Song](https://open.spotify.com/track/3ftt7udG1maQvpSTzzb0Ra) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:19 | 2026-05-02 |  |
@@ -48,7 +49,7 @@
 | [Revenge](https://open.spotify.com/track/1TEFS1ROLeWKVShocGy8Vw) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 2:29 | 2026-05-02 |  |
 | [Ride 'Em Cowboy](https://open.spotify.com/track/3WYx2qPwxhtSP1vKTEpRyg) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:34 | 2026-05-02 |  |
 | [Ride Me Down Easy](https://open.spotify.com/track/54J5zUIelP4tPksfGSb1De) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 3:09 | 2026-08-23 |  |
-| [Satisfied Mind](https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 4:26 | 2026-08-26 |  |
+| [Satisfied Mind](https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 4:26 | 2026-08-26 | 2026-10-18 |
 | [She Used to Love Me a Lot](https://open.spotify.com/track/5JELJ6SX5zeGRQWrFp2m3z) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:03 | 2026-05-02 |  |
 | [Son of the South](https://open.spotify.com/track/3T1wesBkJDrO3atfJJg0gk) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Son of the South](https://open.spotify.com/album/3PcXCSl8cdoDLspkdG0oKm) | 3:52 | 2026-05-02 |  |
 | [Southern Star](https://open.spotify.com/track/6X8awE7FqsGMyZCkH1psD7) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Matter of Life and Death](https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e) | 2:39 | 2026-08-29 |  |

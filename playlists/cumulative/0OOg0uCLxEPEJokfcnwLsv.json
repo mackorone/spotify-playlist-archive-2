@@ -3263,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "En tus ojos",
+        "url": "https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL"
+      },
+      "artists": [
+        {
+          "name": "Leandro Rebolini",
+          "url": "https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251615,
+      "name": "En tus ojos",
+      "url": "https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC"
+    },
+    {
+      "album": {
         "name": "Encoded Message",
         "url": "https://open.spotify.com/album/5zl6g4TatJkS3cjy9CYCMu"
       },
@@ -3390,6 +3408,24 @@
       "duration_ms": 204000,
       "name": "Eye's On You",
       "url": "https://open.spotify.com/track/31GtsNBfMAAgius6RmMWul"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV"
+      },
+      "artists": [
+        {
+          "name": "Half Open Tales",
+          "url": "https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul"
     },
     {
       "album": {

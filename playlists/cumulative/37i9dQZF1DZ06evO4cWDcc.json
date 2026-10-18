@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Magic Boy: The Jimi Hendrix Experience Live At Berkeley [First Show]",
+        "url": "https://open.spotify.com/album/1kvQfnOEYKiU6RYEdRosWi"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257493,
+      "name": "Johnny B. Goode - Live At Berkeley - 1st Show",
+      "url": "https://open.spotify.com/track/3c2JhiszPrDz3G03Dylz0r"
+    },
+    {
+      "album": {
         "name": "Hendrix In The West",
         "url": "https://open.spotify.com/album/0C9zGX5oAjQ87jkSlzXOz1"
       },
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 221360,
       "name": "Things I Used to Do",
       "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"

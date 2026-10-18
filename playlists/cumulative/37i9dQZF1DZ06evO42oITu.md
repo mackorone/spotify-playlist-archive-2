@@ -4,7 +4,7 @@
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-165 songs - 12 hr 29 min
+166 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Cream Of Clapton](https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp) | 4:24 | 2024-03-25 |  |
 | [Knockin' On Heaven's Door \- Live at The Royal Albert Hall](https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Knockin' On Heaven's Door \(Live at The Royal Albert Hall\)](https://open.spotify.com/album/2Vp01eGIEUGBsZfQnIJml7) | 6:11 | 2023-05-18 | 2023-07-21 |
 | [Knocking On Heaven's Door \- Live At Hammersmith Odeon](https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 5:18 | 2022-08-06 |  |
-| [Lay Down Sally](https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:56 | 2022-08-05 |  |
+| [Lay Down Sally](https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:56 | 2022-08-05 | 2026-10-18 |
+| [Lay Down Sally](https://open.spotify.com/track/7KvIISis7A5QHzXrlylnJD) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary](https://open.spotify.com/album/2c0bqDdHYpcyd8eQp55tbO) | 3:56 | 2026-10-18 |  |
 | [Layla \- Acoustic Live](https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Live\)](https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy) | 4:49 | 2022-12-05 |  |
 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:49 | 2022-08-05 | 2022-11-02 |
 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2015 Remaster](https://open.spotify.com/track/3araxDbRmXOwPPiG94HR15) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Forever Man](https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T) | 4:29 | 2022-11-01 | 2022-12-06 |

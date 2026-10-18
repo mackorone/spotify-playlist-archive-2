@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACa9VOrFYJCXixDFNPJZ9tQ",
+  "snapshot_id": "atFpAAAAAAC0cpE13cdjOkC3SpYywUra",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 297026,
-      "name": "Slow Up",
-      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BRIDGE",
         "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 162644,
       "name": "HEAVEN KNOWS ME WELL",
       "url": "https://open.spotify.com/track/5Fhg7tTfr2pl8DTyFdMJpL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 297026,
+      "name": "Slow Up",
+      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Be Good To Me (feat. Seinabo Sey)",
-      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -655,6 +635,42 @@
       "duration_ms": 147360,
       "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
       "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 94250,
+      "name": "Little Me",
+      "url": "https://open.spotify.com/track/2BMFAD4WXacofHYUrRwSUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "Be Good To Me (feat. Seinabo Sey)",
+      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 94250,
-      "name": "Little Me",
-      "url": "https://open.spotify.com/track/2BMFAD4WXacofHYUrRwSUW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 204658,
       "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
       "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 276605,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
     },
     {
       "added_at": null,
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 220906,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+      "duration_ms": 276605,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 293244,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder: Book I",
-        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 160590,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 294227,
       "name": "Dear Simone",
       "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 160590,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
     },
     {
       "added_at": null,

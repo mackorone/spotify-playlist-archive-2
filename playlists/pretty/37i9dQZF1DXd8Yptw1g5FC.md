@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Elif Buse Doğan ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,520 likes - 145 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,513 likes - 145 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 79 | [Gako](https://open.spotify.com/track/2KVnSsMaRPGEGGvnd7hu38) | [Kürşad Kahraman](https://open.spotify.com/artist/6KmaeBAxvfEYozb0DQSkGU) | [Gako](https://open.spotify.com/album/2B9NWcokS1tEyI4Kc2moPz) | 4:42 |
 | 80 | [Ayna Ayna](https://open.spotify.com/track/08NoZ0VMVnDIu4lKxTvyLu) | [Ilgaz Altın](https://open.spotify.com/artist/2Tu3kqfmezkw99AWCkww4P) | [Ayna Ayna](https://open.spotify.com/album/1CsJRTHJpLcNcq5OLW7ATZ) | 4:00 |
 | 81 | [melek sessiz olursa](https://open.spotify.com/track/3y1ssy0I7lwGo98nBTcakz) | [Eza](https://open.spotify.com/artist/2gxy3wuy69FehyTu3iuRl2) | [melek sessiz olursa](https://open.spotify.com/album/6ug0e3BvAIq9DfYJbWMGfI) | 1:31 |
-| 82 | [RARI](https://open.spotify.com/track/2dBnsQQzTmwBwkwx19AIs4) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [yanki](https://open.spotify.com/artist/3B1HMKYVjTy4pS3u9L5Nrm) | [RARI](https://open.spotify.com/album/1DRibGl4p0tijg0QieOXJY) | 2:21 |
+| 82 | [RARI](https://open.spotify.com/track/2dBnsQQzTmwBwkwx19AIs4) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [yanki](https://open.spotify.com/artist/3B1HMKYVjTy4pS3u9L5Nrm) | [RARI](https://open.spotify.com/album/1DRibGl4p0tijg0QieOXJY) | 2:13 |
 | 83 | [Canından Olan Benim](https://open.spotify.com/track/3RklffJg1fZ1uoceMMD9mz) | [Nur Usta](https://open.spotify.com/artist/0yD9MwEqINmCpOigvlYCAL) | [Canından Olan Benim](https://open.spotify.com/album/4B39Y1V38ebD9XeRJ0VtoB) | 3:05 |
 | 84 | [Dupnisa](https://open.spotify.com/track/6L4zhlSTV9EyxIuyJ4Chqp) | [Aykut Bilir](https://open.spotify.com/artist/5fsKMYZo3xGfNHApMTAbab) | [Dupnisa](https://open.spotify.com/album/1mJTtUzPkpIuiKjDwX8NCc) | 5:32 |
 | 85 | [Kâfir](https://open.spotify.com/track/4cba6CDRLtLErOXXX0L4lL) | [Murder King](https://open.spotify.com/artist/1ptBI7xKk38agbcEThoubT) | [Kâfir](https://open.spotify.com/album/1uhdpxyshWzjuhTwfUN0xa) | 4:15 |

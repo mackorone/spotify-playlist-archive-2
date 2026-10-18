@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Fran Gil",
-  "num_followers": 433103,
+  "num_followers": 433097,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
-        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 189276,
-      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
-      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
         "name": "Na M\u00e3o Do Acaso",
         "url": "https://open.spotify.com/album/64hOSYnhRludB66MlnWpZ1"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 218280,
       "name": "Na M\u00e3o Do Acaso",
       "url": "https://open.spotify.com/track/3FuodKkKDIGEYA35q1wFcl"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
+        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 189276,
+      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
+      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -315,18 +315,22 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Sozinho e Bem Acompanhado",
-        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
+        "name": "ContraTempo",
+        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 206445,
-      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
-      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
+      "duration_ms": 192519,
+      "name": "Sinto",
+      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -347,22 +351,18 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "ContraTempo",
-        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
+        "name": "Sozinho e Bem Acompanhado",
+        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 192519,
-      "name": "Sinto",
-      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
+      "duration_ms": 206445,
+      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
+      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
+        "name": "ESTRANGEIRA",
+        "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
+      },
+      "artists": [
+        {
+          "name": "Bruna Foss",
+          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Medo do Escuro",
+      "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
         "name": "BRava",
         "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 220204,
       "name": "Pura Magia",
       "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
-        "name": "ESTRANGEIRA",
-        "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
-      },
-      "artists": [
-        {
-          "name": "Bruna Foss",
-          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Medo do Escuro",
-      "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
+        "name": "Decifrar",
+        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Decifrar",
+      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
         "name": "NORTEAR",
         "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Decifrar",
-        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 162935,
-      "name": "Decifrar",
-      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -847,22 +863,6 @@
       "duration_ms": 171428,
       "name": "L\u00c1 DE CIMA (1999)",
       "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -923,8 +923,8 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
       },
       "artists": [
         {
@@ -932,13 +932,13 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         },
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         }
       ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
       "artists": [
         {
@@ -1024,13 +1024,13 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         },
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Ressaca de saudade",
-        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
+        "name": "Camomila",
+        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
       },
       "artists": [
         {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
         }
       ],
-      "duration_ms": 143999,
-      "name": "Ressaca de saudade",
-      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
+      "duration_ms": 190000,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-10-15 19:28:33",
       "album": {
-        "name": "Camomila",
-        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
+        "name": "Ressaca de saudade",
+        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
       },
       "artists": [
         {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Camomila",
-      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
+      "duration_ms": 143999,
+      "name": "Ressaca de saudade",
+      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -1155,22 +1155,6 @@
       "duration_ms": 245009,
       "name": "Tudo Pode Mudar (Acusticamente)",
       "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
-    },
-    {
-      "added_at": "2026-10-15 19:28:33",
-      "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-10-15 19:28:33",
@@ -1195,6 +1179,22 @@
       "duration_ms": 115422,
       "name": "te quero sem final",
       "url": "https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6"
+    },
+    {
+      "added_at": "2026-10-15 19:28:33",
+      "album": {
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-10-15 19:28:33",

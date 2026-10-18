@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-365 songs - 18 hr 45 min
+370 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Almost Love](https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:32 | 2024-06-07 |  |
 | [Alright](https://open.spotify.com/track/29BUIZWfsjrfezW3kJCMzc) | [Young Summer](https://open.spotify.com/artist/2SlMPjZm02pC12ODpApdhB) | [You Would Have Loved It Here](https://open.spotify.com/album/4Mc1B2k5TjXPLfbCB1oPe5) | 3:24 | 2025-06-05 |  |
 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 | 2024-06-07 |  |
+| [AND THEN SOME](https://open.spotify.com/track/7BD0FyM3N1Czf98oDzYUr4) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [AND THEN SOME](https://open.spotify.com/album/2rcHbOrylMUrzWjblfXigM) | 2:55 | 2026-10-17 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-03 | 2025-09-15 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 | 2025-09-14 |  |
 | [Angry Woman](https://open.spotify.com/track/2HwTo8cwpWKDO21rVrgZo0) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:33 | 2026-02-25 |  |
@@ -53,6 +54,7 @@
 | [Breathe Easy](https://open.spotify.com/track/2iZks8KE7VceyhmfLAxC0d) | [Timothy James Bowen](https://open.spotify.com/artist/1RbbOX8wvGXfEJ9yFqIxM5) | [Steel & Wood](https://open.spotify.com/album/3oxktdCfpj1tbzELUmu1kf) | 4:24 | 2024-06-07 |  |
 | [BRIGHT LIGHTS](https://open.spotify.com/track/40SjNGa1n34Yw0ViAvM6D0) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [BRIGHT LIGHTS](https://open.spotify.com/album/0BFGBjU9udtF025t21EZUV) | 3:02 | 2024-06-07 |  |
 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 | 2024-06-07 |  |
+| [Burn Me Blue](https://open.spotify.com/track/1BNeebWyMKE93hGYHPUGzo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:22 | 2026-10-17 |  |
 | [burning bridges](https://open.spotify.com/track/6d1alyPmQMTn99yk2wlw47) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:38 | 2024-06-07 |  |
 | [buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 | 2024-11-16 | 2025-04-28 |
 | [buttons](https://open.spotify.com/track/6a3PAfOxDpgBv0ZdJuH5Eo) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:07 | 2025-04-27 |  |
@@ -231,6 +233,7 @@
 | [my way](https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:00 | 2026-06-19 |  |
 | [Never Be Lonely \- The Voice Performance](https://open.spotify.com/track/1yFdJalk3I2F3gIEd22iKh) | [Aliyah Moulden](https://open.spotify.com/artist/1aEkjoj4B25OAcJOxp3Jk7) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/27nUKJK5iECqPzyaBHasRU) | 2:43 | 2024-06-07 |  |
 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 | 2024-06-07 |  |
+| [new boyfriend](https://open.spotify.com/track/4vWVLauloxVPBnaOp2xwBF) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [if i don’t love you, who will ?](https://open.spotify.com/album/182b2c2NpXsjlllhW0e1G9) | 2:48 | 2026-10-17 |  |
 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 | 2024-06-07 |  |
 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 | 2024-06-07 |  |
 | [No Time To Talk](https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [No Time To Talk](https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk) | 2:35 | 2025-07-22 | 2025-08-11 |
@@ -271,6 +274,7 @@
 | [QUEEN BED](https://open.spotify.com/track/5DIaxQUR8p0cFx2kfgEJag) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 2:35 | 2026-05-19 |  |
 | [Question Of The Day](https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Question Of The Day](https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1) | 2:31 | 2026-09-19 |  |
 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 | 2024-06-07 |  |
+| [Raised By The Radio \(A Reintroduction\)](https://open.spotify.com/track/0rXEZxeUQKmOPsPCUzvzkr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 2:02 | 2026-10-17 |  |
 | [Reach You](https://open.spotify.com/track/6cwDhGKJn5CsZtC0vvH1kZ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 2:47 | 2025-11-14 |  |
 | [Reasons](https://open.spotify.com/track/4kPV7Tx30Ph0tQ4XrhgYCh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Reasons](https://open.spotify.com/album/5QWym2ctJvsr8pDCS38F9Y) | 2:42 | 2024-06-07 |  |
 | [Rent Money](https://open.spotify.com/track/0orZXs0sFjiPZjKntMdM9j) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 3:10 | 2024-06-07 | 2024-11-22 |
@@ -334,6 +338,7 @@
 | [The Hopefuls](https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [The Diary of Living](https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r) | 3:25 | 2025-05-22 |  |
 | [The Plan](https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o) | 2:47 | 2024-06-07 |  |
 | [the way i used to](https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:15 | 2024-06-07 |  |
+| [The Way She Says Goodbye](https://open.spotify.com/track/3KmU9IV4BEFCJotqfEZzwM) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Leave On A Light](https://open.spotify.com/album/1FOgMp0gqpG3UGcFxxgyhG) | 3:16 | 2026-10-17 |  |
 | [There I Said It](https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [There I Said It](https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6) | 3:47 | 2024-06-07 |  |
 | [There's Nothing Like This](https://open.spotify.com/track/4p7RHmMTWiRy31RbooMcAU) | [Lindsey Ray](https://open.spotify.com/artist/2qkGoWlOdUyYI4L2AqnASY) | [Metamorphosis](https://open.spotify.com/album/4dlY403yAr9pO0YPmR40kw) | 4:01 | 2024-06-07 |  |
 | [Thin Air](https://open.spotify.com/track/6y6a7dT81LLvGAP0k0endw) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Olivia](https://open.spotify.com/album/1symszvJQdIoNR4QhUc6En) | 3:35 | 2024-06-07 |  |

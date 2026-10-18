@@ -4,7 +4,7 @@
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 7 min
+69 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Culpable \- 2012 Remastered Version](https://open.spotify.com/track/3gs5RdZYD7bUJs8eZNUYfU) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 6:35 | 2022-10-26 | 2024-07-20 |
 | [Decadencia](https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:16 | 2022-10-26 |  |
 | [Derivas](https://open.spotify.com/track/0hPi8XhV0LpONFo1u4YK8D) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 1:00 | 2025-01-20 | 2025-10-24 |
-| [Deshacer el mundo](https://open.spotify.com/track/3ZNs9tTAIX7gzA0G7TUTKr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:47 | 2022-10-26 |  |
+| [Deshacer el mundo](https://open.spotify.com/track/3ZNs9tTAIX7gzA0G7TUTKr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:47 | 2022-10-26 | 2026-10-18 |
+| [Deshacer el mundo](https://open.spotify.com/track/5gopj9Y2PnGb0g01XlOSDo) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 4:47 | 2026-10-18 |  |
 | [Despertar](https://open.spotify.com/track/5nteRi2u2D46hYxA79LPqA) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 2:52 | 2022-10-26 |  |
 | [Días de borrasca \(Víspera de resplandores\)](https://open.spotify.com/track/1rxmTXnNZ9PJwVEoyL2kk4) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:25 | 2022-10-26 | 2023-04-14 |
 | [Días De Borrasca \(Víspera De Resplandores\) \(Direct](https://open.spotify.com/track/0UtqkyNb7h29EvFyYxgG3R) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Parasiempre](https://open.spotify.com/album/3hLMxN4If95jDUnv4ebMxI) | 5:57 | 2022-10-26 | 2025-06-05 |
@@ -39,7 +40,7 @@
 | [Fuente esperanza \- Nueva mezcla; 2000 Remastered Version](https://open.spotify.com/track/3O0WzGt1szXy5rv97wv41O) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT), [Phil Manzanera](https://open.spotify.com/artist/7okyczV3XPmMsbCFcuaxPz) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:39 | 2022-10-26 |  |
 | [Hace tiempo](https://open.spotify.com/track/0oEvR5rjD0MccE7eJBiYTs) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 4:29 | 2022-10-26 |  |
 | [Hechizo](https://open.spotify.com/track/4IIXnqZUndaRlMwomxZwIr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:36 | 2022-10-26 |  |
-| [Hologramas](https://open.spotify.com/track/3elCmMsrZX2mCuXVzHKbmJ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:17 | 2024-04-02 |  |
+| [Hologramas](https://open.spotify.com/track/3elCmMsrZX2mCuXVzHKbmJ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:17 | 2024-04-02 | 2026-10-18 |
 | [Héroe de leyenda](https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 | 2022-10-26 |  |
 | [Iberia sumergida](https://open.spotify.com/track/2PKhVCRILDBc7HYSIT9v0u) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 5:21 | 2022-10-26 |  |
 | [Juan Valdivia y Entre dos tierras \- Interludio](https://open.spotify.com/track/4wkROZAHQ0E8L71rnbtlPz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Héroes: Silencio y Rock & Roll](https://open.spotify.com/album/6c3S9kBmbQJ50qQRwKuYuV) | 0:39 | 2022-10-26 |  |
@@ -75,6 +76,6 @@
 | [Sirena varada \- Live Version 1995](https://open.spotify.com/track/3f7xVDw5lev27OLWToRdbS) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Ruido Y La Furia \(Live versión 95\)](https://open.spotify.com/album/0G9guzH3d645sjUiyKjloZ) | 4:40 | 2022-10-26 |  |
 | [Tesoro \- 2012 Remastered Version](https://open.spotify.com/track/3TmK0x5ARV18SQQa1dwreR) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 2:18 | 2022-10-26 |  |
 | [Virus](https://open.spotify.com/track/6vUINIQYy3HylQfwQTrcWL) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 4:36 | 2022-10-26 |  |
-| [¡Rueda, fortuna!](https://open.spotify.com/track/7kghHsp7WnSUtERja6XWcM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:09 | 2023-12-13 | 2023-12-15 |
+| [¡Rueda, fortuna!](https://open.spotify.com/track/7kghHsp7WnSUtERja6XWcM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:09 | 2023-12-13 |  |
 
 \*This playlist was first scraped on 2022-10-27. Prior content cannot be recovered.

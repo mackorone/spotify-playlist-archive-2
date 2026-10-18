@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 47617,
+  "num_followers": 47627,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADK6hcC3eL6q0N82l/zAEsZ",
+  "snapshot_id": "atAXgAAAAACfz2bGEAWtNetb/PDX3ueD",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "VETERAN (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 272364,
       "name": "money & sex",
       "url": "https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "VETERAN (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
     },
     {
       "added_at": null,

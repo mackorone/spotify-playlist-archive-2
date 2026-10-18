@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Heuss L'enfoiré, PLK
 
-810 songs - 1 day 14 hr 48 min
+811 songs - 1 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [2.80](https://open.spotify.com/track/5wGYmTRKyiotQGIJSWHuai) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [2.80](https://open.spotify.com/album/2aQix5cXkJalYzaCVspI7h) | 2:41 | 2026-01-09 | 2026-03-21 |
 | [20 Benz](https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY) | [20 Benz](https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE) | 3:22 | 2024-08-27 | 2024-09-14 |
 | [20 MILLIONS](https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [20 MILLIONS](https://open.spotify.com/album/6QtLNqAjNXxIP5Fo0vJBHV) | 2:33 | 2026-08-07 | 2026-08-15 |
-| [2026](https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [2026](https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM) | 3:38 | 2026-08-28 |  |
+| [2026](https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [2026](https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM) | 3:38 | 2026-08-28 | 2026-10-18 |
 | [21](https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [21](https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk) | 3:04 | 2023-07-28 | 2023-10-28 |
 | [21G](https://open.spotify.com/track/6DC1vL3n8F1s3odAfqFRW8) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [21G](https://open.spotify.com/album/7i5NODLmC1Ng1B9pjHGz9c) | 2:35 | 2025-11-21 | 2026-01-17 |
 | [2319 \(feat\. La Mano 1.9\)](https://open.spotify.com/track/5PhNDsefWhhmeltxSonq0q) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [23 JOURS PLUS TARD](https://open.spotify.com/album/1x7JRkRLh5YBPq00I1bjKQ) | 2:51 | 2026-03-13 | 2026-05-30 |
@@ -228,6 +228,7 @@
 | [Diapason](https://open.spotify.com/track/1dBIUdxZnd3ula7ajkegSt) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Aria](https://open.spotify.com/album/7eyBsX2SGwVPl4ch6GX0xq) | 2:52 | 2026-02-20 | 2026-04-04 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2023-03-03 | 2023-12-09 |
 | [DIEU MERCI](https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 4:20 | 2025-04-04 | 2025-10-25 |
+| [Différent](https://open.spotify.com/track/2FuofUVE32dk7jRIvqirxU) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Différent](https://open.spotify.com/album/7oIYfGvrSN74YK9cKCyxGq) | 2:50 | 2026-10-16 |  |
 | [DIS MOI \(feat\. Nekfeu\)](https://open.spotify.com/track/7siTckJKPsmo26zJ45mBWW) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [MALVADO \- RÉÉDITION](https://open.spotify.com/album/7esGpcVtzjcjCBkd9IGVNb) | 3:24 | 2026-06-26 | 2026-10-01 |
 | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/album/2L4olMUsbxenCeSKa5Yqhf) | 2:36 | 2025-11-14 | 2026-01-17 |
 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 | 2023-11-24 | 2024-04-19 |

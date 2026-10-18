@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "LA Wants Me Dead (From the FX Series The Shards)",
+        "url": "https://open.spotify.com/album/6CebwIrDxn8H0FFKLGC0ui"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113478,
+      "name": "LA Wants Me Dead (From the FX Series The Shards)",
+      "url": "https://open.spotify.com/track/36wEwrLA3aoAwejuMipxLj"
+    },
+    {
+      "album": {
         "name": "Sierra Burgess Is a Loser (Original Netflix Sound Track)",
         "url": "https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI"
       },

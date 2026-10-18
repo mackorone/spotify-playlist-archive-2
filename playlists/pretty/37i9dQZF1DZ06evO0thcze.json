@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58475,
+  "num_followers": 58487,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABogKiNkUqdpfQKefor7+E1",
+  "snapshot_id": "atAXgAAAAAAMmmWr5yMyy35XgTdWtUaE",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,22 @@
       "duration_ms": 245411,
       "name": "Tenerte Cerquita De Mi - Remix",
       "url": "https://open.spotify.com/track/1DKAk7RhcbZnK3YllWGCVI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/7p3rR8FcXnd12kOscVKaop"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 231950,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/7oiA1062mT4nn3l58oKXiM"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cholo En Un Low 2.0",
-        "url": "https://open.spotify.com/album/3HeYA1AreyBpHBNXMspGu4"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 188700,
-      "name": "Cholo En Un Low 2.0",
-      "url": "https://open.spotify.com/track/0zbv3ROTor3M1JzdFsBZJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que No Me Mata",
         "url": "https://open.spotify.com/album/56DTzOY0cyxCeFHzVtsPZY"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 182500,
       "name": "Lo Que No Me Mata",
       "url": "https://open.spotify.com/track/2u50rEfF46zbbwYj0mmV1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cholo En Un Low 2.0",
+        "url": "https://open.spotify.com/album/3HeYA1AreyBpHBNXMspGu4"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 188700,
+      "name": "Cholo En Un Low 2.0",
+      "url": "https://open.spotify.com/track/0zbv3ROTor3M1JzdFsBZJE"
     },
     {
       "added_at": null,
@@ -915,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Borrachera",
+        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pura Borrachera",
+      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Es Que Sea Mam\u00f3n",
         "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
       },
@@ -939,26 +975,6 @@
       "duration_ms": 285000,
       "name": "No Es Que Sea Mam\u00f3n",
       "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Borrachera",
-        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pura Borrachera",
-      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
     },
     {
       "added_at": null,
@@ -1347,26 +1363,6 @@
       "duration_ms": 185121,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/4o6yE20TfdxJi5mkJmeKZL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Alguien Que Me Cure",
-      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

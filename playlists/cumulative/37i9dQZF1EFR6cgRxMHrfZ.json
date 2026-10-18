@@ -2625,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "Show Starts Now",
+        "url": "https://open.spotify.com/album/47mip4CjJFoZtNlevbkEWR"
+      },
+      "artists": [
+        {
+          "name": "Savannah Bananas",
+          "url": "https://open.spotify.com/artist/00ynWX32K6wbeuljTQI2FW"
+        },
+        {
+          "name": "Derek Klena",
+          "url": "https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "Show Starts Now",
+      "url": "https://open.spotify.com/track/38wC3l1TdRF8ApuItxTnQ3"
+    },
+    {
+      "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4"
       },

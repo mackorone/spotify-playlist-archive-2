@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 150205,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/38fhq0EiSzlIwv20tHNGss"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 188080,
       "name": "Christmas Ain't Christmas",
       "url": "https://open.spotify.com/track/5Gjvb3iVQhkMBKjMEWYszI"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 199607,
       "name": "Christmas in the City",
       "url": "https://open.spotify.com/track/2VRC4l8jry3XJupFr6bTIc"
@@ -4352,7 +4352,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 201650,
       "name": "Christmas Now",
       "url": "https://open.spotify.com/track/6fuq89jpzHDeFf6npcp54l"
@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 189983,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3pzBmTac4UZLxdYPVMRuzM"
@@ -8818,7 +8818,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 209902,
       "name": "Home to Me",
       "url": "https://open.spotify.com/track/3N7TTZ7VQFpSTl0jb5gb87"
@@ -10196,6 +10196,24 @@
       "duration_ms": 153200,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
+    },
+    {
+      "album": {
+        "name": "It's the Most Wonderful Time of the Year",
+        "url": "https://open.spotify.com/album/56EhdITkgElNgEuRcpEDjZ"
+      },
+      "artists": [
+        {
+          "name": "Laura Osnes",
+          "url": "https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159913,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1zY8KxAg7gR2cYe3ULzZS4"
     },
     {
       "album": {
@@ -11588,7 +11606,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 223213,
       "name": "Last Christmas - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG"
@@ -13722,7 +13740,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 233456,
       "name": "Not So Merry Christmas",
       "url": "https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT"
@@ -13968,6 +13986,28 @@
       "duration_ms": 260265,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/1Mi0ewrnARp9TS16Hd0UPV"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/5E63fhAG6CUk6bHWJL8oyC"
+      },
+      "artists": [
+        {
+          "name": "Den\u00e9e Benton",
+          "url": "https://open.spotify.com/artist/3bBNMFp7jH66nWZYYIzqc6"
+        },
+        {
+          "name": "Jordan Donica",
+          "url": "https://open.spotify.com/artist/2NrfAs6msmsiqK4LPxb3sR"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291840,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3zd9B4aiSa1VPJSdjA1AfJ"
     },
     {
       "album": {
@@ -14492,7 +14532,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 213840,
       "name": "Peace, Love, and Cowboys - Holiday Edition",
       "url": "https://open.spotify.com/track/47uI5J1L1XdUpxW1ljuXH3"
@@ -14824,6 +14864,28 @@
       "duration_ms": 163925,
       "name": "Red Christmas - From \"Descendants: The Rise of Red\"",
       "url": "https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L"
+    },
+    {
+      "album": {
+        "name": "Rejoice (O Come O Come Emmanuel)",
+        "url": "https://open.spotify.com/album/6JwQwNQTKXByidHD9x1bnb"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        },
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251030,
+      "name": "Rejoice (O Come O Come Emmanuel)",
+      "url": "https://open.spotify.com/track/38mCMKRBJO8QLPk9wRo1Kl"
     },
     {
       "album": {
@@ -17103,6 +17165,28 @@
     },
     {
       "album": {
+        "name": "Christmas With Cynthia Erivo",
+        "url": "https://open.spotify.com/album/72IuUMFayDrPGNuAdDJ4Pp"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151226,
+      "name": "Spending My Christmas With You (feat. Jimmy Fallon)",
+      "url": "https://open.spotify.com/track/1CV9G6rn2C1EMnLTm8TkEu"
+    },
+    {
+      "album": {
         "name": "Stay Another Day",
         "url": "https://open.spotify.com/album/5viw4iG7emPlzp25Vg2Hxe"
       },
@@ -17266,6 +17350,24 @@
       "duration_ms": 213669,
       "name": "That Spirit Of Christmas",
       "url": "https://open.spotify.com/track/0mbPEtvln9ErE5vltw1etl"
+    },
+    {
+      "album": {
+        "name": "That's What I Want For Christmas",
+        "url": "https://open.spotify.com/album/1NB19t02vxFRzmiCBEcWFS"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237132,
+      "name": "That's What I Want For Christmas",
+      "url": "https://open.spotify.com/track/7pLkojFFUYX5FTHSVKJs40"
     },
     {
       "album": {
@@ -17522,7 +17624,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 167178,
       "name": "The Christmas Song - Cheery & Bright",
       "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
@@ -19565,6 +19667,24 @@
     },
     {
       "album": {
+        "name": "Welcome To Our World",
+        "url": "https://open.spotify.com/album/2PTBYehAW7YSFoX0aquY0h"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172178,
+      "name": "Welcome To Our World",
+      "url": "https://open.spotify.com/track/442GhpfCdKEgI16DqFqJtx"
+    },
+    {
+      "album": {
         "name": "What A Christmas",
         "url": "https://open.spotify.com/album/3P8vjeolpgmNAvqE22nXLL"
       },
@@ -19964,6 +20084,24 @@
       "duration_ms": 165000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/5ODrf4Fhd38dyuCpj6gqpe"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3lZstgDdP8HK7UhW8nbmMv"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170439,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0FLyIRYB5bLP3g4Twj2OeE"
     },
     {
       "album": {
@@ -20472,7 +20610,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 129894,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2NvEi1sJUw2YrIoInhQ1Ug"
@@ -20995,6 +21133,24 @@
     },
     {
       "album": {
+        "name": "wrapped",
+        "url": "https://open.spotify.com/album/0I8rdVH8xmtoNLSs5wfuG4"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "wrapped",
+      "url": "https://open.spotify.com/track/4P9G6gHP2NnNXhwDA3qVuB"
+    },
+    {
+      "album": {
         "name": "Wrapped Up In A Bow",
         "url": "https://open.spotify.com/album/2KvS6XY72ABMBWDaZykq4b"
       },
@@ -21288,6 +21444,24 @@
       "duration_ms": 214445,
       "name": "Your Angel",
       "url": "https://open.spotify.com/track/2xsvVZh9rVMVZgHWbtU9On"
+    },
+    {
+      "album": {
+        "name": "your love this christmas",
+        "url": "https://open.spotify.com/album/0OTsHIxhyNvqwxpL2T5yf4"
+      },
+      "artists": [
+        {
+          "name": "Mia Lailani",
+          "url": "https://open.spotify.com/artist/0yyjOE8qtButTB98EPNzdV"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226456,
+      "name": "your love this christmas",
+      "url": "https://open.spotify.com/track/24f5HnJxiWy6HkA6lt0KhD"
     },
     {
       "album": {

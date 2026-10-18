@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17552,
+  "num_followers": 17561,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABA+vbh1V8jF4SJ1H3NyZnkQARxw",
+  "snapshot_id": "AAAAADqBPmyB/U/AwLCtdbfpzhK17+UT",
   "tracks": [
     {
       "added_at": "2026-10-09 04:59:21",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Aviona",
-        "url": "https://open.spotify.com/album/0OuOxijE7o3dXj1cTAYdsv"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "Aviona",
-      "url": "https://open.spotify.com/track/32nZKAfw3w29hqZDZYlM9T"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
         "name": "Coste\u00f1ita",
         "url": "https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 226618,
       "name": "Coste\u00f1ita",
       "url": "https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
+        "name": "Aviona",
+        "url": "https://open.spotify.com/album/0OuOxijE7o3dXj1cTAYdsv"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "Aviona",
+      "url": "https://open.spotify.com/track/32nZKAfw3w29hqZDZYlM9T"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
+        "name": "Pedacito de Playa (Remix)",
+        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Pedacito de Playa - Remix",
+      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
         "name": "Que Se Reporten",
         "url": "https://open.spotify.com/album/0MsTM8UKeN4EIfuHJO7IQs"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 175841,
       "name": "Que Se Reporten",
       "url": "https://open.spotify.com/track/5ViVSElIxnYSy0QjwftX41"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
-        "name": "Pedacito de Playa (Remix)",
-        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Arg\u00fcello",
-          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Pedacito de Playa - Remix",
-      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
     },
     {
       "added_at": "2026-10-09 04:59:21",

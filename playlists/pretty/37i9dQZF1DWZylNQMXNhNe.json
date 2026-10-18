@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247598,
+  "num_followers": 247590,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -491,42 +491,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 159886,
-      "name": "Amor Pilantra - Ao Vivo",
-      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "PORNOGRAFIA AUDITIVA",
-        "url": "https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q"
-      },
-      "artists": [
-        {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "d.silvestre",
-          "url": "https://open.spotify.com/artist/1Ry5NkSxX1Ye7kTfUuLL2c"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Mela\u00e7o",
-      "url": "https://open.spotify.com/track/1KShJq7cBzLWgeILY3P5nD"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "EXORCISMO",
         "url": "https://open.spotify.com/album/0kVpm7KtcOjFAmdHu9LzT7"
       },
@@ -551,6 +515,42 @@
       "duration_ms": 276518,
       "name": "EXORCISMO",
       "url": "https://open.spotify.com/track/1JJg0jkyy3zMXxiY8sNbEY"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "PORNOGRAFIA AUDITIVA",
+        "url": "https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q"
+      },
+      "artists": [
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "d.silvestre",
+          "url": "https://open.spotify.com/artist/1Ry5NkSxX1Ye7kTfUuLL2c"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Mela\u00e7o",
+      "url": "https://open.spotify.com/track/1KShJq7cBzLWgeILY3P5nD"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 159886,
+      "name": "Amor Pilantra - Ao Vivo",
+      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Ventos Favor\u00e1veis",
-        "url": "https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0"
-      },
-      "artists": [
-        {
-          "name": "Duh Marinho",
-          "url": "https://open.spotify.com/artist/0tE54MnqIWq8HHl1LzoFKf"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 161072,
-      "name": "O MUNDO \u00c9 DETALHE PRA N\u00d3S",
-      "url": "https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "A VISITA - SANDRA ELETR\u00d4NICA",
         "url": "https://open.spotify.com/album/6q2wn24CJil53D8yGl7Cvz"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 171333,
       "name": "GORDINHA MAS TA BOM",
       "url": "https://open.spotify.com/track/2PsKJZZWbVjb7gkLNkBfzO"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Ventos Favor\u00e1veis",
+        "url": "https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0"
+      },
+      "artists": [
+        {
+          "name": "Duh Marinho",
+          "url": "https://open.spotify.com/artist/0tE54MnqIWq8HHl1LzoFKf"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 161072,
+      "name": "O MUNDO \u00c9 DETALHE PRA N\u00d3S",
+      "url": "https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 177130,
       "name": "BABY",
       "url": "https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Fim do Mundo",
-        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 186188,
-      "name": "Desculpa por Eu N\u00e3o Te Amar",
-      "url": "https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "VOZ AVELUDADA",
-        "url": "https://open.spotify.com/album/3pyoqiKli0w5kC67x6bbsa"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        }
-      ],
-      "duration_ms": 176402,
-      "name": "VOZ AVELUDADA",
-      "url": "https://open.spotify.com/track/7tsSYwczhdna2lzOEnc6rs"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "Deusimar",
         "url": "https://open.spotify.com/album/1uI5zgguHsXVl74QBuIrfp"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 171685,
       "name": "piseiro dos abandonados",
       "url": "https://open.spotify.com/track/4PT3pmcVqgQvKZBUABV4d3"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "VOZ AVELUDADA",
+        "url": "https://open.spotify.com/album/3pyoqiKli0w5kC67x6bbsa"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        }
+      ],
+      "duration_ms": 176402,
+      "name": "VOZ AVELUDADA",
+      "url": "https://open.spotify.com/track/7tsSYwczhdna2lzOEnc6rs"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -939,6 +939,34 @@
       "duration_ms": 294570,
       "name": "NUVEM NEGRA",
       "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Calor Nacional",
+        "url": "https://open.spotify.com/album/2Uz4LigDz88y7lAt3p6m8X"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Dan\u00e7ar Pelada",
+      "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1071,6 +1099,26 @@
       "duration_ms": 188976,
       "name": "Mal\u00edcia",
       "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1235,6 +1283,30 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "LCD (feat. kouth)",
+        "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "FUSO!",
+          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+        }
+      ],
+      "duration_ms": 192241,
+      "name": "LCD (feat. kouth)",
+      "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "Receita",
         "url": "https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud"
       },
@@ -1279,22 +1351,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "2 PUNKS NEON",
-        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 235031,
-      "name": "2 PUNKS NEON",
-      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "tanto, tudo ao mesmo tempo",
         "url": "https://open.spotify.com/album/0U5aR1ESweA9GusZzDFJiR"
       },
@@ -1311,6 +1367,22 @@
       "duration_ms": 183905,
       "name": "Sideral - Ao Vivo",
       "url": "https://open.spotify.com/track/2ekohr3x5K4PEO0YZXhtYh"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "2 PUNKS NEON",
+        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 235031,
+      "name": "2 PUNKS NEON",
+      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1463,30 +1535,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "LCD (feat. kouth)",
-        "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
-        },
-        {
-          "name": "FUSO!",
-          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
-        }
-      ],
-      "duration_ms": 192241,
-      "name": "LCD (feat. kouth)",
-      "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "LIA CLARK",
         "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
       },
@@ -1503,42 +1551,6 @@
       "duration_ms": 155454,
       "name": "SEREIA",
       "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1567,30 +1579,18 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Calor Nacional",
-        "url": "https://open.spotify.com/album/2Uz4LigDz88y7lAt3p6m8X"
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
       },
       "artists": [
         {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        },
-        {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Dan\u00e7ar Pelada",
-      "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     }
   ],
   "unique_name": "GLOW Brasil",

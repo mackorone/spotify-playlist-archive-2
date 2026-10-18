@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,315 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,317 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 26 | [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys \(Japanese Deluxe Edition\)](https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB) | 2:39 |
 | 27 | [Sidestep](https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Sidestep](https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45) | 5:56 |
 | 28 | [Voyager](https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Voyager](https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy) | 4:07 |
-| 29 | [Jeans](https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Jeans](https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5) | 3:27 |
-| 30 | [inside](https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx) | [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [inside](https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB) | 2:33 |
-| 31 | [You’ll Never Fix Me](https://open.spotify.com/track/3CDNh6dWpYjSgOeykhT71M) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 3:23 |
-| 32 | [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 |
+| 29 | [inside](https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx) | [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [inside](https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB) | 2:33 |
+| 30 | [Jeans](https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Jeans](https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5) | 3:27 |
+| 31 | [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 |
+| 32 | [You’ll Never Fix Me](https://open.spotify.com/track/3CDNh6dWpYjSgOeykhT71M) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 3:23 |
 | 33 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 |
 | 34 | [Saoirse](https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 5:13 |
 | 35 | [The Radiator](https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [The Radiator](https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW) | 3:38 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 41 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
 | 42 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 |
 | 43 | [Riding](https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I) | 3:53 |
-| 44 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
-| 45 | [Man with Hands and Ankles Bound](https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:18 |
+| 44 | [Man with Hands and Ankles Bound](https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:18 |
+| 45 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 | 46 | [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 |
 | 47 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 48 | [Pretty Girls](https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 3:54 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 87 | [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 |
 | 88 | [Trickle Down](https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb) | 2:47 |
 | 89 | [POST EMPIRE](https://open.spotify.com/track/505e1WJcfyORbth99IeXY8) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [PLAY ME](https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk) | 2:26 |
-| 90 | [Projector](https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Projector](https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA) | 1:33 |
-| 91 | [Weights & Measures](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [EXPO](https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7) | 3:59 |
-| 92 | [Death Destruction Mayhem](https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0) | [Ceremony](https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH) | [Death Destruction Mayhem](https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8) | 2:58 |
-| 93 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
-| 94 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 |
+| 90 | [Weights & Measures](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [EXPO](https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7) | 3:59 |
+| 91 | [Projector](https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Projector](https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA) | 1:33 |
+| 92 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
+| 93 | [Death Destruction Mayhem](https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0) | [Ceremony](https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH) | [Death Destruction Mayhem](https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8) | 2:58 |
+| 94 | [Won't Wait](https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Glass and Bones](https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O) | 3:47 |
 | 95 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
-| 96 | [Won't Wait](https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Glass and Bones](https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O) | 3:47 |
+| 96 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 |
 | 97 | [Hedgesitting](https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Hedgesitting](https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW) | 4:46 |
 | 98 | [Castaways](https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Slippers 08](https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf) | 1:48 |
 | 99 | [Miracle Drug](https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Miracle Drug](https://open.spotify.com/album/4023iP3TKnG54OKYijddli) | 4:27 |

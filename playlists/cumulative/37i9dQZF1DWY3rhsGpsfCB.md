@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-1,023 songs - 2 day 4 hr 27 min
+1,024 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Catch Me If You Can](https://open.spotify.com/track/4UpZ6B4RjACUO5t0BwtlyG) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy) | [Catch Me If You Can](https://open.spotify.com/album/4USNblY3pWNtnFimwY5nA1) | 2:56 | 2023-12-01 | 2023-12-08 |
 | [Caught Up \(with L.A.X\)](https://open.spotify.com/track/1ABjNDCB0idRxu2kpcgWsc) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Caught Up \(with L.A.X\)](https://open.spotify.com/album/0oqFBdsXbcEJoBvbYPOSgv) | 3:26 | 2023-09-21 | 2023-09-29 |
 | [CC](https://open.spotify.com/track/3oRfAVFj4sazro06ePnXNe) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [CC](https://open.spotify.com/album/0d05eIekJoVsraIkT9VqCM) | 2:16 | 2026-04-10 | 2026-05-01 |
-| [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 | 2026-07-31 |  |
+| [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 | 2026-07-31 | 2026-10-18 |
 | [Celebrate](https://open.spotify.com/track/29Rp08mNmkFdB494p2RewS) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Celebrate](https://open.spotify.com/album/739hgZq5W6iDchSaFWUzTc) | 2:50 | 2025-08-29 | 2025-09-19 |
 | [Celine](https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Celine](https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt) | 3:01 | 2026-03-27 | 2026-06-26 |
 | [certain](https://open.spotify.com/track/6VvLXMAYBjKUqCa7EzS6Tw) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [certain](https://open.spotify.com/album/7JZmOjUUxv3bhLy66PXl1E) | 2:59 | 2024-01-26 | 2024-03-22 |
@@ -582,6 +582,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-24 | 2023-06-23 |
 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Most Beautiful Design](https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby) | 3:39 | 2024-10-18 | 2025-11-07 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-04 | 2023-02-11 |
+| [Mouf Say](https://open.spotify.com/track/4MBN3o3wB4uEWGgKXXjVo0) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [ALOUD!](https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D) | 2:57 | 2026-10-16 |  |
 | [Moving Train \(Isọkụsọ\)](https://open.spotify.com/track/4z8Kg7Iesslzci72GKyd1C) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Moving Train \(Isọkụsọ\)](https://open.spotify.com/album/2l3bVQ9zj8gAFwR1XyaG2T) | 3:11 | 2025-05-30 | 2025-07-05 |
 | [Mr Heartbreaker](https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Mr Heartbreaker](https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f) | 2:55 | 2024-10-25 | 2026-02-08 |
 | [Ms\. Goody Two Shoes](https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Ms\. Goody Two Shoes](https://open.spotify.com/album/2wXE2aphd1Rah3fbrUIGfV) | 3:02 | 2025-04-04 | 2025-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,595 likes - 181 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,601 likes - 181 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 100 | [Face The Music \- Extended Mix](https://open.spotify.com/track/1wqwi8ZZijTyHqhJcez4mI) | [Rem Siman](https://open.spotify.com/artist/3K5jT9UfVwf4eIGfxsz8hx) | [Nocturnal 012](https://open.spotify.com/album/59sBuDtfJGJdrh2MbHQMaL) | 7:32 |
 | 101 | [Amazon](https://open.spotify.com/track/0YUuzBN4Wm2rTaGzw3xrgw) | [Genairo Nvilla](https://open.spotify.com/artist/1jcktnRawixaqiP98O8aJm) | [Amazon](https://open.spotify.com/album/6XODPaYsv3xfFEt0QRmvX9) | 3:32 |
 | 102 | [Idk \- Amine K & Dilby Remix](https://open.spotify.com/track/6JeS9z1HDZPiyQ83L6ASKn) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Idk](https://open.spotify.com/album/5OrFPXqJJatahRHjzEaaWR) | 3:04 |
-| 103 | [Viciosa](https://open.spotify.com/track/2tAajR0FG5UuqSPtjiB840) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Viciosa](https://open.spotify.com/album/79ndudhRcimoaMtdyvIB4y) | 3:18 |
+| 103 | [](https://open.spotify.com/track/2tAajR0FG5UuqSPtjiB840) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Viciosa](https://open.spotify.com/album/79ndudhRcimoaMtdyvIB4y) | 0:00 |
 | 104 | [Idk](https://open.spotify.com/track/6nUNnkFTcHbg10U7Etxcvi) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Idk](https://open.spotify.com/album/5OrFPXqJJatahRHjzEaaWR) | 3:41 |
 | 105 | [Part Time Lover](https://open.spotify.com/track/6FZhRuumwFysRKT0l667M8) | [Mustafa Ismaeel](https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP), [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Blow My Mind](https://open.spotify.com/album/4kzN4Mlwt6mOZgB3XrGdcV) | 6:25 |
 | 106 | [Idk \- Floyd Lavine Remix](https://open.spotify.com/track/3aW3YHjHzqaqUaS0nALehj) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw) | [Idk](https://open.spotify.com/album/5OrFPXqJJatahRHjzEaaWR) | 3:40 |

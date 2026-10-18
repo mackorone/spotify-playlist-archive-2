@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ski Aggu, Giant Rooks, Paula Hartmann, The Chainsmokers, Helene Fischer & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,948 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,951 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

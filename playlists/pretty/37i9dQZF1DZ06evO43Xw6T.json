@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 187937,
+  "num_followers": 187967,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACvrUZZWRvlQtQyxn1j5z9S",
+  "snapshot_id": "atAXgAAAAACqZ3KJnvsErdyyxUAFYK8r",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ese Vato No Te Queda",
-        "url": "https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 198607,
-      "name": "Ese Vato No Te Queda",
-      "url": "https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 180688,
       "name": "7 D\u00cdAS",
       "url": "https://open.spotify.com/track/6X3h549Z7LJk881NPI5kTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ese Vato No Te Queda",
+        "url": "https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 198607,
+      "name": "Ese Vato No Te Queda",
+      "url": "https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/3APOoWCBZSWe1K5DjSXL5M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pienso En Ella",
         "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas",
-        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/3APOoWCBZSWe1K5DjSXL5M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natanael Cano, Vol.1",
         "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
       },
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -547,6 +527,30 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 245997,
+      "name": "VINO TINTO",
+      "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
     },
     {
       "added_at": null,
@@ -575,26 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 245997,
-      "name": "VINO TINTO",
-      "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Ya Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 143402,
       "name": "DETONA",
       "url": "https://open.spotify.com/track/7ojqw2j3HrrmXhfykBV88i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e1ufrago",
-        "url": "https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf"
-      },
-      "artists": [
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 202485,
-      "name": "y si no soy yo",
-      "url": "https://open.spotify.com/track/6DKe3hR9GvFSw9HzgxQinZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 202485,
+      "name": "y si no soy yo",
+      "url": "https://open.spotify.com/track/6DKe3hR9GvFSw9HzgxQinZ"
     },
     {
       "added_at": null,

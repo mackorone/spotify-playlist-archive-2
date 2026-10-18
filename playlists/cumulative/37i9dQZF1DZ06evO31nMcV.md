@@ -4,7 +4,7 @@
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 6 min
+105 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Last Trip Around the Sun](https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Paper Hearts](https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR) | 2:46 | 2025-11-01 |  |
 | [Lifted](https://open.spotify.com/track/0FtGrAo6ae0IFCRyHTAkPN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [The Miraval Orchestra](https://open.spotify.com/artist/7n5uB06jHkH78qN62XAbMB) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:29 | 2026-10-16 |  |
 | [Midnight Dreamer](https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Midnight Dreamer](https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK) | 3:06 | 2026-08-23 |  |
-| [Midnight Reverie](https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 1:16 | 2025-04-16 |  |
+| [Midnight Reverie](https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 1:16 | 2025-04-16 | 2026-10-18 |
 | [Midnight Reverie](https://open.spotify.com/track/7jJXXxrBFWJx7X5wEXPYsC) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Reverie \(Solo Piano Version\) & Midnight Reverie](https://open.spotify.com/album/1pmlr7X61B3YItvw6bTVEC) | 1:16 | 2025-02-23 | 2025-04-16 |
 | [Miracles](https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Memories](https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj) | 3:23 | 2024-10-02 |  |
 | [Moments](https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:33 | 2024-10-02 |  |
@@ -92,6 +92,7 @@
 | [Songbird](https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:01 | 2024-10-02 |  |
 | [St Andrews](https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 3:42 | 2024-10-02 | 2025-11-02 |
 | [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2024-10-02 | 2026-07-26 |
+| [Stolen Whispers](https://open.spotify.com/track/0WjHPs2g6QKQNsiH00F0yE) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:37 | 2026-10-18 |  |
 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 | 2024-10-02 |  |
 | [Suddenly \(Solo Piano Version\)](https://open.spotify.com/track/0C7rTfN2DisFXmvp1PszYu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Suddenly \(Solo Piano Version\)](https://open.spotify.com/album/1GdcloiQpADlDj3HIVFJRR) | 3:38 | 2025-02-09 | 2025-04-14 |
 | [Suddenly \(Solo Piano Version\)](https://open.spotify.com/track/1SIuWpwLFmv1fQh7HnBB46) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 3:38 | 2025-04-14 | 2026-03-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,900 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,905 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [Most High](https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Christian Spaulding](https://open.spotify.com/artist/4srBhABKWh0DCGDbGpMQaW), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Thy Kingdom Come](https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon) | 4:38 |
 | 50 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
 
-Snapshot ID: `as7GAAAAAADzPj8l5HvaaHyGhbFoOdP3`
+Snapshot ID: `atAXgAAAAAChZdMCNLjahiBdZxkgOmU7`

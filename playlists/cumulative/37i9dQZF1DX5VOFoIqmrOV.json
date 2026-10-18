@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 250971,
       "name": "Choolenge Aasma",
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
@@ -3924,28 +3924,6 @@
     {
       "album": {
         "name": "RRR",
-        "url": "https://open.spotify.com/album/61YvttQnza7qN7skU2CfyE"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        }
-      ],
-      "date_added": "2024-09-03",
-      "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
-      "duration_ms": 214399,
-      "name": "Naatu Naatu",
-      "url": "https://open.spotify.com/track/3XrGwVHapc5DYK75ZBKmuE"
-    },
-    {
-      "album": {
-        "name": "RRR",
         "url": "https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9"
       },
       "artists": [
@@ -3964,6 +3942,36 @@
       "duration_ms": 214399,
       "name": "Naatu Naatu",
       "url": "https://open.spotify.com/track/4BHYJiAqyqGtN267ypm1ke"
+    },
+    {
+      "album": {
+        "name": "RRR",
+        "url": "https://open.spotify.com/album/61YvttQnza7qN7skU2CfyE"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214399,
+      "name": "Naatu Naatu",
+      "url": "https://open.spotify.com/track/3XrGwVHapc5DYK75ZBKmuE"
     },
     {
       "album": {
@@ -6456,7 +6464,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 215074,
       "name": "Yellipoke Shyamala",
       "url": "https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa"
@@ -6496,7 +6504,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 271428,
       "name": "Yenno Yenno",
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"

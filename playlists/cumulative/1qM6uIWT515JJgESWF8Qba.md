@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-335 songs - 20 hr 58 min
+336 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Dose of Speed](https://open.spotify.com/track/6YSOeHQAuuL5bk7tGNsUUC) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 2:38 | 2026-09-17 |  |
 | [Down \- '25](https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 4:39 | 2026-02-11 | 2026-05-19 |
 | [Dr\. Hammer](https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 3:48 | 2026-02-04 | 2026-02-23 |
-| [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 | 2026-03-27 |  |
+| [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 | 2026-03-27 | 2026-10-18 |
 | [Eco friendly](https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [Eco friendly](https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq) | 3:24 | 2026-03-20 | 2026-05-19 |
 | [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 | 2025-12-20 | 2026-01-21 |
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-11-16 | 2025-12-28 |
@@ -273,6 +273,7 @@
 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 | 2026-03-11 | 2026-05-19 |
 | [Seven](https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 3:50 | 2026-04-13 |  |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-29 |  |
+| [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 | 2026-10-17 |  |
 | [She Calls Me](https://open.spotify.com/track/1iDu1uRfjqlW4Cqt78zAfm) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [She Calls Me](https://open.spotify.com/album/1KN6GFe9o8fOAJDs9EgPV3) | 5:34 | 2026-07-13 | 2026-08-08 |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 | 2026-06-20 | 2026-08-08 |

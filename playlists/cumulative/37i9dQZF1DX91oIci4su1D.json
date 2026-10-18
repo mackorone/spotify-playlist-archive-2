@@ -17849,6 +17849,24 @@
     },
     {
       "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/647pyFBcKVf4UZO5ZcRLFy"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215414,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/2C6TqcCfE2T6mgHSQUi5AA"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
       },
@@ -20890,7 +20908,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 164560,
       "name": "ResuRection (Call Me)",
       "url": "https://open.spotify.com/track/7w5eVOIt7g0DhUWvoqvhq9"

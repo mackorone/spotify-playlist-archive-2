@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549540,
+  "num_followers": 549546,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
-        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 221033,
-      "name": "Slaughter Beach",
-      "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 237424,
       "name": "There is Nothing New Under the Sun",
       "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 221033,
+      "name": "Slaughter Beach",
+      "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 355973,
-      "name": "Space Lord",
-      "url": "https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Dopesmoker",
         "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 3809026,
       "name": "Dopesmoker - 2022 Remastered Version",
       "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 355973,
+      "name": "Space Lord",
+      "url": "https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Dead Rock Commandos",
         "url": "https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 196866,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1447,6 +1447,22 @@
       "duration_ms": 358740,
       "name": "Ugo",
       "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe"
+      },
+      "artists": [
+        {
+          "name": "Somali Yacht Club",
+          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
+        }
+      ],
+      "duration_ms": 492494,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1591,22 +1607,6 @@
       "duration_ms": 304600,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/4Xx92jCdrTBTiCr4rwwkN3"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/4pyLlYKdxHtEH4sEJPSbEe"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk"
     }
   ],
   "unique_name": "Stoner Rock",

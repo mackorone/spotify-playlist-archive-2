@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf41",
-  "num_followers": 143895,
+  "num_followers": 143940,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Uh Oh",
-        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+        "name": "freedom",
+        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+      "duration_ms": 218389,
+      "name": "freedom",
+      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -387,8 +383,8 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
       "artists": [
         {
@@ -396,13 +392,13 @@
           "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         },
         {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
         }
       ],
-      "duration_ms": 261379,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
+      "duration_ms": 228613,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -459,18 +455,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "freedom",
-        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
       },
       "artists": [
         {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 218389,
-      "name": "freedom",
-      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
+      "duration_ms": 167732,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -491,18 +487,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
         }
       ],
-      "duration_ms": 167732,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
+        "name": "Moondog",
+        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 327446,
-      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
+      "duration_ms": 305640,
+      "name": "Moondog",
+      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -639,34 +639,34 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Moondog",
-        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
+        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 305640,
-      "name": "Moondog",
-      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
+      "duration_ms": 327446,
+      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
     },
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
+      "duration_ms": 199909,
+      "name": "Did Life Work Out for You?",
+      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 199909,
-      "name": "Did Life Work Out for You?",
-      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
+      "duration_ms": 182946,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
       "artists": [
         {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
         }
       ],
-      "duration_ms": 132370,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
         }
       ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
+      "duration_ms": 132370,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Laughter (Bouquet Version)",
-        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 221245,
-      "name": "Laughter - Bouquet Version",
-      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+        "name": "Laughter (Bouquet Version)",
+        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
       },
       "artists": [
         {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
         }
       ],
-      "duration_ms": 184360,
-      "name": "pas de vagues",
-      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
+      "duration_ms": 221245,
+      "name": "Laughter - Bouquet Version",
+      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "pas de vagues",
+      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
         "name": "Si les bateaux",
         "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 193493,
       "name": "Si les bateaux",
       "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo"
-      },
-      "artists": [
-        {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
-        }
-      ],
-      "duration_ms": 169642,
-      "name": "Surface Tension",
-      "url": "https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 169642,
+      "name": "Surface Tension",
+      "url": "https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
         "name": "the evergreen, the birch",
         "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 179050,
       "name": "the evergreen, the birch",
       "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
         "name": "I Liked Blue After You",
         "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 193212,
       "name": "Dog (everybody learns)",
       "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Recueil",
-        "url": "https://open.spotify.com/album/1CvwAMNTj8BfVZIepoK39D"
-      },
-      "artists": [
-        {
-          "name": "La Steppe",
-          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
-        }
-      ],
-      "duration_ms": 223821,
-      "name": "Jour",
-      "url": "https://open.spotify.com/track/52YVcM6riVcSfDOjvCvtl1"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
+        "name": "Recueil",
+        "url": "https://open.spotify.com/album/1CvwAMNTj8BfVZIepoK39D"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "duration_ms": 223821,
+      "name": "Jour",
+      "url": "https://open.spotify.com/track/52YVcM6riVcSfDOjvCvtl1"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Si on allait",
-        "url": "https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3"
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
       "artists": [
         {
-          "name": "Huriel",
-          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 247362,
-      "name": "Si on allait",
-      "url": "https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw"
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1587,6 +1587,38 @@
       "duration_ms": 215815,
       "name": "\u00c9thanol",
       "url": "https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
+        "name": "Si on allait",
+        "url": "https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3"
+      },
+      "artists": [
+        {
+          "name": "Huriel",
+          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+        }
+      ],
+      "duration_ms": 247362,
+      "name": "Si on allait",
+      "url": "https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
+        "name": "Quand je pleure, je suis content",
+        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Quand je pleure, je suis content",
+      "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1611,66 +1643,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+        "name": "R\u00e9gate",
+        "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Mathieu David Gagnon",
+          "url": "https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR"
+        },
+        {
+          "name": "Flore Laurentienne",
+          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
         }
       ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
-        "name": "Quand je pleure, je suis content",
-        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
-      },
-      "artists": [
-        {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Quand je pleure, je suis content",
-      "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
-        "name": "Tout ce qui compte",
-        "url": "https://open.spotify.com/album/42mi3DpqsjtKTrm4IvX2MU"
-      },
-      "artists": [
-        {
-          "name": "Classe Moyenne",
-          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        },
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        },
-        {
-          "name": "Phil Rxcket",
-          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
-        },
-        {
-          "name": "Zach Chico",
-          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
-        }
-      ],
-      "duration_ms": 146597,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO"
+      "duration_ms": 284415,
+      "name": "R\u00e9gate",
+      "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
     },
     {
       "added_at": "2026-10-16 04:03:08",

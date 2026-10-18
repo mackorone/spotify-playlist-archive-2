@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,070 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,115 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 22 | [Setengah Mati \- From "Bila Esok Ibu Tiada"](https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Setengah Mati \(From "Bila Esok Ibu Tiada"\)](https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH) | 3:59 |
 | 23 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 24 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 |
-| 25 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |
-| 26 | [Bahagiamu Deritaku](https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a) | [Hafiz Suip](https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW) | [Hafiz](https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I) | 4:23 |
+| 25 | [Bahagiamu Deritaku](https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a) | [Hafiz Suip](https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW) | [Hafiz](https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I) | 4:23 |
+| 26 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |
 | 27 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
 | 28 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 |
 | 29 | [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 35 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
 | 36 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
 | 37 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
-| 38 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
-| 39 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |
+| 38 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |
+| 39 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
 | 40 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
 | 41 | [Butterfly](https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn) | [Aufahanie](https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C) | [Butterfly](https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4) | 3:56 |
 | 42 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,650 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,674 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Camina Sola](https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:33 |
 | 50 | [Un Día Todo Se Termina \(Remix\)](https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 4:11 |
 
-Snapshot ID: `as7GAAAAAAAZCcZsOezp1qjrIxmyP6vU`
+Snapshot ID: `atAXgAAAAACYNIcTpahiIeCXd4mRhJx+`

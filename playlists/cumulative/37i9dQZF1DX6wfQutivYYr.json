@@ -5045,6 +5045,28 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "NON SEI PI\u00d9 TU (feat. Lazza)",
+      "url": "https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny"
+    },
+    {
+      "album": {
         "name": "Amarsi \u00e8 la rivoluzione",
         "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
       },
@@ -7712,7 +7734,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 185229,
       "name": "WINNER",
       "url": "https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq"

@@ -1644,10 +1644,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 236093,
       "name": "Lay Down Sally",
       "url": "https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG"
+    },
+    {
+      "album": {
+        "name": "Slowhand 35th Anniversary",
+        "url": "https://open.spotify.com/album/2c0bqDdHYpcyd8eQp55tbO"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "Lay Down Sally",
+      "url": "https://open.spotify.com/track/7KvIISis7A5QHzXrlylnJD"
     },
     {
       "album": {

@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "Anedac (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6hHbKSxgWYpgNRpHkM0bpS"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Wilbur Harden",
+          "url": "https://open.spotify.com/artist/1zObM8Nu9u5qzUoRyXydeq"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313195,
+      "name": "Anedac - Remastered 2026",
+      "url": "https://open.spotify.com/track/11VkPLyB8PN0s3BmluORlM"
+    },
+    {
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -1468,7 +1490,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 321400,
       "name": "Soultrane - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"

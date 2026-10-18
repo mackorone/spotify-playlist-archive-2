@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Norlie & KKV, Benjamin Ingrosso och Snoh Aalegra med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,735 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,739 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
+| 1 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
 | 2 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
 | 3 | [mommy’s boy](https://open.spotify.com/track/0FfwykHXznjHI9MT5AGAch) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [mommy’s boy](https://open.spotify.com/album/7aW7QtqXNkC2su5JJLSavm) | 2:52 |
 | 4 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |

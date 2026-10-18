@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Chuwi.
 
-1,061 songs - 2 day 8 hr 57 min
+1,063 songs - 2 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [DIAMANTE](https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [DIAMANTE](https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy) | 2:55 | 2023-08-25 | 2023-09-30 |
 | [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 | 2023-12-08 | 2024-04-13 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-02-17 | 2023-03-02 |
+| [Dientes De Fierro](https://open.spotify.com/track/2j5ImvoXOHcsAFSzoi3SyH) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 3:40 | 2026-10-16 |  |
 | [digo que no, pero si](https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [digo que no, pero si](https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E) | 3:07 | 2025-05-02 | 2026-08-01 |
 | [DIME ALI](https://open.spotify.com/track/4A2qmxbGbkNSeY5MLDyyft) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [DIME ALI](https://open.spotify.com/album/441IjxVcMUJPFzW0o7phea) | 2:41 | 2022-10-28 | 2023-02-17 |
 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 | 2021-12-02 | 2022-10-29 |
@@ -542,11 +543,11 @@
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-21 | 2023-02-03 |
 | [Lost](https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0) | [T\-Dre](https://open.spotify.com/artist/7wGbzHaUlDhx4dUO4PCSmD), [Delux](https://open.spotify.com/artist/4FqhfuOE9gIZuYAVIqEy4f), [Cali Life Style](https://open.spotify.com/artist/3E2UDuBBn7uLqOz30oWEQu) | [Mexican Invasion](https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX) | 4:48 | 2022-01-24 | 2022-03-17 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-03-18 | 2023-02-17 |
-| [love that stains](https://open.spotify.com/track/6sFUlgljN8JyvqI5mDJUUF) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [love that stains](https://open.spotify.com/album/0v14JEuz0kiG13RHgqUUER) | 3:45 | 2026-06-26 |  |
+| [love that stains](https://open.spotify.com/track/6sFUlgljN8JyvqI5mDJUUF) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [love that stains](https://open.spotify.com/album/0v14JEuz0kiG13RHgqUUER) | 3:45 | 2026-06-26 | 2026-10-18 |
 | [Love You Like A Love Song](https://open.spotify.com/track/3Ge27Zxv9DLpYenWdoUyVJ) | [Kauai45](https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD) | [Love You Like A Love Song](https://open.spotify.com/album/52oyEMc0XE02mCIGFJ1bys) | 1:21 | 2023-02-17 | 2023-05-13 |
 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 | 2023-10-20 | 2024-04-13 |
 | [low key](https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [low key](https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF) | 4:14 | 2024-01-19 | 2024-04-13 |
-| [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-11-07 |  |
+| [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-11-07 | 2026-10-18 |
 | [luchador](https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [luchador ep](https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0) | 2:22 | 2023-11-17 | 2024-01-29 |
 | [Lucid Dream](https://open.spotify.com/track/0EH9R67SvlEYGFwdVpa6bB) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Lucid Dream](https://open.spotify.com/album/61fX7FNQK2NvtK16unJ8Uj) | 3:07 | 2021-12-02 | 2022-01-25 |
 | [LULUNA](https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [LULUNA](https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq) | 3:08 | 2024-01-12 | 2024-04-19 |
@@ -966,6 +967,7 @@
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-04-13 | 2023-05-13 |
 | [Toco Madera](https://open.spotify.com/track/4YqrNwdHgiuu8CC4M9CWbS) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [MARTÍNEZ](https://open.spotify.com/album/51M1v1cWZb3KE6jNRwl67I) | 3:48 | 2023-08-25 | 2023-09-16 |
 | [Toda una vida](https://open.spotify.com/track/2Blydh05Xl0U0LST9beyR7) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Toda una vida](https://open.spotify.com/album/5ZoDaSrxspL5PHHyqWu0Xd) | 2:51 | 2025-09-26 | 2026-10-17 |
+| [Todo Baila \(feat\. M\. Ward\)](https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Vendrán Suaves Lluvias \(y el tiempo prudente\)](https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB) | 2:53 | 2026-10-16 |  |
 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 | 2026-07-31 |  |
 | [Toma Mi Mano](https://open.spotify.com/track/74LJQw9zLK4lzoM8XbMF5W) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Desde Cero](https://open.spotify.com/album/0mu3YWwHifRp0U6Dd7ghgO) | 3:01 | 2023-02-02 | 2023-08-05 |
 | [Too Much](https://open.spotify.com/track/4641GJZLmYVBT8mRXRKaid) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Too Much](https://open.spotify.com/album/4dZQkNMhgBKHOx9QOgqWWW) | 2:11 | 2021-12-02 | 2022-10-13 |

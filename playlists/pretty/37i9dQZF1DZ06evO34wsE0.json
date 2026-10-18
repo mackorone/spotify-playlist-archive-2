@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254981,
+  "num_followers": 254984,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABVPpaXRaiQIKh68yeNV0RB",
+  "snapshot_id": "atAXgAAAAAC/LvsKm/mb5K8Ttj0ctiX4",
   "tracks": [
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock This Country",
-        "url": "https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 210333,
-      "name": "I Ain't No Quitter - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
+      "duration_ms": 252240,
+      "name": "I Won't Leave You Lonely",
+      "url": "https://open.spotify.com/track/1duv1TxQLmY2DuXdilI18Y"
     }
   ],
   "unique_name": "This Is Shania Twain",

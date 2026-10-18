@@ -1,6 +1,6 @@
 {
   "description": "songs so golden wie der herbst ",
-  "num_followers": 1302060,
+  "num_followers": 1301992,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-10-15 22:01:34",
       "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "added_at": "2026-10-15 22:01:34",
+      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
-      "added_at": "2026-10-15 22:01:34",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
       "added_at": "2026-10-15 22:01:34",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-15 22:01:34",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2026-10-15 22:01:34",
-      "album": {
         "name": "Kansas Anymore",
         "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 169974,
       "name": "Writing's On The Wall",
       "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
+    },
+    {
+      "added_at": "2026-10-15 22:01:34",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2026-10-15 22:01:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-15 22:01:34",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
-    },
-    {
-      "added_at": "2026-10-15 22:01:34",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything",
       "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
+    },
+    {
+      "added_at": "2026-10-15 22:01:34",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "added_at": "2026-10-15 22:01:34",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-10-15 22:01:34",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "From Eden",
-      "url": "https://open.spotify.com/track/0bkW98npv8EsWQ2fXFzK56"
-    },
-    {
-      "added_at": "2026-10-15 22:01:34",
-      "album": {
         "name": "to love and to lose",
         "url": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 181246,
       "name": "to love and to lose",
       "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
+    },
+    {
+      "added_at": "2026-10-15 22:01:34",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "From Eden",
+      "url": "https://open.spotify.com/track/0bkW98npv8EsWQ2fXFzK56"
     },
     {
       "added_at": "2026-10-15 22:01:34",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-10-15 22:01:34",
       "album": {
-        "name": "Bea and her Business (2023-2025)",
-        "url": "https://open.spotify.com/album/2MDq2ZqtRBCJWyQ9hRL5l9"
-      },
-      "artists": [
-        {
-          "name": "Bea",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 151952,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/6QJRAmuvUGvpyIFPLZLhEY"
-    },
-    {
-      "added_at": "2026-10-15 22:01:34",
-      "album": {
         "name": "frieden",
         "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 165466,
       "name": "frieden",
       "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
+    },
+    {
+      "added_at": "2026-10-15 22:01:34",
+      "album": {
+        "name": "Bea and her Business (2023-2025)",
+        "url": "https://open.spotify.com/album/2MDq2ZqtRBCJWyQ9hRL5l9"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 151952,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/6QJRAmuvUGvpyIFPLZLhEY"
     },
     {
       "added_at": "2026-10-15 22:01:34",

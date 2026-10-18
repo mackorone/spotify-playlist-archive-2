@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 627554,
+  "num_followers": 627496,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Too Rye Ay",
-        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 287306,
-      "name": "Come On Eileen",
-      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 318893,
-      "name": "Rolling Sea",
-      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
-        "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
+        "name": "Tight Knit",
+        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
       },
       "artists": [
         {
-          "name": "Waylon Payne",
-          "url": "https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE"
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
         }
       ],
-      "duration_ms": 256352,
-      "name": "Santa Ana Winds",
-      "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
+      "duration_ms": 318893,
+      "name": "Rolling Sea",
+      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1419,6 +1403,22 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
+        "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
+      },
+      "artists": [
+        {
+          "name": "Waylon Payne",
+          "url": "https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE"
+        }
+      ],
+      "duration_ms": 256352,
+      "name": "Santa Ana Winds",
+      "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
     },
     {
       "added_at": "2024-07-05 20:58:56",

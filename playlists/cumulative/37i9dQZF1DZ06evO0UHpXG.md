@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-150 songs - 9 hr 15 min
+151 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Born to Raise Hell \- feat\. Whitfield Crane \- Lemmy's 50th Birthday, Live at Whisky a Go Go, West Hollywood, 1995](https://open.spotify.com/track/6qsgnhFqjQ1GLn5yjZuTfM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [Whitfield Crane](https://open.spotify.com/artist/6HU4fyvpYAfNwdzCDGmSnz) | [The Löst Tapes, Vol\. 7 \(Lemmy's 50th Birthday, Live in West Hollywood, 1995\)](https://open.spotify.com/album/61EukiCvHkfOWHaM8hglJx) | 5:35 | 2025-12-26 | 2026-01-23 |
 | [Brotherhood Of Man](https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The World Is Yours](https://open.spotify.com/album/3w6OQUsrAPQsPUC1fBkdv6) | 5:15 | 2022-12-30 | 2026-04-25 |
 | [Brotherhood of Man](https://open.spotify.com/track/2ECIMo49jTC22wxTGG5MGm) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Wörld Is Yours](https://open.spotify.com/album/4OF35G0P3UDRwomu15nIQL) | 5:15 | 2026-04-25 |  |
+| [Built for Speed \- Cameron Webb 40th Anniversary Remix](https://open.spotify.com/track/0ufSvTvRqurYRHY0b5RCay) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Built for Speed \(Cameron Webb 40th Anniversary Remix\)](https://open.spotify.com/album/6uhycy6d8ISmHDKxAJYOFE) | 4:56 | 2026-10-18 |  |
 | [Bullet In Your Brain](https://open.spotify.com/track/4TDdlKWf59N0wqBTipYzcJ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bullet In Your Brain](https://open.spotify.com/album/3yn75PrdYZssPvj8kwKpN4) | 3:17 | 2022-12-30 | 2023-05-06 |
 | [Burner](https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 2:54 | 2022-12-30 | 2026-08-27 |
 | [Cat Scratch Fever](https://open.spotify.com/track/2Z4dGhSV230biXT6ejyKIo) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 3:52 | 2026-08-15 | 2026-09-13 |
@@ -32,7 +33,7 @@
 | [Climber \- Demo](https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Climber \(Demo\)](https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm) | 3:13 | 2023-09-18 | 2023-12-14 |
 | [Damage Case](https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 3:02 | 2023-12-13 |  |
 | [Damage Case](https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 3:02 | 2022-12-30 | 2023-12-14 |
-| [Dead Men Tell No Tales](https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:04 | 2024-03-11 |  |
+| [Dead Men Tell No Tales](https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:04 | 2024-03-11 | 2026-10-18 |
 | [Deaf Forever](https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 4:26 | 2024-01-13 |  |
 | [Doctor Rock](https://open.spotify.com/track/0kdjChnb1cz1EM5Xq1Ducl) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 3:37 | 2026-04-15 |  |
 | [Doctor Rock \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/0qkYLlozbEJMgYWrYa8Qyt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 4:10 | 2024-01-15 | 2024-02-12 |

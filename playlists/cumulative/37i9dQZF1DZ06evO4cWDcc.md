@@ -4,7 +4,7 @@
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-109 songs - 7 hr 52 min
+110 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Introduction \- Live at the Los Angeles Forum, Inglewood, CA \- April 26, 1969](https://open.spotify.com/track/2K8x0Nf3AnhDjx9899Bl4Y) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Los Angeles Forum \- April 26, 1969 \(Live\)](https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT) | 2:27 | 2022-11-24 | 2023-12-14 |
 | [Izabella](https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:44 | 2025-12-17 |  |
 | [Izabella \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/4qCjs9O9rjhe8YIQgiIswu) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 3:28 | 2022-11-04 | 2023-12-14 |
+| [Johnny B\. Goode \- Live At Berkeley \- 1st Show](https://open.spotify.com/track/3c2JhiszPrDz3G03Dylz0r) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Magic Boy: The Jimi Hendrix Experience Live At Berkeley \[First Show\]](https://open.spotify.com/album/1kvQfnOEYKiU6RYEdRosWi) | 4:17 | 2026-10-18 |  |
 | [Johnny B\. Goode \- Live Berkeley Community Center, Berkeley, CA May 30, 1970](https://open.spotify.com/track/2Evi89iMO3vQMsGPMuSwhx) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Hendrix In The West](https://open.spotify.com/album/0C9zGX5oAjQ87jkSlzXOz1) | 4:43 | 2022-11-04 | 2022-12-01 |
 | [Jungle](https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:28 | 2022-11-04 |  |
 | [Killing Floor \- Live At Monterey](https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 3:14 | 2022-11-04 |  |
@@ -104,7 +105,7 @@
 | [Tax Free \- Live at the Los Angeles Forum, Inglewood, CA \- April 26, 1969](https://open.spotify.com/track/6aafnoN8DyLju1SVjN3YVH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Los Angeles Forum \- April 26, 1969 \(Live\)](https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT) | 15:34 | 2022-11-30 | 2023-03-29 |
 | [The Star Spangled Banner \- Woodstock Festival Excerpt](https://open.spotify.com/track/57im5UyAqXFTO6IfbjDOnx) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 0:42 | 2023-03-22 | 2023-07-06 |
 | [The Wind Cries Mary](https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:20 | 2022-11-04 |  |
-| [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 | 2022-11-04 |  |
+| [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 | 2022-11-04 | 2026-10-18 |
 | [Up From The Skies](https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:57 | 2024-02-16 | 2026-08-27 |
 | [Valleys of Neptune](https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:45 | 2024-10-07 | 2026-01-15 |
 | [Valleys of Neptune](https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Valleys Of Neptune](https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg) | 4:02 | 2022-11-04 | 2024-10-07 |

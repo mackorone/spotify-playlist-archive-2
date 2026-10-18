@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,638 likes - 36 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,653 likes - 36 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 13 | [On Call](https://open.spotify.com/track/3ktBsGHC3bilfpYNCrnzMm) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:35 |
 | 14 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
 | 15 | [Pink Light](https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:11 |
-| 16 | [Morning Pages](https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:47 |
+| 16 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 |
 | 17 | [Girl's Girl](https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:13 |
 | 18 | [Solid](https://open.spotify.com/track/3TN26MWVgoxlt7rbtZ8Xb8) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:21 |
-| 19 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 |
+| 19 | [Morning Pages](https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:47 |
 | 20 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 |
 | 21 | [Wannabeher](https://open.spotify.com/track/4412CfupPqPn61n1nVew0s) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:34 |
 | 22 | [Runner’s High](https://open.spotify.com/track/0h0A93X0cOihhnuOv6EPtF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:43 |
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 27 | [Loudspeaker](https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:30 |
 | 28 | [GAY \- MUNA Remix](https://open.spotify.com/track/6LCLR74dsJsjSEWeajW5sO) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [GAY \(MUNA Remix\)](https://open.spotify.com/album/2OOI5aONzBGkcGusEIQKE3) | 2:59 |
 | 29 | [Hands Off](https://open.spotify.com/track/4CyMzD8DiE5o6yV1fYGjna) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:39 |
-| 30 | [Relief Next to Me](https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Tegan and Sara Present the Con X: Covers](https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9) | 2:57 |
+| 30 | [Nihilist \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 3:25 |
 | 31 | [Winterbreak](https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:57 |
-| 32 | [Nihilist \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 3:25 |
+| 32 | [Relief Next to Me](https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Tegan and Sara Present the Con X: Covers](https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9) | 2:57 |
 | 33 | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX) | 3:20 |
 | 34 | [What's Love](https://open.spotify.com/track/4VSiqzvtOtatsHXPKN6IHw) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [For Your Consideration](https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX) | 3:09 |
 | 35 | [So Special](https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:57 |
 | 36 | [Everything](https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:06 |
 
-Snapshot ID: `as7GAAAAAAA1/xJSAG828QFmT5kWuiA+`
+Snapshot ID: `atFpAAAAAADPrK1kWgQeg2D55kpuMMc6`

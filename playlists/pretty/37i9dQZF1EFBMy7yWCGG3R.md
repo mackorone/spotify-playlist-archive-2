@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,891 likes - 284 songs - 15 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,894 likes - 284 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 148 | [Poster Girl](https://open.spotify.com/track/5B1TY0oq5I1VeTZxEnkGV8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:57 |
 | 149 | [What You Do to Me](https://open.spotify.com/track/2cY8x0jQ1wWEipUCouclsD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 3:21 |
 | 150 | [Thank You](https://open.spotify.com/track/1lgIfLiB4abFQR90h7gRcC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:08 |
-| 151 | [Body](https://open.spotify.com/track/2GmPIJzviXYtkTKYYUlloB) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:00 |
-| 152 | [Lean In, Kiss Me](https://open.spotify.com/track/1VDE2EdLW9pkhAdtneo5nN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:38 |
+| 151 | [Lean In, Kiss Me](https://open.spotify.com/track/1VDE2EdLW9pkhAdtneo5nN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:38 |
+| 152 | [Body](https://open.spotify.com/track/2GmPIJzviXYtkTKYYUlloB) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:00 |
 | 153 | [Just Like Me](https://open.spotify.com/track/2JAcfiPxbdFMoy3SdytnM9) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:44 |
 | 154 | [repercussions](https://open.spotify.com/track/3EGxhUpcKaYixmxNlSABDo) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:27 |
 | 155 | [Right Here \- Alok Remix](https://open.spotify.com/track/4POzcNoW84PVh7wNO5V3f9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:35 |
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 163 | [why'd you have to call](https://open.spotify.com/track/6mCGCsAhbZXWOsHUrWFhhO) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2tPMXmAmKZho6vhIv4vjVG) | 4:13 |
 | 164 | [Hallelujah](https://open.spotify.com/track/0qQQJn3GV1Igk3NRwlelqg) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:39 |
 | 165 | [Apple](https://open.spotify.com/track/56bbqIxsAzzNX28hYl8wRL) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:44 |
-| 166 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 |
-| 167 | [Fantasize](https://open.spotify.com/track/4aEUKbIJk6NL95J2AEpilr) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/7Ifiyhu4wyMHojKPy2jJlb) | 3:03 |
+| 166 | [Fantasize](https://open.spotify.com/track/4aEUKbIJk6NL95J2AEpilr) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/7Ifiyhu4wyMHojKPy2jJlb) | 3:03 |
+| 167 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 |
 | 168 | [The Way You Don't Look At Me](https://open.spotify.com/track/4nD97NVwkp8pNWmhW2kgHd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:28 |
 | 169 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 |
 | 170 | [Desperate](https://open.spotify.com/track/4nfuvV34THjGorJHAiijkw) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 2:54 |
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 283 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 284 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 
-Snapshot ID: `AcfIKAAAAACwxE7kW3iWoCS3QEVftx6R`
+Snapshot ID: `AcfNyAAAAADgem6iPp+GIGIvsPSBG2lp`

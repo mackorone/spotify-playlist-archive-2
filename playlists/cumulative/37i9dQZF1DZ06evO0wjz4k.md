@@ -4,10 +4,11 @@
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 14 min
+83 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Til the End \- Acoustic](https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 4:29 | 2026-10-18 |  |
 | [All Day](https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:46 | 2025-08-14 |  |
 | [All Day](https://open.spotify.com/track/5xcW5ELVa0nGEFqEpl3DRG) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 3:46 | 2025-06-15 | 2025-08-14 |
 | [American Girl \- Live Acoustic](https://open.spotify.com/track/0jwZjetkdQHnNbI1GV4rRc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [American Girl \(Live Acoustic\)](https://open.spotify.com/album/1JYpShhiHgMPowcaGhKJPb) | 3:55 | 2025-06-15 | 2025-06-29 |
@@ -60,7 +61,7 @@
 | [My Blue](https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 5:11 | 2025-06-29 |  |
 | [New York Is On Fire](https://open.spotify.com/track/5PpeFaW7pWQre11m6eg3e2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 4:53 | 2026-05-25 | 2026-06-29 |
 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 | 2025-06-15 |  |
-| [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 | 2025-06-15 |  |
+| [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 | 2025-06-15 | 2026-10-18 |
 | [Permanent Headphones](https://open.spotify.com/track/1gVbNW6zPKkfhVSQu5nVDZ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 | 2025-06-29 | 2025-08-11 |
 | [Pretty Heart](https://open.spotify.com/track/7nINhyXn6uwUkYLY5KQH0K) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 4:05 | 2025-06-15 |  |
 | [Rest Of My Life](https://open.spotify.com/track/2HhQmzrUnt4XyiX5vk1VVq) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 2:54 | 2025-06-15 |  |

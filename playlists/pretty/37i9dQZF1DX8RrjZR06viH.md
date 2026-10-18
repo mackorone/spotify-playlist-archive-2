@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,893 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,884 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 4 | [Babycake](https://open.spotify.com/track/51wGa9a97WhBQZxMGRnnlm) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Babycake](https://open.spotify.com/album/40vt0NOKvzkoFMXZRcnuX3) | 2:28 |
 | 5 | [Kjempeglad](https://open.spotify.com/track/4Tm04Hl7VMYMnTj07gtHPA) | [Karoline hele året](https://open.spotify.com/artist/4BWtwqCTA5DeYNEscwAkAz) | [Kjempeglad](https://open.spotify.com/album/0715MGHRkf9EKUoyfjkJiI) | 1:50 |
 | 6 | [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/track/0gAJiu6fAe7j2PxYEz9f7a) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/album/3ACL65kXWrm0pFQkxJfIkT) | 2:19 |
-| 7 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
-| 8 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
+| 7 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
+| 8 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
 | 9 | [Ariel](https://open.spotify.com/track/6VGnJFWHmwzYsBpjdmngUd) | [Unge Særing](https://open.spotify.com/artist/5zU3MVLxavrnLUeTaEw0HB) | [Ariel](https://open.spotify.com/album/2vMFtW4QNFc3oQIolt2026) | 2:39 |
 | 10 | [Babydoll](https://open.spotify.com/track/447Vib1hJsXGnbhTbYYT8t) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Babydoll / White Keys](https://open.spotify.com/album/4Yuq8tFz4TKco52rOnf1Ra) | 1:37 |
 | 11 | [Varmt](https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Varmt](https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW) | 2:07 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 63 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
 | 64 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
 | 65 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
-| 66 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
-| 67 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
+| 66 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
+| 67 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 68 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 |
-| 69 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
-| 70 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 69 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 70 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
 | 71 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 |
 | 72 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 |
 | 73 | [Alt man tenker på](https://open.spotify.com/track/1DPL5Rw5K7D4VyLFMqfVp7) | [Paul Fjell](https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7) | [Alt man tenker på](https://open.spotify.com/album/35y5zwVgFUL32EnG2J4xA5) | 3:46 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 80 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
 | 81 | [Late Bloomer](https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg vil ikke stå i ro lenger](https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A) | 2:53 |
 | 82 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 |
-| 83 | [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 |
-| 84 | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 |
+| 83 | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 |
+| 84 | [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 |
 | 85 | [Oslo / Karachi / Paris](https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 2](https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7) | 4:09 |
 
 Snapshot ID: `AAAAAAj+Vt9eJEa/Mt2eYDNpczzvgAan`

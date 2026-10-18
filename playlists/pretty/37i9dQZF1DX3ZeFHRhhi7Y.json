@@ -1,6 +1,6 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: MEOVV) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1324771,
+  "num_followers": 1324705,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-13 09:59:04",
       "album": {
-        "name": "REVERXE - The 8th Album",
-        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
-    },
-    {
-      "added_at": "2026-10-13 09:59:04",
-      "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/0TOh2mF9pf00hxvePxpJFj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/2adYJ0qJw5Io8nhtQ9KjHq"
+    },
+    {
+      "added_at": "2026-10-13 09:59:04",
+      "album": {
+        "name": "REVERXE - The 8th Album",
+        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
     },
     {
       "added_at": "2026-10-13 09:59:04",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-10-13 09:59:04",
       "album": {
-        "name": "Fame",
-        "url": "https://open.spotify.com/album/3SIlbEWc9S5hvcyIgMZN69"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 176847,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/7pjjoNOZQW7H8pOSCFIvsX"
-    },
-    {
-      "added_at": "2026-10-13 09:59:04",
-      "album": {
         "name": "Blue Valentine",
         "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 186000,
       "name": "Blue Valentine",
       "url": "https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw"
+    },
+    {
+      "added_at": "2026-10-13 09:59:04",
+      "album": {
+        "name": "Fame",
+        "url": "https://open.spotify.com/album/3SIlbEWc9S5hvcyIgMZN69"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 176847,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/7pjjoNOZQW7H8pOSCFIvsX"
     },
     {
       "added_at": "2026-10-13 09:59:04",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-10-13 09:59:04",
       "album": {
-        "name": "BITE NOW",
-        "url": "https://open.spotify.com/album/1vD1hoR6vP6V4mpytBeCtB"
+        "name": "I DONT CARE",
+        "url": "https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
         }
       ],
-      "duration_ms": 168375,
-      "name": "Hit 'Em",
-      "url": "https://open.spotify.com/track/36vNPZ4chJ8IWfirSQMHN0"
+      "duration_ms": 199867,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4"
     },
     {
       "added_at": "2026-10-13 09:59:04",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-10-13 09:59:04",
       "album": {
-        "name": "I DONT CARE",
-        "url": "https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X"
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/1vD1hoR6vP6V4mpytBeCtB"
       },
       "artists": [
         {
-          "name": "Baby DONT Cry",
-          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 199867,
-      "name": "I DONT CARE",
-      "url": "https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4"
+      "duration_ms": 168375,
+      "name": "Hit 'Em",
+      "url": "https://open.spotify.com/track/36vNPZ4chJ8IWfirSQMHN0"
     },
     {
       "added_at": "2026-10-13 09:59:04",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-10-13 09:59:04",
       "album": {
-        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
-        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
-      },
-      "artists": [
-        {
-          "name": "ALPHA DRIVE ONE",
-          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "BORN DIRE",
-      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
-    },
-    {
-      "added_at": "2026-10-13 09:59:04",
-      "album": {
         "name": "THIS & THAT",
         "url": "https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 180180,
       "name": "THAT'S A NO NO",
       "url": "https://open.spotify.com/track/5Dxoukq4UC29A7OjQTbHgw"
+    },
+    {
+      "added_at": "2026-10-13 09:59:04",
+      "album": {
+        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
+        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "BORN DIRE",
+      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
     },
     {
       "added_at": "2026-10-13 09:59:04",

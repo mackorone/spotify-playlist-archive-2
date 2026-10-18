@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Mike Evans
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Gabby Williams
 
 950 songs - 2 day 0 hr 6 min
 

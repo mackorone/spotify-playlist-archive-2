@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Dear Joanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,967 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,977 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 35 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 | 36 | [Cuando el sol bese a la luna](https://open.spotify.com/track/4ozZG3Cgiyf17pVda3p02S) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Cuando el sol bese a la luna](https://open.spotify.com/album/69dTwJHcOc4xcmpzpGKKgf) | 2:23 |
 | 37 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
-| 38 | [Coleccionando atardeceres](https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Coleccionando atardeceres](https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic) | 3:03 |
-| 39 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
-| 40 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
+| 38 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
+| 39 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
+| 40 | [Coleccionando atardeceres](https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Coleccionando atardeceres](https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic) | 3:03 |
 | 41 | [Se siente fuerte](https://open.spotify.com/track/6AR6FZiCFYeQasbE8PiQUl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Se siente fuerte](https://open.spotify.com/album/1IvfAV0woYVGewg3EI8Ojt) | 2:52 |
 | 42 | [Agarra mi mano](https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Agarra mi mano](https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY) | 3:27 |
 | 43 | [Un Mundo Feliz](https://open.spotify.com/track/2DYuMgoUq4Dyiz7k2UfCJf) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Manual de Belleza](https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b) | 4:31 |

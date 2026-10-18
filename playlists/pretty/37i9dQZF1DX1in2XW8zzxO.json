@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 107179,
+  "num_followers": 107208,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -455,34 +455,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
-      },
-      "artists": [
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        },
-        {
-          "name": "Tumelo_za",
-          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
-        },
-        {
-          "name": "Tyrone Dee",
-          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
-        }
-      ],
-      "duration_ms": 381768,
-      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Shokozela",
         "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
       },
@@ -511,6 +483,34 @@
       "duration_ms": 492759,
       "name": "Shokozela",
       "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        }
+      ],
+      "duration_ms": 381768,
+      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Club What",
-        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
-      },
-      "artists": [
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        },
-        {
-          "name": "Djy Vino",
-          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
-        }
-      ],
-      "duration_ms": 408866,
-      "name": "Club What",
-      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) [Edit]",
         "url": "https://open.spotify.com/album/2cdf1yQGKMbpgOcKmRIIaI"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 208152,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) - Edit",
       "url": "https://open.spotify.com/track/1eLmNFlt2oupiPivtzZyd7"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Club What",
+        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
+      },
+      "artists": [
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        },
+        {
+          "name": "Djy Vino",
+          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        }
+      ],
+      "duration_ms": 408866,
+      "name": "Club What",
+      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

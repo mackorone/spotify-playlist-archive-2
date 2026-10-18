@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 34297,
+  "num_followers": 34299,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "L\u00fadico",
-        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
       },
       "artists": [
         {
-          "name": "Francisco De Rosa",
-          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
-        },
-        {
-          "name": "Francisco De Rosa Quinteto",
-          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
         }
       ],
-      "duration_ms": 306999,
-      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
-      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -279,18 +275,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+        "name": "L\u00fadico",
+        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
       },
       "artists": [
         {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+          "name": "Francisco De Rosa",
+          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
+        },
+        {
+          "name": "Francisco De Rosa Quinteto",
+          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
         }
       ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
+      "duration_ms": 306999,
+      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
+      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Boticario de Amor",
-        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
-      },
-      "artists": [
-        {
-          "name": "Hot Shooters",
-          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "NO LA VI VENIR",
-      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 395117,
       "name": "Chacafrik",
       "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Boticario de Amor",
+        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
+      },
+      "artists": [
+        {
+          "name": "Hot Shooters",
+          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "NO LA VI VENIR",
+      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -731,18 +731,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+        "name": "All the Things You Are",
+        "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
       },
       "artists": [
         {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+          "name": "Ruben Lopez Furst",
+          "url": "https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX"
+        },
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        },
+        {
+          "name": "Luis Ceravolo",
+          "url": "https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E"
         }
       ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+      "duration_ms": 408293,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -767,26 +775,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "All the Things You Are",
-        "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
       "artists": [
         {
-          "name": "Ruben Lopez Furst",
-          "url": "https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX"
-        },
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        },
-        {
-          "name": "Luis Ceravolo",
-          "url": "https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E"
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
         }
       ],
-      "duration_ms": 408293,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Merlo",
-          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
-        }
-      ],
-      "duration_ms": 342480,
-      "name": "Comrade Conrad",
-      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Ausencias",
         "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 298880,
       "name": "Ausencias",
       "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Merlo",
+          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
+        }
+      ],
+      "duration_ms": 342480,
+      "name": "Comrade Conrad",
+      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 292572,
-      "name": "Creer en las Hojas",
-      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Danza",
         "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 272036,
       "name": "Cristal",
       "url": "https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 292572,
+      "name": "Creer en las Hojas",
+      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 356723,
-      "name": "De Pie",
-      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Roman",
         "url": "https://open.spotify.com/album/4z7OxQXwykb4W5uBkbGiY0"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 291561,
       "name": "Bill's Groove",
       "url": "https://open.spotify.com/track/34fbQjaiSWhK8bP6zfblCS"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 356723,
+      "name": "De Pie",
+      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
     },
     {
       "added_at": "2025-04-14 14:58:34",

@@ -4,7 +4,7 @@
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 35 min
+77 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Maria](https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits](https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug) | 4:09 | 2025-03-08 | 2025-10-26 |
 | [Maria](https://open.spotify.com/track/43117dpRPkEXz7euANdYDV) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 4:51 | 2026-08-26 | 2026-08-27 |
 | [Maria \- Radio Edit](https://open.spotify.com/track/4yHHx0rMvgCOoYoDWNdcR3) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Maria](https://open.spotify.com/album/2hx6pazNQ4tMM5T47pIDBT) | 4:09 | 2025-11-08 |  |
-| [No Exit \- feat\. Coolio](https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 4:19 | 2026-05-19 |  |
+| [No Exit \- feat\. Coolio](https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 4:19 | 2026-05-19 | 2026-10-18 |
 | [No Exit \- Urban Version Main Mix](https://open.spotify.com/track/5iAXhlUYW1SYnZNyCdiIQf) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [No Exit \(Urban Version Main Mix\)](https://open.spotify.com/album/7rVhSKWsUW94aUouGrFlzP) | 3:42 | 2025-10-24 | 2025-11-22 |
 | [Nothing Is Real but the Girl](https://open.spotify.com/track/5ZCIPSKOAyOAYfDVNM9LrQ) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 3:13 | 2025-11-23 |  |
 | [Once I Had A Love \(AKA The Disco Song\) \- 1975 Version / Remastered 2001](https://open.spotify.com/track/0UFLbtupYWaDGMS4io94Ml) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 3:58 | 2025-03-08 |  |
@@ -72,6 +72,7 @@
 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 | 2025-03-08 |  |
 | [Slow Motion](https://open.spotify.com/track/1J8PgePsTmVm3TAuYnblw6) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:28 | 2026-08-26 | 2026-08-27 |
 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 | 2025-03-08 |  |
+| [Spectral Eyes](https://open.spotify.com/track/5uagx4o8QQLVZVm29ffdFn) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Spectral Eyes](https://open.spotify.com/album/0KoJgvW1kOgVy48U087nBM) | 4:09 | 2026-10-18 |  |
 | [Sunday Girl \- French Version](https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Sunday Girl](https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw) | 3:14 | 2025-03-08 |  |
 | [Sunday Girl \- Remastered 2001](https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:05 | 2025-03-08 |  |
 | [The Hardest Part](https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:42 | 2025-03-08 |  |

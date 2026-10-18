@@ -1,6 +1,6 @@
 {
   "description": "Tallando, bailando y cantando. ",
-  "num_followers": 407324,
+  "num_followers": 407447,
   "original_name": "Canciones para lavar",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Si Volvieras A Mi",
-      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "30 Mejores Vol. 2",
         "url": "https://open.spotify.com/album/6lsChnup0ny0ddu0vt7WIS"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 294295,
       "name": "Volver",
       "url": "https://open.spotify.com/track/7efyNQkw5iAsQrvwwnNiy3"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Si Volvieras A Mi",
+      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Antes Muertas Que Sencillas",
         "url": "https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 170960,
       "name": "Antes Muerta Que Sencilla",
       "url": "https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
         "name": "M\u00fasica Tropical de Colombia (Vol. 11)",
         "url": "https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 224256,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
     },
     {
       "added_at": "2026-09-21 17:58:20",

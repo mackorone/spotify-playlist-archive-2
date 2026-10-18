@@ -4,7 +4,7 @@
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 42 min
+98 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Me Matas](https://open.spotify.com/track/50g9l7cOUIXt9LVl9eX784) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:23 | 2022-06-01 |  |
 | [Me Prendes](https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:37 | 2022-06-01 |  |
 | [Me Siento Perdido](https://open.spotify.com/track/1MWEsvmtNneecpUrSgSnz8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:54 | 2026-01-31 | 2026-04-02 |
-| [Mejor Acabar](https://open.spotify.com/track/4F6gv9MgsuWt7j2GXhWzSd) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:49 | 2023-04-29 |  |
+| [Mejor Acabar](https://open.spotify.com/track/4F6gv9MgsuWt7j2GXhWzSd) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:49 | 2023-04-29 | 2026-10-18 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 6:38 | 2022-06-01 |  |
+| [Mil Problemas](https://open.spotify.com/track/0LzkJLMy0FhjVswthlS5Mz) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 3:27 | 2026-10-18 |  |
 | [MIRA NOMAS](https://open.spotify.com/track/6dwBNnfG7SAlmOsftBVLoe) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:15 | 2025-03-16 | 2025-04-21 |
 | [MODO DEPRE :\(](https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:19 | 2022-06-01 | 2022-10-13 |
 | [MORIR TRES VECES](https://open.spotify.com/track/0HzL42pnpYPa0xAmBJ2F5r) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 3:28 | 2026-06-29 | 2026-07-26 |

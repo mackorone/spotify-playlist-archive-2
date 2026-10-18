@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 151148,
+  "num_followers": 151182,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "Handel: Judas Maccabaeus",
         "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 395026,
       "name": "Judas Maccabaeus, HWV 63, Act III: Duet \"O lovely peace\"",
       "url": "https://open.spotify.com/track/1o8KteyWoKK4HGEuUOCzS6"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -787,34 +787,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/5KOkG3hZnXJYrfipgTIeaL"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Elin Manahan Thomas",
-          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
-        },
-        {
-          "name": "Orchestra of the Age of Enlightenment",
-          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
-        },
-        {
-          "name": "Harry Christophers",
-          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
-      "url": "https://open.spotify.com/track/0drHxdDHQr20RWySE9TM7I"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel Coronation Anthems",
         "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
       },
@@ -839,6 +811,34 @@
       "duration_ms": 164320,
       "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
       "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5KOkG3hZnXJYrfipgTIeaL"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Elin Manahan Thomas",
+          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
+      "url": "https://open.spotify.com/track/0drHxdDHQr20RWySE9TM7I"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -999,30 +999,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
-      "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 314066,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
       "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
+      "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
+      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "In War & Peace - Harmony through Music",
         "url": "https://open.spotify.com/album/1TjvQpGgD9gaEQbUt5inKM"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 332320,
       "name": "Handel: Rinaldo, HWV 7, Act 2: \"Lascia ch'io pianga\" (Almirena)",
       "url": "https://open.spotify.com/track/2Sbb5o2R6zci4L0xEQhsvK"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
-      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
     },
     {
       "added_at": "2025-12-23 12:24:26",

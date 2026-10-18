@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 89498,
+  "num_followers": 89515,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACRrAtT7sbc5Q4Rcq7WogkJ",
+  "snapshot_id": "atFpAAAAAACQGUc2OBksPkambZ3jDSym",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 330126,
-      "name": "Like A Sword Over Damocles",
-      "url": "https://open.spotify.com/track/5YhmiVbhzLVP9aA20scJCs"
+      "duration_ms": 309029,
+      "name": "In The Court Of The Dragon",
+      "url": "https://open.spotify.com/track/1N8HMQL90GFdDaFUz6ONcs"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 309029,
-      "name": "In The Court Of The Dragon",
-      "url": "https://open.spotify.com/track/1N8HMQL90GFdDaFUz6ONcs"
+      "duration_ms": 330126,
+      "name": "Like A Sword Over Damocles",
+      "url": "https://open.spotify.com/track/5YhmiVbhzLVP9aA20scJCs"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning in the Sound",
-        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
+        "name": "The Crusade",
+        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Drowning in the Sound",
-      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
+      "duration_ms": 275240,
+      "name": "Entrance of the Conflagration",
+      "url": "https://open.spotify.com/track/2icKtrNwH2ugXzPu9DSwVD"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crusade",
-        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
+        "name": "Drowning in the Sound",
+        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 275240,
-      "name": "Entrance of the Conflagration",
-      "url": "https://open.spotify.com/track/2icKtrNwH2ugXzPu9DSwVD"
+      "duration_ms": 223200,
+      "name": "Drowning in the Sound",
+      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
     },
     {
       "added_at": null,

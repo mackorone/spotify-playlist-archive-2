@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,798 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,857 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 53 | [Reality](https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Reality](https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx) | 2:39 |
 | 54 | [Samsara \(feat\. Emila\)](https://open.spotify.com/track/6oJflQkp7lFXOQce4wPTAW) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Emila](https://open.spotify.com/artist/3AlnY6JafbuFhod8D3Lo8l) | [Samsara \(feat\. Emila\)](https://open.spotify.com/album/4rKrPkq8zi6jKmuLdzpNY2) | 3:31 |
 | 55 | [Gonna Love Ya](https://open.spotify.com/track/1rDETmcizen79JghAEm1Se) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:35 |
-| 56 | [Book Of Love \(feat\. Polina\)](https://open.spotify.com/track/2erg7Xduc8OHhkLepV4eER) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:18 |
-| 57 | [Closer](https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 4:30 |
-| 58 | [Rivers](https://open.spotify.com/track/3NBDgwEAGMj0aKRsU8zoO9) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Rivers](https://open.spotify.com/album/0lpByNVVfNDqTes37JjvoA) | 3:27 |
+| 56 | [Rivers](https://open.spotify.com/track/3NBDgwEAGMj0aKRsU8zoO9) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Rivers](https://open.spotify.com/album/0lpByNVVfNDqTes37JjvoA) | 3:27 |
+| 57 | [Book Of Love \(feat\. Polina\)](https://open.spotify.com/track/2erg7Xduc8OHhkLepV4eER) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:18 |
+| 58 | [Closer](https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 4:30 |
 | 59 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
 | 60 | [Boom](https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 3:06 |
 | 61 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |

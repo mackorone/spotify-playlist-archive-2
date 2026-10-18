@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Marina Herlop
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,636 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,635 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 10 | [Staying In](https://open.spotify.com/track/3lmxov6UJ5Ixrt4uCX3cyV) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [Confession](https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c) | 2:19 |
 | 11 | [Carme](https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 5:14 |
 | 12 | [Jaque](https://open.spotify.com/track/0vVXlh1qL9h6RbNsrEuPF7) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Jaque](https://open.spotify.com/album/6hF1gA5cHmsPCGMRFWrOp0) | 4:52 |
-| 13 | [Enough](https://open.spotify.com/track/5uJWzxAUwEqfwhQiIWXBZJ) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Enough](https://open.spotify.com/album/2vkqn0lgjSVpEdVE1RRRCA) | 6:28 |
-| 14 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
+| 13 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
+| 14 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
 | 15 | [Crisopoli](https://open.spotify.com/track/1LaEAzGgmOYrS9ZNzYHtwY) | [Adriano Zanni](https://open.spotify.com/artist/0kjAa0r1yMBKEmYq4dFE4j) | [Crisopoli](https://open.spotify.com/album/7eYPOqja8dCM0QvDKWW55O) | 3:56 |
 | 16 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 |
-| 17 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
+| 17 | [Enough](https://open.spotify.com/track/5uJWzxAUwEqfwhQiIWXBZJ) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Enough](https://open.spotify.com/album/2vkqn0lgjSVpEdVE1RRRCA) | 6:28 |
 | 18 | [Everything is unreal \- Valentina Magaletti EDIT](https://open.spotify.com/track/7ltVPWL8GUXUbKJiBYZgPq) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 4:08 |
 | 19 | [Moans](https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:33 |
 | 20 | [RÀRECHE](https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [RÀRECHE](https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al) | 2:51 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 45 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
 | 46 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 |
 | 47 | [Synonym Mask](https://open.spotify.com/track/1b9205ZnzYSyHem2EDVk7J) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Alex Lázaro](https://open.spotify.com/artist/6xtpdgUkJusKVCq7FerbHr) | [Synonym Mask](https://open.spotify.com/album/0fY0q61WeeGIeZtTGAEcY8) | 3:00 |
-| 48 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
-| 49 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
+| 48 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
+| 49 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
 | 50 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
 | 51 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
-| 52 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
-| 53 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
-| 54 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
-| 55 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
+| 52 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
+| 53 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
+| 54 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
+| 55 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
 | 56 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
 | 57 | [I Dream](https://open.spotify.com/track/7s0hSLYHlHpHOOVe9z1MQk) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [The Lost Tapes EP](https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8) | 2:57 |
 | 58 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |

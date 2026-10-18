@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > only the best tech house &amp; house music
 
-[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,246 likes - 48 songs - 2 hr 36 min
+[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,249 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

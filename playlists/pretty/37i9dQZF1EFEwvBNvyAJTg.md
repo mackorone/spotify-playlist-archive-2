@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 191 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 192 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 98 | [Out For The Weekend](https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Out For The Weekend](https://open.spotify.com/album/5xTD5saqA6XYfi3A7C8nyA) | 3:27 |
 | 99 | [Move](https://open.spotify.com/track/4F93hL6knRV2DYdo50r63z) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Move](https://open.spotify.com/album/56aEePjHqXCuNXtoBQxNhn) | 3:09 |
 | 100 | [Love Just Ain't Enough](https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:36 |
-| 101 | [Taste](https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 2:50 |
-| 102 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 101 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
+| 102 | [Taste](https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 2:50 |
 | 103 | [Bloody Hell](https://open.spotify.com/track/1BQ17JlAkS8cgTkvelXQHP) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:54 |
 | 104 | [Hell Bound](https://open.spotify.com/track/5q7qGNhvkSe9aNyGhy87Lb) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:40 |
 | 105 | [This One's For The Girls](https://open.spotify.com/track/0PgesxnsfbPbqF8XGN1CXh) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 3:20 |
@@ -186,9 +186,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 176 | [Just Like That](https://open.spotify.com/track/1ZHJT6nKBgeDdCOYkiIJe4) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:33 |
 | 177 | [Be With You](https://open.spotify.com/track/7LHuqudAcRuiCjhRE7DvuY) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:33 |
 | 178 | [MVP](https://open.spotify.com/track/3sypCr4jYSJSfOIwxNRsrD) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:21 |
-| 179 | [Motive](https://open.spotify.com/track/2p4s0gtr3rvRexcKALY8Oa) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 3:03 |
-| 180 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 |
-| 181 | [WORLD DOESN'T HAVE TO BE SUCH A SCARY PLACE!!](https://open.spotify.com/track/1hPhpIygqhmiEk5vqOhuZ2) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 6:25 |
+| 179 | [WORLD DOESN'T HAVE TO BE SUCH A SCARY PLACE!!](https://open.spotify.com/track/1hPhpIygqhmiEk5vqOhuZ2) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 6:25 |
+| 180 | [Motive](https://open.spotify.com/track/2p4s0gtr3rvRexcKALY8Oa) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 3:03 |
+| 181 | [Correct](https://open.spotify.com/track/0T5Ni4hQkYeCMd9omRIxA8) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:44 |
 | 182 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
 | 183 | [Heroes](https://open.spotify.com/track/7hZ2EoSYkzmONuIKFHWu4s) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [21st Century Living](https://open.spotify.com/album/0twHIfNLYeDZ4Q7YAEOhUR) | 3:38 |
 | 184 | [Fantasy](https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Fantasy](https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U) | 2:53 |
@@ -199,5 +199,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 189 | [You Go Too Fast \- Demo](https://open.spotify.com/track/1Yn8TF5NGEZALjrl6YKYAG) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/0UuAQD9Qv1Nd51Z75kgNqp) | 3:53 |
 | 190 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 191 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
+| 192 | [Visions](https://open.spotify.com/track/7H7TzWuZa7SA4vVIyvAHl8) | [The Modern Strangers](https://open.spotify.com/artist/0OIhm4drHH9SKkFkLrszM9) | [Visions](https://open.spotify.com/album/6qeeXQon6pCXfIxv1oRJTR) | 3:14 |
 
-Snapshot ID: `AcfIKAAAAACLgg4BxCP+sIL9DslYwPiV`
+Snapshot ID: `AcfNyAAAAADisX5Voeq8KmFAK4iey9gY`

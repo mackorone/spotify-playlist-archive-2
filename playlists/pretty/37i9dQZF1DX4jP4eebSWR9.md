@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: Ski Aggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,477,636 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,477,185 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

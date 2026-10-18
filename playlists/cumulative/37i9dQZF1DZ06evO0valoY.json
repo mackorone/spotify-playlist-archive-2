@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 229479,
       "name": "Mejor Acabar",
       "url": "https://open.spotify.com/track/4F6gv9MgsuWt7j2GXhWzSd"
@@ -1168,6 +1168,28 @@
       "duration_ms": 398466,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
+    },
+    {
+      "album": {
+        "name": "mosca",
+        "url": "https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207104,
+      "name": "Mil Problemas",
+      "url": "https://open.spotify.com/track/0LzkJLMy0FhjVswthlS5Mz"
     },
     {
       "album": {

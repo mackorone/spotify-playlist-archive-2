@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87750,
+  "num_followers": 87741,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "My Whole World",
-        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 247694,
-      "name": "My Whole World",
-      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 207984,
+      "name": "Feels Pt. 2",
+      "url": "https://open.spotify.com/track/3Qa2HE3GiMHIAvXIOosBiA"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd"
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
       "artists": [
         {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 207984,
-      "name": "Feels Pt. 2",
-      "url": "https://open.spotify.com/track/3Qa2HE3GiMHIAvXIOosBiA"
+      "duration_ms": 212304,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -459,22 +475,6 @@
       "duration_ms": 154959,
       "name": "The Big Night Out",
       "url": "https://open.spotify.com/track/0eR1KYPDvStGjIqLWsZytG"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
-        "name": "TRUSTFALL (Tour Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "All Out Of Fight",
-      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 138532,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Daffodils (feat. Faela)",
         "url": "https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 191332,
       "name": "Daffodils (feat. Faela)",
       "url": "https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 138532,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 182958,
+      "name": "we're not kids anymore",
+      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
         "name": "Tennessee Whiskey",
         "url": "https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 262500,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
-        "name": "emotionally unavailable",
-        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 182958,
-      "name": "we're not kids anymore",
-      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Love Vaccination",
-        "url": "https://open.spotify.com/album/1kvJBxY8gyKZHeu4909TzC"
-      },
-      "artists": [
-        {
-          "name": "Lo\u00efs Lane",
-          "url": "https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt"
-        }
-      ],
-      "duration_ms": 200137,
-      "name": "Love Vaccination",
-      "url": "https://open.spotify.com/track/3DEx3nVNz8woiNaAxGSotf"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Wicked Map",
         "url": "https://open.spotify.com/album/4wvNU1fLBizBoBuAZeqnuc"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 167382,
       "name": "Put A Little Hurt On Me",
       "url": "https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Love Vaccination",
+        "url": "https://open.spotify.com/album/1kvJBxY8gyKZHeu4909TzC"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efs Lane",
+          "url": "https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt"
+        }
+      ],
+      "duration_ms": 200137,
+      "name": "Love Vaccination",
+      "url": "https://open.spotify.com/track/3DEx3nVNz8woiNaAxGSotf"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Catch A Rainbow",
-        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Catch A Rainbow",
-      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "BITE THE BULLET",
         "url": "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 167693,
       "name": "BITE THE BULLET",
       "url": "https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Catch A Rainbow",
+        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Catch A Rainbow",
+      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
+        "name": "In Case You Missed It",
+        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "In Case You Missed It",
+      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
         "name": "Taste of Heaven",
         "url": "https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 199226,
       "name": "I HAVEN'T SAID ENOUGH",
       "url": "https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
-        "name": "In Case You Missed It",
-        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "In Case You Missed It",
-      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 170976,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/5xdC35mf072S94yav2vRt6"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Teach Me To Love",
         "url": "https://open.spotify.com/album/08Wm2NYCgalZxub07hKkBE"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 163404,
       "name": "Teach Me To Love",
       "url": "https://open.spotify.com/track/3nIxyMaQPG4SejKvsQA5Uj"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 170976,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/5xdC35mf072S94yav2vRt6"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Buckle Down",
-        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 166957,
-      "name": "Buckle Down",
-      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Wasted Heart",
-        "url": "https://open.spotify.com/album/6rW3fwX2xe6AK72266bbir"
+        "name": "Buckle Down",
+        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
       },
       "artists": [
         {
-          "name": "IBE",
-          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
         }
       ],
-      "duration_ms": 186093,
-      "name": "Wasted Heart",
-      "url": "https://open.spotify.com/track/0xDYB5xoFT2LbkWNkSoa8z"
+      "duration_ms": 166957,
+      "name": "Buckle Down",
+      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2091,6 +2075,22 @@
       "duration_ms": 235667,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Wasted Heart",
+        "url": "https://open.spotify.com/album/6rW3fwX2xe6AK72266bbir"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Wasted Heart",
+      "url": "https://open.spotify.com/track/0xDYB5xoFT2LbkWNkSoa8z"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6q4Ss6nSwVlTSKDttPyqjb"
-      },
-      "artists": [
-        {
-          "name": "Puggy",
-          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
-        }
-      ],
-      "duration_ms": 162642,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5iq8DndLIqUnZJbfteoOTu"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 227666,
       "name": "Word's Out",
       "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6q4Ss6nSwVlTSKDttPyqjb"
+      },
+      "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        }
+      ],
+      "duration_ms": 162642,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5iq8DndLIqUnZJbfteoOTu"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "First In Line",
-        "url": "https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 186615,
-      "name": "First In Line",
-      "url": "https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Ballad Of Easy Rider",
         "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 125800,
       "name": "Ballad Of Easy Rider",
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "First In Line",
+        "url": "https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 186615,
+      "name": "First In Line",
+      "url": "https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ"
-      },
-      "artists": [
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Lean Into Me",
         "url": "https://open.spotify.com/album/4fz9O5CjyiRKwNgMFZMVLK"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 169746,
       "name": "She",
       "url": "https://open.spotify.com/track/1RfMDYFUtp2YHusUMmzRAw"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ"
+      },
+      "artists": [
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Weak In The Knees",
-        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Weak In The Knees",
-      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Salt Moon City",
         "url": "https://open.spotify.com/album/3llOStWz8Dr8dO4bC0SpNs"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 243680,
       "name": "Buried in Beverly Hills",
       "url": "https://open.spotify.com/track/2kBDE8s0flZwnonaQ5A2Ef"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Weak In The Knees",
+        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Weak In The Knees",
+      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2395,22 +2395,6 @@
       "duration_ms": 172180,
       "name": "Won't You Stay",
       "url": "https://open.spotify.com/track/3xSBlzT8N3WTXK5phOTIiQ"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
-        "name": "Jump Right In",
-        "url": "https://open.spotify.com/album/7jPP5NG0VlgANDItDOZWJO"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Jump Right In",
-      "url": "https://open.spotify.com/track/1W89lDI2ELorocAEH1Ttyc"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2463,6 +2447,22 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
+        "name": "Jump Right In",
+        "url": "https://open.spotify.com/album/7jPP5NG0VlgANDItDOZWJO"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Jump Right In",
+      "url": "https://open.spotify.com/track/1W89lDI2ELorocAEH1Ttyc"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
         "name": "I'll Hold On",
         "url": "https://open.spotify.com/album/3KkJC1C818S60PtBYGlMAp"
       },
@@ -2491,22 +2491,6 @@
       "duration_ms": 180159,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
-        "name": "I think we should just move in together",
-        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
-      },
-      "artists": [
-        {
-          "name": "Min Taka",
-          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
-        }
-      ],
-      "duration_ms": 245836,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2551,6 +2535,22 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
+        "name": "I think we should just move in together",
+        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "duration_ms": 245836,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
         "name": "Room To Grow",
         "url": "https://open.spotify.com/album/2Er5ToDc2FvuTX69fgQ3Td"
       },
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Rolling",
-        "url": "https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Wandering Heart",
         "url": "https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 200840,
       "name": "Wandering Heart",
       "url": "https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Rolling",
+        "url": "https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2631,22 +2631,6 @@
       "duration_ms": 210283,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1VsltuFeMjASOFW8lIvmcr"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
-        }
-      ],
-      "duration_ms": 155884,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2723,6 +2707,22 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+        }
+      ],
+      "duration_ms": 155884,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
         "name": "Make More Sound",
         "url": "https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC"
       },
@@ -2743,22 +2743,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 185254,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "It Takes Two",
         "url": "https://open.spotify.com/album/3Pk1kEQQYAc88SZMZfOifu"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 158803,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/1nuc2zALgFmviSthCk4BZx"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 185254,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2823,6 +2823,22 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        }
+      ],
+      "duration_ms": 218203,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
         "name": "Take A Chance (Acoustic)",
         "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
       },
@@ -2859,18 +2875,18 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe"
+        "name": "Meet You In The Middle",
+        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
       },
       "artists": [
         {
-          "name": "Melle",
-          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
         }
       ],
-      "duration_ms": 218203,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y"
+      "duration_ms": 210760,
+      "name": "Meet You In The Middle",
+      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2887,22 +2903,6 @@
       "duration_ms": 258088,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/2ytoYz3hYTQUp01wYFEeSU"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
-        "name": "Meet You In The Middle",
-        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Meet You In The Middle",
-      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
-      },
-      "artists": [
-        {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Happy New Year",
         "url": "https://open.spotify.com/album/6GhuV1ZwCgUvirFMZalAAO"
       },
@@ -3019,18 +3003,18 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Icarus & The Sun",
-        "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
       },
       "artists": [
         {
-          "name": "Neil Hollyn",
-          "url": "https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0"
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
         }
       ],
-      "duration_ms": 188204,
-      "name": "Icarus & The Sun",
-      "url": "https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd"
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -3047,6 +3031,22 @@
       "duration_ms": 184360,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Icarus & The Sun",
+        "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
+      },
+      "artists": [
+        {
+          "name": "Neil Hollyn",
+          "url": "https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0"
+        }
+      ],
+      "duration_ms": 188204,
+      "name": "Icarus & The Sun",
+      "url": "https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Lay Your Weapons Down (Acoustic)",
-        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 205108,
-      "name": "Lay Your Weapons Down - Acoustic",
-      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "Fire Needs Air",
         "url": "https://open.spotify.com/album/6kcr08oAUCpEyGmaNC3zeC"
       },
@@ -3127,6 +3111,22 @@
       "duration_ms": 165853,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/2mnuH6wQXWl2x50JcRmHlz"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Lay Your Weapons Down (Acoustic)",
+        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 205108,
+      "name": "Lay Your Weapons Down - Acoustic",
+      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
     },
     {
       "added_at": "2026-10-08 22:01:36",
@@ -3391,22 +3391,6 @@
     {
       "added_at": "2026-10-08 22:01:36",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3Y47VDmgWHPjzPSotTBl2I"
-      },
-      "artists": [
-        {
-          "name": "Lex Maverick",
-          "url": "https://open.spotify.com/artist/6apil1rIoQFyRHjkxHSF3k"
-        }
-      ],
-      "duration_ms": 234469,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/3DOcuiFDVd7eZqv8z8Ug91"
-    },
-    {
-      "added_at": "2026-10-08 22:01:36",
-      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ"
       },
@@ -3419,6 +3403,22 @@
       "duration_ms": 193466,
       "name": "December",
       "url": "https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu"
+    },
+    {
+      "added_at": "2026-10-08 22:01:36",
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3Y47VDmgWHPjzPSotTBl2I"
+      },
+      "artists": [
+        {
+          "name": "Lex Maverick",
+          "url": "https://open.spotify.com/artist/6apil1rIoQFyRHjkxHSF3k"
+        }
+      ],
+      "duration_ms": 234469,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/3DOcuiFDVd7eZqv8z8Ug91"
     },
     {
       "added_at": "2026-10-08 22:01:36",

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604643,
+  "num_followers": 604630,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Go For Broke",
-        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Go For Broke",
-      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "So Much To Say",
         "url": "https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 155664,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
+      },
+      "artists": [
+        {
+          "name": "Not My Weekend",
+          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "Evil Is Contagious",
         "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 196097,
       "name": "Evil Is Contagious",
       "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Over My Head",
-        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
-      },
-      "artists": [
-        {
-          "name": "Not My Weekend",
-          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "77 (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 173842,
+      "name": "77 - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "Stare at the Sun",
         "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 206867,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "77 (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 173842,
-      "name": "77 - feat. Avril Lavigne",
-      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Still There\u2019s a Glow",
         "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 168365,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Moments Before The Wind",
-        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "MissingNo.",
-      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "WASTED",
         "url": "https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 177573,
       "name": "WASTED",
       "url": "https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Moments Before The Wind",
+        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "MissingNo.",
+      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "INMYFEELINGS",
+        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
+      },
+      "artists": [
+        {
+          "name": "Hungover",
+          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
+        }
+      ],
+      "duration_ms": 212464,
+      "name": "INMYFEELINGS",
+      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "LET'S DO SOMETHING STUPID!",
         "url": "https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 165106,
       "name": "Right Thing, Wrong Time (feat. State Champs)",
       "url": "https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "INMYFEELINGS",
-        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
-      },
-      "artists": [
-        {
-          "name": "Hungover",
-          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
-        }
-      ],
-      "duration_ms": 212464,
-      "name": "INMYFEELINGS",
-      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Someone You Need",
         "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 145547,
       "name": "Sandbox",
       "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Give or Take",
-        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
+        "name": "Extremely Fragile Human Being",
+        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
       },
       "artists": [
         {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
         }
       ],
-      "duration_ms": 203444,
-      "name": "Give or Take",
-      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
+      "duration_ms": 190673,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Extremely Fragile Human Being",
-        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+        "name": "Give or Take",
+        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
       },
       "artists": [
         {
-          "name": "Good Hangs",
-          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
         }
       ],
-      "duration_ms": 190673,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+      "duration_ms": 203444,
+      "name": "Give or Take",
+      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
     },
     {
       "added_at": "2026-07-24 04:02:31",

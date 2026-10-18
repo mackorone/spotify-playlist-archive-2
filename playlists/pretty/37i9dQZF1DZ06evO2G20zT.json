@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 56245,
+  "num_followers": 56282,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABJk3UaDOOMbLpPNGCVSF0A",
+  "snapshot_id": "atFpAAAAAAA8qGzQNL2qmkQzQpgJP8oQ",
   "tracks": [
     {
       "added_at": null,
@@ -464,8 +464,8 @@
           "url": "https://open.spotify.com/artist/34939zwBQsClP6Jo194PVo"
         },
         {
-          "name": "NERRYCKOLE",
-          "url": "https://open.spotify.com/artist/4qH2j9RPI0jHCN0w0YBFf4"
+          "name": "Nerryckole",
+          "url": "https://open.spotify.com/artist/4q5MWh4frjCKoqo9OJBWSG"
         }
       ],
       "duration_ms": 159310,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/0yLPupVmWzIthRHesuR5Wt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NSNV",
         "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 106971,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0yLPupVmWzIthRHesuR5Wt"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "God Sent",
+      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
       },
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 212297,
-      "name": "God Sent",
-      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+      "duration_ms": 163846,
+      "name": "Shazam",
+      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
     },
     {
       "added_at": null,
@@ -691,38 +707,6 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Shazam",
-      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 142441,
-      "name": "UNIVERSE",
-      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 142441,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
       "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 157714,
-      "name": "AMA",
-      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
+      "duration_ms": 179485,
+      "name": "Giza (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
       "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 179485,
-      "name": "Giza (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
+      "duration_ms": 157714,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 240532,
+  "num_followers": 240554,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADro5eMZr2jEI3XWYNWnZd8",
+  "snapshot_id": "atFpAAAAAAA66zNqvB9lCJrtMSVn8Le+",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 163114,
-      "name": "Ranchero Poderoso",
-      "url": "https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 230635,
       "name": "Abusamos Del Alcohol",
       "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 163114,
+      "name": "Ranchero Poderoso",
+      "url": "https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
-        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -367,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Reyes Del Movimiento Alterado",
-        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
+        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
       },
       "artists": [
-        {
-          "name": "Buknas De Culiacan",
-          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Orden Exigido",
-      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
+      "duration_ms": 248000,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
     },
     {
       "added_at": null,
@@ -403,6 +383,26 @@
       "duration_ms": 193835,
       "name": "Vasito Rojo",
       "url": "https://open.spotify.com/track/1No7C7WcgX0xMM6qBKJMmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Reyes Del Movimiento Alterado",
+        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+      },
+      "artists": [
+        {
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Orden Exigido",
+      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Corona",
+        "url": "https://open.spotify.com/album/7qKOqhqGxc0kbjwncj5Pj1"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/0op5YhXMK2oE7H36oDL98d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Romanticas",
         "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 117560,
-      "name": "Nom\u00e1s Por Ser Sinaloense",
-      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona",
-        "url": "https://open.spotify.com/album/7qKOqhqGxc0kbjwncj5Pj1"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/0op5YhXMK2oE7H36oDL98d"
+      "duration_ms": 117560,
+      "name": "Nom\u00e1s Por Ser Sinaloense",
+      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
     },
     {
       "added_at": null,

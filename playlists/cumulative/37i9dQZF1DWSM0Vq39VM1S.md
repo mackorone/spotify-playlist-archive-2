@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-313 songs - 19 hr 20 min
+314 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Heartbeats](https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A) | 2:40 | 2024-03-27 | 2025-04-16 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-12-06 | 2024-04-19 |
 | [Heaven's Gate](https://open.spotify.com/track/62EuvgIqhc9o5DPqKse952) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Desert Songs](https://open.spotify.com/album/7qKtluvfzF0kPPT9IOLQNe) | 3:09 | 2022-12-06 | 2023-02-22 |
-| [Heavensake \- A COLORS SHOW](https://open.spotify.com/track/4xh7zcnaWckiIYfv7qFpm6) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Heavensake \- A COLORS SHOW](https://open.spotify.com/album/0GOmnTJHGQO10UgsvP5K26) | 3:14 | 2026-02-26 |  |
+| [Heavensake \- A COLORS SHOW](https://open.spotify.com/track/4xh7zcnaWckiIYfv7qFpm6) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Heavensake \- A COLORS SHOW](https://open.spotify.com/album/0GOmnTJHGQO10UgsvP5K26) | 3:14 | 2026-02-26 | 2026-10-18 |
 | [Her](https://open.spotify.com/track/1x7Ts6pnwIwOOo0vSMNndW) | [Her](https://open.spotify.com/artist/1T2WeXEi0XlZiPpjjDAY0L) | [Her Tape \#1](https://open.spotify.com/album/46Bec3H2EincHIIyyhEsMD) | 4:18 | 2024-09-17 | 2025-04-16 |
 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 | 2025-11-06 | 2026-01-30 |
 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 | 2025-07-24 | 2026-03-25 |
@@ -295,6 +295,7 @@
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2023-03-18 | 2023-06-01 |
 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-28 |  |
 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 | 2026-02-26 |  |
+| [Wake Me Up](https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Somewhere Between](https://open.spotify.com/album/2MwfrGfon5UGQ13z0Vh5tW) | 3:03 | 2026-10-15 |  |
 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-05-16 |  |
 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 | 2025-04-15 |  |
 | [Water Ran](https://open.spotify.com/track/4u4NcX9VdRHTLIJQqXne3I) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Invincible Friends](https://open.spotify.com/album/09cVRkXeGEMJ4oiZmMxnc1) | 3:53 | 2024-03-27 | 2025-04-16 |

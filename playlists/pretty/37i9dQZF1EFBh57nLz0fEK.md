@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 137 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 137 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 46 | [OUTRO](https://open.spotify.com/track/182GXrpAdB1XV1mJlSSITn) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 4:41 |
 | 47 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 |
 | 48 | [Perfect Harmony \(feat\. Keke Palmer & Max Schneider\)](https://open.spotify.com/track/66lmKflZATFYYCPk8wEe81) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 2:25 |
-| 49 | [Insomnia](https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:49 |
-| 50 | [I Need Your Love](https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 3:09 |
-| 51 | [Juicy](https://open.spotify.com/track/4sIhUC7HG2VWAsuQPwIrXw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:06 |
+| 49 | [Juicy](https://open.spotify.com/track/4sIhUC7HG2VWAsuQPwIrXw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:06 |
+| 50 | [Insomnia](https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:49 |
+| 51 | [I Need Your Love](https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 3:09 |
 | 52 | [DIE FOR MINE \(feat\. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day\)](https://open.spotify.com/track/1lmFfD9vxW9uIn7ylQD4ee) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [It's Us Vol\. 1](https://open.spotify.com/album/3cmWnX51JZRnlS7Wij1VmG) | 4:48 |
 | 53 | [Interlude: Oasis](https://open.spotify.com/track/1T9vJo1IkbhopAo9nojNkM) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/4Ak9980f17f2WqNsopebAA) | 2:07 |
 | 54 | [Stay](https://open.spotify.com/track/1DeSr083X5gBJVfXv426Ce) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/6NJT4jSQtCoVAFhTmskP0h) | 3:49 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 136 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
 | 137 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 
-Snapshot ID: `AcfIKAAAAAD1izO6swRNntg+PTRY/2Z9`
+Snapshot ID: `AcfNyAAAAADF5UY1nr8n9tLYwuAwvzDV`

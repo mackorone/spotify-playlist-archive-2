@@ -4,7 +4,7 @@
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 6 min
+104 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Me Derrumbé a Tus Pies](https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Me Derrumbé a Tus Pies](https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC) | 3:24 | 2024-08-08 | 2026-10-10 |
 | [Mi Forma de Sentir](https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 4:09 | 2024-09-07 |  |
 | [Mi Forma de Sentir](https://open.spotify.com/track/77BiOLjgDoztvNssHhIOrF) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Mi Forma de Sentir](https://open.spotify.com/album/7BzCbdO0xf2gkg6Q2CEufK) | 4:09 | 2024-08-08 |  |
+| [Mi Intención](https://open.spotify.com/track/7zC3EI4R3gefCwYY6f0vso) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Después Del Silencio](https://open.spotify.com/album/3Xt6dMXBpu4QNf4ng4w8d7) | 3:03 | 2026-10-18 |  |
 | [Mi Peloncito](https://open.spotify.com/track/4rgMWX25ov8duYmrgMuD7x) | [Academia Mis Raices](https://open.spotify.com/artist/6U5NItWyZsDrvob0HI0ajg), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Peloncito](https://open.spotify.com/album/1tglosdWAKZpRow8HzK4Ne) | 4:00 | 2024-12-21 | 2025-05-07 |
 | [Neta Que No](https://open.spotify.com/track/7o1UbAzMnbow4EUzWl1xuf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:44 | 2024-08-08 |  |
 | [Ni Antes, Ni Después](https://open.spotify.com/track/2shSkaNEqnD0xZoLXpUIUJ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 3:14 | 2025-05-15 | 2025-05-18 |
@@ -96,7 +97,7 @@
 | [Te Hice Mal](https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Hice Mal](https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS) | 3:16 | 2025-02-02 |  |
 | [Te Mereces](https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas, Vol.2](https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO) | 2:38 | 2024-08-08 | 2025-03-12 |
 | [Te Sale Bien](https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Sale Bien](https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv) | 2:47 | 2024-08-08 |  |
-| [Te Toca Hacer Lo Tuyo](https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Toca Hacer Lo Tuyo](https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2) | 3:14 | 2024-08-08 |  |
+| [Te Toca Hacer Lo Tuyo](https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Toca Hacer Lo Tuyo](https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2) | 3:14 | 2024-08-08 | 2026-10-18 |
 | [Te Vas a Acordar de Mi](https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 3:24 | 2024-08-08 |  |
 | [Terco Corazón](https://open.spotify.com/track/7oNNBnCsaZCNsk3TNAH8o2) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Empezar Desde Cero](https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh) | 3:22 | 2024-08-08 |  |
 | [Todo Que Ver](https://open.spotify.com/track/5BbVN7lNgaUq00J1cCPwnR) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Todo Que Ver](https://open.spotify.com/album/0kts0H5wVXKiZAxdTCX1qt) | 2:27 | 2025-06-08 |  |

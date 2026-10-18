@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,486 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,479 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 22 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 |
 | 23 | [Need Your Love \(feat\. JMSN\)](https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:08 |
 | 24 | [velib'bleu](https://open.spotify.com/track/4IeQKn5Lti8iobHsBdYUYu) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [velib'bleu](https://open.spotify.com/album/2s3JW4L4ZpOvFC46pDSD3N) | 3:23 |
-| 25 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
-| 26 | [SttttRANGERENDER](https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq) | [Ptite Soeur](https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC), [neophron](https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W) | [NODA: le monde et les humains](https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW) | 3:20 |
+| 25 | [SttttRANGERENDER](https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq) | [Ptite Soeur](https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC), [neophron](https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W) | [NODA: le monde et les humains](https://open.spotify.com/album/43sJIwl9H3aNGEDWb9gHPW) | 3:20 |
+| 26 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
 | 27 | [GODIN](https://open.spotify.com/track/6CxmDudrDAn0yi3t27DQmF) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [GODIN](https://open.spotify.com/album/655bGp9sr5NZqTpJVnmma5) | 2:44 |
 | 28 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
 | 29 | [TELFAR™](https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [TELFAR™](https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o) | 2:22 |

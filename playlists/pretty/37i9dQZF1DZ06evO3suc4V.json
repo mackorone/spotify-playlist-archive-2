@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11446,
+  "num_followers": 11447,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACuHPi8YTjCHns59sn30O75",
+  "snapshot_id": "atFpAAAAAABUTviJBV5N+FKQW9Kd1Tv7",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 243240,
-      "name": "Days",
-      "url": "https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whatever's Clever!",
         "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 135503,
       "name": "New Jersey (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/0O3OEz6OsTE4tKVhWKpCks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Pilot",
-      "url": "https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 245120,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Pilot",
+      "url": "https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 219051,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 219051,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 210293,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
+      "duration_ms": 191546,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/22dPa41TbsmeWGo6iMa0J0"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 132925,
       "name": "Romeo + Ravyn Lenae",
       "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
     },
     {
       "added_at": null,

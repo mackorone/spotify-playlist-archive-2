@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-815 songs - 1 day 16 hr 39 min
+816 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-03-20 |  |
 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 | 2026-03-13 |  |
 | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Puretone](https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8) | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/album/659fi13MrTySSxJqmatMMu) | 3:09 | 2026-03-13 |  |
+| [ADRENALINE](https://open.spotify.com/track/47S6IrIjawDVtTTRQ7v5D5) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Arti Prjct](https://open.spotify.com/artist/1CuqcCv1IrGicv4KIJHE7q) | [ADRENALINE](https://open.spotify.com/album/1axe3FXvHt20fPHTZK20zH) | 2:48 | 2026-10-16 |  |
 | [AEIOU](https://open.spotify.com/track/5fRbxcgYwcRahoBVDIqYfJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN) | [AEIOU](https://open.spotify.com/album/7IAdqQVE1IOrdiazy46nK9) | 2:49 | 2026-07-31 |  |
 | [Aerobics](https://open.spotify.com/track/2EFlMGvleP3hvFjmHIGtPv) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Aerobics](https://open.spotify.com/album/657COGSrYFw3gs3IULfQN7) | 3:35 | 2026-04-17 | 2026-05-02 |
 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 | 2023-03-06 | 2024-05-03 |
@@ -210,7 +211,7 @@
 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 | 2022-03-18 | 2022-07-30 |
 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 | 2025-04-25 | 2025-09-24 |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-07 | 2026-07-04 |
-| [Dreams](https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [The Dreams Strange and Eternal](https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM) | 3:53 | 2026-05-01 |  |
+| [Dreams](https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [The Dreams Strange and Eternal](https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM) | 3:53 | 2026-05-01 | 2026-10-18 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-07-07 | 2023-11-11 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-09-15 | 2024-06-22 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-06 | 2023-04-22 |

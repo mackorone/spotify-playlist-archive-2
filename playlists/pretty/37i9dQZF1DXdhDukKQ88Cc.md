@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap øverst 👀  Artigeardit på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,404 likes - 71 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,401 likes - 71 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Teske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Teske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 |
+| 1 | [Te Ske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Te Ske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 |
 | 2 | [Barn Af Byen](https://open.spotify.com/track/1S0AAzLHoTTPIKjWCghWkB) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Barn Af Byen](https://open.spotify.com/album/5i3OXuxnvjtGocI746TZQA) | 2:22 |
 | 3 | [400KM](https://open.spotify.com/track/3ZQOc4eHvf8ndHcQsgOjY7) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [400KM](https://open.spotify.com/album/6WEjxiLRlD6VCzzj7aIJx7) | 2:14 |
 | 4 | [PIZZAMAN](https://open.spotify.com/track/6nzYAba8pQ9bzHKRnXDFJV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [PIZZAMAN](https://open.spotify.com/album/1dCOXSPtIE3T2aP6VoEx4i) | 2:27 |

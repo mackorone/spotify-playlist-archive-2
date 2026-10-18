@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Wyatt McCubbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,918 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,952 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

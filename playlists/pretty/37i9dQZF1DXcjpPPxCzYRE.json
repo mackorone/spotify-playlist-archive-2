@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 447109,
+  "num_followers": 447150,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 219960,
       "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "KISS ME",
         "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -883,6 +867,22 @@
       "duration_ms": 358625,
       "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
       "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Mejor ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Mejor ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Islands in the Fog (with Gizmo Varillas)",
         "url": "https://open.spotify.com/album/1LOI0LDHrsOZ5daYAETPZl"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Mejor ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Mejor ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1055,22 +1071,6 @@
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
-      },
-      "artists": [
-        {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
-        }
-      ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 224132,
       "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
       "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Septiembre",
-        "url": "https://open.spotify.com/album/1aeEV7SMIVFBDiJy1AYgkT"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Septiembre",
-      "url": "https://open.spotify.com/track/0fFNJAGBaSmMrZhG3oqMZY"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "B\u00c9SAME",
         "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 148000,
       "name": "B\u00c9SAME",
       "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Septiembre",
+        "url": "https://open.spotify.com/album/1aeEV7SMIVFBDiJy1AYgkT"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Septiembre",
+      "url": "https://open.spotify.com/track/0fFNJAGBaSmMrZhG3oqMZY"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Hasta los Glaciares",
-        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
-      },
-      "artists": [
-        {
-          "name": "Daga Voladora",
-          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
-        }
-      ],
-      "duration_ms": 201381,
-      "name": "Hasta los Glaciares",
-      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Redux",
         "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 200560,
       "name": "Te perd\u00ed",
       "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Hasta los Glaciares",
+        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 201381,
+      "name": "Hasta los Glaciares",
+      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "pop blandito",
-        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "desayunarte",
-      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Pladur",
         "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 162750,
       "name": "Pladur",
       "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
-      },
-      "artists": [
-        {
-          "name": "Tristicis",
-          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "201 - Directo en Casa Grito",
         "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 236494,
       "name": "Cerrar los ojos - Directo en Casa Grito",
       "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Albino Rhino",
-        "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rux",
-          "url": "https://open.spotify.com/artist/18KCq8v87co2o7RqJoR4C0"
-        },
-        {
-          "name": "The Crying Cowboys",
-          "url": "https://open.spotify.com/artist/6FRl73eoQmfFTjcaZBrasd"
-        }
-      ],
-      "duration_ms": 249861,
-      "name": "Albino Rhino",
-      "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "El Noi de la Mare",
         "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Albino Rhino",
+        "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rux",
+          "url": "https://open.spotify.com/artist/18KCq8v87co2o7RqJoR4C0"
+        },
+        {
+          "name": "The Crying Cowboys",
+          "url": "https://open.spotify.com/artist/6FRl73eoQmfFTjcaZBrasd"
+        }
+      ],
+      "duration_ms": 249861,
+      "name": "Albino Rhino",
+      "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
     },
     {
       "added_at": "2026-10-15 22:01:52",

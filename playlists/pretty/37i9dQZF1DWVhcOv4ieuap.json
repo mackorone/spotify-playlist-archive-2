@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1024008,
+  "num_followers": 1023913,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAH6XUssN5hg3QrINO+CY0on4zS",
+  "snapshot_id": "AAAAAK8pkFkJQFUGNzglylPt7FS+l8vV",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:08",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186611,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
+    },
+    {
+      "added_at": "2026-10-09 04:02:08",
+      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -735,26 +751,6 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
-    },
-    {
-      "added_at": "2026-10-09 04:02:08",
-      "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -783,18 +779,38 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
-        "name": "Me Mata",
-        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 186611,
-      "name": "Me Mata",
-      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "added_at": "2026-10-09 04:02:08",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -815,22 +831,6 @@
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
-    },
-    {
-      "added_at": "2026-10-09 04:02:08",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
-        "name": "Priti",
-        "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 130969,
-      "name": "Priti",
-      "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
-    },
-    {
-      "added_at": "2026-10-09 04:02:08",
-      "album": {
         "name": "Ooh Laka Laka La",
         "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 134797,
       "name": "Ooh Laka Laka La",
       "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "added_at": "2026-10-09 04:02:08",
+      "album": {
+        "name": "Priti",
+        "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 130969,
+      "name": "Priti",
+      "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
-        "name": "Desah\u00f3gate",
-        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Desah\u00f3gate",
-      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
-    },
-    {
-      "added_at": "2026-10-09 04:02:08",
-      "album": {
         "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
         "url": "https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ufffd\ufffd (feat. benny blanco)",
       "url": "https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0"
+    },
+    {
+      "added_at": "2026-10-09 04:02:08",
+      "album": {
+        "name": "Desah\u00f3gate",
+        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Desah\u00f3gate",
+      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
-        "name": "Besito en la Frente",
-        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 161622,
-      "name": "Besito en la Frente",
-      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
+      "duration_ms": 148906,
+      "name": "san blaS",
+      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

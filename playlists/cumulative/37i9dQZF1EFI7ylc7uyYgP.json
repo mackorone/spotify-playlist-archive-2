@@ -2081,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "She'll Come Around",
+        "url": "https://open.spotify.com/album/5HLQhUumymoBTiea2EXoVS"
+      },
+      "artists": [
+        {
+          "name": "Iglu & Hartly",
+          "url": "https://open.spotify.com/artist/3E0zaebSkY5aN4PhDcvt9C"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141183,
+      "name": "She'll Come Around",
+      "url": "https://open.spotify.com/track/1ZZNJ1fPGB6NjfIkaiGU8a"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Fancy Nancy",
         "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
       },
@@ -2410,6 +2428,28 @@
       "duration_ms": 93271,
       "name": "The Fanciest Midnight",
       "url": "https://open.spotify.com/track/1IJSQLi50kg514yn6FtjgH"
+    },
+    {
+      "album": {
+        "name": "Walk With the Father",
+        "url": "https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200303,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys"
     },
     {
       "album": {

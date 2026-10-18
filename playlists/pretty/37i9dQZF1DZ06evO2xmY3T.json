@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 696002,
+  "num_followers": 696023,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAIatfMenE0eUk/kmDkPw+Z",
+  "snapshot_id": "atFpAAAAAACisl2FLmx8LDJiK4wnYWX1",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 206711,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 200205,
       "name": "I Do (feat. SZA)",
       "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 121546,
-      "name": "Check Please",
-      "url": "https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE"
+      "duration_ms": 104066,
+      "name": "Bodega Baddie",
+      "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 104066,
-      "name": "Bodega Baddie",
-      "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
+      "duration_ms": 121546,
+      "name": "Check Please",
+      "url": "https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Desde septiembre se siente que viene diciembre \ud83e\uddca \ud83c\udf84 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi",
-  "num_followers": 144067,
+  "num_followers": 144064,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Playa, Brisa y Mar",
-      "url": "https://open.spotify.com/track/0Bgq4T7bfYfWZLfcXUdHju"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Que Gran Relajo",
         "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 173413,
       "name": "El Negro Picante",
       "url": "https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Playa, Brisa y Mar",
+      "url": "https://open.spotify.com/track/0Bgq4T7bfYfWZLfcXUdHju"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309920,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 191772,
       "name": "Todo el Mundo Necesita un Beso",
       "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309920,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
-        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "La Nueva Generaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
         "name": "Rescatando los \u00c9xitos Originales de Long Play",
         "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
       },
@@ -1319,6 +1299,26 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
+        "name": "Mejor Que Antes",
+        "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
         "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
@@ -1331,6 +1331,26 @@
       "duration_ms": 156467,
       "name": "Mar\u00eda Teresa",
       "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
+        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "La Nueva Generaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
     },
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1351,26 +1371,6 @@
       "duration_ms": 258217,
       "name": "Se Le Moja la Canoa (La Canoa)",
       "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
-        "name": "Mejor Que Antes",
-        "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 257642,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

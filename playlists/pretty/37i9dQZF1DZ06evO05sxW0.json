@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 9689,
+  "num_followers": 9695,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAB8BJY02dY8moblftKDkDJ6",
+  "snapshot_id": "atFpAAAAAAAMNM5g+PkYzDran3oNy2Y/",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 93533,
-      "name": "Star Bellied Boy",
-      "url": "https://open.spotify.com/track/3btz8qzIt3dbNFhEsTdFwv"
+      "duration_ms": 142533,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3OJVrGpVbq0KD6j0NMOrlA"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 87544,
-      "name": "Don't Need You",
-      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution Girl Style Now",
         "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 87544,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pussy Whipped",
         "url": "https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w"
       },
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 142533,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3OJVrGpVbq0KD6j0NMOrlA"
+      "duration_ms": 93533,
+      "name": "Star Bellied Boy",
+      "url": "https://open.spotify.com/track/3btz8qzIt3dbNFhEsTdFwv"
     },
     {
       "added_at": null,

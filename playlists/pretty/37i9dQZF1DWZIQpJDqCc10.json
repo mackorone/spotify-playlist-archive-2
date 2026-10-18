@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 781789,
+  "num_followers": 781868,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "The Yearbook",
-        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Dover Beach",
-      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Parklife (Special Edition)",
         "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 244600,
       "name": "To the End - 2012 Remaster",
       "url": "https://open.spotify.com/track/7u8yddev0YnNFGkZoP8X2t"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "The Yearbook",
+        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Dover Beach",
+      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Feeding Seahorses by Hand",
-        "url": "https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 283393,
-      "name": "She Dances",
-      "url": "https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Not High On Drugz",
         "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 252372,
       "name": "Not High On Drugz",
       "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Feeding Seahorses by Hand",
+        "url": "https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 283393,
+      "name": "She Dances",
+      "url": "https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT"
     },
     {
       "added_at": "2026-02-19 14:58:26",

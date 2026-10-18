@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,393 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,397 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 37 | [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/track/0Mw9rQpLgrucUSCZU8H5cs) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/album/3PrVbs7hzBdR760BHcO1qW) | 5:27 |
 | 38 | [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 |
 | 39 | [Reescreve a Minha História \(Ao Vivo\)](https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Reescreve a Minha História \(Ao Vivo\)](https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It) | 4:49 |
-| 40 | [Um Novo Tempo](https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:00 |
-| 41 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 |
+| 40 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 |
+| 41 | [Um Novo Tempo](https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:00 |
 | 42 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 |
-| 43 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 |
+| 43 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
 | 44 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
-| 45 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
+| 45 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 |
 | 46 | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI) | 5:21 |
 | 47 | [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 |
 | 48 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 |
-| 49 | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb) | 4:32 |
-| 50 | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/track/6Uo6Cs3BIRUGt3hvvCE6Tz) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/album/5A77N7VrbxqnMAZ75mVBP9) | 3:46 |
+| 49 | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/track/6Uo6Cs3BIRUGt3hvvCE6Tz) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/album/5A77N7VrbxqnMAZ75mVBP9) | 3:46 |
+| 50 | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb) | 4:32 |
 
-Snapshot ID: `as7GAAAAAAD/rXvlPmNCkJTE4mBXIW4D`
+Snapshot ID: `atAXgAAAAAABplOS7LlJ/ISkRdy7bhfg`

@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 560186,
+  "num_followers": 560261,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABCa8xQ5QdfdnK1n6dsCywu",
+  "snapshot_id": "atAXgAAAAADCyNat9I5UALU4aj9oUPxk",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 404386,
-      "name": "Buried Alive",
-      "url": "https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg"
+      "duration_ms": 328386,
+      "name": "Danger Line",
+      "url": "https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 328386,
-      "name": "Danger Line",
-      "url": "https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn"
+      "duration_ms": 404386,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg"
     },
     {
       "added_at": null,

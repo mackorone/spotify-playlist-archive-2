@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41326,
+  "num_followers": 41331,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACfnZCMR7p0zyaALpji0Q7L",
+  "snapshot_id": "atAXgAAAAACYcg9P7uppvfdzegNaClvc",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extra terrestrial Biological Entities",
-        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 367573,
-      "name": "Planetes",
-      "url": "https://open.spotify.com/track/1GUnIBiLhgEwSQJzGNuUrk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
         "url": "https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 231169,
       "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
       "url": "https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extra terrestrial Biological Entities",
+        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 367573,
+      "name": "Planetes",
+      "url": "https://open.spotify.com/track/1GUnIBiLhgEwSQJzGNuUrk"
     },
     {
       "added_at": null,
@@ -204,7 +204,7 @@
       "added_at": null,
       "album": {
         "name": "Fallen",
-        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
+        "url": "https://open.spotify.com/album/5DUPsFaK2t1wcaYc7khsAP"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 270946,
+      "duration_ms": 269643,
       "name": "Fallen",
-      "url": "https://open.spotify.com/track/1uY5PG3A2gowDEzP1g703X"
+      "url": "https://open.spotify.com/track/5AngW69uAboljtCBHZ6AsT"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
+        "name": "BANG!!!",
+        "url": "https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 308000,
-      "name": "\u30ad\u30df\u30bd\u30e9\u30ad\u30bb\u30ad",
-      "url": "https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn"
+      "duration_ms": 211320,
+      "name": "Tonight Tonight",
+      "url": "https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17"
     },
     {
       "added_at": null,
@@ -372,15 +372,15 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 175333,
-      "name": "\u60f3\u3044\u3092\u5de1\u3089\u3059100\u306e\u4e8b\u8c61",
-      "url": "https://open.spotify.com/track/13M5fPkKHmEtI92zR8VKm3"
+      "duration_ms": 291440,
+      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "BANG!!!",
-        "url": "https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz"
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 211320,
-      "name": "Tonight Tonight",
-      "url": "https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17"
+      "duration_ms": 308000,
+      "name": "\u30ad\u30df\u30bd\u30e9\u30ad\u30bb\u30ad",
+      "url": "https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 291440,
-      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
+      "duration_ms": 175333,
+      "name": "\u60f3\u3044\u3092\u5de1\u3089\u3059100\u306e\u4e8b\u8c61",
+      "url": "https://open.spotify.com/track/13M5fPkKHmEtI92zR8VKm3"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 95333,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
-      "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KABANERI OF THE IRON FORTRESS",
         "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 247586,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 95333,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
+      "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 90260,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
         "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 301813,
       "name": "The Everlasting Guilty Crown Nightcore mix",
       "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 90260,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
-        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 36948,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fallen-TV edit-",
         "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 89990,
       "name": "Fallen-TV edit-",
       "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
+        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 36948,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
-        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 317440,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumental-",
-      "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
+        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 317440,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumental-",
+      "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Departures - Anata Ni Okuru Ai No Uta",
         "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
       },
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
-      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
+      "duration_ms": 95506,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09-Instrumental-",
+      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
       "duration_ms": 100053,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 (TV Edit 92s ver) -Instrumental-",
       "url": "https://open.spotify.com/track/01hMjltcNqB9NweZlSxWvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
+      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
     }
   ],
   "unique_name": "This Is EGOIST",

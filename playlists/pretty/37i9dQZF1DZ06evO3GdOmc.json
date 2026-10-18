@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 47577,
+  "num_followers": 47584,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAATdLRPZ8eIAIyYeEOdu8er",
+  "snapshot_id": "atFpAAAAAADK5j56e/VitO3FVUG9C1Nd",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,25 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Prayer For A Friend",
-      "url": "https://open.spotify.com/track/5Z3bMmjkkSmTE4JxlF0W6i"
+      "duration_ms": 277293,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To The Well",
-        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "The Well",
-      "url": "https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Altar and The Door",
         "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 277293,
-      "name": "Slow Fade",
-      "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
+      "duration_ms": 170520,
+      "name": "Prayer For A Friend",
+      "url": "https://open.spotify.com/track/5Z3bMmjkkSmTE4JxlF0W6i"
     },
     {
       "added_at": null,

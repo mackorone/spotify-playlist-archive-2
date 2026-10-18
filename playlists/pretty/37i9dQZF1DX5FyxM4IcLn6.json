@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 165324,
+  "num_followers": 165321,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 182767,
       "name": "SOMEBODY LOVES ME",
       "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 290110,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Even In Arcadia",
         "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/2OMjHcniFxzijWX7EaBrXE"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+        "name": "Parasomnia",
+        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
+      "duration_ms": 595160,
+      "name": "Night Terror",
+      "url": "https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Parasomnia",
-        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 595160,
-      "name": "Night Terror",
-      "url": "https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU"
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Reconstruction",
-        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 175888,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Something Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/7C5lLwXJadUtDjb5Ijh12m"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Reconstruction",
+        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 175888,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts"
     },
     {
       "added_at": "2025-11-12 17:50:29",

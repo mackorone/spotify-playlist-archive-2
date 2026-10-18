@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,236 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,234 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 7 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 |
 | 8 | [一滴の影響](https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [一滴の影響 \(Extra Edition\)](https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq) | 4:51 |
 | 9 | [SHAMROCK](https://open.spotify.com/track/5M6hrn7yus9MefXLBnCCVA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 4:08 |
-| 10 | [Forever Young \(feat\. UVERworld\)](https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DAWN](https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF) | 3:59 |
+| 10 | [ODD FUTURE short ver.](https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE short ver.](https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN) | 1:29 |
 | 11 | [ROB THE FRONTIER](https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:52 |
-| 12 | [ODD FUTURE short ver.](https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE short ver.](https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN) | 1:29 |
+| 12 | [Forever Young \(feat\. UVERworld\)](https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DAWN](https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF) | 3:59 |
 | 13 | [君の好きなうた](https://open.spotify.com/track/79nCnMMdc114kKQCcHNq3j) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 4:17 |
 | 14 | [Fight For Liberty](https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Fight For Liberty / Wizard CLUB](https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1) | 4:13 |
 | 15 | [PRAYING RUN](https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 6:16 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 25 | [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 |
 | 26 | [ナノ・セカンド](https://open.spotify.com/track/6C0gAZcbctqrkeV3hh0uvQ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ナノ・セカンド](https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P) | 4:34 |
 | 27 | [THEORY](https://open.spotify.com/track/0GmGyXJKcxbbsXu1HtkDqA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:49 |
-| 28 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
+| 28 | [AWAYOKUBA\-斬る](https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [7ｔｈ Trigger](https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz) | 4:35 |
 | 29 | [PHOENIX AX](https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 4:11 |
-| 30 | [AWAYOKUBA\-斬る](https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [7ｔｈ Trigger](https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz) | 4:35 |
+| 30 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
 | 31 | [MMH](https://open.spotify.com/track/1Q3lBgDsR5gRlGcJtyPhxY) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH](https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr) | 3:33 |
 | 32 | [美影意志](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
 | 33 | [REVERSI](https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [浮世CROSSING](https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PROGLUTION](https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q) | 4:32 |
 | 50 | [ZERO BREAKOUT POINT](https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb) | 3:33 |
 
-Snapshot ID: `as7GAAAAAADDlB5224w4RtDzpKWtJEhl`
+Snapshot ID: `atFpAAAAAACELo08+KzC1ey52xTfqopE`

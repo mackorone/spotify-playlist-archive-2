@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 700880,
+  "num_followers": 700910,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAB+hyA7TBCgkU1o5GCFPbd2",
+  "snapshot_id": "atFpAAAAAAAMp5mZagQrhn+zm2qvps9o",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 130506,
-      "name": "Dios Es Un Stalker",
-      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
+      "duration_ms": 194813,
+      "name": "Magnolias",
+      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
     },
     {
       "added_at": null,
@@ -239,6 +239,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Is Gone?",
+        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Dios Es Un Stalker",
+      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -255,22 +291,6 @@
       "duration_ms": 234784,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Magnolias",
-      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
     },
     {
       "added_at": null,
@@ -323,26 +343,6 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Is Gone?",
-        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 316003,
-      "name": "Where Is Gone?",
-      "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
     },
     {
       "added_at": null,

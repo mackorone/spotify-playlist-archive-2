@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 154285,
       "name": "BE",
       "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
@@ -3675,6 +3675,32 @@
     },
     {
       "album": {
+        "name": "By Me",
+        "url": "https://open.spotify.com/album/71dEKqbnbyyQqx2o8aAtW9"
+      },
+      "artists": [
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154348,
+      "name": "By Me",
+      "url": "https://open.spotify.com/track/4LR0vIINC7A1vLuNoL9w0l"
+    },
+    {
+      "album": {
         "name": "The Bystander Effect",
         "url": "https://open.spotify.com/album/52oN9V7WyhCTgLKownZ4df"
       },
@@ -3712,6 +3738,24 @@
       "duration_ms": 184690,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/5yUE8vmVO2IxrEfcyyy6oB"
+    },
+    {
+      "album": {
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
     },
     {
       "album": {
@@ -6128,7 +6172,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 172035,
       "name": "DO NOT DISTURB (DND)",
       "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
@@ -11355,6 +11399,28 @@
     },
     {
       "album": {
+        "name": "JUSTINA (feat. Ruger)",
+        "url": "https://open.spotify.com/album/5DyGzlE7Y0xtmtFmo4y4Z8"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128757,
+      "name": "JUSTINA (feat. Ruger)",
+      "url": "https://open.spotify.com/track/09kmmrYVi31ZrO01z15PVb"
+    },
+    {
+      "album": {
         "name": "REVIVAL",
         "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
       },
@@ -11366,7 +11432,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 178861,
       "name": "J\u00f3",
       "url": "https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2"
@@ -12536,6 +12602,24 @@
       "duration_ms": 188000,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV"
+    },
+    {
+      "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157538,
+      "name": "LIGHT OF DAWN",
+      "url": "https://open.spotify.com/track/3hyOVd0pkY4GMkWU0SJxCZ"
     },
     {
       "album": {
@@ -15622,7 +15706,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 138000,
       "name": "Obokhian",
       "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
@@ -16840,7 +16924,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 104256,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/2KAGHt7F1clx5yT7HHkAme"
@@ -21294,6 +21378,36 @@
       "duration_ms": 141834,
       "name": "Suya",
       "url": "https://open.spotify.com/track/7tyyz6kEEoazUPEu11j4Fh"
+    },
+    {
+      "album": {
+        "name": "Swag Up",
+        "url": "https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR"
+      },
+      "artists": [
+        {
+          "name": "Tobi Nation",
+          "url": "https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
+        },
+        {
+          "name": "Teee Dollar",
+          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133695,
+      "name": "Swag Up",
+      "url": "https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 286 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,249 likes - 286 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 107 | [Mercedes](https://open.spotify.com/track/5LPI0nfzndJ6mjGkCTDPNv) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:01 |
 | 108 | [I'm Up](https://open.spotify.com/track/5zKlUZrOViLs7W0L5o1gPp) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Good Intentions \(Brown Boy 2 Deluxe Version\)](https://open.spotify.com/album/2kx4l1OQNT2JXLld9HJDIh) | 2:47 |
 | 109 | [We Slide \(feat\. Young Thug\)](https://open.spotify.com/track/43JY1IBWONa8J8FqlbNOZ1) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:30 |
-| 110 | [Stay Ur Distance \- Bonus](https://open.spotify.com/track/6guglW3GUtF0z7ecX79cHg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 2:47 |
-| 111 | [Bby Pluto](https://open.spotify.com/track/4X8mODoYMS286wauCWV5If) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:40 |
+| 110 | [Bby Pluto](https://open.spotify.com/track/4X8mODoYMS286wauCWV5If) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:40 |
+| 111 | [Stay Ur Distance \- Bonus](https://open.spotify.com/track/6guglW3GUtF0z7ecX79cHg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 2:47 |
 | 112 | [Ball Forever](https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:21 |
 | 113 | [Master P \(feat\. Tay Keith\)](https://open.spotify.com/track/6PDiL8QLrNj1Bi85vkZTcK) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 3:20 |
 | 114 | [Correct Me](https://open.spotify.com/track/5qQC8gBibGDBiJ8yV8w6zE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 3:01 |
@@ -175,9 +175,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 165 | [City On Lock](https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:18 |
 | 166 | [Shake Dat Ass](https://open.spotify.com/track/5L7uORAm7jmXwMMOSaPweR) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Zed Zilla](https://open.spotify.com/artist/5ygIMAnMVdeTje3JtDjUTU) | [Shake Dat Ass](https://open.spotify.com/album/2yjWswH8LZnfUGVLKa3an1) | 3:00 |
 | 167 | [Batman](https://open.spotify.com/track/4nt3Zn8CqmVTEVQuYToMqy) | [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Bumps & Bruises \(Deluxe\)](https://open.spotify.com/album/4jrtlSzTql4HkG8e4LVGyo) | 2:53 |
-| 168 | [Trust Fund](https://open.spotify.com/track/06B0S6yv7wmr57QvweXJkx) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Trust Fund Babies](https://open.spotify.com/album/2gDny6NDG26azxuTbtNxgq) | 2:45 |
-| 169 | [More](https://open.spotify.com/track/5RLO6GnRUvm9kdNUoYWTNR) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:53 |
-| 170 | [MANNISH](https://open.spotify.com/track/4FMKlYbHCYv83ryuvOnbqB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:27 |
+| 168 | [MANNISH](https://open.spotify.com/track/4FMKlYbHCYv83ryuvOnbqB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:27 |
+| 169 | [Trust Fund](https://open.spotify.com/track/06B0S6yv7wmr57QvweXJkx) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Trust Fund Babies](https://open.spotify.com/album/2gDny6NDG26azxuTbtNxgq) | 2:45 |
+| 170 | [More](https://open.spotify.com/track/5RLO6GnRUvm9kdNUoYWTNR) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:53 |
 | 171 | [38 \(feat\. Pressa\)](https://open.spotify.com/track/5Ai52oUV3qH4mY2HzoZSwq) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:37 |
 | 172 | [Hurting](https://open.spotify.com/track/2glEoXd5kk0MvHDHjRE8n5) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 3:00 |
 | 173 | [Back Then](https://open.spotify.com/track/598Dwv3jLVXfohLHSPVw7Y) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 3:05 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 285 | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/track/6zfRheqLFZe0IvaEbpZsmM) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [OK Kyasia](https://open.spotify.com/artist/1GTgb0xt0CIQjAZs4vFWQG) | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/album/67iNUhgvTMn24eSEDKzrRi) | 2:28 |
 | 286 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `AcfIMgAAAACcUvkv+grZi9Bade+7XVpL`
+Snapshot ID: `AcfN0gAAAACY1THb6RjAwJoNJGXa8BOC`

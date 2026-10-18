@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 1135,
+  "num_followers": 1139,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "24:26 (5th Anniversary Remaster Edition)",
-        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 220844,
-      "name": "Always Awake",
-      "url": "https://open.spotify.com/track/4KVwNAuIaOtEjcmG7Zj0lM"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Siren Remix",
         "url": "https://open.spotify.com/album/5c84PfOOqKLuE8WTtsgqbn"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 197093,
       "name": "Siren Remix (Feat. UNEDUCATED KID, Paul Blanco)",
       "url": "https://open.spotify.com/track/2S9FuNX2H2cCwxcIoTUtbM"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "24:26 (5th Anniversary Remaster Edition)",
+        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 220844,
+      "name": "Always Awake",
+      "url": "https://open.spotify.com/track/4KVwNAuIaOtEjcmG7Zj0lM"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Ghetto Superstars",
+        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "300(prod. Cashbanger)",
+      "url": "https://open.spotify.com/track/3l6dINZbKWtAtHqVOIO1nh"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Ghetto Superstars",
-        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "300(prod. Cashbanger)",
-      "url": "https://open.spotify.com/track/3l6dINZbKWtAtHqVOIO1nh"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -367,26 +367,6 @@
       "duration_ms": 225506,
       "name": "The Beauty of Void (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/65iHekI2A2NYREOyfmo97U"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
-      },
-      "artists": [
-        {
-          "name": "NSW yoon",
-          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 210401,
-      "name": "ERI ERI (Feat. Homies)",
-      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -419,6 +399,26 @@
       "duration_ms": 257972,
       "name": "Reset (Feat. Gaeko, Kid Milli) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/5oD7cKg3DRl2HFuybvVsI5"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 210401,
+      "name": "ERI ERI (Feat. Homies)",
+      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 222014,
+      "name": "Supernova (Feat. Dut2)",
+      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "To Life",
         "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
       },
@@ -511,42 +531,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 222014,
-      "name": "Supernova (Feat. Dut2)",
-      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Family Business",
-        "url": "https://open.spotify.com/album/2vYMpNE7JybdLEKOEhyLcp"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 211162,
-      "name": "Louis Vuitton belt (prod. Kidstone)",
-      "url": "https://open.spotify.com/track/57gtcByN4XDSisWK4h2rkW"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 250986,
       "name": "Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Family Business",
+        "url": "https://open.spotify.com/album/2vYMpNE7JybdLEKOEhyLcp"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 211162,
+      "name": "Louis Vuitton belt (prod. Kidstone)",
+      "url": "https://open.spotify.com/track/57gtcByN4XDSisWK4h2rkW"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "\uc800\uc2a4\ub514\uc2a4 (JUSTHIS)",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/5thIDYwoYFRctQMTN4V6CM"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 279130,
       "name": "On & On (feat. Lee Hi)",
       "url": "https://open.spotify.com/track/2fC4olmcp1E6bVl3PUUUcf"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "\uc800\uc2a4\ub514\uc2a4 (JUSTHIS)",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 193402,
-      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
-      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 254347,
       "name": "Flashing (Feat. HanYoHan, OLNL)",
       "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 193402,
+      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
+      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Millionaire Poetry",
-        "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "DBSG 3",
         "url": "https://open.spotify.com/album/0MGYgCcyvUsD049HNqxiVy"
       },
@@ -1391,6 +1371,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Millionaire Poetry",
+        "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "MANTA BIPOLAR, Pt. 2",
-        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
-      },
-      "artists": [
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        }
-      ],
-      "duration_ms": 120502,
-      "name": "GANGSHIN",
-      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "HIGH RISK HIGH RETURN",
         "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 123287,
       "name": "MIRACLE(Album version)",
       "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "MANTA BIPOLAR, Pt. 2",
+        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "GANGSHIN",
+      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Cheat Code",
-      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -1623,22 +1607,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 194252,
-      "name": "GNGB",
-      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "BLAZE",
         "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
       },
@@ -1655,6 +1623,38 @@
       "duration_ms": 131493,
       "name": "SLASH (Feat. BIGONE)",
       "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 194252,
+      "name": "GNGB",
+      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Berry Loves My Mood",
         "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
@@ -1719,22 +1703,6 @@
       "duration_ms": 162113,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Superbee's Maserati",
-        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
-      },
-      "artists": [
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        }
-      ],
-      "duration_ms": 230408,
-      "name": "Superbee's Maserati",
-      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1763,18 +1731,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
+        "name": "Superbee's Maserati",
+        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
       },
       "artists": [
         {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
         }
       ],
-      "duration_ms": 199755,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
+      "duration_ms": 230408,
+      "name": "Superbee's Maserati",
+      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1788,9 +1756,25 @@
           "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
-      "duration_ms": 128250,
-      "name": "500000",
-      "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
+      "duration_ms": 189750,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 199755,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1843,6 +1827,22 @@
       "duration_ms": 148983,
       "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
       "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "duration_ms": 128250,
+      "name": "500000",
+      "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb"
-      },
-      "artists": [
-        {
-          "name": "Pinodyne",
-          "url": "https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09"
-        },
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 227941,
-      "name": "Universe (feat. Lee Juck)",
-      "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Good Time For The Team",
         "url": "https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 232655,
       "name": "Good Time For The Team",
       "url": "https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb"
+      },
+      "artists": [
+        {
+          "name": "Pinodyne",
+          "url": "https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09"
+        },
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 227941,
+      "name": "Universe (feat. Lee Juck)",
+      "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
     },
     {
       "added_at": "2025-11-10 09:53:18",

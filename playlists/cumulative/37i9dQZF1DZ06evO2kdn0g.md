@@ -4,7 +4,7 @@
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-42 songs - 1 hr 56 min
+43 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [DIFFERENT](https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:35 | 2026-06-16 |  |
 | [Eve](https://open.spotify.com/track/0xx52Xbs4MHTsaZZlPaVhT) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/6BegTMIS4njwAMXbRX5aui) | 2:43 | 2026-10-11 |  |
 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2026-06-16 | 2026-10-11 |
-| [Favour](https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF) | 2:36 | 2026-06-16 |  |
+| [Favour](https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF) | 2:36 | 2026-06-16 | 2026-10-18 |
+| [Favour](https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/29kCfGrCCIeS0u3RxsvzTC) | 2:36 | 2026-10-18 |  |
 | [Heaven](https://open.spotify.com/track/1MjfmxFnt7CpIG4KnXS7jI) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/3dDHsgsMUgGJrgfxPyjdcI) | 3:02 | 2026-10-10 |  |
 | [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 | 2026-06-16 | 2026-10-10 |
 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 | 2026-06-16 | 2026-10-08 |

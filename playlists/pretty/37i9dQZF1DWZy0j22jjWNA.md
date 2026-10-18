@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,985 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,001 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 44 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
 | 45 | [New Thing \- Live](https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z) | [New Thing \(Live\)](https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa) | 4:31 |
 | 46 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 |
-| 47 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
-| 48 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
+| 47 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
+| 48 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 49 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 50 | [alright <3](https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [alright <3](https://open.spotify.com/album/4vn8PhGIvol3OtMPriOFiq) | 3:48 |
 | 51 | [Day The Lord Has Made](https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Day The Lord Has Made](https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta) | 5:04 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 62 | [All Eyes On You](https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [All Eyes On You](https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95) | 4:49 |
 | 63 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
 | 64 | [Morning Psalm \(feat\. Ben Cruse\)](https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Ben Cruse](https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf) | [First Light / Last Word](https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII) | 5:33 |
-| 65 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
-| 66 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
+| 65 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
+| 66 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
 | 67 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
 | 68 | [THIS IS THE DAY](https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd) | [Vintage Worship](https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp), [Joshua Seller](https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli) | [THIS IS THE DAY](https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7) | 3:44 |
 | 69 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 96 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
 | 97 | [You Have Made Me Glad](https://open.spotify.com/track/2o6XwbRgn42tK3EphA7Tkv) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Glad](https://open.spotify.com/album/0TBJXPXOzn8eT4X9RP23SE) | 4:08 |
 | 98 | [Declaring Glory \(The Earth Sings its Refrain\)](https://open.spotify.com/track/25iY8eJunK34VUw67CGfv2) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Declaring Glory \(The Earth Sings its Refrain\)](https://open.spotify.com/album/2PFCrEIXHm6Cx5F6Awk6qI) | 4:23 |
-| 99 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
-| 100 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
+| 99 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
+| 100 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 
 Snapshot ID: `AAAAAHXKDVCVKaWzPktZakk12mAbYPss`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - Emei on the cover",
+  "description": "sweet. sharp. unbothered - GRANT KNOCHE on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -2564,6 +2564,24 @@
       "duration_ms": 167294,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9"
+    },
+    {
+      "album": {
+        "name": "Botticelli",
+        "url": "https://open.spotify.com/album/12woegyovJJ16U5dGsNkcw"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143289,
+      "name": "Botticelli",
+      "url": "https://open.spotify.com/track/6iCwFUWtuhkj2pdPMf2EBR"
     },
     {
       "album": {
@@ -6686,6 +6704,28 @@
       "duration_ms": 127800,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/4dL8cY3jCkVgip6827j3PE"
+    },
+    {
+      "album": {
+        "name": "FRICTION",
+        "url": "https://open.spotify.com/album/0zyJH68Hu6kj8N2RcBNHKG"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        },
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168913,
+      "name": "FRICTION",
+      "url": "https://open.spotify.com/track/38QQX5owEYU3h4alb7CaPU"
     },
     {
       "album": {
@@ -14410,7 +14450,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 244062,
       "name": "pixxxie",
       "url": "https://open.spotify.com/track/4coPiNHqR0LVGipcT57akq"
@@ -18622,7 +18662,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 195000,
       "name": "The Symphony of Fxxkboys",
       "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"

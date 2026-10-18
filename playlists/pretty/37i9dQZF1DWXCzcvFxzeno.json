@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry, Alt8",
-  "num_followers": 551741,
+  "num_followers": 552043,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        },
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
-        }
-      ],
-      "duration_ms": 226064,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "Fuck This",
         "url": "https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 207631,
       "name": "Fuck This",
       "url": "https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Alt8",
-          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
-        }
-      ],
-      "duration_ms": 238270,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 151800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        }
+      ],
+      "duration_ms": 238270,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -867,6 +867,34 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
+        "name": "MINDCONTROLLER 2K26",
+        "url": "https://open.spotify.com/album/6bCW8FMSTndSVRbR46FOww"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Ruffneck",
+          "url": "https://open.spotify.com/artist/4k7hlWQNcJiWSfjkr6g0mg"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 167119,
+      "name": "MINDCONTROLLER 2K26",
+      "url": "https://open.spotify.com/track/6mPN16xNQrhofQVjLUOZOf"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
         "name": "Dopamin",
         "url": "https://open.spotify.com/album/3cf02iCcXJRAZDLk7kkR8b"
       },
@@ -915,34 +943,6 @@
       "duration_ms": 146080,
       "name": "Get High",
       "url": "https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "MINDCONTROLLER 2K26",
-        "url": "https://open.spotify.com/album/6bCW8FMSTndSVRbR46FOww"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Ruffneck",
-          "url": "https://open.spotify.com/artist/4k7hlWQNcJiWSfjkr6g0mg"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 167119,
-      "name": "MINDCONTROLLER 2K26",
-      "url": "https://open.spotify.com/track/6mPN16xNQrhofQVjLUOZOf"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
+        "name": "Five Day Bender",
+        "url": "https://open.spotify.com/album/4cDQmOW5K2scqDD0Jq8FWf"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "The Obsessed",
+          "url": "https://open.spotify.com/artist/3FoGeeCexOhZ81jJvAWSzs"
+        }
+      ],
+      "duration_ms": 134814,
+      "name": "Five Day Bender",
+      "url": "https://open.spotify.com/track/5rPRF6dh8jAhGvti3QYVkA"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
         "name": "Bassline Slut",
         "url": "https://open.spotify.com/album/6PVUkdViXIPjlmfrX0AzBX"
       },
@@ -1111,22 +1131,18 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Five Day Bender",
-        "url": "https://open.spotify.com/album/4cDQmOW5K2scqDD0Jq8FWf"
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "The Obsessed",
-          "url": "https://open.spotify.com/artist/3FoGeeCexOhZ81jJvAWSzs"
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
         }
       ],
-      "duration_ms": 134814,
-      "name": "Five Day Bender",
-      "url": "https://open.spotify.com/track/5rPRF6dh8jAhGvti3QYVkA"
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1143,22 +1159,6 @@
       "duration_ms": 148800,
       "name": "Turn The Music Down",
       "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "4 Da Ravers",
-        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "4 Da Ravers",
-      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "Gipsy Queen EP",
         "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 202472,
       "name": "Gipsy Queen",
       "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "4 Da Ravers",
+        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "4 Da Ravers",
+      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "FEEL THIS WAY",
-        "url": "https://open.spotify.com/album/5yWHuB351pGbBMzY3bgG0v"
+        "name": "Marching Powder",
+        "url": "https://open.spotify.com/album/46v956ZbrQTvNXM2hdxc3u"
       },
       "artists": [
         {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
-        },
-        {
-          "name": "KLOFAMA",
-          "url": "https://open.spotify.com/artist/4oqOypVzFhq3syFLHJZc68"
+          "name": "Will Atkinson",
+          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
         }
       ],
-      "duration_ms": 208515,
-      "name": "FEEL THIS WAY",
-      "url": "https://open.spotify.com/track/5DLmnrOVjgMFIZfiHpZ35r"
+      "duration_ms": 191499,
+      "name": "Marching Powder",
+      "url": "https://open.spotify.com/track/5z9i6jnaxzKbF7ujgb3uz9"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Marching Powder",
-        "url": "https://open.spotify.com/album/46v956ZbrQTvNXM2hdxc3u"
+        "name": "FEEL THIS WAY",
+        "url": "https://open.spotify.com/album/5yWHuB351pGbBMzY3bgG0v"
       },
       "artists": [
         {
-          "name": "Will Atkinson",
-          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        },
+        {
+          "name": "KLOFAMA",
+          "url": "https://open.spotify.com/artist/4oqOypVzFhq3syFLHJZc68"
         }
       ],
-      "duration_ms": 191499,
-      "name": "Marching Powder",
-      "url": "https://open.spotify.com/track/5z9i6jnaxzKbF7ujgb3uz9"
+      "duration_ms": 208515,
+      "name": "FEEL THIS WAY",
+      "url": "https://open.spotify.com/track/5DLmnrOVjgMFIZfiHpZ35r"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "HIT IT BOY",
-        "url": "https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u"
-      },
-      "artists": [
-        {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
-        },
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        }
-      ],
-      "duration_ms": 141390,
-      "name": "HIT IT BOY",
-      "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "PULL THE TRIGGER",
         "url": "https://open.spotify.com/album/3Tbwxw3wJTu1z2i5OjpZL8"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 185343,
       "name": "TASTE MY LOVE",
       "url": "https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "HIT IT BOY",
+        "url": "https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u"
+      },
+      "artists": [
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        },
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        }
+      ],
+      "duration_ms": 141390,
+      "name": "HIT IT BOY",
+      "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "H\u00d6LLE IM HERZ",
-        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
-      },
-      "artists": [
-        {
-          "name": "Michael Klotz",
-          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "H\u00d6LLE IM HERZ",
-      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "Get Ready",
         "url": "https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 134709,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "H\u00d6LLE IM HERZ",
+        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "H\u00d6LLE IM HERZ",
+      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
     },
     {
       "added_at": "2026-10-16 04:03:13",

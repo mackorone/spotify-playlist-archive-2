@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 | 2026-10-17 |
 | [14](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [CICLOS](https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc) | 2:31 | 2026-02-06 |  |
-| [2 Bebados](https://open.spotify.com/track/2nWvOavF9070jz0T3fDHMm) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [2 Bebados](https://open.spotify.com/album/74QfxrE850xdVFcxDRaJQ4) | 2:41 | 2026-10-16 |  |
+| [2 Bêbados](https://open.spotify.com/track/2nWvOavF9070jz0T3fDHMm) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [2 Bêbados](https://open.spotify.com/album/74QfxrE850xdVFcxDRaJQ4) | 2:41 | 2026-10-16 |  |
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 | 2023-03-03 | 2026-03-20 |
 | [4 Horas](https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [4 Horas](https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne) | 3:14 | 2023-03-17 | 2023-07-14 |

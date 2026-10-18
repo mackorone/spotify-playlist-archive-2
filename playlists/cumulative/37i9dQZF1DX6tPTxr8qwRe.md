@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Emei on the cover
+> sweet\. sharp\. unbothered \- GRANT KNOCHE on the cover
 
-1,166 songs - 2 day 6 hr 5 min
+1,168 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Bones and All](https://open.spotify.com/track/4A0O4CdnSXN7uoao2qCFvG) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bones and All](https://open.spotify.com/album/1EShGQK7TXutid3iDDZPUS) | 3:21 | 2026-09-25 |  |
 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 | 2022-02-25 | 2022-07-02 |
 | [Bored](https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Bored](https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS) | 2:47 | 2023-02-10 | 2023-07-15 |
+| [Botticelli](https://open.spotify.com/track/6iCwFUWtuhkj2pdPMf2EBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Botticelli](https://open.spotify.com/album/12woegyovJJ16U5dGsNkcw) | 2:23 | 2026-10-17 |  |
 | [Bougie Bitch](https://open.spotify.com/track/3vwMUcxR0V664IvIt3HhfG) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Bougie Bitch](https://open.spotify.com/album/13qIfIFasLtP1VkcbKCM1g) | 2:38 | 2024-06-21 | 2024-10-12 |
 | [Boy](https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Boy](https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y) | 2:51 | 2023-06-16 | 2023-09-09 |
 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 | 2025-02-07 | 2025-05-03 |
@@ -372,6 +373,7 @@
 | [Found You On The Internet](https://open.spotify.com/track/5BhoSA4HfIzX1E1alpU2z0) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Found You On The Internet](https://open.spotify.com/album/3VUlO3W9Ncy8XM7YjsSVxP) | 2:28 | 2022-04-08 | 2022-06-25 |
 | [FREAK SHOW](https://open.spotify.com/track/4g5zK0UZq4xLs2565Dk9Zy) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [FREAK SHOW](https://open.spotify.com/album/4XhGjV4Rqh1J1bxKFNhskm) | 2:34 | 2024-06-28 | 2024-07-27 |
 | [Freak Show](https://open.spotify.com/track/4dL8cY3jCkVgip6827j3PE) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Freak Show](https://open.spotify.com/album/2R4cBv4crCsgmscopkR67j) | 2:07 | 2023-08-04 | 2024-01-20 |
+| [FRICTION](https://open.spotify.com/track/38QQX5owEYU3h4alb7CaPU) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J), [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [FRICTION](https://open.spotify.com/album/0zyJH68Hu6kj8N2RcBNHKG) | 2:48 | 2026-10-17 |  |
 | [Friends In Low Places](https://open.spotify.com/track/36M11mqMjmA7ZSbUg3P2ME) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 3:03 | 2024-08-30 | 2025-01-25 |
 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2022-02-04 | 2022-12-10 |
 | [FU In My Head](https://open.spotify.com/track/6BGtSuLFU0X35Igkftxqfr) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Unthinkable](https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16) | 2:47 | 2023-06-02 | 2023-11-18 |
@@ -791,7 +793,7 @@
 | [pity party](https://open.spotify.com/track/0kqjckF0hPdPdFEnz9Maci) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [pity party](https://open.spotify.com/album/6c3OaBVwUQ8YkXH3ZOvV7Y) | 3:15 | 2024-07-26 | 2024-08-31 |
 | [PITY PARTY](https://open.spotify.com/track/4UQVHnvC9UD4jYYSjwTbp7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PITY PARTY](https://open.spotify.com/album/5qCV7EtFCsNheI3dl5Z1oV) | 2:19 | 2023-09-15 | 2023-12-09 |
 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-10-03 | 2025-12-13 |
-| [pixxxie](https://open.spotify.com/track/4coPiNHqR0LVGipcT57akq) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [pixxxie](https://open.spotify.com/album/7dYuM0yNjewhDqGq2NqVtO) | 4:04 | 2026-06-12 |  |
+| [pixxxie](https://open.spotify.com/track/4coPiNHqR0LVGipcT57akq) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [pixxxie](https://open.spotify.com/album/7dYuM0yNjewhDqGq2NqVtO) | 4:04 | 2026-06-12 | 2026-10-18 |
 | [Play With Fire](https://open.spotify.com/track/7GnTjZFqTScZntUokrcvOc) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Play With Fire](https://open.spotify.com/album/4YzUvdk0evYcfVp9acfOVl) | 2:43 | 2024-10-25 | 2025-03-01 |
 | [Play With It](https://open.spotify.com/track/0DUM7lpBnLxRG4B2rYODIA) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Play With It](https://open.spotify.com/album/149jwSDkfMGFnPf0saue6R) | 2:22 | 2024-06-28 | 2024-09-07 |
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5S09u7HLG7mNfkchjnc5uz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-26 |
@@ -1019,7 +1021,7 @@
 | [The Reaper](https://open.spotify.com/track/4B8N1c0C7nbC8bx9Ji6DyO) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Reaper](https://open.spotify.com/album/3frmBizhbh3gg79cqmwIpV) | 2:40 | 2024-05-31 | 2024-07-27 |
 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 | 2022-01-14 | 2022-03-18 |
 | [The Same Bitch!](https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E) | [Sarah Defne Gray](https://open.spotify.com/artist/6TbjlN6D9H1Oa7I1o31QtS) | [The Same Bitch!](https://open.spotify.com/album/3pqKZZppo8LYgke5rJaUsK) | 3:26 | 2024-07-26 | 2024-10-19 |
-| [The Symphony of Fxxkboys](https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [adagio](https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T) | 3:15 | 2026-04-17 |  |
+| [The Symphony of Fxxkboys](https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [adagio](https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T) | 3:15 | 2026-04-17 | 2026-10-18 |
 | [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 | 2024-01-12 | 2024-06-22 |
 | [The Top \- from the Netflix Film "UGLIES"](https://open.spotify.com/track/3FDIzHl5F5DDp2c0dKWbhZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [The Top \- from the Netflix Film "UGLIES"](https://open.spotify.com/album/3HSefcT3hoMEzAXC0gN6PC) | 2:40 | 2024-09-13 | 2024-10-19 |
 | [Therapy](https://open.spotify.com/track/0wvj3kJpZIyu7eYfxeKn3g) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Therapy](https://open.spotify.com/album/5c0knxfQLKoNV5BwB7DKWH) | 2:18 | 2022-01-28 | 2022-04-23 |

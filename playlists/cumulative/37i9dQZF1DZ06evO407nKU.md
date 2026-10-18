@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-169 songs - 9 hr 23 min
+170 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 | 2022-06-01 | 2022-12-06 |
 | [Loco \- En Vivo](https://open.spotify.com/track/63tTq2d0OfQEK1qG6ezsa1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Loco](https://open.spotify.com/album/37YX0ULmEe4GnAwL0z9Ose) | 2:47 | 2025-09-04 | 2025-09-10 |
 | [Los Compadres](https://open.spotify.com/track/1YvHZhfE5wj4kpGdu5fUdA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Buenas Obras](https://open.spotify.com/album/6gDP1ynRcVtBCkhgle34Oy) | 3:34 | 2022-06-05 | 2022-07-07 |
-| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 |  |
+| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 | 2026-10-18 |
 | [Mayonesa](https://open.spotify.com/track/4ufTPmPBN7jWN92U7IIH9Y) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Mayonesa](https://open.spotify.com/album/1pjnTDvXAikn1T3L7FJSFg) | 3:08 | 2025-01-12 | 2025-02-12 |
 | [Me Equivoqué](https://open.spotify.com/track/4CQBDMKxrXyBHn0rK2Y1IN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Equivoqué](https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7) | 3:34 | 2023-05-02 | 2023-11-11 |
 | [Me Gusta Tal Cual](https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:12 | 2023-07-18 | 2024-05-11 |
@@ -163,6 +163,7 @@
 | [Tu Cariñito](https://open.spotify.com/track/1y1df31mKnLjEGvjYI00Df) | [Tambora Ritmo Express](https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Sonora y Sinaloa](https://open.spotify.com/album/1gXNP2MhJ7PJGmany02zy3) | 2:12 | 2025-12-31 | 2026-01-17 |
 | [Tu Forma De Ser](https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Vas](https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR) | 3:03 | 2022-06-01 |  |
 | [Tu Naturaleza](https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Naturaleza](https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x) | 3:04 | 2023-11-10 |  |
+| [Tú Le Das Color A Mi Existir \- En Vivo](https://open.spotify.com/track/4nrfaLjjoVNegWNUJXKq9Y) | [Los Nenes MX](https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tú Le Das Color A Mi Existir \(En Vivo\)](https://open.spotify.com/album/738IVA2fI3Jj98CtTShkpG) | 3:34 | 2026-10-18 |  |
 | [Un Amor Como El Mío](https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Tambora Ritmo Express](https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6) | [Un Amor Como El Mío](https://open.spotify.com/album/2E5A8pOmmT8aoWPHEEYR4I) | 3:11 | 2025-01-17 | 2026-01-17 |
 | [Un Desengano](https://open.spotify.com/track/0rCIHeL20CCCOWjvyIv2sP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Un Desengaño](https://open.spotify.com/album/6t6J1zjatRRoidnm8MZ9n1) | 3:34 | 2022-06-01 | 2022-10-13 |
 | [Un Idiota](https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Un Idiota](https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG) | 2:53 | 2024-04-07 | 2024-07-31 |

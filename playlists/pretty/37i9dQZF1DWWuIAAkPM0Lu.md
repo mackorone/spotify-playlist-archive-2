@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag! Ny musik fra bl.a\. Annika, Artigeardit og Olivia Rodrigo 🤌
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,376 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,391 likes - 90 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hvis Jeg Er Uden Dig](https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Hvis Jeg Er Uden Dig](https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV) | 3:07 |
 | 2 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
-| 3 | [Teske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Teske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 |
+| 3 | [Te Ske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Te Ske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 |
 | 4 | [Lånt tid](https://open.spotify.com/track/6XciiReAnvmVap8HkmAVoH) | [dreng&piger](https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73) | [Lånt tid](https://open.spotify.com/album/79vwYVClfAjkFUWqzFidgb) | 2:53 |
 | 5 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
-| 6 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
+| 6 | [Heartbreak & 808s](https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Heartbreak & 808s](https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE) | 3:07 |
 | 7 | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 |
 | 8 | [Barn Af Byen](https://open.spotify.com/track/1S0AAzLHoTTPIKjWCghWkB) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Barn Af Byen](https://open.spotify.com/album/5i3OXuxnvjtGocI746TZQA) | 2:22 |
 | 9 | [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 |

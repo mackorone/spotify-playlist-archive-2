@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2026! \ud83c\udf1e",
-  "num_followers": 135002,
+  "num_followers": 135007,
   "original_name": "Ver\u00e3o 2026 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-06-29 08:17:53",
       "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx"
+      },
+      "artists": [
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        }
+      ],
+      "duration_ms": 179991,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa"
+    },
+    {
+      "added_at": "2026-06-29 08:17:53",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-06-29 08:17:53",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx"
-      },
-      "artists": [
-        {
-          "name": "Bandidos do Cante",
-          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
-        }
-      ],
-      "duration_ms": 179991,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa"
     },
     {
       "added_at": "2026-06-29 08:17:53",

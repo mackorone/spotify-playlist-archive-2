@@ -6816,7 +6816,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 326076,
       "name": "Malo 2.0",
       "url": "https://open.spotify.com/track/2mJ8dzLchsdzepJ3MUIchk"
@@ -8670,7 +8670,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -8714,7 +8714,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -9176,7 +9176,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -13876,7 +13876,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 142325,
       "name": "\u0434\u043d\u044f\u043c\u0438 \u0438 \u043d\u043e\u0447\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5c5PYbVqMGltm76SjqmF0o"
@@ -15741,6 +15741,24 @@
     },
     {
       "album": {
+        "name": "\u043c\u0438\u043b\u044b\u0439 \u0443\u0431\u043b\u044e\u0434\u043e\u043a",
+        "url": "https://open.spotify.com/album/4KkwVW76qLK2BAzGLLzwGG"
+      },
+      "artists": [
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "\u043c\u0438\u043b\u044b\u0439 \u0443\u0431\u043b\u044e\u0434\u043e\u043a",
+      "url": "https://open.spotify.com/track/1KSfNhPMipD1RDvT7JMvWb"
+    },
+    {
+      "album": {
         "name": "\u041c\u0438\u043c\u043e\u043b\u0435\u0442\u043d\u043e",
         "url": "https://open.spotify.com/album/7e1xONhjX94RitrFJryx0c"
       },
@@ -16318,7 +16336,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 89665,
       "name": "\u043d\u0430\u0437\u0430\u0434 \u0432 \u043a\u0440\u0435\u0441\u0442\u044b",
       "url": "https://open.spotify.com/track/36zMpCNLEEpNWnFfVOzbt2"
@@ -17454,7 +17472,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 125575,
       "name": "\u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043a\u0438\u043b\u043b",
       "url": "https://open.spotify.com/track/1FxcGrzFaxNWR9YXfdNQKX"
@@ -19156,7 +19174,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 193561,
       "name": "\u0421\u0435\u043a\u0441 \u043f\u043e-\u043f\u0438\u0442\u0435\u0440\u0441\u043a\u0438",
       "url": "https://open.spotify.com/track/3mMXGxnS6OFkKtqzSYgL0T"
@@ -21538,7 +21556,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"

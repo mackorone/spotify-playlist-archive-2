@@ -4,7 +4,7 @@
 
 > The sweetest bops\. Cover: no na
 
-305 songs - 14 hr 52 min
+307 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-20 | 2026-04-11 |
 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-19 |  |
 | [Girls Like Me](https://open.spotify.com/track/7fjGhOyRcSNTYgJRMmpr1f) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Girls Like Me](https://open.spotify.com/album/2EFtBwld7jEWsmROuWzYmi) | 2:12 | 2026-02-06 |  |
-| [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2023-03-22 |  |
+| [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2023-03-22 | 2026-10-18 |
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-26 | 2024-07-06 |
 | [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-03-09 |  |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-04 | 2025-05-03 |
@@ -196,6 +196,7 @@
 | [Morning](https://open.spotify.com/track/6HgKXkZXPF6WtgDeXcQfAH) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We made](https://open.spotify.com/album/1z84OUjsKgLYgyD4Wy0H30) | 2:35 | 2026-07-10 |  |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-04 | 2023-10-28 |
 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 | 2023-03-22 | 2023-08-19 |
+| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-17 |  |
 | [New me \- English Version](https://open.spotify.com/track/271zNzzoDjTFdoJBVIZ0JN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [New me \(English Version\)](https://open.spotify.com/album/0j1tTvqx4RK3xwzRocBTJY) | 3:22 | 2025-07-11 | 2026-03-10 |
 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-18 |  |
 | [No Business On The Dancefloor](https://open.spotify.com/track/47EttOPfJblOFsztpSseEm) | [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng) | [No Business On The Dancefloor](https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH) | 2:47 | 2023-03-22 | 2024-03-16 |
@@ -267,7 +268,7 @@
 | [Summer so hot](https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Summer so hot](https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1) | 2:46 | 2024-07-05 | 2025-03-15 |
 | [SUN KISS](https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 3:01 | 2026-08-28 |  |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-05-10 | 2026-05-30 |
-| [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
+| [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2026-10-18 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-15 | 2024-07-06 |
 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-26 | 2025-07-12 |
 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 | 2026-05-23 |
@@ -292,6 +293,7 @@
 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 | 2024-04-12 | 2024-07-27 |
 | [Underground](https://open.spotify.com/track/2QzOxrOZeP95cy5fEKzfwQ) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [Underground](https://open.spotify.com/album/6qnk2D0xy1jzmfnyDd8pBe) | 2:21 | 2024-07-26 | 2025-06-21 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-05 | 2023-08-05 |
+| [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 | 2026-10-17 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-10 | 2025-05-03 |
 | [WAVE](https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [WAVE](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) | 2:55 | 2023-06-09 | 2024-04-13 |
 | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-15 |  |

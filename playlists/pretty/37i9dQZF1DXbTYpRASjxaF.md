@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > copos pro alto, cada um com o seu\. Foto: Vitinho RB, MD Chefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,197 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,192 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 46 | [Querendo Mais](https://open.spotify.com/track/04AZrSh1KmpUjwKvIr2KBM) | [LyNDoN](https://open.spotify.com/artist/45A52B51OE7bqXGiNvUsRQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO), [Dos Mlk](https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH) | [Querendo Mais](https://open.spotify.com/album/2gJASJpKwhuR1fC1y1eSzl) | 2:30 |
 | 47 | [Status / Lil Tecca](https://open.spotify.com/track/7myEAgjrvcstCvnn4UGDwG) | [Meygô](https://open.spotify.com/artist/6V17FvnvaDuA6vfnO4uKag), [Shigueru](https://open.spotify.com/artist/0rxJWcxlicSQkWkNGXumXE) | [Status / Lil Tecca](https://open.spotify.com/album/5G3rPY7clQWQXtnUehZsRA) | 3:41 |
 | 48 | [AMAPIANO](https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [AMAPIANO / FAZ\-ME RIR \(STUDIO\#5\)](https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY) | 2:20 |
-| 49 | [BANDIDO COM BANDIDA](https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BANDIDO COM BANDIDA](https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ) | 2:51 |
-| 50 | [Amor É F\*da 2](https://open.spotify.com/track/6sQMYNNkWaZ7pvZyzXq6tw) | [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod.Jay\-C](https://open.spotify.com/artist/2uuwFjqmWlrhouHBaiUllY) | [Amor É F\*da 2](https://open.spotify.com/album/7bTDF7amcSP4ldR0ByQad0) | 2:13 |
+| 49 | [Amor É F\*da 2](https://open.spotify.com/track/6sQMYNNkWaZ7pvZyzXq6tw) | [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod.Jay\-C](https://open.spotify.com/artist/2uuwFjqmWlrhouHBaiUllY) | [Amor É F\*da 2](https://open.spotify.com/album/7bTDF7amcSP4ldR0ByQad0) | 2:13 |
+| 50 | [BANDIDO COM BANDIDA](https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BANDIDO COM BANDIDA](https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ) | 2:51 |
 
 Snapshot ID: `AAAAANI4gbiBq5t3sFQjtk3ojXE5NlDn`

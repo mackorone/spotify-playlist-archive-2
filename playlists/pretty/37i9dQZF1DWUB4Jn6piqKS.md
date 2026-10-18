@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,470 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,485 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 35 | [You're Ready Now](https://open.spotify.com/track/7lk6vvcetCT6RcTndNpKj8) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 2:18 |
 | 36 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
 | 37 | [Right Track \- Single Version](https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:25 |
-| 38 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
-| 39 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 |
+| 38 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 |
+| 39 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
 | 40 | [Moonlight Music and You](https://open.spotify.com/track/162C3OWfP2OKiE4CqcLQdy) | [Laura Greene](https://open.spotify.com/artist/1b0erhYz7WbxMOCbyQJYwb) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:30 |
 | 41 | [Soul Time \- Single Version](https://open.spotify.com/track/3im4hrqpF3MW0uTtwuNHxZ) | [Shirley Ellis](https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg) | [The Northern Soul Story Vol.1: The Twisted Wheel](https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d) | 2:38 |
 | 42 | [Time Will Pass You By](https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L) | [Tobi Legend](https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 3:05 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 59 | [The Girl Across the Street](https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi) | [Moses Smith](https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj) | [The Northern Side of Philly Soul](https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw) | 4:12 |
 | 60 | [I Can't Hold On](https://open.spotify.com/track/6iHL1iozNGVexinzZwacyj) | [Lorraine Chandler](https://open.spotify.com/artist/0tNm55o29GmXLI4J5QptKh) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:24 |
 | 61 | [Walkin' up a One Way Street](https://open.spotify.com/track/4PBUEbH92briGYuDbnHZuw) | [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Walking up a One Way Street](https://open.spotify.com/album/4eNiXrq0bdXDcZd892i54P) | 2:41 |
-| 62 | [Live It Up](https://open.spotify.com/track/19Wks5GfADcWu3DbumZVdO) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:24 |
-| 63 | [My Love Is Getting Stronger](https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:51 |
+| 62 | [My Love Is Getting Stronger](https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:51 |
+| 63 | [Live It Up](https://open.spotify.com/track/19Wks5GfADcWu3DbumZVdO) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:24 |
 | 64 | [Looking For You](https://open.spotify.com/track/0EFrOXwsP6U6HKDKisN6Y7) | [Garnet Mimms](https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E) | [Warm And Soulful](https://open.spotify.com/album/5tU3m1c7UMAN6mCWQJTbyZ) | 2:25 |
 | 65 | [Love Factory](https://open.spotify.com/track/6FDcVkmQ1buSvITzLG3Vec) | [Eloise Laws](https://open.spotify.com/artist/4RJjnfYCmudnzG5AyMVnte) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 3:27 |
 | 66 | [Suspicion](https://open.spotify.com/track/7neHlDOzLf0qFgEzeK8L8t) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 3:04 |

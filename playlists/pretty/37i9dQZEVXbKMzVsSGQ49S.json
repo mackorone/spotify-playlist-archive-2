@@ -1,15 +1,79 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43770,
+  "num_followers": 43767,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MmWX0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MmbpUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        },
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Gaman",
+      "url": "https://open.spotify.com/track/5i3pGxdhp6zmwU46GB5MRj"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 176866,
+      "name": "Meyjar & Playas",
+      "url": "https://open.spotify.com/track/4i8cBPaCDveFx3bxGF2KSH"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        },
+        {
+          "name": "Hreini",
+          "url": "https://open.spotify.com/artist/7M9h49Emp3gIIdDw54YiPS"
+        }
+      ],
+      "duration_ms": 157381,
+      "name": "\u00deekkir mig ekki",
+      "url": "https://open.spotify.com/track/2AFzQ0ertpzspLH8Z4HUng"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "TV\u00cdBRRRI",
         "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
@@ -29,39 +93,7 @@
       "url": "https://open.spotify.com/track/6IXuslosrIMER3v9L5H8Iw"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "TV\u00cdBRRRI",
-        "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
-      },
-      "artists": [
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        }
-      ],
-      "duration_ms": 159923,
-      "name": "Tv\u00edbrrri",
-      "url": "https://open.spotify.com/track/7LSKm8ti5nqQs82lDZzXRC"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "City Of Joy",
         "url": "https://open.spotify.com/album/2Phb5pZhEo0LRYWyoTfuw6"
@@ -89,7 +121,107 @@
       "url": "https://open.spotify.com/track/4vDJSDWkxVobVfmI6hKgDo"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Dag eftir dag",
+      "url": "https://open.spotify.com/track/2lk94keEgJh7U28gr6HSBD"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 144775,
+      "name": "Miklu betri einn",
+      "url": "https://open.spotify.com/track/5uPKFn1kB45woVEV5ck24l"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        },
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        }
+      ],
+      "duration_ms": 191838,
+      "name": "Hva\u00f0 me\u00f0 \u00fea\u00f0?",
+      "url": "https://open.spotify.com/track/1udOwd5I9xu5D9PZfY4swk"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "TV\u00cdBRRRI",
+        "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
+      },
+      "artists": [
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        }
+      ],
+      "duration_ms": 159923,
+      "name": "Tv\u00edbrrri",
+      "url": "https://open.spotify.com/track/7LSKm8ti5nqQs82lDZzXRC"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Hv\u00edtir Pl\u00e1strar",
+      "url": "https://open.spotify.com/track/435tZK6M5HfFYQbfrfOm5x"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -105,7 +237,7 @@
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -121,23 +253,27 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        },
+        {
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 190498,
+      "name": "\u00de\u00fa",
+      "url": "https://open.spotify.com/track/4DTelnC3wTJV2SbktIm7Oc"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -153,7 +289,39 @@
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -169,23 +337,7 @@
       "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "TV\u00cdBRRRI",
-        "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
-      },
-      "artists": [
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        }
-      ],
-      "duration_ms": 125738,
-      "name": "Ekkert Breyst",
-      "url": "https://open.spotify.com/track/1Dqzrw0iDsdoKInsUc3KWr"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -201,7 +353,7 @@
       "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -217,7 +369,7 @@
       "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "TV\u00cdBRRRI",
         "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
@@ -226,34 +378,14 @@
         {
           "name": "Saint Pete",
           "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        },
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
         }
       ],
-      "duration_ms": 177480,
-      "name": "Vasanum",
-      "url": "https://open.spotify.com/track/2Agfb2NZJHuxD8Ps4FXZoc"
+      "duration_ms": 125738,
+      "name": "Ekkert Breyst",
+      "url": "https://open.spotify.com/track/1Dqzrw0iDsdoKInsUc3KWr"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -269,7 +401,39 @@
       "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "TV\u00cdBRRRI",
         "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
@@ -289,23 +453,27 @@
       "url": "https://open.spotify.com/track/2URkcv5ZmhFCXIQR1NaTnB"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+        "name": "TV\u00cdBRRRI",
+        "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
         }
       ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+      "duration_ms": 177480,
+      "name": "Vasanum",
+      "url": "https://open.spotify.com/track/2Agfb2NZJHuxD8Ps4FXZoc"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -321,23 +489,7 @@
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -353,7 +505,7 @@
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "\u00cdslenski draumurinn",
         "url": "https://open.spotify.com/album/5z5KYSkxzw2AalpJVLxSya"
@@ -373,7 +525,23 @@
       "url": "https://open.spotify.com/track/2gXAPQRBr1WWqJos2EaXzM"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -389,59 +557,7 @@
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "TV\u00cdBRRRI",
-        "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
-      },
-      "artists": [
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        },
-        {
-          "name": "Daron Karl",
-          "url": "https://open.spotify.com/artist/7EUPGJc5LBY2gnusglGZNr"
-        }
-      ],
-      "duration_ms": 209620,
-      "name": "M\u00f3sa\u00edk",
-      "url": "https://open.spotify.com/track/7JbjhtNfFn2Gh09jGAfU3B"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -457,7 +573,43 @@
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 207267,
+      "name": "Alla lei\u00f0",
+      "url": "https://open.spotify.com/track/2ln0xJxqusoMSwlLxKtPeg"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 229753,
+      "name": "N\u00f3tt fyrir tv\u00f6",
+      "url": "https://open.spotify.com/track/4iC2DIt6FvLNwAmg9vKQqT"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -481,7 +633,55 @@
       "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Endalaust jafnv\u00e6gi",
+        "url": "https://open.spotify.com/album/0xBrEqv6SBPj4wSn1CVBep"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 86026,
+      "name": "\u00c1\u00f0ur var",
+      "url": "https://open.spotify.com/track/4eklDJuylSa14XByclKijy"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "TV\u00cdBRRRI",
         "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
@@ -490,86 +690,18 @@
         {
           "name": "Saint Pete",
           "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "16",
-      "url": "https://open.spotify.com/track/0vgwkRjdib9vu4fFhT1RHQ"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Gr\u00e6ni Pakkinn",
-        "url": "https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg"
-      },
-      "artists": [
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
         },
         {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+          "name": "Daron Karl",
+          "url": "https://open.spotify.com/artist/7EUPGJc5LBY2gnusglGZNr"
         }
       ],
-      "duration_ms": 323813,
-      "name": "Tala minn sk\u00edt",
-      "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
+      "duration_ms": 209620,
+      "name": "M\u00f3sa\u00edk",
+      "url": "https://open.spotify.com/track/7JbjhtNfFn2Gh09jGAfU3B"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Skemmilagt til framb\u00fa\u00f0ar",
-        "url": "https://open.spotify.com/album/11UmfesAxjSN30AjVY6dO4"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00f3li",
-          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "K\u00f3k\u00f3mj\u00f3lk",
-      "url": "https://open.spotify.com/track/33RGJpw7j9BaLGNhLGaolR"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "T\u00d3NLIST TIL A\u00d0 SIGRA VI\u00d0",
-        "url": "https://open.spotify.com/album/2yqwaUL7NiAtvNGYRTlWCW"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        },
-        {
-          "name": "J\u00f3n J\u00f3nsson",
-          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
-        }
-      ],
-      "duration_ms": 206812,
-      "name": "LAS \u00c1 MILLI L\u00cdNANNA",
-      "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "LEIKURINN ER LEIKURINN",
         "url": "https://open.spotify.com/album/68Q0d4B71X0kVm0eZUh0ZP"
@@ -589,7 +721,95 @@
       "url": "https://open.spotify.com/track/4TF2zIRzf7lYueF8M3m10c"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "Gr\u00e6ni Pakkinn",
+        "url": "https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg"
+      },
+      "artists": [
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 323813,
+      "name": "Tala minn sk\u00edt",
+      "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "bararara",
+        "url": "https://open.spotify.com/album/3FH7CWfONspUH95avG1TNA"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "duration_ms": 150901,
+      "name": "bararara",
+      "url": "https://open.spotify.com/track/24wNSeNXxSruy3iDu9OSD5"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "T\u00d3NLIST TIL A\u00d0 SIGRA VI\u00d0",
+        "url": "https://open.spotify.com/album/2yqwaUL7NiAtvNGYRTlWCW"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "J\u00f3n J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
+        }
+      ],
+      "duration_ms": 206812,
+      "name": "LAS \u00c1 MILLI L\u00cdNANNA",
+      "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
+      "album": {
+        "name": "KBE kynnir: Legend \u00ed Leiknum",
+        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 138430,
+      "name": "Elli Egils",
+      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
+    },
+    {
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -609,55 +829,27 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
-        "name": "bararara",
-        "url": "https://open.spotify.com/album/3FH7CWfONspUH95avG1TNA"
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
       },
       "artists": [
         {
-          "name": "ISSI",
-          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
-        }
-      ],
-      "duration_ms": 150901,
-      "name": "bararara",
-      "url": "https://open.spotify.com/track/24wNSeNXxSruy3iDu9OSD5"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
-      },
-      "artists": [
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "\u00c9g er",
-        "url": "https://open.spotify.com/album/11sxrjEQRzUs2VnQfOCIoi"
-      },
-      "artists": [
-        {
-          "name": "HelgiT",
-          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
-        }
-      ],
-      "duration_ms": 116165,
-      "name": "\u00c9g er",
-      "url": "https://open.spotify.com/track/4UmI2WqUvKuDDp7iAogEF1"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "Best gleymdu leyndarm\u00e1lin",
         "url": "https://open.spotify.com/album/7bm0MgVHOldJiThvg2F6sc"
@@ -673,39 +865,7 @@
       "url": "https://open.spotify.com/track/46bnhPnuuG8lLSrCBT61s0"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 138430,
-      "name": "Elli Egils",
-      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
         "name": "TV\u00cdBRRRI",
         "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA"
@@ -716,173 +876,25 @@
           "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
         }
       ],
-      "duration_ms": 117120,
-      "name": "Post-Nut Poetry",
-      "url": "https://open.spotify.com/track/59vgPobmKI9MGmEbh9Fybc"
+      "duration_ms": 160500,
+      "name": "16",
+      "url": "https://open.spotify.com/track/0vgwkRjdib9vu4fFhT1RHQ"
     },
     {
-      "added_at": "2026-10-16 14:19:40",
+      "added_at": "2026-10-17 14:11:11",
       "album": {
-        "name": "Lj\u00f3sin Kvikna",
-        "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
+        "name": "Skemmilagt til framb\u00fa\u00f0ar",
+        "url": "https://open.spotify.com/album/11UmfesAxjSN30AjVY6dO4"
       },
       "artists": [
         {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        },
-        {
-          "name": "Alaska1867",
-          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
-        },
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
         }
       ],
-      "duration_ms": 209558,
-      "name": "Lj\u00f3sin Kvikna",
-      "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
-        }
-      ],
-      "duration_ms": 242721,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Love & Tears",
-        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Miklu betri einn",
-        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
-      },
-      "artists": [
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 144775,
-      "name": "Miklu betri einn",
-      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "\u00cdslenski draumurinn",
-        "url": "https://open.spotify.com/album/5z5KYSkxzw2AalpJVLxSya"
-      },
-      "artists": [
-        {
-          "name": "Kristmundur Axel",
-          "url": "https://open.spotify.com/artist/2hZoJ9EKrV6YLfUKebCZCo"
-        },
-        {
-          "name": "GDRN",
-          "url": "https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "Bl\u00e1gr\u00e6n",
-      "url": "https://open.spotify.com/track/36iyDbsjcidH1AnpFaXOHV"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 219924,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
-    },
-    {
-      "added_at": "2026-10-16 14:19:40",
-      "album": {
-        "name": "Sumari\u00f0",
-        "url": "https://open.spotify.com/album/4URlqV3L76lvnmrBpBKCCk"
-      },
-      "artists": [
-        {
-          "name": "\u00dalfur \u00dalfur",
-          "url": "https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57"
-        }
-      ],
-      "duration_ms": 212655,
-      "name": "Sumari\u00f0",
-      "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
+      "duration_ms": 156250,
+      "name": "K\u00f3k\u00f3mj\u00f3lk",
+      "url": "https://open.spotify.com/track/33RGJpw7j9BaLGNhLGaolR"
     }
   ],
   "unique_name": "Top 50 - Iceland",

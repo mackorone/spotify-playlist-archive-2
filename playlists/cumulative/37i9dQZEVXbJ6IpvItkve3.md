@@ -4,13 +4,13 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,505 songs - 3 day 13 hr 5 min
+1,506 songs - 3 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-28 | 2023-10-31 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-27 | 2023-09-20 |
-| [01](https://open.spotify.com/track/0382guPH5wzOg7MDrYH7D0) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:20 | 2026-04-08 |  |
+| [01](https://open.spotify.com/track/0382guPH5wzOg7MDrYH7D0) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:20 | 2026-04-08 | 2026-10-18 |
 | [02](https://open.spotify.com/track/3N4GpSs07D076HzWyZJNYA) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:34 | 2026-06-10 | 2026-07-28 |
 | [03](https://open.spotify.com/track/3US82sqZ2NBqiS1odRwU8f) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:04 | 2026-04-09 |  |
 | [04](https://open.spotify.com/track/1DWiJcjzfF4rwJTxFx8NUR) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 2:35 | 2026-04-28 | 2026-07-03 |
@@ -1270,6 +1270,7 @@
 | [סחרחורת](https://open.spotify.com/track/5CCxCzPB3HMh595Y1MNIm5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 4:13 | 2022-10-16 | 2023-06-13 |
 | [סחרחורת & בדד](https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [סחרחורת & בדד](https://open.spotify.com/album/0C18PN7xHyX9IVbn49CDKz) | 6:01 | 2021-09-24 | 2022-01-15 |
 | [סטאי / אתה שלי \(חלק 1\)](https://open.spotify.com/track/768Vu2KbeWeRY0TOjBHtOO) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [סטאי / אתה שלי \(חלק 1\)](https://open.spotify.com/album/2pdJON2v3BiSLNw7DYe1dn) | 2:19 | 2023-08-05 | 2023-08-13 |
+| [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 | 2026-10-17 |  |
 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2023-08-25 | 2024-08-21 |
 | [סיבובים](https://open.spotify.com/track/21qCzrANOK7gB0KPoNE1zP) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סיבובים](https://open.spotify.com/album/2XvWTVqWWjPXnkAjeH19pK) | 3:05 | 2021-03-27\* | 2021-10-17 |
 | [סיבת הסיבות](https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סיבת הסיבות](https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3) | 3:19 | 2021-03-27\* | 2022-10-07 |

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kasia Krzy\u017caniak",
-  "num_followers": 26689,
+  "num_followers": 26690,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "pelagia",
-        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
-      },
-      "artists": [
-        {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "pelagia",
-      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
         "name": "\u0106ma",
         "url": "https://open.spotify.com/album/752dJX2tObnNhUP27eTsXT"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "To zabola\u0142o",
-        "url": "https://open.spotify.com/album/0q568p4Sn8OPCA1J9Y8vnn"
+        "name": "pelagia",
+        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
       },
       "artists": [
         {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
         }
       ],
-      "duration_ms": 193846,
-      "name": "To zabola\u0142o",
-      "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
+      "duration_ms": 190000,
+      "name": "pelagia",
+      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -443,6 +427,22 @@
       "duration_ms": 173382,
       "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
       "url": "https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "To zabola\u0142o",
+        "url": "https://open.spotify.com/album/0q568p4Sn8OPCA1J9Y8vnn"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "To zabola\u0142o",
+      "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
+        "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
+        "url": "https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "duration_ms": 173926,
+      "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
+      "url": "https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
         "name": "mo\u017cemorze",
         "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 159529,
       "name": "mo\u017cemorze",
       "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
-        "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
-        "url": "https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk"
-      },
-      "artists": [
-        {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
-        }
-      ],
-      "duration_ms": 173926,
-      "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
-      "url": "https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
+        "name": "PRZEZ PRZYPADEK",
+        "url": "https://open.spotify.com/album/0p6HbDKQrGV3MpypC2sm4a"
+      },
+      "artists": [
+        {
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "PRZEZ PRZYPADEK",
+      "url": "https://open.spotify.com/track/23BvVrhz0PtNYyIx1dd5MD"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
         "name": "Je\u015bli co\u015b ma by\u0107",
         "url": "https://open.spotify.com/album/0c39eUKo9o1CurcJM20rfz"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 142538,
       "name": "Je\u015bli co\u015b ma by\u0107",
       "url": "https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
-        "name": "Pick me baby",
-        "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
-      },
-      "artists": [
-        {
-          "name": "Kasia Babis",
-          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
-        }
-      ],
-      "duration_ms": 203101,
-      "name": "Pick me baby",
-      "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "PRZEZ PRZYPADEK",
-        "url": "https://open.spotify.com/album/0p6HbDKQrGV3MpypC2sm4a"
+        "name": "Pick me baby",
+        "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
       },
       "artists": [
         {
-          "name": "HELA",
-          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+          "name": "Kasia Babis",
+          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
         }
       ],
-      "duration_ms": 183829,
-      "name": "PRZEZ PRZYPADEK",
-      "url": "https://open.spotify.com/track/23BvVrhz0PtNYyIx1dd5MD"
+      "duration_ms": 203101,
+      "name": "Pick me baby",
+      "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "Nie za\u015bpiewam Twojej mamie",
-        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
-      },
-      "artists": [
-        {
-          "name": "Briela",
-          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Nie za\u015bpiewam Twojej mamie",
-      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
         "name": "boj\u0119 si\u0119 ba\u0107",
         "url": "https://open.spotify.com/album/1wPfJYhgSlNgRZgD02ZEwq"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 209999,
       "name": "boj\u0119 si\u0119 ba\u0107",
       "url": "https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "Nie za\u015bpiewam Twojej mamie",
+        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Nie za\u015bpiewam Twojej mamie",
+      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "szpila",
-        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+        "name": "D\u0142o\u0144 trzymam w laysach",
+        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
       },
       "artists": [
         {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
         }
       ],
-      "duration_ms": 181694,
-      "name": "czekaj!",
-      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
+      "duration_ms": 146280,
+      "name": "D\u0142o\u0144 trzymam w laysach",
+      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
+        "name": "szpila",
+        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "czekaj!",
+      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
         "name": "niech nie \u017cyje nam",
         "url": "https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 156000,
       "name": "niech nie \u017cyje nam",
       "url": "https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
-        "name": "D\u0142o\u0144 trzymam w laysach",
-        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        }
-      ],
-      "duration_ms": 146280,
-      "name": "D\u0142o\u0144 trzymam w laysach",
-      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
     },
     {
       "added_at": "2026-10-15 22:01:47",

@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19698,
+  "num_followers": 19700,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADNABm5no5owmoA4sISgi3+",
+  "snapshot_id": "atFpAAAAAACkDBrk7WIlUygUDXElfRiC",
   "tracks": [
     {
       "added_at": null,
@@ -91,26 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Into Something",
-        "url": "https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 141885,
-      "name": "Nothing Into Something",
-      "url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "!",
         "url": "https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 205701,
       "name": "Everything BoZ (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Into Something",
+        "url": "https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 141885,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2"
     },
     {
       "added_at": null,
@@ -647,6 +647,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 206135,
+      "name": "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
+      "url": "https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BE MORE GRATEFUL",
         "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
@@ -703,54 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 206135,
-      "name": "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
-      "url": "https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here 2 Stay",
         "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
       },
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 128586,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
+      "duration_ms": 128586,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
     },
     {
       "added_at": null,
@@ -903,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
+        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
+      },
+      "artists": [
+        {
+          "name": "10X",
+          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 231470,
+      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
+      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 184252,
       "name": "ALL THAT A$$",
       "url": "https://open.spotify.com/track/2uTKGIYyTDtzl4foXm2qb8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
-        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
-      },
-      "artists": [
-        {
-          "name": "10X",
-          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 231470,
-      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
-      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
     },
     {
       "added_at": null,

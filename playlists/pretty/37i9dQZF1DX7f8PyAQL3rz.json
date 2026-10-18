@@ -1,6 +1,6 @@
 {
   "description": "salgada a pista t\u00e1, n\u00e9? \ud83c\udf1a",
-  "num_followers": 1429283,
+  "num_followers": 1429179,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,30 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
+        "name": "Cicatrizes, Vol. 1",
+        "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "VAI TOMANDO",
+      "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
         "name": "Amor ou Solid\u00e3o?",
         "url": "https://open.spotify.com/album/7lp3LXZKAhvSYBFs3KD0RY"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 181079,
       "name": "Escolhas",
       "url": "https://open.spotify.com/track/1Mr9eFlc36B0geFXvVvNEA"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
-        "name": "Cicatrizes, Vol. 1",
-        "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
-      },
-      "artists": [
-        {
-          "name": "LX",
-          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "VAI TOMANDO",
-      "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1171,34 +1171,6 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
-        "name": "Fiquei Bonito...",
-        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
-      },
-      "artists": [
-        {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 134829,
-      "name": "Fiquei Bonito...",
-      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
         "name": "dedin na boca",
         "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
       },
@@ -1223,6 +1195,62 @@
       "duration_ms": 133715,
       "name": "dedin na boca",
       "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "GLA",
+        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "DJ Menor PR",
+          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "Fiquei Bonito...",
+        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 134829,
+      "name": "Fiquei Bonito...",
+      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1263,6 +1291,38 @@
       "duration_ms": 151058,
       "name": "Amor \u00c9 F*Da",
       "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "67 Igual Mola",
+        "url": "https://open.spotify.com/album/4d97zHbUcr24M1zHqYbcuG"
+      },
+      "artists": [
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        },
+        {
+          "name": "COMINI",
+          "url": "https://open.spotify.com/artist/5orwiUiEd6sbMsHFMG1KeG"
+        },
+        {
+          "name": "Dops",
+          "url": "https://open.spotify.com/artist/4JgMMefIAAr4nQVHUaWGbQ"
+        },
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "DogDu",
+          "url": "https://open.spotify.com/artist/4wnqUgEQn7lVE0C1pXfuev"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "67 Igual Mola",
+      "url": "https://open.spotify.com/track/3hsiqSLwUG1LUrpW1L0J6a"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1419,30 +1479,30 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
-        "name": "GLA",
-        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
+        "name": "SymSesh #002 - Piranha Sexy",
+        "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
       },
       "artists": [
         {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
         },
         {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
         },
         {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
         },
         {
-          "name": "DJ Menor PR",
-          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
+          "name": "SYMSESH",
+          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
         }
       ],
-      "duration_ms": 201904,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
+      "duration_ms": 120000,
+      "name": "SymSesh #002 - Piranha Sexy",
+      "url": "https://open.spotify.com/track/1tvYxnTEjDSpVwlvRCUdyV"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1519,66 +1579,6 @@
       "duration_ms": 147709,
       "name": "Vida de Artista",
       "url": "https://open.spotify.com/track/2w42bB8uvyi59WwBnxEza0"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
-        "name": "SymSesh #002 - Piranha Sexy",
-        "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
-      },
-      "artists": [
-        {
-          "name": "Fontes",
-          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "SYMSESH",
-          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SymSesh #002 - Piranha Sexy",
-      "url": "https://open.spotify.com/track/1tvYxnTEjDSpVwlvRCUdyV"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
-        "name": "67 Igual Mola",
-        "url": "https://open.spotify.com/album/4d97zHbUcr24M1zHqYbcuG"
-      },
-      "artists": [
-        {
-          "name": "Mc Anjim",
-          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
-        },
-        {
-          "name": "COMINI",
-          "url": "https://open.spotify.com/artist/5orwiUiEd6sbMsHFMG1KeG"
-        },
-        {
-          "name": "Dops",
-          "url": "https://open.spotify.com/artist/4JgMMefIAAr4nQVHUaWGbQ"
-        },
-        {
-          "name": "Bra\u00e3o",
-          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
-        },
-        {
-          "name": "DogDu",
-          "url": "https://open.spotify.com/artist/4wnqUgEQn7lVE0C1pXfuev"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "67 Igual Mola",
-      "url": "https://open.spotify.com/track/3hsiqSLwUG1LUrpW1L0J6a"
     },
     {
       "added_at": "2026-10-16 03:01:04",

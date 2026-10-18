@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,130 likes - 89 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,149 likes - 89 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 67 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 68 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
 | 69 | [Family](https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Family](https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB) | 4:18 |
-| 70 | [La Clave](https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 4:43 |
+| 70 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
 | 71 | [Fiesta de zombis](https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fiesta de Zombis](https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp) | 4:14 |
 | 72 | [Felicidad](https://open.spotify.com/track/1ykf7TrdvlwgitSzzisVE1) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Camaleón Landáez](https://open.spotify.com/artist/6luDf7ZddPhDV5TBMVzJNF) | [La Vida Es Una Canción II](https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd) | 6:04 |
 | 73 | [+ UNIDAD](https://open.spotify.com/track/6anJzxYYM8gkFhjE6CKlP8) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [+ UNIDAD](https://open.spotify.com/album/3z3IHTyAZP2EtRP7B2AwiG) | 3:05 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 84 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 |
 | 85 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
 | 86 | [Cool and Calm](https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Cool and Calm](https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U) | 2:58 |
-| 87 | [Tiempo de Sanar](https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT) | [Vida Pura](https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ) | [Flores de Asfalto](https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe) | 5:01 |
-| 88 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
+| 87 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
+| 88 | [Tiempo de Sanar](https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT) | [Vida Pura](https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ) | [Flores de Asfalto](https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe) | 5:01 |
 | 89 | [Arde](https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Arde](https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7) | 3:06 |
 
 Snapshot ID: `AAAAABkxOY3ViSDnztsAR4F7yAcludSF`

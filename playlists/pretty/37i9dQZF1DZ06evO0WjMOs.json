@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 60743,
+  "num_followers": 60767,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAHwTZyx6ul3jMQlZ3V4yCq",
+  "snapshot_id": "atFpAAAAAABj5uYaAZ5goxlbf6u7PnW6",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 229264,
-      "name": "Anybody's fool",
-      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
+      "duration_ms": 235440,
+      "name": "A car wash and a new pair of pants",
+      "url": "https://open.spotify.com/track/2YgS9Lstqqrr8mo1KH2amW"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 235440,
-      "name": "A car wash and a new pair of pants",
-      "url": "https://open.spotify.com/track/2YgS9Lstqqrr8mo1KH2amW"
+      "duration_ms": 229264,
+      "name": "Anybody's fool",
+      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
     },
     {
       "added_at": null,
@@ -555,22 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 196560,
-      "name": "So Far Gone (feat. Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL"
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Could Start A Cult (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 194869,
-      "name": "You Could Start A Cult (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+      "duration_ms": 196560,
+      "name": "So Far Gone (feat. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL"
     },
     {
       "added_at": null,

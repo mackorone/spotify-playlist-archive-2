@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 6174,
+  "num_followers": 6171,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABmw9qJBV3YKv+eHJaBucY2",
+  "snapshot_id": "atAXgAAAAADtxiqka8W/0zxIuCc26uy/",
   "tracks": [
     {
       "added_at": null,
@@ -76,7 +76,7 @@
       "added_at": null,
       "album": {
         "name": "Favour",
-        "url": "https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF"
+        "url": "https://open.spotify.com/album/29kCfGrCCIeS0u3RxsvzTC"
       },
       "artists": [
         {
@@ -86,23 +86,7 @@
       ],
       "duration_ms": 156000,
       "name": "Favour",
-      "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFTER HOURS",
-        "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "AFTER HOURS",
-      "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
+      "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz"
     },
     {
       "added_at": null,
@@ -123,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
+        "name": "AFTER HOURS",
+        "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
       },
       "artists": [
-        {
-          "name": "Maz B",
-          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
-        },
         {
           "name": "Avenoir",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Crisis Evasion",
-      "url": "https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al"
+      "duration_ms": 173026,
+      "name": "AFTER HOURS",
+      "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
     },
     {
       "added_at": null,
@@ -155,6 +135,26 @@
       "duration_ms": 183293,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6DgXb6t0sRDjtyldebcnEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        },
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Crisis Evasion",
+      "url": "https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 149253,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D4U (Spotify Singles)",
         "url": "https://open.spotify.com/album/0GXMun1k687PVQexQFpoAA"
       },
@@ -219,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/4dQzXJwYGaVOx2gs4Hz2KI"
       },
       "artists": [
         {
@@ -228,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 145120,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
+      "duration_ms": 230560,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/0zRtbhAtRmXXrhyfiBOio2"
     },
     {
       "added_at": null,
@@ -251,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/4dQzXJwYGaVOx2gs4Hz2KI"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 230560,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/0zRtbhAtRmXXrhyfiBOio2"
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
     },
     {
       "added_at": null,
@@ -287,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/3wRztW06iXHNpaHlbOYwTn"
       },
       "artists": [
         {
@@ -296,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 149253,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU"
+      "duration_ms": 165360,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/4B63t1G9ckJzC8X345lNPR"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
       "duration_ms": 155586,
       "name": "DIFFERENT",
       "url": "https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/3wRztW06iXHNpaHlbOYwTn"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/4B63t1G9ckJzC8X345lNPR"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "TRACK 02 (Dangerous Lover)",
-      "url": "https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medea",
         "url": "https://open.spotify.com/album/5L85Wkzg77zKaVHqjhiYSo"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 219311,
       "name": "Superficial / Love",
       "url": "https://open.spotify.com/track/53fzAHD09qNmkveSms0NhI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "TRACK 02 (Dangerous Lover)",
+      "url": "https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 324066,
+  "num_followers": 324038,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Nympho",
         "url": "https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH"
       },
@@ -1059,6 +1039,26 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "NOW IT'S GONE",
         "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
-      },
-      "artists": [
-        {
-          "name": "Toman",
-          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
-        }
-      ],
-      "duration_ms": 245972,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "duration_ms": 245972,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Rhythm Of The House",
         "url": "https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 199575,
       "name": "Rhythm Of The House",
       "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 152561,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Million Things",
+        "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
+      },
+      "artists": [
+        {
+          "name": "Tommy Phillips",
+          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
+        }
+      ],
+      "duration_ms": 160641,
+      "name": "Million Things",
+      "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Million Things",
-        "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
-      },
-      "artists": [
-        {
-          "name": "Tommy Phillips",
-          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
-        }
-      ],
-      "duration_ms": 160641,
-      "name": "Million Things",
-      "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 159685,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
     },
     {
       "added_at": "2026-08-20 23:00:30",

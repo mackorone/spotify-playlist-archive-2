@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 181412,
+  "num_followers": 181444,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADWo5mWhVAfghBXZXB8LwaO",
+  "snapshot_id": "atAXgAAAAAD0kcU/IY+eFIgbGKJVfYOq",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 155498,
+      "name": "Freefall (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/4OUKMfT24sce6hdAzfNTOX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn It Up (feat. Tommy Cash)",
         "url": "https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 129621,
       "name": "Turn It Up (feat. Tommy Cash)",
       "url": "https://open.spotify.com/track/1LqGBnl9m1duX1XWopugaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 155498,
-      "name": "Freefall (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/4OUKMfT24sce6hdAzfNTOX"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All You Ever Wanted",
-        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 119934,
-      "name": "All You Ever Wanted",
-      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 163195,
       "name": "Movement",
       "url": "https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Ever Wanted",
+        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 119934,
+      "name": "All You Ever Wanted",
+      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
     },
     {
       "added_at": null,
@@ -863,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
+        "name": "Voices (feat. Oliver Tree)",
+        "url": "https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe"
       },
       "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 150255,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
+      "duration_ms": 188575,
+      "name": "Voices (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
     }
   ],
   "unique_name": "This Is Oliver Tree",

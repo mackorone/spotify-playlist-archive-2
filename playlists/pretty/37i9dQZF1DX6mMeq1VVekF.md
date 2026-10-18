@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,019 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,023 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 17 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |
 | 18 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
 | 19 | [Wasteman](https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Wasteman](https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do) | 2:25 |
-| 20 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
-| 21 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
+| 20 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
+| 21 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
 | 22 | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tariq Al\-Sabir](https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc) | 3:19 |
 | 23 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 |
 | 24 | [All My Life](https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [All My Life](https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz) | 3:07 |

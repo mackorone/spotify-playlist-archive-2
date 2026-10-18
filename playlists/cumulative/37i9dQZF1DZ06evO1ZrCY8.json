@@ -250,10 +250,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 287640,
       "name": "Deshacer el mundo",
       "url": "https://open.spotify.com/track/3ZNs9tTAIX7gzA0G7TUTKr"
+    },
+    {
+      "album": {
+        "name": "Avalancha- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287640,
+      "name": "Deshacer el mundo",
+      "url": "https://open.spotify.com/track/5gopj9Y2PnGb0g01XlOSDo"
     },
     {
       "album": {
@@ -578,7 +596,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 137840,
       "name": "Hologramas",
       "url": "https://open.spotify.com/track/3elCmMsrZX2mCuXVzHKbmJ"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 249546,
       "name": "\u00a1Rueda, fortuna!",
       "url": "https://open.spotify.com/track/7kghHsp7WnSUtERja6XWcM"

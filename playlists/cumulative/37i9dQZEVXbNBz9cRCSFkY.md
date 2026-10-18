@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,269 songs - 3 day 5 hr 1 min
+1,270 songs - 3 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 | 2022-10-22 | 2022-10-24 |
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/3jzbpOzoYa22FvzBkNkLvC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:38 | 2022-10-24 | 2022-10-31 |
 | [Bills](https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:55 | 2023-05-24 | 2023-05-27 |
-| [Binhi](https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 3:36 | 2025-12-11 |  |
+| [Binhi](https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 3:36 | 2025-12-11 | 2026-10-18 |
 | [Binhi](https://open.spotify.com/track/0sNZsYY8LSCCM4tC2y0zR1) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 3:36 | 2021-10-02 | 2022-01-12 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-04-09 | 2021-10-17 |
 | [Binibini](https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 3:41 | 2021-10-17 | 2022-12-02 |
@@ -910,7 +910,7 @@
 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2023-12-29 | 2025-11-18 |
 | [Ronan \(Taylor's Version\)](https://open.spotify.com/track/0WE0h1qUWJBt97DtvuMWRN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:24 | 2021-11-14 | 2021-11-14 |
 | [Rosas](https://open.spotify.com/track/7zjECGi00rudm6tSNJkSi1) | [Nica del Rosario](https://open.spotify.com/artist/2zgF783l4A3tMjr081z1wt), [Gab Pangilinan](https://open.spotify.com/artist/6nPFY72thfLl97kQS2KuCs) | [Rosas](https://open.spotify.com/album/53VhaVCwFuQvFRsWkeNnCK) | 4:33 | 2022-03-22 | 2022-05-23 |
-| [Rosas](https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Rosas](https://open.spotify.com/album/2dWmk1bspTUprZWi1ybGf7) | 4:10 | 2026-03-16 | 2026-10-13 |
+| [Rosas](https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Rosas](https://open.spotify.com/album/2dWmk1bspTUprZWi1ybGf7) | 4:10 | 2026-03-16 |  |
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-07-31 |
 | [Rose \- English Version](https://open.spotify.com/track/2shyarF21wZvWew00TdaP3) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-08-02 |
 | [Ruin The Friendship](https://open.spotify.com/track/1ZbSww1TszeuJOtsdMZQv1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:40 | 2025-10-08 | 2025-10-10 |
@@ -1019,7 +1019,8 @@
 | [Stay Stay Stay \(Taylor's Version\)](https://open.spotify.com/track/7eQj6r5PIdYKEIZjucBMcq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:25 | 2021-11-14 | 2021-11-20 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-06 | 2022-04-09 |
 | [Still With You](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Still With You](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) | 3:59 | 2023-07-04 | 2023-07-06 |
-| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-09-23 |  |
+| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-09-23 | 2026-10-18 |
+| [Stop The Wedding!](https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:19 | 2026-10-17 |  |
 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 | 2024-10-18 | 2024-10-28 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 | 2022-01-08 | 2022-08-28 |

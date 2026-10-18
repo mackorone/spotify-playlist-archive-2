@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Maurice White",
+        "url": "https://open.spotify.com/album/75lRlwwQSTZUDxMeG8NmxX"
+      },
+      "artists": [
+        {
+          "name": "Maurice White",
+          "url": "https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78840,
+      "name": "Alpha Dance",
+      "url": "https://open.spotify.com/track/2bQK58bSHspXGX0tf3pJBL"
+    },
+    {
+      "album": {
         "name": "It's Country Time",
         "url": "https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8"
       },

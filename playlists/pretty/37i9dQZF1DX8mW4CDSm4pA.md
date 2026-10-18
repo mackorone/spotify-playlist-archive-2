@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,436 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,440 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 9 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
 | 10 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
 | 11 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
-| 12 | [I Gotta Find Peace of Mind \- Live](https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 9:18 |
-| 13 | [Juicy](https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP) | 4:45 |
+| 12 | [Juicy](https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP) | 4:45 |
+| 13 | [I Gotta Find Peace of Mind \- Live](https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 9:18 |
 | 14 | [Waiting In Vain](https://open.spotify.com/track/1waOqfmEVkVC8WhaIP6uGI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 4:16 |
 | 15 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
 | 16 | [Let Nas Down](https://open.spotify.com/track/6WouUO5WEg0ncfGn6dkB4I) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:37 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 26 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 27 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/6y8o4V2R2dSt2ijgL8C72W) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 2:29 |
 | 28 | [Ye Yo \- Live](https://open.spotify.com/track/7DChMyOPgTlDTZKe5oYXn9) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 4:59 |
-| 29 | [The Ocean](https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:26 |
+| 29 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
 | 30 | [I Get Out \- Live](https://open.spotify.com/track/4iwmTjkAokDyP9S51mpzQy) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:17 |
 | 31 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
-| 32 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
+| 32 | [The Ocean](https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:26 |
 | 33 | [No Woman No Cry \(Instrumental Version\)](https://open.spotify.com/track/21vKvJCRwHNw5c44CYSf7s) | [United Guitar Players](https://open.spotify.com/artist/0s7lr7BVm37JcjR9zNHRDx) | [Instrumental Bob Marley Renditions on Spanish Acoustic Guitars: Reggae Legend](https://open.spotify.com/album/3ThiyzIJh5ZBEyOnHNJ8DN) | 8:02 |
 | 34 | [Smoking Gun](https://open.spotify.com/track/1AzJdVsBVczV2ou3Ds9pDr) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Last Kiss](https://open.spotify.com/album/5iTDN1BwQ6JdiHD9onpfg0) | 3:42 |
 | 35 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |

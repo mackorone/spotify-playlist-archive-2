@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-283 songs - 16 hr 27 min
+284 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 | 2026-07-02 |  |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-18 | 2025-10-17 |
 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 | 2025-07-18 |  |
+| [idole](https://open.spotify.com/track/67nA20J1o1iS62jpFJFlhb) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [idole](https://open.spotify.com/album/4QfPMWmVaTENkTFrmA6Gzi) | 2:18 | 2026-10-15 |  |
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2025-07-18 | 2026-07-11 |
 | [In My Pocket](https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [In My Pocket](https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv) | 3:58 | 2025-08-21 | 2025-11-07 |
 | [In N Out](https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6) | [Zach Stephenson](https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN) | [In N Out](https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4) | 3:32 | 2026-09-10 |  |
@@ -170,7 +171,7 @@
 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-02-06 | 2026-03-13 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-07-18 | 2025-07-26 |
 | [No Dawn To Wake](https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [No Dawn To Wake](https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR) | 3:00 | 2026-01-16 | 2026-06-27 |
-| [No Juego](https://open.spotify.com/track/4PKlFsTOV2SOCskSUS86Je) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [No Juego](https://open.spotify.com/album/3UycolNGNA7DMQZBvOITR2) | 3:10 | 2026-07-23 |  |
+| [No Juego](https://open.spotify.com/track/4PKlFsTOV2SOCskSUS86Je) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [No Juego](https://open.spotify.com/album/3UycolNGNA7DMQZBvOITR2) | 3:10 | 2026-07-23 | 2026-10-18 |
 | [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 | 2026-09-10 |  |
 | [Note to self](https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Note to self](https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ) | 2:45 | 2025-09-25 | 2025-09-29 |
 | [Nothing Could Tear Us Apart](https://open.spotify.com/track/3CUS5l2hGWvfEj1USkKgm0) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Nothing Could Tear Us Apart](https://open.spotify.com/album/7ItFzQNMfdkBh4dHKMU23T) | 3:09 | 2026-04-10 | 2026-05-08 |

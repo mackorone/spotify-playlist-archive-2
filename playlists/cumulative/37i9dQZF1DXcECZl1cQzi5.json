@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 152875,
       "name": "Deep Surrender",
       "url": "https://open.spotify.com/track/7f6USZOojzum21fDfZGESr"
@@ -2692,6 +2692,24 @@
       "duration_ms": 151254,
       "name": "Ocean Mist",
       "url": "https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE"
+    },
+    {
+      "album": {
+        "name": "Ocean Pulse",
+        "url": "https://open.spotify.com/album/30z0BBhnTWKSd2vnJdzoF9"
+      },
+      "artists": [
+        {
+          "name": "Sorth",
+          "url": "https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Ocean Pulse",
+      "url": "https://open.spotify.com/track/3sP8Z46DJG21pRX4wyiWbA"
     },
     {
       "album": {

@@ -29566,7 +29566,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 136353,
       "name": "NO PRESSURE",
       "url": "https://open.spotify.com/track/0ZULu6dZl09I6ooCsKyOMg"
@@ -46330,6 +46330,32 @@
       "duration_ms": 215639,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy"
+    },
+    {
+      "album": {
+        "name": "Whole Room Dancing",
+        "url": "https://open.spotify.com/album/44wu5EOlqWT4yVUrAJ0qTC"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "JRM",
+          "url": "https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Whole Room Dancing",
+      "url": "https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F"
     },
     {
       "album": {

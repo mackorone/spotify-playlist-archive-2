@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 359026,
+  "num_followers": 359077,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "AFTER MIDNIGHT",
         "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 121458,
       "name": "AFTER MIDNIGHT",
       "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 201131,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -2007,26 +2027,6 @@
       "duration_ms": 192013,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        },
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 201131,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Save The Cat",
         "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 172404,
       "name": "Save The Cat",
       "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Kore",
         "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
       },
@@ -2227,26 +2207,6 @@
       "duration_ms": 171034,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "AUTOPSY BUFFET",
-        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "AUTOPSY BUFFET",
-      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2291,6 +2251,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "AUTOPSY BUFFET",
+        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "AUTOPSY BUFFET",
+      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Liar (with OST)",
         "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
       },
@@ -2307,6 +2287,26 @@
       "duration_ms": 296250,
       "name": "Liar (with OST)",
       "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
     },
     {
       "added_at": "2026-09-18 15:22:42",

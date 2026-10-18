@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 432144,
       "name": "iThuba - Deep House Mix",
       "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
@@ -2510,6 +2510,32 @@
       "duration_ms": 190447,
       "name": "Tiki Tiki 2.0",
       "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
+    },
+    {
+      "album": {
+        "name": "Tiki Tiki 3.0",
+        "url": "https://open.spotify.com/album/63IGrMTzDiqrbVPJnnvVFs"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "Tiki Tiki 3.0",
+      "url": "https://open.spotify.com/track/24Et33I32iDonYdYQuPEGb"
     },
     {
       "album": {

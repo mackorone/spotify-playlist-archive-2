@@ -29627,6 +29627,24 @@
     },
     {
       "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/3Iiq5LNH4stfpe8m4TTgAU"
+    },
+    {
+      "album": {
         "name": "Legendary Encounter",
         "url": "https://open.spotify.com/album/267hiOLootzd1p08B9ibjs"
       },
@@ -30462,6 +30480,28 @@
       "duration_ms": 162694,
       "name": "Maze",
       "url": "https://open.spotify.com/track/0QHsPYIUCN8PClhqz5P99A"
+    },
+    {
+      "album": {
+        "name": "MBTAM",
+        "url": "https://open.spotify.com/album/17Zwo5lYl2P99qpC4Ff5l3"
+      },
+      "artists": [
+        {
+          "name": "Reject Madrigal",
+          "url": "https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu"
+        },
+        {
+          "name": "Midas Maximus",
+          "url": "https://open.spotify.com/artist/6gGYY4919eT5VnTW9glmW3"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "MBTAM",
+      "url": "https://open.spotify.com/track/1cnaFPJRxqXW5X0TccsoZp"
     },
     {
       "album": {
@@ -40052,6 +40092,28 @@
       "duration_ms": 288791,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6jsNILebZLZNSqwKgID705"
+    },
+    {
+      "album": {
+        "name": "Rise Like Fire",
+        "url": "https://open.spotify.com/album/4Vj3XPXOOOpzY3Vjei7fas"
+      },
+      "artists": [
+        {
+          "name": "Angie van Hunnik",
+          "url": "https://open.spotify.com/artist/0EJCU9mvdYgJ3sztjlZDcP"
+        },
+        {
+          "name": "Ginny Luke",
+          "url": "https://open.spotify.com/artist/1cFYMaZQ8T2zd16EqBvHLy"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195137,
+      "name": "Rise Like Fire",
+      "url": "https://open.spotify.com/track/2E1ghm4qnzBxseGpGgxcyq"
     },
     {
       "album": {

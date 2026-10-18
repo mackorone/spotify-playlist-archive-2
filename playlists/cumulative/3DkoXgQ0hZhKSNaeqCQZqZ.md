@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-603 songs - 1 day 8 hr 7 min
+604 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [LETMEGO](https://open.spotify.com/track/5m61G9851cDaXlwvTvX5es) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 4:24 | 2025-11-11 |  |
 | [liar, liar](https://open.spotify.com/track/65fE7bg2WdZZAxHt4A8JEn) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 4:17 | 2025-05-10 |  |
 | [LIFE](https://open.spotify.com/track/23Hhl3U1b2FxRMc2zo6IR8) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU), [Filterocity](https://open.spotify.com/artist/3raEjNj1yydwtfhnkJ9PkJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [EQUINOX](https://open.spotify.com/album/2HcUhzatJKAn13ejeI1idU) | 3:37 | 2024-02-09 | 2026-03-01 |
+| [Life at the Cemetery](https://open.spotify.com/track/6ObwlDeZ55HUfptbjflreb) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Life at the Cemetery](https://open.spotify.com/album/4qPJRC5h3rEzkyHp117Ljh) | 2:45 | 2026-10-17 |  |
 | [Light Shines on You](https://open.spotify.com/track/4fCfWY8suCaLrTq7rhZpbj) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [Light Shines on You](https://open.spotify.com/album/7mPSyGNxdwWrIcQxEysaDx) | 2:01 | 2026-07-31 |  |
 | [LIKE ME](https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [LIKE ME](https://open.spotify.com/album/2jUiht1H8BaASTN3NzxObc) | 2:23 | 2025-09-15 |  |
 | [Like That](https://open.spotify.com/track/7DyStmOv5VbnGK7JGOVtlY) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [Pink Girl](https://open.spotify.com/album/4o1A532b9cZXas6wgjYnHS) | 2:46 | 2026-08-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,452 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,462 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 19 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
 | 20 | [Entregados \- Versión 2026](https://open.spotify.com/track/65z8fMRl8E13BUmYAraYLh) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Narco](https://open.spotify.com/artist/1LtOyg9h0sJidHIFXLaICB) | [Entregados \(Versión 2026\)](https://open.spotify.com/album/0qZhnO6Hv4JSUdW0ORahH8) | 4:00 |
 | 21 | [Ja, Ja, Ja](https://open.spotify.com/track/0QVrkmPehChchi52biyo8w) | [The Meas](https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c) | [Buscándose la Vida](https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj) | 2:48 |
-| 22 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
+| 22 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
 | 23 | [La Que Nos Viene](https://open.spotify.com/track/0CBySnUxUPQQte8rMsdPdA) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX), [Fernando Reincidentes](https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5) | [La Que Nos Viene](https://open.spotify.com/album/4SpsCClAFUbKtTVn7z4v26) | 2:15 |
 | 24 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/5I1ldD90ymu5m41CjABLUX) | 1:31 |
-| 25 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
+| 25 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
 | 26 | [Me Cago en Dios](https://open.spotify.com/track/17rKtwaMbimKRriB3MIhK5) | [Enemigo Públiko](https://open.spotify.com/artist/1MfL8wnULVrgsqrIjIevtU), [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Me Cago en Dios](https://open.spotify.com/album/22V14o3ZIq9eQagXZdTy7o) | 2:43 |
 | 27 | [Tortilla Espanhola Fora da Galiza](https://open.spotify.com/track/62ktLHwa7prvmIormhUrTO) | [Pladür](https://open.spotify.com/artist/1iVenylfhTbxWr9Qj60RrD) | [Tortilla Espanhola Fóra da Galiza](https://open.spotify.com/album/201BDWhQhmH5F5CZhYSBFR) | 2:58 |
 | 28 | [Dispárame](https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Todos Amigos](https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr) | 3:27 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 55 | [La Casika No Se Toca](https://open.spotify.com/track/1WRFoNch7kLbCT9DdtGxay) | [Caña y Media](https://open.spotify.com/artist/3Aa5UzZPbPkScCeuFdQV8P) | [La Casika No Se Toca](https://open.spotify.com/album/2lnu8Fk62iWRmzTjURUdPO) | 1:31 |
 | 56 | [Humo](https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L) | [Eruktogatos](https://open.spotify.com/artist/0oXKGaEfnCO4gA8YTzlDWJ), [Andrés Melojo](https://open.spotify.com/artist/1ymKRveYirruiLxi6Ls8sS) | [Humo](https://open.spotify.com/album/2ruESohGqLboa07L3xpBXG) | 3:48 |
 | 57 | [Ya No Me Divierto](https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ya No Me Divierto](https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL) | 3:43 |
-| 58 | [Hasta Alcanzar la Eternidad](https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Un Veneno Llamado Libertad](https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D) | 3:10 |
-| 59 | [La Hemos Cagao \- Versión 2026](https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Hemos Cagao \(Versión 2026\)](https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V) | 3:53 |
+| 58 | [La Hemos Cagao \- Versión 2026](https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Hemos Cagao \(Versión 2026\)](https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V) | 3:53 |
+| 59 | [Hasta Alcanzar la Eternidad](https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Un Veneno Llamado Libertad](https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D) | 3:10 |
 | 60 | [Ni Una Sola Palabra](https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Ni una Sola Palabra](https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka) | 2:28 |
 | 61 | [Sin Perdón](https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Sin Perdón](https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA) | 3:10 |
 | 62 | [Nunca He Visto el Mar](https://open.spotify.com/track/5qEjoywjW43wUjxUvSyRPw) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Nunca He Visto el Mar](https://open.spotify.com/album/5Qr8yJcWdR1pkWgs9MANSI) | 4:10 |

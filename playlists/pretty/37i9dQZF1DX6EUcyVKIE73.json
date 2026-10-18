@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 92536,
+  "num_followers": 92535,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Brij Narayan",
-        "url": "https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw"
-      },
-      "artists": [
-        {
-          "name": "Iqubal Huein",
-          "url": "https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA"
-        },
-        {
-          "name": "Brij Narayan",
-          "url": "https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs"
-        }
-      ],
-      "duration_ms": 613933,
-      "name": "Raga Kirwani - Alap Gat - Teental",
-      "url": "https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
         "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 1290800,
       "name": "Rag Misra Mand",
       "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Brij Narayan",
+        "url": "https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw"
+      },
+      "artists": [
+        {
+          "name": "Iqubal Huein",
+          "url": "https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA"
+        },
+        {
+          "name": "Brij Narayan",
+          "url": "https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs"
+        }
+      ],
+      "duration_ms": 613933,
+      "name": "Raga Kirwani - Alap Gat - Teental",
+      "url": "https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -591,38 +591,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Signature Series, Vol. 3",
-        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
-      },
-      "artists": [
-        {
-          "name": "Ali Akbar Khan",
-          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
-        }
-      ],
-      "duration_ms": 1273906,
-      "name": "Rag Marwa, Part 2",
-      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Sangeet Sartaj Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO"
-      },
-      "artists": [
-        {
-          "name": "Pandit Bhimsen Joshi",
-          "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
-        }
-      ],
-      "duration_ms": 1947364,
-      "name": "Raga Asavari Todi",
-      "url": "https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Padma Talwalkar",
         "url": "https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T"
       },
@@ -651,18 +619,50 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "The Best Of Girija Deva",
-        "url": "https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH"
+        "name": "Sangeet Sartaj Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO"
       },
       "artists": [
         {
-          "name": "Girija Devi, Kishan Maharaj, Ramesh Mishra",
-          "url": "https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF"
+          "name": "Pandit Bhimsen Joshi",
+          "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
         }
       ],
-      "duration_ms": 542600,
-      "name": "Jhama Jham - Thumri",
-      "url": "https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW"
+      "duration_ms": 1947364,
+      "name": "Raga Asavari Todi",
+      "url": "https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Signature Series, Vol. 3",
+        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
+      },
+      "artists": [
+        {
+          "name": "Ali Akbar Khan",
+          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
+        }
+      ],
+      "duration_ms": 1273906,
+      "name": "Rag Marwa, Part 2",
+      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Debnath",
+          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
+        }
+      ],
+      "duration_ms": 335109,
+      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
+        "name": "The Best Of Girija Deva",
+        "url": "https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH"
       },
       "artists": [
         {
-          "name": "Jyoti Debnath",
-          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
+          "name": "Girija Devi, Kishan Maharaj, Ramesh Mishra",
+          "url": "https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF"
         }
       ],
-      "duration_ms": 335109,
-      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
+      "duration_ms": 542600,
+      "name": "Jhama Jham - Thumri",
+      "url": "https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Rag Shankara & Rag Mala in Jogia",
-        "url": "https://open.spotify.com/album/01gMfN05ikXSKLsWZmi2FM"
-      },
-      "artists": [
-        {
-          "name": "Ram Narayan",
-          "url": "https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND"
-        }
-      ],
-      "duration_ms": 1910000,
-      "name": "Rag Mala in Jogia",
-      "url": "https://open.spotify.com/track/1N2VUjymXRYSZO66jlvKTu"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Saptrang",
         "url": "https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 1896026,
       "name": "Rag Gurjari Todi",
       "url": "https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Rag Shankara & Rag Mala in Jogia",
+        "url": "https://open.spotify.com/album/01gMfN05ikXSKLsWZmi2FM"
+      },
+      "artists": [
+        {
+          "name": "Ram Narayan",
+          "url": "https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND"
+        }
+      ],
+      "duration_ms": 1910000,
+      "name": "Rag Mala in Jogia",
+      "url": "https://open.spotify.com/track/1N2VUjymXRYSZO66jlvKTu"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
+        "name": "Lifestory of a Legend",
+        "url": "https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh"
+      },
+      "artists": [
+        {
+          "name": "Pandit Bhimsen Joshi",
+          "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
+        }
+      ],
+      "duration_ms": 1937347,
+      "name": "Raga Jog",
+      "url": "https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
         "name": "Chhayanat: Sakhi Mora in Rupak",
         "url": "https://open.spotify.com/album/6HkB8bvQTWnPLkKThPiP0e"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 1048794,
       "name": "Chhayanat: Sakhi Mora in Rupak",
       "url": "https://open.spotify.com/track/5E4zz8g5IuX6hlWyuKRgEn"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Lifestory of a Legend",
-        "url": "https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh"
-      },
-      "artists": [
-        {
-          "name": "Pandit Bhimsen Joshi",
-          "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
-        }
-      ],
-      "duration_ms": 1937347,
-      "name": "Raga Jog",
-      "url": "https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Navyaa",
-        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
+        "name": "Raga Miyan-Ki-Todi, Raga Bibhas & Raga Bhairavi",
+        "url": "https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H"
       },
       "artists": [
         {
-          "name": "Nirali Kartik",
-          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+          "name": "Shruti Sadolikar",
+          "url": "https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq"
         }
       ],
-      "duration_ms": 693955,
-      "name": "Meditative Gurjari Todi",
-      "url": "https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV"
+      "duration_ms": 1486493,
+      "name": "Raga Bibhasi: He Shyam, Shyami",
+      "url": "https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn"
     }
   ],
   "unique_name": "Hindustani Classical",

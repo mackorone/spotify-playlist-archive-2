@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 953221,
+  "num_followers": 953314,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAexZTIhyNd+XtssDPUEbvv",
+  "snapshot_id": "atAXgAAAAAC80sdROFgzoMbmZ4a+3jbl",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+        "name": "The Prequel",
+        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
       },
       "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Pray Hard (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
+      "duration_ms": 221711,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
     },
     {
       "added_at": null,
@@ -659,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prequel",
-        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 221711,
-      "name": "Days Like These",
-      "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
+      "duration_ms": 126000,
+      "name": "Pray Hard (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 209131,
-      "name": "Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6TqqJJiJxThChwqBA7X7Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 191053,
       "name": "Brand New Man - with Luke Combs",
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 209131,
+      "name": "Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6TqqJJiJxThChwqBA7X7Tq"
     },
     {
       "added_at": null,

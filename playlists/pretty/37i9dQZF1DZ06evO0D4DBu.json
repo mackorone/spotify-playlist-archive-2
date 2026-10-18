@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210680,
+  "num_followers": 210679,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAABlRh7SKpBPsdriFQk3f9nq",
+  "snapshot_id": "atFpAAAAAABievB6cypNW0j0U0O7r8Za",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 206186,
-      "name": "Cross Me (feat. Chance the Rapper & PnB Rock)",
-      "url": "https://open.spotify.com/track/4wuCQX7JvAZLlrcmH4AeZF"
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,
@@ -355,22 +351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+      "duration_ms": 206186,
+      "name": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+      "url": "https://open.spotify.com/track/4wuCQX7JvAZLlrcmH4AeZF"
     },
     {
       "added_at": null,
@@ -647,66 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        }
-      ],
-      "duration_ms": 290316,
-      "name": "Summer Friends (feat. Jeremih & Francis & The Lights)",
-      "url": "https://open.spotify.com/track/2fl0B0OaXjWbjHCQFx2O8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 184562,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -735,6 +675,62 @@
       "duration_ms": 215426,
       "name": "Forever Always",
       "url": "https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Angels (feat. Saba)",
+      "url": "https://open.spotify.com/track/0jx8zY5JQsS4YEQcfkoc5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 184562,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
     },
     {
       "added_at": null,
@@ -1051,22 +1047,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Getting Started",
-        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+        "name": "The Man Who Has Everything",
+        "url": "https://open.spotify.com/album/6uVmpm7xTaSmTraOa2ydUo"
       },
       "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 199431,
-      "name": "Still Get Chanel (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
+      "duration_ms": 218624,
+      "name": "The Man Who Has Everything",
+      "url": "https://open.spotify.com/track/7zw8liUMFv18r0FIoOXFwP"
     },
     {
       "added_at": null,

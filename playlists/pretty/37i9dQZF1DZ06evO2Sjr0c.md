@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,238 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,245 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Mexicali Blues \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/3LZFM0DpHUpg3pZ0zlv2vZ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 5:16 |
 | 50 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 
-Snapshot ID: `atAXgAAAAABwL2sBmuOR9bFym/X9M5Ta`
+Snapshot ID: `atFpAAAAAAAhrUfqL7nkNoEsZ2u1hoTT`

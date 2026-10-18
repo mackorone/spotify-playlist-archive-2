@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 173720,
       "name": "Inscription of Wind",
       "url": "https://open.spotify.com/track/4xfuclNRS0Ppz942FgI9jE"
@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Cyano",
+        "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265312,
+      "name": "Noon Liquid Ore",
+      "url": "https://open.spotify.com/track/2sK1sarOc5DVoVL5k9eXpi"
+    },
+    {
+      "album": {
         "name": "Noon Liquid Ore",
         "url": "https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8"
       },
@@ -416,7 +434,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 265312,
       "name": "Noon Liquid Ore",
       "url": "https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw"

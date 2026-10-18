@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Chiquis \ud83d\udcf8",
-  "num_followers": 1296443,
+  "num_followers": 1296420,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Si Las Miradas Mataran (Deluxe)",
-        "url": "https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Fracaso Seguro",
-      "url": "https://open.spotify.com/track/5lGnwOdbX3OSJTcy2Fw7DA"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Las Cosas No Salieron",
         "url": "https://open.spotify.com/album/6pW0b08BP8SbQZ3tHfFsxe"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 203000,
       "name": "Las Cosas No Salieron",
       "url": "https://open.spotify.com/track/3WJoTPJX40PbYefLaPNUeJ"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "Si Las Miradas Mataran (Deluxe)",
+        "url": "https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Fracaso Seguro",
+      "url": "https://open.spotify.com/track/5lGnwOdbX3OSJTcy2Fw7DA"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
+        "name": "Para Morir Iguales",
+        "url": "https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Para Morir Iguales",
+      "url": "https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
         "name": "Me Llamo Mujeriego",
         "url": "https://open.spotify.com/album/5ZY2v5CtJKIF9c9yhhYz1i"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Para Morir Iguales",
-        "url": "https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Para Morir Iguales",
-      "url": "https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Si Te Enga\u00f1\u00e9",
         "url": "https://open.spotify.com/album/1MKQjIFyFRIE57zXnimA3C"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
+        "name": "Mi Morena",
+        "url": "https://open.spotify.com/album/7gAnJPwG7mHk6OFpO4Ppfc"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Mi Morena",
+      "url": "https://open.spotify.com/track/2iw2ZHKD2QRerzWvn3D2jm"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
         "name": "Mi Problema",
         "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
       },
@@ -531,38 +547,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Mi Morena",
-        "url": "https://open.spotify.com/album/7gAnJPwG7mHk6OFpO4Ppfc"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Mi Morena",
-      "url": "https://open.spotify.com/track/2iw2ZHKD2QRerzWvn3D2jm"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
-        "name": "Coraz\u00f3n De Piedra",
-        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 222910,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 175834,
       "name": "Mis Canciones de Amor",
       "url": "https://open.spotify.com/track/3yqiCLBbNKVZxqUWqMDxkr"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 222910,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Que Nadie Sepa Mi Sufrir",
-        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
+        "name": "Ella Jura",
+        "url": "https://open.spotify.com/album/655gOHBv3Ublhcrw6WS9gd"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 254973,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
+      "duration_ms": 177062,
+      "name": "Ella Jura",
+      "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Ella Jura",
-        "url": "https://open.spotify.com/album/655gOHBv3Ublhcrw6WS9gd"
+        "name": "Que Nadie Sepa Mi Sufrir",
+        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 177062,
-      "name": "Ella Jura",
-      "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
+      "duration_ms": 254973,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -975,6 +975,42 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/0G7YY6UdNn7qd6ECZHYBfH"
+      },
+      "artists": [
+        {
+          "name": "Cristian Ciriaco",
+          "url": "https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "Si Por Casualidad",
+        "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
+      },
+      "artists": [
+        {
+          "name": "Banda Tradicion Sinaloense",
+          "url": "https://open.spotify.com/artist/54FjAqCo2f6s9k9oUvtAC8"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 156990,
+      "name": "Si Por Casualidad",
+      "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
         "name": "Primero Ens\u00e9\u00f1ate A Querer",
         "url": "https://open.spotify.com/album/5meDxtJWeTI00FtUmwmJDi"
       },
@@ -1031,26 +1067,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Si Por Casualidad",
-        "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
-      },
-      "artists": [
-        {
-          "name": "Banda Tradicion Sinaloense",
-          "url": "https://open.spotify.com/artist/54FjAqCo2f6s9k9oUvtAC8"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 156990,
-      "name": "Si Por Casualidad",
-      "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "\u00a1Que Viva Antonio Aguilar!",
         "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "De Vez En Cuando",
-        "url": "https://open.spotify.com/album/0G7YY6UdNn7qd6ECZHYBfH"
+        "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
       },
       "artists": [
         {
-          "name": "Cristian Ciriaco",
-          "url": "https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 212787,
-      "name": "De Vez En Cuando",
-      "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
+      "duration_ms": 187200,
+      "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
+      "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -1115,22 +1131,6 @@
       "duration_ms": 182586,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
-        "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
-      "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
     },
     {
       "added_at": "2026-10-16 05:53:57",

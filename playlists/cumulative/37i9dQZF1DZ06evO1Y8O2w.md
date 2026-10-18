@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-108 songs - 8 hr 27 min
+109 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Living Inside Your Love](https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 6:14 | 2023-12-18 |  |
 | [Lookin' For a Lovin'](https://open.spotify.com/track/0PchjcyeTdQ9wkbbjMnzXy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded Edition\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 2:55 | 2022-09-24 | 2022-09-26 |
 | [Love Is Here \(feat\. Phyllis Hyman\)](https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 4:42 | 2022-05-27 |  |
-| [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 | 2022-05-25 |  |
+| [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 | 2022-05-25 | 2026-10-18 |
+| [Mask of Gold](https://open.spotify.com/track/2TAnqVBJRz9iQZZO49YYCP) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Mask of Gold](https://open.spotify.com/album/192O1kJvidIIH2V4cdnbRq) | 3:59 | 2026-10-18 |  |
 | [Meet Me On The Moon](https://open.spotify.com/track/3oJh3bfR18qSOb9ss4uVHm) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 6:44 | 2022-05-25 |  |
 | [Never Say Never Again](https://open.spotify.com/track/79czZJbXxF4IH2ZKlfplwe) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [One More Night](https://open.spotify.com/album/2b6rslI1UbzrU7SszsgXH3) | 3:32 | 2022-05-25 | 2026-08-27 |
 | [No One Can Love You More](https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 4:23 | 2022-05-25 |  |

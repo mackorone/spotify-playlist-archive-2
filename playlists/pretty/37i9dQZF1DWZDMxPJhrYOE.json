@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105606,
+  "num_followers": 105608,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -89,7 +89,7 @@
         },
         {
           "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+          "url": "https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL"
         }
       ],
       "duration_ms": 187381,
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
       },
@@ -295,6 +311,42 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Let\u2019s Get Married",
+      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
         "name": "WILDCHILD",
         "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
@@ -323,22 +375,6 @@
       "duration_ms": 140520,
       "name": "Nobody Wanna Dance Anymore",
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Let\u2019s Get Married",
-      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -407,6 +443,38 @@
       "duration_ms": 292780,
       "name": "doom",
       "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -511,6 +579,22 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
+        "name": "Unloveu",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 232527,
+      "name": "Unloveu",
+      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
         "name": "Chuck Timely & The Hourglass",
         "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
       },
@@ -543,22 +627,6 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
-        "name": "Pay That Toll",
-        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 167553,
-      "name": "Pay That Toll",
-      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
       },
@@ -579,6 +647,42 @@
       "duration_ms": 167666,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "Pay That Toll",
+        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 167553,
+      "name": "Pay That Toll",
+      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -615,22 +719,6 @@
       "duration_ms": 213746,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
-        "name": "Unloveu",
-        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 232527,
-      "name": "Unloveu",
-      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -683,38 +771,6 @@
       "duration_ms": 163437,
       "name": "Hold Mit Tempo",
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
-        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
-        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        },
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 224877,
-      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
-      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -803,6 +859,22 @@
       "duration_ms": 141315,
       "name": "Pillow Fight",
       "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 222478,
+      "name": "Lasso The Moon",
+      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -939,26 +1011,6 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
-        "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
-        "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        },
-        {
-          "name": "Thomas Helmig",
-          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
-        }
-      ],
-      "duration_ms": 158413,
-      "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
-      "url": "https://open.spotify.com/track/6rQtbOONmDKLD8mA1Dfbrr"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
         "name": "Hver Eneste Gang",
         "url": "https://open.spotify.com/album/7i3y8UzOiZOXOxAwZymwiQ"
       },
@@ -979,6 +1031,26 @@
       "duration_ms": 229875,
       "name": "Hver Eneste Gang",
       "url": "https://open.spotify.com/track/1p8AjTC2doJ2gau4MNbnZ8"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
+        "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "Thomas Helmig",
+          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
+        }
+      ],
+      "duration_ms": 158413,
+      "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
+      "url": "https://open.spotify.com/track/6rQtbOONmDKLD8mA1Dfbrr"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -1035,22 +1107,6 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
         "name": "KBH",
         "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
       },
@@ -1063,6 +1119,22 @@
       "duration_ms": 175562,
       "name": "KBH",
       "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -1119,26 +1191,6 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/5EQhGB4q9JSwh2EYJwkn2m"
-      },
-      "artists": [
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        },
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
-        }
-      ],
-      "duration_ms": 192185,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/0Gn5ihOi3h3714FvTjvacN"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
       },
@@ -1155,6 +1207,26 @@
       "duration_ms": 169077,
       "name": "Ude Fra Indre (feat. Freyy)",
       "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/5EQhGB4q9JSwh2EYJwkn2m"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        },
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "duration_ms": 192185,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/0Gn5ihOi3h3714FvTjvacN"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -1211,22 +1283,6 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
-        "name": "Hvor du er",
-        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
-      },
-      "artists": [
-        {
-          "name": "dreng&piger",
-          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
-        }
-      ],
-      "duration_ms": 145778,
-      "name": "Hvor du er",
-      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
         "name": "Sometimes I rush",
         "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
       },
@@ -1259,18 +1315,18 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
-        "name": "9 Liv",
-        "url": "https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK"
+        "name": "Hvor du er",
+        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
       },
       "artists": [
         {
-          "name": "Suspekt",
-          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
         }
       ],
-      "duration_ms": 115339,
-      "name": "9 Liv",
-      "url": "https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv"
+      "duration_ms": 145778,
+      "name": "Hvor du er",
+      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -1287,6 +1343,22 @@
       "duration_ms": 177650,
       "name": "Chelsea Boots - (Bonus Track)",
       "url": "https://open.spotify.com/track/4bvgMMJ5J2lo0zANPc1SFS"
+    },
+    {
+      "added_at": "2026-10-16 08:39:39",
+      "album": {
+        "name": "9 Liv",
+        "url": "https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK"
+      },
+      "artists": [
+        {
+          "name": "Suspekt",
+          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+        }
+      ],
+      "duration_ms": 115339,
+      "name": "9 Liv",
+      "url": "https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv"
     },
     {
       "added_at": "2026-10-16 08:39:39",
@@ -1331,46 +1403,6 @@
     {
       "added_at": "2026-10-16 08:39:39",
       "album": {
-        "name": "Always on Your Side",
-        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Always on Your Side",
-      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
-        "name": "How I Feel",
-        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "How I Feel",
-      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
         "name": "Der Bor To Verdener I Mig",
         "url": "https://open.spotify.com/album/4GjijJTBu4uFQtB828W8Rf"
       },
@@ -1383,38 +1415,6 @@
       "duration_ms": 145866,
       "name": "Dag Etter",
       "url": "https://open.spotify.com/track/0yXbholP1jDYnkFXo7XwqH"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
-        "name": "\u00d8delagte Mennesker",
-        "url": "https://open.spotify.com/album/1tBnI6uHosQgf1tloFQp9k"
-      },
-      "artists": [
-        {
-          "name": "Svea S",
-          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
-        }
-      ],
-      "duration_ms": 149186,
-      "name": "\u00d8delagte Mennesker",
-      "url": "https://open.spotify.com/track/290GmiHv84n3yg8MlYNeWK"
-    },
-    {
-      "added_at": "2026-10-16 08:39:39",
-      "album": {
-        "name": "Everything in the shade",
-        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Everything in the shade",
-      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
     }
   ],
   "unique_name": "De nye",

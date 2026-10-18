@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2128142,
+  "num_followers": 2128234,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACx3QK6ZGvexeI498J3cthW",
+  "snapshot_id": "atAXgAAAAAATJ9QKQi0ClntQYHbgowPg",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 284506,
-      "name": "Fight Fire With Fire - Remastered",
-      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
+      "duration_ms": 244533,
+      "name": "Through the Never - Remastered 2021",
+      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 244533,
-      "name": "Through the Never - Remastered 2021",
-      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
+      "duration_ms": 284506,
+      "name": "Fight Fire With Fire - Remastered",
+      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
     },
     {
       "added_at": null,

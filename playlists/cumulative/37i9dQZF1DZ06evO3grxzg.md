@@ -4,7 +4,7 @@
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-146 songs - 7 hr 46 min
+147 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Ladrones](https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:03 | 2023-03-19 | 2026-05-15 |
 | [Late Mi Corazón \- Version Pop](https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 4:02 | 2026-05-17 |  |
 | [Lo Que No Sabes](https://open.spotify.com/track/0N0AD9mvFdUn4eEpLskdzV) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:54 | 2025-01-16 | 2025-06-26 |
+| [Mala Fama](https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:02 | 2026-10-18 |  |
 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 | 2023-03-19 | 2026-04-02 |
 | [Mariposa Y Sol](https://open.spotify.com/track/5laCdDysZ44czBosf4F10W) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 3:26 | 2026-04-02 |  |
 | [María Belem](https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:10 | 2026-05-17 |  |

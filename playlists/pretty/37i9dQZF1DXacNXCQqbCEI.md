@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,248 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,240 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 15 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
 | 16 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
 | 17 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
-| 18 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
-| 19 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
+| 18 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
+| 19 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
 | 20 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 |
 | 21 | [El Makako](https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:26 |
 | 22 | [Bogotá](https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9) | [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8) | [Conciencia](https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc) | 3:30 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 49 | [Antares](https://open.spotify.com/track/5AtSxyPK3zcij0QjqvcmbE) | [Alejandro Molinari](https://open.spotify.com/artist/6MVmGh11Jf6bh8FfwiLblE) | [Antares](https://open.spotify.com/album/4vgoQuq5sAPGOsHzlPCmaa) | 4:55 |
 | 50 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 |
 | 51 | [Capulí](https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug) | [EVHA](https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm) | [Capulí](https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz) | 4:53 |
-| 52 | [Caruyú](https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 2:32 |
+| 52 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
 | 53 | [Baquiné](https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Baquiné](https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG) | 4:32 |
-| 54 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
+| 54 | [Caruyú](https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 2:32 |
 | 55 | [La Añoranza \- Original Version](https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Will Love](https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu) | [La Añoranza](https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj) | 3:43 |
 | 56 | [¿Qué Jue?](https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [¿Qué Jue?](https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m) | 3:25 |
 | 57 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |

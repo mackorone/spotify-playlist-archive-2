@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 50331,
+  "num_followers": 50327,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADttxLGB8IwzG5+PpE9ciSR",
+  "snapshot_id": "atFpAAAAAADSG/ClCjL8aGjsHfw0MM6Z",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versus the night",
-        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
         "url": "https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 182400,
       "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
       "url": "https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Versus the night",
+        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TWILIGHT",
-        "url": "https://open.spotify.com/album/6yMhfBAG7yQziGEXSAWN5N"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "TWILIGHT",
-      "url": "https://open.spotify.com/track/3FXDTuvtmQ8RE9l5HaBwGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8272\u5f69",
         "url": "https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 181266,
       "name": "\u611b\u3092\u89e3\u304f",
       "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TWILIGHT",
+        "url": "https://open.spotify.com/album/6yMhfBAG7yQziGEXSAWN5N"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "TWILIGHT",
+      "url": "https://open.spotify.com/track/3FXDTuvtmQ8RE9l5HaBwGR"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Versus the night",
         "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 214833,
       "name": "MoonWalker",
       "url": "https://open.spotify.com/track/6pjEIAEvpZ9nl6Hjuyv3Mv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nerenaiyoruni ka-tenwoakete",
-        "url": "https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn"
-      },
-      "artists": [
-        {
-          "name": "whaledontsleep",
-          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
-        },
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 197067,
-      "name": "Sleeping town (feat. yama)",
-      "url": "https://open.spotify.com/track/33l85q7YTdJGn7PrR3LU8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u771f\u3063\u767d",
         "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
       },
@@ -571,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nerenaiyoruni ka-tenwoakete",
+        "url": "https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn"
+      },
+      "artists": [
+        {
+          "name": "whaledontsleep",
+          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
+        },
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 197067,
+      "name": "Sleeping town (feat. yama)",
+      "url": "https://open.spotify.com/track/33l85q7YTdJGn7PrR3LU8G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Versus the night",
         "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u6625\u3092\u544a\u3052\u308b - With ensemble",
+        "url": "https://open.spotify.com/album/2XIPTsVGWBxXB4zmVGGw2J"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 182936,
+      "name": "\u6625\u3092\u544a\u3052\u308b - With ensemble",
+      "url": "https://open.spotify.com/track/32ggYFS2AFOCvzu2940Wcg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -615,6 +631,22 @@
       "duration_ms": 274800,
       "name": "\u5e0c\u671b\u8ad6",
       "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
       "added_at": null,
@@ -639,22 +671,6 @@
       "duration_ms": 161470,
       "name": "D(evil) feat. yama",
       "url": "https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6cab\u96ea",
-        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "\u6cab\u96ea",
-      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
       "added_at": null,
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "C.U.T",
-        "url": "https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 221433,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/29NKnVIVnrlzhTeZ2A9DVf"
+      "duration_ms": 208805,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 208805,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u4e00\u5bf8\u306e\u8d64",
         "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 231673,
       "name": "\u4e00\u5bf8\u306e\u8d64",
       "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C.U.T",
+        "url": "https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 221433,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/29NKnVIVnrlzhTeZ2A9DVf"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 215700,
       "name": "\u58f0\u660e",
       "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 300800,
-      "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe"
     },
     {
       "added_at": null,

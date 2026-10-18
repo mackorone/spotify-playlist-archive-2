@@ -1,12 +1,12 @@
 {
   "description": "\"She'll Never Be Me\" on streaming is the ultimate main pop girl emergency\u2728",
-  "num_followers": 242567,
+  "num_followers": 242697,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOz9f8lJ4suAo99I+8NqUCIXR4Q6",
+  "snapshot_id": "AAAAAA6G093OKHtrWXf2o0nYf9L8qk6y",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:51",
@@ -41,36 +41,20 @@
       "url": "https://open.spotify.com/track/6Dc2SEXILrBwqWmB1pdqrK"
     },
     {
-      "added_at": "2026-09-18 04:13:56",
+      "added_at": "2026-10-17 19:34:53",
       "album": {
-        "name": "Met my match",
-        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+        "name": "Melatonin",
+        "url": "https://open.spotify.com/album/228ian0XYKvFtY1UchZy5d"
       },
       "artists": [
         {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 165339,
-      "name": "Met my match",
-      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
-    },
-    {
-      "added_at": "2026-10-09 04:00:51",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 163544,
-      "name": "Troye Meets World",
-      "url": "https://open.spotify.com/track/7vXhXO3uyAer5brrrTGkTC"
+      "duration_ms": 222178,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/0Fscl5Gt6r9UfJR6OWG1wI"
     },
     {
       "added_at": "2026-10-09 05:06:53",
@@ -87,6 +71,74 @@
       "duration_ms": 214559,
       "name": "i think he's got a girl",
       "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
+    },
+    {
+      "added_at": "2026-10-17 19:34:53",
+      "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
+    },
+    {
+      "added_at": "2026-10-17 19:36:54",
+      "album": {
+        "name": "FRICTION",
+        "url": "https://open.spotify.com/album/0zyJH68Hu6kj8N2RcBNHKG"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        },
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "duration_ms": 168913,
+      "name": "FRICTION",
+      "url": "https://open.spotify.com/track/38QQX5owEYU3h4alb7CaPU"
+    },
+    {
+      "added_at": "2026-10-09 14:29:50",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-10-09 04:00:51",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 163544,
+      "name": "Troye Meets World",
+      "url": "https://open.spotify.com/track/7vXhXO3uyAer5brrrTGkTC"
     },
     {
       "added_at": "2026-10-09 04:00:51",
@@ -161,22 +213,6 @@
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
     },
     {
-      "added_at": "2026-10-09 14:29:50",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
       "added_at": "2026-09-25 04:03:18",
       "album": {
         "name": "Danceteria Afterhours",
@@ -213,6 +249,22 @@
       "url": "https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg"
     },
     {
+      "added_at": "2026-09-18 04:13:56",
+      "album": {
+        "name": "Met my match",
+        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 165339,
+      "name": "Met my match",
+      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
+    },
+    {
       "added_at": "2026-10-09 04:11:46",
       "album": {
         "name": "Moaning",
@@ -247,6 +299,22 @@
       "duration_ms": 158351,
       "name": "THE MOVEMENT",
       "url": "https://open.spotify.com/track/7urjWk4GVZ94gTpRInEvAh"
+    },
+    {
+      "added_at": "2026-09-18 04:43:57",
+      "album": {
+        "name": "ESTRUS",
+        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 193792,
+      "name": "are we on a break",
+      "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
     },
     {
       "added_at": "2026-10-08 03:44:36",
@@ -331,22 +399,6 @@
       "duration_ms": 171734,
       "name": "DANCING ON STARS",
       "url": "https://open.spotify.com/track/1dfBnisWzinnx32I9en9TD"
-    },
-    {
-      "added_at": "2026-09-18 04:43:57",
-      "album": {
-        "name": "ESTRUS",
-        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 193792,
-      "name": "are we on a break",
-      "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
     },
     {
       "added_at": "2026-09-18 04:13:56",
@@ -619,22 +671,6 @@
       "duration_ms": 269032,
       "name": "Touch Touch",
       "url": "https://open.spotify.com/track/18fRO6IsVaKNn5HIdVraSA"
-    },
-    {
-      "added_at": "2026-09-18 04:13:56",
-      "album": {
-        "name": "Pillow Fight / I\u2019d Rather Be Alone",
-        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 141315,
-      "name": "Pillow Fight",
-      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
     },
     {
       "added_at": "2026-09-18 04:13:56",
@@ -935,22 +971,6 @@
       "duration_ms": 198067,
       "name": "PLAY WITH A KISS!",
       "url": "https://open.spotify.com/track/4g3Lp2lNFEipx4kmhyuLBs"
-    },
-    {
-      "added_at": "2026-07-31 14:35:25",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 199809,
-      "name": "freak",
-      "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
     },
     {
       "added_at": "2026-07-26 19:38:46",
@@ -1327,22 +1347,6 @@
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
-    },
-    {
-      "added_at": "2026-06-26 04:00:32",
-      "album": {
-        "name": "Watch It Burn",
-        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Watch It Burn",
-      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
     },
     {
       "added_at": "2026-06-12 04:01:58",

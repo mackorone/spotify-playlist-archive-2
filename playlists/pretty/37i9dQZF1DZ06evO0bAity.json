@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACWHI3ZjsVO9rMldEfgpKWF",
+  "snapshot_id": "atAXgAAAAACGxrw2njqP3HQ2XYRpqfi7",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easing Out Of Control",
-        "url": "https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 214212,
-      "name": "Easing Out Of Control",
-      "url": "https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positive Rising: Part 2",
         "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
       },
@@ -231,38 +215,6 @@
       "duration_ms": 215613,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Rat",
-        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Keep Myself on Edge",
-      "url": "https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Still No Change",
-      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
     },
     {
       "added_at": null,
@@ -299,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Still No Change",
+      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
       },
@@ -311,6 +279,22 @@
       "duration_ms": 210958,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easing Out Of Control",
+        "url": "https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 214212,
+      "name": "Easing Out Of Control",
+      "url": "https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op"
     },
     {
       "added_at": null,
@@ -347,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MURDER ME (DZ Deathrays Remix)",
+        "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        },
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "MURDER ME - DZ Deathrays Remix",
+      "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
       },
@@ -363,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easing Out Of Control",
-        "url": "https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 191742,
-      "name": "Pissing In The Breeze",
-      "url": "https://open.spotify.com/track/2H7RTRdSWfqfVlu6V1vGTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
       },
@@ -388,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Ocean Exploder",
-      "url": "https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk"
+      "duration_ms": 214920,
+      "name": "Keep Myself on Edge",
+      "url": "https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0"
     },
     {
       "added_at": null,
@@ -423,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MURDER ME (DZ Deathrays Remix)",
-        "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        },
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "MURDER ME - DZ Deathrays Remix",
-      "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easing Out Of Control",
         "url": "https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj"
       },
@@ -452,25 +420,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 161653,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 218739,
-      "name": "My Mind is Eating Me Alive",
-      "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+      "duration_ms": 191742,
+      "name": "Pissing In The Breeze",
+      "url": "https://open.spotify.com/track/2H7RTRdSWfqfVlu6V1vGTD"
     },
     {
       "added_at": null,
@@ -500,9 +452,41 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Black Rat",
-      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
+      "duration_ms": 244000,
+      "name": "Ocean Exploder",
+      "url": "https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 218739,
+      "name": "My Mind is Eating Me Alive",
+      "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easing Out Of Control",
+        "url": "https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 161653,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb"
     },
     {
       "added_at": null,
@@ -523,6 +507,38 @@
       "duration_ms": 114920,
       "name": "Fear The Anchor",
       "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Black Rat",
+      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Run To Paradise",
+        "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 194625,
+      "name": "Run To Paradise",
+      "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easing Out Of Control",
         "url": "https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj"
       },
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 151106,
-      "name": "Like No Other",
-      "url": "https://open.spotify.com/track/3nU4AYC9RZmGwoWA7hO5g8"
+      "duration_ms": 124156,
+      "name": "Ordinary Life",
+      "url": "https://open.spotify.com/track/2howizZ9AlI3wgWViIkclu"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 198692,
       "name": "Feeling Good, Feeling Great",
       "url": "https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run To Paradise",
-        "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 194625,
-      "name": "Run To Paradise",
-      "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 204835,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2lzezhXlYVSwah9ZVlZ5fg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 264600,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 204835,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2lzezhXlYVSwah9ZVlZ5fg"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 75568,
-      "name": "Hot Potato",
-      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/0kYX3kcnzxoyG8mRCurZuf"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 169708,
       "name": "Daybreak (with DZ Deathrays)",
       "url": "https://open.spotify.com/track/3URWgobZp0BviTbfuxtuib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 135373,
+      "name": "Tuff Luck",
+      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
       },
       "artists": [
         {
@@ -828,15 +828,15 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 135373,
-      "name": "Tuff Luck",
-      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
+      "duration_ms": 75568,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Golden Retriever",
-      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
+      "duration_ms": 203160,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk"
     }
   ],
   "unique_name": "This Is DZ Deathrays",

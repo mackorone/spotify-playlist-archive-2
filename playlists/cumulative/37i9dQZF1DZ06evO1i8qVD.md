@@ -4,7 +4,7 @@
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-143 songs - 10 hr 28 min
+144 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cognac \(feat\. Jeff Beck & Keith Richards\)](https://open.spotify.com/track/3BkMv30DKcUEOsRbDSAyIq) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 5:22 | 2022-08-05 |  |
 | [Cryin' Shame](https://open.spotify.com/track/4jixfTM7qNYMOxIadRQ5F5) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Cryin' Shame](https://open.spotify.com/album/5OTPEwAi7Jb7Db44pU5OSx) | 4:00 | 2023-04-23 | 2023-07-07 |
 | [Damn Right, I've Got the Blues](https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:31 | 2022-08-05 |  |
+| [Do Your Thing](https://open.spotify.com/track/7DDDlFgPwHkocHjlELfQFa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:07 | 2026-10-18 |  |
 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0owGTle1xBp2AZIchl6fp6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Chicago Plays the Stones](https://open.spotify.com/album/0vjdJ6AWmF5G4gsSx53UlI) | 4:53 | 2022-10-22 | 2023-10-02 |
 | [Dry Stick \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 4:42 | 2025-08-03 | 2026-04-11 |
 | [Everything Gonna Be Alright \- Live In Montreux 1978](https://open.spotify.com/track/1WJiLw4nE3O6UmdF2JuAPL) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Live In Montreux](https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi) | 2:51 | 2024-03-08 | 2024-03-11 |
@@ -75,7 +76,7 @@
 | [I've Got A Feeling](https://open.spotify.com/track/20JNbLWxTgdL2fbpSMYPdA) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:01 | 2022-10-04 | 2022-10-13 |
 | [I've Got A Right To Love My Woman](https://open.spotify.com/track/17E130U5fvS7rbMrVnbanP) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live At The Checkerboard Lounge \- Chicago 1979](https://open.spotify.com/album/3uU8G6JPjc63efWkuJLHNb) | 9:11 | 2022-08-13 | 2022-08-15 |
 | [I've Got Dreams To Remember](https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:56 | 2022-08-05 |  |
-| [It Keeps Me Young \(feat\. Peter Frampton\)](https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 2:56 | 2025-08-02 |  |
+| [It Keeps Me Young \(feat\. Peter Frampton\)](https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 2:56 | 2025-08-02 | 2026-10-18 |
 | [It's Still Called The Blues \- Live](https://open.spotify.com/track/1oYtMsDHNpPflyWaaQ9XVq) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Things I Used To Do \(Live Las Vegas '86\)](https://open.spotify.com/album/5vekeXeRFzpqzwXsYFOsSg) | 9:37 | 2023-04-18 | 2023-04-20 |
 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-08-05 | 2025-03-20 |
 | [Just Teasin'](https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [DJ Play My Blues](https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy) | 4:42 | 2022-12-23 |  |

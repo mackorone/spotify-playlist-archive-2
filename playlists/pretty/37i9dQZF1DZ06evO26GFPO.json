@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 304478,
+  "num_followers": 304467,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACOm5MMdPGV7Z5cw4IwTqMk",
+  "snapshot_id": "atAXgAAAAABIJ7el5+vIOeGkcgdycaYk",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 176297,
-      "name": "Destilado - Ao Vivo",
-      "url": "https://open.spotify.com/track/1J8rfA9BdhlpzNSKKePf3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
       },
@@ -483,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 176297,
+      "name": "Destilado - Ao Vivo",
+      "url": "https://open.spotify.com/track/1J8rfA9BdhlpzNSKKePf3U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -499,6 +499,26 @@
       "duration_ms": 220004,
       "name": "Amor Dif\u00edcil - Ao vivo",
       "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogando em Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "J\u00e1 Tentei - Ao Vivo",
+      "url": "https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU"
     },
     {
       "added_at": null,
@@ -539,26 +559,6 @@
       "duration_ms": 154164,
       "name": "Falta de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogando em Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
-      },
-      "artists": [
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "J\u00e1 Tentei - Ao Vivo",
-      "url": "https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU"
     },
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
       "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Whine",
-      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
+      "duration_ms": 148800,
+      "name": "Sintomas de Prazer",
+      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIL\u00c3",
-        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Sintomas de Prazer",
-      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
+      "duration_ms": 178064,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 5370,
+  "num_followers": 5371,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADotETVoaVVxqs7eJiNuIhL",
+  "snapshot_id": "atFpAAAAAAC2opCBGW5rcv2khXqdQS1Z",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 149438,
-      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throwing Bows",
         "url": "https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 196152,
       "name": "Flush Em",
       "url": "https://open.spotify.com/track/3p7YpF8O3osTzx6i5ZxEI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
     },
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "Sl*t Him Out Again (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
         "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 190104,
       "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
       "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "Sl*t Him Out Again (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 144984,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144984,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -819,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "German Engineering Zwei",
-        "url": "https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2"
+        "name": "Do A Bitch (Club Mix)",
+        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
       },
       "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 169186,
-      "name": "What's Tea? - with Kaliii",
-      "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"
+      "duration_ms": 156096,
+      "name": "Do A Bitch - Club Mix",
+      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do A Bitch (Club Mix)",
-        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
+        "name": "German Engineering Zwei",
+        "url": "https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2"
       },
       "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 156096,
-      "name": "Do A Bitch - Club Mix",
-      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
+      "duration_ms": 169186,
+      "name": "What's Tea? - with Kaliii",
+      "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Playa",
-        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "ill nana (feat. Kali)",
-      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "StreetTape",
         "url": "https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 301374,
       "name": "Po\u00e9zia Ulice",
       "url": "https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep It Playa",
+        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "ill nana (feat. Kali)",
+      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
     },
     {
       "added_at": null,

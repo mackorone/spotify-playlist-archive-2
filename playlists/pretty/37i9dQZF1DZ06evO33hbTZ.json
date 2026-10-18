@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6157,
+  "num_followers": 6159,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAlX3lcXhb1tU2NveJ/K14P",
+  "snapshot_id": "atFpAAAAAAA34/BSj/baTmomgO/k3Eav",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,25 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+      "duration_ms": 302438,
+      "name": "Your Presence Is Heaven",
+      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
     },
     {
       "added_at": null,
@@ -319,22 +335,6 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
     },
     {
       "added_at": null,
@@ -364,25 +364,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 302438,
-      "name": "Your Presence Is Heaven",
-      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 164155,
+      "name": "Na You",
+      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take It All (Live)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
         "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 2509230,
       "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
       "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 164155,
-      "name": "Na You",
-      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You are Lifted (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2461616,
-      "name": "You are Lifted (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 182318,
       "name": "Nkosi",
       "url": "https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You are Lifted (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2461616,
+      "name": "You are Lifted (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
     },
     {
       "added_at": null,

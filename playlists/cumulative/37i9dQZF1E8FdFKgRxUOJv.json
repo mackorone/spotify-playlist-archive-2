@@ -764,7 +764,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 206853,
       "name": "Ain't Got Nothing On You",
       "url": "https://open.spotify.com/track/3rHRwx3G8o6VAfaFAliw5d"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 244200,
       "name": "All I Want Is to Be With You",
       "url": "https://open.spotify.com/track/0wcEUeOslMI8dPB7QjUMiW"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
@@ -4724,7 +4724,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 239133,
       "name": "Coldplay",
       "url": "https://open.spotify.com/track/6y0rImrzWSQO3Sh5ND1Zxe"
@@ -8132,7 +8132,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 221706,
       "name": "Flower",
       "url": "https://open.spotify.com/track/3UdNzOWeC0wOnDpfbCwU7O"
@@ -9168,7 +9168,7 @@
       ],
       "date_added": "2020-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
@@ -10354,7 +10354,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 272720,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/3tblQGGmEmkZJYhPAsvHuV"
@@ -12190,7 +12190,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 254213,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
@@ -12752,7 +12752,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 296280,
       "name": "I've Got Dreams To Remember",
       "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
@@ -13918,7 +13918,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
@@ -14238,7 +14238,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 191751,
       "name": "Kinda Feels Alright",
       "url": "https://open.spotify.com/track/2r5Y63U4CQkvUugkXT6mtL"
@@ -14418,7 +14418,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 187306,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
@@ -17371,6 +17371,28 @@
     },
     {
       "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226462,
+      "name": "Moon So High",
+      "url": "https://open.spotify.com/track/2aST6n3igBIOhdoCZQcmmX"
+    },
+    {
+      "album": {
         "name": "Counting The Miles",
         "url": "https://open.spotify.com/album/5kzEGjLkEoThNiYsD0Xblp"
       },
@@ -19064,7 +19086,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "On the Train Ride Home",
       "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
@@ -19848,7 +19870,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
@@ -20736,7 +20758,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 262266,
       "name": "Revelator Eyes",
       "url": "https://open.spotify.com/track/0ulLs8vN4SBtVHc5KDAamV"
@@ -21010,7 +21032,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 252980,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3PKq1cb1lIhs8moUhfADKJ"
@@ -22814,7 +22836,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 173604,
       "name": "Speak Too Soon",
       "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
@@ -24626,7 +24648,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
@@ -26338,7 +26360,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 231652,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/40ch1jNcnKWskGqMTNUMCu"
@@ -27678,7 +27700,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 260959,
       "name": "Way With Words",
       "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
@@ -27808,7 +27830,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 185946,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/0v8iaQnFPT8qkicB880pAr"

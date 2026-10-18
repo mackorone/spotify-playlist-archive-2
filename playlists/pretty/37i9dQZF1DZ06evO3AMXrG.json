@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 254416,
+  "num_followers": 254464,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAB9XvHj8Aa2oEW2CkbXJhxQ",
+  "snapshot_id": "atAXgAAAAABvy/bQNOQLH5bLs+RGuU9E",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "D\u00edas Intensos",
+      "url": "https://open.spotify.com/track/1VYBSJipWUOQ7tX0SLhRJD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canci\u00f3n de Alerta",
         "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 263933,
       "name": "Fruto de la Tierra",
       "url": "https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/3kLUBZfh0FhC1FhNhbnY7y"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 299400,
-      "name": "D\u00edas Intensos",
-      "url": "https://open.spotify.com/track/1VYBSJipWUOQ7tX0SLhRJD"
+      "duration_ms": 287160,
+      "name": "Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/3kLUBZfh0FhC1FhNhbnY7y"
     }
   ],
   "unique_name": "This Is Cultura Prof\u00e9tica",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAtzknUs76ffIUoY1XQsXuW",
+  "snapshot_id": "atFpAAAAAABeAaO/x1KyhrwilA5NSikx",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/2i1KtcXyO29XedKX8JTC5w"
+      "duration_ms": 264426,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5K4mmfc7f1ZxFYkLimQK3C"
     },
     {
       "added_at": null,
@@ -123,18 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
         }
       ],
-      "duration_ms": 264426,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5K4mmfc7f1ZxFYkLimQK3C"
+      "duration_ms": 249293,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/2i1KtcXyO29XedKX8JTC5w"
     },
     {
       "added_at": null,
@@ -196,13 +196,13 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 149306,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+      "duration_ms": 218506,
+      "name": "Come Monday",
+      "url": "https://open.spotify.com/track/5LdWfPHfRxaAnayhqCnVFs"
     },
     {
       "added_at": null,
@@ -268,13 +268,13 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 218506,
-      "name": "Come Monday",
-      "url": "https://open.spotify.com/track/5LdWfPHfRxaAnayhqCnVFs"
+      "duration_ms": 149306,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Let's Go Home",
-      "url": "https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf"
+      "duration_ms": 170706,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/7HIULEtD9FG7cyACU620DN"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 170706,
-      "name": "Early Morning",
-      "url": "https://open.spotify.com/track/7HIULEtD9FG7cyACU620DN"
+      "duration_ms": 141933,
+      "name": "Let's Go Home",
+      "url": "https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "NADA SOUSOU",
+      "url": "https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
       },
@@ -667,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/6R5igDFoWprigYQpsOZR1m"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 223573,
       "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4wVNMIDZ4nK4Hy2FcSTvZL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 160480,
-      "name": "Makapu'u Sunrise",
-      "url": "https://open.spotify.com/track/1grA2gXoL5HTKA9zp1pmnz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
-      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg"
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 206666,
-      "name": "NADA SOUSOU",
-      "url": "https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ"
+      "duration_ms": 221560,
+      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
+      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 175173,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
+      "duration_ms": 160480,
+      "name": "Makapu'u Sunrise",
+      "url": "https://open.spotify.com/track/1grA2gXoL5HTKA9zp1pmnz"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Boy Meets Girl",
-      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brickman Across America: Heart and Soul of American Music",
         "url": "https://open.spotify.com/album/1gzWOkcpGe3ZR39b8sD6dw"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 246647,
       "name": "Hawaii Rain",
       "url": "https://open.spotify.com/track/3F2yqzrCqgFjbrCHQKZBe7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Boy Meets Girl",
+      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
     },
     {
       "added_at": null,

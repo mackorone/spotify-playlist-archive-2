@@ -906,7 +906,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 259000,
       "name": "No Exit - feat. Coolio",
       "url": "https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp"
@@ -1170,6 +1170,24 @@
       "duration_ms": 179613,
       "name": "Soul Train",
       "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+    },
+    {
+      "album": {
+        "name": "Spectral Eyes",
+        "url": "https://open.spotify.com/album/0KoJgvW1kOgVy48U087nBM"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "Spectral Eyes",
+      "url": "https://open.spotify.com/track/5uagx4o8QQLVZVm29ffdFn"
     },
     {
       "album": {

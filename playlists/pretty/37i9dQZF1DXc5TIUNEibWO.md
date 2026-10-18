@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,716 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,725 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 6 | [Dangerous](https://open.spotify.com/track/31SKMNN49ZSMu3IrtW8V1e) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:59 |
 | 7 | [Pour Some Sugar I](https://open.spotify.com/track/1YmtpH8ihYtYVOdCfu9ln5) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Afrafra](https://open.spotify.com/album/6ICGLCCUvVr1VJUYhR1CFM) | 5:56 |
 | 8 | [Emmanuela](https://open.spotify.com/track/4aiZMWYiZxDeiqgzFNSeTw) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Emmanuella](https://open.spotify.com/album/7I0u2dlZgli071BzPJr0Ac) | 6:03 |
-| 9 | [Iron Boy](https://open.spotify.com/track/3MA7sO9hG2Jx307ufi36P7) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 6:09 |
-| 10 | [Agatha](https://open.spotify.com/track/0zM6h92IpK2GCcIVmrqaTq) | [Nana Kwame Ampadu](https://open.spotify.com/artist/2tne5cj1SZrx1Xm1lNEWzb) | [Evergreen Tunes, Vol\. 4](https://open.spotify.com/album/7acUZRPhxC1uP259oRu4NJ) | 9:30 |
+| 9 | [Agatha](https://open.spotify.com/track/0zM6h92IpK2GCcIVmrqaTq) | [Nana Kwame Ampadu](https://open.spotify.com/artist/2tne5cj1SZrx1Xm1lNEWzb) | [Evergreen Tunes, Vol\. 4](https://open.spotify.com/album/7acUZRPhxC1uP259oRu4NJ) | 9:30 |
+| 10 | [Iron Boy](https://open.spotify.com/track/3MA7sO9hG2Jx307ufi36P7) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 6:09 |
 | 11 | [Poison](https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 5:49 |
 | 12 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
 | 13 | [Mante Wo Nka](https://open.spotify.com/track/09jKaYjVrZjfWwW2IFdkEk) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Fre No Ma Me](https://open.spotify.com/album/0PWXKEWKKt6Usc7BoQCMiR) | 4:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,056 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,079 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 63 | [Paradise 35](https://open.spotify.com/track/0ljIjlkoHRhuh3NtZFkq5q) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Paradise 35](https://open.spotify.com/album/4dXtisZsrQGQ1HlihA9wVz) | 4:12 |
 | 64 | [Coming Home](https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1) | 5:32 |
 | 65 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
-| 66 | [I Got a Beer for That](https://open.spotify.com/track/0Rwy28bfn8ykq6EHAQGSt8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 2:29 |
-| 67 | [PRETTY GYAL](https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [PRETTY GYAL](https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO) | 3:38 |
+| 66 | [PRETTY GYAL](https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [PRETTY GYAL](https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO) | 3:38 |
+| 67 | [I Got a Beer for That](https://open.spotify.com/track/0Rwy28bfn8ykq6EHAQGSt8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 2:29 |
 | 68 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 |
 | 69 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
 | 70 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 |
-| 71 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
-| 72 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
+| 71 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
+| 72 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
 | 73 | [Not I](https://open.spotify.com/track/5pAvjWVO2PhST6csDrU4fN) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Not I](https://open.spotify.com/album/3drszSw8bafZ36LNQNmpQY) | 3:08 |
 | 74 | [Long White Cloud](https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9) | [Iharaira Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Producers Chair Dancehall, Vol\. 1](https://open.spotify.com/album/3zIR1sUyNwgVOuNdjBHEow) | 3:29 |
 | 75 | [Good on You](https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Good on You](https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt) | 3:41 |

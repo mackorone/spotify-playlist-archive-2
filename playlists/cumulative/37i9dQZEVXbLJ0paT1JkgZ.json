@@ -1786,10 +1786,28 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 264680,
       "name": "Besos Mojados",
       "url": "https://open.spotify.com/track/0cpzO8YjhyR8JfLzfm5cOr"
+    },
+    {
+      "album": {
+        "name": "La Revolucion (Deluxe)",
+        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Besos Mojados",
+      "url": "https://open.spotify.com/track/0fZq7eIpfg7GHi9UOeRaaB"
     },
     {
       "album": {

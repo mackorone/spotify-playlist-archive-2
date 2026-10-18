@@ -1,12 +1,12 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13815,
+  "num_followers": 13814,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADBnm/R2ah7XQ+x2IJuHeok0qT4r",
+  "snapshot_id": "AAAAAG4BiG/UjM7qBpFkWM+mL1UoaIwi",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:12",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Nacht",
-        "url": "https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf"
-      },
-      "artists": [
-        {
-          "name": "Boys On Pills",
-          "url": "https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Wenn I l\u00e4b, wenn I stirb",
-      "url": "https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Verd\u00e4chtig",
         "url": "https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m"
       },
@@ -391,22 +375,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "8i Bahnhof",
-        "url": "https://open.spotify.com/album/53nhR2JauB25narZk2hvED"
-      },
-      "artists": [
-        {
-          "name": "TAFS",
-          "url": "https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "8i Bahnhof",
-      "url": "https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Glanton Gang",
         "url": "https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 293933,
       "name": "Glasm\u00f6nsch",
       "url": "https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Nacht",
+        "url": "https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf"
+      },
+      "artists": [
+        {
+          "name": "Boys On Pills",
+          "url": "https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Wenn I l\u00e4b, wenn I stirb",
+      "url": "https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "8i Bahnhof",
+        "url": "https://open.spotify.com/album/53nhR2JauB25narZk2hvED"
+      },
+      "artists": [
+        {
+          "name": "TAFS",
+          "url": "https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "8i Bahnhof",
+      "url": "https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "From Hell to Heaven and Back",
+        "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
+      },
+      "artists": [
+        {
+          "name": "PVP",
+          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "From Hell to Heaven and Back",
+      "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/7wHzFREg5v4vxxJoAaSCoN"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 219426,
       "name": "Lauf Junge, Lauf!",
       "url": "https://open.spotify.com/track/0I5FCVJSDvLNtGAlIcr1nV"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "From Hell to Heaven and Back",
-        "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
-      },
-      "artists": [
-        {
-          "name": "PVP",
-          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "From Hell to Heaven and Back",
-      "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Halbin\u00fcni Chlorzicht",
-        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
-      },
-      "artists": [
-        {
-          "name": "Primitive Lyrics",
-          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Schtei",
-      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Jede Tag'n Gleiser",
         "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 273266,
       "name": "Bruch e Waag",
       "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Halbin\u00fcni Chlorzicht",
+        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
+      },
+      "artists": [
+        {
+          "name": "Primitive Lyrics",
+          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Schtei",
+      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
     },
     {
       "added_at": "2026-10-08 22:00:12",

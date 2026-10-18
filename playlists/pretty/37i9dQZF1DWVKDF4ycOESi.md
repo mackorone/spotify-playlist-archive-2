@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Geolier, Fontaines D.C., Angelina Mango, Tate McRae, Olivia Rodrigo con Chappell Roan e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,786 likes - 95 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,783 likes - 95 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 85 | [Jaded](https://open.spotify.com/track/1tIC7iOy14B3gB3FKl1SSv) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Jaded](https://open.spotify.com/album/7tULkC2gfjn1QW3DhrMEf8) | 4:25 |
 | 86 | [Pierrot](https://open.spotify.com/track/5JNuZLGotDELZK2CWS2Gi9) | [Vinnie Marakas](https://open.spotify.com/artist/7rO4wSpJVcfp1mXLCOgjj0) | [Pierrot](https://open.spotify.com/album/5Yt05lbapw09xJtPdkdXdx) | 3:39 |
 | 87 | [EXCLUSIVE \(feat\. twentyone21\)](https://open.spotify.com/track/0qJNim6aHrOKjbADDVMcvX) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7), [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [LA STRADA DEL SUCCESSO](https://open.spotify.com/album/6LjE15J1DuDKE2Blx6X7jw) | 2:13 |
-| 88 | [Spiccio](https://open.spotify.com/track/6Ddots1x5MAnnXvXq7eCJG) | [JAGWARY](https://open.spotify.com/artist/3K7eAZzJUhIqUnHgTX7GWE) | [Spiccio](https://open.spotify.com/album/0avDO89zOkDhiwpHWxSfAT) | 1:57 |
+| 88 | [Spiccio](https://open.spotify.com/track/6Ddots1x5MAnnXvXq7eCJG) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [Spiccio](https://open.spotify.com/album/0avDO89zOkDhiwpHWxSfAT) | 1:57 |
 | 89 | [Crepe](https://open.spotify.com/track/7kTcHcXqckJdca3WTFXL6o) | [fallimento](https://open.spotify.com/artist/0VCQDpOfWR5bFdBQXb7Mq0) | [Da Non Ascoltare](https://open.spotify.com/album/4pmP6f4thsy6CICKZ3pJWe) | 3:29 |
 | 90 | [Hole](https://open.spotify.com/track/3bzZFVYX5qpwDr3Cmql2ck) | [Pufuleti](https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Hole](https://open.spotify.com/album/5tBer2nItoRCN3sCDl2yKG) | 2:09 |
 | 91 | [black entertaiNMENT \(feat\. Serious Klein\)](https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O), [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Piks.](https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa) | 3:15 |

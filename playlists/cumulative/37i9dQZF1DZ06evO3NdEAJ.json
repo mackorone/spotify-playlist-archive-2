@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s Del Silencio",
+        "url": "https://open.spotify.com/album/3Xt6dMXBpu4QNf4ng4w8d7"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183594,
+      "name": "Mi Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/7zC3EI4R3gefCwYY6f0vso"
+    },
+    {
+      "album": {
         "name": "Mi Peloncito",
         "url": "https://open.spotify.com/album/1tglosdWAKZpRow8HzK4Ne"
       },
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 194432,
       "name": "Te Toca Hacer Lo Tuyo",
       "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"

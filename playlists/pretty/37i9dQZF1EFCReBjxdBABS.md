@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 119 | [Wasted Prayers](https://open.spotify.com/track/1OQo6YzO07yadjnETRL9Ba) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:17 |
 | 120 | [Strangers](https://open.spotify.com/track/5yJsqZ7wqN5uelgFmeltnS) | [Death Be Not Proud](https://open.spotify.com/artist/2zM0ub5AFTBuG2MJh8wjQ9) | [Anatomy](https://open.spotify.com/album/5B1eGWbR76aQPrA4VzePl9) | 4:32 |
 | 121 | [Right Direction](https://open.spotify.com/track/0pZtQnu1u8lYkvt8bbuPG8) | [Courtney Cole](https://open.spotify.com/artist/16K3uNOhyu14NcyCx63D4L) | [Earthquake](https://open.spotify.com/album/2Br48aiOLlh9BgwjJ17gTY) | 3:06 |
-| 122 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
-| 123 | [That's All I Know](https://open.spotify.com/track/2I7h8XiiwTyceeJHGK5NYT) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Sunriser \(All\-Nighter\)](https://open.spotify.com/album/6KmYnnIkYrfqZ7O0BXWxgd) | 3:38 |
+| 122 | [That's All I Know](https://open.spotify.com/track/2I7h8XiiwTyceeJHGK5NYT) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Sunriser \(All\-Nighter\)](https://open.spotify.com/album/6KmYnnIkYrfqZ7O0BXWxgd) | 3:38 |
+| 123 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
 | 124 | [Time Will Tell \- Demo](https://open.spotify.com/track/1fQVCwEFROQ3uqnqPTjHoP) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Dallas Wilson](https://open.spotify.com/artist/0ueAhTxK4uzP6XOPSq7vrn) | [Time Will Tell \(Demo\)](https://open.spotify.com/album/2LSHj1QMjgHYKS2IQzKHmp) | 3:19 |
 | 125 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
 | 126 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcfIKAAAAAA9L1XG0DO5xczyM0ae0Mwv`
+Snapshot ID: `AcfNyAAAAAC79IekkcVmGGyW1SKFhNP0`

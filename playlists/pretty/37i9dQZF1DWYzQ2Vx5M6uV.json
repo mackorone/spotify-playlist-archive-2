@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
-  "num_followers": 143079,
+  "num_followers": 143069,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 154586,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/6f00ixRBopYCszGmKhOUyp"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/2wviACnHjGEzWgX4ZVUeCl"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 264366,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/0Vvwifdi7bGbM88EMBz6HM"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
-        "name": "\u00bfD\u00f3nde Es El After?",
-        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 154586,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/6f00ixRBopYCszGmKhOUyp"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
+        "name": "SEND\u00c9",
+        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "yo viendo",
+      "url": "https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 202012,
       "name": "Soso - Remix",
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
-        "name": "SEND\u00c9",
-        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "yo viendo",
-      "url": "https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Eva Longoria",
-      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
         "name": "A POCA LUZ",
         "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 194181,
       "name": "A POCA LUZ",
       "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 199850,
+      "name": "Eva Longoria",
+      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
-        "name": "Sirenita",
-        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 169478,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
         "name": "Esa Nena",
         "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 158545,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
+        "name": "Sirenita",
+        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 169478,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
+        "name": "Aiwo (Remix)",
+        "url": "https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ"
+      },
+      "artists": [
+        {
+          "name": "Rafa Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "Aiwo - Remix",
+      "url": "https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 211200,
       "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
       "url": "https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
-        "name": "Aiwo (Remix)",
-        "url": "https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ"
-      },
-      "artists": [
-        {
-          "name": "Rafa Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 175135,
-      "name": "Aiwo - Remix",
-      "url": "https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
+        "name": "Usame",
+        "url": "https://open.spotify.com/album/6b5ZtfPbYkqbI5ftbfO0pt"
+      },
+      "artists": [
+        {
+          "name": "Yelex",
+          "url": "https://open.spotify.com/artist/1qIgmSvOXdibVbPRzyFD93"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "Usame",
+      "url": "https://open.spotify.com/track/00T3k0HadzMCUOH4G0h9MY"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
         "name": "WAYO :(",
         "url": "https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI"
       },
@@ -1459,22 +1479,6 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
-        "name": "RAM\u00c9",
-        "url": "https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 161788,
-      "name": "RAM\u00c9",
-      "url": "https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
         "name": "Ojitos Chinos",
         "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
       },
@@ -1487,6 +1491,22 @@
       "duration_ms": 141575,
       "name": "Ojitos Chinos",
       "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
+        "name": "RAM\u00c9",
+        "url": "https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 161788,
+      "name": "RAM\u00c9",
+      "url": "https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -1539,26 +1559,6 @@
       "duration_ms": 178848,
       "name": "No Llegamos Ni A Febrero",
       "url": "https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
-        "name": "Usame",
-        "url": "https://open.spotify.com/album/6b5ZtfPbYkqbI5ftbfO0pt"
-      },
-      "artists": [
-        {
-          "name": "Yelex",
-          "url": "https://open.spotify.com/artist/1qIgmSvOXdibVbPRzyFD93"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "Usame",
-      "url": "https://open.spotify.com/track/00T3k0HadzMCUOH4G0h9MY"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
-        "name": "NoNoNo",
-        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
         "name": "Moviendo El Piso",
         "url": "https://open.spotify.com/album/0cdthXsqV8uzKH0Z3g3NJP"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 128362,
       "name": "Moviendo El Piso",
       "url": "https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
+        "name": "ohsaye",
+        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "ohsaye",
+      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
         "name": "Usame",
         "url": "https://open.spotify.com/album/2FuMEHblngX534yhdoSkag"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 165882,
       "name": "Usame",
       "url": "https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
-        "name": "ohsaye",
-        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
-      },
-      "artists": [
-        {
-          "name": "Anacri",
-          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "ohsaye",
-      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
     },
     {
       "added_at": "2026-10-16 04:01:10",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-10-16 04:01:10",
       "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
-    },
-    {
-      "added_at": "2026-10-16 04:01:10",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 131022,
       "name": "Normal",
       "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
+    },
+    {
+      "added_at": "2026-10-16 04:01:10",
+      "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
     },
     {
       "added_at": "2026-10-16 04:01:10",

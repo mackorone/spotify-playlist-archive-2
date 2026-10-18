@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 86300,
+  "num_followers": 86454,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAAv6QaRg0oPwhDmRtQwNKJW",
+  "snapshot_id": "atFpAAAAAACPPh4Pb/MbWwQoasKyEtj7",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Think As You Drunk",
-        "url": "https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 228837,
-      "name": "Think As You Drunk",
-      "url": "https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Mind If I Do (Deluxe)",
         "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 252733,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Think As You Drunk",
+        "url": "https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "Think As You Drunk",
+      "url": "https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 188173,
-      "name": "Good Morning From Mexico",
-      "url": "https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr"
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+      "duration_ms": 188173,
+      "name": "Good Morning From Mexico",
+      "url": "https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr"
     },
     {
       "added_at": null,

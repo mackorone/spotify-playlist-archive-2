@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The Odyssey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111029,
+      "name": "Another Name",
+      "url": "https://open.spotify.com/track/0KebKJIyG9EzIaAldHPaRM"
+    },
+    {
+      "album": {
         "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
       },
@@ -350,7 +368,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-18",
       "duration_ms": 256640,
       "name": "Penelope",
       "url": "https://open.spotify.com/track/5CsZuYia3R65X0Z5sNLsak"

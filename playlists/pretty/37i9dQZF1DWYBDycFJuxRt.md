@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: YOASOBI \*👉 <a href="https://spice.eplus.jp/articles/349667">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,791 likes - 99 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,812 likes - 99 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

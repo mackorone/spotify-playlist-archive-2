@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alberto Vazquez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,386 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,379 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 28 | [Segunda Opción](https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Segunda Opción](https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t) | 3:29 |
 | 29 | [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 |
 | 30 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 |
-| 31 | [Cielito Lindo \- Live](https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cielito Lindo \(Live\)](https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B) | 3:26 |
-| 32 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
+| 31 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
+| 32 | [Cielito Lindo \- Live](https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cielito Lindo \(Live\)](https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B) | 3:26 |
 | 33 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
 | 34 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
 | 35 | [Tu Eterno Enamorado](https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Tu Eterno Enamorado](https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV) | 3:02 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 58 | [Es Demasiado Tarde](https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Es Demasiado Tarde](https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i) | 3:45 |
 | 59 | [Lo Que Se Dice Amor](https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Lo Que Se Dice Amor](https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI) | 3:12 |
 | 60 | [Caballero](https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt) | [Mariachi Internacional CHG De Gamaliel Contreras Huerta](https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw) | [Caballero](https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj) | 3:47 |
-| 61 | [Ay Amor](https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx) | [Valerio Mela “El Charro De Florencia”](https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ) | [Ay Amor](https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x) | 2:44 |
-| 62 | [Besitos Al Contado](https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Besitos Al Contado](https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk) | 2:33 |
+| 61 | [Besitos Al Contado](https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Besitos Al Contado](https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk) | 2:33 |
+| 62 | [Ay Amor](https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx) | [Valerio Mela “El Charro De Florencia”](https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ) | [Ay Amor](https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x) | 2:44 |
 | 63 | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw) | 3:29 |
 | 64 | [Pintando sueños](https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Pintando sueños](https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x) | 3:42 |
 | 65 | [Esa Perra Ya Me Mordió](https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esa Perra Ya Me Mordió](https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC) | 3:30 |

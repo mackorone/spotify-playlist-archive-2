@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 6136,
+  "num_followers": 6139,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAACOyWug8eVKwljSmq3Q6mOb",
+  "snapshot_id": "atFpAAAAAAA6HpAAWbq6VWTsXF0n5Rwk",
   "tracks": [
     {
       "added_at": null,
@@ -159,38 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 176056,
-      "name": "Cuando Te Encuentre",
-      "url": "https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "La Colombiana",
-      "url": "https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqu\u00ed Seguir\u00e9",
         "url": "https://open.spotify.com/album/038lsrWVpmcYnC5mXb09fz"
       },
@@ -219,6 +187,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "La Colombiana",
+      "url": "https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance Alone (Juliana Remix)",
         "url": "https://open.spotify.com/album/2h7QzIf6eLBLxQ96l4CQgC"
       },
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 172590,
-      "name": "The Heaven",
-      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
+      "duration_ms": 169399,
+      "name": "C\u00f3seme (2:22am)",
+      "url": "https://open.spotify.com/track/3UcjHVz7rFjEcDK2ZZvGl4"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 169399,
-      "name": "C\u00f3seme (2:22am)",
-      "url": "https://open.spotify.com/track/3UcjHVz7rFjEcDK2ZZvGl4"
+      "duration_ms": 172590,
+      "name": "The Heaven",
+      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+        "name": "Sin medir distancias",
+        "url": "https://open.spotify.com/album/0NqLWiJ5IfOUFUDTBdxGaA"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 241796,
-      "name": "Mar Adentro",
-      "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
+      "duration_ms": 256759,
+      "name": "Sin medir distancias",
+      "url": "https://open.spotify.com/track/3JM3WhGaWoAZ6JCsH6T1zx"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin medir distancias",
-        "url": "https://open.spotify.com/album/0NqLWiJ5IfOUFUDTBdxGaA"
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 256759,
-      "name": "Sin medir distancias",
-      "url": "https://open.spotify.com/track/3JM3WhGaWoAZ6JCsH6T1zx"
+      "duration_ms": 241796,
+      "name": "Mar Adentro",
+      "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 175286,
+      "name": "Presiento",
+      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrucciones Para Ser Feliz",
         "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 149312,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 175286,
-      "name": "Presiento",
-      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 202381,
-      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mala Hora",
         "url": "https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 199736,
       "name": "YA NO SIENTO FR\u00cdO",
       "url": "https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 202381,
+      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 234358,
-      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
         "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
       },
@@ -783,38 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 198179,
-      "name": "A La Medida (2:20am)",
-      "url": "https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
-        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 173962,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
         "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
       },
@@ -824,25 +776,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 177610,
-      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 217350,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
+      "duration_ms": 234358,
+      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
     },
     {
       "added_at": null,
@@ -874,15 +810,27 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 218460,
-      "name": "La Primera Vez - Remix",
-      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
+      "duration_ms": 173962,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 217350,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
     },
     {
       "added_at": null,
@@ -896,9 +844,65 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 163295,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
+      "duration_ms": 177610,
+      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 198179,
+      "name": "A La Medida (2:20am)",
+      "url": "https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
+        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 218460,
+      "name": "La Primera Vez - Remix",
+      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
+      },
+      "artists": [
+        {
+          "name": "Opa!",
+          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 305898,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
     }
   ],
   "unique_name": "This Is Juliana",

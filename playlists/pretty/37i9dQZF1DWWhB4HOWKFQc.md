@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,429 likes - 92 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,514 likes - 92 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

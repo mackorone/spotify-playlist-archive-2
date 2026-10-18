@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 19532,
+  "num_followers": 19535,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAAA2UKfe90SJQuJGpl66+bV2",
+  "snapshot_id": "atFpAAAAAAAzU0n2FOh2MNUm/Pl4lsgb",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
         "url": "https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 266862,
       "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
       "url": "https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Of Ages...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 196301,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Of Ages...Hymns & Faith",
         "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 205466,
       "name": "Joyful, Joyful, We Adore Thee",
       "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 196301,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Me That Remains",
         "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 262880,
       "name": "In A Little While",
       "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 335960,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worship Forever (Live)",
         "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 329680,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 335960,
-      "name": "Stay For A While",
-      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Arms Of Love",
-      "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead (Remastered)",
         "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
       },
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
       "artists": [
         {
@@ -720,57 +704,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 250490,
-      "name": "The 6th Of January (Yasgur's Farm)",
-      "url": "https://open.spotify.com/track/6lIWltxWeiwx9vs8aFyT6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Jesus, Take All Of Me (Just As I Am)",
-      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unguarded",
-        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
+      "duration_ms": 203506,
+      "name": "Arms Of Love",
+      "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
     },
     {
       "added_at": null,
@@ -799,6 +735,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Winks",
         "url": "https://open.spotify.com/album/57DLfvLEZSu7hAgVQYzL2m"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 206546,
       "name": "God Winks",
       "url": "https://open.spotify.com/track/28WKrR6DVTQnIgSbYez5Gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 250490,
+      "name": "The 6th Of January (Yasgur's Farm)",
+      "url": "https://open.spotify.com/track/6lIWltxWeiwx9vs8aFyT6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
     },
     {
       "added_at": null,

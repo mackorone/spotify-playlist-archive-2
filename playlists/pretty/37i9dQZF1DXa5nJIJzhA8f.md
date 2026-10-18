@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,584 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,576 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 48 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 |
 | 49 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
 | 50 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
-| 51 | [stick](https://open.spotify.com/track/03zypUrD0e5vrFcmc80NJm) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:19 |
-| 52 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 |
+| 51 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 |
+| 52 | [stick](https://open.spotify.com/track/03zypUrD0e5vrFcmc80NJm) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:19 |
 | 53 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 |
 | 54 | [SPIDERS](https://open.spotify.com/track/5mb9fbIUMvKroqaBhHIWLk) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/3WWlaZfbZEgAgAkKIdQ4Sd) | 4:27 |
 | 55 | [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 57 | [Burn The River](https://open.spotify.com/track/4ZLiHdZHDe0hpzElVQEvDT) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Same Day Cleaning](https://open.spotify.com/album/3Ph1OGPvuAHe4BN00WNYi9) | 3:46 |
 | 58 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 59 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
-| 60 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 |
-| 61 | [PUDDLE \( OF ME \)](https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 4:11 |
+| 60 | [PUDDLE \( OF ME \)](https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 4:11 |
+| 61 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 |
 | 62 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 | 63 | [Sort It Out](https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Sort It Out](https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK) | 4:31 |
 | 64 | [Max Potential](https://open.spotify.com/track/3wCTxgp40YtdPAWWaqPVKI) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 3:52 |

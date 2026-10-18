@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as7GAAAAAADrtBw44HGqTlQLYCmGWIai",
+  "snapshot_id": "atFpAAAAAAAYsObTsZo/iezKwJ4LQOIt",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turning My Money Over (Quadruple Album)",
-        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/7Gfge2pY7ANlBTnA5sbKFR"
       },
       "artists": [
         {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 172165,
-      "name": "Sucka Ducking",
-      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
+      "duration_ms": 202387,
+      "name": "Too Faded",
+      "url": "https://open.spotify.com/track/1m4ndY8KrL0NqpY8uLCUQV"
     },
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turning My Money Over (Quadruple Album)",
+        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 172165,
+      "name": "Sucka Ducking",
+      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 120512,
       "name": "Good (feat. Larry June)",
       "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Cold",
-        "url": "https://open.spotify.com/album/7Gfge2pY7ANlBTnA5sbKFR"
-      },
-      "artists": [
-        {
-          "name": "Rob $tone",
-          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 202387,
-      "name": "Too Faded",
-      "url": "https://open.spotify.com/track/1m4ndY8KrL0NqpY8uLCUQV"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OUT THE BOX",
-        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140708,
-      "name": "AWW YEAH",
-      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -655,30 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What We On (feat. E-40)",
-        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
       },
       "artists": [
         {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "DaBoii",
-          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
-        },
-        {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
         }
       ],
-      "duration_ms": 173000,
-      "name": "What We On (feat. E-40)",
-      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
+      "duration_ms": 140708,
+      "name": "AWW YEAH",
+      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
     },
     {
       "added_at": null,
@@ -711,6 +683,34 @@
       "duration_ms": 238181,
       "name": "YANKIN!",
       "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What We On (feat. E-40)",
+        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "What We On (feat. E-40)",
+      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "drink bleach",
+        "url": "https://open.spotify.com/album/6mG8kho0uDweG6pDIUFgHS"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "shake ya ass (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/2VJhX120v3hNx3YiKG6kv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "drink bleach",
-        "url": "https://open.spotify.com/album/6mG8kho0uDweG6pDIUFgHS"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "shake ya ass (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/2VJhX120v3hNx3YiKG6kv1"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's That?",
-        "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
-      },
-      "artists": [
-        {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "What's That?",
-      "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moovie!",
         "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 218453,
       "name": "Mad",
       "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What's That?",
+        "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "What's That?",
+      "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
     },
     {
       "added_at": null,

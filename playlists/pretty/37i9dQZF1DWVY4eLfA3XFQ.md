@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 💃 Tech house operators, featuring Torren Foot
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,234 likes - 110 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,337 likes - 110 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

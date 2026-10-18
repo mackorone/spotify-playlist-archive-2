@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-714 songs - 2 day 0 hr 47 min
+715 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 | 2025-10-04 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
-| [Forgive Them](https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [City Reverie](https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4) | 3:32 | 2026-08-28 |  |
+| [Forgive Them](https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [City Reverie](https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4) | 3:32 | 2026-08-28 | 2026-10-18 |
 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 | 2024-08-30 | 2025-02-01 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
 | [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 | 2024-11-28 |
@@ -520,6 +520,7 @@
 | [Rollin'](https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Rollin'](https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE) | 2:52 | 2025-11-14 |  |
 | [Rome](https://open.spotify.com/track/49wIH8xOuabRq4ljFjfH9e) | [Juan Pablo Torrez](https://open.spotify.com/artist/0guszBsvdqSh0MqXkdujXM) | [Rome](https://open.spotify.com/album/0aS70JZhuo8WYnO7sZTSGE) | 7:12 | 2021-05-07 | 2022-04-21 |
 | [Run Away](https://open.spotify.com/track/10etnNyws0WMn5J654CSwE) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Aryan Saleh](https://open.spotify.com/artist/3V3Ye4nzNruEuomiLi2CV2) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:48 | 2021-05-07 | 2022-04-28 |
+| [Run Away](https://open.spotify.com/track/3iy57ZiUayRdFStKC2s9tq) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Run Away](https://open.spotify.com/album/5m5Ymv0cF173Zz1GnaSVUO) | 4:27 | 2026-10-16 |  |
 | [Runaway](https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Affirmations](https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ) | 2:45 | 2023-08-18 | 2023-10-31 |
 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 | 2022-07-01 | 2022-08-09 |
 | [Running \(feat\. Meg Myers\) \- Extended Mix](https://open.spotify.com/track/2T5lAs95i1Gx6FjYYJZ1zr) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/16Kon7rTm0D4jOwEu2me2c) | 6:25 | 2021-12-10 | 2022-07-29 |

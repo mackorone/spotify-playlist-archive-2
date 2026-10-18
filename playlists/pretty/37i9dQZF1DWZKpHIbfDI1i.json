@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Wuicho Kun",
-  "num_followers": 876698,
+  "num_followers": 876860,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -511,42 +511,6 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Que Gacho",
-        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Que Gacho",
-      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
-        "name": "Ll\u00e9vala a La Luna",
-        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 164214,
-      "name": "Ll\u00e9vala a La Luna",
-      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
         "name": "Afr1n",
         "url": "https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E"
       },
@@ -571,18 +535,22 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+        "name": "Que Gacho",
+        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+      "duration_ms": 193205,
+      "name": "Que Gacho",
+      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -607,26 +575,34 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Chula Vente",
-        "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 241564,
-      "name": "Chula Vente",
-      "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
+        "name": "Ll\u00e9vala a La Luna",
+        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 164214,
+      "name": "Ll\u00e9vala a La Luna",
+      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -647,6 +623,30 @@
       "duration_ms": 240000,
       "name": "66 am",
       "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
+        "name": "Chula Vente",
+        "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 241564,
+      "name": "Chula Vente",
+      "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
+        "name": "Baj\u00f3n Emocional",
+        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Baj\u00f3n Emocional",
+      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
         "name": "PASE Y PASE",
         "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 179818,
       "name": "Ojitos Bellos",
       "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
-        "name": "Baj\u00f3n Emocional",
-        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Baj\u00f3n Emocional",
-      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
         "name": "HD",
         "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
       },
@@ -1075,6 +1095,26 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
         "name": "VITILIGO",
         "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
       },
@@ -1107,26 +1147,6 @@
       "duration_ms": 185567,
       "name": "Es Triiste",
       "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
-        "name": "Ooh Laka Laka La",
-        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 134797,
-      "name": "Ooh Laka Laka La",
-      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -1171,22 +1191,22 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+        "name": "Dr. Doctor",
+        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
         },
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 194180,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+      "duration_ms": 158769,
+      "name": "Dr. Doctor",
+      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -1247,26 +1267,6 @@
       "duration_ms": 158487,
       "name": "Reminiscencia",
       "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
-        "name": "Dr. Doctor",
-        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
-      },
-      "artists": [
-        {
-          "name": "Emi Blue",
-          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Dr. Doctor",
-      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
+        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
         "name": "No Quiero Ser",
         "url": "https://open.spotify.com/album/1CuQVVHLLaq1jwttcXnhYk"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 189333,
       "name": "No Quiero Ser",
       "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
-        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "luvKMI",
-          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
     }
   ],
   "unique_name": "Top M\u00e9xico",

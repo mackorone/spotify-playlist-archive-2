@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,981 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,984 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 47 | [I Ain't Goin' Down](https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:44 |
 | 48 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
 | 49 | [Faded Blue Jeans \(feat\. Josh Homme\)](https://open.spotify.com/track/1uSIRVLHBseKIF2pu3y3Io) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:31 |
-| 50 | [I Ain't No Quitter \- Greatest Hits Version](https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Rock This Country](https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9) | 3:30 |
+| 50 | [I Won't Leave You Lonely](https://open.spotify.com/track/1duv1TxQLmY2DuXdilI18Y) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:12 |
 
-Snapshot ID: `as7GAAAAAABVPpaXRaiQIKh68yeNV0RB`
+Snapshot ID: `atAXgAAAAAC/LvsKm/mb5K8Ttj0ctiX4`

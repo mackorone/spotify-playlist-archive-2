@@ -4,7 +4,7 @@
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-134 songs - 6 hr 58 min
+135 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dead to Me](https://open.spotify.com/track/7e5ViOVPA6LHk6CYSEdg2k) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Before Artistry](https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez) | 3:10 | 2026-02-17 | 2026-05-09 |
 | [Demons and Angels \(feat\. Juice WRLD\)](https://open.spotify.com/track/3L19besdNQzd342qL78xqm) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:34 | 2023-01-18 |  |
 | [Did Me Wrong](https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:57 | 2023-09-09 | 2025-06-03 |
+| [Down Bitch](https://open.spotify.com/track/5lsV4GoS0WSC8UP2ycQyXR) | [Casanova](https://open.spotify.com/artist/6dXsR7VDJvXnF1LTZlwULx), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [COMMISSARY](https://open.spotify.com/album/5WwAeZBFrcS2LzSTXyW7HD) | 4:16 | 2026-10-18 |  |
 | [DOWN FOR REAL](https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh) | [Victor Victor Presents](https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DOWN FOR REAL](https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE) | 3:02 | 2026-09-16 |  |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2023-01-18 |  |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2023-01-18 |  |
@@ -47,7 +48,7 @@
 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 | 2023-01-18 |  |
 | [February](https://open.spotify.com/track/5GfZjk9VyJRX8wZKwSbT88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 2:34 | 2023-01-18 | 2023-06-18 |
 | [February](https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:34 | 2023-06-17 |  |
-| [Foreigner](https://open.spotify.com/track/1xBOg9FFena72UENSE8SDK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 2:41 | 2026-08-14 |  |
+| [Foreigner](https://open.spotify.com/track/1xBOg9FFena72UENSE8SDK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 2:41 | 2026-08-14 | 2026-10-18 |
 | [Foreigner \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:41 | 2023-01-18 | 2026-03-01 |
 | [Friend Zone](https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:55 | 2023-01-18 |  |
 | [Friendly](https://open.spotify.com/track/24rugivInJ0ZVcMHsyl8CN) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Friendly](https://open.spotify.com/album/1DyMr2lzHwRu3n9Z6CILeK) | 2:39 | 2024-07-21 | 2024-08-18 |
