@@ -6,7 +6,7 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAPRkAC71i35GaGrFmN1VDle5APhlSx",
+  "snapshot_id": "AAAPSHm+9Mrq05GbGYDj49Ng8qEw69Ds",
   "tracks": [
     {
       "added_at": "2026-10-03 18:54:49",
@@ -1787,6 +1787,38 @@
       "duration_ms": 178799,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/1Iz0IOnt6HYhmfiguTg2Bt"
+    },
+    {
+      "added_at": "2026-10-18 22:03:55",
+      "album": {
+        "name": "AD/2",
+        "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "duration_ms": 208820,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/288nnGexDHibhdPeTw5hMj"
+    },
+    {
+      "added_at": "2026-10-18 22:21:00",
+      "album": {
+        "name": "I Be Free",
+        "url": "https://open.spotify.com/album/7uQvrCQa1JbOv5xjXzhOTq"
+      },
+      "artists": [
+        {
+          "name": "Brett Higginson",
+          "url": "https://open.spotify.com/artist/6zEdf74MBw01l1zKGQ9auN"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3Pen0VHkTufM1cxcL1O0Oz"
     }
   ],
   "unique_name": "Indie Rock",

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kasia Krzy\u017caniak",
-  "num_followers": 26690,
+  "num_followers": 26692,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "Fall In Love With Me",
-        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
-      },
-      "artists": [
-        {
-          "name": "Basia Ma\u0142ecka",
-          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
-        }
-      ],
-      "duration_ms": 168685,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 160846,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "Fall In Love With Me",
+        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "duration_ms": 168685,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
-      },
-      "artists": [
-        {
-          "name": "Basia Ma\u0142ecka",
-          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
-        }
-      ],
-      "duration_ms": 141984,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
         "name": "nie wierz\u0119 w bajki",
         "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 192679,
       "name": "nie wierz\u0119 w bajki",
       "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "duration_ms": 141984,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "Ta\u0144cz i kochaj",
-        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 173454,
-      "name": "Ta\u0144cz i kochaj",
-      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
         "name": "PRZEZ PRZYPADEK",
         "url": "https://open.spotify.com/album/0p6HbDKQrGV3MpypC2sm4a"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 183829,
       "name": "PRZEZ PRZYPADEK",
       "url": "https://open.spotify.com/track/23BvVrhz0PtNYyIx1dd5MD"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "Ta\u0144cz i kochaj",
+        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "Ta\u0144cz i kochaj",
+      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "b\u0119dziesz tu tylko raz",
-        "url": "https://open.spotify.com/album/5stKoETF3L7AnCrJXP6gZL"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 180230,
-      "name": "b\u0119dziesz tu tylko raz",
-      "url": "https://open.spotify.com/track/2iO0vk3hMDGC0UrT9Q2mIB"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
         "name": "po co mi to???",
         "url": "https://open.spotify.com/album/7tPg9FLiEyxhsXvSGNKzvs"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 162920,
       "name": "po co mi to???",
       "url": "https://open.spotify.com/track/4gEElM8YcYFk9YLNe2cGxn"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "b\u0119dziesz tu tylko raz",
+        "url": "https://open.spotify.com/album/5stKoETF3L7AnCrJXP6gZL"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 180230,
+      "name": "b\u0119dziesz tu tylko raz",
+      "url": "https://open.spotify.com/track/2iO0vk3hMDGC0UrT9Q2mIB"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -919,38 +919,6 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
-        "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
-        "url": "https://open.spotify.com/album/5zooMKDaIjcg8gqsLCMFk8"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 136155,
-      "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
-      "url": "https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
-        "name": "szpila",
-        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
-      },
-      "artists": [
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        }
-      ],
-      "duration_ms": 181694,
-      "name": "czekaj!",
-      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
         "name": "niech nie \u017cyje nam",
         "url": "https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW"
       },
@@ -991,6 +959,38 @@
     {
       "added_at": "2026-10-15 22:01:47",
       "album": {
+        "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
+        "url": "https://open.spotify.com/album/5zooMKDaIjcg8gqsLCMFk8"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 136155,
+      "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
+      "url": "https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "szpila",
+        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "czekaj!",
+      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
         "name": "poKOIk",
         "url": "https://open.spotify.com/album/2tgSwqaUiSoukJzTDZh6Fa"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 222649,
       "name": "cool kids",
       "url": "https://open.spotify.com/track/6n3VDVUHwwiOf3fuykFtkf"
+    },
+    {
+      "added_at": "2026-10-15 22:01:47",
+      "album": {
+        "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
+      },
+      "artists": [
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
     },
     {
       "added_at": "2026-10-15 22:01:47",
@@ -1087,22 +1103,6 @@
       "duration_ms": 173043,
       "name": "styropian",
       "url": "https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8"
-    },
-    {
-      "added_at": "2026-10-15 22:01:47",
-      "album": {
-        "name": "Unikat",
-        "url": "https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y"
-      },
-      "artists": [
-        {
-          "name": "Oliwia Janusz",
-          "url": "https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif"
-        }
-      ],
-      "duration_ms": 207511,
-      "name": "Unikat",
-      "url": "https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8"
     }
   ],
   "unique_name": "up next",

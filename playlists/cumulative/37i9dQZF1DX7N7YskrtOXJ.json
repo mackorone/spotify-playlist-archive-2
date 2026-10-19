@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 193449,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg"
@@ -4206,6 +4206,24 @@
       "duration_ms": 193475,
       "name": "Te Falta Sufrir",
       "url": "https://open.spotify.com/track/7LEqJ3OmB3977aSTzFABdQ"
+    },
+    {
+      "album": {
+        "name": "A Morir",
+        "url": "https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229920,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF"
     },
     {
       "album": {

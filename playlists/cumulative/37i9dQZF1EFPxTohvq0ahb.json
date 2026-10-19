@@ -1907,6 +1907,28 @@
     },
     {
       "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/55RQKwIgGsPZ5hcvdL2A4i"
+      },
+      "artists": [
+        {
+          "name": "Block & Crown",
+          "url": "https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7"
+        },
+        {
+          "name": "Paul Parsons",
+          "url": "https://open.spotify.com/artist/6DdO5sEVGmuIe8lLbxd7o3"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276190,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/3VEiEPjWuBY6OKF5z5rE6K"
+    },
+    {
+      "album": {
         "name": "Let's Get It In",
         "url": "https://open.spotify.com/album/3XNtSb094rFcoYuS0b5Tqc"
       },

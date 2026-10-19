@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247590,
+  "num_followers": 247589,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Amor Traumatizado",
-        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 190858,
-      "name": "Amor Traumatizado",
-      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 185816,
       "name": "5 Minutinhos - Ao Vivo",
       "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Amor Traumatizado",
+        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 190858,
+      "name": "Amor Traumatizado",
+      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "A VISITA - SANDRA ELETR\u00d4NICA",
-        "url": "https://open.spotify.com/album/6q2wn24CJil53D8yGl7Cvz"
-      },
-      "artists": [
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Clementaum",
-          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "GORDINHA MAS TA BOM",
-      "url": "https://open.spotify.com/track/2PsKJZZWbVjb7gkLNkBfzO"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "Ventos Favor\u00e1veis",
         "url": "https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 161072,
       "name": "O MUNDO \u00c9 DETALHE PRA N\u00d3S",
       "url": "https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "A VISITA - SANDRA ELETR\u00d4NICA",
+        "url": "https://open.spotify.com/album/6q2wn24CJil53D8yGl7Cvz"
+      },
+      "artists": [
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "GORDINHA MAS TA BOM",
+      "url": "https://open.spotify.com/track/2PsKJZZWbVjb7gkLNkBfzO"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -907,6 +907,34 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Calor Nacional",
+        "url": "https://open.spotify.com/album/2Uz4LigDz88y7lAt3p6m8X"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Dan\u00e7ar Pelada",
+      "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
         "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
       },
@@ -943,30 +971,18 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Calor Nacional",
-        "url": "https://open.spotify.com/album/2Uz4LigDz88y7lAt3p6m8X"
+        "name": "quanto tempo tem o tempo?",
+        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
       },
       "artists": [
         {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        },
-        {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Dan\u00e7ar Pelada",
-      "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
+      "duration_ms": 206037,
+      "name": "quanto tempo tem o tempo?",
+      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -983,22 +999,6 @@
       "duration_ms": 192298,
       "name": "200 Anos - Ao Vivo",
       "url": "https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "quanto tempo tem o tempo?",
-        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "quanto tempo tem o tempo?",
-      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1047,6 +1047,26 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "romance",
         "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Sideral",
+      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "SANDRA ELETR\u00d4NICA",
         "url": "https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 218482,
       "name": "Drogas, Sexo, Techno, Repete!",
       "url": "https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 169701,
-      "name": "Sideral",
-      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "LCD (feat. kouth)",
+        "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "FUSO!",
+          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+        }
+      ],
+      "duration_ms": 192241,
+      "name": "LCD (feat. kouth)",
+      "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "De Quinta A Domingo",
         "url": "https://open.spotify.com/album/0UFiIp4aj71h2CEAymFy7T"
       },
@@ -1279,30 +1303,6 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "LCD (feat. kouth)",
-        "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
-        },
-        {
-          "name": "FUSO!",
-          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
-        }
-      ],
-      "duration_ms": 192241,
-      "name": "LCD (feat. kouth)",
-      "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "2 PUNKS NEON",
+        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 235031,
+      "name": "2 PUNKS NEON",
+      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "tanto, tudo ao mesmo tempo",
         "url": "https://open.spotify.com/album/0U5aR1ESweA9GusZzDFJiR"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 183905,
       "name": "Sideral - Ao Vivo",
       "url": "https://open.spotify.com/track/2ekohr3x5K4PEO0YZXhtYh"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "2 PUNKS NEON",
-        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 235031,
-      "name": "2 PUNKS NEON",
-      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed"
+        }
+      ],
+      "duration_ms": 202052,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "Sinal",
         "url": "https://open.spotify.com/album/4AqmNLl4yXukJZha7K6lOr"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 253150,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/6Ayfv5QkbkmizeyjeQ5gRW"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed"
-        }
-      ],
-      "duration_ms": 202052,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a"
     },
     {
       "added_at": "2026-10-16 14:04:25",

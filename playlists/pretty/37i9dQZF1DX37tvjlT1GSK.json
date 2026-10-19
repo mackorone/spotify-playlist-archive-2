@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: Los Terricolas, Tony Garcia",
-  "num_followers": 820974,
+  "num_followers": 820997,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKjNqm9V3XQeDmuFXTKcUgfKEbV",
+  "snapshot_id": "AAAAAM9+tPxhcNOmE+X+zFxVCORvE33p",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:19",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
-        "name": "Yales",
-        "url": "https://open.spotify.com/album/24IIsYIPJeUniqGKzSQKOw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 144322,
-      "name": "Yales",
-      "url": "https://open.spotify.com/track/0chtBoIb4E5iUNr1c8PNW5"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
+        "name": "Yales",
+        "url": "https://open.spotify.com/album/24IIsYIPJeUniqGKzSQKOw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 144322,
+      "name": "Yales",
+      "url": "https://open.spotify.com/track/0chtBoIb4E5iUNr1c8PNW5"
     },
     {
       "added_at": "2026-10-09 04:00:19",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2026-10-09 04:00:19",
       "album": {
-        "name": "Te Juro Que Te Amo",
-        "url": "https://open.spotify.com/album/3KFjkpJeNpyGqIiT1DFbs5"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        },
-        {
-          "name": "Tony Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
-        }
-      ],
-      "duration_ms": 250578,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/5lsuNXIWlzDaHKi0iJb1kp"
-    },
-    {
-      "added_at": "2026-10-09 04:00:19",
-      "album": {
         "name": "Mi Deber",
         "url": "https://open.spotify.com/album/2ILdDtamjfh4OMDhlRbjwk"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 170232,
       "name": "Mi Deber",
       "url": "https://open.spotify.com/track/5w5VxYwS2G9uffuQjY29XN"
+    },
+    {
+      "added_at": "2026-10-09 04:00:19",
+      "album": {
+        "name": "Te Juro Que Te Amo",
+        "url": "https://open.spotify.com/album/3KFjkpJeNpyGqIiT1DFbs5"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        },
+        {
+          "name": "Tony Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
+        }
+      ],
+      "duration_ms": 250578,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/5lsuNXIWlzDaHKi0iJb1kp"
     },
     {
       "added_at": "2026-10-09 04:00:19",

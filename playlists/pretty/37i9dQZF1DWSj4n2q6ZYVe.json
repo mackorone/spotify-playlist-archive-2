@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 800791,
+  "num_followers": 801013,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Network - taken from Superstar",
-        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
-      },
-      "artists": [
-        {
-          "name": "Global Deejays",
-          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "The Sound Of San Francisco - Progressive Album Mix",
-      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 360426,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Network - taken from Superstar",
+        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+      },
+      "artists": [
+        {
+          "name": "Global Deejays",
+          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "The Sound Of San Francisco - Progressive Album Mix",
+      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Hotel Room Service",
         "url": "https://open.spotify.com/album/6t7u6RvLoWLfWPLRUUXD1d"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 238506,
       "name": "Hotel Room Service",
       "url": "https://open.spotify.com/track/32yIEFS62uS5ryhr2Xlooj"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Payback Time",
-        "url": "https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na"
-      },
-      "artists": [
-        {
-          "name": "DJ Aligator Project",
-          "url": "https://open.spotify.com/artist/0tcTEBez3blSzzDbKQeM0b"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "The Whistle Song",
-      "url": "https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "First Contact",
         "url": "https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 452906,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Payback Time",
+        "url": "https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na"
+      },
+      "artists": [
+        {
+          "name": "DJ Aligator Project",
+          "url": "https://open.spotify.com/artist/0tcTEBez3blSzzDbKQeM0b"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "The Whistle Song",
+      "url": "https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
-        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/2VdVCzqQ6MyOSLEZh75iMn"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sharon Den Adel",
-          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
         }
       ],
-      "duration_ms": 181680,
-      "name": "In And Out Of Love",
-      "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
+      "duration_ms": 207200,
+      "name": "Evacuate The Dancefloor",
+      "url": "https://open.spotify.com/track/0jDWRUbxSn8zQlwFbeLHwo"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Evacuate The Dancefloor",
-        "url": "https://open.spotify.com/album/2VdVCzqQ6MyOSLEZh75iMn"
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
       },
       "artists": [
         {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Evacuate The Dancefloor",
-      "url": "https://open.spotify.com/track/0jDWRUbxSn8zQlwFbeLHwo"
+      "duration_ms": 181680,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1732,9 +1732,9 @@
           "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 230266,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV"
+      "duration_ms": 234116,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/6ACG1I3qXRpnkIKLVzy4Ww"
     },
     {
       "added_at": "2021-04-29 18:40:15",

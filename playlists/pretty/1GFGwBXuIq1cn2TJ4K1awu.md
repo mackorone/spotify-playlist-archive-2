@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 38 likes - 11 songs - 42 min 8 sec
+[royva06](https://open.spotify.com/user/royva06) - 38 likes - 11 songs - 39 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The End](https://open.spotify.com/track/3NwcMgjjSZWFXOTD9xNrUu) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Highway to Hell](https://open.spotify.com/album/1cXRgjEY26OClvzBHSUNSK) | 2:28 |
-| 2 | [Two Pence Piece](https://open.spotify.com/track/1ZgjZCXWjPIlreYegygz7D) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/0ekbANyejam0fKM6fDtdZT) | 4:10 |
-| 3 | [sulky baby](https://open.spotify.com/track/2Euwbryh21DOB5zEH0WT4P) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 4:38 |
-| 4 | [Kate Is Great](https://open.spotify.com/track/1VT2wLreLu0l7E4T0JDedh) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [The Bouncing Souls](https://open.spotify.com/album/7LgICzKkhaLV9Gttn8xM7a) | 2:53 |
-| 5 | [Michael A Grammar](https://open.spotify.com/track/5y97NLx4XGFy4x5LK8wYjr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/28RiDrxACWNtbrUNy9Ks1X) | 3:57 |
-| 6 | [The News](https://open.spotify.com/track/25CthI78tTOe0HRRHjOlzQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales \(Remastered\) \[Bonus Version\]](https://open.spotify.com/album/38xJ17xpXcD0IQfdIEpMXG) | 2:27 |
-| 7 | [And Nothing Is Forever](https://open.spotify.com/track/4NFptVazMTsSJTYvKENHJl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:53 |
-| 8 | [Days Of Wine And Roses](https://open.spotify.com/track/4fRzYHQgupApAZg4zCYQvD) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Pretty Blue \[2\-fer\]](https://open.spotify.com/album/5KXwf8kUe0qHRpwhRHbvDJ) | 3:48 |
-| 9 | [Little Lion Man](https://open.spotify.com/track/2BBkIgdXLv5vyp1DR0wpQl) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 4:06 |
-| 10 | [Golden Brown](https://open.spotify.com/track/5GpfyJrKHJI36jDKtQiyGN) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Golden Brown](https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u) | 3:26 |
-| 11 | [Always The Same](https://open.spotify.com/track/4FdjHYzbnxRxq2qpTh0hNk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1egOmcYzQ7sO7oCR0Zqq4G) | 3:17 |
+| 1 | [fuck u](https://open.spotify.com/track/0Y0JQ4O6GPbMJrfuhOA4mY) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [pockets](https://open.spotify.com/album/38IMPXGLJgku1bA3zwSCrn) | 2:53 |
+| 2 | [Birdseed](https://open.spotify.com/track/29CNPcHQnpnc00lbPIV1Dw) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:02 |
+| 3 | [Dumb Feeling](https://open.spotify.com/track/4HPd9WMnQqp3xXAOYeGexw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:10 |
+| 4 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 |
+| 5 | [Purple Heather](https://open.spotify.com/track/6HOEvcvvRU6eMtI96SA2Es) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Hard Nose the Highway](https://open.spotify.com/album/2F6h5yYUVNcqqeCG55O8Rw) | 5:43 |
+| 6 | [Lonesome, On'ry and Mean](https://open.spotify.com/track/5Y2Tn6xgdV4R3BWEX9URaX) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Lonesome, On'ry & Mean \(Expanded Edition\)](https://open.spotify.com/album/53lbB7LYjPft3wNHshbgon) | 3:41 |
+| 7 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
+| 8 | [Danger \- Keep Away](https://open.spotify.com/track/3muqbu7Pc3iwtafZc6Oymw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3 The Subliminal Verses](https://open.spotify.com/album/3kVZ0rQgW6yZpiTmDP2Bpm) | 3:13 |
+| 9 | [Here Today](https://open.spotify.com/track/7MIwZph61NqaneMo5DEpZW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(40th Anniversary Edition\)](https://open.spotify.com/album/1yMPDqzYuQ4TI10ICKlbzW) | 3:07 |
+| 10 | [Splanky](https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:37 |
+| 11 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
 
-Snapshot ID: `AAAMi7FcEotHWQTLtxCpJLugF1edUwR8`
+Snapshot ID: `AAAMoejN8VgoSKW6Bs+7zDeykzKHScr4`

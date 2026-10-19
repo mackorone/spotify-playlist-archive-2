@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93923,
+      "name": "Pensarte",
+      "url": "https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog"
+    },
+    {
+      "album": {
         "name": "Lo Sagrado",
         "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
       },

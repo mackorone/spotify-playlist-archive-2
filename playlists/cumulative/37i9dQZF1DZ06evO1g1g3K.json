@@ -279,6 +279,28 @@
     },
     {
       "album": {
+        "name": "The Full Fantasy",
+        "url": "https://open.spotify.com/album/1BL1x8oYdln586INNJ98jL"
+      },
+      "artists": [
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182709,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/03qjmu9lOiZBOBR0hG1b0s"
+    },
+    {
+      "album": {
         "name": "The Clock Don\u2019t Go Back",
         "url": "https://open.spotify.com/album/03Rtmq1Acm34vWhG6eOYd6"
       },

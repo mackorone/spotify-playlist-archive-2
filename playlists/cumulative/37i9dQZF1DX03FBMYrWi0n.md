@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Nectar Palace
 
-710 songs - 1 day 16 hr 14 min
+712 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ask For Help](https://open.spotify.com/track/5Js3bkZ0bu4VC63UdoKOyM) | [Tajiez](https://open.spotify.com/artist/2vMWGURIvqAbuZ6zMBHL0R), [Gaudz](https://open.spotify.com/artist/0xj1LxM0gHYGUc0m9c2rkk), [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [TAJI TUESDAYS: Act 5 \(Purple\)](https://open.spotify.com/album/6kvs9SOhaCFfuIoQ6LTdCf) | 3:32 | 2026-05-22 | 2026-06-27 |
 | [Ask Me](https://open.spotify.com/track/1VtPpUAN1LsuLwjFDkTMmg) | [The Satisfactory](https://open.spotify.com/artist/2GiACcsyua4nr7W68PhE7O) | [Ask Me/Yesterday's Tomorrow](https://open.spotify.com/album/1GAtmkBBwVYsU6miHW8JwK) | 2:57 | 2026-04-10 | 2026-07-18 |
 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 | 2023-02-10 | 2025-10-11 |
+| [Attendre \- mstr 01](https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Attendre \- mstr 01](https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y) | 5:57 | 2026-10-16 |  |
 | [Attention](https://open.spotify.com/track/3zKo7o00WeEXynWXgSHFw9) | [We Are Wolves](https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW) | [Attention](https://open.spotify.com/album/2CBoHe6yhMpHPPrHcYbdWW) | 2:41 | 2024-09-20 | 2025-11-08 |
 | [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 | 2023-02-10 | 2023-07-30 |
 | [AUTO\-CONSTRUCTION](https://open.spotify.com/track/0OetQANtgpJvsTxed8joUL) | [LE VENIN](https://open.spotify.com/artist/7GJxDetLIeoFclY2Eui1LV) | [AUTO\-CONSTRUCTION MIXTAPE](https://open.spotify.com/album/4sRH0u5GLoWt0GIjxp5D5z) | 2:38 | 2025-10-24 | 2026-01-15 |
@@ -88,7 +89,7 @@
 | [big dog](https://open.spotify.com/track/1KeSvI6TNMd4VUS0FdsFyR) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [big dog](https://open.spotify.com/album/0YWX331XqcoGeiPjvK9on1) | 2:31 | 2026-06-19 | 2026-07-18 |
 | [Bing\-a\-bang](https://open.spotify.com/track/5ApHksfVQz8PahixZsUZGz) | [Aubin pi la S.C.B.](https://open.spotify.com/artist/42AwulUoVFEtaeL3eI7k4b) | [Bing\-a\-bang](https://open.spotify.com/album/7Cf3hAAG1PtGL20l6Ej1ke) | 3:11 | 2026-07-17 | 2026-08-22 |
 | [Bingo](https://open.spotify.com/track/1RgoyUyNhlDMX9FCb3f3Nt) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Bingo](https://open.spotify.com/album/3KJdGZlx71PwUAIDYcvaSi) | 3:29 | 2026-02-20 | 2026-03-28 |
-| [bite](https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [bite](https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR) | 2:34 | 2026-05-22 |  |
+| [bite](https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [bite](https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR) | 2:34 | 2026-05-22 | 2026-10-19 |
 | [Bizarre](https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs) | [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Bizarre](https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU) | 2:48 | 2026-09-11 |  |
 | [bla bla bla](https://open.spotify.com/track/0ntU62KuvSknHWMDfR03zT) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [bla bla bla](https://open.spotify.com/album/6iHKdmK6qrRSCMjIH309yx) | 2:52 | 2024-07-05 | 2024-11-12 |
 | [Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ) | [teen\*](https://open.spotify.com/artist/0rippXAXb6jSyQIc8BnEtd), [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [Bleed Me Back to Yesterday](https://open.spotify.com/album/37OwUtKhUtSDdKeSaNu0Um) | 3:11 | 2026-01-02 | 2026-03-21 |
@@ -463,6 +464,7 @@
 | [Nyx](https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 3:07 | 2023-02-10 | 2023-07-01 |
 | [Né pour flâner](https://open.spotify.com/track/1u4UEzziL9XmmpgOr3RQFG) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Né pour flâner](https://open.spotify.com/album/4uwzzDLfZ1pcdCRGexEWRp) | 2:17 | 2025-02-14 | 2025-10-25 |
 | [Obsession](https://open.spotify.com/track/6tw0iHPsE9RGPRl7gHs9ht) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [Obsession](https://open.spotify.com/album/45tBeqa7LFHFxoE6fYlbdT) | 2:09 | 2026-06-12 | 2026-06-27 |
+| [octobre, encore](https://open.spotify.com/track/2cCeOGVRK2dnJ9G5TQvH7u) | [gabno](https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp) | [octobre, encore](https://open.spotify.com/album/5Hc0vmaR7nUTY1pmPfcLl6) | 3:19 | 2026-10-16 |  |
 | [Océan 4 & 5](https://open.spotify.com/track/0HmpFsOnV9jp9gIiIZrYNv) | [Oktoplut](https://open.spotify.com/artist/3JhCTaasUfomDsJQk0SYpj) | [Inselberg](https://open.spotify.com/album/7BRb058xjRVoKUyp021x7l) | 5:50 | 2026-05-01 | 2026-05-23 |
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 | 2025-10-11 |
 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 | 2023-02-24 | 2025-09-26 |
@@ -577,7 +579,7 @@
 | [Sentiments nouveaux](https://open.spotify.com/track/6LM0rvYTRtleOizjQEmkQH) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/5gBFPLneuXdVVGTV6usDgb) | 3:33 | 2023-09-08 | 2023-09-26 |
 | [Seul](https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Seul](https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj) | 3:34 | 2026-04-03 |  |
 | [sex & cigarettes](https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [sex & cigarettes](https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu) | 2:27 | 2026-08-28 |  |
-| [SEXES](https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf) | [6ODEM3](https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW) | [SEXES](https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T) | 3:10 | 2026-08-28 |  |
+| [SEXES](https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf) | [6ODEM3](https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW) | [SEXES](https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T) | 3:10 | 2026-08-28 | 2026-10-19 |
 | [She's Not Coming](https://open.spotify.com/track/4QGZnFfBP8OGd5a8EphTgd) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:44 | 2025-10-10 | 2025-12-13 |
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2023-02-10 | 2025-10-11 |
 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 | 2023-02-10 | 2025-10-11 |

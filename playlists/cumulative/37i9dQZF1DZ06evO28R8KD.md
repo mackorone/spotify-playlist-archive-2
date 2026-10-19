@@ -4,7 +4,7 @@
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-43 songs - 4 hr 2 min
+44 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 | 2026-03-27 |  |
 | [Nagoya](https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:26 | 2026-03-27 |  |
 | [New \(Part 1\)](https://open.spotify.com/track/4xPbiTndGD1qA52NsXSova) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 15:40 | 2026-04-24 | 2026-10-05 |
-| [Night Woven](https://open.spotify.com/track/7m694l1Cr9s6RkMYTvhtHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 5:54 | 2026-10-04 |  |
+| [Night Woven](https://open.spotify.com/track/7m694l1Cr9s6RkMYTvhtHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 5:54 | 2026-10-04 | 2026-10-19 |
 | [Noon Liquid Ore](https://open.spotify.com/track/2sK1sarOc5DVoVL5k9eXpi) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 4:25 | 2026-10-18 |  |
 | [Noon Liquid Ore](https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Noon Liquid Ore](https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8) | 4:25 | 2026-08-28 | 2026-10-18 |
 | [Osaka](https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:26 | 2026-03-27 |  |
@@ -49,6 +49,7 @@
 | [Transfiguring](https://open.spotify.com/track/6D4cs6khQHUuGsisLYJIFT) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 2:15 | 2026-10-07 |  |
 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 | 2026-03-27 |  |
 | [Water Memory 2](https://open.spotify.com/track/7rlJ6MBVAhgZEPrw58Nuda) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 9:01 | 2026-03-27 |  |
+| [Weather Melody](https://open.spotify.com/track/1t0n85KzvJofpC76xnmdjM) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 4:11 | 2026-10-19 |  |
 | [Woven](https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:51 | 2026-03-27 |  |
 | [Your Pond](https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 6:03 | 2026-03-27 |  |
 

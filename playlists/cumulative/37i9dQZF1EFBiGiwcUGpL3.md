@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 7 hr 41 min
+116 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,11 +117,12 @@
 | [WILDSIDE](https://open.spotify.com/track/07pCZEHQAa1YBM4akEUcgJ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 2:47 | 2024-09-22 |  |
 | [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-07-17 | 2024-09-23 |
 | [Won't Let You Down](https://open.spotify.com/track/2o5xT3rEUqrTTKc5UIoabu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 3:19 | 2024-06-07 |  |
-| [You Won](https://open.spotify.com/track/6j5fVSOBfFFuJvjQXkMLQO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:21 | 2024-06-07 |  |
+| [You Won](https://open.spotify.com/track/6j5fVSOBfFFuJvjQXkMLQO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:21 | 2024-06-07 | 2026-10-19 |
 | [You're My Better Half](https://open.spotify.com/track/06ySRvEnrUxZZ9ml3VO2TY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:59 | 2024-06-07 |  |
 | [You're Not Alone Tonight](https://open.spotify.com/track/5dv6muRACFr2La8vGZgMcY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:31 | 2024-06-07 |  |
 | [You're Not My God](https://open.spotify.com/track/7t56DaFG03JsZaAmCi9LPR) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 8:31 | 2024-06-07 |  |
 | [You're The Only One](https://open.spotify.com/track/3IM1MvonbidNaGyFWEndp5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:54 | 2024-06-07 |  |
 | [Your Body](https://open.spotify.com/track/5ffdMuuGqSLevQL2ILFAXG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 2:45 | 2024-06-07 |  |
+| [วน](https://open.spotify.com/track/06eYkgBfYDtpdkvJmSp1Nv) | [อัทธ์ อังค์กูณฑ์](https://open.spotify.com/artist/0M82SKGZpGC9CWSsKdNQG3) | [PROJECT Love pill](https://open.spotify.com/album/5bNnst3ehOrJMLwFZj0aZW) | 4:02 | 2026-10-18 |  |
 
 \*This playlist was first scraped on 2024-06-08. Prior content cannot be recovered.

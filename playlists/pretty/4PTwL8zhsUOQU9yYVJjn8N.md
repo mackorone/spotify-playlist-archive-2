@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-[sharpness](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 417 likes - 275 songs - 8 hr 48 min
+[sharpness](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 417 likes - 276 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,5 +283,6 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 273 | [Tell me!!](https://open.spotify.com/track/4vSZYU5TduuNGLbSLOJaKU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Tell me!! with Need to know \(interlude\)](https://open.spotify.com/album/2YP8V2O4uD8e35mHjAbHTJ) | 3:13 |
 | 274 | [certainty](https://open.spotify.com/track/2n9lbKY8FPhfmirHBjod0S) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 |
 | 275 | [certainty \- Instrumental Version](https://open.spotify.com/track/5orraFYE7POHB2nRzgTzMb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 |
+| 276 | [FREEMYSOUL](https://open.spotify.com/track/4H7n1ZRInTptvHZ5Qpl0RP) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [FREEMYSOUL](https://open.spotify.com/album/5RrHs976XuFkbzJBzR2DKA) | 1:36 |
 
-Snapshot ID: `AAAAqKP9C7kAeoD2srg8DHYZW10am8tv`
+Snapshot ID: `AAAAqWob8/okFrkxobX6vYj3GXyTSWqZ`

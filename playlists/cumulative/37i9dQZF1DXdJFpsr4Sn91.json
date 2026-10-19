@@ -3371,6 +3371,32 @@
     },
     {
       "album": {
+        "name": "DANTE",
+        "url": "https://open.spotify.com/album/2l3EUC4Q5ddiwS6PEiBKKm"
+      },
+      "artists": [
+        {
+          "name": "ODE",
+          "url": "https://open.spotify.com/artist/5pvzRpKLDFIaU1S9Ka5bxz"
+        },
+        {
+          "name": "F\u00e4rmy",
+          "url": "https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi"
+        },
+        {
+          "name": "ODFM",
+          "url": "https://open.spotify.com/artist/2phHPkExbn5mQ5c9Z6obIv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200139,
+      "name": "DANTE",
+      "url": "https://open.spotify.com/track/2bUseeFwVu57CODQGPQML7"
+    },
+    {
+      "album": {
         "name": "Dare U",
         "url": "https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V"
       },
@@ -24690,7 +24716,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 188186,
       "name": "Yhteiset askeleet (feat. Bahamo)",
       "url": "https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA"

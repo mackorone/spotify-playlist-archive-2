@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945685,
+  "num_followers": 945644,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Sertanejinho do Tel\u00f3, Vol. 2",
-        "url": "https://open.spotify.com/album/7kxt3hDfsza2kVWUSjn13o"
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
       "artists": [
         {
-          "name": "Michel Tel\u00f3",
-          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
         }
       ],
-      "duration_ms": 298853,
-      "name": "Magia e Mist\u00e9rio / Fui Fiel",
-      "url": "https://open.spotify.com/track/2ERvdaiyTzpfiWYRzntMg1"
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -203,26 +207,6 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 187118,
       "name": "Eu, Voc\u00ea, O Mar e Ela",
       "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
+        "name": "Sertanejinho do Tel\u00f3, Vol. 2",
+        "url": "https://open.spotify.com/album/7kxt3hDfsza2kVWUSjn13o"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "duration_ms": 298853,
+      "name": "Magia e Mist\u00e9rio / Fui Fiel",
+      "url": "https://open.spotify.com/track/2ERvdaiyTzpfiWYRzntMg1"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Me Leva Pra Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TZD2wHncHxrfovghumTIm"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 230165,
       "name": "Me Leva Pra Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/1Ae6RpDX15PH0nY4qpwBfx"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 165074,
-      "name": "Na Conta Da Loucura - Ao Vivo",
-      "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
         "name": "Realidade (Ao Vivo Em Manaus)",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 202066,
       "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
       "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 165074,
+      "name": "Na Conta Da Loucura - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Graveto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 170877,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Lauana Prado",
         "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Graveto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 170877,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Mural Dos Sonhos",
+        "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
+      },
+      "artists": [
+        {
+          "name": "Matheus Vargas",
+          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 158122,
+      "name": "Mural Dos Sonhos",
+      "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 197969,
       "name": "Amigo Taxista - Ao Vivo",
       "url": "https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Mural Dos Sonhos",
-        "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
-      },
-      "artists": [
-        {
-          "name": "Matheus Vargas",
-          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 158122,
-      "name": "Mural Dos Sonhos",
-      "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 157460,
-      "name": "Mulher Maravilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
         "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 162464,
       "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
       "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 157460,
+      "name": "Mulher Maravilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -859,18 +859,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
+        "name": "S de Saudade",
+        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
       "artists": [
+        {
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+        },
         {
           "name": "Z\u00e9 Neto & Cristiano",
           "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 152149,
-      "name": "Mo\u00e7a do Espelho - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C"
+      "duration_ms": 174863,
+      "name": "S de Saudade",
+      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

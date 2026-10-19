@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "La voix des incendies",
+        "url": "https://open.spotify.com/album/4C0aMabeQ9lvB9EEQvWT4I"
+      },
+      "artists": [
+        {
+          "name": "La Nuit Am\u00e9ricaine",
+          "url": "https://open.spotify.com/artist/5WJizH3K1fRjTS2dYtpVCf"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233010,
+      "name": "La voix des incendies",
+      "url": "https://open.spotify.com/track/3amWDAyIhzqFdmutY48F2b"
+    },
+    {
+      "album": {
         "name": "Last Embrace (2024 Poem and Music Remastered Version)",
         "url": "https://open.spotify.com/album/6N3fEwjmkv4SGmfJJ9m6ag"
       },

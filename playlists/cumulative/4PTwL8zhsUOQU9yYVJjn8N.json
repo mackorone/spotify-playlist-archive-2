@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "FREEMYSOUL",
+        "url": "https://open.spotify.com/album/5RrHs976XuFkbzJBzR2DKA"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "FREEMYSOUL",
+      "url": "https://open.spotify.com/track/4H7n1ZRInTptvHZ5Qpl0RP"
+    },
+    {
+      "album": {
         "name": "freeze up",
         "url": "https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN"
       },

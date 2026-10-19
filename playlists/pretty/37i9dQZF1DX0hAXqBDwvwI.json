@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 742489,
+  "num_followers": 742561,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-10-13 17:05:38",
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 172191,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
+    },
+    {
+      "added_at": "2026-10-13 17:05:38",
+      "album": {
         "name": "Recollect",
         "url": "https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 190965,
       "name": "Recollect",
       "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"
-    },
-    {
-      "added_at": "2026-10-13 17:05:38",
-      "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 172191,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
     },
     {
       "added_at": "2026-10-13 17:05:38",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-10-13 17:05:38",
       "album": {
-        "name": "gift",
-        "url": "https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr"
-      },
-      "artists": [
-        {
-          "name": "\u30ae\u30f4\u30f3",
-          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "\u51ac\u306e\u306f\u306a\u3057",
-      "url": "https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7"
-    },
-    {
-      "added_at": "2026-10-13 17:05:38",
-      "album": {
         "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 226557,
       "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
+    },
+    {
+      "added_at": "2026-10-13 17:05:38",
+      "album": {
+        "name": "gift",
+        "url": "https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr"
+      },
+      "artists": [
+        {
+          "name": "\u30ae\u30f4\u30f3",
+          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "\u51ac\u306e\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7"
     },
     {
       "added_at": "2026-10-13 17:05:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-13 17:05:38",
       "album": {
-        "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
-        "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 189854,
-      "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
-      "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
-    },
-    {
-      "added_at": "2026-10-13 17:05:38",
-      "album": {
         "name": "\u9006\u69d8",
         "url": "https://open.spotify.com/album/1qq7jAulzATlVCltzautOz"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 171000,
       "name": "\u9006\u69d8",
       "url": "https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn"
+    },
+    {
+      "added_at": "2026-10-13 17:05:38",
+      "album": {
+        "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
+        "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 189854,
+      "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
+      "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
     },
     {
       "added_at": "2026-10-13 17:05:38",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-10-13 17:05:38",
       "album": {
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
+    },
+    {
+      "added_at": "2026-10-13 17:05:38",
+      "album": {
         "name": "\u559c\u5287",
         "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 285880,
       "name": "\u524d\u524d\u524d\u4e16 - movie ver.",
       "url": "https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe"
-    },
-    {
-      "added_at": "2026-10-13 17:05:38",
-      "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "HOWL",
-      "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
     },
     {
       "added_at": "2026-10-13 17:05:38",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-10-13 17:05:38",
       "album": {
-        "name": "Anytime Anywhere",
-        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 230449,
-      "name": "Anytime Anywhere",
-      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
     },
     {
       "added_at": "2026-10-13 17:05:38",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-10-13 17:05:38",
       "album": {
-        "name": "\u708e",
-        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
+        "name": "Anytime Anywhere",
+        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
       },
       "artists": [
         {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 275000,
-      "name": "\u708e",
-      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
+      "duration_ms": 230449,
+      "name": "Anytime Anywhere",
+      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
     },
     {
       "added_at": "2026-10-13 17:05:38",

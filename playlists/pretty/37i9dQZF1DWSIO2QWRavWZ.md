@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: LAYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,470 likes - 185 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,488 likes - 185 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

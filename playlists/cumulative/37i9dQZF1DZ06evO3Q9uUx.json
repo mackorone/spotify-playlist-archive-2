@@ -3253,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Thanks For The Lesson (feat. BIA)",
+        "url": "https://open.spotify.com/album/01vPFIuSsWk2VFMFdHCdra"
+      },
+      "artists": [
+        {
+          "name": "\u8d75\u9732\u601d Rosy",
+          "url": "https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184338,
+      "name": "Thanks For The Lesson (feat. BIA)",
+      "url": "https://open.spotify.com/track/6fZE39xvsqz8RZBwfIIGqI"
+    },
+    {
+      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
       },
@@ -3314,7 +3336,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 144796,
       "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
       "url": "https://open.spotify.com/track/64Rn2oaQjAW6gIAjvukhWu"

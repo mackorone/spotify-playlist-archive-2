@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,523 songs - 5 day 21 hr 50 min
+2,524 songs - 5 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Do My Ting](https://open.spotify.com/track/7itFDwMmp0bvAUctxRhHkr) | [SLATIN](https://open.spotify.com/artist/2K7Mq9tikWmSfodrb6ZyD3) | [Do My Ting / Booty Duty EP](https://open.spotify.com/album/6oXSrqIUPsBMG2514pxBHT) | 3:43 | 2023-02-10 | 2023-02-18 |
 | [Do U Like It?](https://open.spotify.com/track/2Sl9NDr5tSLeand3FCvKSg) | [DA$ON](https://open.spotify.com/artist/3EsqI4Ji25nJea9qsLMAGQ) | [Do U Like It?](https://open.spotify.com/album/2ghSJRqd2QhOCu7wz16Bbz) | 3:58 | 2025-06-02 | 2025-08-09 |
 | [Do What You Want](https://open.spotify.com/track/2ONPus6HrSvaMODodxhMtm) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Do What You Want](https://open.spotify.com/album/4lCFkQUgP7I2Wpl5tEP7fq) | 2:57 | 2023-08-11 | 2023-08-26 |
+| [Do Ya Thang](https://open.spotify.com/track/28ARARPFGW5qFtJ2Rp0mKd) | [KiRKie](https://open.spotify.com/artist/0nPy8OKs5hIlbMQi07euiB) | [Do Ya Thang EP](https://open.spotify.com/album/4I7VMYX23V8gzKZeH7KnH2) | 2:57 | 2026-10-18 |  |
 | [Do You Feel It](https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Do You Feel It](https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y) | 3:06 | 2023-08-11 | 2023-08-26 |
 | [Do You Know Me? \- Radio Edit](https://open.spotify.com/track/7EJ8oKtclrvooomSmmXqSw) | [Coinzy](https://open.spotify.com/artist/2RSHe5CHbtQySu9V9atPap) | [Do You Know Me?](https://open.spotify.com/album/5D084flrf6GPH5wH5q0zB4) | 2:43 | 2022-09-23 | 2022-10-01 |
 | [Do Your Dance](https://open.spotify.com/track/4pzXfsRW2GVSDhlXmXajjZ) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o), [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [Rowetta](https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z) | [Do Your Dance](https://open.spotify.com/album/5uvvvDz3OAfPaWoHcxdS2C) | 2:39 | 2023-03-24 | 2023-04-01 |

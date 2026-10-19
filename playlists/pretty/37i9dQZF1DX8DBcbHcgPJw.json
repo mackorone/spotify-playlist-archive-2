@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1086415,
+  "num_followers": 1086291,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "DE PE A PA",
-        "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 153260,
-      "name": "DE PE A PA",
-      "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "T\u00edpica Argentina",
         "url": "https://open.spotify.com/album/3HBd40il87H552v0UdXkUv"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 156118,
       "name": "T\u00edpica Argentina",
       "url": "https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "DE PE A PA",
+        "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 153260,
+      "name": "DE PE A PA",
+      "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "BORRACHO",
-        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Vos y Yo",
         "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 139058,
       "name": "Vos y Yo",
       "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "BORRACHO",
+        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
-      },
-      "artists": [
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        }
-      ],
-      "duration_ms": 356261,
-      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Quiero Creer",
         "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 157131,
       "name": "Una Condena",
       "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
+      },
+      "artists": [
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 356261,
+      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -991,30 +991,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
-        "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
-      "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Me Cont\u00f3 Un Pajarito",
         "url": "https://open.spotify.com/album/21gqDpCwrLz0JTCTEsxEwb"
       },
@@ -1035,6 +1011,30 @@
       "duration_ms": 126847,
       "name": "Me Cont\u00f3 Un Pajarito",
       "url": "https://open.spotify.com/track/1BtekUrJrdyP26Vdv9jFUS"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
+        "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
+      "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Lo Mismo Que A M\u00ed",
         "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 186360,
       "name": "Lo Mismo Que A M\u00ed",
       "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "BORRACHO Y LOCO",
         "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "FINGIA",
-        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
       },
       "artists": [
         {
           "name": "La Joaqui",
           "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 140000,
-      "name": "FINGIA",
-      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+        "name": "FINGIA",
+        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
       },
       "artists": [
         {
           "name": "La Joaqui",
           "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
+      "duration_ms": 140000,
+      "name": "FINGIA",
+      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1591,30 +1591,6 @@
       "duration_ms": 187956,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "\u00daltima Noche",
-        "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
-      },
-      "artists": [
-        {
-          "name": "Treekoo",
-          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "\u00daltima Noche",
-      "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1647,6 +1623,30 @@
       "duration_ms": 199389,
       "name": "No Voy a Llorar Por Ti - Remix",
       "url": "https://open.spotify.com/track/5zl3j3FkzhLhHJPWQ3JbNM"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "\u00daltima Noche",
+        "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
+      },
+      "artists": [
+        {
+          "name": "Treekoo",
+          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "\u00daltima Noche",
+      "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Ayer / Quiere Beber / OA",
+        "url": "https://open.spotify.com/album/1OnLHm1FqU0kjuzI5klHjS"
+      },
+      "artists": [
+        {
+          "name": "El Rodri",
+          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
+        }
+      ],
+      "duration_ms": 317666,
+      "name": "Ayer / Quiere Beber / OA",
+      "url": "https://open.spotify.com/track/1UGtRPa4OnNWsLIEF4YZxa"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Pechito Partido",
         "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Ayer / Quiere Beber / OA",
-        "url": "https://open.spotify.com/album/1OnLHm1FqU0kjuzI5klHjS"
-      },
-      "artists": [
-        {
-          "name": "El Rodri",
-          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
-        }
-      ],
-      "duration_ms": 317666,
-      "name": "Ayer / Quiere Beber / OA",
-      "url": "https://open.spotify.com/track/1UGtRPa4OnNWsLIEF4YZxa"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1899,22 +1899,26 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/7ieJgZqr704fyywAVRUYQX"
+        "name": "Tu Re Amor",
+        "url": "https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
         },
         {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        },
+        {
+          "name": "Dj Ronel",
+          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
         }
       ],
-      "duration_ms": 136208,
-      "name": "No Me Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY"
+      "duration_ms": 122000,
+      "name": "Tu Re Amor",
+      "url": "https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1939,26 +1943,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Tu Re Amor",
-        "url": "https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/7ieJgZqr704fyywAVRUYQX"
       },
       "artists": [
         {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         },
         {
-          "name": "Nuke",
-          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
-        },
-        {
-          "name": "Dj Ronel",
-          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Tu Re Amor",
-      "url": "https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD"
+      "duration_ms": 136208,
+      "name": "No Me Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY"
     },
     {
       "added_at": "2026-09-25 03:00:47",

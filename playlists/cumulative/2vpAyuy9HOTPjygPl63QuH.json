@@ -10795,6 +10795,24 @@
     },
     {
       "album": {
+        "name": "Do Ya Thang EP",
+        "url": "https://open.spotify.com/album/4I7VMYX23V8gzKZeH7KnH2"
+      },
+      "artists": [
+        {
+          "name": "KiRKie",
+          "url": "https://open.spotify.com/artist/0nPy8OKs5hIlbMQi07euiB"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177238,
+      "name": "Do Ya Thang",
+      "url": "https://open.spotify.com/track/28ARARPFGW5qFtJ2Rp0mKd"
+    },
+    {
+      "album": {
         "name": "Do You Feel It",
         "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
       },

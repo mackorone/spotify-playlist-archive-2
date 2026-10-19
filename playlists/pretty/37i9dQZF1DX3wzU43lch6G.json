@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 113585,
+  "num_followers": 113582,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "\u015eark\u0131lar G\u00fczelse Hala",
-      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 215803,
       "name": "D\u00fcn",
       "url": "https://open.spotify.com/track/4Cdv5EjQOoWFCEEfTvLexr"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "\u015eark\u0131lar G\u00fczelse Hala",
+      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -635,34 +635,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
-        "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        },
-        {
-          "name": "Salman Tin",
-          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
-        },
-        {
-          "name": "BKE",
-          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
-        },
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
-      "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Kahrettim",
         "url": "https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b"
       },
@@ -711,22 +683,30 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Leyla & Mecnun",
-        "url": "https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc"
+        "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
+        "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
       "artists": [
         {
-          "name": "Cem Belevi",
-          "url": "https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg"
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
         },
         {
-          "name": "Derya Ulu\u011f",
-          "url": "https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj"
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "BKE",
+          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+        },
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
         }
       ],
-      "duration_ms": 182544,
-      "name": "Leyla & Mecnun",
-      "url": "https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS"
+      "duration_ms": 150000,
+      "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
+      "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -747,6 +727,26 @@
       "duration_ms": 216000,
       "name": "Uzun Uzun (feat. Jabbar)",
       "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Leyla & Mecnun",
+        "url": "https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc"
+      },
+      "artists": [
+        {
+          "name": "Cem Belevi",
+          "url": "https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg"
+        },
+        {
+          "name": "Derya Ulu\u011f",
+          "url": "https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj"
+        }
+      ],
+      "duration_ms": 182544,
+      "name": "Leyla & Mecnun",
+      "url": "https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS"
     },
     {
       "added_at": "2025-07-10 21:06:57",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369253,
+  "num_followers": 369250,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atAXgAAAAACQxlRUpr2a3zTjgtY3EMkA",
+  "snapshot_id": "atK6gAAAAABqIaLUPX19mcQ1OVgz/6aM",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/5fq1eSTkR1SnwZj5fJGBHB"
+        "name": "Song Of The Saints (Deluxe)",
+        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 250186,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/3tL3RBw97ctKUpOuEkvBfI"
+      "duration_ms": 239533,
+      "name": "Running To A Runaway (with Lauren Daigle)",
+      "url": "https://open.spotify.com/track/3aFdkhwnY7nCdGYhA1tCHW"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints (Deluxe)",
-        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/5fq1eSTkR1SnwZj5fJGBHB"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 239533,
-      "name": "Running To A Runaway (with Lauren Daigle)",
-      "url": "https://open.spotify.com/track/3aFdkhwnY7nCdGYhA1tCHW"
+      "duration_ms": 250186,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/3tL3RBw97ctKUpOuEkvBfI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-556 songs - 1 day 5 hr 22 min
+557 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Long Summer Nights](https://open.spotify.com/track/0ccnGefiTLZYOdHTB7ut1D) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Long Summer Nights](https://open.spotify.com/album/141USp9NDZaX6aICT4r4JV) | 2:54 | 2022-12-09 | 2024-04-19 |
 | [Long Summer Nights](https://open.spotify.com/track/3sYbnk1vLjNMxevpne08ts) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Long Summer Nights](https://open.spotify.com/album/2pyz3hqxKFFJ1rg2diDWoT) | 2:54 | 2022-05-27 | 2022-12-16 |
 | [Lose Control](https://open.spotify.com/track/5ugYo7xM632grP29JqjxZa) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Lose Control](https://open.spotify.com/album/4RNoGz6yD2rrJpJ6Ze6Pa1) | 2:32 | 2022-12-09 | 2024-03-23 |
-| [Lose Control](https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Lose Control](https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD) | 2:29 | 2026-01-30 |  |
+| [Lose Control](https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Lose Control](https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD) | 2:29 | 2026-01-30 | 2026-10-19 |
 | [Lost In Music](https://open.spotify.com/track/7FUKSjbSp3GrEEPTmj5e5R) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Lost In Music](https://open.spotify.com/album/51da1nUSWtm7kA6JZuu6lT) | 3:30 | 2025-08-08 |  |
 | [Lots of Love](https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4) | [Brothers Macklovitch](https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Lots of Love](https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH) | 3:07 | 2026-04-24 |  |
 | [Love For The Summer \(feat\. Loren Gray\)](https://open.spotify.com/track/4WpLRgfjvPKvt1vt37z7Wk) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Love For The Summer \(feat\. Loren Gray\)](https://open.spotify.com/album/6MoLzqdqFdDKG6OuLaktRS) | 3:08 | 2021-12-03 | 2022-01-08 |
@@ -431,6 +431,7 @@
 | [Special Thing](https://open.spotify.com/track/2OGcwhOAldo9aiDwBnXMfc) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Gilligan Moss](https://open.spotify.com/album/5wuxthfn38zXXuN8RlzOy9) | 4:57 | 2022-07-22 | 2023-05-13 |
 | [Special Thing](https://open.spotify.com/track/2uFII0hcLjEbbn1e6Ft1Qd) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Special Thing](https://open.spotify.com/album/5yZsNqyu3wzeWcyyiGbCQt) | 4:57 | 2021-12-03 | 2022-07-29 |
 | [Stargazing](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stargazing](https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC) | 3:59 | 2022-09-23 | 2026-02-21 |
+| [Staring At The Sun](https://open.spotify.com/track/0Av0Z4deoq4ct6JWdrmUM3) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Staring At The Sun](https://open.spotify.com/album/27sUfvUNHIqk81ANClzg7Q) | 3:21 | 2026-10-16 |  |
 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 | 2022-04-22 | 2026-02-21 |
 | [Stars \(feat\. Steve Winwood\)](https://open.spotify.com/track/1YQ7HRuo0LwRcWab3IaDJc) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Stars \(feat\. Steve Winwood\)](https://open.spotify.com/album/1bBHCZYXWRAsms3zk0ecaU) | 2:37 | 2024-03-22 | 2024-08-07 |
 | [Starstruck](https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Starstruck](https://open.spotify.com/album/6QrZRFMwgFNXV0d5N7ndUW) | 3:27 | 2021-12-03 | 2023-05-13 |

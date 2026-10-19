@@ -1,13 +1,45 @@
 {
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
-  "num_followers": 613819,
+  "num_followers": 613857,
   "original_name": "Coffee + Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNzbezqKWpViAgNzVWVv8QV8n2Y",
+  "snapshot_id": "AAAAAJjXEEXbRuSZlaYnnXdLau5+l3lk",
   "tracks": [
+    {
+      "added_at": "2026-10-04 13:00:19",
+      "album": {
+        "name": "Midnight Footsteps",
+        "url": "https://open.spotify.com/album/2zR9EyieqX8sYYJqPYKtOy"
+      },
+      "artists": [
+        {
+          "name": "East of Indigo",
+          "url": "https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg"
+        }
+      ],
+      "duration_ms": 197845,
+      "name": "Midnight Footsteps",
+      "url": "https://open.spotify.com/track/2QTPmbudoXW3U8uraJg23v"
+    },
+    {
+      "added_at": "2026-10-04 13:00:19",
+      "album": {
+        "name": "I Don't Need You Anymore",
+        "url": "https://open.spotify.com/album/1ylGXWfqRZ9TlyOZOQZQxA"
+      },
+      "artists": [
+        {
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "I Don't Need You Anymore",
+      "url": "https://open.spotify.com/track/7f7Y1MOfBg6XQobBdja4Rj"
+    },
     {
       "added_at": "2026-10-04 13:00:19",
       "album": {
@@ -43,6 +75,22 @@
     {
       "added_at": "2026-10-04 13:00:19",
       "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+    },
+    {
+      "added_at": "2026-10-04 13:00:19",
+      "album": {
         "name": "Hanging on Hope",
         "url": "https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz"
       },
@@ -57,36 +105,20 @@
       "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
     },
     {
-      "added_at": "2026-10-04 13:00:19",
+      "added_at": "2026-10-19 03:00:34",
       "album": {
-        "name": "I Don't Need You Anymore",
-        "url": "https://open.spotify.com/album/1ylGXWfqRZ9TlyOZOQZQxA"
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 221360,
-      "name": "I Don't Need You Anymore",
-      "url": "https://open.spotify.com/track/7f7Y1MOfBg6XQobBdja4Rj"
-    },
-    {
-      "added_at": "2026-10-04 13:00:19",
-      "album": {
-        "name": "Midnight Footsteps",
-        "url": "https://open.spotify.com/album/2zR9EyieqX8sYYJqPYKtOy"
-      },
-      "artists": [
-        {
-          "name": "East of Indigo",
-          "url": "https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg"
-        }
-      ],
-      "duration_ms": 197845,
-      "name": "Midnight Footsteps",
-      "url": "https://open.spotify.com/track/2QTPmbudoXW3U8uraJg23v"
+      "duration_ms": 197110,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/6XqaHX17LC5y80yWz5fUnv"
     },
     {
       "added_at": "2026-10-04 13:00:19",
@@ -103,6 +135,54 @@
       "duration_ms": 215930,
       "name": "light up",
       "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
+    },
+    {
+      "added_at": "2026-10-04 13:00:19",
+      "album": {
+        "name": "carry",
+        "url": "https://open.spotify.com/album/1TUKElLn4QSQ73qdpcoYvk"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        }
+      ],
+      "duration_ms": 160710,
+      "name": "carry",
+      "url": "https://open.spotify.com/track/2zaeUBQObunKCSOzgfBc3g"
+    },
+    {
+      "added_at": "2026-10-19 03:00:34",
+      "album": {
+        "name": "Tell Me I'm Beautiful",
+        "url": "https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Tell Me I'm Beautiful",
+      "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
+    {
+      "added_at": "2026-10-04 13:00:19",
+      "album": {
+        "name": "tired eyes",
+        "url": "https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 221441,
+      "name": "tired eyes",
+      "url": "https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB"
     },
     {
       "added_at": "2026-10-04 13:00:19",
@@ -139,22 +219,6 @@
     {
       "added_at": "2026-10-04 13:00:19",
       "album": {
-        "name": "carry",
-        "url": "https://open.spotify.com/album/1TUKElLn4QSQ73qdpcoYvk"
-      },
-      "artists": [
-        {
-          "name": "Newport",
-          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
-        }
-      ],
-      "duration_ms": 160710,
-      "name": "carry",
-      "url": "https://open.spotify.com/track/2zaeUBQObunKCSOzgfBc3g"
-    },
-    {
-      "added_at": "2026-10-04 13:00:19",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW"
       },
@@ -173,6 +237,22 @@
       "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
     },
     {
+      "added_at": "2026-10-19 03:00:34",
+      "album": {
+        "name": "We Were Only Young",
+        "url": "https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "All I\u2019ll Ever Need",
+      "url": "https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP"
+    },
+    {
       "added_at": "2026-10-04 13:00:19",
       "album": {
         "name": "There's A Lot To Forget",
@@ -187,38 +267,6 @@
       "duration_ms": 304500,
       "name": "There's A Lot To Forget",
       "url": "https://open.spotify.com/track/7djbDzrM3f2lwGuS2QqhbP"
-    },
-    {
-      "added_at": "2026-10-04 13:00:19",
-      "album": {
-        "name": "tired eyes",
-        "url": "https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 221441,
-      "name": "tired eyes",
-      "url": "https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB"
-    },
-    {
-      "added_at": "2026-10-04 13:00:19",
-      "album": {
-        "name": "Razor Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 364329,
-      "name": "Razor Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
     },
     {
       "added_at": "2026-10-04 13:00:19",
@@ -1423,22 +1471,6 @@
     {
       "added_at": "2026-10-04 13:00:19",
       "album": {
-        "name": "Touching Toes",
-        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Touching Toes",
-      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
-    },
-    {
-      "added_at": "2026-10-04 13:00:19",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/5V8mpH3KV9P7O85KPPTycA"
       },
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2026-10-04 13:00:19",
       "album": {
-        "name": "Home In Sight",
-        "url": "https://open.spotify.com/album/0HP1O8L1X6qfbqmyypB7hE"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "Home In Sight",
-      "url": "https://open.spotify.com/track/6HLCqZoCfqwsRHF3oyFiKr"
-    },
-    {
-      "added_at": "2026-10-04 13:00:19",
-      "album": {
         "name": "Heaven's Daughter",
         "url": "https://open.spotify.com/album/6NdI87tagkpWZWEwvLtmnZ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
-    },
-    {
-      "added_at": "2026-10-04 13:00:19",
-      "album": {
-        "name": "Pepperpot Magic",
-        "url": "https://open.spotify.com/album/3vkwODkm1Z6t0e3mCBR7GP"
-      },
-      "artists": [
-        {
-          "name": "Bec Sykes",
-          "url": "https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Last to Know",
-      "url": "https://open.spotify.com/track/3PsRifocO55RlBP0HQP0AX"
     },
     {
       "added_at": "2026-10-04 13:00:19",

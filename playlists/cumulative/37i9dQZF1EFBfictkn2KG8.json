@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "Make Love",
+        "url": "https://open.spotify.com/album/4qieawPRE14bqgLv8mwtk0"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161279,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/31w6shAy30XOW089TFbb96"
+    },
+    {
+      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/6T3J1PFPHbfA0au1k94gm7"
       },

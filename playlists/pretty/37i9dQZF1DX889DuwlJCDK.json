@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: HINONABE",
-  "num_followers": 23196,
+  "num_followers": 23200,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
+        "name": "SWEET AND SOUR",
+        "url": "https://open.spotify.com/album/27qRVeCalrcCi8BQHrSBLm"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "SWEET AND SOUR",
+      "url": "https://open.spotify.com/track/7as2oLEK0etzCt2d3hXpUD"
+    },
+    {
+      "added_at": "2026-10-13 17:48:19",
+      "album": {
         "name": "\u79c1\u96e8\u306b\u590f\u306e\u706f\u3092\u77e5\u308b",
         "url": "https://open.spotify.com/album/6FlrlZM9CuVlztVnO8x6xL"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 226938,
       "name": "\u6dbc\u98a8 - feat. \u53cb\u6210\u7a7a",
       "url": "https://open.spotify.com/track/1dHoORp875dv0CJrqZ4kVF"
-    },
-    {
-      "added_at": "2026-10-13 17:48:19",
-      "album": {
-        "name": "SWEET AND SOUR",
-        "url": "https://open.spotify.com/album/27qRVeCalrcCi8BQHrSBLm"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "SWEET AND SOUR",
-      "url": "https://open.spotify.com/track/7as2oLEK0etzCt2d3hXpUD"
     },
     {
       "added_at": "2026-10-13 17:48:19",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/1DS0uFeCXZEauZkNdYtm8o"
-      },
-      "artists": [
-        {
-          "name": "yonige",
-          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "Tough Love",
-      "url": "https://open.spotify.com/track/6y64BIoQhoo7DaybxPKxir"
-    },
-    {
-      "added_at": "2026-10-13 17:48:19",
-      "album": {
         "name": "\u65e5\u3005\u3092\u8d8a\u3048\u3066",
         "url": "https://open.spotify.com/album/6YunKgXt4IwUKvHg4NXeHl"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
-        "name": "INSIDE",
-        "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/1DS0uFeCXZEauZkNdYtm8o"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
         }
       ],
-      "duration_ms": 221259,
-      "name": "INSIDE",
-      "url": "https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ"
+      "duration_ms": 214026,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/6y64BIoQhoo7DaybxPKxir"
     },
     {
       "added_at": "2026-10-13 17:48:19",
@@ -1035,6 +1019,22 @@
       "duration_ms": 192093,
       "name": "\u30d7\u30e9\u30a4\u30c9\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3UI7lgO6ywk5dNoZjzUmoW"
+    },
+    {
+      "added_at": "2026-10-13 17:48:19",
+      "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 221259,
+      "name": "INSIDE",
+      "url": "https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ"
     },
     {
       "added_at": "2026-10-13 17:48:19",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
+        "name": "bedroom swimmer",
+        "url": "https://open.spotify.com/album/0yQ09ukQs4IfWOS7KXJfmv"
+      },
+      "artists": [
+        {
+          "name": "Oisicle Melonpan",
+          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "bedroom swimmer",
+      "url": "https://open.spotify.com/track/1e4l2YCcVchF2kuxtnNjUR"
+    },
+    {
+      "added_at": "2026-10-13 17:48:19",
+      "album": {
         "name": "\u8461\u8404",
         "url": "https://open.spotify.com/album/1oizGUJOT1aGCuHRkTHr3A"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
-        "name": "bedroom swimmer",
-        "url": "https://open.spotify.com/album/0yQ09ukQs4IfWOS7KXJfmv"
+        "name": "\u30c7\u30d6\u30ea",
+        "url": "https://open.spotify.com/album/0UO3XSHQBHtPFmx5z7oFvx"
       },
       "artists": [
         {
-          "name": "Oisicle Melonpan",
-          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
         }
       ],
-      "duration_ms": 220933,
-      "name": "bedroom swimmer",
-      "url": "https://open.spotify.com/track/1e4l2YCcVchF2kuxtnNjUR"
+      "duration_ms": 218773,
+      "name": "\u30c7\u30d6\u30ea",
+      "url": "https://open.spotify.com/track/6rao4FXWyCqdQOwj3L4UpZ"
     },
     {
       "added_at": "2026-10-13 17:48:19",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
-        "name": "\u30c7\u30d6\u30ea",
-        "url": "https://open.spotify.com/album/0UO3XSHQBHtPFmx5z7oFvx"
-      },
-      "artists": [
-        {
-          "name": "35.7",
-          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "\u30c7\u30d6\u30ea",
-      "url": "https://open.spotify.com/track/6rao4FXWyCqdQOwj3L4UpZ"
-    },
-    {
-      "added_at": "2026-10-13 17:48:19",
-      "album": {
         "name": "\u3044\u304d\u306c\u304f",
         "url": "https://open.spotify.com/album/4bSIbCHmWH2WMPFquDI9Ov"
       },
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
+        "name": "\u30b9\u30ab\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/1Q5FyWZa1KXdx2gh6Hp43X"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 192598,
+      "name": "\u30b9\u30ab\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/3Jpu2Q2R3yDTfxIx9017AA"
+    },
+    {
+      "added_at": "2026-10-13 17:48:19",
+      "album": {
         "name": "\u79d8\u5bc6",
         "url": "https://open.spotify.com/album/3jklHQvT6Slr2Sjh0MJUjU"
       },
@@ -1467,6 +1483,22 @@
       "duration_ms": 252275,
       "name": "\u79d8\u5bc6",
       "url": "https://open.spotify.com/track/14OFR9Rnfg3KTi4n9jZ0HH"
+    },
+    {
+      "added_at": "2026-10-13 17:48:19",
+      "album": {
+        "name": "PEACH BLACK",
+        "url": "https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s"
+      },
+      "artists": [
+        {
+          "name": "SWALLOW",
+          "url": "https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs"
+        }
+      ],
+      "duration_ms": 242519,
+      "name": "PEACH BLACK",
+      "url": "https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf"
     },
     {
       "added_at": "2026-10-13 17:48:19",
@@ -1499,38 +1531,6 @@
       "duration_ms": 204951,
       "name": "\u30a4\u30f3\u30d8\u30ea\u30c3\u30c8",
       "url": "https://open.spotify.com/track/63xiyY5OvnB3eCxkkNKb5n"
-    },
-    {
-      "added_at": "2026-10-13 17:48:19",
-      "album": {
-        "name": "PEACH BLACK",
-        "url": "https://open.spotify.com/album/1yAzFM7fpUV6DgKvWsTn4s"
-      },
-      "artists": [
-        {
-          "name": "SWALLOW",
-          "url": "https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs"
-        }
-      ],
-      "duration_ms": 242519,
-      "name": "PEACH BLACK",
-      "url": "https://open.spotify.com/track/1FOf4EDHkeoAIARofhhjYf"
-    },
-    {
-      "added_at": "2026-10-13 17:48:19",
-      "album": {
-        "name": "\u30b9\u30ab\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/1Q5FyWZa1KXdx2gh6Hp43X"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        }
-      ],
-      "duration_ms": 192598,
-      "name": "\u30b9\u30ab\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/3Jpu2Q2R3yDTfxIx9017AA"
     },
     {
       "added_at": "2026-10-13 17:48:19",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-10-13 17:48:19",
       "album": {
-        "name": "\u7e01\u306e\u3064\u304d",
-        "url": "https://open.spotify.com/album/4lsW9YJ71AIEXx1FWL7nXZ"
+        "name": "sagittarius",
+        "url": "https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h"
       },
       "artists": [
         {
-          "name": "KI_EN",
-          "url": "https://open.spotify.com/artist/61fVCsjkagnYxQi1aWxDf5"
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
         }
       ],
-      "duration_ms": 216724,
-      "name": "\u7e01\u306e\u3064\u304d",
-      "url": "https://open.spotify.com/track/4HKI2WOBDlU57LU3oJzkBl"
+      "duration_ms": 270893,
+      "name": "sagittarius",
+      "url": "https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

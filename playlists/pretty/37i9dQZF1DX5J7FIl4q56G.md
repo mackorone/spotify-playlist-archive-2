@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Eivør
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,242 likes - 200 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,410 likes - 200 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

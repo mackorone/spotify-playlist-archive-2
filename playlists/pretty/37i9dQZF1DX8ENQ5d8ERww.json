@@ -1,6 +1,6 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13814,
+  "num_followers": 13818,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Halbin\u00fcni Chlorzicht",
+        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
+      },
+      "artists": [
+        {
+          "name": "Primitive Lyrics",
+          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Schtei",
+      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Jede Tag'n Gleiser",
         "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 273266,
       "name": "Bruch e Waag",
       "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Halbin\u00fcni Chlorzicht",
-        "url": "https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ"
-      },
-      "artists": [
-        {
-          "name": "Primitive Lyrics",
-          "url": "https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Schtei",
-      "url": "https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw"
     },
     {
       "added_at": "2026-10-08 22:00:12",

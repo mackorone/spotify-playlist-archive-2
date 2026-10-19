@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 436275,
+  "num_followers": 436189,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9cCiz/Hj4yAKT3yKyyEbSLjn1y",
+  "snapshot_id": "AAAAAO4MpODOX2vnr8Gueh55htPnDHeO",
   "tracks": [
     {
       "added_at": "2026-10-10 02:08:42",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2026-10-10 02:08:42",
       "album": {
-        "name": "Gringa Repartera",
-        "url": "https://open.spotify.com/album/32PMfaSuQA6iMKmHWxlQEv"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 192903,
-      "name": "Gringa Repartera",
-      "url": "https://open.spotify.com/track/6gwqBHNEJn2XYcDjAwCvsX"
-    },
-    {
-      "added_at": "2026-10-10 02:08:42",
-      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -1267,6 +1243,26 @@
     {
       "added_at": "2026-10-10 02:08:42",
       "album": {
+        "name": "Que Me Quiera M\u00e1",
+        "url": "https://open.spotify.com/album/1OKm4LefVn9e6tomBI4FxM"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "Que Me Quiera M\u00e1",
+      "url": "https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe"
+    },
+    {
+      "added_at": "2026-10-10 02:08:42",
+      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -1287,22 +1283,26 @@
     {
       "added_at": "2026-10-10 02:08:42",
       "album": {
-        "name": "Que Me Quiera M\u00e1",
-        "url": "https://open.spotify.com/album/1OKm4LefVn9e6tomBI4FxM"
+        "name": "Gringa Repartera",
+        "url": "https://open.spotify.com/album/32PMfaSuQA6iMKmHWxlQEv"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
         },
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 171038,
-      "name": "Que Me Quiera M\u00e1",
-      "url": "https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe"
+      "duration_ms": 192903,
+      "name": "Gringa Repartera",
+      "url": "https://open.spotify.com/track/6gwqBHNEJn2XYcDjAwCvsX"
     },
     {
       "added_at": "2026-10-10 02:08:42",

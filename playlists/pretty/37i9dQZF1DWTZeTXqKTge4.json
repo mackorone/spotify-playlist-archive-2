@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Franz Keloh",
-  "num_followers": 89601,
+  "num_followers": 89600,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
         "name": "Berger",
         "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 144000,
       "name": "A La Base",
       "url": "https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -807,22 +807,22 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "PIKET",
-        "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
+        "name": "OT",
+        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
       },
       "artists": [
         {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
         },
         {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
         }
       ],
-      "duration_ms": 207915,
-      "name": "PIKET",
-      "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
+      "duration_ms": 188000,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -851,22 +851,22 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "OT",
-        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
+        "name": "PIKET",
+        "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
       },
       "artists": [
         {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
         },
         {
-          "name": "Trappo officiel",
-          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
         }
       ],
-      "duration_ms": 188000,
-      "name": "OT",
-      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
+      "duration_ms": 207915,
+      "name": "PIKET",
+      "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
     },
     {
       "added_at": "2026-10-16 04:03:02",

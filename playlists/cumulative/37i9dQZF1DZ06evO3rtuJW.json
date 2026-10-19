@@ -2005,6 +2005,28 @@
     },
     {
       "album": {
+        "name": "I Quit Rap",
+        "url": "https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130632,
+      "name": "I Am Who I Am (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6P09dkOxVOMIrvnNBpmHho"
+    },
+    {
+      "album": {
         "name": "I Remember/Dear Zavier (feat. G Herbo)",
         "url": "https://open.spotify.com/album/6Oiqx3WAy5uNdnPF0NAtkg"
       },
@@ -4816,7 +4838,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 214790,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/3WJqVMDoqLuAp7Km48hjdI"

@@ -4,7 +4,7 @@
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-276 songs - 8 hr 50 min
+277 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [free falling](https://open.spotify.com/track/6P0fdIOhMJdrkzaqrCgMpE) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [free falling](https://open.spotify.com/album/2466ogzhqDOXmr0T4J3l7g) | 1:31 | 2023-12-05 |  |
 | [free falling \(remake\)](https://open.spotify.com/track/1GEi7uf5PNkzCb0cgS98Go) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [free falling \(remake\)](https://open.spotify.com/album/3fCR4KJAsyQQGLgwLHlGpk) | 1:31 | 2023-12-05 |  |
 | [free falling \- Instrumental](https://open.spotify.com/track/1nWMzYhTLrEGUKhzMwqJZV) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [free falling](https://open.spotify.com/album/2466ogzhqDOXmr0T4J3l7g) | 1:27 | 2023-12-05 |  |
+| [FREEMYSOUL](https://open.spotify.com/track/4H7n1ZRInTptvHZ5Qpl0RP) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [FREEMYSOUL](https://open.spotify.com/album/5RrHs976XuFkbzJBzR2DKA) | 1:36 | 2026-10-18 |  |
 | [freeze up](https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [freeze up](https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN) | 1:57 | 2023-12-05 |  |
 | [freeze up \- Instrumental](https://open.spotify.com/track/1HnKXz07mRAtnzLMYAkDEd) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [freeze up](https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN) | 1:48 | 2023-12-05 |  |
 | [fresh carcasses.](https://open.spotify.com/track/7gRlBmCxBdIpn14Y9aqq3I) | [heykalil](https://open.spotify.com/artist/3JFj1ZTOTyjXo17ajYfYiZ), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [fresh carcasses.](https://open.spotify.com/album/2m8hrKWHyfaqrybfcAmEEH) | 3:16 | 2026-01-13 |  |

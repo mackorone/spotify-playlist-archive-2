@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-186 songs - 10 hr 58 min
+187 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Keep Moving](https://open.spotify.com/track/0KneIjtUUQDHihRadOGnVZ) | [Dimitri K.](https://open.spotify.com/artist/0bKluPyYZqgAUhDC8hChjP) | [Keep Moving](https://open.spotify.com/album/0KsDGmoBbob19SuoNq1nU2) | 3:48 | 2025-11-11 |  |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2024-11-01 | 2025-12-06 |
 | [Kusulu](https://open.spotify.com/track/614TnXpkPYMFplzjNQoUge) | [Jim Sande](https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C) | [Kusulu](https://open.spotify.com/album/4E7SZzmWndmXNwLBVrega3) | 3:34 | 2025-06-01 | 2026-09-03 |
+| [La voix des incendies](https://open.spotify.com/track/3amWDAyIhzqFdmutY48F2b) | [La Nuit Américaine](https://open.spotify.com/artist/5WJizH3K1fRjTS2dYtpVCf) | [La voix des incendies](https://open.spotify.com/album/4C0aMabeQ9lvB9EEQvWT4I) | 3:53 | 2026-10-18 |  |
 | [Last Embrace \- 2024 Poem and Music Remastered Version](https://open.spotify.com/track/20W0YWovWCWGk3rbk1VhKb) | [ZODALITT](https://open.spotify.com/artist/5clLZJrKaZCHysDIHRstV9), [Andersson Arte](https://open.spotify.com/artist/0xvoeRuAXfsIIvstZZ6ra4) | [Last Embrace \(2024 Poem and Music Remastered Version\)](https://open.spotify.com/album/6N3fEwjmkv4SGmfJJ9m6ag) | 1:57 | 2024-05-19 |  |
 | [Lazy Walk](https://open.spotify.com/track/7vUe8kn8KYiFrQi3z8EN7W) | [JONGRA](https://open.spotify.com/artist/0751WlaYMHElFPfbzmlCZK), [Jonas Granly](https://open.spotify.com/artist/6LTCXrlxBVvPrQrwPzz9FU) | [Classic Guitar For Kids, Vol\. 2 \(Radio Edit\)](https://open.spotify.com/album/6j9R5kQRUSD76rZlqnimry) | 1:07 | 2026-06-15 |  |
 | [Le Ombre Della Notte](https://open.spotify.com/track/7ewBgQDZTMzYLICjSqkBI1) | [Ilario Schanzer](https://open.spotify.com/artist/551HaqOHmPu8wZ9e4vWljl) | [Le Ombre Della Notte](https://open.spotify.com/album/432h1Nl6GfSmkgBHktsEID) | 3:58 | 2025-04-20 |  |

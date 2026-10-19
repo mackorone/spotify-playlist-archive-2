@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari con Caloncho y Jaze.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,358,511 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,376 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 72 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 73 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 |
 | 74 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
-| 75 | [LOCO PERDIDO](https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [LOCO PERDIDO](https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn) | 3:14 |
-| 76 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 |
-| 77 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
+| 75 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 |
+| 76 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
+| 77 | [LOCO PERDIDO](https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [LOCO PERDIDO](https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn) | 3:14 |
 | 78 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
 | 79 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
 | 80 | [Despegamos](https://open.spotify.com/track/7jM7bIVRbiRRXY2QhkndK9) | [NOITE](https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP), [LEVU D FIERRO](https://open.spotify.com/artist/6bDcXuRcytzCey7li5WHeb), [LENNY FACE](https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8) | [Despegamos](https://open.spotify.com/album/1pCyxb0Apd2OnPknDc2KcM) | 2:53 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 96 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
 | 97 | [Fuego de San Telmo](https://open.spotify.com/track/7GsgZNzDsHL5Mh8AqRK8DN) | [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [Iter Animae: VII](https://open.spotify.com/album/7ChJwxAncQryV6d9v5c4LM) | 4:34 |
 | 98 | [Guayabito](https://open.spotify.com/track/2i6TKWD0YJUaGJATTNVm5a) | [Los Elefantes](https://open.spotify.com/artist/6tgzJFBvtuw7rITf072msd) | [La Chica de las Tetas Café](https://open.spotify.com/album/3neXRdu4XmYlE1TpnMHMR4) | 4:06 |
-| 99 | [CONECTA EL SOUND \#2](https://open.spotify.com/track/3BIu9U6Bz6wuVu6TrOuN9i) | [King Magneto](https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC), [Cookah P](https://open.spotify.com/artist/23d92HZZYDNJRlshjZIAt3), [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W), [Trincha](https://open.spotify.com/artist/2z344TE51akxGPgMt4Y0NU), [Skillz Beatz](https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM) | [CONECTA EL SOUND \#2](https://open.spotify.com/album/54RW72KgtFYWcdygC0pGuP) | 4:00 |
-| 100 | [Mucha Experiencia \- Su Reggaeton Mix](https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:15 |
+| 99 | [Mucha Experiencia \- Su Reggaeton Mix](https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:15 |
+| 100 | [CONECTA EL SOUND \#2](https://open.spotify.com/track/3BIu9U6Bz6wuVu6TrOuN9i) | [King Magneto](https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC), [Cookah P](https://open.spotify.com/artist/23d92HZZYDNJRlshjZIAt3), [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W), [Trincha](https://open.spotify.com/artist/2z344TE51akxGPgMt4Y0NU), [Skillz Beatz](https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM) | [CONECTA EL SOUND \#2](https://open.spotify.com/album/54RW72KgtFYWcdygC0pGuP) | 4:00 |
 
 Snapshot ID: `AAAAAPDpo/50XV63HhiCPTgoeKqCreZX`

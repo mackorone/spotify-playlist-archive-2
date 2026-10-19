@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akshath, Osho Jain, Aanchal Tyagi and other exciting artists.
 
-1,635 songs - 3 day 18 hr 5 min
+1,636 songs - 3 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 | 2025-11-14 | 2026-01-24 |
 | [Avadhu Mera Mann Matwara](https://open.spotify.com/track/7gotKqm3LlGZ79VoVyzDsv) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Avadhu Mera Mann Matwara](https://open.spotify.com/album/227EEQ9GIH8BrmTuf4HDMl) | 4:52 | 2023-12-15 | 2024-02-03 |
 | [Awaaz De](https://open.spotify.com/track/7IoHsgosn84V7GSHUh4esd) | [Chayan](https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U) | [Layla](https://open.spotify.com/album/5xQugUos41LTOBMLLno8e2) | 3:47 | 2026-03-06 | 2026-06-12 |
-| [Awaaz Hai](https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Awaaz Hai](https://open.spotify.com/album/4Wts4h7CDUEfXv36DrrVfY) | 2:48 | 2026-09-11 |  |
+| [Awaaz Hai](https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Awaaz Hai](https://open.spotify.com/album/4Wts4h7CDUEfXv36DrrVfY) | 2:48 | 2026-09-11 | 2026-10-19 |
 | [Awara](https://open.spotify.com/track/7bTwiyIvTfHVcK7K8IwobP) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Awara](https://open.spotify.com/album/1U0TEHs3g5krkngr6ZA8xW) | 3:01 | 2023-11-17 | 2023-12-09 |
 | [Azaad](https://open.spotify.com/track/5BjV0cBPXAJJEAAW4JNb6r) | [Prabhash Joshi](https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0), [Zenxae](https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP) | [Azaad](https://open.spotify.com/album/2gmUnXKrtzsaFQaaQAacHb) | 3:51 | 2023-08-18 | 2023-09-16 |
 | [Azaad](https://open.spotify.com/track/4oX4eA8ThoYJpKjpbZBNRn) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Azaad](https://open.spotify.com/album/6SJRwxlxxhUlEoz9IuJIuM) | 3:54 | 2024-09-20 | 2024-11-09 |
@@ -1565,6 +1565,7 @@
 | [Uljhan](https://open.spotify.com/track/6iHFYrR8IKRMfjXYJCNjA1) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Uljhan](https://open.spotify.com/album/1N6znw1ODAjLIanv1DYYBh) | 2:49 | 2024-05-23 | 2024-06-22 |
 | [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 | 2023-04-14 | 2023-06-09 |
 | [Under The Sheets](https://open.spotify.com/track/3JIdAllIMfaBqHfXjpw9fN) | [Aamir Rizvi](https://open.spotify.com/artist/0x25jhlNyAEkoq6ofG9Mud) | [Under The Sheets](https://open.spotify.com/album/5FYsBgSEK86pAKmjsoqlJW) | 5:23 | 2023-12-08 | 2024-01-06 |
+| [Unke Dil Ke](https://open.spotify.com/track/4wCx07hTmFlWMFkbf4U8Y3) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Shahab Hussain](https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv) | [Unke Dil Ke](https://open.spotify.com/album/7jjhPx2wtozD8rDtB0fwtT) | 5:20 | 2026-10-16 |  |
 | [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 | 2025-06-27 | 2025-10-03 |
 | [Until the Sun](https://open.spotify.com/track/6f8Oa07VVEiCuir7bIEtl7) | [Black Letters](https://open.spotify.com/artist/0glNGCIZztkKr1cmnsYdS6) | [Until the Sun](https://open.spotify.com/album/0ZFAqfOn9pmSorPseluRiS) | 4:52 | 2023-10-13 | 2023-11-11 |
 | [Uska Pata](https://open.spotify.com/track/7es4VRgmTZ8dmuiz1Mm5HO) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Gunjan Saini](https://open.spotify.com/artist/3xiTyshhk0sLV6FJLdzIAH) | [Uska Pata](https://open.spotify.com/album/3Vu6WqA0OSvD3FNe4qJZ4X) | 3:49 | 2025-02-14 | 2025-04-26 |

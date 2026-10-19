@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,864 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,896 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 20 | [Old Money](https://open.spotify.com/track/3PHOMMcNp29NtsLJzorVpD) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Manya Yadav](https://open.spotify.com/artist/3TugQ9wtCPiJaip0NFyobh) | [Old Money](https://open.spotify.com/album/50vJjo0y9W57YUcdv2PX3K) | 3:06 |
 | 21 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 |
 | 22 | [His Grace](https://open.spotify.com/track/332MWQx06lB5rX26awlEou) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [His Grace](https://open.spotify.com/album/7pEeKnBVNMSxL1L098K1VB) | 3:37 |
-| 23 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
+| 23 | [Pump Up](https://open.spotify.com/track/2ILq3zBBPP2qQThFNb7rHK) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Pump Up](https://open.spotify.com/album/6P5bsCxA5MPDzMNY88kpoR) | 2:23 |
 | 24 | [Kaun Marvana](https://open.spotify.com/track/4aFmzuZXXtCbwW7SfWXFFZ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Priyam](https://open.spotify.com/artist/6zHVlpak6U0fqQ5FjAeZN2), [Amar Karnawal](https://open.spotify.com/artist/6DAbqsPFnfdjW7qUtVW7wS) | [Kaun Marvana](https://open.spotify.com/album/7JfXrTOs73RMeR0FdmBwI0) | 2:59 |
-| 25 | [Pump Up](https://open.spotify.com/track/2ILq3zBBPP2qQThFNb7rHK) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Pump Up](https://open.spotify.com/album/6P5bsCxA5MPDzMNY88kpoR) | 2:23 |
+| 25 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
 | 26 | [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 |
 | 27 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 |
 | 28 | [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 46 | [Grinder](https://open.spotify.com/track/5nHkaD0zCfSLa0B0Q4Jvfj) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Yachi Dhounchak](https://open.spotify.com/artist/5pUmnQvCEu3sTcSZWH5USc), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [Grinder](https://open.spotify.com/album/4gzdUaPtrbO0bp6Rzm3qpS) | 2:37 |
 | 47 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
 | 48 | [2 Rani](https://open.spotify.com/track/0AKpjnVt2TAVuR8OO5FJCV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [2 Rani](https://open.spotify.com/album/6tIzcQJVZUvgW97tss0LzY) | 2:36 |
-| 49 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
-| 50 | [Gang Class](https://open.spotify.com/track/1kUlCpqQ0oElAHdqTq9oRy) | [PANJETA](https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR), [Nonu Rana](https://open.spotify.com/artist/5isqrCxXiPdl4FT4NfXZhQ) | [Gang Class](https://open.spotify.com/album/05acw0SlIBMgeepm1Kk9uf) | 2:52 |
+| 49 | [Negative Kirdar](https://open.spotify.com/track/0WIOdDPuuOvEPrQ0loUUEN) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Negative Kirdar](https://open.spotify.com/album/1eHRry5jnz4UYymadaCMsm) | 2:44 |
+| 50 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 
-Snapshot ID: `AAAAAJg0Q4Gucr7eUp0a5bxjjcTLPwli`
+Snapshot ID: `AAAAANIg4H1AM62IkXQYMGwGx4/27pf9`

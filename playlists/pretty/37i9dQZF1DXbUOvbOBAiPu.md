@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lost Frequencies, L2B, Adèle Castillon, Bryan Mg and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,431 likes - 121 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,420 likes - 121 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

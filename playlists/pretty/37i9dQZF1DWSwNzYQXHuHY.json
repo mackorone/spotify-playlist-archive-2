@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12973,
+  "num_followers": 12976,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "STAYC Special Single [I WANT IT]",
-        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 181972,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
         "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 173124,
       "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 181972,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "hamster wheel",
-        "url": "https://open.spotify.com/album/6eDBJswzAS09PHpKovcLGJ"
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
       },
       "artists": [
         {
-          "name": "Kimmuse",
-          "url": "https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN"
+          "name": "Wine Loop",
+          "url": "https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj"
         }
       ],
-      "duration_ms": 169325,
-      "name": "hamster wheel",
-      "url": "https://open.spotify.com/track/0YAGYWY8I7Fa5P4ezujroO"
+      "duration_ms": 202546,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
     }
   ],
   "unique_name": "\uc378 !",

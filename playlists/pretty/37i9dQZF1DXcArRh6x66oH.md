@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Flatland Cavalry
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,713 likes - 203 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,740 likes - 203 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Get ready for a full-body workout",
-  "num_followers": 93518,
+  "num_followers": 93524,
   "original_name": "Workout Bhangra",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-10-16 06:54:03",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
-      },
-      "artists": [
-        {
-          "name": "Riar Saab",
-          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
-        },
-        {
-          "name": "Abhijay Sharma",
-          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
-        }
-      ],
-      "duration_ms": 190444,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
-    },
-    {
-      "added_at": "2026-10-16 06:54:03",
-      "album": {
         "name": "Illegal Weapon",
         "url": "https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 230000,
       "name": "Illegal Weapon",
       "url": "https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA"
+    },
+    {
+      "added_at": "2026-10-16 06:54:03",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
+      },
+      "artists": [
+        {
+          "name": "Riar Saab",
+          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
+        },
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "duration_ms": 190444,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
     },
     {
       "added_at": "2026-10-16 06:54:03",

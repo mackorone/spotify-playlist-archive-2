@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 2,013 likes - 331 songs - 17 hr 49 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 2,016 likes - 333 songs - 17 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -339,5 +339,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 329 | [Call That A Comeback](https://open.spotify.com/track/2h2rlUGYS0tkxJL0wtE8Y5) | [TwoMinutesHate](https://open.spotify.com/artist/2RBtMV4JIoR6r9TvNijQQV) | [Call That A Comeback](https://open.spotify.com/album/2jpWQaEthfyYL24MZ8X75w) | 3:23 |
 | 330 | [Sky Mall](https://open.spotify.com/track/3XSufeGtdRM5jKLzewQyVu) | [Ketchup Water](https://open.spotify.com/artist/2BK1Fp2sL4QT8beoLjoPCK) | [Sky Mall](https://open.spotify.com/album/3lTHIZ16o1flSbjxYfuCxl) | 3:17 |
 | 331 | [no longer human](https://open.spotify.com/track/626HwGF7ksc1si7oOaluB1) | [carkeys](https://open.spotify.com/artist/78x0HuFw7jODJaoZussz4y) | [no longer human](https://open.spotify.com/album/1IJOMXJZJZZG83lVuu81Lz) | 2:48 |
+| 332 | [Tomorrow Is Here](https://open.spotify.com/track/5VMUskyWeRjMUnyHnpxNw2) | [Hardar](https://open.spotify.com/artist/4KOKGSVXWgWRBPv0Zqh2Pm) | [Tomorrow Is Here](https://open.spotify.com/album/798T6z0oVDanXisQOWGKcy) | 3:21 |
+| 333 | [The Best of Me](https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ) | [Carve A Path](https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq) | [The Best of Me](https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD) | 2:34 |
 
-Snapshot ID: `AAAhzVHU96DZyJrRrLNk03zz6beMdBvK`
+Snapshot ID: `AAAhz8ENOPZAr3aqV3U//OMsr+kh9tFX`

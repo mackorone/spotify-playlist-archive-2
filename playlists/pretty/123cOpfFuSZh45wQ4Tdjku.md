@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,292 likes - 557 songs - 1 day 3 hr 16 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,292 likes - 567 songs - 1 day 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -565,5 +565,15 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 555 | [False Idol](https://open.spotify.com/track/1X1AU4LZYuQAZ0EcE8R0Tg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [False Idol](https://open.spotify.com/album/3CDGLKH9aLf2fq5Fjyskje) | 4:34 |
 | 556 | [Fratricide](https://open.spotify.com/track/2iCtxcc8oO8GXAsEVMhjMR) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/7D2TmpVvx8dinVH8T4ivef) | 3:40 |
 | 557 | [Bohemian Rhapsody](https://open.spotify.com/track/6EtvCdpRuCYwK4wZfbf1Mt) | [Suriw](https://open.spotify.com/artist/3xDSGMxOFqMg9NeR3Pt5V5), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [Bohemian Rhapsody](https://open.spotify.com/album/18DzeRFxomHTMcPOlIPXom) | 5:49 |
+| 558 | [I Got No Time](https://open.spotify.com/track/6HYKgl1NaCgJkm24EeaeKs) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [I Got No Time](https://open.spotify.com/album/1rMF8jnaNbaL4OGVBzg1kF) | 2:46 |
+| 559 | [The Bonnie Song](https://open.spotify.com/track/6qUBnm38dI8yYuCKyLN04W) | [Groundbreaking](https://open.spotify.com/artist/4s0H5EBBiQRBiuGCgN6svC) | [Nightmares](https://open.spotify.com/album/7jdPFgXuKTjnI3zSzNS7Wg) | 4:36 |
+| 560 | [Stay Calm \(feat\. Jeff Burgess\)](https://open.spotify.com/track/1uEirYIgTtCnojbufoer37) | [Griffinilla](https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu), [Jeff Burgess](https://open.spotify.com/artist/1XXSgks7W3pnb8CxGUS51v) | [Stay Calm \(feat\. Jeff Burgess\)](https://open.spotify.com/album/6fnqa31bmeRYL7AzOnpXob) | 3:01 |
+| 561 | [Stuck Inside](https://open.spotify.com/track/725gkdHSkTogsY5xyRWUHJ) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Kevin Foster](https://open.spotify.com/artist/0Usv4CdfAGbF2C6bMIU0NL) | [Stuck Inside](https://open.spotify.com/album/3Xlq7U9VNHR8AuDGQQHvLz) | 2:52 |
+| 562 | [Follow Me](https://open.spotify.com/track/1iT04vRu0K2Kme2iMqjEf0) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG) | [The Bite, Vol\. 2](https://open.spotify.com/album/0Fp63lUqkNvVwVyKAB0ujt) | 3:24 |
+| 563 | [Five Long Nights \(Remastered\)](https://open.spotify.com/track/3uiBgOtgEQfPtelhSEampH) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [Five Long Nights \(Remastered\)](https://open.spotify.com/album/52cRpmmVmdvnJWtEgx9EoJ) | 3:09 |
+| 564 | [Join Us for a Bite \- Remastered](https://open.spotify.com/track/1ZihB5lgvfs5k3jON9wb3s) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [Join Us for a Bite \(Remastered\)](https://open.spotify.com/album/4FAgrK2IJd0ArmoQFwKFBM) | 4:09 |
+| 565 | [Die In a Fire \(feat\. EileMonty & Orko\)](https://open.spotify.com/track/1SXuOan5v9G1mM7X0ieXrM) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Eile Monty](https://open.spotify.com/artist/57QIoalYNjG2FjtUfxUNPW), [Orko](https://open.spotify.com/artist/2kRavccHfl8m4XE28aCHf6) | [Die In A Fire](https://open.spotify.com/album/6WSiuu95XuXlVryhuDy4Ub) | 3:05 |
+| 566 | [7teen](https://open.spotify.com/track/1jfjlQPrVQhNEFXlQLelLE) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [NO NICE THINGS](https://open.spotify.com/album/4Ke9hTIEJjucuy4kaWy3P1) | 2:59 |
+| 567 | [SPOTS](https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS](https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo) | 2:26 |
 
-Snapshot ID: `AAACEzUNvVYDaPdituAUeL1ZgI0ZyrAb`
+Snapshot ID: `AAACHWhCNmbpiFYISi1wKr/L9lpQNA4X`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 559443,
+  "num_followers": 559558,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atAXgAAAAAA8T0KMVJQl5t+ehQpOWXCj",
+  "snapshot_id": "atK6gAAAAADHbh1j6gH/+9bIMPy5XMdK",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Se\u00f1ora (En Vivo)",
-        "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "\u00c9l - Banda",
-      "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 223813,
       "name": "Resulta - Banda",
       "url": "https://open.spotify.com/track/4sT4lDZR7uwgYxEmiqZvEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gran Se\u00f1ora (En Vivo)",
+        "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "\u00c9l - Banda",
+      "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 265840,
       "name": "Como Tu Mujer - Banda",
       "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "A Cambio de Qu\u00e9 - Banda",
-      "url": "https://open.spotify.com/track/0KJukOSRpRffsmjG3KB9L7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 160880,
       "name": "Cuanto Te Debo",
       "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "A Cambio de Qu\u00e9 - Banda",
+      "url": "https://open.spotify.com/track/0KJukOSRpRffsmjG3KB9L7"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "A Que No Le Cuentas - Banda",
-      "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 218280,
       "name": "Ahora Que Estuviste Lejos",
       "url": "https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "A Que No Le Cuentas - Banda",
+      "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
-        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 211812,
-      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
-      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+      "duration_ms": 203619,
+      "name": "Paloma Negra - En Vivo",
+      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
+        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 203619,
-      "name": "Paloma Negra - En Vivo",
-      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
+      "duration_ms": 211812,
+      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
+      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
     },
     {
       "added_at": null,

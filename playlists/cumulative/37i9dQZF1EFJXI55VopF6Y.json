@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "When Saturn Returns",
+        "url": "https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167860,
+      "name": "Bittersweet Escape",
+      "url": "https://open.spotify.com/track/37HFzLXWBnlbbzXzTbUpnX"
+    },
+    {
+      "album": {
         "name": "Bittersweet Escape",
         "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
       },
@@ -150,7 +168,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 167860,
       "name": "Bittersweet Escape",
       "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
@@ -966,10 +984,28 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 148541,
       "name": "Rather You Leave",
       "url": "https://open.spotify.com/track/1kJlbNplwduN7UfsAf5jEU"
+    },
+    {
+      "album": {
+        "name": "When Saturn Returns",
+        "url": "https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148541,
+      "name": "Rather You Leave",
+      "url": "https://open.spotify.com/track/4R0m1C9B2MuYVmW0NXjqyY"
     },
     {
       "album": {
@@ -1418,10 +1454,28 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 149803,
       "name": "White",
       "url": "https://open.spotify.com/track/1kVBKVPXEJKNgnfvO52BKb"
+    },
+    {
+      "album": {
+        "name": "When Saturn Returns",
+        "url": "https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149803,
+      "name": "White",
+      "url": "https://open.spotify.com/track/7mbHgyl9tRvLJflza4adBa"
     },
     {
       "album": {

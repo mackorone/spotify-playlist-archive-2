@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,941 songs - 5 day 11 hr 39 min
+1,942 songs - 5 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Allt Stod Still \(Outro\)](https://open.spotify.com/track/0ltExShibkTvrUP0oxMREJ) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 1:50 | 2020-03-25 | 2020-07-03 |
 | [Ally of the Good](https://open.spotify.com/track/6lJUX58cCiVEw4T4H7jj3i) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Ally of the Good](https://open.spotify.com/album/2cXubQqUPpCIZKzhVgExfy) | 3:45 | 2022-12-28 | 2023-01-06 |
 | [Alléenoire \- Rauschhaus Remix](https://open.spotify.com/track/3FRXRr2NcDjsRgze79RjBg) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Alléenoire \(Rauschhaus Remix\)](https://open.spotify.com/album/1Kxd5SRSYiS7SJuYDpNa1w) | 7:01 | 2021-11-26 | 2022-04-21 |
-| [alone](https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [alone](https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL) | 4:25 | 2026-02-13 |  |
+| [alone](https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [alone](https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL) | 4:25 | 2026-02-13 | 2026-10-19 |
 | [Alone](https://open.spotify.com/track/71QzpNzL1Q6KPOV5ilyBVW) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Unity](https://open.spotify.com/album/0HrDrQPhOBR04RKmY7DCJj) | 5:33 | 2020-05-18 | 2020-10-09 |
 | [Alone](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh) | 2:57 | 2024-06-21 |  |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2022-10-28 | 2023-04-29 |
@@ -1813,6 +1813,7 @@
 | [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 | 2025-07-18 | 2025-10-26 |
 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 | 2022-04-29 | 2023-03-26 |
 | [vestal avenue](https://open.spotify.com/track/1HQYsqs4Ek4ng9hcDFUrLw) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 4:15 | 2020-03-23 | 2020-07-03 |
+| [Viento](https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [NAKED](https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5) | 3:05 | 2026-10-16 |  |
 | [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 | 2021-09-03 | 2022-07-28 |
 | [Villain](https://open.spotify.com/track/4rn8Q3lJZTZ28hgEjvXBu2) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 2:58 | 2020-05-18 | 2020-07-03 |
 | [Virgo](https://open.spotify.com/track/4lgEtC1W3xZSRFoJuPLmkk) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Virgo](https://open.spotify.com/album/77HGr6qInL6xKedUKCl57r) | 5:24 | 2021-07-30 | 2022-05-07 |

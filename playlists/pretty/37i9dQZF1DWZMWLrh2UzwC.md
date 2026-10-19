@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Mimifly, Sheila Majid, Ashe, Sarah Suhairi, Rex Orange County, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,194 likes - 109 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,179 likes - 109 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

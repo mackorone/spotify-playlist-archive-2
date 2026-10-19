@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Archie",
-  "num_followers": 56192,
+  "num_followers": 56195,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "Entre N\u00f3s",
-        "url": "https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 196310,
-      "name": "\u00daltimo beijo",
-      "url": "https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ"
-    },
-    {
-      "added_at": "2026-10-15 23:00:24",
-      "album": {
         "name": "XVIII",
         "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
       },
@@ -1119,22 +1103,6 @@
       "duration_ms": 181276,
       "name": "J\u00e1 N\u00e3o Aguento",
       "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
-    },
-    {
-      "added_at": "2026-10-15 23:00:24",
-      "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -1159,6 +1127,38 @@
       "duration_ms": 198409,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2026-10-15 23:00:24",
+      "album": {
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-10-15 23:00:24",
+      "album": {
+        "name": "Entre N\u00f3s",
+        "url": "https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 196310,
+      "name": "\u00daltimo beijo",
+      "url": "https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ"
     },
     {
       "added_at": "2026-10-15 23:00:24",
@@ -1387,18 +1387,22 @@
     {
       "added_at": "2026-10-15 23:00:24",
       "album": {
-        "name": "Pequenos Gigantes",
-        "url": "https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3"
+        "name": "Se Eu Fosse a Ti",
+        "url": "https://open.spotify.com/album/1NU178xk4sfnHGTw3rIZPf"
       },
       "artists": [
         {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Quem Tem O Teu <3",
-      "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
+      "duration_ms": 190597,
+      "name": "Se Eu Fosse a Ti",
+      "url": "https://open.spotify.com/track/7nOyzGWCyciv7BWBoVtzuQ"
     }
   ],
   "unique_name": "Seda",

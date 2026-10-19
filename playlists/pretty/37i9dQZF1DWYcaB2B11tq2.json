@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 524842,
+  "num_followers": 524891,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 302425,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 302425,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Inexplicable",
-        "url": "https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO"
-      },
-      "artists": [
-        {
-          "name": "Denicher Pol",
-          "url": "https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Inexplicable",
-      "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 252493,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Inexplicable",
+        "url": "https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO"
+      },
+      "artists": [
+        {
+          "name": "Denicher Pol",
+          "url": "https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Inexplicable",
+      "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Pistas",
+        "url": "https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 304706,
+      "name": "La Historia De Cristo",
+      "url": "https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Mi Libertador",
         "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 491232,
       "name": "Mi Libertador",
       "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Pistas",
-        "url": "https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 304706,
-      "name": "La Historia De Cristo",
-      "url": "https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Coleccion De Oro",
-        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Creyendo En Ti",
-      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Vivir",
         "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 285288,
       "name": "Yo Tengo un Nuevo Amor",
       "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Coleccion De Oro",
+        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Creyendo En Ti",
+      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Jhoni",
-        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Haremos",
-      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "SEU Worship HOLA",
         "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 369420,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Jhoni",
+        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Haremos",
+      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Cristonita Recharged",
-        "url": "https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ"
-      },
-      "artists": [
-        {
-          "name": "Sugar",
-          "url": "https://open.spotify.com/artist/5S8QuWeAKHpjDqUtht6tkD"
-        },
-        {
-          "name": "Josue el Escogido",
-          "url": "https://open.spotify.com/artist/1Wn7ONbHEVgHLcXaU9XzhZ"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Paciente Espero",
-      "url": "https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 230377,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Cristonita Recharged",
+        "url": "https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ"
+      },
+      "artists": [
+        {
+          "name": "Sugar",
+          "url": "https://open.spotify.com/artist/5S8QuWeAKHpjDqUtht6tkD"
+        },
+        {
+          "name": "Josue el Escogido",
+          "url": "https://open.spotify.com/artist/1Wn7ONbHEVgHLcXaU9XzhZ"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Paciente Espero",
+      "url": "https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Ganas de Vivir",
+        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Ganas de Vivir",
+      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Jes\u00fas en el Centro (En Vivo)",
         "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Me enamor\u00e9",
-        "url": "https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Gim\u00e9nez",
-          "url": "https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G"
-        }
-      ],
-      "duration_ms": 246015,
-      "name": "Me enamor\u00e9",
-      "url": "https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

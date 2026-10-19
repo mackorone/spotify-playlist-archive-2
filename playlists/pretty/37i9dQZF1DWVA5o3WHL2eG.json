@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51680,
+  "num_followers": 51667,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Modern Dreaming",
-        "url": "https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 173659,
-      "name": "Modern Dreaming",
-      "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "ich f\u00fchle was, was du nicht siehst",
         "url": "https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 177106,
       "name": "ich f\u00fchle was, was du nicht siehst",
       "url": "https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Modern Dreaming",
+        "url": "https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 173659,
+      "name": "Modern Dreaming",
+      "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Ich versteh es jetzt",
-        "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
-      },
-      "artists": [
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "Ich versteh es jetzt",
-      "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "Ich und Ich Selbst",
         "url": "https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "Ich versteh es jetzt",
+        "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Ich versteh es jetzt",
+      "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 182183,
       "name": "Colours",
       "url": "https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "bad taste",
-        "url": "https://open.spotify.com/album/0f31DxqbFb3KaZLvfOMK19"
-      },
-      "artists": [
-        {
-          "name": "Charlize",
-          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "bad taste",
-      "url": "https://open.spotify.com/track/4d2t86B0mgOwm2hUbnFFLF"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -503,6 +487,22 @@
       "duration_ms": 170704,
       "name": "AMG",
       "url": "https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "bad taste",
+        "url": "https://open.spotify.com/album/0f31DxqbFb3KaZLvfOMK19"
+      },
+      "artists": [
+        {
+          "name": "Charlize",
+          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "bad taste",
+      "url": "https://open.spotify.com/track/4d2t86B0mgOwm2hUbnFFLF"
     },
     {
       "added_at": "2026-10-07 22:00:17",

@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-244 songs - 21 hr 35 min
+245 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Aarvan](https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 | 2026-06-12 |  |
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/1LW6iw61YZVYHfZ7S3yRyF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist](https://open.spotify.com/album/3Hzm5TP92QvufU2sJqwiB8) | 1:42 | 2023-09-15 | 2024-04-19 |
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 | 2021-12-01 | 2025-01-01 |
-| [Dil Ke Behlane Ki](https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Dil Ke Behlane Ki](https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl) | 3:44 | 2025-07-24 |  |
+| [Dil Ke Behlane Ki](https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Dil Ke Behlane Ki](https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl) | 3:44 | 2025-07-24 | 2026-10-19 |
 | [Dil Ke Chhaale](https://open.spotify.com/track/4LZh8cudSVP5fYMxbA4XaJ) | [Kalpana Gandharva](https://open.spotify.com/artist/5UQgOU6dkEDeqPGoZWr1ax), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Priyankaa Bhattacharya](https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5) | [Dil Ke Chhaale](https://open.spotify.com/album/6QUvquefLiuLCW7qV3rlxC) | 4:32 | 2026-05-07 |  |
 | [Dil Ke Chhaale](https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Shahab Hussain](https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv) | [Dil Ke Chhaale](https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt) | 5:22 | 2026-04-10 |  |
 | [Dil Ko Kya Ho Gaya](https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf) | [Dil Ko Kya Ho Gaya](https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ) | 5:20 | 2026-05-04 |  |
@@ -163,6 +163,7 @@
 | [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 | 2024-02-29 |
 | [Meri Aankhon Mein](https://open.spotify.com/track/0r0xRQWURgruzTqF3yd6Mw) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sanjay Vidyarthi](https://open.spotify.com/artist/6tYoojxHYH95QPMINKJmkO) | [Meri Aankhon Mein](https://open.spotify.com/album/1VgsO8Cw4bNOt8dVT1oucS) | 4:50 | 2023-05-01 | 2023-10-11 |
 | [Meri Ajab Hai Zindagi](https://open.spotify.com/track/41ffCRz4qgkCidL08CBuPo) | [Kirti Anuraag](https://open.spotify.com/artist/3k76V6C9xfs43QCm8mqhOd), [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Rare Moments](https://open.spotify.com/album/4kTiRFjbJLrP4Py00IA10N) | 5:30 | 2021-12-01 |  |
+| [Meri Dastaan](https://open.spotify.com/track/7EBH6ViwQInK1dZDoLZnAA) | [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Meri Dastaan](https://open.spotify.com/album/0XkIRXfPgrWqtEQ3qH0owk) | 6:27 | 2026-10-16 |  |
 | [Mil Ke Bhi Na Mili Khushi](https://open.spotify.com/track/6wRThmYPMYMtmuCyncsRUJ) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Nayeem \- Shabir](https://open.spotify.com/artist/6RWQUPcHK4DiRidMeOoW3A) | [Mil Ke Bhi Na Mili Khushi](https://open.spotify.com/album/47elzd0gUBpWKopixNHzMy) | 4:58 | 2025-02-11 |  |
 | [Mohabbat Karne Wale](https://open.spotify.com/track/1hrOKfpOy15uIaP71XUfZp) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [The Definitive Collection, Vol\. 1](https://open.spotify.com/album/6rIuO7Gg2iynYy7urWgOhy) | 14:06 | 2024-12-31 | 2026-01-23 |
 | [Muddat Hui Hai](https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Muddat Hui Hai](https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd) | 6:56 | 2025-06-17 |  |

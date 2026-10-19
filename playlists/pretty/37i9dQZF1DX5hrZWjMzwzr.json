@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11631,
+  "num_followers": 11630,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -719,30 +719,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Brokeboy",
-        "url": "https://open.spotify.com/album/79M0EWo6Q5PH5SolSWOPcL"
-      },
-      "artists": [
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Tomb",
-          "url": "https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5"
-        }
-      ],
-      "duration_ms": 161167,
-      "name": "Brokeboy",
-      "url": "https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Ewa Farna",
         "url": "https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 136250,
       "name": "KTO MA STYL",
       "url": "https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Brokeboy",
+        "url": "https://open.spotify.com/album/79M0EWo6Q5PH5SolSWOPcL"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Tomb",
+          "url": "https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5"
+        }
+      ],
+      "duration_ms": 161167,
+      "name": "Brokeboy",
+      "url": "https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Samiec beta",
-        "url": "https://open.spotify.com/album/2vQvjQibvojh1TBx2VpU37"
-      },
-      "artists": [
-        {
-          "name": "Lordofon",
-          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
-        },
-        {
-          "name": "S\u0142o\u0144",
-          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
-        }
-      ],
-      "duration_ms": 144468,
-      "name": "Samiec beta",
-      "url": "https://open.spotify.com/track/063bdnZfIfQ9Kya60Fv8um"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "WDDC",
         "url": "https://open.spotify.com/album/1PNA8PRpyBJqyN5ERMTjOS"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 209269,
       "name": "WDDC",
       "url": "https://open.spotify.com/track/3qPWus96wAMhMVoGsxnFVQ"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Samiec beta",
+        "url": "https://open.spotify.com/album/2vQvjQibvojh1TBx2VpU37"
+      },
+      "artists": [
+        {
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        }
+      ],
+      "duration_ms": 144468,
+      "name": "Samiec beta",
+      "url": "https://open.spotify.com/track/063bdnZfIfQ9Kya60Fv8um"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BUKOWSKI",
+        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
+      },
+      "artists": [
+        {
+          "name": "Ten Typ Mes",
+          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "LOS NIE CHCIA\u0141 INACZEJ",
+      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Tenten",
         "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 219566,
       "name": "Tenten",
       "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BUKOWSKI",
-        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
-      },
-      "artists": [
-        {
-          "name": "Ten Typ Mes",
-          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "LOS NIE CHCIA\u0141 INACZEJ",
-      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
     },
     {
       "added_at": "2026-04-09 22:12:46",

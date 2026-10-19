@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 27099,
+  "num_followers": 27113,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -417,26 +417,6 @@
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
-      "added_at": "2026-09-11 00:01:55",
-      "album": {
-        "name": "Super Power II Pack",
-        "url": "https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Super Power II",
-      "url": "https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf"
-    },
-    {
       "added_at": "2026-07-31 00:01:31",
       "album": {
         "name": "This Joy",
@@ -455,6 +435,26 @@
       "duration_ms": 243692,
       "name": "This Joy",
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
+    },
+    {
+      "added_at": "2026-09-11 00:01:55",
+      "album": {
+        "name": "Super Power II Pack",
+        "url": "https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Super Power II",
+      "url": "https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf"
     },
     {
       "added_at": "2026-07-10 00:01:16",
@@ -529,26 +529,6 @@
       "url": "https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT"
     },
     {
-      "added_at": "2026-03-27 00:01:12",
-      "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
-      },
-      "artists": [
-        {
-          "name": "Del B",
-          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
-        },
-        {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "After The Storm",
-      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
-    },
-    {
       "added_at": "2026-09-25 00:01:16",
       "album": {
         "name": "Ayaya",
@@ -571,6 +551,26 @@
       "duration_ms": 224897,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/1L1TEAUIblOiW7MSkjZQFO"
+    },
+    {
+      "added_at": "2026-03-27 00:01:12",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
+      },
+      "artists": [
+        {
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        },
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
     },
     {
       "added_at": "2026-08-28 00:01:39",
@@ -671,6 +671,42 @@
       "duration_ms": 557226,
       "name": "You Are Worthy - Live",
       "url": "https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/22nxwgJfy97fB41z7aPGfJ"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "SpotLite Nation",
+          "url": "https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "KHAEL",
+          "url": "https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 201766,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/636n7tssrg6jMzQa5NPijv"
     },
     {
       "added_at": "2026-09-25 00:01:16",
@@ -805,42 +841,6 @@
       "url": "https://open.spotify.com/track/08tt8cd8Eu0kIM4ErA3f4g"
     },
     {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/22nxwgJfy97fB41z7aPGfJ"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "SpotLite Nation",
-          "url": "https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        },
-        {
-          "name": "KHAEL",
-          "url": "https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 201766,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/636n7tssrg6jMzQa5NPijv"
-    },
-    {
       "added_at": "2026-09-11 00:01:55",
       "album": {
         "name": "Gata 2 (Gospel According to Amapiano)",
@@ -913,34 +913,6 @@
       "url": "https://open.spotify.com/track/1IaZ1BzX2m5fV7zly8KUSP"
     },
     {
-      "added_at": "2026-09-04 00:01:11",
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/5tY2QqsPOCqlN6uhBhPqWJ"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "C-Mart",
-          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
-        },
-        {
-          "name": "Baray",
-          "url": "https://open.spotify.com/artist/7t3BQ6Vgg0GvX0ZlpjTV3N"
-        },
-        {
-          "name": "Eddiekeyz",
-          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/3e9DW3f8CszsEt37W8sEgs"
-    },
-    {
       "added_at": "2026-10-02 00:01:22",
       "album": {
         "name": "Thank You",
@@ -971,6 +943,34 @@
       "duration_ms": 781090,
       "name": "Ka Anyi Kelee Aha Ya",
       "url": "https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb"
+    },
+    {
+      "added_at": "2026-09-04 00:01:11",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/5tY2QqsPOCqlN6uhBhPqWJ"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        },
+        {
+          "name": "Baray",
+          "url": "https://open.spotify.com/artist/7t3BQ6Vgg0GvX0ZlpjTV3N"
+        },
+        {
+          "name": "Eddiekeyz",
+          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/3e9DW3f8CszsEt37W8sEgs"
     },
     {
       "added_at": "2026-08-21 00:01:32",
@@ -1009,6 +1009,42 @@
       "url": "https://open.spotify.com/track/5uQNE90hF0UQOgHYymagon"
     },
     {
+      "added_at": "2026-04-17 00:01:38",
+      "album": {
+        "name": "My Praise (Live Recording)",
+        "url": "https://open.spotify.com/album/3tMwkJ4APzjfk7qziJUxYY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Muyiwa Riversongz",
+          "url": "https://open.spotify.com/artist/5ZNX2ftHqEekKBVpRfv5BX"
+        }
+      ],
+      "duration_ms": 628504,
+      "name": "My Praise - Live Recording",
+      "url": "https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1"
+    },
+    {
+      "added_at": "2026-05-22 00:01:31",
+      "album": {
+        "name": "BASKET OF PRAISE 3.0",
+        "url": "https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT"
+      },
+      "artists": [
+        {
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+        }
+      ],
+      "duration_ms": 1615365,
+      "name": "BASKET OF PRAISE 3.0",
+      "url": "https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9"
+    },
+    {
       "added_at": "2025-12-26 00:01:40",
       "album": {
         "name": "Titilailai",
@@ -1045,60 +1081,20 @@
       "url": "https://open.spotify.com/track/5luPkXtktEKUxL2YLRVDiQ"
     },
     {
-      "added_at": "2026-05-22 00:01:31",
+      "added_at": "2026-10-02 00:01:22",
       "album": {
-        "name": "BASKET OF PRAISE 3.0",
-        "url": "https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT"
+        "name": "My Testimony Go Loud",
+        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
       },
       "artists": [
         {
-          "name": "Deborah Ajayi",
-          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
         }
       ],
-      "duration_ms": 1615365,
-      "name": "BASKET OF PRAISE 3.0",
-      "url": "https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9"
-    },
-    {
-      "added_at": "2026-04-17 00:01:38",
-      "album": {
-        "name": "My Praise (Live Recording)",
-        "url": "https://open.spotify.com/album/3tMwkJ4APzjfk7qziJUxYY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Eziashi",
-          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
-        },
-        {
-          "name": "Muyiwa Riversongz",
-          "url": "https://open.spotify.com/artist/5ZNX2ftHqEekKBVpRfv5BX"
-        }
-      ],
-      "duration_ms": 628504,
-      "name": "My Praise - Live Recording",
-      "url": "https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1"
-    },
-    {
-      "added_at": "2026-09-18 00:01:36",
-      "album": {
-        "name": "TAG",
-        "url": "https://open.spotify.com/album/5FLy4a3d94anO5MygQj1f3"
-      },
-      "artists": [
-        {
-          "name": "Denzel Rocks",
-          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
-        },
-        {
-          "name": "Gospel Wills",
-          "url": "https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "TAG",
-      "url": "https://open.spotify.com/track/7CJ7yRltccpFLAZ4vVX8Bf"
+      "duration_ms": 254571,
+      "name": "My Testimony Go Loud",
+      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
     },
     {
       "added_at": "2026-09-04 00:01:11",
@@ -1121,20 +1117,24 @@
       "url": "https://open.spotify.com/track/6O0L0N1TKQpAbWg5VREspl"
     },
     {
-      "added_at": "2026-10-02 00:01:22",
+      "added_at": "2026-09-18 00:01:36",
       "album": {
-        "name": "My Testimony Go Loud",
-        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
+        "name": "TAG",
+        "url": "https://open.spotify.com/album/5FLy4a3d94anO5MygQj1f3"
       },
       "artists": [
         {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+          "name": "Denzel Rocks",
+          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
+        },
+        {
+          "name": "Gospel Wills",
+          "url": "https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr"
         }
       ],
-      "duration_ms": 254571,
-      "name": "My Testimony Go Loud",
-      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
+      "duration_ms": 151034,
+      "name": "TAG",
+      "url": "https://open.spotify.com/track/7CJ7yRltccpFLAZ4vVX8Bf"
     },
     {
       "added_at": "2026-06-12 00:01:28",
@@ -1185,6 +1185,42 @@
       "url": "https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx"
     },
     {
+      "added_at": "2026-10-09 00:01:37",
+      "album": {
+        "name": "Oruko Jesu",
+        "url": "https://open.spotify.com/album/5Iwgp2RyVAYu4r0caOXzZ5"
+      },
+      "artists": [
+        {
+          "name": "TESTIMONY JAGA",
+          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
+        }
+      ],
+      "duration_ms": 278901,
+      "name": "Oruko Jesu",
+      "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Daddy Daddy",
+        "url": "https://open.spotify.com/album/0kS3UiWkW6JLRdsrm3FoAm"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "Sound Of Salem",
+          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
+        }
+      ],
+      "duration_ms": 180036,
+      "name": "Daddy Daddy",
+      "url": "https://open.spotify.com/track/4DPK7ei1j8yglj2trKZKRt"
+    },
+    {
       "added_at": "2026-09-04 00:01:11",
       "album": {
         "name": "OURGODRITHM",
@@ -1223,22 +1259,6 @@
       "duration_ms": 142835,
       "name": "see the truth",
       "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"
-    },
-    {
-      "added_at": "2026-10-09 00:01:37",
-      "album": {
-        "name": "Oruko Jesu",
-        "url": "https://open.spotify.com/album/5Iwgp2RyVAYu4r0caOXzZ5"
-      },
-      "artists": [
-        {
-          "name": "TESTIMONY JAGA",
-          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
-        }
-      ],
-      "duration_ms": 278901,
-      "name": "Oruko Jesu",
-      "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
     },
     {
       "added_at": "2026-10-02 00:01:22",
@@ -1309,38 +1329,6 @@
       "url": "https://open.spotify.com/track/2OOFMS6Ip8fKrCzbEpVyNX"
     },
     {
-      "added_at": "2026-04-03 00:01:53",
-      "album": {
-        "name": "looking for You",
-        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "looking for You",
-      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
-    },
-    {
-      "added_at": "2026-09-18 00:01:36",
-      "album": {
-        "name": "MY PRAISE",
-        "url": "https://open.spotify.com/album/5b2gLVsnN2F0zEw6BqF9hB"
-      },
-      "artists": [
-        {
-          "name": "Joshua Israel PF",
-          "url": "https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F"
-        }
-      ],
-      "duration_ms": 461634,
-      "name": "MY PRAISE",
-      "url": "https://open.spotify.com/track/2ZGP7KnF359WArpZhifwDW"
-    },
-    {
       "added_at": "2026-05-01 00:02:20",
       "album": {
         "name": "No Pressure",
@@ -1355,6 +1343,22 @@
       "duration_ms": 165624,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/1BJgbTphIqyS2IDe5L8gPY"
+    },
+    {
+      "added_at": "2026-04-03 00:01:53",
+      "album": {
+        "name": "looking for You",
+        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "looking for You",
+      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1377,6 +1381,22 @@
       "url": "https://open.spotify.com/track/6Gq0pwrijTGZj6HQIskVDi"
     },
     {
+      "added_at": "2026-09-18 00:01:36",
+      "album": {
+        "name": "MY PRAISE",
+        "url": "https://open.spotify.com/album/5b2gLVsnN2F0zEw6BqF9hB"
+      },
+      "artists": [
+        {
+          "name": "Joshua Israel PF",
+          "url": "https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F"
+        }
+      ],
+      "duration_ms": 461634,
+      "name": "MY PRAISE",
+      "url": "https://open.spotify.com/track/2ZGP7KnF359WArpZhifwDW"
+    },
+    {
       "added_at": "2026-08-07 00:01:02",
       "album": {
         "name": "Heaven Is My Home",
@@ -1395,6 +1415,22 @@
       "duration_ms": 187594,
       "name": "Heaven Is My Home",
       "url": "https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/6Bt6L4p8ZSWLsKr75KAgpW"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 122307,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6BK2U3UXKhGz2TbfAqxzCh"
     },
     {
       "added_at": "2026-08-07 00:01:02",
@@ -1457,42 +1493,6 @@
       "url": "https://open.spotify.com/track/13dUU8tvT6juLVhhcPSt0C"
     },
     {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Daddy Daddy",
-        "url": "https://open.spotify.com/album/0kS3UiWkW6JLRdsrm3FoAm"
-      },
-      "artists": [
-        {
-          "name": "Amichael Genre",
-          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
-        },
-        {
-          "name": "Sound Of Salem",
-          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
-        }
-      ],
-      "duration_ms": 180036,
-      "name": "Daddy Daddy",
-      "url": "https://open.spotify.com/track/4DPK7ei1j8yglj2trKZKRt"
-    },
-    {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/6Bt6L4p8ZSWLsKr75KAgpW"
-      },
-      "artists": [
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "duration_ms": 122307,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6BK2U3UXKhGz2TbfAqxzCh"
-    },
-    {
       "added_at": "2026-10-02 00:01:22",
       "album": {
         "name": "Thank You Jesus (Amapiano)",
@@ -1507,6 +1507,26 @@
       "duration_ms": 213529,
       "name": "Thank You Jesus - Amapiano",
       "url": "https://open.spotify.com/track/7qbTn2bNnoFSuW0skjyzFw"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
+      },
+      "artists": [
+        {
+          "name": "Eno Michael",
+          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 291235,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
       "added_at": "2026-07-24 00:01:56",
@@ -1527,26 +1547,6 @@
       "duration_ms": 131337,
       "name": "I Pray You Know The Love Of Jesus",
       "url": "https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK"
-    },
-    {
-      "added_at": "2026-08-28 00:01:39",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/42WGv4UQdCZiqo8JFVoAG3"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "Jayclassic",
-          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
-        }
-      ],
-      "duration_ms": 111676,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i"
     }
   ],
   "unique_name": "Higher",

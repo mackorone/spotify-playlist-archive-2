@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Shingo Suzuki",
-  "num_followers": 51258,
+  "num_followers": 51276,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "SEIKO JAZZ 3",
+        "url": "https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "duration_ms": 337471,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "New World feat.ELAIZA",
         "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 228966,
       "name": "New World feat.ELAIZA",
       "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "SEIKO JAZZ 3",
-        "url": "https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR"
-      },
-      "artists": [
-        {
-          "name": "Seiko Matsuda",
-          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
-        }
-      ],
-      "duration_ms": 337471,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Kurena",
+        "url": "https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u7d05\u5948",
+          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "500 Miles High",
+      "url": "https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Looking Back, Looking Forward",
         "url": "https://open.spotify.com/album/6w0M77ojQG15lyvKfwNsBq"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 369506,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/5RCinVhZYDE08L3TF4OW1R"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Kurena",
-        "url": "https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl"
-      },
-      "artists": [
-        {
-          "name": "\u77f3\u5ddd\u7d05\u5948",
-          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "500 Miles High",
-      "url": "https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "SLAK",
-        "url": "https://open.spotify.com/album/77SwPn3bUUba2blV2wxT5c"
-      },
-      "artists": [
-        {
-          "name": "SLAK",
-          "url": "https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0"
-        }
-      ],
-      "duration_ms": 332542,
-      "name": "Sleeping Giant",
-      "url": "https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Cross Again",
         "url": "https://open.spotify.com/album/5PLuPCKFm8xyJGdYqs22Zf"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 244986,
       "name": "Cross Again",
       "url": "https://open.spotify.com/track/2iTijsnmas6C4ezW1f5YAr"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "SLAK",
+        "url": "https://open.spotify.com/album/77SwPn3bUUba2blV2wxT5c"
+      },
+      "artists": [
+        {
+          "name": "SLAK",
+          "url": "https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0"
+        }
+      ],
+      "duration_ms": 332542,
+      "name": "Sleeping Giant",
+      "url": "https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Ooh-La-La",
-        "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 238875,
-      "name": "Curumim",
-      "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Lims",
         "url": "https://open.spotify.com/album/3UFsV7eEi8jztQlKV3D3uw"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 269739,
       "name": "The qante",
       "url": "https://open.spotify.com/track/4mdrdhKGAhrFBpPpIXsDDC"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Ooh-La-La",
+        "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 238875,
+      "name": "Curumim",
+      "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "kopfkino",
-        "url": "https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u7530 \u60a0\u771f",
-          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "kopfkino",
-      "url": "https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Answer to Remember II",
         "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 221813,
       "name": "KIMOCHIS",
       "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "kopfkino",
+        "url": "https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "kopfkino",
+      "url": "https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "DANSE MACABRE",
         "url": "https://open.spotify.com/album/3wiRd5fP0VKdPR7xGRTMmg"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 261799,
       "name": "TIGER MARCH",
       "url": "https://open.spotify.com/track/6Oclj8mALO4Qt1apY6X37T"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
-      },
-      "artists": [
-        {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Workaholic",
+        "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 266140,
+      "name": "Workaholic",
+      "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/6CL2SL0en6wpiUTRBhtslD"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 246250,
       "name": "LUPIN THE 3RD '78\uff08\u30eb\u30d1\u30f3\u4e09\u4e16\u306e\u30c6\u30fc\u30de\u2019\uff17\uff18\uff09",
       "url": "https://open.spotify.com/track/3gwuI3dcmEs9oomvtDrqU5"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Workaholic",
-        "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 266140,
-      "name": "Workaholic",
-      "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "URAH",
-        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
-          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "URAH",
-      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Egg On The Roof",
         "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 429063,
       "name": "\u30a8\u30c3\u30b0\u30fb\u30aa\u30f3\u30fb\u30b6\u30fb\u30eb\u30fc\u30d5",
       "url": "https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "URAH",
+        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
+          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "URAH",
+      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Quiet Clown",
+        "url": "https://open.spotify.com/album/0bqi6Hw8qCq4s5TFt9n7Wn"
+      },
+      "artists": [
+        {
+          "name": "Solitary Circus",
+          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Half Moon",
+      "url": "https://open.spotify.com/track/2M0XvBBSxE26LTFfGIJQdU"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "\u5076\u7136\u306e\u4e00\u81f4",
         "url": "https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 485612,
       "name": "Pathos",
       "url": "https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Quiet Clown",
-        "url": "https://open.spotify.com/album/0bqi6Hw8qCq4s5TFt9n7Wn"
-      },
-      "artists": [
-        {
-          "name": "Solitary Circus",
-          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Half Moon",
-      "url": "https://open.spotify.com/track/2M0XvBBSxE26LTFfGIJQdU"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Sun Song",
-        "url": "https://open.spotify.com/album/2yMNKUmAZqSS68LuwuUBOE"
-      },
-      "artists": [
-        {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "Silent Jazz Case",
-          "url": "https://open.spotify.com/artist/2Lb2ekkosMFpLOTNrq41mP"
-        }
-      ],
-      "duration_ms": 282500,
-      "name": "Sun Song",
-      "url": "https://open.spotify.com/track/1vI6hByp1E5irhrv1w55YG"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Gnarly",
         "url": "https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn"
       },
@@ -1827,6 +1807,42 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Mysterious Vibes / A Little Spice",
+        "url": "https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h"
+      },
+      "artists": [
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        }
+      ],
+      "duration_ms": 267870,
+      "name": "A Little Spice",
+      "url": "https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Sun Song",
+        "url": "https://open.spotify.com/album/2yMNKUmAZqSS68LuwuUBOE"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "Silent Jazz Case",
+          "url": "https://open.spotify.com/artist/2Lb2ekkosMFpLOTNrq41mP"
+        }
+      ],
+      "duration_ms": 282500,
+      "name": "Sun Song",
+      "url": "https://open.spotify.com/track/1vI6hByp1E5irhrv1w55YG"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Lifescape",
         "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
       },
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Serenade",
-        "url": "https://open.spotify.com/album/6SZzZyniZk9pAT53fV7110"
-      },
-      "artists": [
-        {
-          "name": "epice",
-          "url": "https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy"
-        }
-      ],
-      "duration_ms": 604607,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/7LDzhQDvT8HcGw1faHEBBU"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Relativity",
         "url": "https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 268660,
       "name": "Relativity",
       "url": "https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Serenade",
+        "url": "https://open.spotify.com/album/6SZzZyniZk9pAT53fV7110"
+      },
+      "artists": [
+        {
+          "name": "epice",
+          "url": "https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy"
+        }
+      ],
+      "duration_ms": 604607,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/7LDzhQDvT8HcGw1faHEBBU"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1895,22 +1911,6 @@
       "duration_ms": 294344,
       "name": "Disturbed Utopia",
       "url": "https://open.spotify.com/track/6zgFQddklalR8m5YN2wi4s"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Mysterious Vibes / A Little Spice",
-        "url": "https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h"
-      },
-      "artists": [
-        {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
-        }
-      ],
-      "duration_ms": 267870,
-      "name": "A Little Spice",
-      "url": "https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "GEMINI:zed",
-        "url": "https://open.spotify.com/album/6nn4X6TskpT7DT1JMuLvHh"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/18xs07gssFmMSrpEJCJ8MD"
-        }
-      ],
-      "duration_ms": 387428,
-      "name": "Kind of Green",
-      "url": "https://open.spotify.com/track/01uo0AI05inhNsuMDyHFs7"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Buchi (feat.\u5225\u6240\u548c\u6d0b)",
         "url": "https://open.spotify.com/album/5L3fJdGwv2XVXsz31QndKG"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 438436,
       "name": "Buchi - feat.\u5225\u6240\u548c\u6d0b",
       "url": "https://open.spotify.com/track/2ZyDtFxe3qAnyQzu14dGFa"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "GEMINI:zed",
+        "url": "https://open.spotify.com/album/6nn4X6TskpT7DT1JMuLvHh"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/18xs07gssFmMSrpEJCJ8MD"
+        }
+      ],
+      "duration_ms": 387428,
+      "name": "Kind of Green",
+      "url": "https://open.spotify.com/track/01uo0AI05inhNsuMDyHFs7"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Everflowing Time and Tide",
-        "url": "https://open.spotify.com/album/1kOZ7ZddQgnlsnfvOrGIkt"
-      },
-      "artists": [
-        {
-          "name": "\u304a\u304c\u308f\u3082\u307f\u3058",
-          "url": "https://open.spotify.com/artist/6FWtbiVsdaF2SFBLSW92ZB"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Everflowing Time and Tide",
-      "url": "https://open.spotify.com/track/52oPEOLiSwtiiYBsCf4R9w"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Ray Chatani Orchestra",
         "url": "https://open.spotify.com/album/4FydYamzGtzRNIAwVcJj4p"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 313649,
       "name": "\u30b7\u30e3\u30de\u30ea\u30e2\u30b2 - feat.\u5225\u6240\u548c\u6d0b",
       "url": "https://open.spotify.com/track/42911JXZa7A8c3tl7yoqfz"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Everflowing Time and Tide",
+        "url": "https://open.spotify.com/album/1kOZ7ZddQgnlsnfvOrGIkt"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u304c\u308f\u3082\u307f\u3058",
+          "url": "https://open.spotify.com/artist/6FWtbiVsdaF2SFBLSW92ZB"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Everflowing Time and Tide",
+      "url": "https://open.spotify.com/track/52oPEOLiSwtiiYBsCf4R9w"
     },
     {
       "added_at": "2026-09-15 15:00:14",

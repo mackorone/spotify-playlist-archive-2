@@ -19902,7 +19902,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 235200,
       "name": "Requiem: VII. Pie Jesu",
       "url": "https://open.spotify.com/track/0Xm46GVlQM2SMK4hsZYk04"
@@ -29817,6 +29817,32 @@
     },
     {
       "album": {
+        "name": "\u7948\u671b / \u6700\u96e3\u5fd8\u7684\u4f60",
+        "url": "https://open.spotify.com/album/4vWBPw8YZDZtKRaIf6SETs"
+      },
+      "artists": [
+        {
+          "name": "George Lam",
+          "url": "https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s"
+        },
+        {
+          "name": "Bryan Choy",
+          "url": "https://open.spotify.com/artist/4E6JWetfCBLwSYDW8xbZa5"
+        },
+        {
+          "name": "David Ling Jr",
+          "url": "https://open.spotify.com/artist/5ElXLkDzZPQA9fBzBjA9TJ"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280826,
+      "name": "\u53cb\u611b\u9577\u5b58",
+      "url": "https://open.spotify.com/track/442PqDLasFxKGHNCRGiTsP"
+    },
+    {
+      "album": {
         "name": "\u83ef\u7d0d\u5eff\u4e09\u9031\u5e74\u7d00\u5ff5\u7cbe\u9078\u7cfb\u5217 - \u6797\u5b50\u7965 (George Lam)",
         "url": "https://open.spotify.com/album/1sRA9ULLrY651pyc5fmlsb"
       },
@@ -29836,7 +29862,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 280826,
       "name": "\u53cb\u611b\u9577\u5b58",
       "url": "https://open.spotify.com/track/5iKEkUWrTZBHtU512XcP3Y"

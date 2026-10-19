@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > è una giornata 🌷 𝒷𝑒𝓁𝓁𝒾𝓈𝓈𝒾𝓂𝒶 🌷 se c'è Rareș in cover di Alta Rotazione
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,743 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,745 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

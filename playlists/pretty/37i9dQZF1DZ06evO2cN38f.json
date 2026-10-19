@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1922,
+  "num_followers": 1926,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atFpAAAAAADEMWX7EoB3I3r7C5RhtuRQ",
+  "snapshot_id": "atK6gAAAAAADwOjrpT7xEfyVWGiIMqeW",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 233422,
+      "name": "Love You Good",
+      "url": "https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What You Done",
         "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 174048,
       "name": "What You Done",
       "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 233422,
-      "name": "Love You Good",
-      "url": "https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 226299,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 226262,
       "name": "Got Em",
       "url": "https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 226299,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Losing",
-      "url": "https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 180465,
       "name": "Next 2 You",
       "url": "https://open.spotify.com/track/7tNkPC6JSJFY9Jwr3fooEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Losing",
+      "url": "https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3"
     },
     {
       "added_at": null,
@@ -511,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAVE:N, The Remixes",
-        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "TYGAPAW",
-          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 266402,
-      "name": "Raven - TYGAPAW Remix feat. Rochelle Jordan",
-      "url": "https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 156239,
       "name": "No Love",
       "url": "https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 266402,
+      "name": "Raven - TYGAPAW Remix feat. Rochelle Jordan",
+      "url": "https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG"
     },
     {
       "added_at": null,

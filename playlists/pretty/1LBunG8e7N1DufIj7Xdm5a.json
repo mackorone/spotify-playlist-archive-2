@@ -6,8 +6,232 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKlcCjwYwHg0mViFT8X2cBjvGGB+3i",
+  "snapshot_id": "AAAKrU/ZySOqwZj7Hnsvm1LXooxw93NS",
   "tracks": [
+    {
+      "added_at": "2026-10-18 07:35:50",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "added_at": "2026-10-18 07:35:27",
+      "album": {
+        "name": "Lunes",
+        "url": "https://open.spotify.com/album/3p1lsGdPkLGv6aSw9BS298"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 134496,
+      "name": "Lunes, amanecer",
+      "url": "https://open.spotify.com/track/1TAkuCy9xxvYD1U4RS7inL"
+    },
+    {
+      "added_at": "2026-10-18 07:35:29",
+      "album": {
+        "name": "Lunes",
+        "url": "https://open.spotify.com/album/3p1lsGdPkLGv6aSw9BS298"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Lunes, atardecer",
+      "url": "https://open.spotify.com/track/2EAm8MWjMfkJTDSMUViShv"
+    },
+    {
+      "added_at": "2026-03-15 11:28:36",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 202313,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds"
+    },
+    {
+      "added_at": "2026-03-15 11:28:58",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 145168,
+      "name": "Salga el sol",
+      "url": "https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG"
+    },
+    {
+      "added_at": "2026-10-18 07:35:33",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
+    },
+    {
+      "added_at": "2026-03-15 11:28:19",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 279237,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
+    },
+    {
+      "added_at": "2026-03-15 11:29:04",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "A tientas",
+      "url": "https://open.spotify.com/track/1g4Lwf7jHausilNJvkhh5U"
+    },
+    {
+      "added_at": "2026-03-15 11:29:15",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Capricornio",
+      "url": "https://open.spotify.com/track/5SIe1Vx8qaMQ7dcurZpicH"
+    },
+    {
+      "added_at": "2026-10-18 07:35:29",
+      "album": {
+        "name": "Rubber Soul (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3ICK3lBLOuStuhttDJOtnq"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 137666,
+      "name": "Little Girl (John's Demo)",
+      "url": "https://open.spotify.com/track/2zUPjC10VzbCbylhkDpnxN"
+    },
+    {
+      "added_at": "2026-10-18 07:35:32",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 304166,
+      "name": "Siento flores",
+      "url": "https://open.spotify.com/track/5qV4LJAkpORolWlHqBEwft"
+    },
+    {
+      "added_at": "2026-10-18 07:35:33",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 226098,
+      "name": "Tu mirada",
+      "url": "https://open.spotify.com/track/6nQiWo06oUAeFwWBvsYh4v"
+    },
+    {
+      "added_at": "2026-10-18 07:35:38",
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Me Col\u00e9 en una Fiesta",
+      "url": "https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP"
+    },
+    {
+      "added_at": "2026-10-18 07:35:45",
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 304960,
+      "name": "El 7 de Septiembre",
+      "url": "https://open.spotify.com/track/5pjN9ajKrrlhdvK9l4Z4tD"
+    },
     {
       "added_at": "2026-05-07 07:57:17",
       "album": {
@@ -23,6 +247,38 @@
       "duration_ms": 202971,
       "name": "97 divination",
       "url": "https://open.spotify.com/track/45UUtOAOlhtv2ppFdqbUB0"
+    },
+    {
+      "added_at": "2026-03-15 11:28:54",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Olas en tus cielos",
+      "url": "https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI"
+    },
+    {
+      "added_at": "2026-03-15 11:29:14",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Nubes negras",
+      "url": "https://open.spotify.com/track/3EkbvFU2CF92uJITSXNLKM"
     },
     {
       "added_at": "2026-04-14 21:44:21",
@@ -87,38 +343,6 @@
       "duration_ms": 328933,
       "name": "The Alien",
       "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
-    },
-    {
-      "added_at": "2026-03-15 11:28:54",
-      "album": {
-        "name": "Puzzles",
-        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
-      },
-      "artists": [
-        {
-          "name": "Alisone",
-          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Olas en tus cielos",
-      "url": "https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI"
-    },
-    {
-      "added_at": "2026-03-15 11:29:14",
-      "album": {
-        "name": "Piedras",
-        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Nubes negras",
-      "url": "https://open.spotify.com/track/3EkbvFU2CF92uJITSXNLKM"
     },
     {
       "added_at": "2026-06-04 12:21:43",
@@ -68352,22 +68576,6 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 202313,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds"
-    },
-    {
-      "added_at": "2026-03-15 11:28:36",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
       "duration_ms": 179547,
       "name": "Skit",
       "url": "https://open.spotify.com/track/16SFlxZd0oH4YA7KvCQlsG"
@@ -68521,54 +68729,6 @@
       "url": "https://open.spotify.com/track/2FdApGBPtwyMdWVPWcWKyY"
     },
     {
-      "added_at": "2026-03-15 11:28:58",
-      "album": {
-        "name": "Puzzles",
-        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
-      },
-      "artists": [
-        {
-          "name": "Alisone",
-          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
-        }
-      ],
-      "duration_ms": 145168,
-      "name": "Salga el sol",
-      "url": "https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG"
-    },
-    {
-      "added_at": "2026-03-15 11:28:19",
-      "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 279237,
-      "name": "Telephone Line",
-      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
-    },
-    {
-      "added_at": "2026-03-15 11:29:04",
-      "album": {
-        "name": "Piedras",
-        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "A tientas",
-      "url": "https://open.spotify.com/track/1g4Lwf7jHausilNJvkhh5U"
-    },
-    {
       "added_at": "2026-03-15 11:29:10",
       "album": {
         "name": "Piedras",
@@ -68615,22 +68775,6 @@
       "duration_ms": 179760,
       "name": "Abandonar",
       "url": "https://open.spotify.com/track/0zp5BIm0YqLEnhSi3nlWRe"
-    },
-    {
-      "added_at": "2026-03-15 11:29:15",
-      "album": {
-        "name": "Piedras",
-        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Capricornio",
-      "url": "https://open.spotify.com/track/5SIe1Vx8qaMQ7dcurZpicH"
     },
     {
       "added_at": "2026-03-15 11:29:15",
@@ -80747,6 +80891,118 @@
       "duration_ms": 201637,
       "name": "Unmade",
       "url": "https://open.spotify.com/track/3kfYHxdBmhXdEvpn9vXCxE"
+    },
+    {
+      "added_at": "2026-10-18 07:35:32",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 183581,
+      "name": "T\u00fa y yo",
+      "url": "https://open.spotify.com/track/7rwMgFR6vzFMKt2wVZhsp4"
+    },
+    {
+      "added_at": "2026-10-18 07:35:32",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/3Iiq5LNH4stfpe8m4TTgAU"
+    },
+    {
+      "added_at": "2026-10-18 07:35:32",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Fui viento",
+      "url": "https://open.spotify.com/track/26g0a49WuIPUBdZloUeW24"
+    },
+    {
+      "added_at": "2026-10-18 07:35:32",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 267652,
+      "name": "Asincopado",
+      "url": "https://open.spotify.com/track/1tEoC9NuyRB9Dc4qQL1Rw6"
+    },
+    {
+      "added_at": "2026-10-18 07:35:33",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 135115,
+      "name": "Al pairo",
+      "url": "https://open.spotify.com/track/2e03RteiwIk5cliJ6OQ7rT"
+    },
+    {
+      "added_at": "2026-10-18 07:35:33",
+      "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "De ti",
+      "url": "https://open.spotify.com/track/0G3RpCIyrivV1Iwslpd4sr"
+    },
+    {
+      "added_at": "2026-10-18 22:36:51",
+      "album": {
+        "name": "Blood Soaked Canvas",
+        "url": "https://open.spotify.com/album/4CDoRdcgHWUiKiE7gfoKyB"
+      },
+      "artists": [
+        {
+          "name": "MPC Smoke",
+          "url": "https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ"
+        }
+      ],
+      "duration_ms": 127062,
+      "name": "Warm Bodies",
+      "url": "https://open.spotify.com/track/52OQHCO5GpHKMK4V2hHmy8"
     }
   ],
   "unique_name": "playlist spotify free",

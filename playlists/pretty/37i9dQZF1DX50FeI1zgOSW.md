@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,602 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,609 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 96 | [Titanic](https://open.spotify.com/track/13Tb1idYqzzb0P9Vv1PIFj) | [SomeBoyZ](https://open.spotify.com/artist/7t0KbPCPfypILCeJ4HlosB), [Saran Thiyagarajan](https://open.spotify.com/artist/7eymWz6OiQNFyshu7y946o), [Vengiruth](https://open.spotify.com/artist/0mn7zkN9k3VbKAwzvwZsHv) | [Titanic](https://open.spotify.com/album/3PctjLa133DeItbTYGkgSj) | 2:55 |
 | 97 | [Husky Dusky](https://open.spotify.com/track/6a39b7ysisF42OBCnLwf3r) | [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Reguvin](https://open.spotify.com/artist/0TmlNikhbYpazLXghCt2RB), [Ragav Krishnan](https://open.spotify.com/artist/037UHtIMYyNjfBJZNDuN8q) | [Husky Dusky](https://open.spotify.com/album/0Y7GwKCKb4qsqSFQqaL68G) | 3:50 |
 | 98 | [Thaimayo](https://open.spotify.com/track/2pl0P5Tnepb6NMCeyPx1xv) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Thaimayo](https://open.spotify.com/album/0WLB1iGxYMJsX6xtlmxz9b) | 4:03 |
-| 99 | [Thottale Pattasa \(Slap Song\)](https://open.spotify.com/track/4x3vAKjPRm1LS76R2Qyx8V) | [Francis Fernando](https://open.spotify.com/artist/4Umw66ScWxd2aGrw9Atga6) | [Thottale Pattasa \(Slap Song\)](https://open.spotify.com/album/67g1gLnzF3TfFstCfHV0mS) | 1:01 |
-| 100 | [Theera Kanaa](https://open.spotify.com/track/7fcwXQUAgodhZGsfG15TDt) | [Anushya Murugesh](https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8) | [Theera Kanaa](https://open.spotify.com/album/5HOrdfyKr9dC8YT4DDkusb) | 2:42 |
-| 101 | [Adiye Azhage](https://open.spotify.com/track/3c9btVWeQwlR9tfRZPZDRH) | [Sanal Saavithri](https://open.spotify.com/artist/763OqXhYyV0M4izFFIYgGi), [Midhun K Madhu](https://open.spotify.com/artist/37m00nY7byFMH6uFpj464J), [Mohamed Riyaz](https://open.spotify.com/artist/2SuayfqOOtqzKoqhkSMS7p) | [Adiye Azhage](https://open.spotify.com/album/0o8MqWhsRqDRZZ41WvBuMx) | 4:14 |
+| 99 | [Theera Kanaa](https://open.spotify.com/track/7fcwXQUAgodhZGsfG15TDt) | [Anushya Murugesh](https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8) | [Theera Kanaa](https://open.spotify.com/album/5HOrdfyKr9dC8YT4DDkusb) | 2:42 |
+| 100 | [Adiye Azhage](https://open.spotify.com/track/3c9btVWeQwlR9tfRZPZDRH) | [Sanal Saavithri](https://open.spotify.com/artist/763OqXhYyV0M4izFFIYgGi), [Midhun K Madhu](https://open.spotify.com/artist/37m00nY7byFMH6uFpj464J), [Mohamed Riyaz](https://open.spotify.com/artist/2SuayfqOOtqzKoqhkSMS7p) | [Adiye Azhage](https://open.spotify.com/album/0o8MqWhsRqDRZZ41WvBuMx) | 4:14 |
 
-Snapshot ID: `AAAAADOFiqUdPrwRGyNY3cjEIrFwprsP`
+Snapshot ID: `AAAAAAD7Uj/gytVfaqTk1CmIHve3ZIFI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,758 likes - 108 songs - 6 hr 57 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,758 likes - 110 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 106 | [Same Same](https://open.spotify.com/track/2zzepEPukOeBPCTkxIC7Kk) | [Shugi](https://open.spotify.com/artist/3tkEaWGZQKxZpIQTXJwjXl) | [Same Same](https://open.spotify.com/album/40liCRJq38XDNqZbkpbiWA) | 4:38 |
 | 107 | [They Plunder \- Young Blood Brother's Shanty Version](https://open.spotify.com/track/3i2eSkqPA4xITfGtkfW8Df) | [Pair O'Dee's](https://open.spotify.com/artist/4R6q4HRD8s62hfWECwPKLG) | [They Plunder \(Young Blood Brother's Shanty Version\)](https://open.spotify.com/album/4VE53IFJocmwv5whQQFEZI) | 2:05 |
 | 108 | [TONIGHT](https://open.spotify.com/track/1Iz0IOnt6HYhmfiguTg2Bt) | [YESOD MALKUTH](https://open.spotify.com/artist/5L0hR8284jW5qANEy47NNE) | [TONIGHT](https://open.spotify.com/album/0NclpJClWLbcWCd9viMFdb) | 2:58 |
+| 109 | [The Sun](https://open.spotify.com/track/288nnGexDHibhdPeTw5hMj) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB) | 3:28 |
+| 110 | [I Love You](https://open.spotify.com/track/3Pen0VHkTufM1cxcL1O0Oz) | [Brett Higginson](https://open.spotify.com/artist/6zEdf74MBw01l1zKGQ9auN) | [I Be Free](https://open.spotify.com/album/7uQvrCQa1JbOv5xjXzhOTq) | 3:00 |
 
-Snapshot ID: `AAAPRkAC71i35GaGrFmN1VDle5APhlSx`
+Snapshot ID: `AAAPSHm+9Mrq05GbGYDj49Ng8qEw69Ds`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,191 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,197 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 19 | [Severe Delays](https://open.spotify.com/track/6fsFfdsnDOQpXiWw0BW48O) | [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [Digi Mangal](https://open.spotify.com/album/0Ymf5yrXIHkZL9QWnHk13L) | 3:42 |
 | 20 | [2 Hours](https://open.spotify.com/track/3eM3aIMHuzZ45SQrAPAS7p) | [Erika Ever](https://open.spotify.com/artist/2MMGm01jldrW4dPB71Gf3n), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [2 Hours](https://open.spotify.com/album/0OA8w6ovuNgcgOsaEgZ6jg) | 2:32 |
 | 21 | [Ipa Ma](https://open.spotify.com/track/01DA1J4BN8wTRnS1NRRRES) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [Ipa Ma](https://open.spotify.com/album/06175m2OvWmMVncB0i7jt6) | 3:51 |
-| 22 | [Doormen](https://open.spotify.com/track/6p4B93pKQNDa2U2UCHog9Y) | [Laces](https://open.spotify.com/artist/2OvUjjcJMGyNzBfdx2DRzr) | [Oekno I](https://open.spotify.com/album/2PRNvzGCOvqsAVn8w0oR6o) | 4:47 |
+| 22 | [Doormen](https://open.spotify.com/track/6p4B93pKQNDa2U2UCHog9Y) | [Laeces](https://open.spotify.com/artist/3MYPaqwTsqXB7PQ7etVSBP) | [Oekno I](https://open.spotify.com/album/2PRNvzGCOvqsAVn8w0oR6o) | 4:47 |
 | 23 | [Maayam \(feat\. Pritt\)](https://open.spotify.com/track/0WSc3Ort72j76IZM53upRt) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Maayam \(feat\. Pritt\)](https://open.spotify.com/album/2rKixIJFlbcB0UjS8UHX9Z) | 2:58 |
 | 24 | [Who's That](https://open.spotify.com/track/6Wy0cSFu8cscw1rZRGrcYs) | [Geoblu](https://open.spotify.com/artist/5NVDBtxYLeLaByHCo682Kf) | [Geo Who?](https://open.spotify.com/album/4zWKDJaAd5K1rHoKaIXZ7Z) | 3:28 |
 | 25 | [In The Mood](https://open.spotify.com/track/7vS0ZWe6inoBEjxxcIwuek) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX), [Mincy](https://open.spotify.com/artist/5KNUX2wDVlp2W9sukkgm2x) | [In The Mood](https://open.spotify.com/album/1bMUVdcsgiJH3TJsoYppVk) | 3:23 |

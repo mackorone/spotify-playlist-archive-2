@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Eechuu",
-  "num_followers": 42017,
+  "num_followers": 42037,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABkbdb9kDrISg9Kn2WnmTLnNnart",
+  "snapshot_id": "AAAAABkE2mkVL4tW+mTvRDS/lg5KmD5C",
   "tracks": [
     {
       "added_at": "2026-10-12 12:39:20",
@@ -893,26 +893,6 @@
       "url": "https://open.spotify.com/track/4IQ2G8ZomrBM2O7FTW80S1"
     },
     {
-      "added_at": "2026-05-04 12:01:04",
-      "album": {
-        "name": "Madhaka",
-        "url": "https://open.spotify.com/album/0QrPcYDeAmXLEvP8NoOdV9"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Jubair Muhammed",
-          "url": "https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0"
-        }
-      ],
-      "duration_ms": 205568,
-      "name": "Madhaka",
-      "url": "https://open.spotify.com/track/6hogi1v3BWFHXhkyuiIqyC"
-    },
-    {
       "added_at": "2026-07-10 00:57:05",
       "album": {
         "name": "Omale.",
@@ -971,42 +951,6 @@
       "duration_ms": 239612,
       "name": "Aaranya",
       "url": "https://open.spotify.com/track/4RZG16ijkIJqLsQ1SB9yIa"
-    },
-    {
-      "added_at": "2026-06-12 13:49:52",
-      "album": {
-        "name": "Ravil Melle",
-        "url": "https://open.spotify.com/album/1QIqQeOYSlvLw4UerigY16"
-      },
-      "artists": [
-        {
-          "name": "AjOopaan",
-          "url": "https://open.spotify.com/artist/2Y145zR3OhtZPZtQoEqIJY"
-        },
-        {
-          "name": "Din Nath Puthenchery",
-          "url": "https://open.spotify.com/artist/544us7nRzGWKYu1qfTML83"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Ravil Melle",
-      "url": "https://open.spotify.com/track/5lBRUGwkC8irqHyIKQRkF9"
-    },
-    {
-      "added_at": "2026-07-09 14:45:36",
-      "album": {
-        "name": "Aarodum Mindathey Chembarathi Poove",
-        "url": "https://open.spotify.com/album/4PB9os5EkuQaZgiTeUdEZ3"
-      },
-      "artists": [
-        {
-          "name": "J Sudarsan",
-          "url": "https://open.spotify.com/artist/0Bgs2IMaGK6uEeBYxOZuQZ"
-        }
-      ],
-      "duration_ms": 169656,
-      "name": "Aarodum Mindathey Chembarathi Poove",
-      "url": "https://open.spotify.com/track/36vvMWld2SRP0pL4V4ynFe"
     },
     {
       "added_at": "2026-07-03 12:10:50",
@@ -1465,26 +1409,6 @@
       "url": "https://open.spotify.com/track/4JbHajsV5a0VpYeoSsfEOY"
     },
     {
-      "added_at": "2026-06-11 09:02:30",
-      "album": {
-        "name": "Kaalangalaal",
-        "url": "https://open.spotify.com/album/05ivVVo3fN1gDE0dvfNBJ7"
-      },
-      "artists": [
-        {
-          "name": "AASH!",
-          "url": "https://open.spotify.com/artist/1UNcST3LHXfjbIljkhUilP"
-        },
-        {
-          "name": "Lakshmi Shaji",
-          "url": "https://open.spotify.com/artist/3e2Aa0NukAGkLvl4lFSGTt"
-        }
-      ],
-      "duration_ms": 269992,
-      "name": "Kaalangalaal",
-      "url": "https://open.spotify.com/track/65dPSpaFDR1SlTV78iznXj"
-    },
-    {
       "added_at": "2026-06-19 13:25:34",
       "album": {
         "name": "Neelaravil",
@@ -1647,22 +1571,6 @@
       "duration_ms": 548000,
       "name": "Azhakai",
       "url": "https://open.spotify.com/track/6DrQdf5OkVNKcNASmGgu4k"
-    },
-    {
-      "added_at": "2026-06-11 23:57:23",
-      "album": {
-        "name": "Poonthatha",
-        "url": "https://open.spotify.com/album/1YVbQTUdXKLpiDArGxDBKh"
-      },
-      "artists": [
-        {
-          "name": "Muthu Alukkal",
-          "url": "https://open.spotify.com/artist/0NsUU9sHP788S4PVdwO3rS"
-        }
-      ],
-      "duration_ms": 316123,
-      "name": "Kathiradum Ponvayalil",
-      "url": "https://open.spotify.com/track/6JfdBgLwXIS6yj7VnRGJJJ"
     }
   ],
   "unique_name": "Malayalam Indie",

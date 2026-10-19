@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1254311,
+  "num_followers": 1254382,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atFpAAAAAADfB5OwolSoOw2VO1lmloPN",
+  "snapshot_id": "atK6gAAAAAA49fzisEmzChnwMgHW1epV",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+        "name": "Sleeping Powder",
+        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Mick Jones",
-          "url": "https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX"
-        },
-        {
-          "name": "Paul Simonon",
-          "url": "https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
-      "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
+      "duration_ms": 166481,
+      "name": "Sleeping Powder",
+      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
     },
     {
       "added_at": null,
@@ -551,18 +543,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleeping Powder",
-        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Mick Jones",
+          "url": "https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX"
+        },
+        {
+          "name": "Paul Simonon",
+          "url": "https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan"
         }
       ],
-      "duration_ms": 166481,
-      "name": "Sleeping Powder",
-      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
+      "duration_ms": 227213,
+      "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
+      "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
     },
     {
       "added_at": null,

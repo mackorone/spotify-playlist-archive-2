@@ -5295,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Mossy Meadows",
+        "url": "https://open.spotify.com/album/5dlWzDj8vprZUZqPx1DViC"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173341,
+      "name": "Mossy Meadows",
+      "url": "https://open.spotify.com/track/5pPyJoc2BNXEgzZ8FDiGkC"
+    },
+    {
+      "album": {
         "name": "Moulding",
         "url": "https://open.spotify.com/album/0o3kTphCqfHGDhrKTHfcdw"
       },
@@ -9260,7 +9278,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 219719,
       "name": "Where the Creek Runs Quiet",
       "url": "https://open.spotify.com/track/4iPP5u2cCNqhApBR8uVXAo"

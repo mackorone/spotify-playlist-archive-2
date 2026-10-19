@@ -1,6 +1,6 @@
 {
   "description": "The best in UK Funky. Cover: Roska",
-  "num_followers": 109783,
+  "num_followers": 109785,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,18 @@
     {
       "added_at": "2026-06-19 15:31:00",
       "album": {
-        "name": "Peas In A Pod",
-        "url": "https://open.spotify.com/album/4pbXoYwjXiX2vHD3zOGjmE"
+        "name": "Street Nation",
+        "url": "https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd"
       },
       "artists": [
         {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+          "name": "Funky Dee",
+          "url": "https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv"
         }
       ],
-      "duration_ms": 189797,
-      "name": "Peas In A Pod",
-      "url": "https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94"
+      "duration_ms": 163933,
+      "name": "Are You Gonna Bang Doe? - Radio Edit",
+      "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
     },
     {
       "added_at": "2026-06-19 15:31:00",
@@ -451,18 +443,26 @@
     {
       "added_at": "2026-06-19 15:31:00",
       "album": {
-        "name": "Street Nation",
-        "url": "https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd"
+        "name": "Peas In A Pod",
+        "url": "https://open.spotify.com/album/4pbXoYwjXiX2vHD3zOGjmE"
       },
       "artists": [
         {
-          "name": "Funky Dee",
-          "url": "https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv"
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Are You Gonna Bang Doe? - Radio Edit",
-      "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
+      "duration_ms": 189797,
+      "name": "Peas In A Pod",
+      "url": "https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94"
     },
     {
       "added_at": "2026-06-19 15:31:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-19 15:31:00",
       "album": {
-        "name": "Volumes:One",
-        "url": "https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h"
-      },
-      "artists": [
-        {
-          "name": "Geeneus",
-          "url": "https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx"
-        }
-      ],
-      "duration_ms": 460712,
-      "name": "Yellowtail",
-      "url": "https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC"
-    },
-    {
-      "added_at": "2026-06-19 15:31:00",
-      "album": {
         "name": "Condo (feat. T-Pain) [Remixes]",
         "url": "https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 232504,
       "name": "Condo (feat. T-Pain) - Roska Remix",
       "url": "https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP"
+    },
+    {
+      "added_at": "2026-06-19 15:31:00",
+      "album": {
+        "name": "Volumes:One",
+        "url": "https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h"
+      },
+      "artists": [
+        {
+          "name": "Geeneus",
+          "url": "https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx"
+        }
+      ],
+      "duration_ms": 460712,
+      "name": "Yellowtail",
+      "url": "https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC"
     },
     {
       "added_at": "2026-06-19 15:31:00",

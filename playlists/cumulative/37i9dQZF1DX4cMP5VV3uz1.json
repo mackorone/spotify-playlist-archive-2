@@ -7873,6 +7873,28 @@
     },
     {
       "album": {
+        "name": "LOCKDOWN",
+        "url": "https://open.spotify.com/album/5mwfc2tfgL5FzsSbuGeDkL"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182057,
+      "name": "LOCKDOWN",
+      "url": "https://open.spotify.com/track/2bWA1Voi1F0uuLiwoqvmRj"
+    },
+    {
+      "album": {
         "name": "Log On",
         "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
       },
@@ -12258,7 +12280,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 126500,
       "name": "Send Dem Out (feat. Capo Lee)",
       "url": "https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn"

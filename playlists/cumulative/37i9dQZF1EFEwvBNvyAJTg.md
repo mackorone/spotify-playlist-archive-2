@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 15 hr 29 min
+284 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 | 2024-06-13 |  |
 | [Up And Away](https://open.spotify.com/track/3L2MUXAQ2FWM9pH0AZBZvE) | [Banned Of St Trinian's](https://open.spotify.com/artist/3YuNeoJH0vX1OCG5pmO6LU) | [Up And Away](https://open.spotify.com/album/2wfogcpJdLod7mXHGNpgqv) | 3:42 | 2024-06-13 | 2026-07-10 |
 | [Vegas Girl](https://open.spotify.com/track/55zVsfjfD9qbCCFRVv95qi) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Contrast](https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi) | 2:49 | 2025-01-09 | 2025-04-12 |
-| [Visions](https://open.spotify.com/track/7H7TzWuZa7SA4vVIyvAHl8) | [The Modern Strangers](https://open.spotify.com/artist/0OIhm4drHH9SKkFkLrszM9) | [Visions](https://open.spotify.com/album/6qeeXQon6pCXfIxv1oRJTR) | 3:14 | 2026-10-17 |  |
+| [Visions](https://open.spotify.com/track/0kVwbY8IjseEXVqfD0O0zd) | [The Modern Strangers](https://open.spotify.com/artist/0OIhm4drHH9SKkFkLrszM9) | [Visions](https://open.spotify.com/album/5C0kAOfBP5hBpKVyKVLFZO) | 3:14 | 2026-10-18 |  |
+| [Visions](https://open.spotify.com/track/7H7TzWuZa7SA4vVIyvAHl8) | [The Modern Strangers](https://open.spotify.com/artist/0OIhm4drHH9SKkFkLrszM9) | [Visions](https://open.spotify.com/album/6qeeXQon6pCXfIxv1oRJTR) | 3:14 | 2026-10-17 | 2026-10-19 |
 | [walk away as the door slams](https://open.spotify.com/track/5jl8wCqKCHCux0uWf3d7O9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [HELLBOY](https://open.spotify.com/album/2XCSTHVFG50wCnWPnkerRh) | 2:40 | 2024-06-13 |  |
 | [Walk The Line](https://open.spotify.com/track/7rxxROM7x948jnVwD0ORVN) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:38 | 2025-01-09 | 2025-04-12 |
 | [Wanna Know](https://open.spotify.com/track/7nNfHmDyY9WlnBzUP2kgaf) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 2:34 | 2025-01-09 | 2025-04-12 |

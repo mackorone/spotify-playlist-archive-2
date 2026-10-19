@@ -1,6 +1,6 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Nectar Palace",
-  "num_followers": 10215,
+  "num_followers": 10216,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
+        "name": "English Harbour (Slow Fawn Version)",
+        "url": "https://open.spotify.com/album/58WMvj6FDmzGaAlH4S46AT"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 281272,
+      "name": "English Harbour - Slow Fawn Version",
+      "url": "https://open.spotify.com/track/2OAn1kEuqqZyqTfMhv4jJ1"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
         "name": "Bizarre",
         "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 168000,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "English Harbour (Slow Fawn Version)",
-        "url": "https://open.spotify.com/album/58WMvj6FDmzGaAlH4S46AT"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 281272,
-      "name": "English Harbour - Slow Fawn Version",
-      "url": "https://open.spotify.com/track/2OAn1kEuqqZyqTfMhv4jJ1"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "half smile",
-        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
-      },
-      "artists": [
-        {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "half smile",
-      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Compter les corps",
         "url": "https://open.spotify.com/album/0KPZyx1f8iQqRkj9d0gTbB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 230613,
       "name": "Compter les corps",
       "url": "https://open.spotify.com/track/7mDh6tKtDYEkt8b1rXVTe0"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "half smile",
+        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "half smile",
+      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Darth Vapor",
-        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
-      },
-      "artists": [
-        {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        }
-      ],
-      "duration_ms": 255965,
-      "name": "Darth Vapor",
-      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
         "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 219800,
       "name": "l'avenir et moi",
       "url": "https://open.spotify.com/track/1QOlHb6o44ke1EYGTmGn1s"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Darth Vapor",
+        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "duration_ms": 255965,
+      "name": "Darth Vapor",
+      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Living Light",
-        "url": "https://open.spotify.com/album/3EPWOMRIcIkxkyUIKGFCjC"
-      },
-      "artists": [
-        {
-          "name": "Plus!",
-          "url": "https://open.spotify.com/artist/4T3kfNwk72BFFtDhfCONnW"
-        }
-      ],
-      "duration_ms": 213269,
-      "name": "Living Light",
-      "url": "https://open.spotify.com/track/0nzwzVPFrPRswVFYh5nGD6"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Tigre et diesel",
         "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 191213,
       "name": "Piste 1",
       "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "virer doux",
+        "url": "https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 253741,
+      "name": "virer doux",
+      "url": "https://open.spotify.com/track/4QRNaONuHp9jlFWQIdR0XK"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -667,34 +667,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "virer doux",
-        "url": "https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl"
+        "name": "Living Light",
+        "url": "https://open.spotify.com/album/3EPWOMRIcIkxkyUIKGFCjC"
       },
       "artists": [
         {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+          "name": "Plus!",
+          "url": "https://open.spotify.com/artist/4T3kfNwk72BFFtDhfCONnW"
         }
       ],
-      "duration_ms": 253741,
-      "name": "virer doux",
-      "url": "https://open.spotify.com/track/4QRNaONuHp9jlFWQIdR0XK"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "Where You Haunt Me: Part 2",
-        "url": "https://open.spotify.com/album/2LXonM7FX9YMTfSRASV2Rb"
-      },
-      "artists": [
-        {
-          "name": "Dear Youth",
-          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "I Can't Give You What You Want",
-      "url": "https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9"
+      "duration_ms": 213269,
+      "name": "Living Light",
+      "url": "https://open.spotify.com/track/0nzwzVPFrPRswVFYh5nGD6"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -711,6 +695,22 @@
       "duration_ms": 187384,
       "name": "White Claw Addict",
       "url": "https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Where You Haunt Me: Part 2",
+        "url": "https://open.spotify.com/album/2LXonM7FX9YMTfSRASV2Rb"
+      },
+      "artists": [
+        {
+          "name": "Dear Youth",
+          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "I Can't Give You What You Want",
+      "url": "https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -875,22 +875,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "infinite money glitch",
-        "url": "https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa"
+        "name": "WORST PARTY EVER",
+        "url": "https://open.spotify.com/album/53MZyV26JLbusVBWkzTkbJ"
       },
       "artists": [
         {
-          "name": "Peypo",
-          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
-        },
-        {
-          "name": ".ape",
-          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
         }
       ],
-      "duration_ms": 107540,
-      "name": "29",
-      "url": "https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y"
+      "duration_ms": 152481,
+      "name": "RICH!",
+      "url": "https://open.spotify.com/track/034J9CitLjXmZZSqZhY1VK"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -927,34 +923,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "WORST PARTY EVER",
-        "url": "https://open.spotify.com/album/53MZyV26JLbusVBWkzTkbJ"
+        "name": "infinite money glitch",
+        "url": "https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa"
       },
       "artists": [
         {
-          "name": "SUCKERPUNCH!",
-          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
-        }
-      ],
-      "duration_ms": 152481,
-      "name": "RICH!",
-      "url": "https://open.spotify.com/track/034J9CitLjXmZZSqZhY1VK"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "Doldrums, Doldrums, Eviler Than the Devil",
-        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
-      },
-      "artists": [
+          "name": "Peypo",
+          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
+        },
         {
-          "name": "Yoo Doo Right",
-          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+          "name": ".ape",
+          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
         }
       ],
-      "duration_ms": 367386,
-      "name": "Doldrums, Doldrums, Eviler Than the Devil",
-      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
+      "duration_ms": 107540,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
+        "name": "Doldrums, Doldrums, Eviler Than the Devil",
+        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
+      },
+      "artists": [
+        {
+          "name": "Yoo Doo Right",
+          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+        }
+      ],
+      "duration_ms": 367386,
+      "name": "Doldrums, Doldrums, Eviler Than the Devil",
+      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
         "name": "Symphonie publicitaire sous influence",
         "url": "https://open.spotify.com/album/2TpxfjXkxMIsmpIUeFd6cw"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 160866,
       "name": "2h15",
       "url": "https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "M\u00e9t\u00e9ore",
-        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 137379,
-      "name": "M\u00e9t\u00e9ore",
-      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1023,22 +1007,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Smash Combat",
-        "url": "https://open.spotify.com/album/3gRHlB9fJy1hnnMyXDBh5s"
+        "name": "M\u00e9t\u00e9ore",
+        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
       },
       "artists": [
         {
-          "name": "Ping Pong Go",
-          "url": "https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG"
-        },
-        {
-          "name": "Dolphin Hyperspace",
-          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 213011,
-      "name": "Shrala",
-      "url": "https://open.spotify.com/track/1C97sB0JL8ANe6tczFSEvz"
+      "duration_ms": 137379,
+      "name": "M\u00e9t\u00e9ore",
+      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1055,6 +1035,26 @@
       "duration_ms": 213740,
       "name": "across the line",
       "url": "https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Smash Combat",
+        "url": "https://open.spotify.com/album/3gRHlB9fJy1hnnMyXDBh5s"
+      },
+      "artists": [
+        {
+          "name": "Ping Pong Go",
+          "url": "https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG"
+        },
+        {
+          "name": "Dolphin Hyperspace",
+          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
+        }
+      ],
+      "duration_ms": 213011,
+      "name": "Shrala",
+      "url": "https://open.spotify.com/track/1C97sB0JL8ANe6tczFSEvz"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
-      },
-      "artists": [
-        {
-          "name": "Oli F\u00e9ra",
-          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
-        }
-      ],
-      "duration_ms": 229355,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Dans la seconde",
         "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 238983,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
+      },
+      "artists": [
+        {
+          "name": "Oli F\u00e9ra",
+          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
+        }
+      ],
+      "duration_ms": 229355,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Lorange",
-          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
-        }
-      ],
-      "duration_ms": 118309,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "sex & cigarettes",
         "url": "https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Bad News",
-        "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
       },
       "artists": [
         {
-          "name": "Les Shirley",
-          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
         }
       ],
-      "duration_ms": 187693,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
+      "duration_ms": 118309,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1331,6 +1315,38 @@
       "duration_ms": 235613,
       "name": "Les vagues",
       "url": "https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL"
+      },
+      "artists": [
+        {
+          "name": "SOMET",
+          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
+        }
+      ],
+      "duration_ms": 270461,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
+      },
+      "artists": [
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Kathleen",
-        "url": "https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL"
-      },
-      "artists": [
-        {
-          "name": "SOMET",
-          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
-        }
-      ],
-      "duration_ms": 270461,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Moindre Mal",
         "url": "https://open.spotify.com/album/0VxQ4mEKzj1WmMZmCYPyuL"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "I Got A Pill",
-        "url": "https://open.spotify.com/album/1K5KVqfWsvPizNr2J6RHhA"
-      },
-      "artists": [
-        {
-          "name": "Elephant Stone",
-          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
-        }
-      ],
-      "duration_ms": 170636,
-      "name": "I Got A Pill",
-      "url": "https://open.spotify.com/track/1YZOcsvVSsp1lwOr9KaSxS"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Daredevil",
         "url": "https://open.spotify.com/album/76zNXO4xFXdDjxY9st9zBJ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 327893,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/2CzBHpemQrtHCNfX10qwYy"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "I Got A Pill",
+        "url": "https://open.spotify.com/album/1K5KVqfWsvPizNr2J6RHhA"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "duration_ms": 170636,
+      "name": "I Got A Pill",
+      "url": "https://open.spotify.com/track/1YZOcsvVSsp1lwOr9KaSxS"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc"
-      },
-      "artists": [
-        {
-          "name": "bombe",
-          "url": "https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "l'amour aux temps des samoura\u00efs",
-      "url": "https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Junior",
         "url": "https://open.spotify.com/album/5kedqTpxG8Dd9FwFqZyuZr"
       },
@@ -1511,22 +1495,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "So Smart",
-        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 169431,
-      "name": "So Smart",
-      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Amaro",
         "url": "https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq"
       },
@@ -1539,6 +1507,54 @@
       "duration_ms": 178200,
       "name": "Washing Machine",
       "url": "https://open.spotify.com/track/061FmEAYZyUEY0hONIJ3OZ"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc"
+      },
+      "artists": [
+        {
+          "name": "bombe",
+          "url": "https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "l'amour aux temps des samoura\u00efs",
+      "url": "https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Attendre - mstr 01",
+        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+        }
+      ],
+      "duration_ms": 357013,
+      "name": "Attendre - mstr 01",
+      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "So Smart",
+        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 169431,
+      "name": "So Smart",
+      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1611,34 +1627,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "SEXES",
-        "url": "https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T"
+        "name": "octobre, encore",
+        "url": "https://open.spotify.com/album/5Hc0vmaR7nUTY1pmPfcLl6"
       },
       "artists": [
         {
-          "name": "6ODEM3",
-          "url": "https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW"
+          "name": "gabno",
+          "url": "https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp"
         }
       ],
-      "duration_ms": 190626,
-      "name": "SEXES",
-      "url": "https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "bite",
-        "url": "https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR"
-      },
-      "artists": [
-        {
-          "name": "SUUNCAAT",
-          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "bite",
-      "url": "https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP"
+      "duration_ms": 199278,
+      "name": "octobre, encore",
+      "url": "https://open.spotify.com/track/2cCeOGVRK2dnJ9G5TQvH7u"
     }
   ],
   "unique_name": "ALT_QC",

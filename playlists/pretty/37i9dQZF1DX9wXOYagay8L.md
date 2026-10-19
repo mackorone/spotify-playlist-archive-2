@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Ringo Madlingozi, Thanda Music, Phila Madlingozi
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,319 likes - 95 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,353 likes - 95 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

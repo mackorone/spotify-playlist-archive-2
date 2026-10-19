@@ -107,6 +107,22 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c/MIRAI TICKET",
+        "url": "https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        }
+      ],
+      "duration_ms": 293880,
+      "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c",
+      "url": "https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "Awaken the power",
         "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
       },
@@ -139,24 +155,8 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c/MIRAI TICKET",
-        "url": "https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        }
-      ],
-      "duration_ms": 293880,
-      "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c",
-      "url": "https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u9752\u7a7aJumping Heart",
-        "url": "https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ"
+        "name": "WATER BLUE NEW WORLD/WONDERFUL STORIES",
+        "url": "https://open.spotify.com/album/6piMsWNiFJ3z6VNVUiRtUG"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
         }
       ],
-      "duration_ms": 284413,
-      "name": "\u9752\u7a7aJumping Heart",
-      "url": "https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA"
+      "duration_ms": 343413,
+      "name": "WATER BLUE NEW WORLD",
+      "url": "https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "Strawberry Trapper",
-        "url": "https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK"
-      },
-      "artists": [
-        {
-          "name": "Guilty Kiss",
-          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Guilty Night, Guilty Kiss!",
-      "url": "https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "GALAXY HidE and SeeK",
         "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
       },
@@ -235,8 +219,24 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "WATER BLUE NEW WORLD/WONDERFUL STORIES",
-        "url": "https://open.spotify.com/album/6piMsWNiFJ3z6VNVUiRtUG"
+        "name": "Strawberry Trapper",
+        "url": "https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Guilty Night, Guilty Kiss!",
+      "url": "https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u9752\u7a7aJumping Heart",
+        "url": "https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
         }
       ],
-      "duration_ms": 343413,
-      "name": "WATER BLUE NEW WORLD",
-      "url": "https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc"
+      "duration_ms": 284413,
+      "name": "\u9752\u7a7aJumping Heart",
+      "url": "https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
-        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
-      },
-      "artists": [
-        {
-          "name": "Guilty Kiss",
-          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
-        }
-      ],
-      "duration_ms": 302453,
-      "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
-      "url": "https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
         "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 227120,
       "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
       "url": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "duration_ms": 302453,
+      "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+      "url": "https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "New Romantic Sailors",
-        "url": "https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF"
-      },
-      "artists": [
-        {
-          "name": "Guilty Kiss",
-          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "New Romantic Sailors",
-      "url": "https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
         "url": "https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 310426,
       "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "New Romantic Sailors",
+        "url": "https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "New Romantic Sailors",
+      "url": "https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
-        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
-      },
-      "artists": [
-        {
-          "name": "Guilty Kiss",
-          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Shadow gate to love",
-      "url": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
         "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 278400,
       "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
       "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Shadow gate to love",
+      "url": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj"
     },
     {
       "added_at": "2024-12-17 16:20:41",

@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 136259,
+  "num_followers": 136287,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Rex Lawson's Greatest Hits",
-        "url": "https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0"
+        "name": "Rain Man: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
       "artists": [
         {
-          "name": "Cardinal Rex Jim Lawson",
-          "url": "https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI"
+          "name": "Savuka",
+          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
+        },
+        {
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
         }
       ],
-      "duration_ms": 180386,
-      "name": "Sawale",
-      "url": "https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0"
+      "duration_ms": 245626,
+      "name": "Scatterlings Of Africa",
+      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -203,22 +207,18 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Rain Man: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
+        "name": "Rex Lawson's Greatest Hits",
+        "url": "https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0"
       },
       "artists": [
         {
-          "name": "Savuka",
-          "url": "https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7"
-        },
-        {
-          "name": "Johnny Clegg",
-          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+          "name": "Cardinal Rex Jim Lawson",
+          "url": "https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI"
         }
       ],
-      "duration_ms": 245626,
-      "name": "Scatterlings Of Africa",
-      "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+      "duration_ms": 180386,
+      "name": "Sawale",
+      "url": "https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Daddy Lumba Essentials",
+        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 337606,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Daddy Lumba Essentials",
-        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 337606,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
     },
     {
       "added_at": "2025-09-30 11:32:09",

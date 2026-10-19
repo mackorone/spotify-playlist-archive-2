@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Rubber Soul (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3ICK3lBLOuStuhttDJOtnq"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170120,
+      "name": "Day Tripper (2023 Mix)",
+      "url": "https://open.spotify.com/track/2aHIsu5QYQc5tUR2KaN5Ke"
+    },
+    {
+      "album": {
         "name": "Day Tripper (Songwriting Work Tape)",
         "url": "https://open.spotify.com/album/0tg8bWIXHgk8XL6arW9Y2v"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 169613,
       "name": "Day Tripper - Remastered 2009",
       "url": "https://open.spotify.com/track/3hNUYt4dMM9RhcWmty8oKF"

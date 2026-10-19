@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 370978,
+  "num_followers": 371178,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "forgotten dreams",
-        "url": "https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU"
-      },
-      "artists": [
-        {
-          "name": "Bluegaze",
-          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
-        },
-        {
-          "name": "hir\u00e6th",
-          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "forgotten dreams",
-      "url": "https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "PHANTOM BRICKWORKS (LP II)",
         "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
       },
@@ -899,6 +879,42 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "forgotten dreams",
+        "url": "https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "forgotten dreams",
+      "url": "https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "distant feeling",
+        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
+      },
+      "artists": [
+        {
+          "name": "dreamzz",
+          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
+        }
+      ],
+      "duration_ms": 99600,
+      "name": "distant feeling",
+      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Non Fiction: I. Sonore - Animato - Meno Mosso",
         "url": "https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 207939,
       "name": "Non Fiction: I.I Sonore",
       "url": "https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "distant feeling",
-        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
-      },
-      "artists": [
-        {
-          "name": "dreamzz",
-          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
-        }
-      ],
-      "duration_ms": 99600,
-      "name": "distant feeling",
-      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -995,18 +995,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+        "name": "Decomposition: Fox on a Highway",
+        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
       "artists": [
         {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+          "name": "Saapato",
+          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
+        },
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
         }
       ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+      "duration_ms": 201423,
+      "name": "Fur and Exhaust",
+      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Decomposition: Fox on a Highway",
-        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
       },
       "artists": [
         {
-          "name": "Saapato",
-          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
-        },
-        {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
         }
       ],
-      "duration_ms": 201423,
-      "name": "Fur and Exhaust",
-      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Rainy morning",
-        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
-      },
-      "artists": [
-        {
-          "name": "arancina",
-          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
-        },
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Rainy morning",
-      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Rainy morning",
+        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Rainy morning",
+      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "distant, elsewhere",
+        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
+      },
+      "artists": [
+        {
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+        }
+      ],
+      "duration_ms": 150006,
+      "name": "distant, elsewhere",
+      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -1295,34 +1311,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "distant, elsewhere",
-        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
+        "name": "last days of summer",
+        "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
       },
       "artists": [
         {
-          "name": "kurisu.",
-          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
         }
       ],
-      "duration_ms": 150006,
-      "name": "distant, elsewhere",
-      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
-      },
-      "artists": [
-        {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+      "duration_ms": 125606,
+      "name": "last days of summer",
+      "url": "https://open.spotify.com/track/5sImR8kG7oW7csP4QhtoXI"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1339,6 +1339,22 @@
       "duration_ms": 489320,
       "name": "Spectral",
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "last days of summer",
-        "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
-      },
-      "artists": [
-        {
-          "name": "n\u0153m.",
-          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
-        }
-      ],
-      "duration_ms": 125606,
-      "name": "last days of summer",
-      "url": "https://open.spotify.com/track/5sImR8kG7oW7csP4QhtoXI"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "in/between.",
+        "url": "https://open.spotify.com/album/0NRiEqM3p6ytRYhlvCvA5o"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "entity.",
+      "url": "https://open.spotify.com/track/67BaHy0IDZNcw4hxCGZ7UO"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1447,38 +1463,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "in/between.",
-        "url": "https://open.spotify.com/album/0NRiEqM3p6ytRYhlvCvA5o"
-      },
-      "artists": [
-        {
-          "name": "Blu Velvet",
-          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "entity.",
-      "url": "https://open.spotify.com/track/67BaHy0IDZNcw4hxCGZ7UO"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Fallen Down",
-        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
-      },
-      "artists": [
-        {
-          "name": "Duncan Cox",
-          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
-        }
-      ],
-      "duration_ms": 141219,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "The Beautiful World",
         "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
       },
@@ -1491,22 +1475,6 @@
       "duration_ms": 178858,
       "name": "Stray",
       "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1531,6 +1499,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Fallen Down",
+        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
+      },
+      "artists": [
+        {
+          "name": "Duncan Cox",
+          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
+        }
+      ],
+      "duration_ms": 141219,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Dance of Seasons",
         "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 422853,
       "name": "Dance of Seasons",
       "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/2YRqfke64aQbk1jibcIXGK"
+      },
+      "artists": [
+        {
+          "name": "Eonfade",
+          "url": "https://open.spotify.com/artist/1sGUUo98GyCXdstHIujOw1"
+        }
+      ],
+      "duration_ms": 132467,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/62NiG0RlA82SmdFFfx62uo"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "At Night",
-        "url": "https://open.spotify.com/album/2YRqfke64aQbk1jibcIXGK"
-      },
-      "artists": [
-        {
-          "name": "Eonfade",
-          "url": "https://open.spotify.com/artist/1sGUUo98GyCXdstHIujOw1"
-        }
-      ],
-      "duration_ms": 132467,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/62NiG0RlA82SmdFFfx62uo"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "trust no one",
+        "url": "https://open.spotify.com/album/3k82CCqlXZ01UExxbZqZ4P"
+      },
+      "artists": [
+        {
+          "name": "Necrem",
+          "url": "https://open.spotify.com/artist/6hMjnaf9Ow1dJSGeBudJa7"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "our secrects",
+      "url": "https://open.spotify.com/track/2MVDIJH1mFCCIyaXnTPDQh"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Womb Trails",
         "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "trust no one",
-        "url": "https://open.spotify.com/album/3k82CCqlXZ01UExxbZqZ4P"
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
       "artists": [
         {
-          "name": "Necrem",
-          "url": "https://open.spotify.com/artist/6hMjnaf9Ow1dJSGeBudJa7"
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
         }
       ],
-      "duration_ms": 112000,
-      "name": "our secrects",
-      "url": "https://open.spotify.com/track/2MVDIJH1mFCCIyaXnTPDQh"
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Bardo Landscape",
-        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Bardo Landscape",
-      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "my heart",
         "url": "https://open.spotify.com/album/3PXDESsfEy8pAmOeanlaOY"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 74584,
       "name": "my heart",
       "url": "https://open.spotify.com/track/7IveK650zPJHeNx15gBlbE"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Bardo Landscape",
+        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Bardo Landscape",
+      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
     },
     {
       "added_at": "2026-09-23 13:23:25",

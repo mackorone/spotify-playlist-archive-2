@@ -712,6 +712,28 @@
       },
       "artists": [
         {
+          "name": "NXT",
+          "url": "https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch"
+        },
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146107,
+      "name": "Ik voel het",
+      "url": "https://open.spotify.com/track/2C6SmlgpOEgGolSw0ue4HE"
+    },
+    {
+      "album": {
+        "name": "47 - Spot aan",
+        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
+      },
+      "artists": [
+        {
           "name": "Kinderen voor Kinderen",
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
@@ -1082,7 +1104,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 173333,
       "name": "Reis mee!",
       "url": "https://open.spotify.com/track/2vINFq5NlL2zC247YSWXwt"

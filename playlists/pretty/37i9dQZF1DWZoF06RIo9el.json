@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1541687,
+  "num_followers": 1541538,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-10-10 03:37:11",
       "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "added_at": "2026-10-10 03:37:11",
+      "album": {
         "name": "No es tu estilo",
         "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
       },
@@ -639,18 +655,22 @@
     {
       "added_at": "2026-10-10 03:37:11",
       "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+        "name": "DR. STRANGE",
+        "url": "https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz"
       },
       "artists": [
         {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
         }
       ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+      "duration_ms": 163909,
+      "name": "DR. STRANGE",
+      "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
     },
     {
       "added_at": "2026-10-10 03:37:11",
@@ -671,26 +691,6 @@
       "duration_ms": 162333,
       "name": "La gravedad y el tiempo.",
       "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
-    },
-    {
-      "added_at": "2026-10-10 03:37:11",
-      "album": {
-        "name": "DR. STRANGE",
-        "url": "https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz"
-      },
-      "artists": [
-        {
-          "name": "Anakin Larios",
-          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
-        },
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 163909,
-      "name": "DR. STRANGE",
-      "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
     },
     {
       "added_at": "2026-10-10 03:37:11",

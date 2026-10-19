@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 321293,
       "name": "You Won",
       "url": "https://open.spotify.com/track/6j5fVSOBfFFuJvjQXkMLQO"
@@ -2156,6 +2156,24 @@
       "duration_ms": 165560,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/5ffdMuuGqSLevQL2ILFAXG"
+    },
+    {
+      "album": {
+        "name": "PROJECT Love pill",
+        "url": "https://open.spotify.com/album/5bNnst3ehOrJMLwFZj0aZW"
+      },
+      "artists": [
+        {
+          "name": "\u0e2d\u0e31\u0e17\u0e18\u0e4c \u0e2d\u0e31\u0e07\u0e04\u0e4c\u0e01\u0e39\u0e13\u0e11\u0e4c",
+          "url": "https://open.spotify.com/artist/0M82SKGZpGC9CWSsKdNQG3"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242532,
+      "name": "\u0e27\u0e19",
+      "url": "https://open.spotify.com/track/06eYkgBfYDtpdkvJmSp1Nv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFBiGiwcUGpL3"

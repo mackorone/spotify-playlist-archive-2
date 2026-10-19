@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atAXgAAAAAD8Bp2wuNQMn0hrX02KNjrN",
+  "snapshot_id": "atK6gAAAAACbjDUHw7CI5LV7vBIxK4h0",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Float (feat. BAYLI)",
+        "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Sparrow (CH)",
+          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Float (feat. BAYLI)",
+      "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 111345,
+      "name": "fem-onomics",
+      "url": "https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SuperGood",
         "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
@@ -371,46 +411,6 @@
       "duration_ms": 231118,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 111345,
-      "name": "fem-onomics",
-      "url": "https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Float (feat. BAYLI)",
-        "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
-      },
-      "artists": [
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        },
-        {
-          "name": "Sparrow (CH)",
-          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Float (feat. BAYLI)",
-      "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hi_TEK MZK, VOL. 1",
         "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 180000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/1ux0qtopD4gfcGwmirx8Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,

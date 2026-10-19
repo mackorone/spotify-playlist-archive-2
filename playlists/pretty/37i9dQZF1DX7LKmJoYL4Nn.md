@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,448 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,449 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 69 | [明鏡流水](https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3) | [紅月](https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [紅月「明鏡流水」あんさんぶるスターズ！！ ESアイドルソング Extra](https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl) | 3:37 |
 | 70 | [UNFADING](https://open.spotify.com/track/0bcTIX7FtcAuzMSdq7cQcG) | [Jin & Akiomi](https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Jin & Akiomi「UNFADING」あんさんぶるスターズ！！ ESアイドルソング Extra](https://open.spotify.com/album/2NfTUmx82sIijUlM05pe9V) | 3:42 |
 | 71 | [Love∞Scramble「両片思いの交差点で、君にまた逢いたくて」あんさんぶるスターズ！！ ESアイドルソング Extra \- Instrumental](https://open.spotify.com/track/2peA1KdBw3pmDqrnXwfI3n) | [Love∞Scramble](https://open.spotify.com/artist/530vyrjeFLJU163awYCLU7), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Love∞Scramble「両片思いの交差点で、君にまた逢いたくて」あんさんぶるスターズ！！ ESアイドルソング Extra \(Instrumental\)](https://open.spotify.com/album/6HCQeCSQSz8tkubFWK5VQt) | 4:45 |
-| 72 | [Have you been naughty or nice? \- Game Edit](https://open.spotify.com/track/09pdj4tB9lNyobvEZcxIe7) | [Flambé!/天城 燐音\(CV.阿座上 洋平\)、真白 友也\(CV.比留間 俊哉\)、明星 スバル\(CV.柿原 徹也\)、伏見 弓弦\(CV.橋本 晃太朗\)、七種 茨\(CV.逢坂 良太\)](https://open.spotify.com/artist/0JBdo51QAQ2mMOIH5ft1ag) | [あんさんぶるスターズ！！ Flambé！「Have you been naughty or nice?」 \(Game Edit\)](https://open.spotify.com/album/4HERdcQns4A7gHeCnspkc1) | 2:14 |
-| 73 | [Be The Party Bee!](https://open.spotify.com/track/0tJLRe2JDsFAKhBNOw1n7i) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ユニットソングCD Crazy:B](https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j) | 3:45 |
-| 74 | [Angelic Grace](https://open.spotify.com/track/0zJO7hUoSLutcwUAA7JsXx) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine](https://open.spotify.com/album/2SNuhzWNGPRSeEYEScL2Do) | 4:23 |
-| 75 | [Last Lament](https://open.spotify.com/track/3kUM43sqTFPBXV1SCWYCjm) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 3:54 |
+| 72 | [Silent Oath](https://open.spotify.com/track/1Cirj2OMs3qMvmOAQhLZHo) | [Knights/月永レオ\(CV.浅沼晋太郎\)、瀬名泉\(CV.伊藤マサミ\)、朔間凛月\(CV.山下大輝\)、鳴上嵐\(CV.北村諒\)、朱桜司\(CV.土田玲央\)](https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 5:13 |
+| 73 | [Crush of Judgment](https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8) | [ナイトキラーズ/月永レオ\(CV.浅沼晋太郎\)、天祥院英智\(CV.緑川光\)、鬼龍紅郎\(CV.神尾晋一郎\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:26 |
+| 74 | [Luminous Crown](https://open.spotify.com/track/0oG2TOqvMOb8R8XbSHTjlN) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:00 |
+| 75 | [Have you been naughty or nice? \- Game Edit](https://open.spotify.com/track/09pdj4tB9lNyobvEZcxIe7) | [Flambé!/天城 燐音\(CV.阿座上 洋平\)、真白 友也\(CV.比留間 俊哉\)、明星 スバル\(CV.柿原 徹也\)、伏見 弓弦\(CV.橋本 晃太朗\)、七種 茨\(CV.逢坂 良太\)](https://open.spotify.com/artist/0JBdo51QAQ2mMOIH5ft1ag) | [あんさんぶるスターズ！！ Flambé！「Have you been naughty or nice?」 \(Game Edit\)](https://open.spotify.com/album/4HERdcQns4A7gHeCnspkc1) | 2:14 |
 
 Snapshot ID: `AAAAAFe2keGUZvY9+7oU/9P4UGxROcFz`

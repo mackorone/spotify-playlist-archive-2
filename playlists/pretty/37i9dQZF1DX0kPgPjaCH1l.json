@@ -1,6 +1,6 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover: FOLA",
-  "num_followers": 104535,
+  "num_followers": 104621,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-10-16 00:47:32",
       "album": {
+        "name": "Promise Land",
+        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
+      },
+      "artists": [
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
+    },
+    {
+      "added_at": "2026-10-16 00:47:32",
+      "album": {
         "name": "Dealer",
         "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 180594,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
-    },
-    {
-      "added_at": "2026-10-16 00:47:32",
-      "album": {
-        "name": "Promise Land",
-        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
-      },
-      "artists": [
-        {
-          "name": "Evado",
-          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
     },
     {
       "added_at": "2026-10-16 00:47:32",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-10-16 00:47:32",
       "album": {
-        "name": "MAFFIAN",
-        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Are you there?",
-      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
-    },
-    {
-      "added_at": "2026-10-16 00:47:32",
-      "album": {
         "name": "Never Fold",
         "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170475,
       "name": "Rules Of Life",
       "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+    },
+    {
+      "added_at": "2026-10-16 00:47:32",
+      "album": {
+        "name": "MAFFIAN",
+        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Are you there?",
+      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
     },
     {
       "added_at": "2026-10-16 00:47:32",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-10-16 00:47:32",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+        "name": "22",
+        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
       },
       "artists": [
         {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 170626,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5qXKP8mciCAtjLfr91LwVl"
+      "duration_ms": 184000,
+      "name": "22",
+      "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
     },
     {
       "added_at": "2026-10-16 00:47:32",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-10-16 00:47:32",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 184000,
-      "name": "22",
-      "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
+      "duration_ms": 170626,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5qXKP8mciCAtjLfr91LwVl"
     },
     {
       "added_at": "2026-10-16 00:47:32",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-10-16 00:47:32",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161920,
-      "name": "Cry (with Black Sherif)",
-      "url": "https://open.spotify.com/track/6Xec7VYM3Y98esBVd6VCPh"
-    },
-    {
-      "added_at": "2026-10-16 00:47:32",
-      "album": {
         "name": "Barrystar, Vol. 2",
         "url": "https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2026-10-16 00:47:32",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161920,
+      "name": "Cry (with Black Sherif)",
+      "url": "https://open.spotify.com/track/6Xec7VYM3Y98esBVd6VCPh"
     },
     {
       "added_at": "2026-10-16 00:47:32",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2026-10-16 00:47:32",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
+      },
+      "artists": [
+        {
+          "name": "Khid Ceejay",
+          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
+    },
+    {
+      "added_at": "2026-10-16 00:47:32",
+      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
       },
@@ -1415,22 +1435,6 @@
       "duration_ms": 154514,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
-    },
-    {
-      "added_at": "2026-10-16 00:47:32",
-      "album": {
-        "name": "High Tension",
-        "url": "https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 154615,
-      "name": "Sho Mo Mi",
-      "url": "https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr"
     },
     {
       "added_at": "2026-10-16 00:47:32",

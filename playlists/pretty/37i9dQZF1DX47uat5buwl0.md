@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Banger na banger\. Cover: Def & brittneySGAT 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,480 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,474 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [brittneySGAT](https://open.spotify.com/artist/2Jn6vhCVYekLnLrDBXpfny) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
+| 1 | [Hey DJ](https://open.spotify.com/track/5XpOirYCo6qMxAuC2LPs7x) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [brittneySGAT](https://open.spotify.com/artist/2Jn6vhCVYekLnLrDBXpfny) | [Hey DJ](https://open.spotify.com/album/2v9ZXJx8pxIcvDzSQSBM1v) | 1:48 |
 | 2 | [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 |
 | 3 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 4 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 |
-| 5 | [Hey DJ](https://open.spotify.com/track/5XpOirYCo6qMxAuC2LPs7x) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [brittneySGAT](https://open.spotify.com/artist/2Jn6vhCVYekLnLrDBXpfny) | [Hey DJ](https://open.spotify.com/album/2v9ZXJx8pxIcvDzSQSBM1v) | 1:48 |
+| 5 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [brittneySGAT](https://open.spotify.com/artist/2Jn6vhCVYekLnLrDBXpfny) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
 | 6 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 |
 | 7 | [Ode To The Bouncer](https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF) | 2:27 |
 | 8 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 69 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
 | 70 | [Drugsprobleem](https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk) | 2:44 |
 
-Snapshot ID: `AAAAAKlJ0wzUq5AiHz3YFO1NnUA4Odok`
+Snapshot ID: `AAAAAHThTUxMDVWsJ6aBO0KTmB+EGzef`

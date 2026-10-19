@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > sophia stel\-lar ⚓ <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,320 likes - 137 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,311 likes - 137 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

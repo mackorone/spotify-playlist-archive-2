@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 226526,
       "name": "The Floor is Lava 2 - Into the Volcano",
       "url": "https://open.spotify.com/track/09zBhV6REwERPc3LDy1xx0"
@@ -1010,6 +1010,24 @@
       "duration_ms": 192559,
       "name": "The Robot Dance",
       "url": "https://open.spotify.com/track/6fwNk2mnS6TWcoY6JgQWxG"
+    },
+    {
+      "album": {
+        "name": "The Skeleton Shake",
+        "url": "https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217103,
+      "name": "The Skeleton Shake",
+      "url": "https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F"
     },
     {
       "album": {

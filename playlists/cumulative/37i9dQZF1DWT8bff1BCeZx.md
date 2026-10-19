@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,150 songs - 3 day 4 hr 27 min
+1,151 songs - 3 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Fly \- Live](https://open.spotify.com/track/4DJfQspWDmSeiv54vYjEtA) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Olaf Ranai](https://open.spotify.com/artist/5L5rUNnfqf1Q6gARr3cNn6), [Jason Nyembo](https://open.spotify.com/artist/1OXiSRf5fZDESWiSX5EUDa), [Aromanda Rza](https://open.spotify.com/artist/2jXP5jgzRZjQk1kMtyoA8L), [Faniry Andrianarisoa](https://open.spotify.com/artist/6kAnGDmtPxGvPYacPw4xvW) | [Fly \(Live\)](https://open.spotify.com/album/60TlD3YXUPJgNrwLkttDOa) | 2:53 | 2025-03-21 | 2025-05-23 |
 | [Fly \- Live Recording Version](https://open.spotify.com/track/376QxXT811YFnViUCxQYOT) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j) | [Fly \(Live Recording Version\)](https://open.spotify.com/album/6eRkmVo0ROrMnm0PPR1pbj) | 4:31 | 2025-09-12 | 2026-01-15 |
 | [Focus On Jesus](https://open.spotify.com/track/71WLJ3kKPA7yIw5XanKY2U) | [Lily Perez](https://open.spotify.com/artist/4q1WSwssICii8AJOeFd5KD) | [Focus On Jesus](https://open.spotify.com/album/2bg4qVheQTBZfOqd9RU4Vf) | 2:15 | 2024-11-08 | 2025-04-04 |
-| [Follow](https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Follow](https://open.spotify.com/album/42WGv4UQdCZiqo8JFVoAG3) | 1:51 | 2026-08-28 |  |
+| [Follow](https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Follow](https://open.spotify.com/album/42WGv4UQdCZiqo8JFVoAG3) | 1:51 | 2026-08-28 | 2026-10-19 |
 | [FOLLOW FOREVER](https://open.spotify.com/track/6UUZGmsJ3MWJ2wT49eIvPH) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [FOLLOW FOREVER](https://open.spotify.com/album/5wCDBz912y4QcstCd1ljYr) | 9:44 | 2025-10-03 | 2025-11-14 |
 | [FOLLOW GOD](https://open.spotify.com/track/3piT50y2x8sWAXujhJxJG0) | [Dave D](https://open.spotify.com/artist/4ahGvCLLR0B2XBpO6xpBEx) | [FOLLOW GOD](https://open.spotify.com/album/2TXAbiRJAzwpW9DbAeyeEm) | 2:58 | 2025-01-04 | 2025-02-28 |
 | [Follow You](https://open.spotify.com/track/5Hss4dHqO53zuGEvZQWjIt) | [FHP](https://open.spotify.com/artist/5Scr9fUfWVlS8JmT9delI1) | [Follow You](https://open.spotify.com/album/2MV5OORnaFDn1aYmM586UG) | 4:01 | 2025-10-31 | 2025-11-14 |
@@ -984,6 +984,7 @@
 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 | 2025-10-17 | 2026-01-15 |
 | [Thank You Jesus](https://open.spotify.com/track/3GLsRIMYWv1Cwi0tcFfPlN) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Thank You Jesus](https://open.spotify.com/album/5alH2kIoUmr7So0wIUMXlJ) | 4:16 | 2026-02-13 | 2026-03-13 |
 | [Thank You Jesus \- Amapiano](https://open.spotify.com/track/7qbTn2bNnoFSuW0skjyzFw) | [ToLmusic](https://open.spotify.com/artist/4cCnxbnfiFhwZQnEmQf5Dt) | [Thank You Jesus \(Amapiano\)](https://open.spotify.com/album/5KBUE0OHb3fnfE1yWGok8k) | 3:33 | 2026-10-02 |  |
+| [Thank You Lord](https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk), [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Thank You Lord](https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF) | 4:51 | 2026-10-16 |  |
 | [Thanksgiving SZN](https://open.spotify.com/track/29h4WJUiN9tcOyAePYL7K1) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I) | [Thanksgiving SZN](https://open.spotify.com/album/2c7PW8nDJT3cGYUl0KepR3) | 3:33 | 2026-09-25 |  |
 | [THAT GENERATION \- Live From The Song Of Sons Project](https://open.spotify.com/track/410PJqCS2fOaTu058aFNPr) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [THAT GENERATION \(Live From The Song Of Sons Project\)](https://open.spotify.com/album/1iWxYvs1BENg4iGSahahEz) | 4:19 | 2025-04-04 | 2025-06-13 |
 | [That's Who I Praise](https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [That's Who I Praise](https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR) | 3:48 | 2025-06-06 |  |

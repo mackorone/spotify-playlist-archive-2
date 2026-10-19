@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-631 songs - 1 day 6 hr 2 min
+632 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Assunto Resolvido](https://open.spotify.com/track/2TQbVYjR8UeM85Hcyrzo1L) | [Lucas Akira e Fábio](https://open.spotify.com/artist/2EaDSEBebaEs4A24AJJepr) | [Assunto Resolvido](https://open.spotify.com/album/0bytYR6WJFxx8foqtikvKR) | 3:12 | 2025-05-31 |  |
 | [Assunto Resolvido \- Ao Vivo](https://open.spotify.com/track/24EXVPq3gNMuIMpSHL1IfE) | [Danilo Bottrel](https://open.spotify.com/artist/3dbCf6Y9R7lzKi3B2jfv9I) | [Ao Vivo em Escarpas do Lago](https://open.spotify.com/album/6pnuFzOE6JfL8dPxdlE3Io) | 2:50 | 2024-01-29 | 2025-06-01 |
 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 | 2024-01-29 | 2025-04-02 |
-| [Atual Idiota](https://open.spotify.com/track/3pznozsS5fGuoFOMMcNQLE) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Atual Idiota](https://open.spotify.com/album/6o8u8FyOx9CWqWg25XxTwx) | 3:51 | 2025-05-31 |  |
+| [Atual Idiota](https://open.spotify.com/track/3pznozsS5fGuoFOMMcNQLE) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Atual Idiota](https://open.spotify.com/album/6o8u8FyOx9CWqWg25XxTwx) | 3:51 | 2025-05-31 | 2026-10-19 |
+| [Atual Idiota](https://open.spotify.com/track/6FXcVnjZcTj9XBVpfcZldv) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Atual Idiota](https://open.spotify.com/album/1pZsCkbGovo0pmSG5QQNY6) | 3:51 | 2026-10-18 |  |
 | [Atual idiota](https://open.spotify.com/track/6s1wQxdeFgdncUqXu4cnK5) | [Milord](https://open.spotify.com/artist/6FBgdfsSHL91n4Be3qfAaK) | [Verão 2024](https://open.spotify.com/album/7rjxAtzuAOlrZ6FgbieMu1) | 2:37 | 2024-07-31 | 2024-10-10 |
 | [Até Nunca Mais](https://open.spotify.com/track/2usm5XOFde2zSxaKJ3fNLN) | [Everton e Marcos](https://open.spotify.com/artist/3vWwVA0XeEpUj1hjIBwPzg) | [Ressurgindo das Cinzas](https://open.spotify.com/album/59dkg3TPf2DnpHtWqFQvI9) | 2:51 | 2024-03-26 | 2025-06-28 |
 | [Até Nunca Mais](https://open.spotify.com/track/1KpJLFtyb5vILOtDHPHTYC) | [Luis Morall](https://open.spotify.com/artist/4znAbxlWOo5iilmf7yVh2X), [Vinícius o Baixinho](https://open.spotify.com/artist/6abOe7bMUkJaJNNdUkFRVq) | [Antes Só do Que Mal Acompanhado](https://open.spotify.com/album/3pZSgI8oEeP7Xa6937gqug) | 3:15 | 2024-01-29 | 2024-02-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 46469,
+  "num_followers": 46506,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
+        "name": "Ichhabal Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Ghamaan Di Raat Lammi Ae",
+      "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
         "name": "Dil Mera Dol Da",
         "url": "https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 548127,
       "name": "Ruh Le Gaya Dil da Jani",
       "url": "https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
-        "name": "Ichhabal Modern Punjabi Poerty",
-        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Ghamaan Di Raat Lammi Ae",
-      "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
     },
     {
       "added_at": "2026-10-01 13:03:08",

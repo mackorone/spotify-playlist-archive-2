@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -7702,7 +7702,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -10668,7 +10668,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 230581,
       "name": "Let go",
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
@@ -14096,7 +14096,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -15356,7 +15356,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -20656,7 +20656,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -24710,7 +24710,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 226873,
       "name": "\u5c31\u7b97\u6211\u932f\u6f0f\u767e\u51fa",
       "url": "https://open.spotify.com/track/6b0Edx5yaxu2NKWO01oczU"
@@ -27755,6 +27755,24 @@
     },
     {
       "album": {
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/3tUkZFQdIMavR8VnKYP52a"
+      },
+      "artists": [
+        {
+          "name": "Gigi Leung",
+          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "\u7070\u59d1\u5a18",
+      "url": "https://open.spotify.com/track/6VGlD9ot0bY1AeLqA5w0Ps"
+    },
+    {
+      "album": {
         "name": "\u70ba\u4f55\u56b4\u91cd\u5230\u9019\u6a23",
         "url": "https://open.spotify.com/album/6DDFMr8Io5YbT7WW1DNdfP"
       },
@@ -29107,6 +29125,24 @@
     },
     {
       "album": {
+        "name": "Live Like 18 (\u65b0\u66f2+\u7cbe\u9078)",
+        "url": "https://open.spotify.com/album/6CcXTe40S46KQ7IdIgrOG7"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Cheng",
+          "url": "https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "\u7d05\u7da0\u71c8",
+      "url": "https://open.spotify.com/track/3Pj9gTUfcQEBe1glNWNwF9"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK"
       },
@@ -29360,7 +29396,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 249266,
       "name": "\u7f8e\u9e97\u4e4b\u6700",
       "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"

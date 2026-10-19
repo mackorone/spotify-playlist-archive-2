@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: Sezer Sar\u0131g\u00f6z",
-  "num_followers": 184781,
+  "num_followers": 184785,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-10-13 10:00:05",
       "album": {
+        "name": "Karars\u0131z\u0131m (Akustik)",
+        "url": "https://open.spotify.com/album/6Gzz0WIVCd6pPYVvBtGg4l"
+      },
+      "artists": [
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        },
+        {
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+        }
+      ],
+      "duration_ms": 253124,
+      "name": "Karars\u0131z\u0131m - Akustik",
+      "url": "https://open.spotify.com/track/6PCx7zUXAsPJFNXqe30dsf"
+    },
+    {
+      "added_at": "2026-10-13 10:00:05",
+      "album": {
         "name": "\u00c7\u0131kt\u0131 Yang\u0131nlar",
         "url": "https://open.spotify.com/album/25KF6IYYRYUGbPBcIOKCY8"
       },
@@ -1319,6 +1339,50 @@
       "duration_ms": 169796,
       "name": "\u00c7\u0131kt\u0131 Yang\u0131nlar",
       "url": "https://open.spotify.com/track/4kjQ47cziTQ17YIA62KcgX"
+    },
+    {
+      "added_at": "2026-10-13 10:00:05",
+      "album": {
+        "name": "Bir Dakika Dur",
+        "url": "https://open.spotify.com/album/2FuYCiAeXZTTVTSGpZdOol"
+      },
+      "artists": [
+        {
+          "name": "Sinan Ak\u00e7\u0131l",
+          "url": "https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx"
+        },
+        {
+          "name": "Sevgim Y\u0131lmaz",
+          "url": "https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "duration_ms": 160389,
+      "name": "Bir Dakika Dur",
+      "url": "https://open.spotify.com/track/0IvwU5QR2fM3lXlVPuzM1r"
+    },
+    {
+      "added_at": "2026-10-13 10:00:05",
+      "album": {
+        "name": "Karak\u0131\u015f",
+        "url": "https://open.spotify.com/album/2FDPWuKEWcfIgv9JpAR6UW"
+      },
+      "artists": [
+        {
+          "name": "Mert Demir",
+          "url": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
+        },
+        {
+          "name": "Kibariye",
+          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
+        }
+      ],
+      "duration_ms": 246944,
+      "name": "Karak\u0131\u015f",
+      "url": "https://open.spotify.com/track/1WZNBiUdfCjJ6LxKuPw1gl"
     },
     {
       "added_at": "2026-10-13 10:00:05",
@@ -1363,46 +1427,6 @@
     {
       "added_at": "2026-10-13 10:00:05",
       "album": {
-        "name": "Karak\u0131\u015f",
-        "url": "https://open.spotify.com/album/2FDPWuKEWcfIgv9JpAR6UW"
-      },
-      "artists": [
-        {
-          "name": "Mert Demir",
-          "url": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
-        },
-        {
-          "name": "Kibariye",
-          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
-        }
-      ],
-      "duration_ms": 246944,
-      "name": "Karak\u0131\u015f",
-      "url": "https://open.spotify.com/track/1WZNBiUdfCjJ6LxKuPw1gl"
-    },
-    {
-      "added_at": "2026-10-13 10:00:05",
-      "album": {
-        "name": "Karars\u0131z\u0131m (Akustik)",
-        "url": "https://open.spotify.com/album/6Gzz0WIVCd6pPYVvBtGg4l"
-      },
-      "artists": [
-        {
-          "name": "Ebru Ya\u015far",
-          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
-        },
-        {
-          "name": "Mela Bedel",
-          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
-        }
-      ],
-      "duration_ms": 253124,
-      "name": "Karars\u0131z\u0131m - Akustik",
-      "url": "https://open.spotify.com/track/6PCx7zUXAsPJFNXqe30dsf"
-    },
-    {
-      "added_at": "2026-10-13 10:00:05",
-      "album": {
         "name": "Benim Gibi Olmayacak",
         "url": "https://open.spotify.com/album/2rREPd63PJDPTqWDSjlpBw"
       },
@@ -1415,30 +1439,6 @@
       "duration_ms": 169714,
       "name": "Benim Gibi Olmayacak",
       "url": "https://open.spotify.com/track/7wLUC7Pj8YTNJ0WPnF2t2b"
-    },
-    {
-      "added_at": "2026-10-13 10:00:05",
-      "album": {
-        "name": "Bir Dakika Dur",
-        "url": "https://open.spotify.com/album/2FuYCiAeXZTTVTSGpZdOol"
-      },
-      "artists": [
-        {
-          "name": "Sinan Ak\u00e7\u0131l",
-          "url": "https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx"
-        },
-        {
-          "name": "Sevgim Y\u0131lmaz",
-          "url": "https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO"
-        },
-        {
-          "name": "B\u00fcken",
-          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
-        }
-      ],
-      "duration_ms": 160389,
-      "name": "Bir Dakika Dur",
-      "url": "https://open.spotify.com/track/0IvwU5QR2fM3lXlVPuzM1r"
     },
     {
       "added_at": "2026-10-13 10:00:05",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-10-13 10:00:05",
       "album": {
-        "name": "Zor",
-        "url": "https://open.spotify.com/album/3y7xkd3xhPtBjo8KRL7qd4"
-      },
-      "artists": [
-        {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Zor",
-      "url": "https://open.spotify.com/track/3x4VM1rt9bXvDZYqPbbpjf"
-    },
-    {
-      "added_at": "2026-10-13 10:00:05",
-      "album": {
         "name": "Anlatas\u0131m Var",
         "url": "https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 239051,
       "name": "Esmer Yang\u0131n",
       "url": "https://open.spotify.com/track/5vHOz4L13HSQuKTw6TXwxZ"
+    },
+    {
+      "added_at": "2026-10-13 10:00:05",
+      "album": {
+        "name": "Zor",
+        "url": "https://open.spotify.com/album/3y7xkd3xhPtBjo8KRL7qd4"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Zor",
+      "url": "https://open.spotify.com/track/3x4VM1rt9bXvDZYqPbbpjf"
     },
     {
       "added_at": "2026-10-13 10:00:05",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-10-13 10:00:05",
       "album": {
-        "name": "Bitti",
-        "url": "https://open.spotify.com/album/0wUm99URRLXqjgvH1w5aP0"
-      },
-      "artists": [
-        {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
-        }
-      ],
-      "duration_ms": 172147,
-      "name": "Bitti",
-      "url": "https://open.spotify.com/track/0KN5jobcA3qEwvqeuboHEy"
-    },
-    {
-      "added_at": "2026-10-13 10:00:05",
-      "album": {
         "name": "YEN\u0130 B\u0130R\u0130",
         "url": "https://open.spotify.com/album/14ZzDyIYf5mBua5zRnIldK"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 153796,
       "name": "YEN\u0130 B\u0130R\u0130",
       "url": "https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r"
+    },
+    {
+      "added_at": "2026-10-13 10:00:05",
+      "album": {
+        "name": "Bitti",
+        "url": "https://open.spotify.com/album/0wUm99URRLXqjgvH1w5aP0"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "duration_ms": 172147,
+      "name": "Bitti",
+      "url": "https://open.spotify.com/track/0KN5jobcA3qEwvqeuboHEy"
     },
     {
       "added_at": "2026-10-13 10:00:05",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-10-13 10:00:05",
       "album": {
-        "name": "\u0130yi Ki Sen",
-        "url": "https://open.spotify.com/album/6DJldc4RoYfVHxkWnK7sBX"
-      },
-      "artists": [
-        {
-          "name": "Kurtulu\u015f Ku\u015f",
-          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "\u0130yi Ki Sen",
-      "url": "https://open.spotify.com/track/40PhqU68xiVbYWVjhWvAdK"
-    },
-    {
-      "added_at": "2026-10-13 10:00:05",
-      "album": {
         "name": "Unutamad\u0131m Ad\u0131n\u0131 (Akustik)",
         "url": "https://open.spotify.com/album/0W0w8T3DLuo5Kg8d5WwEYY"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 154940,
       "name": "Yerin Dolmuyor",
       "url": "https://open.spotify.com/track/2xVM712dqGiYhbBCeRlMkl"
+    },
+    {
+      "added_at": "2026-10-13 10:00:05",
+      "album": {
+        "name": "\u0130yi Ki Sen",
+        "url": "https://open.spotify.com/album/6DJldc4RoYfVHxkWnK7sBX"
+      },
+      "artists": [
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "\u0130yi Ki Sen",
+      "url": "https://open.spotify.com/track/40PhqU68xiVbYWVjhWvAdK"
     },
     {
       "added_at": "2026-10-13 10:00:05",

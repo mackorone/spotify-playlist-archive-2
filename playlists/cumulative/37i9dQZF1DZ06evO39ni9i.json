@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Heard Ya Missed Me, Well I'm Back",
+        "url": "https://open.spotify.com/album/6IMgZf0zCPBgJsvtDKsayV"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232667,
+      "name": "Blessing In Disguise",
+      "url": "https://open.spotify.com/track/4jl0hoOxoMIB60j5dfJQxp"
+    },
+    {
+      "album": {
         "name": "There's a Riot Goin' On",
         "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
       },
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 267546,
       "name": "Skate Now - Live At Winchester Cathedral 1967",
       "url": "https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM"

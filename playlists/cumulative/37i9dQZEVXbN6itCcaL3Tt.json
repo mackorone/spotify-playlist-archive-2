@@ -659,6 +659,40 @@
     },
     {
       "album": {
+        "name": "100k",
+        "url": "https://open.spotify.com/album/2LgxeqoCT3t0HSiKo3SR3v"
+      },
+      "artists": [
+        {
+          "name": "GOMBAO 33",
+          "url": "https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Wygu\u015b",
+          "url": "https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ"
+        },
+        {
+          "name": "Tadeo",
+          "url": "https://open.spotify.com/artist/6EFSZTPDOBeFxoznzL0aTb"
+        },
+        {
+          "name": "Szczepan",
+          "url": "https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174953,
+      "name": "100k",
+      "url": "https://open.spotify.com/track/3eJ9V340QHSJY7PJ1LtdtW"
+    },
+    {
+      "album": {
         "name": "100k Euro",
         "url": "https://open.spotify.com/album/4L8RcPpCTfuJCQ9w3lnMp1"
       },
@@ -2586,7 +2620,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/6LchyI3DOmqz4oyUMGuv1v"
@@ -6056,7 +6090,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 158918,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/2eEhzRhKCXmqqsc405M2Oc"
@@ -7186,7 +7220,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 270459,
       "name": "Bez Strachu",
       "url": "https://open.spotify.com/track/3z7q0YqcLNPFfjDP5gICfl"
@@ -10388,7 +10422,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 144000,
       "name": "Ca\u0142a noc",
       "url": "https://open.spotify.com/track/471biicMnufF5anbuKtGR9"
@@ -15498,7 +15532,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 204827,
       "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
       "url": "https://open.spotify.com/track/6JK4DeLPHmdpwP8uuKeu4r"
@@ -15664,7 +15698,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 165335,
       "name": "Dr. Traphouse (feat. Belmondo)",
       "url": "https://open.spotify.com/track/4oTxydt59qd2UO9BcFLU9e"
@@ -16882,7 +16916,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 173913,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6NMJJ7JvcVwvhUac5n0fRB"
@@ -17924,7 +17958,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -20316,7 +20350,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 191249,
       "name": "GDZIE JESTE\u015a?",
       "url": "https://open.spotify.com/track/0M7m7wZ7nxjyu1fVZ4PcXg"
@@ -31608,7 +31642,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 258500,
       "name": "LET IT B",
       "url": "https://open.spotify.com/track/75W4r7XzGhlgSWSRbVO3oa"
@@ -37132,7 +37166,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 194693,
       "name": "MY\u015aL\u0118 WI\u0118C JESTEM",
       "url": "https://open.spotify.com/track/5ZgSRbOtbZgW2pq5j1qMyU"
@@ -45966,7 +46000,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 149538,
       "name": "piaskownica",
       "url": "https://open.spotify.com/track/34knn0Cjt5aGSYSqyD9Sbm"
@@ -46664,7 +46698,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/0TfBoSPyJlGOGYtFXeGQnH"
@@ -52506,7 +52540,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -56532,7 +56566,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 149317,
       "name": "Szpilki",
       "url": "https://open.spotify.com/track/1HeQctl7JWDGVxechHFOh4"
@@ -60702,7 +60736,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Ty masz",
       "url": "https://open.spotify.com/track/2eEI1sKFOiOez0cAp29PiE"
@@ -62664,7 +62698,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 187333,
       "name": "WARTO K\u0141AMA\u0106",
       "url": "https://open.spotify.com/track/3vUmCDWJ2WmtdIxRdkrY3h"

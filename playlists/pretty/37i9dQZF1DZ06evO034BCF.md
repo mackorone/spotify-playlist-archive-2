@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 
 > This is Gustavo Dudamel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351 likes - 30 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,354 likes - 30 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 | 29 | [Tik\-Tak Polka, Polka schnell, Op\. 365](https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [New Year's Concert 2017 / Neujahrskonzert 2017](https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ) | 2:42 |
 | 30 | [Adagio for Strings, Op\. 11](https://open.spotify.com/track/1KdTxZoXr0xrwtAKlbuHoA) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [Sommernachtskonzert 2019 / Summer Night Concert 2019](https://open.spotify.com/album/7k1nb2LBIDwS1WdNNQnzqA) | 8:59 |
 
-Snapshot ID: `atAXgAAAAAAkJonG+MBZiFlH3Vh5o14B`
+Snapshot ID: `atK6gAAAAABmj6dOJyIy8qxeRxxO0kPQ`

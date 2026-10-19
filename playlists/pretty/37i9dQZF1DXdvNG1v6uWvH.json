@@ -379,22 +379,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "The Greatest Show On Earth",
-        "url": "https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 334109,
-      "name": "The Greatest Show On Earth",
-      "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "Chiltern Firehouse .",
         "url": "https://open.spotify.com/album/3aOq7YwgI0lUGkmQmGno7I"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 146655,
       "name": "Chiltern Firehouse .",
       "url": "https://open.spotify.com/track/4qS0HFIVCwj0AS3zR7hdyi"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "The Greatest Show On Earth",
+        "url": "https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 334109,
+      "name": "The Greatest Show On Earth",
+      "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -519,6 +519,26 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/2butoupcYhsMrCOWpM54nw"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 226726,
       "name": "Blood Brothers",
       "url": "https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
-        "name": "Fight For Love",
-        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Kaitlin Aragon",
-          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "Fight For Love",
-      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
         "name": "LEFT RIGHT (feat. Big Sean)",
         "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Hot & talking",
-        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
-      },
-      "artists": [
-        {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Hot & talking",
-      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "mommy\u2019s boy",
         "url": "https://open.spotify.com/album/7aW7QtqXNkC2su5JJLSavm"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 172373,
       "name": "mommy\u2019s boy",
       "url": "https://open.spotify.com/track/0FfwykHXznjHI9MT5AGAch"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "Spill For Galleriet (Deluxe)",
+        "url": "https://open.spotify.com/album/72PNEVNGN56BrNjx4fD4Dk"
+      },
+      "artists": [
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "I et annet liv",
+      "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -771,18 +787,18 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "KNIGHT OF SWORDS",
-        "url": "https://open.spotify.com/album/1HmXOys0QBU0SDJaibBfE4"
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/0VKZ54pcr9KDUO0GNTF6HO"
       },
       "artists": [
         {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+          "name": "8lanco",
+          "url": "https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs"
         }
       ],
-      "duration_ms": 118200,
-      "name": "KNIGHT OF SWORDS",
-      "url": "https://open.spotify.com/track/5AfeR7HTSBF9AOiQUYbI6S"
+      "duration_ms": 204653,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/1oPe7YRNt9q1pWEQg1hChb"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -803,34 +819,18 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Spill For Galleriet (Deluxe)",
-        "url": "https://open.spotify.com/album/72PNEVNGN56BrNjx4fD4Dk"
+        "name": "KNIGHT OF SWORDS",
+        "url": "https://open.spotify.com/album/1HmXOys0QBU0SDJaibBfE4"
       },
       "artists": [
         {
-          "name": "Makosir",
-          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 163989,
-      "name": "I et annet liv",
-      "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
-        "name": "Every Little Thing",
-        "url": "https://open.spotify.com/album/0VKZ54pcr9KDUO0GNTF6HO"
-      },
-      "artists": [
-        {
-          "name": "8lanco",
-          "url": "https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/1oPe7YRNt9q1pWEQg1hChb"
+      "duration_ms": 118200,
+      "name": "KNIGHT OF SWORDS",
+      "url": "https://open.spotify.com/track/5AfeR7HTSBF9AOiQUYbI6S"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "I'm a girl with feelings, baby!",
-        "url": "https://open.spotify.com/album/4x3KAEGZq3nHmtK1J6Mftc"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "I'm a girl with feelings, baby!",
-      "url": "https://open.spotify.com/track/6BHunRN9cypPJq0OpIODxA"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "CELEBRATION",
         "url": "https://open.spotify.com/album/1zt5FNt3ohlWlRjS4L2DIc"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Elastic",
-        "url": "https://open.spotify.com/album/5IuVkBn0X5N9swYnKqRFf8"
+        "name": "I'm a girl with feelings, baby!",
+        "url": "https://open.spotify.com/album/4x3KAEGZq3nHmtK1J6Mftc"
       },
       "artists": [
         {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
         }
       ],
-      "duration_ms": 133289,
-      "name": "Elastic",
-      "url": "https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr"
+      "duration_ms": 170373,
+      "name": "I'm a girl with feelings, baby!",
+      "url": "https://open.spotify.com/track/6BHunRN9cypPJq0OpIODxA"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -935,6 +919,22 @@
       "duration_ms": 160021,
       "name": "make u mine",
       "url": "https://open.spotify.com/track/37SVIAV3BnSkAbNPkM1l76"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "Elastic",
+        "url": "https://open.spotify.com/album/5IuVkBn0X5N9swYnKqRFf8"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 133289,
+      "name": "Elastic",
+      "url": "https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Fuck This Stress",
-        "url": "https://open.spotify.com/album/5tJvDKq3WPB758tknz0mix"
-      },
-      "artists": [
-        {
-          "name": "Otha",
-          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
-        }
-      ],
-      "duration_ms": 181938,
-      "name": "Fuck This Stress",
-      "url": "https://open.spotify.com/track/5f3LPYNbngs55vHYXsU13W"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "Leap",
         "url": "https://open.spotify.com/album/5L0UdEERU935VXMzq8pGyH"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 221250,
       "name": "Leap",
       "url": "https://open.spotify.com/track/1wQO7RFvhGSWPkDvU5981J"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "Fuck This Stress",
+        "url": "https://open.spotify.com/album/5tJvDKq3WPB758tknz0mix"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "duration_ms": 181938,
+      "name": "Fuck This Stress",
+      "url": "https://open.spotify.com/track/5f3LPYNbngs55vHYXsU13W"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
+        "name": "Pass Me By",
+        "url": "https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7"
+      },
+      "artists": [
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Pass Me By",
+      "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
         "name": "sixteen",
         "url": "https://open.spotify.com/album/3fTotU0Bclcf9eE7z7Om0s"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Pass Me By",
-        "url": "https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7"
+        "name": "THE RAT AND THE FUCKING COCAINE",
+        "url": "https://open.spotify.com/album/1WWS6wuclotLBkRIhIgf3t"
       },
       "artists": [
         {
-          "name": "Alba Akvama",
-          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
         }
       ],
-      "duration_ms": 132500,
-      "name": "Pass Me By",
-      "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
+      "duration_ms": 272125,
+      "name": "THE RAT AND THE FUCKING COCAINE",
+      "url": "https://open.spotify.com/track/26nkKSSuMC9SYoOho0QZ4c"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "THE RAT AND THE FUCKING COCAINE",
-        "url": "https://open.spotify.com/album/1WWS6wuclotLBkRIhIgf3t"
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/2MN11ljtp2BpVE1j0HGDiL"
       },
       "artists": [
         {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 272125,
-      "name": "THE RAT AND THE FUCKING COCAINE",
-      "url": "https://open.spotify.com/track/26nkKSSuMC9SYoOho0QZ4c"
+      "duration_ms": 193526,
+      "name": "What A Lovely Time (Honeychild)",
+      "url": "https://open.spotify.com/track/3q7Su3NYWAaHFuyGoG95R8"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -1187,22 +1203,6 @@
       "duration_ms": 191838,
       "name": "SAVIOUR",
       "url": "https://open.spotify.com/track/44nRfsoES2tkjF62xCFEt5"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
-        "name": "New Life",
-        "url": "https://open.spotify.com/album/2MN11ljtp2BpVE1j0HGDiL"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 193526,
-      "name": "What A Lovely Time (Honeychild)",
-      "url": "https://open.spotify.com/track/3q7Su3NYWAaHFuyGoG95R8"
     },
     {
       "added_at": "2026-10-16 00:00:07",

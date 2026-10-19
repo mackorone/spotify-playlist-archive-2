@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Fireboy DML,Blaqbonez, Solana, Gyakie, Cruel Santino, Sarkodie, Katseye and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,402 likes - 71 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,489 likes - 71 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

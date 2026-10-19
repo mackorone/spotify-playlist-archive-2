@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-737 songs - 1 day 18 hr 18 min
+738 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Lo Lo](https://open.spotify.com/track/5eNxYmQ2QsFGBYJom4AAiJ) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx) | [Lo Lo](https://open.spotify.com/album/2Xg0bqkRobrhZupao0rYp0) | 3:12 | 2024-09-12 | 2025-05-09 |
 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 | 2023-01-25 | 2024-07-27 |
 | [Lock Arf](https://open.spotify.com/track/4zodu1dcPL0YSLgxQOHxTQ) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Lock Arf / Shotta](https://open.spotify.com/album/4ZJpFbGOdEJtyrmkMDsFoB) | 3:11 | 2026-02-06 | 2026-05-22 |
+| [LOCKDOWN](https://open.spotify.com/track/2bWA1Voi1F0uuLiwoqvmRj) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [LOCKDOWN](https://open.spotify.com/album/5mwfc2tfgL5FzsSbuGeDkL) | 3:02 | 2026-10-16 |  |
 | [Log On](https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw) | [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Log On](https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2) | 3:32 | 2026-04-23 |  |
 | [LONDON](https://open.spotify.com/track/0Q9LmWTtPB6mhmG3wX0aji) | [ANNABEL STOP IT](https://open.spotify.com/artist/2ZXG5sI9hPqon1Kgb5tw3O) | [LONDON](https://open.spotify.com/album/1cxyKzUkRNqXjMXn0ThqwZ) | 2:11 | 2025-10-02 | 2025-11-14 |
 | [Lookin' Good \- Edit](https://open.spotify.com/track/558ECa2Q2Tse1Om59IztFm) | [Lisa Lashes](https://open.spotify.com/artist/60McQZr6bfr1eBpvq9YQz2) | [Tidy Girls EP](https://open.spotify.com/album/0vM3zv0H0VL8nzfLYXVBqm) | 5:01 | 2023-12-27 | 2024-01-12 |
@@ -569,7 +570,7 @@
 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-09-30 | 2023-07-13 |
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-11-17 | 2024-08-03 |
 | [Sell My Soul \- VIP](https://open.spotify.com/track/4KrFmNJ0QThBfcsda3HOnx) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Sell My Soul \(VIP\)](https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N) | 2:56 | 2025-10-23 | 2026-03-06 |
-| [Send Dem Out \(feat\. Capo Lee\)](https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Send Dem Out \(feat\. Capo Lee\)](https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5) | 2:06 | 2026-08-27 |  |
+| [Send Dem Out \(feat\. Capo Lee\)](https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Send Dem Out \(feat\. Capo Lee\)](https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5) | 2:06 | 2026-08-27 | 2026-10-19 |
 | [Senses](https://open.spotify.com/track/4zKfzNTHGTI60A5FcykRKU) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Senses](https://open.spotify.com/album/5F1ysE3pHEVff0KT3c0YfN) | 3:48 | 2025-11-14 | 2026-04-24 |
 | [Serious](https://open.spotify.com/track/7I7z8EAXXdMhtEkyzILdtu) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Frenzee](https://open.spotify.com/artist/3TM1dK0UnEKVId1zfhycFO) | [Serious](https://open.spotify.com/album/2IbMFPFBICNArVacA9mEHe) | 1:52 | 2025-01-10 | 2025-02-05 |
 | [Set You Free](https://open.spotify.com/track/0ZtsqqqeOWnqpYIs5ncQSe) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Set You Free](https://open.spotify.com/album/2BJWf56WWnTfxfP4xCiTup) | 3:03 | 2026-09-17 |  |

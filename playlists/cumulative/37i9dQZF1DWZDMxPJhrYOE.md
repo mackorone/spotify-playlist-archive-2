@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,324 songs - 2 day 21 hr 0 min
+1,325 songs - 2 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [drømmefanger \(feat\. URO\)](https://open.spotify.com/track/1vsap6mgQTyL2EVUXWq66e) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [drømmefanger \(feat\. URO\)](https://open.spotify.com/album/3w5zSTFFUOdEt90zUncRph) | 2:30 | 2026-01-09 | 2026-03-20 |
 | [Drømmer](https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Drømmer](https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL) | 2:52 | 2026-07-09 | 2026-08-29 |
 | [Drømmer Som Dig](https://open.spotify.com/track/4zPWwofLXqCkiVHmcVy61m) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Når Lyset Banker](https://open.spotify.com/album/0cr10mlo1RuGBWvwS7kyJ8) | 2:53 | 2026-05-07 | 2026-05-29 |
-| [Du er min bror!](https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Du er min bror!](https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8) | 3:06 | 2026-08-28 |  |
+| [Du er min bror!](https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Du er min bror!](https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8) | 3:06 | 2026-08-28 | 2026-10-19 |
 | [du forstår det, jeg forstår det ik](https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [du forstår det, jeg forstår det ik](https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y) | 2:59 | 2026-08-28 | 2026-09-05 |
 | [Du ligner din mor](https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Du ligner din mor](https://open.spotify.com/album/3F9tNqTRRrq7l5ZlLuGfL0) | 3:06 | 2024-12-26 | 2025-03-14 |
 | [Du Min](https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Du Min](https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS) | 1:59 | 2024-08-29 | 2024-09-06 |
@@ -1001,6 +1001,7 @@
 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 | 2026-08-28 |  |
 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-13 | 2025-05-30 |
 | [Settle Down](https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Settle Down](https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc) | 3:18 | 2025-03-06 | 2025-03-14 |
+| [Sex & Drugs](https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Sex & Drugs](https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv) | 3:15 | 2026-10-16 |  |
 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 | 2026-04-30 | 2026-07-10 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-26 | 2025-09-26 |
 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-17 | 2026-06-27 |

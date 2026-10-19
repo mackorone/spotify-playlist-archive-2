@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Epik High, DAVICHI)",
-  "num_followers": 392417,
+  "num_followers": 392388,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-10-16 04:10:12",
       "album": {
+        "name": "TATA",
+        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINAMI",
+          "url": "https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "TATA",
+      "url": "https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1"
+    },
+    {
+      "added_at": "2026-10-16 04:10:12",
+      "album": {
         "name": "Walk In The Night (Feat. Zion.T)",
         "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
       },
@@ -371,26 +391,6 @@
     {
       "added_at": "2026-10-16 04:10:12",
       "album": {
-        "name": "if i\u2019m with you",
-        "url": "https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 224902,
-      "name": "if i\u2019m with you",
-      "url": "https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE"
-    },
-    {
-      "added_at": "2026-10-16 04:10:12",
-      "album": {
         "name": "A flower bookmark, Pt. 3",
         "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
       },
@@ -407,6 +407,26 @@
       "duration_ms": 243000,
       "name": "Last Scene (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit"
+    },
+    {
+      "added_at": "2026-10-16 04:10:12",
+      "album": {
+        "name": "if i\u2019m with you",
+        "url": "https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 224902,
+      "name": "if i\u2019m with you",
+      "url": "https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE"
     },
     {
       "added_at": "2026-10-16 04:10:12",
@@ -471,26 +491,6 @@
     {
       "added_at": "2026-10-16 04:10:12",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 244669,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
-    },
-    {
-      "added_at": "2026-10-16 04:10:12",
-      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -507,6 +507,26 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2026-10-16 04:10:12",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
     },
     {
       "added_at": "2026-10-16 04:10:12",
@@ -531,46 +551,6 @@
     {
       "added_at": "2026-10-16 04:10:12",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "SUNGHANBIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2026-10-16 04:10:12",
-      "album": {
-        "name": "TATA",
-        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "MINAMI",
-          "url": "https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "TATA",
-      "url": "https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1"
-    },
-    {
-      "added_at": "2026-10-16 04:10:12",
-      "album": {
         "name": "Cave Me In",
         "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
       },
@@ -591,6 +571,46 @@
       "duration_ms": 214158,
       "name": "Cave Me In",
       "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
+    },
+    {
+      "added_at": "2026-10-16 04:10:12",
+      "album": {
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "SUNGHANBIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+    },
+    {
+      "added_at": "2026-10-16 04:10:12",
+      "album": {
+        "name": "I\u2019m Not The Only One (feat. TAEYEON)",
+        "url": "https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239619,
+      "name": "I\u2019m Not The Only One (feat. TAEYEON)",
+      "url": "https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ"
     },
     {
       "added_at": "2026-10-16 04:10:12",
@@ -631,26 +651,6 @@
       "duration_ms": 187000,
       "name": "BABY (Feat.CHANELLE MOON)",
       "url": "https://open.spotify.com/track/5BW4D0PGS6cq4MtpAa5ztJ"
-    },
-    {
-      "added_at": "2026-10-16 04:10:12",
-      "album": {
-        "name": "I\u2019m Not The Only One (feat. TAEYEON)",
-        "url": "https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239619,
-      "name": "I\u2019m Not The Only One (feat. TAEYEON)",
-      "url": "https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ"
     },
     {
       "added_at": "2026-10-16 04:10:12",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-10-16 04:10:12",
       "album": {
-        "name": "FLIRTY",
-        "url": "https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "FLIRTY",
-      "url": "https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk"
-    },
-    {
-      "added_at": "2026-10-16 04:10:12",
-      "album": {
         "name": "Yo esperar\u00e9 (\uc778\uc5f0)",
         "url": "https://open.spotify.com/album/6wT2O4ISH8H4v4pIhH4tCC"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 209000,
       "name": "Yo esperar\u00e9 (\uc778\uc5f0)",
       "url": "https://open.spotify.com/track/2IeC74j2VQkToY9hDoNh7v"
+    },
+    {
+      "added_at": "2026-10-16 04:10:12",
+      "album": {
+        "name": "FLIRTY",
+        "url": "https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "FLIRTY",
+      "url": "https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk"
     },
     {
       "added_at": "2026-10-16 04:10:12",

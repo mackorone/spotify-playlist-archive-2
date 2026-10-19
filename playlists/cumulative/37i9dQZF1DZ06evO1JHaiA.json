@@ -1794,10 +1794,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 134373,
       "name": "You're My One & Only Baby",
       "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
+    },
+    {
+      "album": {
+        "name": "You\u2019re My One & Only Baby",
+        "url": "https://open.spotify.com/album/6TOLnwiLc2ecPDXj93ZTyF"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134384,
+      "name": "You\u2019re My One & Only Baby",
+      "url": "https://open.spotify.com/track/26LdDRHheVBM3zrMTqHmzG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JHaiA"

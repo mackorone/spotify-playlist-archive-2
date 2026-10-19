@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Pop you need to hear! Cover: Jamie Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,564 likes - 82 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,496 likes - 82 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

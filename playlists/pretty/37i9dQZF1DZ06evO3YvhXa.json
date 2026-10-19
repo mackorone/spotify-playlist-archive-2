@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 450712,
+  "num_followers": 450753,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atFpAAAAAADyo8z1hg1ZPKWwZd9U9xwG",
+  "snapshot_id": "atK6gAAAAACnp4fdAG00AGN9ksxQtNku",
   "tracks": [
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Stillness in Time",
-      "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
+      "duration_ms": 338960,
+      "name": "Corner of the Earth",
+      "url": "https://open.spotify.com/track/3jmbIhguc5uxiOdZ7ak8H3"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 338960,
-      "name": "Corner of the Earth",
-      "url": "https://open.spotify.com/track/3jmbIhguc5uxiOdZ7ak8H3"
+      "duration_ms": 256640,
+      "name": "Stillness in Time",
+      "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 314493,
-      "name": "Shake It On",
-      "url": "https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf"
+      "duration_ms": 224186,
+      "name": "Picture of My Life",
+      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
       "artists": [
         {
@@ -536,25 +536,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 224186,
-      "name": "Picture of My Life",
-      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 286212,
-      "name": "Deeper Underground - Full Version",
-      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
+      "duration_ms": 238533,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
     },
     {
       "added_at": null,
@@ -575,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 382000,
       "name": "Manifest Destiny",
       "url": "https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 286212,
+      "name": "Deeper Underground - Full Version",
+      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "Shake It On",
+      "url": "https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 341560,
       "name": "Black Capricorn Day",
       "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 287960,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 617146,
-      "name": "Revolution 1993",
-      "url": "https://open.spotify.com/track/2oQLlmcEzbbbwvcHLLKkz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 255400,
       "name": "Soul Education",
       "url": "https://open.spotify.com/track/0zzlpRq2UwK3bGlI8O4DCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 617146,
+      "name": "Revolution 1993",
+      "url": "https://open.spotify.com/track/2oQLlmcEzbbbwvcHLLKkz1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kasia Krzyżaniak
 
-1,012 songs - 2 day 1 hr 24 min
+1,013 songs - 2 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 | 2025-04-17 | 2025-06-09 |
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-06-28 | 2024-07-12 |
 | [3 miesiące](https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [3 miesiące](https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN) | 2:52 | 2025-07-03 | 2025-10-22 |
+| [365 widoków na przyszłość](https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [365 widoków na przyszłość](https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq) | 3:35 | 2026-10-15 |  |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-03 | 2025-05-02 |
 | [5 słów](https://open.spotify.com/track/7BB6IZYUviTF04aZjkwuKo) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [5 słów](https://open.spotify.com/album/1zHmrrqXUQoXKvg1PNRNbw) | 2:20 | 2025-04-17 | 2025-05-05 |
 | [7 nieszczęść](https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Myśli](https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS) | 2:39 | 2025-11-04 | 2026-03-06 |
@@ -890,7 +891,7 @@
 | [UFO](https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [UFO](https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC) | 2:13 | 2026-03-26 | 2026-05-16 |
 | [UMIAR](https://open.spotify.com/track/7LVt9ME7UO97V0ys2jLq0D) | [Szaran](https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG), [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [UMIAR](https://open.spotify.com/album/633aOhMKpVxIqZfHVtBRI8) | 2:42 | 2026-07-16 | 2026-10-16 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-17 | 2025-05-09 |
-| [Unikat](https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8) | [Oliwia Janusz](https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif) | [Unikat](https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y) | 3:27 | 2026-08-13 |  |
+| [Unikat](https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8) | [Oliwia Janusz](https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif) | [Unikat](https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y) | 3:27 | 2026-08-13 | 2026-10-19 |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-18 | 2024-11-22 |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-10-21 | 2025-12-06 |
 | [Usypiasz Mnie Jak Lek](https://open.spotify.com/track/0m7mpiEImNabbFyxGsfACh) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [Usypiasz Mnie Jak Lek](https://open.spotify.com/album/28sM9BydOdzvNIbRFn3GQM) | 2:46 | 2025-02-20 | 2025-03-28 |

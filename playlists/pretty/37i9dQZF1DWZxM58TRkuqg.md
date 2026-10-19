@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Judika, Tiroy Sihotang
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,963 likes - 104 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,935 likes - 104 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

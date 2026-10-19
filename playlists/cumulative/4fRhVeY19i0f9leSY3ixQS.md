@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,541 songs - 5 day 21 hr 27 min
+2,542 songs - 5 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2125,7 +2125,7 @@
 | [The Beautiful Ones](https://open.spotify.com/track/5VpYa8fNNFgxeUZa0M2Y4H) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [The Beautiful Ones](https://open.spotify.com/album/6AfenOKDhAooeylKRvNCAd) | 3:32 | 2026-09-01 |  |
 | [The Bee Kid \- No Hive Remix](https://open.spotify.com/track/2IS0E7jDVyqXOLS4I56YSx) | [MaxVerse](https://open.spotify.com/artist/6ClwxLhqdr8Vekwt1XLcVD) | [The Bee Kid \(No Hive Remix\)](https://open.spotify.com/album/0Js59iVWBhEM9uZg6YKu98) | 3:46 | 2026-06-07 | 2026-07-04 |
 | [The Best I've Never Had \- Suburban Sessions](https://open.spotify.com/track/0tcTGofyxu2iVjAHsh1z7G) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [The Best I've Never Had \(Suburban Sessions\)](https://open.spotify.com/album/4ClAuETBbcMAnnKQlpN1zD) | 2:15 | 2026-07-31 | 2026-08-26 |
-| [The Best of Me](https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ) | [Carve A Path](https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq) | [The Best of Me](https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD) | 2:34 | 2026-04-24 | 2026-07-18 |
+| [The Best of Me](https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ) | [Carve A Path](https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq) | [The Best of Me](https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD) | 2:34 | 2026-04-24 |  |
 | [The Best of Me Belongs to You](https://open.spotify.com/track/311iEqzTpmxHiuyTBiv0hq) | [Lucas Orione](https://open.spotify.com/artist/3zMzklK5gKCsSKLvgDxZee) | [The Best of Me Belongs to You](https://open.spotify.com/album/2ZnfjQwHVqvdzQALylLElI) | 3:42 | 2026-03-25 | 2026-04-17 |
 | [The Billionaire Shuffle](https://open.spotify.com/track/7awYL3804hadZL5HXitAD9) | [Revelations Align Hope](https://open.spotify.com/artist/2HQo39t4GpRmOUtioBrAh1) | [Built To Collapse](https://open.spotify.com/album/2q2m8H56JKMyIqcOROcIST) | 1:39 | 2026-07-09 | 2026-08-10 |
 | [The Bit That Breaks](https://open.spotify.com/track/0oAh9dBD52ChvB0KjO5YgP) | [Grant Morriss](https://open.spotify.com/artist/0jOU5Z8DKWBgvrc47bTJU6) | [The Bit That Breaks](https://open.spotify.com/album/1pXflvG4fvq2tujAnruwqs) | 3:06 | 2026-04-19 | 2026-05-21 |
@@ -2275,6 +2275,7 @@
 | [to you, someday](https://open.spotify.com/track/5RqR1KcFQmsD9rew9AIy8H) | [Weeklong Weekend](https://open.spotify.com/artist/3DxY4Li3xKb1pzU2w2q7aF) | [until we ruin our lives](https://open.spotify.com/album/2sCvFIvH0fc2i8BMsfzyz1) | 4:00 | 2026-06-14 | 2026-07-04 |
 | [Today's Maybe Days](https://open.spotify.com/track/6IEZ5TBuAX8sRSnnxG0Jrk) | [Eyes Clan](https://open.spotify.com/artist/4R96Z7xY3mEUZiFM3sJnVX) | [Eyes Clan Takes Emo](https://open.spotify.com/album/7hf1zID4zWh1HDI7p8hJwO) | 4:41 | 2026-02-18 | 2026-03-09 |
 | [Tokyo Ghost](https://open.spotify.com/track/1Ng1SGItRX9ryuN2nVC0MF) | [Black and White Rewrite](https://open.spotify.com/artist/6ZlWrpdvGhFOvEgwGltKMr) | [Tokyo Ghost](https://open.spotify.com/album/3isxaXcxV9mh7ETSnASBMr) | 3:42 | 2026-02-18 | 2026-03-22 |
+| [Tomorrow Is Here](https://open.spotify.com/track/5VMUskyWeRjMUnyHnpxNw2) | [Hardar](https://open.spotify.com/artist/4KOKGSVXWgWRBPv0Zqh2Pm) | [Tomorrow Is Here](https://open.spotify.com/album/798T6z0oVDanXisQOWGKcy) | 3:21 | 2026-10-18 |  |
 | [Tonight](https://open.spotify.com/track/5QVvYGgfmcm5YUVQl27HsG) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Tonight](https://open.spotify.com/album/5UoW5mVzZuGerQnTHHwHBM) | 2:40 | 2026-05-19 | 2026-06-11 |
 | [Tony Cock's Pro Skater 4](https://open.spotify.com/track/25oXthXP9SRfrSXSNyNCOu) | [Crash Babes](https://open.spotify.com/artist/6asewEumtDuEwZ0LqQGx59) | [Tony Cock's Pro Skater 4](https://open.spotify.com/album/3VyqhbCx15VQMLqHkz987u) | 2:59 | 2026-06-30 | 2026-08-26 |
 | [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 | 2025-11-14 | 2025-12-10 |

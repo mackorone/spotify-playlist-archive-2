@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzxICEYRu0h.md) - [plain]
 
 > Acá está tu próximo podcast favorito\. Portada: Mientras Lavás los Platos
 
-[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 10 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 656 likes - 10 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

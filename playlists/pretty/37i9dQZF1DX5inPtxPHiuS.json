@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 263449,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "No Hay Tiempo Que Perder",
         "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 177711,
       "name": "\u00bfQu\u00e9 se yo?",
       "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 263449,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "LVRBOY",
-        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "LVRBOY",
-      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Campesino",
         "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 278724,
       "name": "Campesino",
       "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "LVRBOY",
+        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "LVRBOY",
+      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -971,8 +971,8 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Madre Tierra",
-        "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
+        "name": "Corriente",
+        "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
       },
       "artists": [
         {
@@ -980,13 +980,13 @@
           "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
         },
         {
-          "name": "Sebasti\u00e1n Panesso",
-          "url": "https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf"
+          "name": "Juan Amaya",
+          "url": "https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu"
         }
       ],
-      "duration_ms": 212660,
-      "name": "Madre Tierra",
-      "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
+      "duration_ms": 301863,
+      "name": "Corriente",
+      "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
     },
     {
       "added_at": "2026-10-16 05:01:29",

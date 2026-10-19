@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,680 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,667 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Leiser](https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Leiser](https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY) | 3:00 |
 | 17 | [Fotzeigemutter](https://open.spotify.com/track/3EetiB98Gm5t8Lq6jlYtYU) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Fotzeigemutter](https://open.spotify.com/album/4oYM3onjdy6TYnibQzdNNO) | 2:23 |
 | 18 | [In Da Zone](https://open.spotify.com/track/74EYuSfkYh7EKzyqWXys3d) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [In Da Zone](https://open.spotify.com/album/3ZaJg7VrjUqQS21VOV2Xgo) | 2:48 |
-| 19 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
-| 20 | [ich fühle was, was du nicht siehst](https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [ich fühle was, was du nicht siehst](https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W) | 2:57 |
+| 19 | [ich fühle was, was du nicht siehst](https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [ich fühle was, was du nicht siehst](https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W) | 2:57 |
+| 20 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
 | 21 | [Hübsche Männer](https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Hübsche Männer](https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG) | 1:48 |
 | 22 | [New Era](https://open.spotify.com/track/0sF1TJMDGYxKvu9pp1JQkQ) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [New Era](https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv) | 3:13 |
 | 23 | [Audacity](https://open.spotify.com/track/1UUptXuoSwtWIoj76gn0Fn) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:35 |
 | 24 | [SOS](https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [SOS](https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj) | 2:17 |
-| 25 | [Ich versteh es jetzt](https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ich versteh es jetzt](https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr) | 2:35 |
-| 26 | [Ich und Ich Selbst](https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS) | [Malina](https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF) | [Ich und Ich Selbst](https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace) | 2:36 |
+| 25 | [Ich und Ich Selbst](https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS) | [Malina](https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF) | [Ich und Ich Selbst](https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace) | 2:36 |
+| 26 | [Ich versteh es jetzt](https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ich versteh es jetzt](https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr) | 2:35 |
 | 27 | [Colours](https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Colours](https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp) | 3:02 |
-| 28 | [bad taste](https://open.spotify.com/track/4d2t86B0mgOwm2hUbnFFLF) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [bad taste](https://open.spotify.com/album/0f31DxqbFb3KaZLvfOMK19) | 2:43 |
-| 29 | [AMG](https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE) | [Drei Geile Chayas](https://open.spotify.com/artist/17wFC9W0Gg4SQu02LbdDq9), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [AMG](https://open.spotify.com/album/6j1LFvHglLSVGl8TTyzlfo) | 2:50 |
+| 28 | [AMG](https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE) | [Drei Geile Chayas](https://open.spotify.com/artist/17wFC9W0Gg4SQu02LbdDq9), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [AMG](https://open.spotify.com/album/6j1LFvHglLSVGl8TTyzlfo) | 2:50 |
+| 29 | [bad taste](https://open.spotify.com/track/4d2t86B0mgOwm2hUbnFFLF) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [bad taste](https://open.spotify.com/album/0f31DxqbFb3KaZLvfOMK19) | 2:43 |
 | 30 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
 | 31 | [Le Vol](https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Le Vol](https://open.spotify.com/album/5Qzl6dr6ufoO2LTUVjodsR) | 3:51 |
 | 32 | [Cette fille](https://open.spotify.com/track/2L7ztl8IsIqV8gqT5aC9K6) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Cette fille](https://open.spotify.com/album/0Q6XIIxtQPNCREd3RlA2ks) | 2:42 |

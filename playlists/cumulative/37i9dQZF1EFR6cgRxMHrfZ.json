@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "FX's \"The Shards\" Official Soundtrack",
+        "url": "https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156196,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5keMClWIr5PpsGeDi4QZKK"
+    },
+    {
+      "album": {
         "name": "Stand By You",
         "url": "https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT"
       },

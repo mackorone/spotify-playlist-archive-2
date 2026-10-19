@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 373186,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/3SddRglzW0fY58zTAcuKI8"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 353278,
       "name": "Conversation 3",
       "url": "https://open.spotify.com/track/0nIbSZ4o2L2gtwWtKwmnZP"
@@ -4384,7 +4384,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 174000,
       "name": "Dim Light",
       "url": "https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5"
@@ -4496,7 +4496,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 210943,
       "name": "Doodle Notes #15",
       "url": "https://open.spotify.com/track/7DJeZMinIXhAnciBDcLVwn"
@@ -4612,6 +4612,24 @@
       "duration_ms": 232720,
       "name": "Double Navaho",
       "url": "https://open.spotify.com/track/43pdpo1Um9hZkwjvgNnldH"
+    },
+    {
+      "album": {
+        "name": "Doubles",
+        "url": "https://open.spotify.com/album/4Ax9sUE2EVqXq4uha2rjN0"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Doubles",
+      "url": "https://open.spotify.com/track/5bausfZaUCEWCVd0HAeMmX"
     },
     {
       "album": {
@@ -4944,6 +4962,42 @@
       "duration_ms": 212505,
       "name": "Edo-Komoriuta",
       "url": "https://open.spotify.com/track/5JMoQNOOAIFv483XaNcR1l"
+    },
+    {
+      "album": {
+        "name": "Electric Sheep for Sleep",
+        "url": "https://open.spotify.com/album/19heNMLzqgSObcS3c4QHVU"
+      },
+      "artists": [
+        {
+          "name": "Calm",
+          "url": "https://open.spotify.com/artist/2WQ75gaXBzFIIF54BDJXDv"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1254000,
+      "name": "Electric Sheep for Sleep (Minimal Nature Mix)",
+      "url": "https://open.spotify.com/track/4kGHvymHtM04grLiFwDHIU"
+    },
+    {
+      "album": {
+        "name": "Elevator Music (Bonus Track)",
+        "url": "https://open.spotify.com/album/6ONzKKfG5crNPZYjSuXTt4"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "Elevator Music - Bonus Track",
+      "url": "https://open.spotify.com/track/0jehLE3H2Djod5CCLkaCrL"
     },
     {
       "album": {
@@ -5584,6 +5638,28 @@
       "duration_ms": 161805,
       "name": "Fire The Editor - Pt. 3 / Endel Chill Soundscape",
       "url": "https://open.spotify.com/track/32ybGt9QtBbtLqfu8Tzchg"
+    },
+    {
+      "album": {
+        "name": "First Blue Car",
+        "url": "https://open.spotify.com/album/06QRgDmZtT90To7UaVNB0l"
+      },
+      "artists": [
+        {
+          "name": "maharishi yogo",
+          "url": "https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja"
+        },
+        {
+          "name": "Doc No",
+          "url": "https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224960,
+      "name": "First Blue Car",
+      "url": "https://open.spotify.com/track/6RQexVPv8c2zeWAlnm6HQt"
     },
     {
       "album": {
@@ -6812,7 +6888,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 263706,
       "name": "Hammock Portal",
       "url": "https://open.spotify.com/track/4d9R8yY8kkDoD5T5SJ1Ur5"
@@ -11123,6 +11199,24 @@
     },
     {
       "album": {
+        "name": "Morning Mist",
+        "url": "https://open.spotify.com/album/6DSREoxamd9J97NEA1Gnsz"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "Morning Mist",
+      "url": "https://open.spotify.com/track/6cZv571156wWIK7aipPFR3"
+    },
+    {
+      "album": {
         "name": "Tone Sketch",
         "url": "https://open.spotify.com/album/3zZegpQqTBcLXOvDvrqJon"
       },
@@ -15082,7 +15176,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 277000,
       "name": "Shame",
       "url": "https://open.spotify.com/track/0iowmv0cVXPxD3bot8xHiQ"
@@ -17651,6 +17745,24 @@
     },
     {
       "album": {
+        "name": "The Inner Compass",
+        "url": "https://open.spotify.com/album/7jptSwSCcycObU7ANXiBDm"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "The Inner Compass",
+      "url": "https://open.spotify.com/track/0LEL57GpVcnC6Z4PS6tsBb"
+    },
+    {
+      "album": {
         "name": "CASSHERN (ORIGINAL SOUNDTRACK / Complete Edition)",
         "url": "https://open.spotify.com/album/3NcJMyPxucG8GuZYzI1XEc"
       },
@@ -18266,6 +18378,24 @@
       "duration_ms": 187200,
       "name": "tinySketch #85",
       "url": "https://open.spotify.com/track/2Wy0jAY5eFf4hnAAIuScXo"
+    },
+    {
+      "album": {
+        "name": "tinySketch #92",
+        "url": "https://open.spotify.com/album/2Ks99uvjqZgkqfKOHfFPGz"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "tinySketch #92",
+      "url": "https://open.spotify.com/track/0WlfY3lQeWeglx8Qz2QtQi"
     },
     {
       "album": {
@@ -18928,7 +19058,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 273593,
       "name": "UMI",
       "url": "https://open.spotify.com/track/1cXApPlJlzyCly1GkMt80C"
@@ -20106,6 +20236,28 @@
       "duration_ms": 410871,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/5hOyjTh2G5TuqQS1X9oGzc"
+    },
+    {
+      "album": {
+        "name": "Womb Glow",
+        "url": "https://open.spotify.com/album/7u69VcuKFgZJwFcAagHUj1"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Womb Glow",
+      "url": "https://open.spotify.com/track/38SLp8yyu7783yCmeRI3bd"
     },
     {
       "album": {

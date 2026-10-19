@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,348 songs - 2 day 3 hr 33 min
+1,349 songs - 2 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,10 +810,11 @@
 | [Nature Boy](https://open.spotify.com/track/4ESfG6sY4D1xeTsrYevXwx) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Vybe Village](https://open.spotify.com/artist/6WlHbfsgF448dcHWx2bP0P) | [Lofi Guy IV](https://open.spotify.com/album/6NGe3GumItXJHzoG4bPe5j) | 2:15 | 2022-09-09 | 2023-04-12 |
 | [Navalôn](https://open.spotify.com/track/1loqBKxOG2uxLQfLMLpxgK) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Navalôn](https://open.spotify.com/album/19zcL63cDK9ndcq0wJLxpv) | 2:18 | 2022-05-13 | 2022-05-20 |
 | [need you back](https://open.spotify.com/track/4ppEnqXIURq7kCIFDdTmXE) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [need you back](https://open.spotify.com/album/6liTyZELccliHPcVQXorF0) | 1:38 | 2022-06-24 | 2022-07-29 |
-| [neon reflections](https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [neon reflections](https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97) | 1:58 | 2022-09-16 |  |
+| [neon reflections](https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [neon reflections](https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97) | 1:58 | 2022-09-16 | 2026-10-19 |
 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 | 2021-11-10 | 2022-06-10 |
 | [Nesting](https://open.spotify.com/track/1rAr1l1UYqxSjiGLKxQRkV) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Nesting](https://open.spotify.com/album/1sliK69gORXTCCHRhVsQQ9) | 3:00 | 2022-12-09 | 2025-07-16 |
 | [Never Forgotten](https://open.spotify.com/track/74BxYDojYHtw9GOeTsik8f) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Never Forgotten](https://open.spotify.com/album/7zgBhhx6aV03m41a2veUUX) | 3:05 | 2023-12-22 | 2025-07-16 |
+| [nevermind](https://open.spotify.com/track/2iWEgdzh9GJuX9hUX1jihX) | [afk](https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN) | [nevermind](https://open.spotify.com/album/1EUjPE7ffJMMk6P9NhMzy3) | 2:20 | 2026-10-16 |  |
 | [New Adventures](https://open.spotify.com/track/7yBTDVkyI3ZUNFgLCw1y7b) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [New Adventures](https://open.spotify.com/album/4v75HfqwkIB2e5Hz3S6W7K) | 2:01 | 2023-10-06 | 2025-07-16 |
 | [new chimes](https://open.spotify.com/track/3HbMWLdJrCNjXaVWIcXijo) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [new chimes](https://open.spotify.com/album/5vlYGwXhpAqd4ylljVY1U6) | 2:43 | 2022-10-28 | 2025-07-16 |
 | [New Hope](https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hope](https://open.spotify.com/album/6vnOs7e9fVIrqFoIbMSblB) | 1:30 | 2023-07-13 | 2026-05-08 |

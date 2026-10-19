@@ -1302,10 +1302,32 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 231192,
       "name": "Atual Idiota",
       "url": "https://open.spotify.com/track/3pznozsS5fGuoFOMMcNQLE"
+    },
+    {
+      "album": {
+        "name": "Atual Idiota",
+        "url": "https://open.spotify.com/album/1pZsCkbGovo0pmSG5QQNY6"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        },
+        {
+          "name": "Paula Guilherme",
+          "url": "https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231192,
+      "name": "Atual Idiota",
+      "url": "https://open.spotify.com/track/6FXcVnjZcTj9XBVpfcZldv"
     },
     {
       "album": {

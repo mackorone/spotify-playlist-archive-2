@@ -1901,6 +1901,28 @@
     },
     {
       "album": {
+        "name": "Drawn From Life",
+        "url": "https://open.spotify.com/album/2OMMqHFkRzXoevAhoxf9yo"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "J.Peter Schwalm",
+          "url": "https://open.spotify.com/artist/3aBB4DpB9xCQldKQtDy63P"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348186,
+      "name": "Like Pictures Part #2",
+      "url": "https://open.spotify.com/track/2V9sKBuHEaw3sKuHOBl9zp"
+    },
+    {
+      "album": {
         "name": "Line In The Sand",
         "url": "https://open.spotify.com/album/20BFfzO2b1Swuq5cBThsW0"
       },

@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118376,
+  "num_followers": 118383,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "Venninna mi",
-        "url": "https://open.spotify.com/album/5zjG9lLhbFBog1ccnwbi7N"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 181568,
-      "name": "Venninna mi",
-      "url": "https://open.spotify.com/track/6ur064JKd9SghnX6EMyUUS"
-    },
-    {
-      "added_at": "2026-10-15 22:01:58",
-      "album": {
         "name": "Jentekveld",
         "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 138568,
       "name": "Jentekveld",
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
+    },
+    {
+      "added_at": "2026-10-15 22:01:58",
+      "album": {
+        "name": "Venninna mi",
+        "url": "https://open.spotify.com/album/5zjG9lLhbFBog1ccnwbi7N"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 181568,
+      "name": "Venninna mi",
+      "url": "https://open.spotify.com/track/6ur064JKd9SghnX6EMyUUS"
     },
     {
       "added_at": "2026-10-15 22:01:58",
@@ -667,18 +667,22 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "Varmt",
-        "url": "https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW"
+        "name": "Drekke d\u00e6 fin",
+        "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
       },
       "artists": [
         {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 127950,
-      "name": "Varmt",
-      "url": "https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ"
+      "duration_ms": 119183,
+      "name": "Drekke d\u00e6 fin",
+      "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
     },
     {
       "added_at": "2026-10-15 22:01:58",
@@ -703,22 +707,18 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "Drekke d\u00e6 fin",
-        "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
+        "name": "Varmt",
+        "url": "https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
         }
       ],
-      "duration_ms": 119183,
-      "name": "Drekke d\u00e6 fin",
-      "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
+      "duration_ms": 127950,
+      "name": "Varmt",
+      "url": "https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ"
     },
     {
       "added_at": "2026-10-15 22:01:58",
@@ -811,8 +811,8 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+        "name": "F\u00f8r du g\u00e5r",
+        "url": "https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
+      "duration_ms": 276493,
+      "name": "N\u00e5r t\u00e5rer fell",
+      "url": "https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE"
     },
     {
       "added_at": "2026-10-15 22:01:58",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "Sl\u00e5ss f\u00f6r dig",
-        "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Kudos",
-          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
-        }
-      ],
-      "duration_ms": 131807,
-      "name": "Sl\u00e5ss f\u00f6r dig",
-      "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
-    },
-    {
-      "added_at": "2026-10-15 22:01:58",
-      "album": {
         "name": "Hjem med dej",
         "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
       },
@@ -915,8 +895,28 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "F\u00f8r du g\u00e5r",
-        "url": "https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2"
+        "name": "Sl\u00e5ss f\u00f6r dig",
+        "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        }
+      ],
+      "duration_ms": 131807,
+      "name": "Sl\u00e5ss f\u00f6r dig",
+      "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
+    },
+    {
+      "added_at": "2026-10-15 22:01:58",
+      "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 276493,
-      "name": "N\u00e5r t\u00e5rer fell",
-      "url": "https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE"
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
     },
     {
       "added_at": "2026-10-15 22:01:58",
@@ -995,22 +995,18 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
-        "url": "https://open.spotify.com/album/2XBMQKnfg4KoeXupSMTvDO"
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        },
-        {
-          "name": "Sigrid Aase",
-          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
         }
       ],
-      "duration_ms": 294600,
-      "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
-      "url": "https://open.spotify.com/track/7LKdaXuR2AwYRjBvSEZ16D"
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
     },
     {
       "added_at": "2026-10-15 22:01:58",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+        "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
+        "url": "https://open.spotify.com/album/2XBMQKnfg4KoeXupSMTvDO"
       },
       "artists": [
         {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        },
+        {
+          "name": "Sigrid Aase",
+          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
         }
       ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+      "duration_ms": 294600,
+      "name": "F\u00f8r du g\u00e5r (feat. Sigrid Aase)",
+      "url": "https://open.spotify.com/track/7LKdaXuR2AwYRjBvSEZ16D"
     },
     {
       "added_at": "2026-10-15 22:01:58",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-15 22:01:58",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
-      },
-      "artists": [
-        {
-          "name": "Byting",
-          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
-        }
-      ],
-      "duration_ms": 212505,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
-    },
-    {
-      "added_at": "2026-10-15 22:01:58",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 192282,
       "name": "Viddas Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+    },
+    {
+      "added_at": "2026-10-15 22:01:58",
+      "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

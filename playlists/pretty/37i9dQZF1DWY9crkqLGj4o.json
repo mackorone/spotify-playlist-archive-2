@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 452379,
+  "num_followers": 452390,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Cassiane - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 382014,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Cassiane - Gospel Collection Ao Vivo",
-        "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 382014,
-      "name": "Com Muito Louvor",
-      "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Renascer Praise 13: A Colheita",
-        "url": "https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1"
+        "name": "Jesus, Eu, Voc\u00eas E O Pandeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL"
       },
       "artists": [
         {
-          "name": "Renascer Praise",
-          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
+          "name": "Michele do Pandeiro",
+          "url": "https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn"
         }
       ],
-      "duration_ms": 372826,
-      "name": "Eu Me Rendo",
-      "url": "https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck"
+      "duration_ms": 352032,
+      "name": "S\u00ea Valente / Deus Vai Te Guiar / O Cego De Jeric\u00f3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Jesus, Eu, Voc\u00eas E O Pandeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL"
+        "name": "Renascer Praise 13: A Colheita",
+        "url": "https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1"
       },
       "artists": [
         {
-          "name": "Michele do Pandeiro",
-          "url": "https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn"
+          "name": "Renascer Praise",
+          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
         }
       ],
-      "duration_ms": 352032,
-      "name": "S\u00ea Valente / Deus Vai Te Guiar / O Cego De Jeric\u00f3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3"
+      "duration_ms": 372826,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck"
     },
     {
       "added_at": "2026-01-30 13:05:09",

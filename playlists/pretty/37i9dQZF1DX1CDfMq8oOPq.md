@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,400 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,396 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 22 | [No Meu Club](https://open.spotify.com/track/2TjDMxSmqruXuLyrD37ypZ) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:57 |
 | 23 | [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 |
 | 24 | [Serena & Venus](https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 3:57 |
-| 25 | [Caminho do meio \(Intro\)](https://open.spotify.com/track/7CaAp4nH6ox0bJ4PePStRN) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Caminho do meio \(Intro\)](https://open.spotify.com/album/35wdWWR1AKa1PaOkmc2h9o) | 1:39 |
-| 26 | [Medley 4x4](https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS) | [PAPEL DE OTÁRIA \| MEDLEY 4X4](https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF) | 3:00 |
+| 25 | [Medley 4x4](https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS) | [PAPEL DE OTÁRIA \| MEDLEY 4X4](https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF) | 3:00 |
+| 26 | [Caminho do meio \(Intro\)](https://open.spotify.com/track/7CaAp4nH6ox0bJ4PePStRN) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Caminho do meio \(Intro\)](https://open.spotify.com/album/35wdWWR1AKa1PaOkmc2h9o) | 1:39 |
 | 27 | [BPP](https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [BPP](https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O) | 2:33 |
 | 28 | [Ser a Ciça é bom demais](https://open.spotify.com/track/4Cv5PYD5quHwPvCKUiZuNf) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [NEPOBABY](https://open.spotify.com/album/6rmvcj2kAe24HDT8XMqwOu) | 2:14 |
 | 29 | [MANIFESTO](https://open.spotify.com/track/6ipjYJ0rNu7c1WDmslQvYN) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [ECLIPSE](https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l) | 4:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: HIGH SOCIETY, Qlas & Isabèl Usher, Saaff, 3robi & Lijpe, Zack Ink & Vic9 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,705 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,658 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

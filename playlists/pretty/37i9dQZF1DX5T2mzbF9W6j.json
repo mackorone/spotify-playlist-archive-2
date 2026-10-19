@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113066,
+  "num_followers": 113064,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Bez ko\u0144ca",
+        "url": "https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Bez ko\u0144ca",
+      "url": "https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "LUBIMY",
         "url": "https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 148831,
       "name": "LUBIMY",
       "url": "https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Bez ko\u0144ca",
-        "url": "https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Bez ko\u0144ca",
-      "url": "https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -527,18 +527,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "By\u0142y momenty",
-        "url": "https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp"
+        "name": "B\u0119dzie By\u0142o",
+        "url": "https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782"
       },
       "artists": [
         {
-          "name": "Kasia Sienkiewicz",
-          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
+          "name": "Micha\u0142 Wi\u015bniewski",
+          "url": "https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg"
+        },
+        {
+          "name": "Mandaryna",
+          "url": "https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh"
         }
       ],
-      "duration_ms": 194331,
-      "name": "By\u0142y momenty",
-      "url": "https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh"
+      "duration_ms": 148351,
+      "name": "B\u0119dzie By\u0142o",
+      "url": "https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -559,22 +563,18 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "B\u0119dzie By\u0142o",
-        "url": "https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782"
+        "name": "By\u0142y momenty",
+        "url": "https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp"
       },
       "artists": [
         {
-          "name": "Micha\u0142 Wi\u015bniewski",
-          "url": "https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg"
-        },
-        {
-          "name": "Mandaryna",
-          "url": "https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh"
+          "name": "Kasia Sienkiewicz",
+          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
         }
       ],
-      "duration_ms": 148351,
-      "name": "B\u0119dzie By\u0142o",
-      "url": "https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK"
+      "duration_ms": 194331,
+      "name": "By\u0142y momenty",
+      "url": "https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -695,22 +695,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Co mi tam",
-        "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
+        "name": "Tu M\u00f3j Dom",
+        "url": "https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB"
       },
       "artists": [
         {
-          "name": "Wiktoria Kida",
-          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+          "name": "Staszek z G\u00f3r",
+          "url": "https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr"
         },
         {
-          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
-          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
+          "name": "Sound'n'Grace",
+          "url": "https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo"
         }
       ],
-      "duration_ms": 167652,
-      "name": "Co mi tam",
-      "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
+      "duration_ms": 138876,
+      "name": "Tu M\u00f3j Dom",
+      "url": "https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -731,22 +731,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Tu M\u00f3j Dom",
-        "url": "https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB"
+        "name": "Co mi tam",
+        "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
       },
       "artists": [
         {
-          "name": "Staszek z G\u00f3r",
-          "url": "https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr"
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
         },
         {
-          "name": "Sound'n'Grace",
-          "url": "https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo"
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
         }
       ],
-      "duration_ms": 138876,
-      "name": "Tu M\u00f3j Dom",
-      "url": "https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN"
+      "duration_ms": 167652,
+      "name": "Co mi tam",
+      "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Plamy",
-        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 211705,
-      "name": "\u017bebro",
-      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Zanim Znikniesz",
         "url": "https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 186310,
       "name": "Zanim Znikniesz",
       "url": "https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Plamy",
+        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 211705,
+      "name": "\u017bebro",
+      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
     },
     {
       "added_at": "2026-10-02 15:28:11",

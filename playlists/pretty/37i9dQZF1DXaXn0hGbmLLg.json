@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! October ambassador: <a href=\"spotify:artist:6OOF9nSZbNw4etK0InqtEZ\">CVNTS</a>",
-  "num_followers": 14510,
+  "num_followers": 14507,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Tijdloos",
-        "url": "https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc"
-      },
-      "artists": [
-        {
-          "name": "Danique",
-          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Tijdloos",
-      "url": "https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Groot",
         "url": "https://open.spotify.com/album/0qizT7ZCBpnlw6nfUgKS1S"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 210651,
       "name": "Groot",
       "url": "https://open.spotify.com/track/7dEimS0tnelfMqQkpnkWrn"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Tijdloos",
+        "url": "https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Tijdloos",
+      "url": "https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Hyde Park",
+        "url": "https://open.spotify.com/album/6vKdXXlVUzUUv7mRPyvjpa"
+      },
+      "artists": [
+        {
+          "name": "Laura Tesoro",
+          "url": "https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2"
+        }
+      ],
+      "duration_ms": 134840,
+      "name": "Hyde Park",
+      "url": "https://open.spotify.com/track/6kiWnEjFCdUPrZY8p2WUyY"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Googoo Gaga",
         "url": "https://open.spotify.com/album/4I5vkWWnFX4Z3KmBX1MQS4"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 305480,
       "name": "Googoo Gaga",
       "url": "https://open.spotify.com/track/39ZeNweIWO4XcNPY0nmImS"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Hyde Park",
-        "url": "https://open.spotify.com/album/6vKdXXlVUzUUv7mRPyvjpa"
-      },
-      "artists": [
-        {
-          "name": "Laura Tesoro",
-          "url": "https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2"
-        }
-      ],
-      "duration_ms": 134840,
-      "name": "Hyde Park",
-      "url": "https://open.spotify.com/track/6kiWnEjFCdUPrZY8p2WUyY"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Feel At Home",
-        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
-      },
-      "artists": [
-        {
-          "name": "ISHA",
-          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
-        }
-      ],
-      "duration_ms": 145822,
-      "name": "Feel At Home",
-      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Wanneer Is Het Genoeg?",
         "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 165436,
       "name": "Wanneer Is Het Genoeg?",
       "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Feel At Home",
+        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        }
+      ],
+      "duration_ms": 145822,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Zaterdag",
+        "url": "https://open.spotify.com/album/19ec04DLNOWCJ2Utf9O7Af"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "duration_ms": 191645,
+      "name": "Zaterdag",
+      "url": "https://open.spotify.com/track/3XqcbsV9bgzQZ04CvkR24Q"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "MAN, OH MAN",
         "url": "https://open.spotify.com/album/0rgDHNMm3nTH0f8NsE8YkG"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Zaterdag",
-        "url": "https://open.spotify.com/album/19ec04DLNOWCJ2Utf9O7Af"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "duration_ms": 191645,
-      "name": "Zaterdag",
-      "url": "https://open.spotify.com/track/3XqcbsV9bgzQZ04CvkR24Q"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Naakt",
         "url": "https://open.spotify.com/album/19jvbtwOnz4DG4TPqBKavL"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Glow-Up Era",
-        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
-      },
-      "artists": [
-        {
-          "name": "Juwls",
-          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
-        }
-      ],
-      "duration_ms": 136368,
-      "name": "Glow-Up Era",
-      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/595mXVxQHpoHgNHDX7WWf3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 194438,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4TQtB0Tdb7YeCEuiusNmp0"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Glow-Up Era",
+        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "duration_ms": 136368,
+      "name": "Glow-Up Era",
+      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Evenings are for Falling in Love",
-        "url": "https://open.spotify.com/album/6DwxFlz36OgWYYnDIpl1op"
-      },
-      "artists": [
-        {
-          "name": "CHARLOT",
-          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
-        }
-      ],
-      "duration_ms": 164077,
-      "name": "Evenings Are For Falling In Love - Pt. 1",
-      "url": "https://open.spotify.com/track/20vOdYnvHhinDP2zP6YkFr"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Not That Deep",
         "url": "https://open.spotify.com/album/6VdsRupAtI9jB2hngxJfrm"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 217360,
       "name": "Not That Deep",
       "url": "https://open.spotify.com/track/4u0tXLPqbUcNTUWSznp4Dj"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Evenings are for Falling in Love",
+        "url": "https://open.spotify.com/album/6DwxFlz36OgWYYnDIpl1op"
+      },
+      "artists": [
+        {
+          "name": "CHARLOT",
+          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
+        }
+      ],
+      "duration_ms": 164077,
+      "name": "Evenings Are For Falling In Love - Pt. 1",
+      "url": "https://open.spotify.com/track/20vOdYnvHhinDP2zP6YkFr"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Hold On A Little More",
-        "url": "https://open.spotify.com/album/0CEH7UKDWWHhcSn2kNkhwU"
-      },
-      "artists": [
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 122833,
-      "name": "Hold On A Little More",
-      "url": "https://open.spotify.com/track/7wVpKznXqU4dUdRmGwi28N"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Tranen Voor De Dorst",
         "url": "https://open.spotify.com/album/5Wn5UXhXigWOXqNom4jqRC"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 155368,
       "name": "Tranen Voor De Dorst",
       "url": "https://open.spotify.com/track/7y3dWG3ygFd9wKtf2Z9UWx"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Hold On A Little More",
+        "url": "https://open.spotify.com/album/0CEH7UKDWWHhcSn2kNkhwU"
+      },
+      "artists": [
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "duration_ms": 122833,
+      "name": "Hold On A Little More",
+      "url": "https://open.spotify.com/track/7wVpKznXqU4dUdRmGwi28N"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/44QpVZIGqCT4OCU5PougQT"
-      },
-      "artists": [
-        {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Make A Living",
         "url": "https://open.spotify.com/album/4oKXfybVgUOj3zb8acJQAG"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 203227,
       "name": "Make A Living",
       "url": "https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/44QpVZIGqCT4OCU5PougQT"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN"
-      },
-      "artists": [
-        {
-          "name": "Iris Jean",
-          "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
-        }
-      ],
-      "duration_ms": 259353,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/41qun4g44RzCovHZUp05zS"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "De Leugen",
         "url": "https://open.spotify.com/album/2r0i284JJBhjQ4waQfF4OZ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 187992,
       "name": "De Leugen",
       "url": "https://open.spotify.com/track/2WhpOLpyrvtsWi0IxY77AG"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN"
+      },
+      "artists": [
+        {
+          "name": "Iris Jean",
+          "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
+        }
+      ],
+      "duration_ms": 259353,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/41qun4g44RzCovHZUp05zS"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Page Of Cups (Reversed)",
-        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 150213,
-      "name": "Indoctrinate Me",
-      "url": "https://open.spotify.com/track/12HecHt9HGPDhfy0KUaKfu"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Wit Licht",
         "url": "https://open.spotify.com/album/3zHlnwOLJuXHdY7tEsjPkd"
       },
@@ -1271,18 +1255,34 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Already Lost",
-        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
+        "name": "Page Of Cups (Reversed)",
+        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
       },
       "artists": [
         {
-          "name": "Caro",
-          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 218926,
-      "name": "Already Lost",
-      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
+      "duration_ms": 150213,
+      "name": "Indoctrinate Me",
+      "url": "https://open.spotify.com/track/12HecHt9HGPDhfy0KUaKfu"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/0H32xOvi6XQcAig8FnBXHy"
+      },
+      "artists": [
+        {
+          "name": "Mila & Mira",
+          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
+        }
+      ],
+      "duration_ms": 158649,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/38cgIJelIBbtC5VFbFPbA9"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/0H32xOvi6XQcAig8FnBXHy"
+        "name": "Already Lost",
+        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
       },
       "artists": [
         {
-          "name": "Mila & Mira",
-          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
+          "name": "Caro",
+          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
         }
       ],
-      "duration_ms": 158649,
-      "name": "Layers",
-      "url": "https://open.spotify.com/track/38cgIJelIBbtC5VFbFPbA9"
+      "duration_ms": 218926,
+      "name": "Already Lost",
+      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Days on Days on Days",
-        "url": "https://open.spotify.com/album/3z4zr0RKLtTgooYVUnDfJ3"
-      },
-      "artists": [
-        {
-          "name": "High Hi",
-          "url": "https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Days on Days on Days",
-      "url": "https://open.spotify.com/track/5tca4r6i2Ej7VE2hLp9G16"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "STAR VIVA",
         "url": "https://open.spotify.com/album/2XMuXw1xBx0o3ERV3op3E0"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 169304,
       "name": "MATAMOS TIEMPO",
       "url": "https://open.spotify.com/track/5bw9K71y47BzBXbbc8vNd5"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Days on Days on Days",
+        "url": "https://open.spotify.com/album/3z4zr0RKLtTgooYVUnDfJ3"
+      },
+      "artists": [
+        {
+          "name": "High Hi",
+          "url": "https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Days on Days on Days",
+      "url": "https://open.spotify.com/track/5tca4r6i2Ej7VE2hLp9G16"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Als jij het niet bent",
-        "url": "https://open.spotify.com/album/2hBXUwRUMdtF6kd2DIWHqO"
-      },
-      "artists": [
-        {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
-        }
-      ],
-      "duration_ms": 211508,
-      "name": "Als jij het niet bent",
-      "url": "https://open.spotify.com/track/1Y08ygmeSrkGHxTp5wOrq9"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/6siWmmAx2R0xa5Gp1l8lFX"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 216453,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/3CXadUqQ5eUVbDxtDaidgN"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Als jij het niet bent",
+        "url": "https://open.spotify.com/album/2hBXUwRUMdtF6kd2DIWHqO"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "duration_ms": 211508,
+      "name": "Als jij het niet bent",
+      "url": "https://open.spotify.com/track/1Y08ygmeSrkGHxTp5wOrq9"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Nothing to Teach",
-        "url": "https://open.spotify.com/album/1aS5W0IXSsxLEiSJmPFVOU"
-      },
-      "artists": [
-        {
-          "name": "The Klittens",
-          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
-        }
-      ],
-      "duration_ms": 157720,
-      "name": "Nothing to Teach",
-      "url": "https://open.spotify.com/track/4dGWDxdFBeXQsS70rPqhBw"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/0tucyJ4pzR9qLrpxCLmm0d"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 243100,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/0qe9WjF8QojPvxdpQBSnX7"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Nothing to Teach",
+        "url": "https://open.spotify.com/album/1aS5W0IXSsxLEiSJmPFVOU"
+      },
+      "artists": [
+        {
+          "name": "The Klittens",
+          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Nothing to Teach",
+      "url": "https://open.spotify.com/track/4dGWDxdFBeXQsS70rPqhBw"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "in-between",
-        "url": "https://open.spotify.com/album/6lQJ3iJxUj2LvMDYVkySPu"
-      },
-      "artists": [
-        {
-          "name": "Bex",
-          "url": "https://open.spotify.com/artist/36oeUK8c28Osce2qzpOHmi"
-        }
-      ],
-      "duration_ms": 187966,
-      "name": "in-between",
-      "url": "https://open.spotify.com/track/4OpD17dE0rLf6RHXOPNSVo"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Baranka Music Promo Tape (26)",
         "url": "https://open.spotify.com/album/0eeTdND0Ua4KK9PceETEHK"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 205489,
       "name": "Wateren",
       "url": "https://open.spotify.com/track/1jc6Q3JrL4hu8ZRYqKQGcU"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "in-between",
+        "url": "https://open.spotify.com/album/6lQJ3iJxUj2LvMDYVkySPu"
+      },
+      "artists": [
+        {
+          "name": "Bex",
+          "url": "https://open.spotify.com/artist/36oeUK8c28Osce2qzpOHmi"
+        }
+      ],
+      "duration_ms": 187966,
+      "name": "in-between",
+      "url": "https://open.spotify.com/track/4OpD17dE0rLf6RHXOPNSVo"
     },
     {
       "added_at": "2026-10-06 22:00:25",

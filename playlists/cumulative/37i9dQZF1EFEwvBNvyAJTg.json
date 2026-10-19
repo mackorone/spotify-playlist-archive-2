@@ -4930,6 +4930,24 @@
     {
       "album": {
         "name": "Visions",
+        "url": "https://open.spotify.com/album/5C0kAOfBP5hBpKVyKVLFZO"
+      },
+      "artists": [
+        {
+          "name": "The Modern Strangers",
+          "url": "https://open.spotify.com/artist/0OIhm4drHH9SKkFkLrszM9"
+        }
+      ],
+      "date_added": "2026-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194092,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/0kVwbY8IjseEXVqfD0O0zd"
+    },
+    {
+      "album": {
+        "name": "Visions",
         "url": "https://open.spotify.com/album/6qeeXQon6pCXfIxv1oRJTR"
       },
       "artists": [
@@ -4940,7 +4958,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 194092,
       "name": "Visions",
       "url": "https://open.spotify.com/track/7H7TzWuZa7SA4vVIyvAHl8"

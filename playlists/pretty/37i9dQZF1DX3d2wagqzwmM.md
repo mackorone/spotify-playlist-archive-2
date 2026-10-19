@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: AFROJACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,818 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,904 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 73 | [Rotation](https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Rotation](https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca) | 2:54 |
 | 74 | [Freak](https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Freak](https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i) | 2:43 |
 | 75 | [Feel Your Body](https://open.spotify.com/track/0kINUt3VNVmwBtzGUm478L) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x) | [Feel Your Body](https://open.spotify.com/album/2q5VpXGGQAVumdQPypF1hV) | 2:06 |
-| 76 | [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 |
-| 77 | [Bad Behaviour](https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Bad Behaviour](https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn) | 2:46 |
+| 76 | [Bad Behaviour](https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Bad Behaviour](https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn) | 2:46 |
+| 77 | [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 |
 | 78 | [Automatic](https://open.spotify.com/track/6ApTUn36QPmFIb5tSezZFw) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [RAVEKINGS](https://open.spotify.com/artist/1mWqL90F7Hmnx0VLoDy6YQ), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5) | [Automatic](https://open.spotify.com/album/7Dw7nDMPL5OGBscWJS6qvK) | 2:37 |
 | 79 | [Luvstruck](https://open.spotify.com/track/0ZxYJrCv0Kq2ONqgFWw5SM) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/1TS5PmnWKa6vr5qBV4dq46) | 2:41 |
 | 80 | [Turn The Lights Off \(Paul Elstak Remix\)](https://open.spotify.com/track/5rc4Y6Io2RKjqDdsZR7G3R) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Turn The Lights Off \(Paul Elstak Remix\)](https://open.spotify.com/album/4z02t8GQPO1052P0gvBPc3) | 2:52 |

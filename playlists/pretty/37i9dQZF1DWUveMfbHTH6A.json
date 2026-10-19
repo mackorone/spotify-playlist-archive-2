@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15344,
+  "num_followers": 15347,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk"
-      },
-      "artists": [
-        {
-          "name": "Emily Ann Roberts",
-          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
-        }
-      ],
-      "duration_ms": 184260,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "coming around",
         "url": "https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 222840,
       "name": "coming around",
       "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "duration_ms": 184260,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Stick Up",
-        "url": "https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum"
-      },
-      "artists": [
-        {
-          "name": "Raq baby",
-          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Goodbyehouse",
         "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 176212,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Stick Up",
+        "url": "https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "After All This Time",
-        "url": "https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2"
-      },
-      "artists": [
-        {
-          "name": "Van Buren",
-          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "After All This Time",
-      "url": "https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Nkosi's Fantasia: Chapter One",
         "url": "https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 256500,
       "name": "Nkosi's Fantasia",
       "url": "https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "After All This Time",
+        "url": "https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "After All This Time",
+      "url": "https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "CONCUBANIA",
-        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "I CHOSE YOU",
-      "url": "https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 183374,
       "name": "QUAY V\u1ec0",
       "url": "https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "CONCUBANIA",
+        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "I CHOSE YOU",
+      "url": "https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Skins",
-        "url": "https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu"
-      },
-      "artists": [
-        {
-          "name": "The Orchestra (For Now)",
-          "url": "https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Baddiez",
         "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 163000,
       "name": "Baddiez",
       "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Skins",
+        "url": "https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu"
+      },
+      "artists": [
+        {
+          "name": "The Orchestra (For Now)",
+          "url": "https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "highs, lows & stargazing",
-        "url": "https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM"
+        "name": "B\u00e1n th\u1eddi gian",
+        "url": "https://open.spotify.com/album/2QzRhVsJ2KkVbB7XxG45Ai"
       },
       "artists": [
         {
-          "name": "woody",
-          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
+          "name": "Dreamwork",
+          "url": "https://open.spotify.com/artist/65aZV0VGC3Fk2AC4VO7tCw"
         }
       ],
-      "duration_ms": 192264,
-      "name": "when you leave",
-      "url": "https://open.spotify.com/track/6P9eHLKr7YYniDhFAF3AGy"
+      "duration_ms": 179543,
+      "name": "\u0110\u1eadu th\u1ea7n",
+      "url": "https://open.spotify.com/track/6QokXuBpqoMXAKAtA9YXin"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2025",

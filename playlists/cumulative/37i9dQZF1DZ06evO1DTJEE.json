@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Alabama Vs. Tennessee",
+        "url": "https://open.spotify.com/album/38tW98gcq2744sq33ksNYN"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Peyton Manning",
+          "url": "https://open.spotify.com/artist/4MMSLWJDd3EAbI2AOdaygo"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238827,
+      "name": "Alabama Vs. Tennessee",
+      "url": "https://open.spotify.com/track/2MpjZBEnggk1u4vCOG5wJ8"
+    },
+    {
+      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -810,7 +832,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 219673,
       "name": "Imagine That",
       "url": "https://open.spotify.com/track/7hHMy5mq9FwiEl4ka590KW"
@@ -1332,6 +1354,24 @@
     {
       "album": {
         "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/6K98kUtQPk41LbTCslLEqZ"
+    },
+    {
+      "album": {
+        "name": "That's Just Me",
         "url": "https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc"
       },
       "artists": [
@@ -1342,7 +1382,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-19",
       "duration_ms": 230400,
       "name": "That's Just Me",
       "url": "https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu"

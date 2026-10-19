@@ -1,13 +1,33 @@
 {
   "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: \u9999\u7530\u60a0\u771f",
-  "num_followers": 95470,
+  "num_followers": 95512,
   "original_name": "Sora Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOUwwtPw8AAJ8wu5R+RjKRU/7TL",
+  "snapshot_id": "AAAAAPjW7yr6xY+1zXY7nrQJqMfdYS5U",
   "tracks": [
+    {
+      "added_at": "2026-10-19 02:49:18",
+      "album": {
+        "name": "Womb Glow",
+        "url": "https://open.spotify.com/album/7u69VcuKFgZJwFcAagHUj1"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Womb Glow",
+      "url": "https://open.spotify.com/track/38SLp8yyu7783yCmeRI3bd"
+    },
     {
       "added_at": "2026-10-05 06:24:24",
       "album": {
@@ -49,6 +69,38 @@
       "url": "https://open.spotify.com/track/6hQWMD8jG26ijfi2sAzlIO"
     },
     {
+      "added_at": "2026-10-19 02:49:18",
+      "album": {
+        "name": "Doubles",
+        "url": "https://open.spotify.com/album/4Ax9sUE2EVqXq4uha2rjN0"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Doubles",
+      "url": "https://open.spotify.com/track/5bausfZaUCEWCVd0HAeMmX"
+    },
+    {
+      "added_at": "2026-10-19 02:49:18",
+      "album": {
+        "name": "Elevator Music (Bonus Track)",
+        "url": "https://open.spotify.com/album/6ONzKKfG5crNPZYjSuXTt4"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Elevator Music - Bonus Track",
+      "url": "https://open.spotify.com/track/0jehLE3H2Djod5CCLkaCrL"
+    },
+    {
       "added_at": "2026-10-05 06:24:24",
       "album": {
         "name": "Cyano",
@@ -79,26 +131,6 @@
       "duration_ms": 174017,
       "name": "Heart Motion Foto",
       "url": "https://open.spotify.com/track/4zA1ijz7NszMWMAs1fVEmF"
-    },
-    {
-      "added_at": "2026-10-05 06:24:24",
-      "album": {
-        "name": "Hammock Portal",
-        "url": "https://open.spotify.com/album/423V2qCqNdxiFTnYOcV28i"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Dorian Concept",
-          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Hammock Portal",
-      "url": "https://open.spotify.com/track/4d9R8yY8kkDoD5T5SJ1Ur5"
     },
     {
       "added_at": "2026-10-05 06:24:24",
@@ -135,6 +167,26 @@
       "duration_ms": 224268,
       "name": "What Is It That Breaks - Oklou's Version",
       "url": "https://open.spotify.com/track/292cAPI9bAJZseQb9ZsaTq"
+    },
+    {
+      "added_at": "2026-10-19 02:49:18",
+      "album": {
+        "name": "First Blue Car",
+        "url": "https://open.spotify.com/album/06QRgDmZtT90To7UaVNB0l"
+      },
+      "artists": [
+        {
+          "name": "maharishi yogo",
+          "url": "https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja"
+        },
+        {
+          "name": "Doc No",
+          "url": "https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "First Blue Car",
+      "url": "https://open.spotify.com/track/6RQexVPv8c2zeWAlnm6HQt"
     },
     {
       "added_at": "2026-10-05 06:24:24",
@@ -239,26 +291,6 @@
     {
       "added_at": "2026-10-05 06:24:24",
       "album": {
-        "name": "Chrysalis",
-        "url": "https://open.spotify.com/album/5ZVoNRe4oj6vVaxmBspnfG"
-      },
-      "artists": [
-        {
-          "name": "maharishi yogo",
-          "url": "https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja"
-        },
-        {
-          "name": "Doc No",
-          "url": "https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC"
-        }
-      ],
-      "duration_ms": 373186,
-      "name": "Chrysalis",
-      "url": "https://open.spotify.com/track/3SddRglzW0fY58zTAcuKI8"
-    },
-    {
-      "added_at": "2026-10-05 06:24:24",
-      "album": {
         "name": "\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342:\u0334\u0353\u031e\u0311\u030c\u0302\u0306\u030a\u034b\u0300:\u0338\u034e\u031f\u032f\u0302\u0313\u030c \u0489 \u0361 \u035e \u035e \u035e \u0489\u25cf \u0fc0 \u25cf \u0fc0 \u25cf \u0489\u20dd \u20dd\u0362 \u035e \u0358 \u035e\u20dd\u0315 \u0362 \u031b \u20dd \u0338 \u0321 \u0362\u20dd\u0327 \u0361 \u0361 \u0300 \u0327 \u0322\u20dd\u035c \u0489 \u035e \u035e \u20dd\u035e \u0358 \u035e \u0361\u20dd \u20dd\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489 :\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342v\u0334\u0322\u035a\u035a\u034e\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345)\u0334\u034e\u031c\u034d\u0331\u030b\u030c\u034b\u0313\u033e\u031a \u0337\u0328 \u263c\u20dd\u25de\u2296\u25df \u2237\u1368\u25c9\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd\ua242\ua1ad(\u263c\u20dd\u2741)\u1557 \u0489\u20dd \u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u0335\u0328\u031b\u0331\u0325\u0355\u0301\u030e\u0301\u0310\u035d/\u0338\u0320\u031c\u0305\u0310\u034a\u030b\u033f\u0310\u0313\\\u0338\u0327\u0354\u0330\u0333\u0326\u0323\u032a\u0308\u030f\u0313 \u0334\u0321\u031b\u0305\u0350\u035b\u0300\u033d/\u0336\u0331\u033c\u0323\u0324\u0330\u0332\u0323\u0308\u0301\u030b\u034c\u033f\u0304\u030d\u030a\\\u0334\u0332\u0323\u031d\u0300\u035c\u0345 \u0338\u031d\u032e\u031f\u0339\u0300\u0306\u030b\u033f \u0334\u0324\u033b\u0300(\u0335\u0319\u033a\u0333\u0329\u0350\u0357\u0301\u0351\u034b\u0313\u0315\u035c\u0345(\u0335\u033a\u0356\u0324\u034c\u0342\u0351\u0310\u0315o\u0336\u0322\u0318\u0354\u0312\u0308\u0311\u0312\u034a\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342 \u263c\u20dd\u263c\u20dd\u25c9 \u0489\u20ddO\u25c9\u263c\u20dd\u2296\u263c\u20dd\u263c\u20dd\u2741 \u0489\u20dd\u263c\u20dd\u263c\u20dd \u20dd\u0362 \u0322\u20dd\u035c \u263c\u20dd\u263c\u20dd:\u0334\u0353\u031e\u0311\u030c\u0302\u0306\u030a\u034b\u0300:\u0338\u034e\u031f\u032f\u0302\u0313\u030c:\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342v\u0334\u0322\u035a\u035a\u034e\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345)\u0334\u034e\u031c\u034d\u0331\u030b\u030c\u034b\u0313\u033e\u031a \u0337\u0328\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361()\u0283\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \ua411\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301\u033f)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345\u0fc3\u0942\u0a42\u2727\u20db\u2727\u20db:\u0338\u034e\u031f\u032f\u0302\u0313\u030c:\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332",
         "url": "https://open.spotify.com/album/6OxEdoTceemiC0d7GgdXEz"
       },
@@ -289,24 +321,36 @@
       "url": "https://open.spotify.com/track/1smLgv73ugTTG0r5V1iszT"
     },
     {
-      "added_at": "2026-10-05 06:24:24",
+      "added_at": "2026-10-19 02:49:18",
       "album": {
-        "name": "Doodle Notes #15",
-        "url": "https://open.spotify.com/album/2wK0iVDXEkgqwS90F1yGhK"
+        "name": "The Inner Compass",
+        "url": "https://open.spotify.com/album/7jptSwSCcycObU7ANXiBDm"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "The Inner Compass",
+      "url": "https://open.spotify.com/track/0LEL57GpVcnC6Z4PS6tsBb"
+    },
+    {
+      "added_at": "2026-10-19 02:49:18",
+      "album": {
+        "name": "tinySketch #92",
+        "url": "https://open.spotify.com/album/2Ks99uvjqZgkqfKOHfFPGz"
       },
       "artists": [
         {
           "name": "kita kouhei",
           "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
-        },
-        {
-          "name": "Shingo Mimura",
-          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
         }
       ],
-      "duration_ms": 210943,
-      "name": "Doodle Notes #15",
-      "url": "https://open.spotify.com/track/7DJeZMinIXhAnciBDcLVwn"
+      "duration_ms": 182400,
+      "name": "tinySketch #92",
+      "url": "https://open.spotify.com/track/0WlfY3lQeWeglx8Qz2QtQi"
     },
     {
       "added_at": "2026-10-05 06:24:24",
@@ -413,6 +457,22 @@
       "url": "https://open.spotify.com/track/6zuUbjk1vXvOoGv5TVdOa0"
     },
     {
+      "added_at": "2026-10-19 02:49:18",
+      "album": {
+        "name": "Morning Mist",
+        "url": "https://open.spotify.com/album/6DSREoxamd9J97NEA1Gnsz"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "duration_ms": 146253,
+      "name": "Morning Mist",
+      "url": "https://open.spotify.com/track/6cZv571156wWIK7aipPFR3"
+    },
+    {
       "added_at": "2026-10-05 06:24:24",
       "album": {
         "name": "Materia 2",
@@ -507,6 +567,22 @@
       "duration_ms": 99711,
       "name": "Movement 13 - Hope Taking Flight",
       "url": "https://open.spotify.com/track/70vbC4BGJn2AMUEhRxYBoq"
+    },
+    {
+      "added_at": "2026-10-19 02:49:18",
+      "album": {
+        "name": "Electric Sheep for Sleep",
+        "url": "https://open.spotify.com/album/19heNMLzqgSObcS3c4QHVU"
+      },
+      "artists": [
+        {
+          "name": "Calm",
+          "url": "https://open.spotify.com/artist/2WQ75gaXBzFIIF54BDJXDv"
+        }
+      ],
+      "duration_ms": 1254000,
+      "name": "Electric Sheep for Sleep (Minimal Nature Mix)",
+      "url": "https://open.spotify.com/track/4kGHvymHtM04grLiFwDHIU"
     },
     {
       "added_at": "2026-10-05 06:24:24",
@@ -779,26 +855,6 @@
     {
       "added_at": "2026-10-05 06:24:24",
       "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/1bILUgo25ahrzoGF9l4Wlk"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Dorian Concept",
-          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/0iowmv0cVXPxD3bot8xHiQ"
-    },
-    {
-      "added_at": "2026-10-05 06:24:24",
-      "album": {
         "name": "Melting Days",
         "url": "https://open.spotify.com/album/1tLBaM7LWJkX1zi3K6wuLu"
       },
@@ -911,26 +967,6 @@
       "duration_ms": 253600,
       "name": "Nervion",
       "url": "https://open.spotify.com/track/2iuazD4rbwPw1JdBRvXX44"
-    },
-    {
-      "added_at": "2026-10-05 06:24:24",
-      "album": {
-        "name": "Conversation 3",
-        "url": "https://open.spotify.com/album/2k5HAjy3uCMwKkWWs5nu9Z"
-      },
-      "artists": [
-        {
-          "name": "Alva Noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 353278,
-      "name": "Conversation 3",
-      "url": "https://open.spotify.com/track/0nIbSZ4o2L2gtwWtKwmnZP"
     },
     {
       "added_at": "2026-10-05 06:24:24",
@@ -1291,22 +1327,6 @@
     {
       "added_at": "2026-10-05 06:24:24",
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 273593,
-      "name": "UMI",
-      "url": "https://open.spotify.com/track/1cXApPlJlzyCly1GkMt80C"
-    },
-    {
-      "added_at": "2026-10-05 06:24:24",
-      "album": {
         "name": "collaborate#11",
         "url": "https://open.spotify.com/album/2YSG9yik7CnPFfIrTZcTWK"
       },
@@ -1515,22 +1535,6 @@
       "duration_ms": 256000,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/2iH5SjBAHse4EaO69JbXLf"
-    },
-    {
-      "added_at": "2026-10-05 06:24:24",
-      "album": {
-        "name": "Dim Light",
-        "url": "https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437"
-      },
-      "artists": [
-        {
-          "name": "Koji Ishikura",
-          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dim Light",
-      "url": "https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5"
     },
     {
       "added_at": "2026-10-05 06:24:24",
