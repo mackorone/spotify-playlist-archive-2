@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Ach khellah Yetfakarni",
+        "url": "https://open.spotify.com/album/3783OvbEPlHQVwToBsrirf"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202162,
+      "name": "Achkhellah Yetfakarni",
+      "url": "https://open.spotify.com/track/3H54lEEiew66nSG4NyatEF"
+    },
+    {
+      "album": {
         "name": "Tornado",
         "url": "https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D"
       },
@@ -2272,7 +2290,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -8640,6 +8658,24 @@
       "duration_ms": 223448,
       "name": "Sabra",
       "url": "https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS"
+    },
+    {
+      "album": {
+        "name": "Sabran",
+        "url": "https://open.spotify.com/album/3d0L7KfTJenTUiOQsrqcv4"
+      },
+      "artists": [
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Sabran",
+      "url": "https://open.spotify.com/track/5iQPZCQR5SBP3moPvnO8S5"
     },
     {
       "album": {

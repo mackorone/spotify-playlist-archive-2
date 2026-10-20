@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: lahgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,940 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,933 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [480p](https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ) | [blinder](https://open.spotify.com/artist/6juJRLHxGjBVbtO7CYvhEe) | [low\-res](https://open.spotify.com/album/7rkhtgAWlFWTxFXfk9M1Cc) | 3:48 |
 | 100 | [Gummy Bear](https://open.spotify.com/track/3QyuHDL1hZyISsSfCrjgP9) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Gummy Bear](https://open.spotify.com/album/2xRcRgR5v3IarPPqByXE6Y) | 2:44 |
 
-Snapshot ID: `AAAAAC3Hty/PNqKgoOCZsUWqf4MQHaCE`
+Snapshot ID: `AAAAAK4ZQHPLZaOC5X7DwpQmhf/6RETL`

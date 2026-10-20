@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Tate McRae on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,162 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,154 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 5 | [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 |
 | 6 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 | 7 | [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 |
-| 8 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 8 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 9 | [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 |
 | 10 | [All Night](https://open.spotify.com/track/60en70VzA0uqMAFTzShVit) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Flavorz Pack](https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv) | 3:38 |
 | 11 | [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Rohan Pinnock\-Hamilton](https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 50 | [Spectral Eyes](https://open.spotify.com/track/5uagx4o8QQLVZVm29ffdFn) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Spectral Eyes](https://open.spotify.com/album/0KoJgvW1kOgVy48U087nBM) | 4:09 |
 | 51 | [yellow brick home](https://open.spotify.com/track/0fCuaJ36HxeeuMtHTTiwWq) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [yellow brick home // Exorcisms on the Weekend](https://open.spotify.com/album/3gqNYlOhq0TMA5Pm8xJU64) | 5:07 |
 | 52 | [right/left](https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [right/left](https://open.spotify.com/album/4UEnqdMtJ3TlgA25OsRG5A) | 2:09 |
-| 53 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
+| 53 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Campeón Gabacho](https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
 | 54 | [Staring At The Sun](https://open.spotify.com/track/0Av0Z4deoq4ct6JWdrmUM3) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Staring At The Sun](https://open.spotify.com/album/27sUfvUNHIqk81ANClzg7Q) | 3:21 |
 | 55 | [the weight](https://open.spotify.com/track/4TVeDcIxXMR46zcnA2ArKo) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [The Underworld](https://open.spotify.com/album/3pelB3xfhorcKEPpSc27jM) | 6:01 |
 | 56 | [Another You \(feat\. Sadie Jean\)](https://open.spotify.com/track/26bOxdCaS6ESsR2NR4xq41) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Another You \(feat\. Sadie Jean\)](https://open.spotify.com/album/2uccjUTwwCdlXgQBbh0HwV) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Not Tonight](https://open.spotify.com/track/0foBTPeF69uo6kKS53Zeyr) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Not Tonight](https://open.spotify.com/album/1tzJAbACOlRsQ96yPikzNg) | 3:14 |
 | 100 | [Libertad](https://open.spotify.com/track/4XDaqSDD7KeDVGYWUoTXzB) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Libertad](https://open.spotify.com/album/2wCPL6MDguOP9bQIngrLwg) | 4:34 |
 
-Snapshot ID: `AAAAAIXCmD7S1XMlN2qJRu0KnQOGXp0m`
+Snapshot ID: `AAAAAA0Ti1PJRIECTMcLebOQGcRRFp9F`

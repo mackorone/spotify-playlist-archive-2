@@ -1,13 +1,49 @@
 {
-  "description": "The best videos from the world of pop! Cover: Ayra Starr & ZAYN",
-  "num_followers": 11843,
+  "description": "The best videos from the world of pop! Cover: Olivia Rodrigo & Chappell Roan",
+  "num_followers": 11847,
   "original_name": "Pop Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM8uNQXQhnjP7Gz8/QM44mWphJTM",
+  "snapshot_id": "AAAAACAcVdaYGT7XMDtBkht9k60ZhqkZ",
   "tracks": [
+    {
+      "added_at": "2026-10-20 00:20:01",
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+    },
+    {
+      "added_at": "2026-10-20 00:20:01",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
     {
       "added_at": "2026-10-09 05:10:31",
       "album": {
@@ -27,6 +63,38 @@
       "duration_ms": 158792,
       "name": "Heaven Baby (feat. ZAYN)",
       "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
+    },
+    {
+      "added_at": "2026-10-20 00:20:01",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 222478,
+      "name": "Lasso The Moon",
+      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
+    },
+    {
+      "added_at": "2026-10-20 00:20:01",
+      "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
     },
     {
       "added_at": "2026-10-09 05:10:31",
@@ -93,6 +161,38 @@
       "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
     },
     {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
+    },
+    {
+      "added_at": "2026-10-20 00:20:01",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 219287,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK"
+    },
+    {
       "added_at": "2026-09-18 04:52:51",
       "album": {
         "name": "Party",
@@ -141,6 +241,22 @@
       "url": "https://open.spotify.com/track/2ssudX8IFcoWVqRTKbaeTY"
     },
     {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "TRALALA",
+        "url": "https://open.spotify.com/album/5CLjc8hUUhq4Eoc6RLjXP9"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "TRALALA",
+      "url": "https://open.spotify.com/track/1DviBWXzR8j4JktAcHCAeT"
+    },
+    {
       "added_at": "2026-10-09 05:10:31",
       "album": {
         "name": "World's Greatest!",
@@ -155,6 +271,22 @@
       "duration_ms": 230104,
       "name": "World's Greatest!",
       "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
+    },
+    {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "Lucy, When You Wake Up",
+        "url": "https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 214806,
+      "name": "Lucy, When You Wake Up",
+      "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
     },
     {
       "added_at": "2026-09-18 04:52:51",
@@ -173,6 +305,22 @@
       "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
     },
     {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/1wqnLiqd9x2fAM0VHHvb97"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 177544,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5EDHxPobOf50pYWwcwxI8y"
+    },
+    {
       "added_at": "2026-09-18 04:52:51",
       "album": {
         "name": "new trick",
@@ -187,6 +335,22 @@
       "duration_ms": 182582,
       "name": "new trick",
       "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
+    },
+    {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "Blood On Our Hands",
+        "url": "https://open.spotify.com/album/60BNyDHsaazyoTe2MQ0WQA"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Blood On Our Hands",
+      "url": "https://open.spotify.com/track/2gqatintbIk3Y7lz46zpDP"
     },
     {
       "added_at": "2026-10-09 05:10:31",
@@ -221,6 +385,22 @@
       "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 184689,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/403gawZsw405TxgN5LIuDp"
+    },
+    {
       "added_at": "2026-10-09 05:10:31",
       "album": {
         "name": "Man Ain't Me",
@@ -251,6 +431,22 @@
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "I think I spoke too soon",
+        "url": "https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215798,
+      "name": "Pretty girls",
+      "url": "https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m"
     },
     {
       "added_at": "2026-09-25 15:47:14",
@@ -285,20 +481,20 @@
       "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
     },
     {
-      "added_at": "2026-10-09 05:10:31",
+      "added_at": "2026-10-20 00:25:26",
       "album": {
-        "name": "Take A Video",
-        "url": "https://open.spotify.com/album/056xtyjduIvd1wt98OIRjH"
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
       },
       "artists": [
         {
-          "name": "Olivia C. Dacal",
-          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
         }
       ],
-      "duration_ms": 179981,
-      "name": "Take A Video",
-      "url": "https://open.spotify.com/track/5yieRaZS2kd0XLGMkcYcpP"
+      "duration_ms": 233708,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq"
     },
     {
       "added_at": "2026-09-04 04:27:50",
@@ -315,6 +511,22 @@
       "duration_ms": 188531,
       "name": "SaWaDiKa",
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-10-09 05:10:31",
+      "album": {
+        "name": "Take A Video",
+        "url": "https://open.spotify.com/album/056xtyjduIvd1wt98OIRjH"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "duration_ms": 179981,
+      "name": "Take A Video",
+      "url": "https://open.spotify.com/track/5yieRaZS2kd0XLGMkcYcpP"
     },
     {
       "added_at": "2026-10-09 05:10:31",
@@ -381,26 +593,6 @@
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
-      "added_at": "2026-09-25 15:47:14",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 182833,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb"
-    },
-    {
       "added_at": "2026-10-09 05:10:31",
       "album": {
         "name": "Kiss The Ring",
@@ -417,20 +609,20 @@
       "url": "https://open.spotify.com/track/3uiUQodPW2SoJkzg7J6Bfd"
     },
     {
-      "added_at": "2026-09-18 04:52:51",
+      "added_at": "2026-10-20 00:25:26",
       "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+        "name": "GO HARD",
+        "url": "https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 216104,
-      "name": "Let\u2019s Get Married",
-      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
+      "duration_ms": 187833,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/3P2MygdWs8lorZnwV3KrsJ"
     },
     {
       "added_at": "2026-09-11 04:35:17",
@@ -503,6 +695,26 @@
       "duration_ms": 263933,
       "name": "Joy.",
       "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
+    },
+    {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
+      },
+      "artists": [
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        },
+        {
+          "name": "A2O LITE",
+          "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
     },
     {
       "added_at": "2026-09-18 04:54:14",
@@ -655,6 +867,22 @@
       "duration_ms": 238505,
       "name": "brand new chanel$",
       "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "added_at": "2026-10-20 00:25:26",
+      "album": {
+        "name": "Piratebae",
+        "url": "https://open.spotify.com/album/0RaOCQKHOdimApqXK5A45G"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 133289,
+      "name": "Elastic",
+      "url": "https://open.spotify.com/track/5z1i1YpHDnERxGCsYoeyHu"
     },
     {
       "added_at": "2026-09-18 04:52:51",
@@ -1131,22 +1359,6 @@
     {
       "added_at": "2026-08-21 18:05:13",
       "album": {
-        "name": "One Night Stand",
-        "url": "https://open.spotify.com/album/7CrFrRDQSSDeEfDxUsz4Ts"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "One Night Stand",
-      "url": "https://open.spotify.com/track/2Ww5KkdBHZM8E1fKeZc1DI"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
         "name": "HOLLYWOODLAND",
         "url": "https://open.spotify.com/album/5tFVKRNk4AmAywYFbgTyrz"
       },
@@ -1175,74 +1387,6 @@
       "duration_ms": 171714,
       "name": "Size Two",
       "url": "https://open.spotify.com/track/3ZioR8GLXGtoILTI0zyqhC"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "New To You",
-        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 151378,
-      "name": "New To You",
-      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "Memo",
-        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Memo",
-      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "honk!",
-        "url": "https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 135460,
-      "name": "honk!",
-      "url": "https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "added_at": "2026-08-21 18:05:13",
@@ -1311,38 +1455,6 @@
     {
       "added_at": "2026-08-21 18:05:13",
       "album": {
-        "name": "WAYF BOYS DO",
-        "url": "https://open.spotify.com/album/32mQSWQGzN0SbLuWHt4u4s"
-      },
-      "artists": [
-        {
-          "name": "WAYF BOYS",
-          "url": "https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "WAYF BOYS DO",
-      "url": "https://open.spotify.com/track/0GFdPboDW6A91IfLDVrY3R"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "After The After Party",
-        "url": "https://open.spotify.com/album/5VEefYsBGDmyaHJzFfDrMj"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 172135,
-      "name": "After The After Party",
-      "url": "https://open.spotify.com/track/0dYCy1JawuXIRXUuAkeFQj"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
         "name": "Wink Wink",
         "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
       },
@@ -1387,94 +1499,6 @@
       "duration_ms": 245755,
       "name": "High Hopes 3000",
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/3kCOfgr7Y32GPtDFoYBbUU"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/0iqIjgBCbWsJLZ27FWqy49"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/0HbBbA2jkbUV4169cLsuGQ"
-      },
-      "artists": [
-        {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
-        }
-      ],
-      "duration_ms": 208379,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/4OlKkdk4xclh30KufpSmf5"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "Electrified",
-        "url": "https://open.spotify.com/album/3Shzbb73nojCdjelhN9WDJ"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 163827,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/5XuizbY6zjpAjpuljymNbT"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "Alive (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207085,
-      "name": "Alive (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "Call When You Can",
-        "url": "https://open.spotify.com/album/3anPrKr8RIkirBiEt9ljLu"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Call When You Can (feat. dodie)",
-      "url": "https://open.spotify.com/track/7MP9cMNfuQSWUMWvOjiebi"
     },
     {
       "added_at": "2026-08-21 18:05:13",
@@ -1567,26 +1591,6 @@
     {
       "added_at": "2026-08-21 18:05:13",
       "album": {
-        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 213241,
-      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
         "name": "House Tour",
         "url": "https://open.spotify.com/album/5La0WUeRDbLQCJqSZHZHcJ"
       },
@@ -1647,22 +1651,6 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     }
   ],
   "unique_name": "Pop Music Videos",

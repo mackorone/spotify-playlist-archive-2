@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-248 songs - 11 hr 50 min
+249 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Coral Triangle](https://open.spotify.com/track/07tjeMHO9Mex2K7CMmNsCZ) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Textural Ambience](https://open.spotify.com/album/1t2BojfAohe91eDRz7uM7y) | 3:10 | 2025-06-23 |  |
 | [Cove Girl](https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Cove Girl](https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh) | 2:52 | 2025-01-15 |  |
 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 | 2024-02-06 | 2026-01-15 |
+| [Crystal Spread](https://open.spotify.com/track/1qCzG2IC7hiLYOtgTo2ByK) | [Whisper Thread](https://open.spotify.com/artist/3KLLcSRsnTeamAVNeylaI8) | [Crystal Spread](https://open.spotify.com/album/5iYB12rFA2rly1UdoB5NPp) | 3:07 | 2026-10-05 |  |
 | [Cycles Of The Sea](https://open.spotify.com/track/2fdsFtJNZbKypYUbHPhpvg) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Cycles Of The Sea](https://open.spotify.com/album/2TizULP5ELPZeKI3EQ5F6p) | 3:13 | 2026-02-27 |  |
 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-10-23 |  |
 | [Days Like This](https://open.spotify.com/track/1QpPzEPYyIQTWFkwj1jvic) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Days Like This](https://open.spotify.com/album/1doVmhM8IVGoCCRV5eGmdW) | 2:12 | 2024-11-22 | 2024-12-11 |
@@ -103,7 +104,7 @@
 | [Harmonic Waters](https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Harmonic Waters](https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob) | 2:22 | 2024-07-08 | 2026-10-06 |
 | [Healing Vibrations](https://open.spotify.com/track/63DqInT6u5XnSNTBxi9KdK) | [Restful Minds](https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D) | [Healing Vibrations](https://open.spotify.com/album/4fdCupr10MhDYHQHr7NMgp) | 3:48 | 2023-11-24 | 2025-12-30 |
 | [Healing Waves](https://open.spotify.com/track/4GLun8fkrW7IR805a6uqS8) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Healing Waves](https://open.spotify.com/album/54AKwX8B4zZstounpuoYri) | 2:31 | 2025-10-02 | 2026-10-06 |
-| [heart wave](https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [heart wave](https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC) | 2:54 | 2024-05-01 |  |
+| [heart wave](https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [heart wave](https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC) | 2:54 | 2024-05-01 | 2026-10-20 |
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-23 | 2025-04-02 |
 | [Highest Peaks](https://open.spotify.com/track/57cEl0th5hS43eAXY7krXh) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Highest Peaks](https://open.spotify.com/album/5bqLjmTyXSVGls4ocSft2F) | 3:07 | 2024-02-06 | 2024-02-11 |
 | [Holy Waters](https://open.spotify.com/track/4BRo8Y4XlORmU3kzdgkk4h) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Holy Waters](https://open.spotify.com/album/0RPtoKCmbjHfbzY1WmQMWY) | 2:24 | 2026-06-12 | 2026-10-06 |

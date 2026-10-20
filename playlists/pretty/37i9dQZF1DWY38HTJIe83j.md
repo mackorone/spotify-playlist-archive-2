@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 
 > A lovely mix of videos from your favorite indie artists\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085 likes - 64 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104 likes - 63 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 | 58 | [Babydoll](https://open.spotify.com/track/0j6oaxFNCIJVCSXAci3MAg) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Babydoll](https://open.spotify.com/album/5MmlbyI4DHDu6jqlkapGw8) | 2:34 |
 | 59 | [Song for the Messenger](https://open.spotify.com/track/24h4xdIu9W4UgoAJWpsGBk) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Song for the Messenger](https://open.spotify.com/album/5dA0qrdsUmthwxsKgTjFPG) | 3:16 |
 | 60 | [Lazuli](https://open.spotify.com/track/3JRfdGSiX9p2OrvlNcMfcf) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Lazuli](https://open.spotify.com/album/2OeVuF0zcn9o7vZZmjZ9AV) | 5:11 |
-| 61 | [Good Looking](https://open.spotify.com/track/4GGMOcRqh3QXeVuNIkD69m) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/26ZQe74g5pQVsRbSJzF5uD) | 3:34 |
-| 62 | [I Love You, I'm Sorry](https://open.spotify.com/track/6JJMWsidZ1rXZIE5Oe9Nut) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Love You, I'm Sorry](https://open.spotify.com/album/512PpqB3XPiAdWd3YE9qBE) | 3:53 |
-| 63 | [In Violet](https://open.spotify.com/track/0XBBCoLXMKUKmRlYos1e3F) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [In Violet](https://open.spotify.com/album/5z86TjJAwCzrOGIuRHz7o7) | 4:13 |
-| 64 | [4EVER](https://open.spotify.com/track/59JTquck3mu2kSC5z3BGyb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/0wNbkcRbFMoYx93bUyXdXK) | 3:42 |
+| 61 | [I Love You, I'm Sorry](https://open.spotify.com/track/6JJMWsidZ1rXZIE5Oe9Nut) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Love You, I'm Sorry](https://open.spotify.com/album/512PpqB3XPiAdWd3YE9qBE) | 3:53 |
+| 62 | [In Violet](https://open.spotify.com/track/0XBBCoLXMKUKmRlYos1e3F) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [In Violet](https://open.spotify.com/album/5z86TjJAwCzrOGIuRHz7o7) | 4:13 |
+| 63 | [4EVER](https://open.spotify.com/track/59JTquck3mu2kSC5z3BGyb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/0wNbkcRbFMoYx93bUyXdXK) | 3:42 |
 
-Snapshot ID: `AAAAAPoh5yxukjny++LEVLi/skG0SoA3`
+Snapshot ID: `AAAAAOgSbMBhVOlcWfrHIN8p1yRnjlsB`

@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 77155,
+  "num_followers": 77174,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABkxOY3ViSDnztsAR4F7yAcludSF",
+  "snapshot_id": "AAAAAHVwiLOdCFrFXq0cFkIxNP73J7Tw",
   "tracks": [
     {
       "added_at": "2026-09-18 03:00:25",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Quiero ser feliz tambien",
-        "url": "https://open.spotify.com/album/1sVWfIvv4A8G81RIQZl6RG"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Quiero ser feliz tambien",
-      "url": "https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
         "name": "Runfla Calavera",
         "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 205480,
       "name": "D\u00e9jalo Fluir",
       "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Quiero ser feliz tambien",
+        "url": "https://open.spotify.com/album/1sVWfIvv4A8G81RIQZl6RG"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Quiero ser feliz tambien",
+      "url": "https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "La Vida Es Una Canci\u00f3n II",
-        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
       "artists": [
         {
           "name": "Quique Neira",
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        },
-        {
-          "name": "Camale\u00f3n Land\u00e1ez",
-          "url": "https://open.spotify.com/artist/6luDf7ZddPhDV5TBMVzJNF"
         }
       ],
-      "duration_ms": 364093,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/1ykf7TrdvlwgitSzzisVE1"
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "La Vida Es Una Canci\u00f3n II",
+        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
       },
       "artists": [
         {
           "name": "Quique Neira",
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        },
+        {
+          "name": "Camale\u00f3n Land\u00e1ez",
+          "url": "https://open.spotify.com/artist/6luDf7ZddPhDV5TBMVzJNF"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+      "duration_ms": 364093,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/1ykf7TrdvlwgitSzzisVE1"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Flores de Asfalto",
-        "url": "https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe"
-      },
-      "artists": [
-        {
-          "name": "Vida Pura",
-          "url": "https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ"
-        }
-      ],
-      "duration_ms": 301875,
-      "name": "Tiempo de Sanar",
-      "url": "https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 186837,
       "name": "Arde",
       "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Flores de Asfalto",
+        "url": "https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe"
+      },
+      "artists": [
+        {
+          "name": "Vida Pura",
+          "url": "https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ"
+        }
+      ],
+      "duration_ms": 301875,
+      "name": "Tiempo de Sanar",
+      "url": "https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT"
     }
   ],
   "unique_name": "Reggae al Sur",

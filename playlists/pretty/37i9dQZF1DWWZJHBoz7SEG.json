@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sigue Rocktubre a todo lo que da en compa\u00f1\u00eda de Pepe Walker!",
-  "num_followers": 1247820,
+  "num_followers": 1247730,
   "original_name": "Novedades Viernes MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkwVmvuPoeCtDzDFtkXSYzSIj5V",
+  "snapshot_id": "AAAAAGyZXScyA1kI04Oa48xWoSkPnYaa",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:39",
@@ -450,6 +450,10 @@
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Campe\u00f3n Gabacho",
+          "url": "https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV"
         }
       ],
       "duration_ms": 114559,
@@ -647,6 +651,38 @@
       "duration_ms": 159237,
       "name": "Perfect Ending",
       "url": "https://open.spotify.com/track/3XBBKxMeEQ5S80R0ra7Zi8"
+    },
+    {
+      "added_at": "2026-10-19 18:20:32",
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "added_at": "2026-10-16 06:00:39",

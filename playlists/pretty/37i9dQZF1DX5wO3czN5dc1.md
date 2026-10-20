@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Mura
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,138 likes - 65 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,188 likes - 65 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 47 | [The Road Before You](https://open.spotify.com/track/3atKTgUQQqg3qb61mXxksS) | [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am) | [The Road Before You](https://open.spotify.com/album/7stxae1ApXmRDNfXuYpMLO) | 5:33 |
 | 48 | [Come To Me \(My Love\)](https://open.spotify.com/track/1ZCRAO91HC9X8d4WloR59a) | [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Khandasi](https://open.spotify.com/artist/4mDed0KOVrbDs2SfagQwZR), [TAPIWA](https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd) | [Come To Me \(My Love\)](https://open.spotify.com/album/2YkSQ0CGMyrvt4MLNg8N1M) | 5:27 |
 | 49 | [Champagne](https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [MASSALA](https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Champagne](https://open.spotify.com/album/1pgnVo1I3oh6EjBdOJjgI5) | 2:59 |
-| 50 | [Revere \- Da Capo & Euggy Remix](https://open.spotify.com/track/2ZYLhFcNH2xU9431Ty1MeI) | [Aluku Rebels](https://open.spotify.com/artist/2KOqQU8pfhrMSK3YpfQ6YC), [Ezzymusica](https://open.spotify.com/artist/2YWeuI8LDv8hQbgoBa5jpb), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn) | [Revere \(Da Capo & Euggy Remix\)](https://open.spotify.com/album/2rrBB6Hmfqnv65VeVpXIVm) | 7:30 |
+| 50 | [Revere \- Da Capo & Euggy Remix](https://open.spotify.com/track/2ZYLhFcNH2xU9431Ty1MeI) | [Aluku Rebels](https://open.spotify.com/artist/2KOqQU8pfhrMSK3YpfQ6YC), [EzzyMusica](https://open.spotify.com/artist/65HCoswlXwaYRgGEzAWSUX), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn) | [Revere \(Da Capo & Euggy Remix\)](https://open.spotify.com/album/2rrBB6Hmfqnv65VeVpXIVm) | 7:30 |
 | 51 | [INtombi Entsha \(feat\. Essa Kay, Mnqobi Yazo & Mpumi\)](https://open.spotify.com/track/7CI6r9oceCzafniw8Yq739) | [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Mpumi](https://open.spotify.com/artist/7IoFnVmSBtCK528aCfFQdJ) | [INtombi Entsha \(feat\. Essa Kay, Mnqobi Yazo & Mpumi\)](https://open.spotify.com/album/6ig0oDi8TK85VmuNuQYXKJ) | 5:28 |
 | 52 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |
 | 53 | [Khona \- Pierre Johnson & Simeon Remix](https://open.spotify.com/track/06rm6WlPfObXEVWR3e0vF9) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Heritage Series \- Re Imagine By Oskido \(Pierre Johnson & Simeon Remix\)](https://open.spotify.com/album/4gECs8kjqn8IOM4K2Aes1f) | 3:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 64 | [Four Women \- DESIREE Remix](https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Four Women \(DESIREE Remix\)](https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe) | 4:08 |
 | 65 | [A.I.E.](https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Alejandro Garrido](https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH) | [A.I.E.](https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g) | 2:46 |
 
-Snapshot ID: `AAAAAJUCG4LEQGsPzrFPn+OW2g/Q4av2`
+Snapshot ID: `AAAAAK44t1TSUHGFysGueflWvL4/a/UP`

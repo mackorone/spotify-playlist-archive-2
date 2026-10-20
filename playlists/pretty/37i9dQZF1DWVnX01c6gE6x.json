@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwfdpymk+kjTQCXZIIi9FFYSTvp",
+  "snapshot_id": "AAAAAJT++Zsu+PYAJuVbVHpPRyH0wO04",
   "tracks": [
     {
       "added_at": "2026-08-03 15:31:51",
@@ -39,38 +39,6 @@
       "duration_ms": 3130675,
       "name": "Ep. 18 - HETEROS CURIOSOS | LOS TRIPL3TS",
       "url": "https://open.spotify.com/episode/6b2Q15nDH5OkSWhNglTuFN"
-    },
-    {
-      "added_at": "2026-08-03 15:31:51",
-      "album": {
-        "name": "Los Tripl3ts",
-        "url": "https://open.spotify.com/album/629ovTrIOVUyoyv4L2dyqR"
-      },
-      "artists": [
-        {
-          "name": "Los Tripl3ts",
-          "url": "https://open.spotify.com/show/629ovTrIOVUyoyv4L2dyqR"
-        }
-      ],
-      "duration_ms": 4702178,
-      "name": "Ep. 17 - \u00bfQu\u00e9 paso verdaderamente? - ft. TURBULENCE QUEEN | LOS TRIPL3TS",
-      "url": "https://open.spotify.com/episode/4gCnFjhl6LVHCS2iZ6ncMB"
-    },
-    {
-      "added_at": "2026-08-03 15:31:51",
-      "album": {
-        "name": "Finanzas que Valen",
-        "url": "https://open.spotify.com/album/24fUXERZ38CtyNbJtCnpa8"
-      },
-      "artists": [
-        {
-          "name": "Finanzas que Valen",
-          "url": "https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8"
-        }
-      ],
-      "duration_ms": 2331864,
-      "name": "C\u00f3mo emprender sin quedar en quiebra: de qu\u00e9 viven las emprendedoras antes de ser redituables",
-      "url": "https://open.spotify.com/episode/4TsrMXazXkEpVmxszO0Oy2"
     },
     {
       "added_at": "2026-08-03 15:31:51",
@@ -137,20 +105,100 @@
       "url": "https://open.spotify.com/episode/18sRe51RuqUXxf1tLbcXEh"
     },
     {
-      "added_at": "2026-08-03 15:31:51",
+      "added_at": "2026-10-19 23:42:06",
       "album": {
-        "name": "Desmenucemos la Data",
-        "url": "https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV"
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
       },
       "artists": [
         {
-          "name": "Desmenucemos la Data",
-          "url": "https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV"
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
         }
       ],
-      "duration_ms": 4741781,
-      "name": " 26 - \u00bfPOR QU\u00c9 TODOS HABLAN DE LA AFA Y DEL ICE?",
-      "url": "https://open.spotify.com/episode/0mpFlIGQfzzw25yZ459gEa"
+      "duration_ms": 6753834,
+      "name": "EP48: Robosexualidad: El triste mercado de la soledad",
+      "url": "https://open.spotify.com/episode/3eAFt7IduMcO33rnb0nhbU"
+    },
+    {
+      "added_at": "2026-10-19 23:42:06",
+      "album": {
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
+      },
+      "artists": [
+        {
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
+        }
+      ],
+      "duration_ms": 5953088,
+      "name": "EP57: \u00bfLas redes sociales hackearon tu cerebro?",
+      "url": "https://open.spotify.com/episode/0tDbVHaUtOLZk31uvSfOYw"
+    },
+    {
+      "added_at": "2026-10-19 23:42:06",
+      "album": {
+        "name": "Ideas de Altura Podcast",
+        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
+      },
+      "artists": [
+        {
+          "name": "Ideas de Altura Podcast",
+          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
+        }
+      ],
+      "duration_ms": 5957652,
+      "name": "\u00bfSomos Poetas? - Nido de los aguiluchos - 2x33",
+      "url": "https://open.spotify.com/episode/0b6pQpACiEBipNnzrlZuMz"
+    },
+    {
+      "added_at": "2026-10-19 23:42:06",
+      "album": {
+        "name": "Ideas de Altura Podcast",
+        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
+      },
+      "artists": [
+        {
+          "name": "Ideas de Altura Podcast",
+          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
+        }
+      ],
+      "duration_ms": 4542955,
+      "name": "Resolvimos el tr\u00e1fico - La piedra 2x32",
+      "url": "https://open.spotify.com/episode/15M1j23eRjkQCRNW3fm90J"
+    },
+    {
+      "added_at": "2026-10-19 23:42:06",
+      "album": {
+        "name": "Cachorritas Podcast",
+        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
+      },
+      "artists": [
+        {
+          "name": "Cachorritas Podcast",
+          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
+        }
+      ],
+      "duration_ms": 2939242,
+      "name": "Kenia OS y la vida de pueblo.. \u00bfpresi\u00f3n por casarse? | Cachorritas Podcast | Ep 41",
+      "url": "https://open.spotify.com/episode/6kdOb5PbsUdtJfj7UQS1Jq"
+    },
+    {
+      "added_at": "2026-10-19 23:42:06",
+      "album": {
+        "name": "Cachorritas Podcast",
+        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
+      },
+      "artists": [
+        {
+          "name": "Cachorritas Podcast",
+          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
+        }
+      ],
+      "duration_ms": 2860604,
+      "name": "Palabras de Pueblo: No reconocidas por la RAE | Cachorritas Podcast | Ep 35",
+      "url": "https://open.spotify.com/episode/6962xzNmJpfTmab4O6L91A"
     }
   ],
   "unique_name": "RADAR Creadores M\u00e9xico",

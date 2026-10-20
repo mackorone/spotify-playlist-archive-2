@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Itz Tiffany
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,216 likes - 86 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,231 likes - 86 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 85 | [Highly](https://open.spotify.com/track/49GfO3XiSafrwTc3pVsgwc) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Highly](https://open.spotify.com/album/0kt4RxlkvDFTH2GOVwHfXb) | 2:31 |
 | 86 | [Peace of Mind](https://open.spotify.com/track/1O6EKRR8xADKodGM0J6q5C) | [Hunnyboy](https://open.spotify.com/artist/2g86nCv8Rw3CiadQu60JIi) | [Peace of Mind](https://open.spotify.com/album/0E8qAO5BOK06kdnZqNegm2) | 2:43 |
 
-Snapshot ID: `AAAAAKORY2tVN1Ui+K7WGN/9ONme3UTv`
+Snapshot ID: `AAAAAIGA8iPP1dFTOM1yfs5g8vpkcfRV`

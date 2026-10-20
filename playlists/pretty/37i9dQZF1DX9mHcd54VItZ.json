@@ -1,12 +1,12 @@
 {
   "description": "The best new and classic South African Rock. Cover: Spoegwolf",
-  "num_followers": 28776,
+  "num_followers": 28780,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHhHJXEcg9VHZmRbnJTqkazZf/7y",
+  "snapshot_id": "AAAAAAP8bGpWmL8qnAqxXwGZmGjm6D8n",
   "tracks": [
     {
       "added_at": "2026-10-16 08:01:36",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "Read Your Mind",
+        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Read Your Mind",
-        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 123506,
-      "name": "Read Your Mind",
-      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
     },
     {
       "added_at": "2026-09-17 22:02:32",

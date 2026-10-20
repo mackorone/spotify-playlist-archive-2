@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: The Reklaws
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,570 likes - 200 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,574 likes - 200 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In A While](https://open.spotify.com/track/06fIYIfYUqZgKXixvhv0xW) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Blood, Sweat & Beers](https://open.spotify.com/album/3NEZ300hZRpbhOdHCmTlwQ) | 2:36 |
 | 2 | [Nobody Told Me About Heartbreak](https://open.spotify.com/track/4RkWakaXHH0j7SDs47vD1u) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [Nobody Told Me About Heartbreak](https://open.spotify.com/album/0ww8EYYUYRselAqDMpGU8y) | 3:14 |
-| 3 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Wild Hearts](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
+| 3 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Wild Hearts Series](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
 | 4 | [My First Rodeo](https://open.spotify.com/track/557iWce8PD0cY22ldVhCGV) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [My First Rodeo](https://open.spotify.com/album/5Es88oc5apsaMJzoPedOdu) | 3:16 |
 | 5 | [Drink Things Through](https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Drink Things Through](https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj) | 3:13 |
 | 6 | [the long haul](https://open.spotify.com/track/3VzruTDlXDth0txAyBnAwb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [the long haul](https://open.spotify.com/album/4FATH35O7poCB78iRgrnFp) | 3:24 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 199 | [All The Time](https://open.spotify.com/track/7m86fo0eB2AZlGZa9bDajc) | [Roslyn Witter](https://open.spotify.com/artist/3X47AgHr9mKO5Wy1Dv8Xmf) | [All The Time](https://open.spotify.com/album/2ULdnGqXdbALk6M4WhnJX1) | 3:26 |
 | 200 | [Tell Me To](https://open.spotify.com/track/78EeE8TcOs3tDM3rhjFeIv) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [Tell Me To](https://open.spotify.com/album/6OJ98R36YCE8T2V2sWheKt) | 2:48 |
 
-Snapshot ID: `AAAAAHYsXWeU8Bqwb4SVPnX9uzqxEaoZ`
+Snapshot ID: `AAAAAMdvZ2UgV7QISEaAHy2AxjDrGM0c`

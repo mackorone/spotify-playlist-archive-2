@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Fontaines D.C., Olivia Rodrigo & Chappell Roan, Zach Bryan, Rachel Chinouriri and more! ",
-  "num_followers": 1039848,
+  "num_followers": 1039768,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHfOlPRiu7mjMlaopnVBSUEMJEr1",
+  "snapshot_id": "AAAAAFe7B6Fsny3kKaiX1uom1CULlsjX",
   "tracks": [
     {
       "added_at": "2026-10-15 23:00:12",
@@ -1510,6 +1510,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,

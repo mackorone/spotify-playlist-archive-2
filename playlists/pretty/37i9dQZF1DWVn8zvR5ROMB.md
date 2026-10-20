@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Stephen Wilson Jr., Zach Bryan, Emily Ann Roberts and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,688 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,783 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 42 | [Ten in Tennessee](https://open.spotify.com/track/1rEPkq3Qdq1aPrRcetBKkr) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [Ten in Tennessee](https://open.spotify.com/album/30mDN1mVvl6Xj79odBxW2d) | 3:04 |
 | 43 | [What If You Stay](https://open.spotify.com/track/2gCfvMPFAEd18n0hR6MSDa) | [Avery Roberson](https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU) | [What If You Stay](https://open.spotify.com/album/6bNPvilCvnqRBMNZqISc3P) | 3:21 |
 | 44 | [Just a Date](https://open.spotify.com/track/0Mju4Q0Vv2e4Xkm3BcIrdn) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Just a Date](https://open.spotify.com/album/7KkDKtBEgJlRcMiUj26kPq) | 3:12 |
-| 45 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Wild Hearts](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
+| 45 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Wild Hearts Series](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
 | 46 | [Nothing Is Everything](https://open.spotify.com/track/0XKbTf1G24UURPclfoSEGV) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella) | [Nothing Is Everything](https://open.spotify.com/album/6KppcNH6afjoTfWYlKdXTY) | 2:53 |
 | 47 | [Off](https://open.spotify.com/track/5dBFH4wDIQ3nuww50wCVll) | [Will Terry](https://open.spotify.com/artist/7xAyDnSaVbPQPGqaU6XP7v) | [Off](https://open.spotify.com/album/0JBCluBU75xIQuCH5dlOho) | 2:42 |
 | 48 | [Laundry & the Dishes](https://open.spotify.com/track/6KuTTkPyYlX5nwR7NXJ2bW) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Laundry & the Dishes](https://open.spotify.com/album/5r2z7av2j0I8PenUeY1Lm1) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 79 | [Happy That We Met](https://open.spotify.com/track/1WK4CCIcgWXV647zl85Gtf) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [Happy That We Met](https://open.spotify.com/album/1AE2myzuxOR0x2Z7fpaq2A) | 3:15 |
 | 80 | [Trust the Land](https://open.spotify.com/track/3kZRjqZZUQVtsSFbKUrlDu) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Trust the Land](https://open.spotify.com/album/1JJmq1Bq51YIWXEfIEpQuA) | 3:26 |
 
-Snapshot ID: `AAAAAMpreqExVbqKzTQXl56zqDZqgMIx`
+Snapshot ID: `AAAAAORAcSsb8TH4LOyDSUt38QGfBmX2`

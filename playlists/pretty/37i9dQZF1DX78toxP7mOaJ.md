@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Baby Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,587 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,673 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [My Rage](https://open.spotify.com/track/4eYMrUfD9DevQwdjFNm4YL) | [Classic Traffic](https://open.spotify.com/artist/7CdyFS6LzW6uzjsY6vjKWH) | [My Rage](https://open.spotify.com/album/0U1ArlLvgo1klv52NzF6Jk) | 2:58 |
 | 75 | [Hilary](https://open.spotify.com/track/3EWSkEHJD94ecvT6wlw5iF) | [Sweat](https://open.spotify.com/artist/2rHjzMZMelbREOO0liIVS4) | [Hilary](https://open.spotify.com/album/3mAuA8s7al6S0lPa3yjMyz) | 2:49 |
 
-Snapshot ID: `AAAAACxi+2YXGGchz+Q7x60fIAXtyoAN`
+Snapshot ID: `AAAAAFnEHDNo847EoyR8PlFpZwp1eJRZ`

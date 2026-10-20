@@ -1,12 +1,12 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482887,
+  "num_followers": 482880,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAiH1mzXQW6rcyJpDCVfwjjKpbwh",
+  "snapshot_id": "AAAAAAIR6SwulWcPdDgG6t4S4uEvN5H+",
   "tracks": [
     {
       "added_at": "2026-10-09 16:52:15",
@@ -127,38 +127,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Sofrimento Louco",
-        "url": "https://open.spotify.com/album/3gP8mpp0xwL44oBu6FRDSl"
-      },
-      "artists": [
-        {
-          "name": "Victor e Franco",
-          "url": "https://open.spotify.com/artist/7bO40iYcIuPx4lOLqiWL9c"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Sofrimento Louco",
-      "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
-        "name": "A Ruiva",
-        "url": "https://open.spotify.com/album/6b9uFOvH1gi2475a9vMrcl"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Pacheco",
-          "url": "https://open.spotify.com/artist/2Zyq3ZucGUHbwdg7kgkp18"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "A Ruiva",
-      "url": "https://open.spotify.com/track/7afjrVvElkLj5xEhy91PrT"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Eu Fico e N\u00e3o Vou Embora (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Fh88ovBWKcfCcxaP1GlEx"
       },
@@ -179,6 +147,38 @@
       "duration_ms": 176640,
       "name": "Eu Fico e N\u00e3o Vou Embora - Ao Vivo",
       "url": "https://open.spotify.com/track/584F4rmUDc04HkIEvURwyr"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "A Ruiva",
+        "url": "https://open.spotify.com/album/6b9uFOvH1gi2475a9vMrcl"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Pacheco",
+          "url": "https://open.spotify.com/artist/2Zyq3ZucGUHbwdg7kgkp18"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "A Ruiva",
+      "url": "https://open.spotify.com/track/7afjrVvElkLj5xEhy91PrT"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Sofrimento Louco",
+        "url": "https://open.spotify.com/album/3gP8mpp0xwL44oBu6FRDSl"
+      },
+      "artists": [
+        {
+          "name": "Victor e Franco",
+          "url": "https://open.spotify.com/artist/7bO40iYcIuPx4lOLqiWL9c"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Sofrimento Louco",
+      "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
+        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Moreno",
+          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Tanto Faz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
         "name": "S\u00f3 Porque Eu Bebi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2S1BehXiJMwiHwx3Dofo3E"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 160622,
       "name": "S\u00f3 Porque Eu Bebi - Ao Vivo",
       "url": "https://open.spotify.com/track/0jYYcWCv5MjZW6sisEvr7y"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
-        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
-      },
-      "artists": [
-        {
-          "name": "Nando Moreno",
-          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Tanto Faz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Rastros",
-        "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
-      },
-      "artists": [
-        {
-          "name": "Breno & Caio Cesar",
-          "url": "https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt"
-        }
-      ],
-      "duration_ms": 171684,
-      "name": "Rastros",
-      "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Ayala & Julio Cesar (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/3gFNUpamog1CINhbBhcygz"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 191369,
       "name": "Sofrendo no Escuro - Ao Vivo",
       "url": "https://open.spotify.com/track/0HmjUrTo98SR6DHGvXYGwS"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Rastros",
+        "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
+      },
+      "artists": [
+        {
+          "name": "Breno & Caio Cesar",
+          "url": "https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt"
+        }
+      ],
+      "duration_ms": 171684,
+      "name": "Rastros",
+      "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
-      },
-      "artists": [
-        {
-          "name": "Elis Justi",
-          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
-        }
-      ],
-      "duration_ms": 165822,
-      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Ao Vivo no Studio Bar, Vol.1",
         "url": "https://open.spotify.com/album/2P3xr478xr9eUnpOsfIUQo"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 228351,
       "name": "Cacos de Briga - Ao Vivo",
       "url": "https://open.spotify.com/track/0aTRJjEmWkXicXmzZFeuxS"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
+      },
+      "artists": [
+        {
+          "name": "Elis Justi",
+          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
+        }
+      ],
+      "duration_ms": 165822,
+      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
-      },
-      "artists": [
-        {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
-        },
-        {
-          "name": "Juliana Marques",
-          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
-        }
-      ],
-      "duration_ms": 132269,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Muvuca",
         "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 150051,
       "name": "Muvuca - Ao Vivo",
       "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
+      },
+      "artists": [
+        {
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+        },
+        {
+          "name": "Juliana Marques",
+          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
+        }
+      ],
+      "duration_ms": 132269,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Esquec\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
-      },
-      "artists": [
-        {
-          "name": "Larissa e Mariana",
-          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
-        },
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        }
-      ],
-      "duration_ms": 198794,
-      "name": "Esquec\u00edvel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
       },
@@ -983,18 +963,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Ao Vivo em Campo Grande, EP. 1",
-        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
+        "name": "Esquec\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
       },
       "artists": [
         {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+          "name": "Larissa e Mariana",
+          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
         }
       ],
-      "duration_ms": 145900,
-      "name": "Vivendo Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
+      "duration_ms": 198794,
+      "name": "Esquec\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1015,26 +999,18 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Esse Cara N\u00e3o \u00e9 Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2r5lTPjgH7yw92hNIUWZXs"
+        "name": "Ao Vivo em Campo Grande, EP. 1",
+        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Lucas e Ricardo",
-          "url": "https://open.spotify.com/artist/1bZGiIIAMysBfICdZZy1CX"
-        },
-        {
-          "name": "Max e Luan",
-          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
         }
       ],
-      "duration_ms": 149848,
-      "name": "Esse Cara N\u00e3o \u00e9 Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZdnEJvySXljXFxnQUuK8S"
+      "duration_ms": 145900,
+      "name": "Vivendo Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1059,6 +1035,30 @@
       "duration_ms": 132307,
       "name": "Sinal De Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Esse Cara N\u00e3o \u00e9 Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2r5lTPjgH7yw92hNIUWZXs"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Lucas e Ricardo",
+          "url": "https://open.spotify.com/artist/1bZGiIIAMysBfICdZZy1CX"
+        },
+        {
+          "name": "Max e Luan",
+          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 149848,
+      "name": "Esse Cara N\u00e3o \u00e9 Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZdnEJvySXljXFxnQUuK8S"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
-      },
-      "artists": [
-        {
-          "name": "Bia Bosco",
-          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
-        }
-      ],
-      "duration_ms": 196994,
-      "name": "Casquinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Mulher Sabe, Mulher Sente",
         "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 166470,
       "name": "Mulher Sabe, Mulher Sente",
       "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+          "name": "Bia Bosco",
+          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
         }
       ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
+      "duration_ms": 196994,
+      "name": "Casquinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Baila Que Baila (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
+        "name": "Amigos com Benef\u00edcios (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3dPfSslte8Zcr8V0D1pr5y"
       },
       "artists": [
         {
-          "name": "Bruno Mulato e Leandro",
-          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
-        },
-        {
-          "name": "William & Bidiko",
-          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
+          "name": "Anna Toledo",
+          "url": "https://open.spotify.com/artist/5BqB321gUz1LOOAKBUiahj"
         }
       ],
-      "duration_ms": 169386,
-      "name": "Baila Que Baila - Ao Vivo",
-      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
+      "duration_ms": 159238,
+      "name": "Amigos com Benef\u00edcios - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GzQ8kMSmP2xeSR84k9UXJ"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1435,18 +1431,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Amigos com Benef\u00edcios (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3dPfSslte8Zcr8V0D1pr5y"
+        "name": "Baila Que Baila (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
       },
       "artists": [
         {
-          "name": "Anna Toledo",
-          "url": "https://open.spotify.com/artist/5BqB321gUz1LOOAKBUiahj"
+          "name": "Bruno Mulato e Leandro",
+          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
+        },
+        {
+          "name": "William & Bidiko",
+          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
         }
       ],
-      "duration_ms": 159238,
-      "name": "Amigos com Benef\u00edcios - Ao Vivo",
-      "url": "https://open.spotify.com/track/6GzQ8kMSmP2xeSR84k9UXJ"
+      "duration_ms": 169386,
+      "name": "Baila Que Baila - Ao Vivo",
+      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
     },
     {
       "added_at": "2026-10-09 16:52:15",

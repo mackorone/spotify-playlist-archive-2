@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Eivør
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,410 likes - 200 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,581 likes - 200 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 199 | [Tales of Trees](https://open.spotify.com/track/02dR8GB1wcqc7ng8t3yZCN) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Tales Of Trees](https://open.spotify.com/album/1SXJJWU6eth3VAPnZZ2Kru) | 4:43 |
 | 200 | [Consume Me](https://open.spotify.com/track/3jpnZFL4t1PtecNe3z4Akf) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Decay](https://open.spotify.com/album/6lMOCr0XfcaUBLvF74SKtP) | 11:38 |
 
-Snapshot ID: `AAAAAO2YseNdaSzXV86ifyuY2Ui38GhM`
+Snapshot ID: `AAAAAMduqzsp9E1dYG1XIwI2+KeOpLuh`

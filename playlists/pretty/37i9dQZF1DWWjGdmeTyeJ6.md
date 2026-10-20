@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Lynn\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,199 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,110 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [A Girl Who Needs A Brain](https://open.spotify.com/track/4SNeJ2ZfT0KWbwbWXK3VjT) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [A Girl Who Needs A Brain](https://open.spotify.com/album/4maZBd1IYBvfCCY1cjsqlP) | 2:02 |
 | 100 | [Feel Better](https://open.spotify.com/track/3QGSm3spB9X1RWw20HZ6uP) | [Kuper](https://open.spotify.com/artist/4XkrwECe3PXGLGzaxuLGin) | [Feel Better](https://open.spotify.com/album/5QTFpjtGpvcWHVUNFvttiR) | 3:10 |
 
-Snapshot ID: `AAAAANa048YWQBSWVri/fxfqZkybecdi`
+Snapshot ID: `AAAAAOcd3/ksvx0RsSWYa3VoZE2bWYS4`

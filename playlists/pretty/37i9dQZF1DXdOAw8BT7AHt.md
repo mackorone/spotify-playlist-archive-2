@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,888 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,898 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [A Tangled Mess](https://open.spotify.com/track/7DR6qEdLAZAG8UtGu2Y5AI) | [Oakwood](https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf) | [Fields Behind The House](https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF) | 2:36 |
 | 125 | [One By One](https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Armour Of Angels](https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz) | 3:48 |
 
-Snapshot ID: `AAAAAIRa3gf3snZyRefgXYP43abOlMx9`
+Snapshot ID: `AAAAABzU22qwqHD4ZfdRPps24zhVGu5P`

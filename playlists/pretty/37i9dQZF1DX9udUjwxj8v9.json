@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyeC0iTTfnWQSLHyPN0VSVPbBxA",
+  "snapshot_id": "AAAAAKOqAN97ZPrdznD6YOCUu4PRoJ6c",
   "tracks": [
     {
       "added_at": "2025-07-11 03:00:07",
@@ -839,18 +839,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+        "name": "Proibido o Carnaval",
+        "url": "https://open.spotify.com/album/0DjdcZcDg6zT7YZyPThQYJ"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
+      "duration_ms": 231989,
+      "name": "Proibido o Carnaval",
+      "url": "https://open.spotify.com/track/4wXPNGSY36JyIS5DHKxJTz"
     }
   ],
   "unique_name": "carnavalizar",

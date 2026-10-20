@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Bernadya, Pamungkas, NIKI, Rex Orange County dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,129 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,097 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 92 | [PASKIBRA](https://open.spotify.com/track/3w8QIHzqWIx7xAiUPIsaV9) | [WLXN](https://open.spotify.com/artist/7JQW1lqiU402wG0gd4GOV3) | [SANGKAKALA](https://open.spotify.com/album/2OYABrdWpjPvPDpl5Q4js9) | 1:39 |
 | 93 | [Like That](https://open.spotify.com/track/0sOeFo91cvPNCBrRYF4KGQ) | [Tokyou](https://open.spotify.com/artist/4OGuUzO3nFwt1LErcadzlF) | [Like That](https://open.spotify.com/album/3M5wyy2WZ25X1T1eg7NdS5) | 3:03 |
 | 94 | [Mau Coba Balikan](https://open.spotify.com/track/1SJnkHEXABP45Hb8c4RGmP) | [MICUTE](https://open.spotify.com/artist/5xBTO3WfW0nGGvGMUpiLf3) | [Mau Coba Balikan](https://open.spotify.com/album/0gcjeyv9v5UchX04I2ifQb) | 2:49 |
-| 95 | [Kapita II](https://open.spotify.com/track/61B8vGipExinWiDlZFwTn8) | [Mister Nobody](https://open.spotify.com/artist/1B0DN6kNBoZlfQzXOFTz3z), [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze) | [Kapita II](https://open.spotify.com/album/4DrEiVQRucnfy0bjWZzhPj) | 3:13 |
+| 95 | [Galela Manyawa](https://open.spotify.com/track/61B8vGipExinWiDlZFwTn8) | [Mister Nobody](https://open.spotify.com/artist/1B0DN6kNBoZlfQzXOFTz3z), [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze) | [Galela Manyawa](https://open.spotify.com/album/4DrEiVQRucnfy0bjWZzhPj) | 3:13 |
 | 96 | [Elysium](https://open.spotify.com/track/2UoQk9HnK998eb3pJzez0X) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP), [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Elysium](https://open.spotify.com/album/3PpM4032yNhC0dzWNQi3YS) | 3:33 |
 | 97 | [Menang](https://open.spotify.com/track/60h143mRVwboZs5IQ4KVkg) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Menang](https://open.spotify.com/album/4B8KHBXkKE9hONK9vGHYEN) | 3:15 |
 | 98 | [Aku Mencoba](https://open.spotify.com/track/5qFH6WnA0oPNDZlva0U2pO) | [Owen Krisnadi](https://open.spotify.com/artist/0TKDsPGN5WLpKesq2R5atk), [Romano Guitar Boy](https://open.spotify.com/artist/4V2B4o9ulMViRgnnae4F6P) | [Atarashii Hajimari 2.0](https://open.spotify.com/album/6zx24S07TjkB8g8IDAwThE) | 3:16 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 102 | [PARJOLO](https://open.spotify.com/track/0eCGbMi29erWKcTdxvKAgu) | [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PARJOLO](https://open.spotify.com/album/1F48z7B5U2S6MwAt3lcM3U) | 2:07 |
 | 103 | [60 mgs](https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Last Laugh \[archive tape\]](https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8) | 2:05 |
 
-Snapshot ID: `AAAAAKWLXzq57lVCbfc+X+Dq6k+pnqOp`
+Snapshot ID: `AAAAABrMHdczhQ2lckcW7muN3NLApgYq`

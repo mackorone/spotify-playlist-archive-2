@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,568 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,571 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 17 | [Hi, hello](https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Hi, hello](https://open.spotify.com/album/2YVagahVXK1W7Jk4Cfjvje) | 2:36 |
 | 18 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
 | 19 | [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 |
-| 20 | [Ensorcelée](https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Ensorcelée](https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i) | 2:43 |
-| 21 | [Desde el corazón](https://open.spotify.com/track/6UzRohWO3l811keaK0lzZd) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [AYER DIJISTE MAÑANA](https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H) | 4:28 |
-| 22 | [Blind Bullet](https://open.spotify.com/track/3JAY9x7Hya0gFbd6elfBII) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Northstar](https://open.spotify.com/album/5YQQ4T2js5PQI6US1CXBLL) | 3:20 |
+| 20 | [Blind Bullet](https://open.spotify.com/track/3JAY9x7Hya0gFbd6elfBII) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Northstar](https://open.spotify.com/album/5YQQ4T2js5PQI6US1CXBLL) | 3:20 |
+| 21 | [Ensorcelée](https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Ensorcelée](https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i) | 2:43 |
+| 22 | [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 |
 | 23 | [Ishaare](https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Ishaare](https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9) | 2:22 |
-| 24 | [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 |
+| 24 | [Desde el corazón](https://open.spotify.com/track/6UzRohWO3l811keaK0lzZd) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [AYER DIJISTE MAÑANA](https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H) | 4:28 |
 | 25 | [Ya Me Vencí](https://open.spotify.com/track/6y6WWTwj1p8ByI7xTAGGlV) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Ya Me Vencí](https://open.spotify.com/album/73hOaQpC4uWD8iMJV6PODY) | 3:37 |
 | 26 | [So What](https://open.spotify.com/track/0zznvuXrutrt1rWwS2Lfmw) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [VIP](https://open.spotify.com/album/0uTkP0HYYPRVVVy3sIrKc6) | 2:17 |
 | 27 | [Nota de Voz](https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 2:37 |
 | 28 | [YO SOY EL DUEÑO](https://open.spotify.com/track/6T1menSISCCZis7XIR90pb) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [YO SOY EL DUEÑO](https://open.spotify.com/album/1FPe1ntu4wNmQNES2s8yLN) | 2:14 |
 
-Snapshot ID: `AAAAANgSygVMvsg0gSj5i9CJ4h3jBTsp`
+Snapshot ID: `AAAAAJ5JC/3TQCjxAipJBxyRt6i97Owa`

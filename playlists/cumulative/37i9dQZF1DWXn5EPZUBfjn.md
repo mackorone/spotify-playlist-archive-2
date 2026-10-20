@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-73 songs - 4 hr 1 min
+74 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Blick Blick](https://open.spotify.com/track/6v4pVSkyOXL3nOXzPJ8r8O) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/6etIolgwICygZOazhrRLnj) | 2:58 | 2025-12-09 |  |
 | [BOMBS](https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOMBS](https://open.spotify.com/album/7tvZ9e94jBOdxHTJC1VAbf) | 1:34 | 2026-10-16 |  |
 | [Breathe](https://open.spotify.com/track/0M68GE694Iyzearl93bIhV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Breathe](https://open.spotify.com/album/2A4NQQ1eRAPaX6f2z3SqYc) | 2:50 | 2025-12-09 | 2026-07-14 |
+| [Build a Bitch](https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:43 | 2026-10-19 |  |
 | [Cheetah Print](https://open.spotify.com/track/0iuTNksY8beesQvuwbXDx1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Cheetah Print](https://open.spotify.com/album/1dY7RApxPwP2wvKSg5HYFM) | 3:18 | 2026-09-21 |  |
 | [Classic](https://open.spotify.com/track/2s2seehd980lW7hUSFcyBW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Classic](https://open.spotify.com/album/0O6bP1vTxjWBss5sW2hLqN) | 2:51 | 2026-09-21 |  |
 | [Come & Go](https://open.spotify.com/track/29UocD5ZcszfHj87s1mqiD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Come & Go](https://open.spotify.com/album/28i9LjqRXyudh3hYRkxuJP) | 3:32 | 2025-12-09 |  |
@@ -49,7 +50,7 @@
 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0zVWX3fDULXxtS8krbAdo2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/album/14XWT2AvEjVWIojcj7OE6g) | 3:58 | 2026-07-22 |  |
 | [Outside Tweaking](https://open.spotify.com/track/2LVWrvvw3IQ9lltdLPeGh3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Outside Tweaking](https://open.spotify.com/album/3114CoRmP8aEfkBiOffTE6) | 1:50 | 2026-09-21 |  |
 | [Paint The Town Red](https://open.spotify.com/track/6FZSpeskRlhogcrGqPA76w) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/2YllXSbf2UqKcQ3LGiUUIk) | 4:55 | 2025-12-09 |  |
-| [Pardon Me](https://open.spotify.com/track/3Gc86rk4uOa6263vdxMxhT) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Pardon Me](https://open.spotify.com/album/5MWJ2bnY7FWVIUYoCS5X25) | 3:04 | 2025-12-09 |  |
+| [Pardon Me](https://open.spotify.com/track/3Gc86rk4uOa6263vdxMxhT) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Pardon Me](https://open.spotify.com/album/5MWJ2bnY7FWVIUYoCS5X25) | 3:04 | 2025-12-09 | 2026-10-20 |
 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/5rFb63vP8ftwxVBBoomh4o) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/7rEM3N9B7RX6ESWUqkCzZI) | 3:44 | 2025-12-09 |  |
 | [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 | 2026-09-18 |  |
 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 | 2026-04-14 |  |

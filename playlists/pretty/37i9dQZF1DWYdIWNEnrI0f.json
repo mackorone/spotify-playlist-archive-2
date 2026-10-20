@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 34053,
+  "num_followers": 34095,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN/jJLqq0RyujEcw8a52ei3SC/XQ",
+  "snapshot_id": "AAAAAPpc4j2S7TQsL6JJCpUx69MLVIO7",
   "tracks": [
     {
       "added_at": "2026-10-05 06:58:45",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-10-05 06:58:45",
       "album": {
+        "name": "Collections 01",
+        "url": "https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 207244,
+      "name": "While You Dooooo (Extended)",
+      "url": "https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz"
+    },
+    {
+      "added_at": "2026-10-05 06:58:45",
+      "album": {
         "name": "Water Flow",
         "url": "https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 154910,
       "name": "Water Flow",
       "url": "https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr"
-    },
-    {
-      "added_at": "2026-10-05 06:58:45",
-      "album": {
-        "name": "Collections 01",
-        "url": "https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 207244,
-      "name": "While You Dooooo (Extended)",
-      "url": "https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz"
     },
     {
       "added_at": "2026-10-05 06:58:45",

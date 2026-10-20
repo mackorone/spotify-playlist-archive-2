@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > ABEMA「RAPSTAR 2026」公式プレイリスト。審査員や番組内で活躍したアーティスト、昨年活躍したアーティストの楽曲を毎週水曜日に更新。 マイライブラリに保存して毎週チェックしよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,769 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,905 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 74 | [I feel love](https://open.spotify.com/track/2XvbywMofhc4vimsliMg7X) | [sh1t](https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo) | [MY TRUE SELF](https://open.spotify.com/album/3OM85x6vAT41sQ3EKTFY8M) | 2:19 |
 | 75 | [Urban Escape](https://open.spotify.com/track/26nQxLrmxDOLfkjVYeC0mN) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [BERLINETTA BOY NEEDS TOO MUCH MONEY](https://open.spotify.com/artist/0VSDjQze2bHTTfAVjgzIgk) | [Post Poet](https://open.spotify.com/album/4b7k0gx2k2ATNPKIxwBKvg) | 2:21 |
 
-Snapshot ID: `AAAAAGi8wq6xC3dmYobOU5bhrnV+iSTw`
+Snapshot ID: `AAAAACIr6ZPffOPiHmUlrp6fg+fblnQo`

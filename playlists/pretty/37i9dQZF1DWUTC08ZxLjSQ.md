@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: KAPO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,111 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,143 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 39 | [DARWIN](https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT) | [ELOSTAR](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a) | [DARWIN](https://open.spotify.com/album/0w0DiMTpyCepzJLOVnQxiP) | 2:24 |
 | 40 | [3WASF](https://open.spotify.com/track/5MP1iB1ErqjEUztOU7h1IX) | [OTT](https://open.spotify.com/artist/038gck90liF5ILjX8xJhrr), [AFYOON](https://open.spotify.com/artist/6d9Gz70K2H80BR3OyHqQk0), [Nxptune](https://open.spotify.com/artist/7ErBXnmLu4a6BNs0tvPik7) | [3WASF](https://open.spotify.com/album/09q62UUzEX2zwHm8nEzhiB) | 3:04 |
 | 41 | [God bless](https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE) | [LUCA MUS!C](https://open.spotify.com/artist/1pmog6ubPtj97LYSJuwOIb), [yuubthegoat](https://open.spotify.com/artist/0tcF4m3aeLFcdtwW5Vk5zI) | [VISION INFINIE](https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg) | 2:02 |
-| 42 | [شط جديد \(a new shore\)](https://open.spotify.com/track/1ADCd0jpnbySVqVGvb1paM) | [BOSA](https://open.spotify.com/artist/5QagSMWCwD4XpeGRRQ7AvG) | [شط جديد \(a new shore\)](https://open.spotify.com/album/3KnGdI9DaPzIOSEVO4xTtL) | 2:58 |
+| 42 | [شط جديد \(a new shore\)](https://open.spotify.com/track/1ADCd0jpnbySVqVGvb1paM) | [Bosaina](https://open.spotify.com/artist/5jQYK60puypaFhSAlCJQ8g) | [شط جديد \(a new shore\)](https://open.spotify.com/album/3KnGdI9DaPzIOSEVO4xTtL) | 2:58 |
 | 43 | [Dah+Dah=Mafesh](https://open.spotify.com/track/1VeMzYZ1OczXi1YXTFn8bt) | [ZozRealStar](https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b), [Ithinkmeshal](https://open.spotify.com/artist/3Hu8l40yUE4r0I9pioOQ6h) | [Dah+Dah=Mafesh](https://open.spotify.com/album/479CnKEWR8dMLjlPtPc7ez) | 1:26 |
 | 44 | [Gold](https://open.spotify.com/track/27VC2OjZANS8dFXt9PZW4R) | [Lazy Husch](https://open.spotify.com/artist/3zwylHzDcF3nEbeNOkCWSL) | [Gold](https://open.spotify.com/album/2Tog1RMmFU22XXpowDsMOo) | 3:47 |
 | 45 | [Fidèle](https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S) | [7mad](https://open.spotify.com/artist/1EuzzhJcSL4NK5vcpuUuMF) | [Fidèle](https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 74 | [Mashy Fe Tare2](https://open.spotify.com/track/50Tkn3IN2WVVTCnj0Imcy9) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40), [ZozRealStar](https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b) | [DAH A2AL 7AGA 3ANDI](https://open.spotify.com/album/2uv1BRBbqMOmsyFSEImkGb) | 3:25 |
 | 75 | [Why?](https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [Stargirl](https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7) | 3:45 |
 
-Snapshot ID: `AAAAAA3/U8u15yI3iWltkoGd3D8jXHCn`
+Snapshot ID: `AAAAAKiH76cN8FZ6uOa2jCx0RadJBbgZ`

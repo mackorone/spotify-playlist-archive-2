@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "MUNDO DA LUA",
+        "url": "https://open.spotify.com/album/7x0IsY34mswleE2H60sIJH"
+      },
+      "artists": [
+        {
+          "name": "Delua Og",
+          "url": "https://open.spotify.com/artist/3FUntHc3JwWp9Ktf8R7gjd"
+        },
+        {
+          "name": "DKmixx",
+          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145807,
+      "name": "ACORDARAM AS BB QUENTE",
+      "url": "https://open.spotify.com/track/58BLHgL9sBezLZQKLLoXjd"
+    },
+    {
+      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
@@ -2802,7 +2824,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 203076,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
@@ -7928,7 +7950,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 157714,
       "name": "Setor Norte",
       "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
@@ -8956,6 +8978,32 @@
       "duration_ms": 222315,
       "name": "T\u00f4 de Nave",
       "url": "https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z"
+    },
+    {
+      "album": {
+        "name": "UHUM",
+        "url": "https://open.spotify.com/album/1kQed3eFH2KBffsDVj56KO"
+      },
+      "artists": [
+        {
+          "name": "OGCapitu",
+          "url": "https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129856,
+      "name": "UHUM",
+      "url": "https://open.spotify.com/track/0slzabiVhe9m7kFBbzsKHk"
     },
     {
       "album": {

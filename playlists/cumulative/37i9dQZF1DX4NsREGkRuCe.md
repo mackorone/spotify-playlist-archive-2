@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,292 songs - 2 day 14 hr 53 min
+1,293 songs - 2 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,7 +684,7 @@
 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2022-06-08 | 2022-08-25 |
 | [Life](https://open.spotify.com/track/6Dp8euvdKfYV2cn79TcXkF) | [Adaramati](https://open.spotify.com/artist/2JiCHOM2COZnUj5KHMDbcF), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Life](https://open.spotify.com/album/7k6q3bGku5wd0jaUhv0Ggw) | 2:21 | 2026-05-18 | 2026-05-22 |
 | [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 | 2025-07-18 | 2026-02-13 |
-| [Life is Slo II](https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Life is Slo II](https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy) | 2:20 | 2026-08-19 |  |
+| [Life is Slo II](https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Life is Slo II](https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy) | 2:20 | 2026-08-19 | 2026-10-20 |
 | [Life of the Party](https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Life of the Party](https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR) | 3:12 | 2024-05-10 | 2024-05-17 |
 | [Lifestyle \(YA MAN\)](https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lifestyle \(YA MAN\)](https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T) | 2:15 | 2026-07-24 |  |
 | [Light Up](https://open.spotify.com/track/0F98hOl7tUOTXphPzFfFX3) | [Lovince Mckenzie](https://open.spotify.com/artist/4dTlGjltanfIiMqXrPD8eZ), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Light Up](https://open.spotify.com/album/4xtF86l14dbbZvCBB8OppD) | 2:17 | 2024-09-27 | 2024-11-08 |
@@ -1078,6 +1078,7 @@
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-02 | 2023-06-17 |
 | [Skido \(with Olamide\)](https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skido \(with Olamide\)](https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6) | 2:46 | 2025-09-26 | 2025-12-22 |
 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 | 2026-07-17 |  |
+| [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X) | 2:30 | 2026-10-16 |  |
 | [Slow](https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h) | 2:50 | 2022-10-13 | 2022-10-31 |
 | [Small Money](https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Small Money](https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4) | 2:25 | 2024-05-10 | 2024-07-27 |
 | [SMH](https://open.spotify.com/track/0DVj9NqROYmSFoaa4MUyE4) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [SMH](https://open.spotify.com/album/0MMuMrHpnuJMVJ90ZhMdmQ) | 2:28 | 2025-02-14 | 2025-04-01 |

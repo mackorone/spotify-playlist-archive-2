@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 90's! Cover: No Doubt",
-  "num_followers": 89544,
+  "num_followers": 89549,
   "original_name": "90's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJC53+ER0IbcmnLJd0Z8BoRsjvv",
+  "snapshot_id": "AAAAAInpi5dIJR26Rbq32EP5RLfRk1mM",
   "tracks": [
     {
       "added_at": "2024-12-31 20:44:36",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 405933,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Stars (Collector's Edition)",
         "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 248599,
       "name": "Stars",
       "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 405933,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 384460,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Desireless",
         "url": "https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 242733,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 384460,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204753,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 196986,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204753,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 272983,
       "name": "You",
       "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Unlimited Hits & Remixes",
-        "url": "https://open.spotify.com/album/31ZELjZPFpr5326F1uojYm"
-      },
-      "artists": [
-        {
-          "name": "2 Unlimited",
-          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
-        }
-      ],
-      "duration_ms": 223694,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/7pSJmBTlbA4S5zSLsj6Pzz"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Out Of Time (U.S. Version)",
         "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "SNAP! The Power Greatest Hits",
-        "url": "https://open.spotify.com/album/3SxQyJ7t7NVkUrJYh0TZqi"
+        "name": "Unlimited Hits & Remixes",
+        "url": "https://open.spotify.com/album/31ZELjZPFpr5326F1uojYm"
       },
       "artists": [
         {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+          "name": "2 Unlimited",
+          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
         }
       ],
-      "duration_ms": 225866,
-      "name": "Rhythm Is A Dancer - 7\" Edit",
-      "url": "https://open.spotify.com/track/5iEDwEp82uLN3X6llJdqen"
+      "duration_ms": 223694,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7pSJmBTlbA4S5zSLsj6Pzz"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1391,6 +1375,22 @@
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "SNAP! The Power Greatest Hits",
+        "url": "https://open.spotify.com/album/3SxQyJ7t7NVkUrJYh0TZqi"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "Rhythm Is A Dancer - 7\" Edit",
+      "url": "https://open.spotify.com/track/5iEDwEp82uLN3X6llJdqen"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Aan De Kust",
-      "url": "https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "(What's the Story) Morning Glory?",
         "url": "https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 287826,
       "name": "Don't Look Back in Anger",
       "url": "https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Aan De Kust",
+      "url": "https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa"
     },
     {
       "added_at": "2024-12-31 20:44:36",

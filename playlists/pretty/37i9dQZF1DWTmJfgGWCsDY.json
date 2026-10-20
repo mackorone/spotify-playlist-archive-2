@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Zuchu",
-  "num_followers": 12433,
+  "num_followers": 12449,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJPrFhZNoLnbz7FDZ3me/1yMKom",
+  "snapshot_id": "AAAAANo6Ahg5K8TX2R/8WpXYnTKmxErK",
   "tracks": [
     {
       "added_at": "2026-10-09 18:37:41",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 200921,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Last Interview",
         "url": "https://open.spotify.com/album/2gn1o5Gx0rNMX3FZ6DmDK7"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 197852,
       "name": "Last Interview",
       "url": "https://open.spotify.com/track/1x3SmVb5UR7p7plLSQv7cv"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 200921,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Makombolelo singeli version",
-        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
-      },
-      "artists": [
-        {
-          "name": "Mazegele Boy",
-          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Makombolelo singeli version",
-      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Stress",
         "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 252043,
       "name": "Stress",
       "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
+      },
+      "artists": [
+        {
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
-      },
-      "artists": [
-        {
-          "name": "Yammi",
-          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
-        },
-        {
-          "name": "Mdogo sajent",
-          "url": "https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC"
-        }
-      ],
-      "duration_ms": 152112,
-      "name": "Sijafunzwa (feat. Mdogo Sajent)",
-      "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Nalimwaga",
         "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 224906,
       "name": "Nalimwaga",
       "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Mdogo sajent",
+          "url": "https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC"
+        }
+      ],
+      "duration_ms": 152112,
+      "name": "Sijafunzwa (feat. Mdogo Sajent)",
+      "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Lipa",
-        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
       },
       "artists": [
         {
-          "name": "Kiwanda",
-          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
-        },
-        {
-          "name": "Aslam Tz",
-          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
         }
       ],
-      "duration_ms": 223884,
-      "name": "Lipa",
-      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1379,38 +1375,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+        "name": "Lipa",
+        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
       },
       "artists": [
         {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Niite Mbwa",
-        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
-      },
-      "artists": [
-        {
-          "name": "Shilole",
-          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
+          "name": "Kiwanda",
+          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
         },
         {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+          "name": "Aslam Tz",
+          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Niite Mbwa",
-      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
+      "duration_ms": 223884,
+      "name": "Lipa",
+      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1435,6 +1415,26 @@
       "duration_ms": 224545,
       "name": "Natafuta Hela",
       "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Niite Mbwa",
+        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
+      },
+      "artists": [
+        {
+          "name": "Shilole",
+          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Niite Mbwa",
+      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
     },
     {
       "added_at": "2026-10-09 18:37:41",

@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,151 songs - 3 day 4 hr 31 min
+1,152 songs - 3 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Akuzike](https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn) | [Mic Mash](https://open.spotify.com/artist/7hzFig3OAPKqQZQqwxpUEy), [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i), [Siggy Kim](https://open.spotify.com/artist/0StpXhIqIldjrDZvh6tted) | [Akuzike](https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL) | 3:20 | 2023-09-29 | 2023-11-06 |
 | [al is mr](https://open.spotify.com/track/2ZRq6qpi3cluaFHL61Y8b1) | [SizzlePRO](https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [bbystps](https://open.spotify.com/artist/68fREiCxsehECNOgx2dTym) | [al is mr](https://open.spotify.com/album/2SGAjRRJ7BqJ2rq7EZGIyp) | 2:48 | 2026-08-21 |  |
 | [Albarkun Allah](https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [TMP Music](https://open.spotify.com/artist/0FSWMqdRbmwGSlcOlquXgo) | [Super Power](https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ) | 5:21 | 2026-07-10 | 2026-08-14 |
+| [Alive \(Oyeeyi\)](https://open.spotify.com/track/6Q8kP0rCHnDPSzH75t4P7n) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Alive \(Oyeeyi\)](https://open.spotify.com/album/5oMmCPSO4YdNVVq9pnPlw3) | 2:26 | 2026-10-16 |  |
 | [All Around Me](https://open.spotify.com/track/7xNFU5TAW1RYwAooRGP7Nu) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [OKCHUKU](https://open.spotify.com/artist/0XKkD1K7J5NvwgrEJPppVk) | [All Around Me](https://open.spotify.com/album/3ucbZvoWqIlBGFOJluv7Ti) | 7:55 | 2025-10-24 | 2026-02-06 |
 | [ALL GLORY](https://open.spotify.com/track/1Mn47EQ5DcXJNejuxyBBo3) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [ALL GLORY](https://open.spotify.com/album/6iD2jnGlZmKJBSMnUWULNR) | 2:51 | 2025-06-06 | 2025-07-18 |
 | [All I Need](https://open.spotify.com/track/44uTOBInSbS2ddsVvxpQFy) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [All I Need](https://open.spotify.com/album/3MzHyW72TjYLnFLNIJD89a) | 3:34 | 2024-10-11 | 2025-02-28 |
@@ -466,7 +467,7 @@
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2023-04-14 | 2024-04-19 |
 | [I Made it](https://open.spotify.com/track/4Ku98QuS3FTBt7ru4x1U9g) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [I Made it](https://open.spotify.com/album/7pGpttxoT2plxkl8WNM3Z9) | 2:52 | 2025-01-04 | 2025-03-14 |
 | [I NEED YOU](https://open.spotify.com/track/3qwyUrKP0rCP7ZyCOIYCA3) | [Bliq](https://open.spotify.com/artist/2LZZG2a68lxeaNMJyauHkO) | [I NEED YOU](https://open.spotify.com/album/4B6oD5PD0cTKeCLOfQj8D6) | 3:17 | 2024-11-08 | 2025-03-14 |
-| [I Pray You Know The Love Of Jesus](https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [I Pray You Know The Love Of Jesus](https://open.spotify.com/album/5Vbxsn75W3LYBTTyooUjeu) | 2:11 | 2026-07-24 |  |
+| [I Pray You Know The Love Of Jesus](https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [I Pray You Know The Love Of Jesus](https://open.spotify.com/album/5Vbxsn75W3LYBTTyooUjeu) | 2:11 | 2026-07-24 | 2026-10-20 |
 | [I surrender](https://open.spotify.com/track/2vYX9gNqqhWFfOhVJGnlLd) | [Gideon MOG](https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [I surrender](https://open.spotify.com/album/0nrwP6PN2SmSa0Ulttccwo) | 2:51 | 2025-07-04 | 2025-09-05 |
 | [I Testify](https://open.spotify.com/track/7AvuYiR2BFdr18GMyM3d5b) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [I Testify](https://open.spotify.com/album/58BPhnWSytQrC4U7RcXMjm) | 5:17 | 2025-11-14 | 2026-03-06 |
 | [I Will Not Keep Silent \(My Matter\)](https://open.spotify.com/track/2OxJdW6Ztl911PEzt14EmG) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [I Will Not Keep Silent \(My Matter\)](https://open.spotify.com/album/3AY3OLlw3DuQxV8msbm5XL) | 6:48 | 2025-10-24 | 2026-01-30 |

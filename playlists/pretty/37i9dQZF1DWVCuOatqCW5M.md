@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from King, Nishant Mukta, Akshath and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,841 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,851 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Badeela](https://open.spotify.com/track/0K9W9Ss7vTSe45NtMFtlmt) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Dipakshi Kalita](https://open.spotify.com/artist/5H2VH9Htkxxn4hKxzt0juD) | [Badeela](https://open.spotify.com/album/6KS7y7QIFlh0JflHRb8tU7) | 3:41 |
 | 50 | [Rehbara](https://open.spotify.com/track/1q82k8tuu1t6t8H8zHMqWs) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Rehbara](https://open.spotify.com/album/0WNynwU2UJGix7oCG7FKfR) | 2:53 |
 
-Snapshot ID: `AAAAADvKu6rlBeA88kAaINW9oE+grZG8`
+Snapshot ID: `AAAAACCg3k9FJcWCsZtyGDalEhkU+2Bv`

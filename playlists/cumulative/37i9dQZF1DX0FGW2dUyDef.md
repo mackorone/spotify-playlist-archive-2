@@ -2,9 +2,9 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: manifest
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Eypio
 
-379 songs - 18 hr 38 min
+380 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-30 | 2025-07-30 |
 | [Afedersin](https://open.spotify.com/track/2kKMrqXZCGXjvHTi3GmhWn) | [Lark2020](https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH) | [Afedersin](https://open.spotify.com/album/21w61liVLiVknFGkg4c2E7) | 2:40 | 2026-05-11 | 2026-06-23 |
 | [Ah Be Manolya](https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ah Be Manolya](https://open.spotify.com/album/0w21vGqaC3h0KLyXsNSAb8) | 2:54 | 2026-08-17 | 2026-09-29 |
+| [Akila](https://open.spotify.com/track/6TiCIA7EPfjSqpfRP5XKDf) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Akila](https://open.spotify.com/album/2igL5PBsn9bW1C7Rfz9RsV) | 2:48 | 2026-10-19 |  |
 | [Aklın Hep Bende](https://open.spotify.com/track/0a2J5WonJyiDaO1cOLsIuj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Kan II](https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn) | 3:15 | 2026-07-17 | 2026-08-18 |
 | [AKTIV II](https://open.spotify.com/track/0wtiwUuHTOonphD15w39an) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Reder](https://open.spotify.com/artist/4rdvHU6ccREPfA1aS66pdg) | [AKTIV II](https://open.spotify.com/album/3CGt2iYFmQlIGGiK5DGbmS) | 3:01 | 2026-02-12 | 2026-02-28 |
 | [Akşam Oldu Sokaklar Yine Tenha](https://open.spotify.com/track/4tl7cLzKxFAE3lCp41Nkk4) | [Sadece Celal](https://open.spotify.com/artist/0oJULFUhjiY2mboBp96NcA) | [Akşam Oldu Sokaklar Yine Tenha](https://open.spotify.com/album/11mMd3TDxU46XY4V2fVkpd) | 2:58 | 2026-09-28 | 2026-10-13 |
@@ -25,7 +26,7 @@
 | [Ama Başaramadım](https://open.spotify.com/track/6Ecfg2Bd6Ctomk6GBwZF3V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Başaramadım](https://open.spotify.com/album/2Fa67TjwSF8nXfqMEY49cm) | 2:24 | 2026-02-16 | 2026-03-18 |
 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 | 2024-11-28 | 2025-06-04 |
 | [Amatör](https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amatör](https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc) | 2:43 | 2025-12-10 | 2026-07-28 |
-| [ANAKONDA'S](https://open.spotify.com/track/1vCWBRKA0y6lN8iw9J7PFt) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ANAKONDA'S](https://open.spotify.com/album/4YkDU6Y6AlIQmi1G3a7Cgx) | 2:47 | 2026-09-02 |  |
+| [ANAKONDA'S](https://open.spotify.com/track/1vCWBRKA0y6lN8iw9J7PFt) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ANAKONDA'S](https://open.spotify.com/album/4YkDU6Y6AlIQmi1G3a7Cgx) | 2:47 | 2026-09-02 | 2026-10-20 |
 | [ANKARA TATANGALAR](https://open.spotify.com/track/4MkndNZKOkfiasYF06RiWx) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:21 | 2026-05-11 | 2026-06-16 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-02-19 |
 | [AQUAFINA](https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [AQUAFINA](https://open.spotify.com/album/2y43Y78ueoesO5T4mtvsXj) | 2:27 | 2025-07-29 | 2025-08-15 |

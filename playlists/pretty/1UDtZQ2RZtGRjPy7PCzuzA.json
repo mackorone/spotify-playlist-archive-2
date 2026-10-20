@@ -6,7 +6,7 @@
     "name": "\u970f",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAAOG8Ibp2ZzRNbBbuwVIEaGI6sZeZl+",
+  "snapshot_id": "AAAOHg3Q24MTxAg+YZDv0AiKisUfeyax",
   "tracks": [
     {
       "added_at": "2026-08-15 08:53:39",
@@ -23861,22 +23861,6 @@
       "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
     },
     {
-      "added_at": "2026-09-03 21:19:16",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 194700,
-      "name": "I Love Lucy",
-      "url": "https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey"
-    },
-    {
       "added_at": "2026-09-03 21:27:15",
       "album": {
         "name": "A Brief Nirvana",
@@ -31455,6 +31439,46 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y"
+    },
+    {
+      "added_at": "2026-10-19 21:29:51",
+      "album": {
+        "name": "Nancy & Lee",
+        "url": "https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        },
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "duration_ms": 224278,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/2JKRZGp4LwT9GGbcXtx2sw"
+    },
+    {
+      "added_at": "2026-10-19 21:35:38",
+      "album": {
+        "name": "Nancy & Lee",
+        "url": "https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        },
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "duration_ms": 184645,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/1ixklIx8NoGTFPLePorib7"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

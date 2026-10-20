@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Qlas & Isabèl Usher
 
-1,452 songs - 2 day 22 hr 45 min
+1,453 songs - 2 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-09 | 2023-12-12 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-04 | 2024-06-21 |
 | [House Tour](https://open.spotify.com/track/0lebSDyURI4Hn5CH0Yb2Dd) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/6xhHeCllhm4dPDqbACaAyG) | 2:49 | 2026-04-23 | 2026-07-10 |
+| [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-19 |  |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-11 | 2023-06-02 |
 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 | 2023-03-20 | 2023-04-15 |
 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-07 | 2024-04-07 |
@@ -1109,7 +1110,7 @@
 | [Sideways](https://open.spotify.com/track/3OGlklVPmFmu6Tm0fQ1JpB) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sideways](https://open.spotify.com/album/69eqA59bgh09wQ2MT1AlnL) | 4:13 | 2024-07-31 | 2024-10-25 |
 | [Silence](https://open.spotify.com/track/0Md7RdBvEkiA49Y2MNX8Hq) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Silence \(feat\. Chavanté\)](https://open.spotify.com/album/32NOf3K2okwcVkBzjjwqqp) | 2:58 | 2023-11-27 | 2024-01-19 |
 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 | 2025-12-11 | 2026-02-28 |
-| [Silver Lines](https://open.spotify.com/track/7pJYaiuMMGAwhj54H0M295) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Withness](https://open.spotify.com/album/2HuUkTJoTN5xgvG2oqLsts) | 3:21 | 2026-08-18 |  |
+| [Silver Lines](https://open.spotify.com/track/7pJYaiuMMGAwhj54H0M295) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Withness](https://open.spotify.com/album/2HuUkTJoTN5xgvG2oqLsts) | 3:21 | 2026-08-18 | 2026-10-20 |
 | [Simone](https://open.spotify.com/track/233KjtSp13hed57BJgRjul) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Simone](https://open.spotify.com/album/49lqmVVusVjCA4qO3AhL3Y) | 2:30 | 2023-06-30 | 2023-08-04 |
 | [SINGLE](https://open.spotify.com/track/3qQhi8uyeiCZnpkqh2VMNR) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [SINGLE](https://open.spotify.com/album/4iywKALSrsrGpZZrRug2G5) | 2:21 | 2025-05-01 | 2025-05-09 |
 | [SINGLE \- Remix](https://open.spotify.com/track/6zZQ6eb8qIXl3xahcen5U8) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [SINGLE \(Remix\)](https://open.spotify.com/album/7IIgcyNYPS9YmVGF2EkV62) | 2:09 | 2025-06-19 | 2025-08-29 |

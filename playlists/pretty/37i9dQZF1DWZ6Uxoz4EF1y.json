@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 243732,
+  "num_followers": 243722,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVrCLrgd5Dz7d9cpvULqSscTDqD",
+  "snapshot_id": "AAAAADKt6TswIL1DPwD2DaCE9kT4x8um",
   "tracks": [
     {
       "added_at": "2026-04-04 05:56:44",
@@ -427,18 +427,26 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/20Jz9tXb633PF9nGukskgE"
+        "name": "Resucit\u00f3",
+        "url": "https://open.spotify.com/album/3q5SSAhsZNIZqnW7IxVLex"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 329133,
-      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
-      "url": "https://open.spotify.com/track/2AXa3PWYEyeRo80AAqJLXJ"
+      "duration_ms": 370279,
+      "name": "Resucit\u00f3",
+      "url": "https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -463,26 +471,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Resucit\u00f3",
-        "url": "https://open.spotify.com/album/3q5SSAhsZNIZqnW7IxVLex"
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/20Jz9tXb633PF9nGukskgE"
       },
       "artists": [
         {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
-        {
-          "name": "Josh Morales",
-          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 370279,
-      "name": "Resucit\u00f3",
-      "url": "https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g"
+      "duration_ms": 329133,
+      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/2AXa3PWYEyeRo80AAqJLXJ"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "En Esto Creo",
-        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 327626,
-      "name": "Aquella Cruz",
-      "url": "https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "La Bondad de Dios",
         "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 260295,
       "name": "El No Pereci\u00f3",
       "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "En Esto Creo",
+        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 327626,
+      "name": "Aquella Cruz",
+      "url": "https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "En Esto Creo",
-        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 347826,
-      "name": "Gracias Cristo",
-      "url": "https://open.spotify.com/track/7ygwj3GsJoPm1CV8F5RkWk"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Tetelestai (Todo hecho est\u00e1)",
         "url": "https://open.spotify.com/album/2kJ9Wkj82r6N9rq8XAAkzc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 288266,
       "name": "Creemos",
       "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "En Esto Creo",
+        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 347826,
+      "name": "Gracias Cristo",
+      "url": "https://open.spotify.com/track/7ygwj3GsJoPm1CV8F5RkWk"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1215,6 +1215,34 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 715466,
+      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
+      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Si Tu No Estas",
         "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
       },
@@ -1243,34 +1271,6 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 715466,
-      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
-      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Mi Casa Y Yo",
         "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 315651,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "M\u00fasica en el Desierto",
+        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 271419,
+      "name": "Eterna luz",
+      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Un Brote De Adoracion 2",
         "url": "https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo"
       },
@@ -1583,22 +1603,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Majo y Dan",
-        "url": "https://open.spotify.com/album/0Y8mUmQqeF1QnQis9negrN"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 339233,
-      "name": "Te Deseo",
-      "url": "https://open.spotify.com/track/0fKTsfo4878lqiCYHmvP9h"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
@@ -1619,6 +1623,42 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Cielo En La Tierra",
+        "url": "https://open.spotify.com/album/3JTD6PWtChPdo6kxxWZS6y"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Cielo En La Tierra",
+      "url": "https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Majo y Dan",
+        "url": "https://open.spotify.com/album/0Y8mUmQqeF1QnQis9negrN"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 339233,
+      "name": "Te Deseo",
+      "url": "https://open.spotify.com/track/0fKTsfo4878lqiCYHmvP9h"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Cuan Gran Amor",
         "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
       },
@@ -1631,26 +1671,6 @@
       "duration_ms": 528800,
       "name": "Digno Y Santo",
       "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "M\u00fasica en el Desierto",
-        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 271419,
-      "name": "Eterna luz",
-      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1671,22 +1691,6 @@
       "duration_ms": 316920,
       "name": "Jesus Te Amamos - Live",
       "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Me rindo a ti",
-        "url": "https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Me rindo a ti",
-      "url": "https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1731,22 +1735,34 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Cielo En La Tierra",
-        "url": "https://open.spotify.com/album/3JTD6PWtChPdo6kxxWZS6y"
+        "name": "Me rindo a ti",
+        "url": "https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 386426,
-      "name": "Cielo En La Tierra",
-      "url": "https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7"
+      "duration_ms": 291428,
+      "name": "Me rindo a ti",
+      "url": "https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Exagerado Amor",
+      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Exagerado Amor",
-      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "El Poder De Tu Amor",
         "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
       },
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Mirar\u00e9 al Rey",
         "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 287970,
       "name": "Solo en Cristo",
       "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

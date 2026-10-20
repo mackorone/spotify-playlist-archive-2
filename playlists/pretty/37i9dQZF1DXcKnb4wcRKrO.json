@@ -1,12 +1,12 @@
 {
-  "description": "Golden hour, ap\u00e9ritif, cozy time, beach wind-down -  jazzy vibes & relaxed house beats\ud83c\udf79",
-  "num_followers": 124600,
+  "description": "Golden hour, ap\u00e9ritif, cozy time, beach wind-down\ud83c\udf79 jazzy vibes & relaxed house beats",
+  "num_followers": 124771,
   "original_name": "Chill Evening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrP0TeAU270gL0XQg7ViTYvyGYD",
+  "snapshot_id": "AAAAAGGw2Zvs7l0odoOIT2dUwg31kWWr",
   "tracks": [
     {
       "added_at": "2026-09-04 04:00:36",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-09-04 04:00:36",
       "album": {
-        "name": "Hypnosis",
-        "url": "https://open.spotify.com/album/6Vm8zDZNvRTnfngqwYiWHW"
-      },
-      "artists": [
-        {
-          "name": "gabriel",
-          "url": "https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2"
-        }
-      ],
-      "duration_ms": 133441,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/1pA1Jikw9RoZzLo0NeIkBK"
-    },
-    {
-      "added_at": "2026-09-04 04:00:36",
-      "album": {
         "name": "waiting room",
         "url": "https://open.spotify.com/album/44oADuZTbogHufybTBnDNp"
       },
@@ -255,30 +239,6 @@
     {
       "added_at": "2026-09-04 04:00:36",
       "album": {
-        "name": "concord",
-        "url": "https://open.spotify.com/album/791rejuyzwpFD1oUKgS0Oj"
-      },
-      "artists": [
-        {
-          "name": "the wine is ok",
-          "url": "https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak"
-        },
-        {
-          "name": "Gaston",
-          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
-        },
-        {
-          "name": "Jordan Burnett",
-          "url": "https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e"
-        }
-      ],
-      "duration_ms": 181710,
-      "name": "concord",
-      "url": "https://open.spotify.com/track/5KRyZUBbRwMjEeT3A3ROZh"
-    },
-    {
-      "added_at": "2026-09-04 04:00:36",
-      "album": {
         "name": "Afternoon",
         "url": "https://open.spotify.com/album/1KE0kARXiJ0f0JUvkdkH7l"
       },
@@ -331,6 +291,22 @@
     {
       "added_at": "2026-09-04 04:00:36",
       "album": {
+        "name": "Digestivo",
+        "url": "https://open.spotify.com/album/54VPqHzsNXUXGFUziJQRNT"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Digestivo",
+      "url": "https://open.spotify.com/track/3dt6uuYGkPIuGWUTUzmEMv"
+    },
+    {
+      "added_at": "2026-09-04 04:00:36",
+      "album": {
         "name": "Wine and Dine",
         "url": "https://open.spotify.com/album/0mTT5dP5Rq1Z4BJKj22FRk"
       },
@@ -359,6 +335,22 @@
       "duration_ms": 118235,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6XTaHGzwO2RJ3LTR9YRLb6"
+    },
+    {
+      "added_at": "2026-09-04 04:00:36",
+      "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/6Vm8zDZNvRTnfngqwYiWHW"
+      },
+      "artists": [
+        {
+          "name": "gabriel",
+          "url": "https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2"
+        }
+      ],
+      "duration_ms": 133441,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/1pA1Jikw9RoZzLo0NeIkBK"
     },
     {
       "added_at": "2026-09-04 04:00:36",
@@ -459,18 +451,26 @@
     {
       "added_at": "2026-09-04 04:00:36",
       "album": {
-        "name": "Digestivo",
-        "url": "https://open.spotify.com/album/54VPqHzsNXUXGFUziJQRNT"
+        "name": "concord",
+        "url": "https://open.spotify.com/album/791rejuyzwpFD1oUKgS0Oj"
       },
       "artists": [
         {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+          "name": "the wine is ok",
+          "url": "https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak"
+        },
+        {
+          "name": "Gaston",
+          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
+        },
+        {
+          "name": "Jordan Burnett",
+          "url": "https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e"
         }
       ],
-      "duration_ms": 142363,
-      "name": "Digestivo",
-      "url": "https://open.spotify.com/track/3dt6uuYGkPIuGWUTUzmEMv"
+      "duration_ms": 181710,
+      "name": "concord",
+      "url": "https://open.spotify.com/track/5KRyZUBbRwMjEeT3A3ROZh"
     },
     {
       "added_at": "2026-09-04 04:00:36",
@@ -599,22 +599,6 @@
       "duration_ms": 156000,
       "name": "how do u do",
       "url": "https://open.spotify.com/track/0F3ZyZMattB4AM8OPHYixv"
-    },
-    {
-      "added_at": "2026-09-04 04:00:36",
-      "album": {
-        "name": "Soft Bounce",
-        "url": "https://open.spotify.com/album/1XvAHtoreKHNwVW9FSZLz0"
-      },
-      "artists": [
-        {
-          "name": "Friends in Soho",
-          "url": "https://open.spotify.com/artist/5PUS2iMlYDL7yix2zsfQO6"
-        }
-      ],
-      "duration_ms": 195318,
-      "name": "Soft Bounce",
-      "url": "https://open.spotify.com/track/1LWZ4p4HxS9qVHhVEACR9X"
     },
     {
       "added_at": "2026-09-04 04:00:36",
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-09-04 04:00:36",
       "album": {
+        "name": "Soft Bounce",
+        "url": "https://open.spotify.com/album/1XvAHtoreKHNwVW9FSZLz0"
+      },
+      "artists": [
+        {
+          "name": "Friends in Soho",
+          "url": "https://open.spotify.com/artist/5PUS2iMlYDL7yix2zsfQO6"
+        }
+      ],
+      "duration_ms": 195318,
+      "name": "Soft Bounce",
+      "url": "https://open.spotify.com/track/1LWZ4p4HxS9qVHhVEACR9X"
+    },
+    {
+      "added_at": "2026-09-04 04:00:36",
+      "album": {
         "name": "night rider",
         "url": "https://open.spotify.com/album/5nZbQ2zP0RbyaWGZdyuDYb"
       },
@@ -1091,26 +1091,6 @@
       "duration_ms": 118974,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/6TsSQyvSxxtaYs55mqaMfS"
-    },
-    {
-      "added_at": "2026-09-04 04:00:36",
-      "album": {
-        "name": "Flourish",
-        "url": "https://open.spotify.com/album/0V9N2j4pphZyIb184jvaQR"
-      },
-      "artists": [
-        {
-          "name": "IONA",
-          "url": "https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r"
-        },
-        {
-          "name": "No\u00e9 Mina",
-          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Flourish",
-      "url": "https://open.spotify.com/track/4Hh1GjfBEjUsYzScundoWs"
     },
     {
       "added_at": "2026-09-04 04:00:36",
@@ -1395,6 +1375,26 @@
       "duration_ms": 161823,
       "name": "Leftside",
       "url": "https://open.spotify.com/track/5vjlMzjjYZS9WyAPUjkDFj"
+    },
+    {
+      "added_at": "2026-09-04 04:00:36",
+      "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/0V9N2j4pphZyIb184jvaQR"
+      },
+      "artists": [
+        {
+          "name": "IONA",
+          "url": "https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/4Hh1GjfBEjUsYzScundoWs"
     },
     {
       "added_at": "2026-09-04 04:00:36",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-09-04 04:00:36",
       "album": {
-        "name": "Beverly Hills Cruise Beats",
-        "url": "https://open.spotify.com/album/348hqkK3q5M3gEWRhOYmgu"
-      },
-      "artists": [
-        {
-          "name": "Carlton Ranks",
-          "url": "https://open.spotify.com/artist/4VngY0qfXhW72MMv33xrfM"
-        }
-      ],
-      "duration_ms": 146181,
-      "name": "Beverly Hills Cruise Beats",
-      "url": "https://open.spotify.com/track/7vfIeSd3wJWbkIjr2Y1VeO"
-    },
-    {
-      "added_at": "2026-09-04 04:00:36",
-      "album": {
         "name": "Cap Roux",
         "url": "https://open.spotify.com/album/2ugPFysqvUfbe3VVC1HLab"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 146804,
       "name": "Morning Walls",
       "url": "https://open.spotify.com/track/4zHfsSdbQxnlwX2JImul7U"
+    },
+    {
+      "added_at": "2026-09-04 04:00:36",
+      "album": {
+        "name": "Beverly Hills Cruise Beats",
+        "url": "https://open.spotify.com/album/348hqkK3q5M3gEWRhOYmgu"
+      },
+      "artists": [
+        {
+          "name": "Carlton Ranks",
+          "url": "https://open.spotify.com/artist/4VngY0qfXhW72MMv33xrfM"
+        }
+      ],
+      "duration_ms": 146181,
+      "name": "Beverly Hills Cruise Beats",
+      "url": "https://open.spotify.com/track/7vfIeSd3wJWbkIjr2Y1VeO"
     },
     {
       "added_at": "2026-09-04 04:00:36",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2026-09-04 04:00:36",
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/6t2skBC9JlrB4HD5yzuynL"
-      },
-      "artists": [
-        {
-          "name": "Twill Street",
-          "url": "https://open.spotify.com/artist/2CMfq5bzbQZNJIt6dTDqgc"
-        }
-      ],
-      "duration_ms": 115125,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0FmaabJZJEYMJWrGvUCKCS"
-    },
-    {
-      "added_at": "2026-09-04 04:00:36",
-      "album": {
         "name": "Solara",
         "url": "https://open.spotify.com/album/3eJXuPxpyMTiGhSZEINOmi"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 161590,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0dxvLgMHkYyA50mq1WXgjX"
+    },
+    {
+      "added_at": "2026-09-04 04:00:36",
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/6t2skBC9JlrB4HD5yzuynL"
+      },
+      "artists": [
+        {
+          "name": "Twill Street",
+          "url": "https://open.spotify.com/artist/2CMfq5bzbQZNJIt6dTDqgc"
+        }
+      ],
+      "duration_ms": 115125,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0FmaabJZJEYMJWrGvUCKCS"
     },
     {
       "added_at": "2026-09-04 04:00:36",

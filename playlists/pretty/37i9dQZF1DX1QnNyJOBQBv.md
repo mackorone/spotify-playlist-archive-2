@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Morat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,862,780 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,862,493 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [Corolla Del 96](https://open.spotify.com/track/1oO8aFnTnlLO85ryc0K6tx) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Corolla Del 96](https://open.spotify.com/album/2IGmu7SaHgxydC2n7eHzFE) | 3:10 |
 | 50 | [Quién Contra Mí \- Live From Los Ángeles](https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Quién Contra Mí \(Live From Los Ángeles\)](https://open.spotify.com/album/5tprz9NyjHKjJz8u2Pfg3n) | 3:39 |
 
-Snapshot ID: `AAAAAGPt0twAmxZAZdiPYSivw1K7IGgs`
+Snapshot ID: `AAAAAMh+c+v3y5u4zWMvFgZFjar+mJ4t`

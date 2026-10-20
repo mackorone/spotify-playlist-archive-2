@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > greatest.album.of.all.time\_hyper\_sleaze.electro\_glitch\_☆▽☆\_power\_\[FINAL\]\_\[REAL\]\_\_coverartist.sophiastel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370,056 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,998 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [Bounce](https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas) | [Tommy Fleece](https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg) | [Bounce](https://open.spotify.com/album/2h9BYQl9c0oxsxwkvh5OIl) | 2:00 |
 | 70 | [Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 3:38 |
 
-Snapshot ID: `AAAAADfsD4hfKngBcsSNLn19fXG1svUe`
+Snapshot ID: `AAAAAO7J5Z72N7ErtznE0JFPq2jFp/t8`

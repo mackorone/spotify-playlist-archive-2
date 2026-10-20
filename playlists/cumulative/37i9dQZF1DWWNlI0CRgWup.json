@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "BUENA ONDA",
+        "url": "https://open.spotify.com/album/0l2Rjrl8uem6Dm5J9BT8K6"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196265,
+      "name": "BUENA ONDA",
+      "url": "https://open.spotify.com/track/1bg7IHZzSoBXQyPStO6i3X"
+    },
+    {
+      "album": {
         "name": "ELOWI",
         "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
       },

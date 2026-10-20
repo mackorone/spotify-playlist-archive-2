@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233469,
+  "num_followers": 233455,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAADdalexkrhcKY9ntxh6SEK8",
+  "snapshot_id": "atQMAAAAAADqUoHCtr2WqOaJ8rGnpOb/",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao - Colecci\u00f3n Completa",
-        "url": "https://open.spotify.com/album/3dVLM0RBBR4pVLkl0Dh6Dr"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/6y4LoOGFtztZhLHZm2KgjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar",
         "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 205733,
       "name": "Dame Corazon",
       "url": "https://open.spotify.com/track/3XcowngSbS2cfi1FUMs3xr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao - Colecci\u00f3n Completa",
+        "url": "https://open.spotify.com/album/3dVLM0RBBR4pVLkl0Dh6Dr"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/6y4LoOGFtztZhLHZm2KgjF"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Fiesta - En Vivo",
-      "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh Finds Hits",
         "url": "https://open.spotify.com/album/2gtSd14b8h4A6M0llkdG87"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 197550,
       "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
       "url": "https://open.spotify.com/track/5I9V9CKa0czqhqiySv8L0S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Fiesta - En Vivo",
+      "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
     },
     {
       "added_at": null,

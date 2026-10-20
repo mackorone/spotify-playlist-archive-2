@@ -1,12 +1,12 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 203943,
+  "num_followers": 203966,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMpMfV44qJVwjcL1ifRNnCnxnut",
+  "snapshot_id": "AAAAAKEY5GXUDYcoxbeW4HKKPZue1Ft0",
   "tracks": [
     {
       "added_at": "2026-10-16 07:28:54",
@@ -83,22 +83,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Golden Haze",
-        "url": "https://open.spotify.com/album/7BywKnUOUBS46G4fDjq68l"
+        "name": "Room 388",
+        "url": "https://open.spotify.com/album/0yVQOvfZIL8ZZOAoo903wC"
       },
       "artists": [
         {
-          "name": "Dani Catal\u00e1",
-          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+          "name": "terrarium.",
+          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
         },
         {
-          "name": "Lamar Azul",
-          "url": "https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34"
+          "name": "Hopmax",
+          "url": "https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7"
         }
       ],
-      "duration_ms": 129149,
-      "name": "Golden Haze",
-      "url": "https://open.spotify.com/track/6Ymcr6l254Z7K4du81JLJA"
+      "duration_ms": 120000,
+      "name": "Room 388",
+      "url": "https://open.spotify.com/track/5w3hSbpsxFytvVYrjEmIEb"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -119,22 +119,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Room 388",
-        "url": "https://open.spotify.com/album/0yVQOvfZIL8ZZOAoo903wC"
+        "name": "Golden Haze",
+        "url": "https://open.spotify.com/album/7BywKnUOUBS46G4fDjq68l"
       },
       "artists": [
         {
-          "name": "terrarium.",
-          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
         },
         {
-          "name": "Hopmax",
-          "url": "https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7"
+          "name": "Lamar Azul",
+          "url": "https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Room 388",
-      "url": "https://open.spotify.com/track/5w3hSbpsxFytvVYrjEmIEb"
+      "duration_ms": 129149,
+      "name": "Golden Haze",
+      "url": "https://open.spotify.com/track/6Ymcr6l254Z7K4du81JLJA"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Velvet Hours",
-        "url": "https://open.spotify.com/album/1rDPoVP7U1erNslRjWyMZ8"
-      },
-      "artists": [
-        {
-          "name": "Midnight Hour",
-          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
-        },
-        {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
-        }
-      ],
-      "duration_ms": 95421,
-      "name": "Undertones",
-      "url": "https://open.spotify.com/track/6DpWcDvKZGPj1fTq7lKSST"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 118333,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4Y0B217JMYCcdKjsC87SCB"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Velvet Hours",
+        "url": "https://open.spotify.com/album/1rDPoVP7U1erNslRjWyMZ8"
+      },
+      "artists": [
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "duration_ms": 95421,
+      "name": "Undertones",
+      "url": "https://open.spotify.com/track/6DpWcDvKZGPj1fTq7lKSST"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "chrome",
-        "url": "https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL"
-      },
-      "artists": [
-        {
-          "name": "Mozzie",
-          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "chrome",
-      "url": "https://open.spotify.com/track/71hsXyvmjTahqj1eqP6tBw"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6HA0YCt69EeDJzGXpab7qt"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "chrome",
+        "url": "https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "chrome",
+      "url": "https://open.spotify.com/track/71hsXyvmjTahqj1eqP6tBw"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Cloudscape",
         "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Messing Around",
-        "url": "https://open.spotify.com/album/3AHY3aDG3jE41PyMKU3ucG"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/1RlL8p44tMSOtqF7oJyuZi"
       },
       "artists": [
         {
-          "name": "Gabb.",
-          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
         }
       ],
-      "duration_ms": 105000,
-      "name": "Messing Around",
-      "url": "https://open.spotify.com/track/489OiHYbTILQSOAYcskBKB"
+      "duration_ms": 114146,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/27ptY9nQRlAZmz6r7bmzqO"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/1RlL8p44tMSOtqF7oJyuZi"
+        "name": "Messing Around",
+        "url": "https://open.spotify.com/album/3AHY3aDG3jE41PyMKU3ucG"
       },
       "artists": [
         {
-          "name": "Nuncc",
-          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
         }
       ],
-      "duration_ms": 114146,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/27ptY9nQRlAZmz6r7bmzqO"
+      "duration_ms": 105000,
+      "name": "Messing Around",
+      "url": "https://open.spotify.com/track/489OiHYbTILQSOAYcskBKB"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Home Cottage",
+        "url": "https://open.spotify.com/album/76o4eRw1lGY1NCXMWHyV4i"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Home Cottage",
+      "url": "https://open.spotify.com/track/1FrZUAZ9liovAuOw6kJsSU"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Sunkissed Streets",
         "url": "https://open.spotify.com/album/3TADdS4jjIU8Lqg7NTpg1j"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 111538,
       "name": "Sunkissed Streets",
       "url": "https://open.spotify.com/track/5hwkLjTpivqMHPm4ATKcVX"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Home Cottage",
-        "url": "https://open.spotify.com/album/76o4eRw1lGY1NCXMWHyV4i"
-      },
-      "artists": [
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Home Cottage",
-      "url": "https://open.spotify.com/track/1FrZUAZ9liovAuOw6kJsSU"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/2f7pevpH8LUkHCSTRdUh1D"
-      },
-      "artists": [
-        {
-          "name": "OMMI",
-          "url": "https://open.spotify.com/artist/75GHk4deBRJlGhw6TehRuR"
-        },
-        {
-          "name": "Korey Wade",
-          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
-        }
-      ],
-      "duration_ms": 114394,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/7Bcs07Br3nImaiqs5kXcpP"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Midwinter",
         "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 129473,
       "name": "Midwinter",
       "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2f7pevpH8LUkHCSTRdUh1D"
+      },
+      "artists": [
+        {
+          "name": "OMMI",
+          "url": "https://open.spotify.com/artist/75GHk4deBRJlGhw6TehRuR"
+        },
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "duration_ms": 114394,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7Bcs07Br3nImaiqs5kXcpP"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Osterly Park",
-        "url": "https://open.spotify.com/album/3Jli1ZXPdsGl3GfHAM9cqp"
-      },
-      "artists": [
-        {
-          "name": "Golden Mist",
-          "url": "https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK"
-        }
-      ],
-      "duration_ms": 183301,
-      "name": "Osterly Park",
-      "url": "https://open.spotify.com/track/5V3zWcqclnl3AIIrk2elWd"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Eat More Fruits",
         "url": "https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 136153,
       "name": "Eat More Fruits",
       "url": "https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Osterly Park",
+        "url": "https://open.spotify.com/album/3Jli1ZXPdsGl3GfHAM9cqp"
+      },
+      "artists": [
+        {
+          "name": "Golden Mist",
+          "url": "https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK"
+        }
+      ],
+      "duration_ms": 183301,
+      "name": "Osterly Park",
+      "url": "https://open.spotify.com/track/5V3zWcqclnl3AIIrk2elWd"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "pearls",
-        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "pearls",
-      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "sunday morning stroll",
         "url": "https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 186000,
       "name": "sunday morning stroll",
       "url": "https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "pearls",
+        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "pearls",
+      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
     },
     {
       "added_at": "2026-10-16 07:28:54",

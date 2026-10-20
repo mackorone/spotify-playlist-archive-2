@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Marika Hackman
 
-542 songs - 1 day 10 hr 51 min
+543 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [143](https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [143](https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI) | 4:16 | 2026-09-25 |  |
 | [1K!](https://open.spotify.com/track/3bDle84REug8PQJdREswFG) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 2:52 | 2024-08-14 | 2024-09-21 |
 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 | 2025-02-14 |
-| [33](https://open.spotify.com/track/1L1qrIhU58MlisUGxUL5ub) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [False Dogs](https://open.spotify.com/album/4TlM69gj3kHdIqCuq9kT9K) | 2:33 | 2026-10-15 |  |
+| [33](https://open.spotify.com/track/1L1qrIhU58MlisUGxUL5ub) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [False Dogs](https://open.spotify.com/album/4TlM69gj3kHdIqCuq9kT9K) | 2:33 | 2026-10-15 | 2026-10-20 |
+| [33](https://open.spotify.com/track/5rP1SqAtnoMHU655knRdlA) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [33](https://open.spotify.com/album/3j2lqvYUUnQZ0GgkoGS4JD) | 2:33 | 2026-10-19 |  |
 | [3310](https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [3310](https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb) | 3:02 | 2026-08-20 |  |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-20 | 2026-09-25 |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-04 | 2026-06-19 |

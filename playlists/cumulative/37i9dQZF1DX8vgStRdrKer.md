@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-889 songs - 3 day 6 hr 4 min
+890 songs - 3 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Believer](https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Believer](https://open.spotify.com/album/0ghQs4vR2dJgflZckBUWV0) | 2:13 | 2025-10-31 | 2026-01-19 |
 | [Belongs To You](https://open.spotify.com/track/4QI6Qba9iqc3XaqI5OSWrS) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Belongs To You](https://open.spotify.com/album/31g16Qly95t9uSQdt5MSOI) | 2:25 | 2025-07-04 | 2025-07-29 |
 | [Benefit](https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Benefit](https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8) | 6:59 | 2025-10-17 |  |
-| [Big God](https://open.spotify.com/track/6r6F2FtQdGroX2sZPsTRYm) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Kingdom Energy](https://open.spotify.com/album/2TCVFuEs0Clh6XdKfEKMAX) | 3:09 | 2026-09-25 |  |
+| [Big God](https://open.spotify.com/track/6r6F2FtQdGroX2sZPsTRYm) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Kingdom Energy](https://open.spotify.com/album/2TCVFuEs0Clh6XdKfEKMAX) | 3:09 | 2026-09-25 | 2026-10-20 |
 | [Bigger](https://open.spotify.com/track/1kV7EtGG52g3BsqzkLHZVy) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Bigger](https://open.spotify.com/album/2At2AXk7Zt0AdAElt4GTM1) | 2:12 | 2025-05-30 | 2025-06-27 |
 | [Biggest Name \(Man of Galilee\)](https://open.spotify.com/track/4lTqi2OvWg6kJtcmLxPy6A) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Biggest Name \(Man of Galilee\)](https://open.spotify.com/album/1LZZycH5z1vzlyuyYYlFq4) | 3:31 | 2026-02-20 | 2026-09-05 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2025-06-06 |
@@ -686,6 +686,7 @@
 | [SEE ME THROUGH \(RECOVERY\)](https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Surgery](https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg) | 4:19 | 2025-11-28 | 2026-03-20 |
 | [See My God](https://open.spotify.com/track/7gIR3vcK786ZAGSZ3TqaSm) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [SEYHGA](https://open.spotify.com/artist/6nDYfLpJkJKMVjn9M12Zws) | [See My God](https://open.spotify.com/album/32vQTAl7BAswQnYSQpNkwl) | 2:23 | 2026-02-27 | 2026-05-22 |
 | [Seek You With All My Heart](https://open.spotify.com/track/2qZ55Xzsyl5kTsbhTZ7PGM) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Seek You With All My Heart](https://open.spotify.com/album/7Fhr46zGSyYLQMYlRjcEDG) | 4:25 | 2026-03-27 | 2026-05-22 |
+| [Send Us The Rain](https://open.spotify.com/track/4DZUCcEF5qg6vKUFh6vigs) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Send Us The Rain](https://open.spotify.com/album/5GeAl4URclnkOEW9TkH2SS) | 4:16 | 2026-10-16 |  |
 | [Shackles](https://open.spotify.com/track/3dHoGhYAwpHYvJVSLtnpJk) | [Mandy M](https://open.spotify.com/artist/7fC1wiQ8FQYRzSv440PFz0), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Shackles](https://open.spotify.com/album/517LYgwHfxH71E7w1QFoZT) | 5:14 | 2025-07-04 | 2025-07-11 |
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 | 2025-06-27 |
 | [Shepherd](https://open.spotify.com/track/1FPaot2iCvVolhpxkR0tmJ) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Shepherd](https://open.spotify.com/album/6r2MZXZqt5rTWGi4q3hcq1) | 6:23 | 2026-09-25 |  |

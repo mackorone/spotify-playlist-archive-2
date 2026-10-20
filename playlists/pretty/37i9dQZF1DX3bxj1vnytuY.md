@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Kuar \- FNX Omar Remix](https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Kuar \(FNX Omar Remix\)](https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W) | 6:40 |
 | 100 | [Rush \- Moody Jones Remix](https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Rush \(Moody Jones Remix\)](https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm) | 3:54 |
 
-Snapshot ID: `AAAAAJMw3exkiqhM34T6M3bRBlleknZn`
+Snapshot ID: `AAAAAKOykTpmY1VclKUiKgZtQSCg0HBU`

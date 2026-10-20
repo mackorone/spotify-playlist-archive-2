@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,907 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,870 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Sommerregen](https://open.spotify.com/track/5obmQ5Xt3F7QcfboGtOusg) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Sommerregen](https://open.spotify.com/album/5yLEbty03cRjd8gFP8G5i5) | 2:12 |
 | 75 | [caroline](https://open.spotify.com/track/7iUrV9iLQ0mmwRam5Lk2jr) | [SYDOW](https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl) | [caroline](https://open.spotify.com/album/2bq2cjJoqqzHw5HQEbwcTL) | 3:21 |
 
-Snapshot ID: `AAAAAPf9OQnriQ2INnZHYTZsViY3eEmj`
+Snapshot ID: `AAAAALJrW/amAhMvSZuJJI6p+yZdU3wc`

@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 14 | [Seperti Angka 8](https://open.spotify.com/track/77MFQP0wCPUylMss7jfrKu) | [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [Seperti Angka 8](https://open.spotify.com/album/3YMdebTvm2iOgvrRvqvQ3P) | 4:09 |
 | 15 | [Aku Berjanji](https://open.spotify.com/track/4hxpDAWYCI7xnO0cZeIXED) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/3JqXS7zpjGkUblghxhzBCm) | 3:59 |
 | 16 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 |
-| 17 | [Apa Kabar \- Alternative Version](https://open.spotify.com/track/1AkocKKJTxikIMa4xnEKJE) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Apa Kabar \(Alternative Version\)](https://open.spotify.com/album/2pzyrktshsWtbNlq1z2A8P) | 4:14 |
+| 17 | [Apa Kabar \- From "Terbaik Itu Kamu"](https://open.spotify.com/track/1AkocKKJTxikIMa4xnEKJE) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Apa Kabar \(From "Terbaik Itu Kamu"\)](https://open.spotify.com/album/2pzyrktshsWtbNlq1z2A8P) | 4:14 |
 | 18 | [Dunia Imajiner](https://open.spotify.com/track/3UV9yO6XiZTOvc7uie3iAv) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Dunia dan Seisinya](https://open.spotify.com/album/6trwcUAKmtcddQWTxCBA1D) | 2:52 |
 | 19 | [Reservasi Untuk Dua](https://open.spotify.com/track/7KkycouTGBRhpSle5hPXyA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Laika, Yang Ditinggalkan](https://open.spotify.com/album/2YnDdq86RHVb2CvkS2qHxA) | 4:19 |
 | 20 | [Catch Me](https://open.spotify.com/track/378OMdKKsgorhYbTnnXgjj) | [Marbles](https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ) | [Catch Me](https://open.spotify.com/album/7vGcAHbY5AP162w3MJbua8) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 99 | [You'll Find Lovers Like You and Me](https://open.spotify.com/track/6BQiGGlPp294KMLYQMmS0C) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [You'll Find Lovers Like You and Me](https://open.spotify.com/album/7Fqm1j72ZIaBOazURTNRAj) | 3:29 |
 | 100 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 |
 
-Snapshot ID: `AAAAAClXwK5dkPvSrB/6t5t/edGm4nEE`
+Snapshot ID: `AAAAAFjU0wn92ecCyML2kGCrxD4n70bu`

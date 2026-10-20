@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,697 songs - 6 day 12 hr 58 min
+2,700 songs - 6 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Day dreams](https://open.spotify.com/track/5tbMTvVoo2vGMvbBN9FTDW) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 1:13 | 2025-10-21 |  |
 | [De Mim Terá O Melhor](https://open.spotify.com/track/0kIBjZVunCWQoR0YOe5xcZ) | [Sakura](https://open.spotify.com/artist/3zdj6AlYpqSgCh8w1WfCjn) | [De Mim Terá O Melhor](https://open.spotify.com/album/5FFLojXjwHlsn2gWNQJOTq) | 4:11 | 2025-07-10 |  |
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2026-03-15 |  |
+| [Dead End Road](https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 2:26 | 2026-10-19 |  |
 | [Dead Flowers](https://open.spotify.com/track/3bvqJskS8cw4V2vPY3eC1R) | [Laugal](https://open.spotify.com/artist/2ftFy0PVhjxJkPCi4ivNRe) | [Dead Flowers](https://open.spotify.com/album/4ulTQWYHE3BiIbHTxJ4eUI) | 4:44 | 2025-05-13 |  |
 | [Dead Politiks](https://open.spotify.com/track/2AlnlW7Q1pE1YBziDwLHD5) | [Red Star Martyrs](https://open.spotify.com/artist/7mkHyAZeueFBhPFEe0EJoO), [Haji Mike](https://open.spotify.com/artist/5EV3QkIvzAnEbCmzBUxE1d) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 5:24 | 2024-03-23 |  |
 | [dear future self](https://open.spotify.com/track/52RtpM46le3D6bVbsaUUnN) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [LETTING GO](https://open.spotify.com/album/5qgzx90xVvgZcTqlnYLgAP) | 3:52 | 2026-04-20 |  |
@@ -629,6 +630,7 @@
 | [Dub Why](https://open.spotify.com/track/1ulzCt87jAd3Rbqd5BTl28) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 4:23 | 2024-05-04 |  |
 | [Dub Wise](https://open.spotify.com/track/1cCa008OmAN8KOXxGymJNj) | [Sir Racha](https://open.spotify.com/artist/5fIYHmDR0buHQzceD0zQa8) | [Gimme the Weed](https://open.spotify.com/album/6lruPpSjkIk1l4EFg4PT61) | 3:11 | 2024-05-01 |  |
 | [Dub\-o\-phonic Words](https://open.spotify.com/track/53sWup4FxiIDMFAAF7cqaQ) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF) | [Dred Reggae](https://open.spotify.com/album/4Ssk6qrJeAfSylHROZavw8) | 4:27 | 2024-03-10 |  |
+| [Dubai](https://open.spotify.com/track/6UX7fFJ3AAoDN8ereWFubj) | [Mwamba Group](https://open.spotify.com/artist/4wQTmrzVZ2pUDsr2gaUXND) | [Dubai](https://open.spotify.com/album/6MawYjXAfwowgLCtJwQOF2) | 2:12 | 2026-10-19 |  |
 | [Dubber FX \- 100th Monkey Remix](https://open.spotify.com/track/5v0SO4jXetXcloiRBWcZvi) | [Children Of The Bong](https://open.spotify.com/artist/39dCKWotmBmBxwQHMZkyV1), [100th Monkey](https://open.spotify.com/artist/6qllqLG3uYwxmCk3W5D8L3) | [Sirius Orbit](https://open.spotify.com/album/0OvRwN82OpLco0C6yrGgGg) | 7:00 | 2025-06-12 |  |
 | [Dubbing Into Di Wild](https://open.spotify.com/track/36gZ8KDEpAEg5l4vG9i4Yg) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:44 | 2024-05-01 |  |
 | [Dubbing Time](https://open.spotify.com/track/6lGY60ZjSNWP76jEDxIENb) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:10 | 2024-05-01 |  |
@@ -2205,6 +2207,7 @@
 | [Sunset](https://open.spotify.com/track/5ETP74JwR7Z9EzqbcPli12) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Sunset](https://open.spotify.com/album/467M1BSniMWgsqFXe8oB1P) | 1:36 | 2026-02-05 |  |
 | [Sunset](https://open.spotify.com/track/2WBFnyUkVnwIb9rWTC8kEy) | [tzi](https://open.spotify.com/artist/0OtctMT5WuZpib5GQiEuMT) | [Sunset](https://open.spotify.com/album/6yk6OUobNQ7fKgYLTIq0A3) | 3:25 | 2026-09-30 |  |
 | [Sunset Hills](https://open.spotify.com/track/3iDW00c3HFUSzpK0sWaheD) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 2:26 | 2026-02-22 |  |
+| [Sunshine Together](https://open.spotify.com/track/1rMtSIyUqCho7FSR5rlmem) | [ArtziPop](https://open.spotify.com/artist/5KApxUECyARPxuTxFbnD6i) | [Sunshine Together – Remixes](https://open.spotify.com/album/2Tz0BtvF8jQ4V5TJ6LCdf3) | 3:12 | 2026-10-19 |  |
 | [Supa Wyde Laces](https://open.spotify.com/track/6oyU5rbG1pLv15vHFjwYUK) | [Mix Master Mike](https://open.spotify.com/artist/4BeDVC50BVhB0bjQqjbhmt) | [Anti\-Theft Device](https://open.spotify.com/album/0oeQ3HVu122AD7tVY4Kwps) | 2:17 | 2026-02-07 |  |
 | [Super Puff](https://open.spotify.com/track/7oi6Qf3nVApypnrfq6Hupx) | [Domenico Rizzuto](https://open.spotify.com/artist/6W70Z41aY21isNN41N2UfI) | [The Undiscovered in the Sky](https://open.spotify.com/album/3mhbrkngcDcWvnO9KhQ5Kt) | 4:02 | 2026-04-12 |  |
 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2026-01-30 |  |

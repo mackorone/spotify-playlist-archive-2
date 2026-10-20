@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Pop you need to hear! Cover: Jamie Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,496 likes - 82 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,397 likes - 82 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 81 | [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 |
 | 82 | [Sauna](https://open.spotify.com/track/4tydTipPThewhJGmlxdcC5) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 3:08 |
 
-Snapshot ID: `AAAAANO8pex8/m12gyEDxKFu9wHNrzgS`
+Snapshot ID: `AAAAAIjZP7AqZimJO+8ywJVB8ZaJO1kA`

@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-232 songs - 13 hr 35 min
+233 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Papaoutai \- Afro Soul](https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk) | 4:39 | 2026-02-19 | 2026-09-03 |
 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy) | 4:50 | 2025-11-17 | 2026-07-04 |
 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-08-20 |  |
+| [Pictures of You](https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/3tNWFiq09LavrJA0s108QE) | 3:09 | 2026-10-19 |  |
 | [Pictures Of You](https://open.spotify.com/track/0cqnQVk6gv2rnZXeEO2YPJ) | [Marcus](https://open.spotify.com/artist/2b81mglFYOwIJQELZG2bj6) | [Pictures Of You](https://open.spotify.com/album/45ACH3jXqpcu87QKoAmXFs) | 3:25 | 2026-01-16 | 2026-02-18 |
 | [Pins And Needles](https://open.spotify.com/track/3Z9iR4tp5L6lW3Ca4OrGY9) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Pins And Needles](https://open.spotify.com/album/5IvWIhrF2sDACE7OXrANXW) | 3:06 | 2026-03-24 |  |
 | [Pockets](https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K) | [Amor y Vida](https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc) | [Pockets](https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd) | 4:28 | 2026-09-11 |  |

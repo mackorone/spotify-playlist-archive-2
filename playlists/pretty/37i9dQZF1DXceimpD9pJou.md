@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Debby Velasquez, Onell Diaz, & DIMEMOII
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,330 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,410 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Aquí Estoy](https://open.spotify.com/track/6HfWu4TUfz8cNPcZtswdhj) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Aquí Estoy](https://open.spotify.com/album/29iYEatEi1cr4xyYEJkOHe) | 3:59 |
 | 100 | [Canta Rap](https://open.spotify.com/track/7cvc9sgboZ3p18mYgqGE7r) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz), [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs) | [Canta Rap](https://open.spotify.com/album/5OgHQBL8NvGtOUEFlIOIfi) | 2:49 |
 
-Snapshot ID: `AAAAAFXYBCIs8xYxe0sU6AU/UFpM608a`
+Snapshot ID: `AAAAADePi+dfXQhkILYtysjnvjwimJ8p`

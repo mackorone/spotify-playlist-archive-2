@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,241 likes - 75 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,271 likes - 75 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 |
 | 75 | [STAY \- HEDEGAARD Remix](https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [STAY \(HEDEGAARD Remix\)](https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9) | 2:27 |
 
-Snapshot ID: `AAAAAFhQtRKLvLa8IAvvMiMVET1EMXZW`
+Snapshot ID: `AAAAANR/lZ/qodTyJt+zAGlImQORxXNH`

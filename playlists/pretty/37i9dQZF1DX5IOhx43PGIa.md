@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. <br/>Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,061 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,052 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Obsexxed](https://open.spotify.com/track/3gB59tjoD4lD4L8iPuPOE8) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [Obsexxed](https://open.spotify.com/album/3sAT6Hzm5Pnd59EhAbEr54) | 2:48 |
 | 100 | [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 |
 
-Snapshot ID: `AAAAAHkusmz/dQpaltBlcQ8BNWJb1j/p`
+Snapshot ID: `AAAAAAvqYc5k9LCmtVYYnbToMkOdEdjw`

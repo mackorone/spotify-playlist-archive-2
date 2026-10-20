@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Nachtigaller, Juju
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,763 likes - 87 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,766 likes - 87 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 2 | [H.O.U.S.E](https://open.spotify.com/track/1BTZKp1hBSeApqQh1ngqpZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [H.O.U.S.E](https://open.spotify.com/album/4q7mI2Qh8J13e1IWkXCXdA) | 2:31 |
 | 3 | [Mania \- Alice Merton Remix](https://open.spotify.com/track/4naUDV97XDe3gnHbKLlwPZ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Mania \(Alice Merton Remix\)](https://open.spotify.com/album/1NSwRbUInUbBVzGIsOShe5) | 1:56 |
 | 4 | [Fight For Love](https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [Fight For Love](https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T) | 3:00 |
-| 5 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 5 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 6 | [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 |
 | 7 | [Other Side](https://open.spotify.com/track/0KLHVLYUZvRvUQw8ap36r1) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Knallblech](https://open.spotify.com/artist/5FMHrJLWjs0VslgxijSXHu) | [Other Side](https://open.spotify.com/album/2QTRwmgeacO1ghhI1VSt79) | 3:07 |
 | 8 | [make u mine](https://open.spotify.com/track/37SVIAV3BnSkAbNPkM1l76) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [make u mine](https://open.spotify.com/album/05XidhkBUM8o0T8Paq5rW8) | 2:40 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [ALLES EGAL](https://open.spotify.com/track/5AoWNGYuP3rFkXsE8huqyj) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [ALLES EGAL](https://open.spotify.com/album/7kUflwzeSIHNIjhGtZLZfD) | 2:32 |
 | 80 | [Ven Aqui](https://open.spotify.com/track/6mUAjNb3UXOTV1AM3ntO1c) | [Vansessy](https://open.spotify.com/artist/38vdpGagAziiq1vcExNTwA), [The Holy Santa Barbara](https://open.spotify.com/artist/1ZaV7vibPmLl5OCje4RRgZ), [Cassie Ann](https://open.spotify.com/artist/5LJRswr6IhkRRkq1EHDuwj) | [Ven Aqui](https://open.spotify.com/album/2ZELQThaJXxgeNJPCST2yG) | 2:20 |
 | 81 | [Nicht schlecht](https://open.spotify.com/track/63oQthTX7zsNuHlvbjJWqq) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Nicht schlecht](https://open.spotify.com/album/2L6IsF10iUAn2tqVEkl8ZE) | 2:42 |
-| 82 | [Woop Woop](https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Woop Woop EP](https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg) | 4:28 |
+| 82 | [Woop Woop](https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Woop Woop EP](https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg) | 3:13 |
 | 83 | [lip service](https://open.spotify.com/track/4jyrNEv8BTSLDnmv5GDSHE) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [lip service](https://open.spotify.com/album/5hZNm3NEpofIg7WR7eI74S) | 3:28 |
 | 84 | [Certified Freak](https://open.spotify.com/track/25iI4ttwu1MYdN2outGeJN) | [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv), [VEENA](https://open.spotify.com/artist/0BXUNyRBL062O6ZQuFjxxB) | [Certified Freak](https://open.spotify.com/album/1HSmK7Ndz96HEPW0M2bcDq) | 2:30 |
 | 85 | [Don't Forget \(About Me\)](https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Don't Forget \(About Me\)](https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc) | 2:51 |
 | 86 | [Cash4Gold](https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Cash4Gold / Close2Mine](https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX) | 3:12 |
 | 87 | [Hyperfocused](https://open.spotify.com/track/2TZHX4W3Bmy4h2VHls9x84) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Hyperfocused](https://open.spotify.com/album/6dI1WUAn7dvkIsyspE9ZGO) | 2:16 |
 
-Snapshot ID: `AAAAADYcnElN9dob/fG9zxFPuLfmYYdW`
+Snapshot ID: `AAAAAL0ME16Oale6nTwzi1YTRYNkxOmc`

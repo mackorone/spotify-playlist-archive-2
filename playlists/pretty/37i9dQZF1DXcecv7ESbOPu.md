@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Norlie & KKV, Benjamin Ingrosso och Snoh Aalegra med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,721 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,709 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 75 | [DND](https://open.spotify.com/track/1qa32N7vAY5ZQs2LR2dANT) | [3Z](https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei) | [DND](https://open.spotify.com/album/0Ml3SZ6bAyT8hKEeVpTvuu) | 2:12 |
 | 76 | [Obsession \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Obsession \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39) | 2:34 |
 | 77 | [Creep Into My Mind](https://open.spotify.com/track/1vfoTzbVcsxlKeR8VE2reM) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Creep Into My Mind](https://open.spotify.com/album/28r7oLyn7N7wIFoBw265Af) | 7:27 |
-| 78 | [F\*\*\* No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [F\*\*\* No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
+| 78 | [Fuck No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Fuck No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
 | 79 | [Shame On You](https://open.spotify.com/track/7pqxkmxv8fnEzisucirWGq) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Shame On You](https://open.spotify.com/album/5SqJ2McLcIayAlHdHNdpge) | 3:14 |
 | 80 | [Melanie](https://open.spotify.com/track/3aXCJxmjxwXTcHX8hx199P) | [Stephanie Gilbert](https://open.spotify.com/artist/7s2F8U3eodhEj30m3ghK38) | [Melanie](https://open.spotify.com/album/50lkDxX3wRs8UmnqeITOoB) | 3:47 |
 | 81 | [VÄLKÄND](https://open.spotify.com/track/6pOTK7Oq1PNmzMGhEvmRG4) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [VÄLKÄND](https://open.spotify.com/album/4mCxu1myGXHTzMZMvBLSTc) | 2:01 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 98 | [Trouble](https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf) | [nikocorlin](https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm) | [Trouble](https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3) | 2:22 |
 | 99 | [Hot & talking](https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Hot & talking](https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW) | 3:11 |
 
-Snapshot ID: `AAAAAAUt3DhemFqVQfD+AvfGzpIuxCgJ`
+Snapshot ID: `AAAAAHBmK1i35xSuCTS1QBrTJo34nXfb`

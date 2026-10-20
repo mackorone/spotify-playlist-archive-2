@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u062d\u0644\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \ud83d\udcfa\u2728",
-  "num_followers": 57937,
+  "num_followers": 57953,
   "original_name": "\u0623\u063a\u0627\u0646\u064a \u0645\u0633\u0644\u0633\u0644\u0627\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMMQRL3x/voT6GFNOYN3+xwjJXfW",
+  "snapshot_id": "AAAAAHzGs0Jdt7lI71Vet5cLXnuvT4HG",
   "tracks": [
     {
       "added_at": "2026-03-06 17:51:55",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
-        "name": "\u0648\u0644\u0627\u062f \u0627\u0644\u0634\u0645\u0633",
-        "url": "https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO"
-      },
-      "artists": [
-        {
-          "name": "Essam Sasa",
-          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
-        }
-      ],
-      "duration_ms": 154958,
-      "name": "\u0648\u0644\u0627\u062f \u0627\u0644\u0634\u0645\u0633",
-      "url": "https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
         "name": "\u0643\u0644\u0643\u0648\u0627 \u062e\u0627\u064a\u0646\u064a\u0646",
         "url": "https://open.spotify.com/album/53UzZGVZBY21TAdvcG4kZl"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 241800,
       "name": "\u0643\u0644\u0643\u0648\u0627 \u062e\u0627\u064a\u0646\u064a\u0646",
       "url": "https://open.spotify.com/track/5CxPmDlf5OyhaRbuh09tWj"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "\u0648\u0644\u0627\u062f \u0627\u0644\u0634\u0645\u0633",
+        "url": "https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "duration_ms": 154958,
+      "name": "\u0648\u0644\u0627\u062f \u0627\u0644\u0634\u0645\u0633",
+      "url": "https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM"
     },
     {
       "added_at": "2026-07-10 14:41:36",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
+        "name": "Millionaire (Music from 100 Wesh TV Series)",
+        "url": "https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L"
+      },
+      "artists": [
+        {
+          "name": "El Madfaagya",
+          "url": "https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub"
+        }
+      ],
+      "duration_ms": 281532,
+      "name": "Millionaire - Music from 100 Wesh TV Series",
+      "url": "https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
         "name": "LW",
         "url": "https://open.spotify.com/album/2hdAO3uXLqhPqeyeNybMvu"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 201951,
       "name": "LW",
       "url": "https://open.spotify.com/track/0lfrT9HNAKihongwIDvNKX"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "Millionaire (Music from 100 Wesh TV Series)",
-        "url": "https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L"
-      },
-      "artists": [
-        {
-          "name": "El Madfaagya",
-          "url": "https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub"
-        }
-      ],
-      "duration_ms": 281532,
-      "name": "Millionaire - Music from 100 Wesh TV Series",
-      "url": "https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv"
     },
     {
       "added_at": "2026-07-10 14:41:36",
@@ -771,8 +771,8 @@
     {
       "added_at": "2026-07-10 14:41:36",
       "album": {
-        "name": "B3edt",
-        "url": "https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR"
+        "name": "Mansethosh Men Mosalsal El Aghar",
+        "url": "https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
         }
       ],
-      "duration_ms": 124453,
-      "name": "B3edt",
-      "url": "https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG"
+      "duration_ms": 240706,
+      "name": "Mansethosh Men Mosalsal El Aghar",
+      "url": "https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ"
     },
     {
       "added_at": "2026-07-10 14:41:36",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/4A4WhP3xYQbENo8WaaCkTt"
     },
     {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "Etdaret",
+        "url": "https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE"
+      },
+      "artists": [
+        {
+          "name": "Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Etdaret",
+      "url": "https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5"
+    },
+    {
       "added_at": "2026-07-10 14:41:36",
       "album": {
         "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0645\u0643\u062a\u0648\u0628 \u0639\u0644\u064a\u0627)",
@@ -979,22 +995,6 @@
       "duration_ms": 131134,
       "name": "Al Atawla Theme Song (From Al Atawla Series Season 2)",
       "url": "https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "Etdaret",
-        "url": "https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE"
-      },
-      "artists": [
-        {
-          "name": "Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Etdaret",
-      "url": "https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ"
     },
     {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "\u0639\u0644\u0649 \u0642\u062f \u0627\u0644\u062d\u0628",
-        "url": "https://open.spotify.com/album/22DrlBN2ME6ESMMLt7eMLH"
-      },
-      "artists": [
-        {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
-        }
-      ],
-      "duration_ms": 204518,
-      "name": "\u0639\u0644\u0649 \u0642\u062f \u0627\u0644\u062d\u0628",
-      "url": "https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum"
-    },
-    {
       "added_at": "2026-07-10 14:41:36",
       "album": {
         "name": "\u062f\u0648\u0627\u0631\u0629",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
-        "name": "\u062d\u0644\u0648\u064a\u0646 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649)",
-        "url": "https://open.spotify.com/album/309j0JUufa9eqAgaIagUab"
+        "name": "\u0639\u0644\u0649 \u0642\u062f \u0627\u0644\u062d\u0628",
+        "url": "https://open.spotify.com/album/22DrlBN2ME6ESMMLt7eMLH"
       },
       "artists": [
         {
-          "name": "Houda",
-          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
         }
       ],
-      "duration_ms": 156973,
-      "name": "\u062d\u0644\u0648\u064a\u0646 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649",
-      "url": "https://open.spotify.com/track/7hKeE3R65MTyoY7YTQcI0F"
+      "duration_ms": 204518,
+      "name": "\u0639\u0644\u0649 \u0642\u062f \u0627\u0644\u062d\u0628",
+      "url": "https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -1107,6 +1091,22 @@
       "duration_ms": 234080,
       "name": "\u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0645\u0633\u0644\u0633\u0644 \u062d\u0636\u0631\u0629 \u0627\u0644\u0645\u062a\u0647\u0645 \u0627\u0628\u0649",
       "url": "https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "\u062d\u0644\u0648\u064a\u0646 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649)",
+        "url": "https://open.spotify.com/album/309j0JUufa9eqAgaIagUab"
+      },
+      "artists": [
+        {
+          "name": "Houda",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "\u062d\u0644\u0648\u064a\u0646 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649",
+      "url": "https://open.spotify.com/track/7hKeE3R65MTyoY7YTQcI0F"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/3b2VttERPyva2NxrG6F58Z"
     },
     {
-      "added_at": "2026-07-10 14:41:36",
-      "album": {
-        "name": "Darbt M3lm (From Darbt M3lm Series)",
-        "url": "https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Sheba",
-          "url": "https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Darbt M3lm - From Darbt M3lm Series",
-      "url": "https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g"
-    },
-    {
       "added_at": "2026-03-06 17:51:55",
       "album": {
         "name": "L3adaw",
@@ -1519,6 +1503,22 @@
       "duration_ms": 209400,
       "name": "L3adaw",
       "url": "https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo"
+    },
+    {
+      "added_at": "2026-07-10 14:41:36",
+      "album": {
+        "name": "Darbt M3lm (From Darbt M3lm Series)",
+        "url": "https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Sheba",
+          "url": "https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Darbt M3lm - From Darbt M3lm Series",
+      "url": "https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-07-10 14:41:36",
       "album": {
+        "name": "The Seven Commandments (\u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a \u0627\u0644\u062a\u0635\u0648\u064a\u0631\u064a\u0629 \u0644\u0644\u0645\u0633\u0644\u0633\u0644)",
+        "url": "https://open.spotify.com/album/0bhOn7yz8wRLvxyQZaTRbO"
+      },
+      "artists": [
+        {
+          "name": "Hesham Nazih",
+          "url": "https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT"
+        }
+      ],
+      "duration_ms": 187637,
+      "name": "\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u0633\u0628\u0639 \u0648\u0635\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/5zGc2WtsJZXBsbqaCKBDtW"
+    },
+    {
+      "added_at": "2026-07-10 14:41:36",
+      "album": {
         "name": "Shara Elsama",
         "url": "https://open.spotify.com/album/4hWMHH057g3Wuy0efCs9je"
       },
@@ -1577,20 +1593,20 @@
       "url": "https://open.spotify.com/track/4rmt3rs6KdMzeFZWX7I84K"
     },
     {
-      "added_at": "2026-07-10 14:41:36",
+      "added_at": "2026-03-06 17:51:55",
       "album": {
-        "name": "The Seven Commandments (\u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a \u0627\u0644\u062a\u0635\u0648\u064a\u0631\u064a\u0629 \u0644\u0644\u0645\u0633\u0644\u0633\u0644)",
-        "url": "https://open.spotify.com/album/0bhOn7yz8wRLvxyQZaTRbO"
+        "name": "\u0625\u062d\u0633\u0627\u0633\u064a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0646\u0641\u0633)",
+        "url": "https://open.spotify.com/album/0udL0OEeCCNxKWxavW3I0L"
       },
       "artists": [
         {
-          "name": "Hesham Nazih",
-          "url": "https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT"
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
         }
       ],
-      "duration_ms": 187637,
-      "name": "\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u0633\u0628\u0639 \u0648\u0635\u0627\u064a\u0627",
-      "url": "https://open.spotify.com/track/5zGc2WtsJZXBsbqaCKBDtW"
+      "duration_ms": 196259,
+      "name": "\u0625\u062d\u0633\u0627\u0633\u064a - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0646\u0641\u0633",
+      "url": "https://open.spotify.com/track/4ESpKLv5VIWpMTOc6a93Lw"
     },
     {
       "added_at": "2026-07-10 14:41:36",
@@ -1611,22 +1627,6 @@
       "duration_ms": 194300,
       "name": "Kelma ( Intro Of El Harsha El Sabaa Series)",
       "url": "https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "\u0625\u062d\u0633\u0627\u0633\u064a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0646\u0641\u0633)",
-        "url": "https://open.spotify.com/album/0udL0OEeCCNxKWxavW3I0L"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 196259,
-      "name": "\u0625\u062d\u0633\u0627\u0633\u064a - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0646\u0641\u0633",
-      "url": "https://open.spotify.com/track/4ESpKLv5VIWpMTOc6a93Lw"
     },
     {
       "added_at": "2026-07-10 14:41:36",

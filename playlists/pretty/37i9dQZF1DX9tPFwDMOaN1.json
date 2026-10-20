@@ -1,44 +1,44 @@
 {
-  "description": "The new & hottest K-Pop is here! (Cover: MEOVV)",
-  "num_followers": 6126297,
+  "description": "The new & hottest K-Pop is here! (Cover: NMIXX)",
+  "num_followers": 6126108,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+ZFUy9/fl+x1hBcsnLMeYEqKkz",
+  "snapshot_id": "AAAAANkz8II7R6vlIQGV1CQHdN0yaGOK",
   "tracks": [
     {
-      "added_at": "2026-10-14 04:37:52",
+      "added_at": "2026-10-19 09:06:45",
       "album": {
-        "name": "GO HARD",
-        "url": "https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo"
+        "name": "Strange Muse",
+        "url": "https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 187833,
-      "name": "GO HARD",
-      "url": "https://open.spotify.com/track/3P2MygdWs8lorZnwV3KrsJ"
+      "duration_ms": 200000,
+      "name": "\uae34 \uc18c\uc6d0 (Birthday Wish)",
+      "url": "https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv"
     },
     {
-      "added_at": "2026-10-02 09:00:20",
+      "added_at": "2026-10-19 09:27:36",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm"
       },
       "artists": [
         {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 172978,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn"
     },
     {
       "added_at": "2026-10-16 05:15:58",
@@ -59,6 +59,38 @@
       "duration_ms": 208000,
       "name": "NEON",
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
+    },
+    {
+      "added_at": "2026-10-14 04:37:52",
+      "album": {
+        "name": "GO HARD",
+        "url": "https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 187833,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/3P2MygdWs8lorZnwV3KrsJ"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -803,38 +835,6 @@
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Glow ME",
-        "url": "https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Vitamin ME",
-      "url": "https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "One - Spotify Singles",
-        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
-      },
-      "artists": [
-        {
-          "name": "DxS",
-          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "One - Spotify Singles",
-      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Fontaines D.C., The Avalanches, Olivia Rodrigo & Chappell Roan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,764 likes - 69 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,751 likes - 69 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 68 | [Fantasy](https://open.spotify.com/track/78p5QIjMqUurh4LTbAFm4x) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn), [Taiyu Fujiwara](https://open.spotify.com/artist/6YQRaLwG5sXsugAhlY5Lx3) | [Fantasy](https://open.spotify.com/album/5Fkebg96kutu73o4ATRAXj) | 3:09 |
 | 69 | [Womb Glow](https://open.spotify.com/track/38SLp8yyu7783yCmeRI3bd) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Womb Glow](https://open.spotify.com/album/7u69VcuKFgZJwFcAagHUj1) | 3:27 |
 
-Snapshot ID: `AAAAAGUsnPM/sP5vk6xRy/b0NbmYPkr5`
+Snapshot ID: `AAAAAA4yo7pDJNukZHKU8Jm51K4NLH3z`

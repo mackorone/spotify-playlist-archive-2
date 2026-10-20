@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Young Cister is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901,773 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901,640 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 49 | [AMNESIA](https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [ITALO MIXTAPE VOL\. 3](https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK) | 2:47 |
 | 50 | [Kobe Brray](https://open.spotify.com/track/7l0P7PKi5SjdOyln7vWgN1) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Kobe Brray](https://open.spotify.com/album/2lvkKE5JBo1gYjoc8cFPgu) | 2:38 |
 
-Snapshot ID: `AAAAAIjLJqqqZeya50LJ2rXWLKtHwsaV`
+Snapshot ID: `AAAAAPzF+CXn7/4GC26YavFWe0xkPhxH`

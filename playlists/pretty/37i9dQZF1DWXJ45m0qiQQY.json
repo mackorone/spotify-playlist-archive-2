@@ -1,12 +1,12 @@
 {
   "description": "chilling beats for haunted halloween vibes \ud83d\udc7b \ud83c\udf83",
-  "num_followers": 33482,
+  "num_followers": 34306,
   "original_name": "spooky halloween lofi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5mFUCmjw5mZQKbHLEsSwKEoAYR",
+  "snapshot_id": "AAAAAJFDBxk52gYaesrV5HF9Q9sIfm+b",
   "tracks": [
     {
       "added_at": "2026-10-01 12:49:12",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "frightnight",
-        "url": "https://open.spotify.com/album/4wZ6nlG4TlSwMIak2WUDWt"
-      },
-      "artists": [
-        {
-          "name": "Rustique Beats",
-          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
-        }
-      ],
-      "duration_ms": 125163,
-      "name": "frightnight",
-      "url": "https://open.spotify.com/track/4dgrF2RhBqxHFYb9Jv7ftk"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
         "name": "Grave Wanderer",
         "url": "https://open.spotify.com/album/4ZbRlpXofSuyA1MZgSXSrn"
       },
@@ -187,22 +171,6 @@
       "duration_ms": 131437,
       "name": "Carving Shadows",
       "url": "https://open.spotify.com/track/6ojL3fOHiwItA4YG6i2Bva"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Pumpkin Smile",
-        "url": "https://open.spotify.com/album/3849fFKNGB688cTAPuI5F7"
-      },
-      "artists": [
-        {
-          "name": "Lyonti",
-          "url": "https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Pumpkin Smile",
-      "url": "https://open.spotify.com/track/7rfXRRLgpoT7nyqYdiLimv"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -337,6 +305,26 @@
       "url": "https://open.spotify.com/track/6tBKHHzxVINin74v5rBwYM"
     },
     {
+      "added_at": "2026-10-19 14:57:51",
+      "album": {
+        "name": "October Cassette",
+        "url": "https://open.spotify.com/album/5u9gTWkNuNywcUElVxfasY"
+      },
+      "artists": [
+        {
+          "name": "Felt Galaxy",
+          "url": "https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot"
+        },
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "October Cassette",
+      "url": "https://open.spotify.com/track/4yrWWjc2sxWNv1oNbKkuhy"
+    },
+    {
       "added_at": "2026-10-01 12:49:12",
       "album": {
         "name": "The Harvest Room",
@@ -359,6 +347,22 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
+        "name": "frightnight",
+        "url": "https://open.spotify.com/album/4wZ6nlG4TlSwMIak2WUDWt"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "duration_ms": 125163,
+      "name": "frightnight",
+      "url": "https://open.spotify.com/track/4dgrF2RhBqxHFYb9Jv7ftk"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
         "name": "Graveyard Ghosts",
         "url": "https://open.spotify.com/album/4ggiQpmKbn1jkZIE3zFkx4"
       },
@@ -375,22 +379,6 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "Foggy Night",
-        "url": "https://open.spotify.com/album/3B6HYNWDSQya3fPyvY0gMF"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Dor",
-          "url": "https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Foggy Night",
-      "url": "https://open.spotify.com/track/2xE82RYm9l7wpeuoZr1mwn"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
         "name": "Contaminated",
         "url": "https://open.spotify.com/album/0crLkxgVoCwtoLobWuLO4I"
       },
@@ -403,6 +391,22 @@
       "duration_ms": 131142,
       "name": "Contaminated",
       "url": "https://open.spotify.com/track/3ETxeUzeDbDrwb3V5bDxyJ"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
+        "name": "Pumpkin Smile",
+        "url": "https://open.spotify.com/album/3849fFKNGB688cTAPuI5F7"
+      },
+      "artists": [
+        {
+          "name": "Lyonti",
+          "url": "https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Pumpkin Smile",
+      "url": "https://open.spotify.com/track/7rfXRRLgpoT7nyqYdiLimv"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -435,22 +439,6 @@
       "duration_ms": 155294,
       "name": "the pumpkins became alive",
       "url": "https://open.spotify.com/track/4GJgT47RCDb6qlRPbeTXRe"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/69OAL3DwBmAReYpjc8ollR"
-      },
-      "artists": [
-        {
-          "name": "X84",
-          "url": "https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4"
-        }
-      ],
-      "duration_ms": 144537,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/6pjkHDwQfkkXZ7q60xunbw"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -647,22 +635,6 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "Cypress Manor",
-        "url": "https://open.spotify.com/album/4PxaWEiSCXAjnRZODhUUGk"
-      },
-      "artists": [
-        {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        }
-      ],
-      "duration_ms": 151637,
-      "name": "Creatures of the Night",
-      "url": "https://open.spotify.com/track/5jHf2sj0YSykMAs7sNRYfj"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
         "name": "Under The Pumpkin Moon",
         "url": "https://open.spotify.com/album/3ORVRZgFR9EAYllEAbU6sz"
       },
@@ -675,6 +647,22 @@
       "duration_ms": 120769,
       "name": "Under The Pumpkin Moon",
       "url": "https://open.spotify.com/track/2AxVEisUzoRdr8hLvVywyW"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/69OAL3DwBmAReYpjc8ollR"
+      },
+      "artists": [
+        {
+          "name": "X84",
+          "url": "https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4"
+        }
+      ],
+      "duration_ms": 144537,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6pjkHDwQfkkXZ7q60xunbw"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -1227,26 +1215,6 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "Hidden Spell",
-        "url": "https://open.spotify.com/album/1G2lrJsyv2TlgvLXUITvxd"
-      },
-      "artists": [
-        {
-          "name": "Lenny B",
-          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
-        },
-        {
-          "name": "Beyond Moments",
-          "url": "https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Hidden Spell",
-      "url": "https://open.spotify.com/track/0wDV0CmQmVEuuwGTMuFvR3"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
         "name": "Spooky Ghost",
         "url": "https://open.spotify.com/album/3XqDHNLMnKFCcKB0e0KcDf"
       },
@@ -1427,6 +1395,26 @@
       "duration_ms": 174324,
       "name": "Spooky Mansion",
       "url": "https://open.spotify.com/track/2IXjI7dRUwuWPSNmcQfi0T"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
+        "name": "Hidden Spell",
+        "url": "https://open.spotify.com/album/1G2lrJsyv2TlgvLXUITvxd"
+      },
+      "artists": [
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        },
+        {
+          "name": "Beyond Moments",
+          "url": "https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Hidden Spell",
+      "url": "https://open.spotify.com/track/0wDV0CmQmVEuuwGTMuFvR3"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -1631,70 +1619,6 @@
       "duration_ms": 82879,
       "name": "Spooks",
       "url": "https://open.spotify.com/track/5yIgOWI9g3xpbiJy0Lw8UL"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Night of the Living Drum Machines: Spooky Halloween Lofi",
-        "url": "https://open.spotify.com/album/1GeDaKfOn7AYnxO73YaeTd"
-      },
-      "artists": [
-        {
-          "name": "saint rumi",
-          "url": "https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ"
-        },
-        {
-          "name": "brrt",
-          "url": "https://open.spotify.com/artist/1R7fJ5VCICKss7K0as6jkS"
-        }
-      ],
-      "duration_ms": 132768,
-      "name": "no escape",
-      "url": "https://open.spotify.com/track/0zDQhi2Zmp8fb1UANtDKzp"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Run!",
-        "url": "https://open.spotify.com/album/57n59GNS2R6QEmeHigDap1"
-      },
-      "artists": [
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
-        },
-        {
-          "name": "Cauzy",
-          "url": "https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl"
-        }
-      ],
-      "duration_ms": 108757,
-      "name": "Run!",
-      "url": "https://open.spotify.com/track/5CWGYOI8ydi1R4Hfre9JvI"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Halloween Vibes Vol.1",
-        "url": "https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu"
-      },
-      "artists": [
-        {
-          "name": "Picture Talk",
-          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
-        },
-        {
-          "name": "Chilled Cat",
-          "url": "https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl"
-        },
-        {
-          "name": "Spooky Cat",
-          "url": "https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Trick or Treats",
-      "url": "https://open.spotify.com/track/090ynlUUvHNeUFv1oOGwp3"
     },
     {
       "added_at": "2026-10-01 12:49:12",

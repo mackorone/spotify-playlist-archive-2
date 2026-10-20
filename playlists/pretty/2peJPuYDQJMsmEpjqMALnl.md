@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 320,216 likes - 114 songs - 8 hr 12 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 320,192 likes - 114 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 105 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 106 | [Rio \- 2009 Remaster](https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:37 |
 | 107 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 |
-| 108 | [Under Pressure \(feat\. David Bowie\)](https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd) | 4:08 |
+| 108 | [Under Pressure \(feat\. David Bowie\)](https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd) | 4:06 |
 | 109 | [Look Away \- Nashville Session](https://open.spotify.com/track/2oEG7nI3Aq7USvOHcnsC33) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [Driving To Damascus \(Deluxe Edition\)](https://open.spotify.com/album/2kKLIkoQGiimU6Yv0XHsZe) | 4:30 |
 | 110 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
 | 111 | [Rock You Like a Hurricane \- 2015 \- Remaster](https://open.spotify.com/track/4r0BEm5Y48GlugiYpDwK27) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [From The First Sting](https://open.spotify.com/album/49C8yGAU4o4k9wC0MnHECA) | 4:12 |

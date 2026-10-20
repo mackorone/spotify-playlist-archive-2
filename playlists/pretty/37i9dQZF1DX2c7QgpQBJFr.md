@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🙃🍬 cover: Giuse The Lizia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,740 likes - 79 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,741 likes - 79 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 78 | [Paramia](https://open.spotify.com/track/1RwFjtqHnZAlVbZmupmSkK) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 3:28 |
 | 79 | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/album/2TlHQ2CyD17BEPeXC5cuim) | 2:55 |
 
-Snapshot ID: `AAAAAHCIxeMlvjza14tdQ5QgHRNDPCow`
+Snapshot ID: `AAAAAH9I1btvFsi0dNMN/D3jUK8OeYpV`

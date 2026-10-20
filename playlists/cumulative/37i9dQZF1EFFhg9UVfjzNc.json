@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Deus Entre N\u00f3s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2p7Ru7jupOWmX3rMRcyVdP"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315073,
+      "name": "Deus Entre N\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/13sOyqLdLnX0UhtZB1KCBB"
+    },
+    {
+      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
       },
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 422333,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"

@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-139 songs - 4 hr 29 min
+140 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [floating!](https://open.spotify.com/track/2aNSeFTOT0g94FsTYFhZpn) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [floating!](https://open.spotify.com/album/25bETwAaO6uWv6RtDiLxD9) | 1:04 | 2024-12-14 |  |
 | [for you](https://open.spotify.com/track/48gn8xtsCaYQjBnHmVMvSN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [for you](https://open.spotify.com/album/3cB8j0mIGPbXfpsqHF9QgW) | 1:09 | 2025-05-11 |  |
 | [free falling](https://open.spotify.com/track/6P0fdIOhMJdrkzaqrCgMpE) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [free falling](https://open.spotify.com/album/2466ogzhqDOXmr0T4J3l7g) | 1:31 | 2025-09-12 | 2026-09-24 |
-| [freeze up](https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [freeze up](https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN) | 1:57 | 2024-12-14 |  |
+| [FREEMYSOUL](https://open.spotify.com/track/4H7n1ZRInTptvHZ5Qpl0RP) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [FREEMYSOUL](https://open.spotify.com/album/5RrHs976XuFkbzJBzR2DKA) | 1:36 | 2026-10-20 |  |
+| [freeze up](https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [freeze up](https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN) | 1:57 | 2024-12-14 | 2026-10-20 |
 | [fucko boingo](https://open.spotify.com/track/3SXWgSkpJvfS6C32DZhthF) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 1:03 | 2026-02-12 | 2026-02-13 |
 | [gamer](https://open.spotify.com/track/6YKBe2rIEOruhhQyMz3gZH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [gamer](https://open.spotify.com/album/0jiXdQvAuGADyf3eszdcOd) | 1:11 | 2025-07-20 | 2025-09-16 |
 | [God has me in Her design \- Instrumental](https://open.spotify.com/track/3vAOyqTWfCQSE41M81H4Aa) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:08 | 2026-07-23 | 2026-07-31 |

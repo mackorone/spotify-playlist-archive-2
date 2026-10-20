@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Growing up Beside You",
+      "url": "https://open.spotify.com/track/7tHbgrKoNIzm4h0X7oHNBz"
+    },
+    {
+      "album": {
         "name": "First Place",
         "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
       },
@@ -2516,6 +2534,24 @@
       "duration_ms": 295675,
       "name": "House Song",
       "url": "https://open.spotify.com/track/5swZvDSi78Znk4rlmwHNnj"
+    },
+    {
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179106,
+      "name": "Human Angel",
+      "url": "https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO"
     },
     {
       "album": {

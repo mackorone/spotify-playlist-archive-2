@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,067 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,093 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Alhaja](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 2:08 |
 | 50 | [Pourquoi ??](https://open.spotify.com/track/1BLdz8Hfb3my3XKJapaMYG) | [Dayarga](https://open.spotify.com/artist/5PcBbqK2yMNnbp7c3hRDuX) | [Pourquoi ??](https://open.spotify.com/album/6Qn1X8h93QFtKfdu0mwQ5W) | 2:17 |
 
-Snapshot ID: `AAAAAJkrz22g+pzVflW+cE0CtqteZSJu`
+Snapshot ID: `AAAAAIwyBv8ra9/81va0A3fKf8H/8vTw`

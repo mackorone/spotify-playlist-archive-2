@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Veer Sandhu,  Bhallwaan, Gur Sidhu and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,256 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,270 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Wassup](https://open.spotify.com/track/3aAeLnIdV3vbNgaWTAj2ut) | [LEJEND](https://open.spotify.com/artist/0F3a3uTeRgrTeb3YNW5h10) | [LET HIM COOK](https://open.spotify.com/album/6iKPhHoTD0gfQD5MK2d4Bm) | 2:20 |
 | 75 | [Selfmade](https://open.spotify.com/track/7nRm3qkjHvkEJuhe96KQ0r) | [Love Aujla](https://open.spotify.com/artist/2cCpeyGYvznJTh834JPrmO), [Nyc Beat](https://open.spotify.com/artist/2C7QZDt3WFMiWnrATWMpBy) | [Selfmade](https://open.spotify.com/album/4AZRz1iKxuIzCnuH3sJdPz) | 2:44 |
 
-Snapshot ID: `AAAAADHp6SYkuPSVRrBhWgu8kYWxLazm`
+Snapshot ID: `AAAAAFJhPRK3DelzK8AM+mECCjNZ2ycK`

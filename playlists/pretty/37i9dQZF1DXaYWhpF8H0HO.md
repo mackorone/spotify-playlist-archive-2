@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: The Midnight Darlings
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,947 likes - 103 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,948 likes - 103 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 102 | [facing the unknown](https://open.spotify.com/track/2RvGG1EHGxj5Cggdnbedue) | [remi the duo](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [facing the unknown](https://open.spotify.com/album/5nmJA0zYQkJfv2Cc9ANsyP) | 3:21 |
 | 103 | [I Want You Around!](https://open.spotify.com/track/1Kch0kywloea1mMAP3pFiI) | [aditt](https://open.spotify.com/artist/7cFuwo3V3uBt5FT62ap6gj), [Kantha](https://open.spotify.com/artist/72lyl9ML0272pDWp8Sm80o) | [I Want You Around!](https://open.spotify.com/album/1bYdp8Y8uPoIFRXMNhsfGl) | 2:47 |
 
-Snapshot ID: `AAAAAGUtG3fgOnxap6xVV/V9fB2yOUI4`
+Snapshot ID: `AAAAANXJXLJ2ODtB8fPiTzMYnBXfpLF3`

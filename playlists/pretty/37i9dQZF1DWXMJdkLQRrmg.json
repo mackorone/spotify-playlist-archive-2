@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 370710,
+  "num_followers": 370730,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB0gY/IA0gXWROK6RLn6uyWqNBiO",
+  "snapshot_id": "AAAAAGSiJcD1rSoUjFqjbbVLYlhd9UPa",
   "tracks": [
     {
       "added_at": "2024-07-05 19:40:49",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Can You Hear Me (Acoustic)",
+        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 174124,
+      "name": "Can You Hear Me - Acoustic",
+      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Can You Hear Me (Acoustic)",
-        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 174124,
-      "name": "Can You Hear Me - Acoustic",
-      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
     },
     {
       "added_at": "2024-07-05 19:40:49",

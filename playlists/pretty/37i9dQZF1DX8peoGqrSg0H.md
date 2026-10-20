@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: FOURTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,486 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,512 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 18 | [รักกันได้ยัง \(Approved?\) \- เพลงประกอบซีรีส์ "You Maniac เดี๋ยวจะรักซะให้บ้า"](https://open.spotify.com/track/0nKrKxHvfTXiLRsoINIY0V) | [Barcode Tinnasit](https://open.spotify.com/artist/55wWCOzRm4pL9Z01MQZVEq), [Kin Thanachai](https://open.spotify.com/artist/09WUFFAkHSBQajVcH2E27X) | [รักกันได้ยัง \(Approved?\) \[เพลงประกอบซีรีส์ "You Maniac เดี๋ยวจะรักซะให้บ้า"\]](https://open.spotify.com/album/28WS07n7l3rjwzTz3ZQ9Dj) | 3:15 |
 | 19 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
 | 20 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
-| 21 | [น่ารักเกินกำหนด \- From "ที่รักสารวัตรเธียร์"](https://open.spotify.com/track/2kYKeiblbGnScQleDDFFmD) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [น่ารักเกินกำหนด \(From "ที่รักสารวัตรเธียร์"\)](https://open.spotify.com/album/2fYrr1uK5IhXGgoegLZMns) | 2:52 |
-| 22 | [Reply\(ได้ยัง?\)](https://open.spotify.com/track/45almb5h5jODU5kqTT1rvg) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [jeffy](https://open.spotify.com/artist/1hQpgqfnQgLZcyRaEOlEtT) | [Reply\(ได้ยัง?\)](https://open.spotify.com/album/4y9MUk6HMlxMZzxxMqAFAv) | 3:10 |
-| 23 | [คิตตี้บอย](https://open.spotify.com/track/281Z16wicQilZjFPPGFvUq) | [ily](https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre) | [คิตตี้บอย](https://open.spotify.com/album/4zwMhVfRkUG1XfHFOznL59) | 2:40 |
+| 21 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
+| 22 | [น่ารักเกินกำหนด \- From "ที่รักสารวัตรเธียร์"](https://open.spotify.com/track/2kYKeiblbGnScQleDDFFmD) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [น่ารักเกินกำหนด \(From "ที่รักสารวัตรเธียร์"\)](https://open.spotify.com/album/2fYrr1uK5IhXGgoegLZMns) | 2:52 |
+| 23 | [Reply\(ได้ยัง?\)](https://open.spotify.com/track/45almb5h5jODU5kqTT1rvg) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [jeffy](https://open.spotify.com/artist/1hQpgqfnQgLZcyRaEOlEtT) | [Reply\(ได้ยัง?\)](https://open.spotify.com/album/4y9MUk6HMlxMZzxxMqAFAv) | 3:10 |
 | 24 | [เทสดี \(Tasty\)](https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr) | [NUTDAN](https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da) | [เทสดี \(Tasty\)](https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8) | 2:59 |
 | 25 | [คุณจะชอบผมไหม \(Your Type?\)](https://open.spotify.com/track/7ApNdlOBsjvmG4IiRZEpuP) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [คุณจะชอบผมไหม \(Your Type?\)](https://open.spotify.com/album/4QfuaNmBAE4PTmzBZWQmfB) | 3:08 |
 | 26 | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 
-Snapshot ID: `AAAAAG2Kj0jPyIsbpGKBtwYBxWfdqSuW`
+Snapshot ID: `AAAAAAgms6aKhovrcm6sFrdfrL1swTnB`

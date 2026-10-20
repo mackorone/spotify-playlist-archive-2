@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666501,
+  "num_followers": 666503,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwxiuLLX+uhw61hnEg2YZq3p5It",
+  "snapshot_id": "AAAAAMEcWPfDNiKZcdQ/OZygFRBfebli",
   "tracks": [
     {
       "added_at": "2024-09-01 15:34:53",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Coming Up (Remastered)",
-        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
+        "name": "House Of Love",
+        "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
       },
       "artists": [
         {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+          "name": "The House of Love",
+          "url": "https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP"
         }
       ],
-      "duration_ms": 230866,
-      "name": "Beautiful Ones (Remastered)",
-      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
+      "duration_ms": 240066,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "House Of Love",
-        "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
+        "name": "Coming Up (Remastered)",
+        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
       },
       "artists": [
         {
-          "name": "The House of Love",
-          "url": "https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP"
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Shine On",
-      "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
+      "duration_ms": 230866,
+      "name": "Beautiful Ones (Remastered)",
+      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Best Of Ash (Remastered Version)",
+        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "James: The Best Of",
         "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
       },
@@ -875,18 +891,42 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Best Of Ash (Remastered Version)",
-        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
+        "name": "His 'N' Hers",
+        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 213533,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        },
+        {
+          "name": "George Drakoulias",
+          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
+        },
+        {
+          "name": "David Bianco",
+          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -923,22 +963,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "His 'N' Hers",
-        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Urban Hymns",
         "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
       },
@@ -971,30 +995,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        },
-        {
-          "name": "George Drakoulias",
-          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
-        },
-        {
-          "name": "David Bianco",
-          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Tellin' Stories",
         "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 269840,
       "name": "One To Another",
       "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/5pH9YRGTX44n0G3p2pHBlx"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0ZyrgDl8C0Cq9Gt3nPxqvd"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1039,22 +1055,6 @@
       "duration_ms": 185266,
       "name": "Staying Out For The Summer",
       "url": "https://open.spotify.com/track/59GIjxze4m7lutOfemmKvu"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
-        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
     }
   ],
   "unique_name": "Britpop, Etc.",

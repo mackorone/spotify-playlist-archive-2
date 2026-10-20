@@ -1,13 +1,77 @@
 {
-  "description": "Best of South Asian Music. Cover: Anuv Jain",
-  "num_followers": 949313,
+  "description": "Best of South Asian Music. Cover: Hasan Raheem, Izzchughtai, Umair",
+  "num_followers": 949397,
   "original_name": "Desi Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHJT9btVGGwuKCLzQ5aB7iyjANW",
+  "snapshot_id": "AAAAAP/87mIRvnI3GhbgLlu17BK5z3ng",
   "tracks": [
+    {
+      "added_at": "2026-09-23 09:24:38",
+      "album": {
+        "name": "Rangeen | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "duration_ms": 221443,
+      "name": "Rangeen | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj"
+    },
+    {
+      "added_at": "2026-10-19 10:23:25",
+      "album": {
+        "name": "Barsaat",
+        "url": "https://open.spotify.com/album/3wm8qhMYXqteXNc8PgOiCo"
+      },
+      "artists": [
+        {
+          "name": "Banjaare",
+          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+        },
+        {
+          "name": "Roni",
+          "url": "https://open.spotify.com/artist/2yCnfrc4kI0XxzqLUMPiBk"
+        }
+      ],
+      "duration_ms": 185294,
+      "name": "Barsaat",
+      "url": "https://open.spotify.com/track/0DpUQ3mpAGy3bYsEKVy6t5"
+    },
+    {
+      "added_at": "2026-09-23 09:24:38",
+      "album": {
+        "name": "Alfaaz",
+        "url": "https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Alfaaz",
+      "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
+    },
     {
       "added_at": "2026-09-23 09:24:38",
       "album": {
@@ -23,6 +87,82 @@
       "duration_ms": 294500,
       "name": "Arz Kiya Hai | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
+    },
+    {
+      "added_at": "2026-10-19 10:23:25",
+      "album": {
+        "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Sanson Ki Mala - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/3en2lZzcpnsHSFFWDErrll"
+    },
+    {
+      "added_at": "2026-09-23 09:24:38",
+      "album": {
+        "name": "Phir Mileinge Hum",
+        "url": "https://open.spotify.com/album/0v16YCJsMxkrC0IQbVUIKn"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "Phir Mileinge Hum",
+      "url": "https://open.spotify.com/track/4MXrxm7NwiDzdIdiawJyKu"
+    },
+    {
+      "added_at": "2026-10-19 10:23:25",
+      "album": {
+        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "duration_ms": 365294,
+      "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/5uvG5xETXhVkBSr09RBjyC"
     },
     {
       "added_at": "2026-09-23 09:24:38",
@@ -51,50 +191,38 @@
     {
       "added_at": "2026-09-23 09:24:38",
       "album": {
-        "name": "Jab Talak (From \u201cCocktail 2\u201d)",
-        "url": "https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg"
+        "name": "Thodi Si Daaru",
+        "url": "https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
-      "duration_ms": 192203,
-      "name": "Jab Talak - From \u201cCocktail 2\u201d",
-      "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
+      "duration_ms": 180248,
+      "name": "Thodi Si Daaru",
+      "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
     },
     {
       "added_at": "2026-09-23 09:24:38",
       "album": {
-        "name": "Phir Mileinge Hum",
-        "url": "https://open.spotify.com/album/0v16YCJsMxkrC0IQbVUIKn"
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f"
       },
       "artists": [
         {
-          "name": "Samar Jafri",
-          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
         }
       ],
-      "duration_ms": 182535,
-      "name": "Phir Mileinge Hum",
-      "url": "https://open.spotify.com/track/4MXrxm7NwiDzdIdiawJyKu"
+      "duration_ms": 275076,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG"
     },
     {
       "added_at": "2026-09-23 09:24:38",
@@ -119,22 +247,6 @@
     {
       "added_at": "2026-09-23 09:24:38",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f"
-      },
-      "artists": [
-        {
-          "name": "Murtaza Qizilbash",
-          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
-        }
-      ],
-      "duration_ms": 275076,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG"
-    },
-    {
-      "added_at": "2026-09-23 09:24:38",
-      "album": {
         "name": "Sicario",
         "url": "https://open.spotify.com/album/2JpU8VtlJR0XFkkLeHjNzl"
       },
@@ -147,30 +259,6 @@
       "duration_ms": 153466,
       "name": "Fell For You",
       "url": "https://open.spotify.com/track/5fBghXeYCGIEVuExKytoJ9"
-    },
-    {
-      "added_at": "2026-09-23 09:24:38",
-      "album": {
-        "name": "Rangeen | Coke Studio Nu.WAV",
-        "url": "https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy"
-      },
-      "artists": [
-        {
-          "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
-        },
-        {
-          "name": "Izzchughtai",
-          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
-        },
-        {
-          "name": "Umair",
-          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
-        }
-      ],
-      "duration_ms": 221443,
-      "name": "Rangeen | Coke Studio Nu.WAV",
-      "url": "https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj"
     },
     {
       "added_at": "2026-09-23 09:24:38",
@@ -207,6 +295,22 @@
       "duration_ms": 145333,
       "name": "Majboor",
       "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"
+    },
+    {
+      "added_at": "2026-10-19 10:23:25",
+      "album": {
+        "name": "Alvida Alvida (From \"Dar-E-Nijaat\")",
+        "url": "https://open.spotify.com/album/1g4s09FqEAVlgGLayTM3D5"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "Alvida Alvida (From \"Dar-E-Nijaat\")",
+      "url": "https://open.spotify.com/track/06qVuHcsPmojVPO2wbLiDk"
     },
     {
       "added_at": "2026-09-23 09:24:38",
@@ -307,6 +411,66 @@
       "duration_ms": 147000,
       "name": "Pal Pal",
       "url": "https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo"
+    },
+    {
+      "added_at": "2026-09-23 09:24:38",
+      "album": {
+        "name": "Jab Talak (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "Jab Talak - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
+    },
+    {
+      "added_at": "2026-10-19 10:23:25",
+      "album": {
+        "name": "Ustad",
+        "url": "https://open.spotify.com/album/1z5mwvYcuzuaS0r2LaSmXG"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "JANI",
+          "url": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "duration_ms": 257241,
+      "name": "tere bin nahi lagda",
+      "url": "https://open.spotify.com/track/1sqekbeeJr7D6UjKojOOQ9"
     },
     {
       "added_at": "2026-09-23 09:24:38",
@@ -867,26 +1031,6 @@
     {
       "added_at": "2026-09-23 09:24:38",
       "album": {
-        "name": "Alfaaz",
-        "url": "https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax"
-      },
-      "artists": [
-        {
-          "name": "Hamza Malik",
-          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
-        },
-        {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "Alfaaz",
-      "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
-    },
-    {
-      "added_at": "2026-09-23 09:24:38",
-      "album": {
         "name": "Afsos",
         "url": "https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa"
       },
@@ -1219,26 +1363,6 @@
       "duration_ms": 293414,
       "name": "Teri Yaad",
       "url": "https://open.spotify.com/track/1IbvCWzAbzUle559VXyvLy"
-    },
-    {
-      "added_at": "2026-09-23 09:24:38",
-      "album": {
-        "name": "Thodi Si Daaru",
-        "url": "https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 180248,
-      "name": "Thodi Si Daaru",
-      "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
     },
     {
       "added_at": "2026-09-23 09:24:38",

@@ -1,12 +1,12 @@
 {
   "description": "Reps, riffs, rest, repeat.",
-  "num_followers": 566857,
+  "num_followers": 566845,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKd9FGIfSl0InVAzZ5v6znjc1+a/",
+  "snapshot_id": "AAAAAH/PBtyc+C3Xf8cP4nFWcSHN1yHZ",
   "tracks": [
     {
       "added_at": "2024-02-06 14:45:41",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-02-06 14:45:41",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244364,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
-    },
-    {
-      "added_at": "2024-02-06 14:45:41",
-      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/3wLMnrlPtVSADxalu9kIxK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/5UHHuxxYFnuE5KBbpl4Hzu"
+    },
+    {
+      "added_at": "2024-02-06 14:45:41",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
     },
     {
       "added_at": "2024-07-19 11:51:28",

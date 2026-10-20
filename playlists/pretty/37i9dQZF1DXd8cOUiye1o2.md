@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Experience the magic of "Do Din Ki Zindagi" from Gunmaaster G9\. Listen now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,571 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,593 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 74 | [Pyaar Manga Hai Tumhi Se](https://open.spotify.com/track/1TgLT1kdvDcNRVszU9at1P) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Pehla Pyaar Doosri Baar](https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj) | 4:45 |
 | 75 | [Raanjha Ve](https://open.spotify.com/track/1H0f09c2KuSuXMfF0scX5j) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Raanjha Ve](https://open.spotify.com/album/1aKRuchDESVVFxttPnSl9i) | 2:53 |
 
-Snapshot ID: `AAAAAD0uamNXdAAdtRmtzE5gwnqVb+ab`
+Snapshot ID: `AAAAACmAEGtC78T0SwkKewQ7x1Vnk5+x`

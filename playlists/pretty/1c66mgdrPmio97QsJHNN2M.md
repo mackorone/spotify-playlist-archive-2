@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,072 likes - 220 songs - 11 hr 20 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,085 likes - 231 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,5 +228,16 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 218 | [HALLOWEEN](https://open.spotify.com/track/38JiLWmP9P7fvybjRsZb42) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [HALLOWEEN](https://open.spotify.com/album/3GziFaNi8rP1EbWEQZMZIW) | 2:42 |
 | 219 | [Until You Needed Money](https://open.spotify.com/track/2Gd0OwQkEWHCgTAWVVlwiD) | [Echo Union](https://open.spotify.com/artist/5oVYB2abskJbkRHMKs5s4C) | [Until You Needed Money](https://open.spotify.com/album/1pjC6R9D6SJT4kZK8yL7iz) | 3:04 |
 | 220 | [back4u](https://open.spotify.com/track/3pQBf2NfvXbiTJDhUIswgi) | [LMonko](https://open.spotify.com/artist/224OHndFf8m41yMVW3UMpB) | [back4u](https://open.spotify.com/album/0o4DcKGV5IO42VWbkZnFxU) | 1:55 |
+| 221 | [nobody like uuuu<3](https://open.spotify.com/track/5bTOYeyPEF23sVidlXnzn3) | [Aaron Melody](https://open.spotify.com/artist/29sCXAGfrDIl85EFHdPdUo) | [demos \(vol\. I\)](https://open.spotify.com/album/2D6aov5tmi8RGc4E5uR5zy) | 3:24 |
+| 222 | [True And Fake](https://open.spotify.com/track/5gohpOsWbEyUVgkgEbuY0D) | [Armina Akopyan](https://open.spotify.com/artist/00L4wR1oh5qPogB48a58oV) | [True And Fake](https://open.spotify.com/album/3aNyqHAtfnYLr4LxpXBUYZ) | 3:22 |
+| 223 | [Outside My Body](https://open.spotify.com/track/4UzzEOMRt58OcAcBPDi4Aj) | [Jusom](https://open.spotify.com/artist/7JMWwc52gJTLi3ZUD52TZu) | [Nobody Really Knows](https://open.spotify.com/album/3jO9Vi86TPD44OWVmRqu9J) | 2:55 |
+| 224 | [Memories Of You](https://open.spotify.com/track/1qwu0OVHuuRu0sSVIROTA2) | [Crusader Beats](https://open.spotify.com/artist/6OW33Ql9e4VmMqntH6Vcqi) | [Memories Of You](https://open.spotify.com/album/1gFghSFOsfR7GxI6kGOjjF) | 3:11 |
+| 225 | [Mile High](https://open.spotify.com/track/1ZrU0iZJYRcXk8M1NzyyYG) | [Tower Club](https://open.spotify.com/artist/5H89qb49R35UDYoFYdVoHr) | [Mile High](https://open.spotify.com/album/5cMed73FCbJKLdOiXmyBqY) | 4:27 |
+| 226 | [Sacrifice](https://open.spotify.com/track/4qrpNka62WhqHpaCsdlWX7) | [Mudbard](https://open.spotify.com/artist/2O7GYzIURlMiGlVYc7Tvns), [Benedetta](https://open.spotify.com/artist/68sX0S2uF91vR9ALtutsjf) | [Sacrifice](https://open.spotify.com/album/1fhuWUtyCYAtOtXFzMZl3s) | 3:19 |
+| 227 | [Turn the music up](https://open.spotify.com/track/2jCtHdFD8rKdG3vKhxa0Rm) | [Fiat DeluXXe](https://open.spotify.com/artist/38M0dEg9LFd78ATuRgF0cw) | [Turn the music up](https://open.spotify.com/album/0GbM5AHwvh4i7j0ZFkv71q) | 3:07 |
+| 228 | [Wherever I Go](https://open.spotify.com/track/483AHYWX2hBt4pKtjV6jxj) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD) | 2:59 |
+| 229 | [I'm fine I'm cool](https://open.spotify.com/track/09ic8vqPSeqZXGKqFUxkk2) | [Natali May](https://open.spotify.com/artist/3BVkNWnQlAe2yWIydXsSIs) | [I'm fine I'm cool](https://open.spotify.com/album/77lOEzX70fKCDAD80yzUir) | 2:45 |
+| 230 | [Chautara](https://open.spotify.com/track/5R3TuuUhx0GkLVsBugHVQ7) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Chautara](https://open.spotify.com/album/46Fws4T4ylbbI75DBdpfq8) | 2:35 |
+| 231 | [Straitjacket Runaway](https://open.spotify.com/track/50ITvByrLfsjGspXWjd3mT) | [Circus Nerves](https://open.spotify.com/artist/0DcUB0yCRCW7ZcxoYO2QQW) | [Straitjacket Runaway](https://open.spotify.com/album/381wfVDGge5meDLifVLZLX) | 3:42 |
 
-Snapshot ID: `AAA9QKpe1pTZrOYlF68yjeccMPxfo9f8`
+Snapshot ID: `AAA9S2L93X5UM68G9ngpK4O3jUaMn2yb`

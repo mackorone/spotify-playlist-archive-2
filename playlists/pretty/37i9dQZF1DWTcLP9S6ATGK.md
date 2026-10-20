@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Matter Mos, Dere
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,214 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,198 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 63 | [Aku Minta Maaf](https://open.spotify.com/track/3GxVrNjPSjSW1vIm6plmyK) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Aku Minta Maaf](https://open.spotify.com/album/4QI39QpWAnJsGvSngT53J3) | 4:19 |
 | 64 | [Kau dan Aku](https://open.spotify.com/track/6AQg99iRnCphmQuWpUiczF) | [Narangga](https://open.spotify.com/artist/1PwBf2sGcmFUird6fIK5jr) | [Kau dan Aku](https://open.spotify.com/album/0fO1C2aTlP5PyWWmgsmQon) | 5:06 |
 | 65 | [Kilometer](https://open.spotify.com/track/6S3JMRXaZXFj28IiIrIQxb) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Kilometer](https://open.spotify.com/album/2gObiuYWoaXwagEiOrGR4b) | 4:17 |
-| 66 | [Apa Kabar \- Alternative Version](https://open.spotify.com/track/1AkocKKJTxikIMa4xnEKJE) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Apa Kabar \(Alternative Version\)](https://open.spotify.com/album/2pzyrktshsWtbNlq1z2A8P) | 4:14 |
+| 66 | [Apa Kabar \- From "Terbaik Itu Kamu"](https://open.spotify.com/track/1AkocKKJTxikIMa4xnEKJE) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Apa Kabar \(From "Terbaik Itu Kamu"\)](https://open.spotify.com/album/2pzyrktshsWtbNlq1z2A8P) | 4:14 |
 | 67 | [Jangan Buang Aku \- From "Jangan Buang Ibu"](https://open.spotify.com/track/6301hTQ5Nfhslz9nuwTY44) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Jangan Buang Aku \(From "Jangan Buang Ibu"\)](https://open.spotify.com/album/3tMhg0MILsOCiIvXU6KwhP) | 4:03 |
 | 68 | [Baik Hati](https://open.spotify.com/track/2TJf207DZG0G5j7IzcJ8nw) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Baik Hati](https://open.spotify.com/album/2schOMCoFAUIqTZXMHJyvg) | 3:51 |
 | 69 | [Kembali Berjumpa](https://open.spotify.com/track/5i38siirqMGD1rkctirGoe) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Kembali Berjumpa](https://open.spotify.com/album/6iEDJmKYSRH59O4syskqei) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Jalan Buntu](https://open.spotify.com/track/44zRIiIf41crQiLSPT85NF) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Jalan Buntu](https://open.spotify.com/album/2HGXTcaqWiBEutWXCh9mYQ) | 3:52 |
 | 100 | [Aku Merindu](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 2:44 |
 
-Snapshot ID: `AAAAALtw09cRmIgXsVk+LtdI1SpU0dNS`
+Snapshot ID: `AAAAAE8kN3n5uIhV5KCyhRaGce+K58Do`

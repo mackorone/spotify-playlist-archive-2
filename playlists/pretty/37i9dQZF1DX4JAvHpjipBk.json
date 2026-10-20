@@ -1,12 +1,12 @@
 {
   "description": "New music from Tate McRae, Zach Bryan, Lana Del Rey, Olivia Rodrigo, Chappell Roan and more!",
-  "num_followers": 4648033,
+  "num_followers": 4647751,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDv2GOqwdxdJZb0ouDJ7cPeyL8i",
+  "snapshot_id": "AAAAADUZd4WcrWayhM7ow2U9mkdE68GJ",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:11",
@@ -142,6 +142,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,
@@ -946,6 +950,10 @@
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Campe\u00f3n Gabacho",
+          "url": "https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV"
         }
       ],
       "duration_ms": 114559,

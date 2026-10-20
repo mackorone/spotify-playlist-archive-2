@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2621,
+  "num_followers": 2623,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAADNUoJPkhfVk+x5vMoBdccK",
+  "snapshot_id": "atQMAAAAAABzokccx/LaO1Ujs8cxd4yv",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 241131,
+      "name": "The Winds",
+      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 160920,
+      "name": "S\u00e1lmur Variation",
+      "url": "https://open.spotify.com/track/6pT20vUG6c3WtP7pywi6Gk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+        }
+      ],
+      "duration_ms": 173730,
+      "name": "S\u00e1lmur",
+      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean Variation",
         "url": "https://open.spotify.com/album/5TfoPVjU9j0mlP5eqfgL5z"
       },
@@ -636,9 +688,25 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 241131,
-      "name": "The Winds",
-      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
+      "duration_ms": 171161,
+      "name": "The True Meaning Of Forever",
+      "url": "https://open.spotify.com/track/3C4tEDx7E1a2zhlEiKtmGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 171564,
+      "name": "Fantas\u00eda Variation",
+      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
     },
     {
       "added_at": null,
@@ -656,25 +724,9 @@
           "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 173730,
-      "name": "S\u00e1lmur",
-      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 160920,
-      "name": "S\u00e1lmur Variation",
-      "url": "https://open.spotify.com/track/6pT20vUG6c3WtP7pywi6Gk"
+      "duration_ms": 183240,
+      "name": "V\u00edsa",
+      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
     },
     {
       "added_at": null,
@@ -704,29 +756,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 171161,
-      "name": "The True Meaning Of Forever",
-      "url": "https://open.spotify.com/track/3C4tEDx7E1a2zhlEiKtmGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lullabies for Piano and Cello",
-        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
-          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "V\u00edsa",
-      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     },
     {
       "added_at": null,
@@ -743,38 +775,6 @@
       "duration_ms": 103698,
       "name": "Nokt\u00farna Variation",
       "url": "https://open.spotify.com/track/4AnUtAQBpd8S8woFEqVgzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prosecution (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 112047,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/6NpvhXDQoz0moT08FmPAPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278298,
-      "name": "The Waves",
-      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+        "name": "Prosecution (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 171564,
-      "name": "Fantas\u00eda Variation",
-      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
+      "duration_ms": 112047,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/6NpvhXDQoz0moT08FmPAPS"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orchestral Works",
-        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
       "artists": [
         {
@@ -840,17 +840,13 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         },
         {
-          "name": "Reykjav\u00edk Orkestra",
-          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 298747,
-      "name": "Melodia Suite: Absent Minded - Orchestral Works Version",
-      "url": "https://open.spotify.com/track/7pJjeik5R9sbD3yrYIwfZl"
+      "duration_ms": 92257,
+      "name": "Somn\u00eda",
+      "url": "https://open.spotify.com/track/16CJHOcR0iksFRellAVvs1"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

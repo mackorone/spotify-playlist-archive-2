@@ -156,7 +156,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 177566,
       "name": "Adey Mad",
       "url": "https://open.spotify.com/track/02lFGo5cHjVmVEThvrKuy1"
@@ -248,6 +248,28 @@
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
+    },
+    {
+      "album": {
+        "name": "2nd Step",
+        "url": "https://open.spotify.com/album/13F37l0pvS6Y8MFLdt56CP"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160741,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF"
     },
     {
       "album": {

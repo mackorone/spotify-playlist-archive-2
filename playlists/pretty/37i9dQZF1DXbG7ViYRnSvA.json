@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 25772,
+  "num_followers": 25773,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPnVH6ugJa43XCYplXC3pSAV1oGd",
+  "snapshot_id": "AAAAAMfuLA+XkX1fxB6lAY8E6Wf7LKxu",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -407,6 +407,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Everything's Beautiful",
+        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 449774,
+      "name": "Maiysha (So Long) (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dame Dash Presents Paid In Full / Dream Team (Soundtrack)",
         "url": "https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy"
       },
@@ -439,30 +463,6 @@
       "duration_ms": 372026,
       "name": "Champions",
       "url": "https://open.spotify.com/track/3mmyWgZhhL8QlblPguccP7"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Everything's Beautiful",
-        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 449774,
-      "name": "Maiysha (So Long) (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
     },
     {
       "added_at": "2022-10-01 16:00:00",

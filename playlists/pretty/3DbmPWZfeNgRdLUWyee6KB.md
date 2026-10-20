@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 151 songs - 8 hr 57 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 154 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 149 | [Mi dimenticherai](https://open.spotify.com/track/1co4cBTJ0WQtxyNtQEwXT2) | [A.O.B](https://open.spotify.com/artist/45l5RrUy1Y90pinFGGKais) | [Mi dimenticherai](https://open.spotify.com/album/5hV5Oq6fMr9cD27N8xaSg5) | 2:01 |
 | 150 | [Novembre](https://open.spotify.com/track/2doFukGt8lBRqKd72vqyJm) | [Tony Hate](https://open.spotify.com/artist/0LLWf7FSYyzfQwjHTSBPeo) | [Novembre](https://open.spotify.com/album/6pZcuAwek6kiCX95jIwWia) | 3:45 |
 | 151 | [In the Sky](https://open.spotify.com/track/4TDBRNtX9kbQwwFIFzNke8) | [Neil Hatton](https://open.spotify.com/artist/1iudBy0VzOcvJdLy8l0oVC) | [In the Sky](https://open.spotify.com/album/7lR4YXUckhTlm7MfQjXgt9) | 6:40 |
+| 152 | [Der Weg zu dir selbst](https://open.spotify.com/track/04L5pxGOOa89TWwEnzMuuf) | [Parksj](https://open.spotify.com/artist/71guvFwcryVsE5kZwDLH07) | [Der Weg zu dir selbst](https://open.spotify.com/album/3CI8PcbVbgb3Lx6anEwX5t) | 2:29 |
+| 153 | [Olas en tus cielos](https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:02 |
+| 154 | [Homeless Heart And Wandering Mind](https://open.spotify.com/track/1E4YC0WGm6nQzASaNWN1Vn) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Homeless Hearts and Wandering Minds](https://open.spotify.com/album/5I3EIhLUTnOPHUKQDx4a6K) | 3:15 |
 
-Snapshot ID: `AAAYtSuDZf8ZR0I1SRoFTE2qaU2T1hWx`
+Snapshot ID: `AAAYuPxunDVaKlBB0fc2B77Rotdsencl`

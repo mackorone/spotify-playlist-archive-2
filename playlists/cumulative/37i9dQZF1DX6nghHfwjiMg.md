@@ -4,7 +4,7 @@
 
 > Artistas para descubrir 📸 Maia Reficco
 
-355 songs - 18 hr 16 min
+357 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 | 2023-08-23 | 2024-05-08 |
 | [malo](https://open.spotify.com/track/76U4q9ZuZAtk1BPN96H6Zz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:03 | 2021-11-11 | 2023-06-02 |
 | [MALTRATO](https://open.spotify.com/track/1qBtriIyGMIvTgTfUITkRu) | [Erredoblebe](https://open.spotify.com/artist/3Y2Voc2TF1fF3QIOM1pgzw), [Keko DJ](https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i) | [MALTRATO](https://open.spotify.com/album/1ChbNutG0VXABrgykgU2oG) | 2:22 | 2024-05-07 | 2025-05-10 |
+| [Manto Negro](https://open.spotify.com/track/0npcH5rvqo1dKr96CzLM4Q) | [Crewrod](https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk) | [Zorro Blanco Manto Negro](https://open.spotify.com/album/4N11WS9pWVr7iZwov94dpA) | 3:49 | 2026-10-19 |  |
 | [Marfil](https://open.spotify.com/track/2C7a49yOHA2eUHndOZ8YjJ) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Marfil / E.M.C](https://open.spotify.com/album/3kGuw41SZs0uBDTaTudef1) | 1:42 | 2026-04-14 |  |
 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 | 2023-06-01 | 2024-05-08 |
 | [MARIMBA GRINGA](https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [MARIMBA GRINGA](https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS) | 3:05 | 2022-05-05 | 2023-06-02 |
@@ -272,6 +273,7 @@
 | [PERDÓN](https://open.spotify.com/track/5YSuQJsJoFrEPUSwfydSmj) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [BAM: LA SUITE](https://open.spotify.com/album/7Foru1jdTrjfzOjVkQuYeS) | 2:58 | 2025-05-09 | 2026-04-15 |
 | [PETER GRIFFIN](https://open.spotify.com/track/74oXuvqnTsT6Z3uhDAZ2Vz) | [AgusFortnite2008](https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO) | [PLUG PARK](https://open.spotify.com/album/1qYWJZIHfdJ09GBvj9MmOy) | 1:48 | 2025-05-09 | 2026-04-15 |
 | [Piel](https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Piel](https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2) | 3:29 | 2021-11-11 | 2022-06-28 |
+| [Pienso y Declaro](https://open.spotify.com/track/7DPzjkY3cS2cv6DYi23jEb) | [Camila Pino](https://open.spotify.com/artist/5sduq9dVmsPqZrfFEuC07S), [Manu Estrada](https://open.spotify.com/artist/3iBwX6PVa8BNVoGjCIZNm9) | [A Casa](https://open.spotify.com/album/6vDdBdjMBYxfIOVdiSdlJF) | 2:41 | 2026-10-19 |  |
 | [PIZZA PARTY](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 | 2025-07-25 | 2026-04-15 |
 | [Pobre Corazón](https://open.spotify.com/track/78kNsl5PsEVfYoLWVf7ogB) | [Verónica Ávila](https://open.spotify.com/artist/0kER6HwNAQQBCrJcJvVeug) | [Pobre Corazón](https://open.spotify.com/album/5GjOEpdkQXaa7SK6AXfV1s) | 3:54 | 2024-05-07 | 2025-05-10 |
 | [Poder](https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Poder](https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX) | 5:04 | 2026-05-13 | 2026-10-16 |

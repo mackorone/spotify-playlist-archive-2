@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: Nieve Ella
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,765 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,768 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 84 | [i kinda like how u know just how beautiful u are](https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [getting up to no good](https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf) | 2:31 |
 | 85 | [buzzin](https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [buzzin](https://open.spotify.com/album/1q5KduupT5hI0EKYA9rtyi) | 2:41 |
 
-Snapshot ID: `AAAAAKafOy9g9kZaNoQPx3QmbEd9AQUQ`
+Snapshot ID: `AAAAAIDe4NeB9v6GrKTelWaQBoHAAuqb`

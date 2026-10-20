@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: CHVRCHES",
+  "description": "Nieuwe alternative & rock releases. Cover: Fontaines D.C.",
   "name": "New Alternative",
   "tracks": [
     {
@@ -1238,6 +1238,24 @@
       "duration_ms": 269433,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
+    },
+    {
+      "album": {
+        "name": "At The Race Tracks",
+        "url": "https://open.spotify.com/album/1oFCggoJerlIOx9Lr4XsXB"
+      },
+      "artists": [
+        {
+          "name": "AWKWARD i",
+          "url": "https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205159,
+      "name": "At The Race Tracks",
+      "url": "https://open.spotify.com/track/5mBs521Kdcigt75B5Z3sKS"
     },
     {
       "album": {
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 231266,
       "name": "Easy Street",
       "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
@@ -5882,7 +5900,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 203026,
       "name": "Ghostly Mourning Man",
       "url": "https://open.spotify.com/track/1pRMk3zJ1OGc1WEvNO2CoR"
@@ -5990,7 +6008,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 235454,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6HxdF6wqrHeuIyyypYaeUK"
@@ -8432,10 +8450,28 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 240230,
       "name": "I\u2019m Free",
       "url": "https://open.spotify.com/track/1XopkxUUxoXmwwbJWx6Sq9"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194205,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
     },
     {
       "album": {
@@ -8685,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "Keptman",
+        "url": "https://open.spotify.com/album/4HgttFucDWHvuqwOUgcuYb"
+      },
+      "artists": [
+        {
+          "name": "dEUS",
+          "url": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232010,
+      "name": "Keptman",
+      "url": "https://open.spotify.com/track/3rUPKvdhqJD7pGytdiozQv"
+    },
+    {
+      "album": {
         "name": "Kevin Bacon",
         "url": "https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY"
       },
@@ -8844,6 +8898,24 @@
       "duration_ms": 273033,
       "name": "Kolder!",
       "url": "https://open.spotify.com/track/0jDP72r6dAlfIyzj30yXFP"
+    },
+    {
+      "album": {
+        "name": "KOYSAR",
+        "url": "https://open.spotify.com/album/4Sd40mLP119PKaSJrbKUEy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197110,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/6Xe1HtLCdWp3Citi2UKVRd"
     },
     {
       "album": {
@@ -11320,7 +11392,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 158243,
       "name": "NOTHING BETTER THAN THIS",
       "url": "https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8"
@@ -12188,7 +12260,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 209746,
       "name": "Pigwig",
       "url": "https://open.spotify.com/track/2XhhfuoDP4WxCu7cnaNMJ0"
@@ -12780,6 +12852,24 @@
       "duration_ms": 328672,
       "name": "Red Flag Magician",
       "url": "https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb"
+    },
+    {
+      "album": {
+        "name": "Big Breakers",
+        "url": "https://open.spotify.com/album/0ipwAVN48iJ1Tbf5tw4azi"
+      },
+      "artists": [
+        {
+          "name": "Velocity Made Good",
+          "url": "https://open.spotify.com/artist/2g5ncBxg2wwfS9HkIFQUPs"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268377,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/2NlTUJ1dh2V2xyjVwV8yoM"
     },
     {
       "album": {
@@ -13616,6 +13706,24 @@
       "duration_ms": 213371,
       "name": "Several Got Away",
       "url": "https://open.spotify.com/track/74mFaPpgr8nWoaKOlQlOwi"
+    },
+    {
+      "album": {
+        "name": "Sex & Drugs",
+        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Sex & Drugs",
+      "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
     },
     {
       "album": {
@@ -16207,6 +16315,24 @@
     },
     {
       "album": {
+        "name": "Frantic Living",
+        "url": "https://open.spotify.com/album/2f13okqZDfOJERActhQBPh"
+      },
+      "artists": [
+        {
+          "name": "Wasted Youth Club",
+          "url": "https://open.spotify.com/artist/6fPbsRQTwFE5HTMNwZqyhw"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143680,
+      "name": "The Pack",
+      "url": "https://open.spotify.com/track/1kAzy3e3CgVARF6C7VWEOf"
+    },
+    {
+      "album": {
         "name": "The Payoff",
         "url": "https://open.spotify.com/album/5w0KujrYWAir96O9ZhCW1Q"
       },
@@ -16362,7 +16488,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 229667,
       "name": "THE UNDERDOG",
       "url": "https://open.spotify.com/track/6HOxvQuf3a7ushzOf4yFot"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANs7PtomCdN01wcLEAv6QtcxXqPp",
+  "snapshot_id": "AAAAAMwMoYRA/+2OX1Pom+mc2BsfE+LT",
   "tracks": [
     {
       "added_at": "2025-03-14 16:58:53",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W"
+        "name": "Bobbysocks!",
+        "url": "https://open.spotify.com/album/17nnsL4uzJSeknmZVrlcDT"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
+      "duration_ms": 173960,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC"
     }
   ],
   "unique_name": "Eurovision Party",

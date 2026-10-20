@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Zain Zohaib
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,923 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,927 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 99 | [Qayamat](https://open.spotify.com/track/3CFIQSXrrqeIBUWaJxrmKm) | [Sherry Khattak](https://open.spotify.com/artist/2diSCa9Rt1feixkDPgDWux) | [Qayamat](https://open.spotify.com/album/3jx1IR7TP4sHzNRoldk3Yy) | 4:25 |
 | 100 | [Shayar by Azhar Ali](https://open.spotify.com/track/11TNL8EdF0R1IEhD1eVVtl) | [Azhar Ali](https://open.spotify.com/artist/10wfQ2iksyP08eyX6oCCwh) | [Shayar by Azhar Ali](https://open.spotify.com/album/5tj41CFShprNHt6s41fpwa) | 3:04 |
 
-Snapshot ID: `AAAAAC6U1knmSaWAC2Z7pcLuLi1S+MlT`
+Snapshot ID: `AAAAAMB/yHy5x6QLMVMrs2LNTGVSlijY`

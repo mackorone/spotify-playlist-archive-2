@@ -1,12 +1,12 @@
 {
   "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto:  Hungria",
-  "num_followers": 661569,
+  "num_followers": 661637,
   "original_name": "Rap Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAABU/ZH+lNfvm92ohKQN3EtPjq8P",
+  "snapshot_id": "AAAAACFYlkvGWCEWaGbsW11C+UhEKxxy",
   "tracks": [
     {
       "added_at": "2026-10-09 03:01:22",
@@ -133,6 +133,26 @@
       "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
     },
     {
+      "added_at": "2026-10-19 15:53:26",
+      "album": {
+        "name": "A Lua e o Sol (RastaBeats Session)",
+        "url": "https://open.spotify.com/album/1PpmRyA2YOUYxG1h0axKMa"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "DKING.OF.GANG",
+          "url": "https://open.spotify.com/artist/61CcZq3rmEfYmlC3HrKPeO"
+        }
+      ],
+      "duration_ms": 196308,
+      "name": "A Lua e o Sol (RastaBeats Session)",
+      "url": "https://open.spotify.com/track/55XyOaUc4ClPBr9bHP25Vl"
+    },
+    {
       "added_at": "2026-10-09 03:01:22",
       "album": {
         "name": "Poesia Ac\u00fastica #6: Era uma Vez",
@@ -247,6 +267,34 @@
       "duration_ms": 189058,
       "name": "Cara Metade",
       "url": "https://open.spotify.com/track/6966EPedcDoFFwQdSqEgMt"
+    },
+    {
+      "added_at": "2026-10-19 15:53:26",
+      "album": {
+        "name": "Fiquei o tempo que precisei",
+        "url": "https://open.spotify.com/album/5gAO1YnNTdb2hoSHLLNk4T"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Felipe Phyre",
+          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "C\u00e9u Laranja",
+      "url": "https://open.spotify.com/track/4bqdP7yjFPCC6rCQBftjBf"
     },
     {
       "added_at": "2026-10-09 03:01:22",
@@ -1119,38 +1167,6 @@
     {
       "added_at": "2026-10-09 03:01:22",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 2",
-        "url": "https://open.spotify.com/album/3kyX8jVxbADyuFAZ6eU26T"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 2",
-      "url": "https://open.spotify.com/track/1luax01sYxCLiM5uVk0oBj"
-    },
-    {
-      "added_at": "2026-10-09 03:01:22",
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 165372,
       "name": "Primeira Dama",
       "url": "https://open.spotify.com/track/2UK3EhCjisvoPu0mAoGLP8"
-    },
-    {
-      "added_at": "2026-10-09 03:01:22",
-      "album": {
-        "name": "Abre a porta",
-        "url": "https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Abre a porta",
-      "url": "https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm"
     },
     {
       "added_at": "2026-10-09 03:01:22",

@@ -4332,6 +4332,24 @@
     {
       "album": {
         "name": "distant",
+        "url": "https://open.spotify.com/album/1hORRphEiGnnBBVY9fJPJS"
+      },
+      "artists": [
+        {
+          "name": "blurhaven",
+          "url": "https://open.spotify.com/artist/5uqWLgDxaeYr3w9UG1XpV8"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111293,
+      "name": "distant",
+      "url": "https://open.spotify.com/track/3SeNefEG2ED6ASCCix9gwj"
+    },
+    {
+      "album": {
+        "name": "distant",
         "url": "https://open.spotify.com/album/4HsD3VsrVOSqR5jTVUDnzZ"
       },
       "artists": [
@@ -12697,6 +12715,28 @@
     },
     {
       "album": {
+        "name": "No more summers",
+        "url": "https://open.spotify.com/album/4JCBPbFyXgtCzU8OzMstDW"
+      },
+      "artists": [
+        {
+          "name": "Lunor",
+          "url": "https://open.spotify.com/artist/63paVfzRoBxKo1elWzEpds"
+        },
+        {
+          "name": "dierollie",
+          "url": "https://open.spotify.com/artist/03bk7A5a2rXuTbYyLdqyhb"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120124,
+      "name": "No more summers",
+      "url": "https://open.spotify.com/track/4mYLux3VgtrWUWhVXpFB9s"
+    },
+    {
+      "album": {
         "name": "no one understands",
         "url": "https://open.spotify.com/album/04JxSgo1zqiSdnuPyTcY4q"
       },
@@ -16098,6 +16138,24 @@
       "duration_ms": 96054,
       "name": "snowy weeks",
       "url": "https://open.spotify.com/track/39uMj3u0hQIDBfbLUizGZ6"
+    },
+    {
+      "album": {
+        "name": "soft light",
+        "url": "https://open.spotify.com/album/7yHqIWXxtbZNhH323A7jIz"
+      },
+      "artists": [
+        {
+          "name": "bakhal",
+          "url": "https://open.spotify.com/artist/61EsV7igt7pSdfVJqRimZ8"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "soft light",
+      "url": "https://open.spotify.com/track/1BdGMxlAOFwyY3P6Bohmxz"
     },
     {
       "album": {

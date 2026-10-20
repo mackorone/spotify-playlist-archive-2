@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-280 songs - 14 hr 46 min
+281 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bares na Madrugada](https://open.spotify.com/track/7iyO3zxNvzub8QRmVEC0CY) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa) | [Bares na Madrugada](https://open.spotify.com/album/6HsRh76AsGI3YBSewfRbXK) | 2:32 | 2026-01-30 | 2026-02-08 |
 | [BARRIL DOBRADO](https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [BARRIL DOBRADO](https://open.spotify.com/album/0D6NdLJd952BvwlMksyka3) | 2:46 | 2025-12-11 | 2026-03-18 |
 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
-| [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 | 2025-05-02 |  |
+| [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 | 2025-05-02 | 2026-10-20 |
 | [Bateu Saudade](https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bateu Saudade](https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621) | 3:50 | 2026-03-13 | 2026-06-27 |
 | [Beira do Mar](https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Julio D.E.R.](https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV) | [Beira do Mar](https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda) | 3:07 | 2026-03-13 | 2026-06-14 |
 | [BEM VINDO A 4TAL](https://open.spotify.com/track/5RkgebjAEJ8hHboAzE3Zl1) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV) | [MIXTRAPISEIRO](https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY) | 3:09 | 2025-01-31 | 2026-07-09 |
@@ -192,6 +192,7 @@
 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 | 2024-03-08 |  |
 | [Peito Aberto](https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Peito Aberto](https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl) | 3:13 | 2025-06-06 |  |
 | [Pelo Mundo](https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [Pelo Mundo](https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI) | 2:46 | 2023-03-24 | 2023-09-23 |
+| [PERSONAGEM](https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [BIA1B99](https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB) | 2:37 | 2026-10-19 |  |
 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 | 2021-11-12 | 2025-12-01 |
 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 | 2023-09-22 | 2024-06-22 |
 | [Pode Confiar](https://open.spotify.com/track/642FSZi6u1VTLaYNxoE6y8) | [Karen Francis](https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU), [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Pode Confiar](https://open.spotify.com/album/5357d20sHYU5ai9MUo6yiK) | 2:16 | 2024-06-21 | 2024-07-27 |

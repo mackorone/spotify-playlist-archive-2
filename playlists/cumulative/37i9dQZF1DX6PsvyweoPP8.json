@@ -3834,7 +3834,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 140400,
       "name": "Ingrata",
       "url": "https://open.spotify.com/track/1BBbpZML2z4hifuhnRFMFh"
@@ -7632,6 +7632,36 @@
       "duration_ms": 177977,
       "name": "SXO",
       "url": "https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2"
+    },
+    {
+      "album": {
+        "name": "SymSesh #002 - Piranha Sexy",
+        "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
+      },
+      "artists": [
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        },
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        },
+        {
+          "name": "SYMSESH",
+          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "SymSesh #002 - Piranha Sexy",
+      "url": "https://open.spotify.com/track/1tvYxnTEjDSpVwlvRCUdyV"
     },
     {
       "album": {

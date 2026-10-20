@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Mauvais djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,062 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,093 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [MISS DES MISS](https://open.spotify.com/track/76z3Qyexa0tKqqDnSbqmQw) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [BACK 2 BACK](https://open.spotify.com/album/7Bc60xCdm3tna3M8n6s1sK) | 2:12 |
 | 50 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 
-Snapshot ID: `AAAAAOIKoVTAHLRpP05KL//Gc8LH5tn6`
+Snapshot ID: `AAAAABWu9lAWvkjtT2VMrePo1lcGVIZd`

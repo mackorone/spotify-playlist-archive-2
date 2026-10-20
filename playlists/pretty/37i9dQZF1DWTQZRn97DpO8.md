@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Ruthee
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,144 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,110 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Boom](https://open.spotify.com/track/4bXEC4bKdmoVJMkZH3ShK3) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Boom](https://open.spotify.com/album/1gk3oGD4YnYUro6nUEPRLq) | 2:44 |
 | 50 | [Miskine](https://open.spotify.com/track/4ehh2RwDnKqEydVkmAtXf0) | [Think Zik ! All Star](https://open.spotify.com/artist/3mLZBU1LeplXlIM09ryX7j), [Ana](https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH) | [Acoustic French Sessions](https://open.spotify.com/album/1gkjwJbzSQkrWJWKiLyaV7) | 3:16 |
 
-Snapshot ID: `AAAAAEJUj940GReFU6wTxEUbsFhGwhgG`
+Snapshot ID: `AAAAACBqTB0c2FHmpAEv2doPZq92sj5b`

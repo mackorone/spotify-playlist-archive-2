@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "<LOVE&POP> pt.2",
+        "url": "https://open.spotify.com/album/0nui9KVjjgQGiyKPFsNbPB"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Andless",
+      "url": "https://open.spotify.com/track/1W5v9eqmHWglEcKInhgbca"
+    },
+    {
+      "album": {
         "name": "OnlyOneOf JAPAN BEST ALBUM",
         "url": "https://open.spotify.com/album/3XZCzoFsBYFSGxW4Wil9GA"
       },
@@ -1943,6 +1961,28 @@
     },
     {
       "album": {
+        "name": "BAD HABITS TONITE",
+        "url": "https://open.spotify.com/album/2JOQCL9FFYM2o6rUrOAolP"
+      },
+      "artists": [
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        },
+        {
+          "name": "A2O MAY",
+          "url": "https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "BAD HABITS TONITE",
+      "url": "https://open.spotify.com/track/2nX1nKma4JpfOfh3kbWrlC"
+    },
+    {
+      "album": {
         "name": "HATE XX",
         "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
       },
@@ -2228,7 +2268,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -3150,6 +3190,24 @@
       "duration_ms": 198626,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/3FCDv2uvzQ7yEwusRn5k7L"
+    },
+    {
+      "album": {
+        "name": "Strange Muse",
+        "url": "https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Birthday Wish",
+      "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
     },
     {
       "album": {
@@ -12466,7 +12524,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv"
@@ -16577,6 +16635,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
+    },
+    {
+      "album": {
         "name": "Lose My Breath",
         "url": "https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl"
       },
@@ -16816,7 +16892,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 165000,
       "name": "Love Got Me Ooh",
       "url": "https://open.spotify.com/track/3oiikhWraUTZVfGBF0OtFx"
@@ -31542,7 +31618,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 212000,
       "name": "Welcome to Heaven",
       "url": "https://open.spotify.com/track/0KBmPjpBQ1fZhVGjFZ7q38"

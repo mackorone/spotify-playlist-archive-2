@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Tame Impala on cover.",
-  "num_followers": 582775,
+  "num_followers": 582799,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALMERHIKRTS3xAx3I002UM/A48P2",
+  "snapshot_id": "AAAAAL+BsYP9iJALraktipnK4jnz1Enu",
   "tracks": [
     {
       "added_at": "2026-08-21 04:10:49",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Blue Morpho",
-        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe"
+        "name": "Naxatras",
+        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
       },
       "artists": [
         {
-          "name": "Ed O'Brien",
-          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+          "name": "Naxatras",
+          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
         }
       ],
-      "duration_ms": 318546,
-      "name": "Teachers",
-      "url": "https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4"
+      "duration_ms": 440014,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Naxatras",
-        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
+        "name": "Blue Morpho",
+        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe"
       },
       "artists": [
         {
-          "name": "Naxatras",
-          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
         }
       ],
-      "duration_ms": 440014,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+      "duration_ms": 318546,
+      "name": "Teachers",
+      "url": "https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4gylHoAp7UM7oEQuPzJsMM"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 180290,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/6BYeq0oCoK0t0WsDkOtL4s"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4gylHoAp7UM7oEQuPzJsMM"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 180290,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/6BYeq0oCoK0t0WsDkOtL4s"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Barrio Hustle",
-        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Barrio Hustle",
-      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Barrio Hustle",
+        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Barrio Hustle",
+      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/7Kw6btvDnHPBJDIDxMiPtC"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 264606,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/443DL7oQzzE2nfNr9afocb"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Canti, Vol. 2",
         "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 278626,
       "name": "Un cerchio",
       "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/7Kw6btvDnHPBJDIDxMiPtC"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 264606,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/443DL7oQzzE2nfNr9afocb"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Ring Tail",
-        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        }
-      ],
-      "duration_ms": 118883,
-      "name": "Ring Tail",
-      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "ILION",
         "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 668573,
       "name": "Ilion",
       "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Ring Tail",
+        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "duration_ms": 118883,
+      "name": "Ring Tail",
+      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Looking For A Way Out (Of Del Rio)",
-        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+        "name": "Weird World Awoke",
+        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
       },
       "artists": [
         {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
         }
       ],
-      "duration_ms": 187613,
-      "name": "Looking For A Way Out (Of Del Rio)",
-      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+      "duration_ms": 200935,
+      "name": "Weird World Awoke",
+      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Weird World Awoke",
-        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
       },
       "artists": [
         {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
         }
       ],
-      "duration_ms": 200935,
-      "name": "Weird World Awoke",
-      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "The Moon Is In The Wrong Place",
-        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 179543,
-      "name": "The Moon Is In The Wrong Place",
-      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Hippie Hourrah!",
         "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "The Moon Is In The Wrong Place",
+        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 179543,
+      "name": "The Moon Is In The Wrong Place",
+      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "A Round of Applause",
-        "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
-      },
-      "artists": [
-        {
-          "name": "Hooveriii",
-          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
-        }
-      ],
-      "duration_ms": 265374,
-      "name": "See",
-      "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 541122,
       "name": "New Hope For The New Year",
       "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "A Round of Applause",
+        "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
+      },
+      "artists": [
+        {
+          "name": "Hooveriii",
+          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
+        }
+      ],
+      "duration_ms": 265374,
+      "name": "See",
+      "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Dune",
-        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
+        "name": "Breathe in, Breathe Out",
+        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
       },
       "artists": [
         {
-          "name": "Spiny Norman",
-          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 239263,
-      "name": "Dune",
-      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Breathe in, Breathe Out",
-        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
+        "name": "Dune",
+        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Spiny Norman",
+          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
         }
       ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
+      "duration_ms": 239263,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
     },
     {
       "added_at": "2026-08-21 04:10:49",

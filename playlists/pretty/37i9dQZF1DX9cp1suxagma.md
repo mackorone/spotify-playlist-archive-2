@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Maluma, Andrés Cepeda
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,398 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,376 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
 | 100 | [Celebrar](https://open.spotify.com/track/0L9wmmuP6536NqFqWyMKGu) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Celebrar](https://open.spotify.com/album/6UqLI0gR4fjhHhvHrBYk2l) | 3:15 |
 
-Snapshot ID: `AAAAAModPb29TzCcy2ajKvR8x0IbgnIE`
+Snapshot ID: `AAAAAF9z7RXmpiP2MMJrbdT2Uiix1p4A`

@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1177580,
+  "num_followers": 1177527,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPsIwyDx8J1g6qw7UfQ00yxXHqUN",
+  "snapshot_id": "AAAAAEXV1CeVKFgP8e+IgAtJ9GKin8Z+",
   "tracks": [
     {
       "added_at": "2026-09-09 09:06:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Natural History - The Very Best of Talk Talk",
-        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "Such a Shame",
-      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Natural History - The Very Best of Talk Talk",
+        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Such a Shame",
+      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Femme Lib\u00e9r\u00e9e",
-        "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
-      },
-      "artists": [
-        {
-          "name": "Cookie Dingler",
-          "url": "https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Femme lib\u00e9r\u00e9e",
-      "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "On the Beach",
         "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 302426,
       "name": "On the Beach",
       "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Femme Lib\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
+      },
+      "artists": [
+        {
+          "name": "Cookie Dingler",
+          "url": "https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Femme lib\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
     },
     {
       "added_at": "2026-09-09 09:06:15",

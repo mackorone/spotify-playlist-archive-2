@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 268542,
       "name": "Another World",
       "url": "https://open.spotify.com/track/3pQ9z1VvFKMLkQaeASZfwf"
@@ -5025,6 +5025,24 @@
     },
     {
       "album": {
+        "name": "Born For Greatness",
+        "url": "https://open.spotify.com/album/0LK7PPhJ97MMTYYVvchVNn"
+      },
+      "artists": [
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189978,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/292lDDcyrKxkcXBZ9o2fCM"
+    },
+    {
+      "album": {
         "name": "BORN TO BE A REBEL (feat. Last Word)",
         "url": "https://open.spotify.com/album/3wggJZUcikdKhjbPx3WADY"
       },
@@ -5578,6 +5596,32 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
+    },
+    {
+      "album": {
+        "name": "Break The System (Official REBELLiON Indoor 2026 Anthem)",
+        "url": "https://open.spotify.com/album/1EsfRitcHkh2DXIxKghoyC"
+      },
+      "artists": [
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        },
+        {
+          "name": "Regain",
+          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271120,
+      "name": "Break The System - Official REBELLiON Indoor 2026 Anthem",
+      "url": "https://open.spotify.com/track/5e8dCJPsj6JCVw7tj1vcdr"
     },
     {
       "album": {
@@ -8611,6 +8655,28 @@
     },
     {
       "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/10yFM0JOHCDesze8v8jEdk"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "ARK8",
+          "url": "https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198580,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/0X7nIUbuSUUgq2e5m0BoYr"
+    },
+    {
+      "album": {
         "name": "Dance In The Dark (Here We Go Again)",
         "url": "https://open.spotify.com/album/00DTJ4YjHKhqhz46MxpovJ"
       },
@@ -10334,7 +10400,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 171750,
       "name": "Don't FK With Us",
       "url": "https://open.spotify.com/track/205jpnzMtECikRHuYYtovT"
@@ -11140,7 +11206,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 136500,
       "name": "DRV U CRZY",
       "url": "https://open.spotify.com/track/2CkULrS3vBwVV61P35Q1bA"
@@ -15641,6 +15707,24 @@
     },
     {
       "album": {
+        "name": "Gezagsprobleem",
+        "url": "https://open.spotify.com/album/1BCItQkt311oi6RvloabHQ"
+      },
+      "artists": [
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129290,
+      "name": "Gezagsprobleem",
+      "url": "https://open.spotify.com/track/5I5QG6fS8vwOWmHsrOhcEu"
+    },
+    {
+      "album": {
         "name": "GHOST",
         "url": "https://open.spotify.com/album/6xn5MWRbzpT1AF1ayQURyT"
       },
@@ -18952,7 +19036,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 209036,
       "name": "I Know You Want It",
       "url": "https://open.spotify.com/track/2T5JZbgRwam4xCLOnwHM5T"
@@ -19552,6 +19636,32 @@
       "duration_ms": 161075,
       "name": "Impossible - Hardstyle Remix",
       "url": "https://open.spotify.com/track/506t1tFJOG0LhwuPkCiFP2"
+    },
+    {
+      "album": {
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/5HLK7W25TJNHyvqmEjCgcm"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194326,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/5V30ZfWXHpnK9DHdoxSWRY"
     },
     {
       "album": {
@@ -23580,7 +23690,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 173632,
       "name": "LIVE FOREVER",
       "url": "https://open.spotify.com/track/5ALyzjvYefT46FpewQwQ4e"
@@ -28065,6 +28175,24 @@
     },
     {
       "album": {
+        "name": "NO MORE GAMES",
+        "url": "https://open.spotify.com/album/6WghbC0wY5HuJcsQRpgMj0"
+      },
+      "artists": [
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "NO MORE GAMES",
+      "url": "https://open.spotify.com/track/0qAmYtSxrGbB3p05eJJPsP"
+    },
+    {
+      "album": {
         "name": "No Normal Salvation",
         "url": "https://open.spotify.com/album/7wdevlsHroWB2DcNBPmtD4"
       },
@@ -28540,6 +28668,28 @@
       "duration_ms": 173055,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ"
+    },
+    {
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/3lRzaG3n9ML0R4ddcpfaDP"
+      },
+      "artists": [
+        {
+          "name": "Malua",
+          "url": "https://open.spotify.com/artist/4aN3I8HO6usYdQEYYTOx0D"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182709,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/2aWpKdgj9Tx7kC8A9NaBR1"
     },
     {
       "album": {
@@ -29538,7 +29688,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 151628,
       "name": "ONLY DEATH - FRAW REMIX",
       "url": "https://open.spotify.com/track/0A97DURWrhoNm3CTmf1QsL"
@@ -31511,6 +31661,28 @@
     },
     {
       "album": {
+        "name": "PRODIGY",
+        "url": "https://open.spotify.com/album/51dYn1QzrNlOIcT95DIImx"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Testarossa",
+          "url": "https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "PRODIGY",
+      "url": "https://open.spotify.com/track/4kxINB9619or4vONGM3qSG"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/1FxZB3bz09qkqFkFL0Dwxf"
       },
@@ -31562,7 +31734,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 165049,
       "name": "PROPAGANDA",
       "url": "https://open.spotify.com/track/0k2SWWBlMVEBoRUZAcevqI"
@@ -31774,6 +31946,28 @@
       "duration_ms": 136218,
       "name": "PWR",
       "url": "https://open.spotify.com/track/5F77xUTErpZtpKNOaaJnE8"
+    },
+    {
+      "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/56PkzP5gk1ldQ8dYJbBg9I"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        },
+        {
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162955,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0S51t2Lz2wwwiy2J9MRAmx"
     },
     {
       "album": {
@@ -32848,7 +33042,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 178838,
       "name": "Rebels In The Frontline",
       "url": "https://open.spotify.com/track/1HoYx9NlpBP0TNuYu05Yik"
@@ -34686,7 +34880,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 197250,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/5Ghwb7oDHg7E4iYSJW4EFx"
@@ -40382,7 +40576,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 201374,
       "name": "The House Is On Fire",
       "url": "https://open.spotify.com/track/5tayCJ0pTdUTwG5anD4f2K"
@@ -40430,7 +40624,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 247741,
       "name": "The Indoor Main",
       "url": "https://open.spotify.com/track/022ZVffPZggtA3BzntRddT"
@@ -41950,6 +42144,28 @@
       "duration_ms": 195698,
       "name": "This Deejay",
       "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
+    },
+    {
+      "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/21ErRWoB4IH5DIWfpU6ajn"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229194,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/6k7UlqkMHBhdcgbEqum62k"
     },
     {
       "album": {
@@ -46424,6 +46640,24 @@
       "duration_ms": 273000,
       "name": "When Sound Meets Sound - Official REBiRTH Festival 2026 Anthem",
       "url": "https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae"
+    },
+    {
+      "album": {
+        "name": "When The Book Is Closed",
+        "url": "https://open.spotify.com/album/5xN9DjmAlqrnIVicMoEjrh"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "When The Book Is Closed",
+      "url": "https://open.spotify.com/track/6DLuGdAK2KYihyLD7VFEWJ"
     },
     {
       "album": {

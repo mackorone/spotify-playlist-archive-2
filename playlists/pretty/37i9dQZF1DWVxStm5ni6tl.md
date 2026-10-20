@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Kerrington Gillespie, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,365 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,366 likes - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 29 | [First Time](https://open.spotify.com/track/6nbAr9t7b5XxuZhLVdZYrL) | [Shyla Gray](https://open.spotify.com/artist/2v4isgmTn1rQ4udbbz4sVT) | [First Time](https://open.spotify.com/album/5bj687dmbcvZaLJTIamwCS) | 2:59 |
 | 30 | [Moving Different](https://open.spotify.com/track/4qtMEo7RTuYKbrHI4g4dbP) | [Quincy Isaiah](https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i) | [Summer’s Over Vol\. 1](https://open.spotify.com/album/0FHgWE5RL7icEatWD7xEzX) | 1:30 |
 
-Snapshot ID: `AAAAAKB3H8ulpRkQ9UiFTPV3q3DcniR/`
+Snapshot ID: `AAAAAHxUMaGk3MltXMKiN5vq96vrr9OU`

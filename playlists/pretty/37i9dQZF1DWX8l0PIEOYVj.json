@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring San Holo",
-  "num_followers": 473757,
+  "num_followers": 473751,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPkeVaMfImr/SRl2aKGkJgCeen8Y",
+  "snapshot_id": "AAAAAP/Xz38p0WaG9XtHv5xyA/Ghy/Gm",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:58",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/1WqKceDEvmK8ah227aj6YV"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 170943,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/46JniFZiUJirsqL8VogClI"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 178285,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/1WqKceDEvmK8ah227aj6YV"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 170943,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/46JniFZiUJirsqL8VogClI"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -1507,34 +1507,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "TRUE LOVE IN A MADE UP WORLD",
-        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        },
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 166478,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Icarus & I",
         "url": "https://open.spotify.com/album/7EiEqPqWvSmAbS8KUatGWR"
       },
@@ -1575,6 +1547,34 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD",
+        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 166478,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -1639,30 +1639,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "KC",
-          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Let It Go (feat. Nevve)",
         "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
       },
@@ -1707,6 +1683,30 @@
       "duration_ms": 244000,
       "name": "New Home",
       "url": "https://open.spotify.com/track/3uPFySAkcHJY3CxCFGNWd8"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "ONLY U",
-        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
-      },
-      "artists": [
-        {
-          "name": "Leondis",
-          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "ONLY U",
-      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
       },
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Your Imagination",
-        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
+        "name": "ONLY U",
+        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
       },
       "artists": [
         {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
         }
       ],
-      "duration_ms": 237696,
-      "name": "Your Imagination",
-      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
+      "duration_ms": 167343,
+      "name": "ONLY U",
+      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2115,6 +2095,26 @@
       "duration_ms": 167403,
       "name": "Free",
       "url": "https://open.spotify.com/track/2fI8duj2PRrFtBjuZ56Ukz"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "Your Imagination",
+        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 237696,
+      "name": "Your Imagination",
+      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2287,26 +2287,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "WE OWN THE NIGHT",
-        "url": "https://open.spotify.com/album/52eS9SkKegHeE359V5x6Cu"
-      },
-      "artists": [
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "WE OWN THE NIGHT",
-      "url": "https://open.spotify.com/track/33RvjTscrSfiRVOJyTcraq"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Miles From Home",
         "url": "https://open.spotify.com/album/4LmrGemhT0eR5LusWomTMk"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 241548,
       "name": "Miles From Home",
       "url": "https://open.spotify.com/track/6lU6cq5kJc81K2quLJ8mtp"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "WE OWN THE NIGHT",
+        "url": "https://open.spotify.com/album/52eS9SkKegHeE359V5x6Cu"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "WE OWN THE NIGHT",
+      "url": "https://open.spotify.com/track/33RvjTscrSfiRVOJyTcraq"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "How You Love Me (Anniversary)",
-        "url": "https://open.spotify.com/album/1Vy6CMBaX13CdQgOLklz0L"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "How You Love Me (Anniversary)",
-      "url": "https://open.spotify.com/track/5BPLdDCkqFyDsyPDaNlTus"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0vf786GQAdrGGHxbw4ohZg"
       },
@@ -2439,6 +2419,26 @@
       "duration_ms": 176086,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2e3dBn6jKVP2AGAG74mh6c"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "How You Love Me (Anniversary)",
+        "url": "https://open.spotify.com/album/1Vy6CMBaX13CdQgOLklz0L"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "How You Love Me (Anniversary)",
+      "url": "https://open.spotify.com/track/5BPLdDCkqFyDsyPDaNlTus"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2487,26 +2487,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Chi-Town",
-        "url": "https://open.spotify.com/album/4lue9TjdizlbNWHM3lXqTA"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Chi-Town",
-      "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Escape (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/7v7d7AEWvKt5RMXg94MknR"
       },
@@ -2535,22 +2515,22 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Who Am I Now",
-        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
+        "name": "Chi-Town",
+        "url": "https://open.spotify.com/album/4lue9TjdizlbNWHM3lXqTA"
       },
       "artists": [
         {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
         },
         {
-          "name": "GLNNA",
-          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Who Am I Now",
-      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
+      "duration_ms": 175238,
+      "name": "Chi-Town",
+      "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2575,6 +2555,26 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Who Am I Now",
+        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Who Am I Now",
+      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "VOLPETRON ASCENDS EP",
         "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
       },
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Are You With Me",
         "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 183066,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 236800,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
     },
     {
       "added_at": "2026-10-09 04:01:58",

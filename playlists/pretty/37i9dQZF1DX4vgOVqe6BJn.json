@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 437184,
+  "num_followers": 437223,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPwh8nW3LVWAwGawc4cA1+61Pu6",
+  "snapshot_id": "AAAAAJlozR/9DgtQri6UTusnGuzmaqDO",
   "tracks": [
     {
       "added_at": "2026-09-25 16:48:56",
@@ -243,18 +243,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Orla",
-        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
         }
       ],
-      "duration_ms": 205190,
-      "name": "Orla",
-      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
+      "duration_ms": 209436,
+      "name": "STORM I",
+      "url": "https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -275,22 +279,18 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+        "name": "Orla",
+        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
       },
       "artists": [
         {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 209436,
-      "name": "STORM I",
-      "url": "https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB"
+      "duration_ms": 205190,
+      "name": "Orla",
+      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
     },
     {
       "added_at": "2026-10-07 04:00:11",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj"
-      },
-      "artists": [
-        {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Sign (Revision)",
         "url": "https://open.spotify.com/album/2TkQVRexDHiRU7YPCHqKt1"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 186340,
       "name": "Sign (Revision)",
       "url": "https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Prier",
+          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
+        }
+      ],
+      "duration_ms": 273956,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "Look Into My Eyes",
         "url": "https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 183333,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/5ecgJKrVy6Kl7tcjo6QJg2"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "The Rush",
-        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Prier",
-          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
-        }
-      ],
-      "duration_ms": 273956,
-      "name": "The Rush",
-      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "ANGIE",
-        "url": "https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 161644,
-      "name": "Assis",
-      "url": "https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Venus & Blue - RMX",
         "url": "https://open.spotify.com/album/12C8BSEBff8Ksh0GNlyrL6"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 233639,
       "name": "Calla - Montoya Remix",
       "url": "https://open.spotify.com/track/1juH9h43VicSB5pDv6NNMV"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "ANGIE",
+        "url": "https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 161644,
+      "name": "Assis",
+      "url": "https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "M\u00e9tamorphose",
-        "url": "https://open.spotify.com/album/1qxF9yvJjQWy5n5q8ogzTf"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Bonjour",
-          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "M\u00e9tamorphose",
-      "url": "https://open.spotify.com/track/4e944pl9iuhnclBGxn2Fve"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Chien M\u00e9chant",
         "url": "https://open.spotify.com/album/1Qw8GNSNWGMFT6TMJH7SWb"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 209813,
       "name": "\u00c9toile Filante",
       "url": "https://open.spotify.com/track/6EuvKVXsQrJa7nePwN7ve7"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "M\u00e9tamorphose",
+        "url": "https://open.spotify.com/album/1qxF9yvJjQWy5n5q8ogzTf"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "M\u00e9tamorphose",
+      "url": "https://open.spotify.com/track/4e944pl9iuhnclBGxn2Fve"
     },
     {
       "added_at": "2026-09-25 16:48:56",

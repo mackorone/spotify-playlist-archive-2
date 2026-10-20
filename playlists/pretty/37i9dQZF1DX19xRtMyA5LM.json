@@ -1,12 +1,12 @@
 {
   "description": "\u2757\ufe0fNieuwe tracks: HIGH SOCIETY, Qlas & Isab\u00e8l Usher, Saaff, 3robi & Lijpe, Zack Ink & Vic9 en meer..",
-  "num_followers": 701658,
+  "num_followers": 701609,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPso+YYHiKLWt+WI3bHamx1A0Md",
+  "snapshot_id": "AAAAAKqvaa+WpXcV+oIlTBZ7qJlJO7Ew",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:20",
@@ -207,18 +207,30 @@
     {
       "added_at": "2026-10-15 22:00:20",
       "album": {
-        "name": "Zak Je Toon",
-        "url": "https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar"
+        "name": "Mama Sorry",
+        "url": "https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u"
       },
       "artists": [
         {
-          "name": "BFLQuatro",
-          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+          "name": "Harun B",
+          "url": "https://open.spotify.com/artist/4NHcKVmjob2Cb4Wtw7gJZF"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        },
+        {
+          "name": "Pierrii",
+          "url": "https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU"
+        },
+        {
+          "name": "DODO",
+          "url": "https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95"
         }
       ],
-      "duration_ms": 125000,
-      "name": "Zak Je Toon",
-      "url": "https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32"
+      "duration_ms": 180069,
+      "name": "Mama Sorry",
+      "url": "https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85"
     },
     {
       "added_at": "2026-10-15 22:00:20",
@@ -255,6 +267,22 @@
       "duration_ms": 192476,
       "name": "Same Level",
       "url": "https://open.spotify.com/track/2zNIOeSUdIKepg20IPSLhg"
+    },
+    {
+      "added_at": "2026-10-15 22:00:20",
+      "album": {
+        "name": "Zak Je Toon",
+        "url": "https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar"
+      },
+      "artists": [
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Zak Je Toon",
+      "url": "https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32"
     },
     {
       "added_at": "2026-10-15 22:00:20",
@@ -383,34 +411,6 @@
       "duration_ms": 150000,
       "name": "Google Vertalen",
       "url": "https://open.spotify.com/track/1SX1zcUoxN2LIZuxM2gJ1N"
-    },
-    {
-      "added_at": "2026-10-15 22:00:20",
-      "album": {
-        "name": "Mama Sorry",
-        "url": "https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u"
-      },
-      "artists": [
-        {
-          "name": "Harun B",
-          "url": "https://open.spotify.com/artist/4NHcKVmjob2Cb4Wtw7gJZF"
-        },
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        },
-        {
-          "name": "Pierrii",
-          "url": "https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU"
-        },
-        {
-          "name": "DODO",
-          "url": "https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95"
-        }
-      ],
-      "duration_ms": 180069,
-      "name": "Mama Sorry",
-      "url": "https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85"
     },
     {
       "added_at": "2026-10-15 22:00:20",

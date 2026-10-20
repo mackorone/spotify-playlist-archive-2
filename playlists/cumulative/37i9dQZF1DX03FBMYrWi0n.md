@@ -4,14 +4,14 @@
 
 > L’alternatif québécois à plein volume\. Photo: Nectar Palace
 
-712 songs - 1 day 16 hr 23 min
+713 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:19 | 2026-01-23 | 2026-05-02 |
 | [..\. And The Next Day](https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n) | [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [BASS WOMB ROOM: My ‘90s 4\-Track Demos x Field Recordings](https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p) | 3:41 | 2026-09-04 |  |
 | [1 000 000 de problèmes](https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [1 000 000 de problèmes](https://open.spotify.com/album/1VbX4htOwGdywxsxLaeWwE) | 2:16 | 2026-08-28 |  |
-| [1 MILLION DE GENS](https://open.spotify.com/track/7uFuWGa55gb5o45QxFRLFM) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [1 MILLION DE GENS](https://open.spotify.com/album/6weMvgoIpZXKUdBpok02yf) | 3:30 | 2026-10-09 | 2026-10-17 |
+| [1 MILLION DE GENS](https://open.spotify.com/track/7uFuWGa55gb5o45QxFRLFM) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [1 MILLION DE GENS](https://open.spotify.com/album/6weMvgoIpZXKUdBpok02yf) | 3:30 | 2026-10-09 |  |
 | [1999](https://open.spotify.com/track/6hGURJGNAOihpgqQYeBO7z) | [Summerled](https://open.spotify.com/artist/6zeA4Y8yrI50OYMm1kMBzq) | [1999](https://open.spotify.com/album/6hi1Bsxvs5hIX1aZh7UV50) | 2:37 | 2026-04-10 | 2026-05-23 |
 | [2 secondes](https://open.spotify.com/track/6tnMkJH1AjBbzUCIewkmG1) | [VINCENT KHOUNI](https://open.spotify.com/artist/7JCnd0ZS2KdbkXSRGUemf8) | [2 secondes](https://open.spotify.com/album/6TPT4AwjtNLFwrPJMUobfM) | 3:59 | 2026-01-23 | 2026-05-02 |
 | [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/track/7ncCWM8ZC8XkG7mU9ClBpf) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/album/0cBU0AZY9we5Pe93uhgwbz) | 2:52 | 2024-07-19 | 2024-09-14 |
@@ -539,7 +539,7 @@
 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 | 2024-03-15 | 2024-04-19 |
 | [rage](https://open.spotify.com/track/5oSfeVdyti76f2QqOv4HMN) | [belles larmes](https://open.spotify.com/artist/2fhUMI0SOiPRZbMSAa2ERD) | [rage](https://open.spotify.com/album/73DWM3TkBjxOnnY7W8AFvP) | 4:17 | 2025-12-05 | 2026-04-18 |
 | [Ravens](https://open.spotify.com/track/3MNgNDxsbudOP3Mm9UR8SR) | [Coutchou](https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR) | [Ravens](https://open.spotify.com/album/6IK5LnTmQY0Ie5yEnQqSnb) | 3:36 | 2026-05-22 | 2026-06-27 |
-| [Rayban](https://open.spotify.com/track/1CtIT4KJDnR0iLmctEk9UN) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [Rayban](https://open.spotify.com/album/14CZ7Qw2yfKXIJARzCcpm0) | 3:36 | 2026-09-18 |  |
+| [Rayban](https://open.spotify.com/track/1CtIT4KJDnR0iLmctEk9UN) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [Rayban](https://open.spotify.com/album/14CZ7Qw2yfKXIJARzCcpm0) | 3:36 | 2026-09-18 | 2026-10-20 |
 | [Razz](https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Razz](https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5) | 2:35 | 2023-09-08 | 2024-03-01 |
 | [REGARDE LENTEMENT](https://open.spotify.com/track/41nfxYO5X2RGh6ktgmnLWN) | [Eaubad](https://open.spotify.com/artist/462pDEWX9S9AleYYpieZWq) | [REGARDE LENTEMENT](https://open.spotify.com/album/3SYKNVNPs2NAhCc2spipnH) | 2:20 | 2026-02-13 | 2026-05-16 |
 | [Regret](https://open.spotify.com/track/6iP3H6QGBnMsstyHO7lOE9) | [worry](https://open.spotify.com/artist/69HyPNP7JNtJjVwqYBNDVM) | [Regret](https://open.spotify.com/album/1rWjeS5fzO7HiMtrdfwQDN) | 3:08 | 2026-02-13 | 2026-05-16 |
@@ -563,7 +563,7 @@
 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2023-02-10 | 2024-04-01 |
 | [Saint Loreto](https://open.spotify.com/track/0v5558IQMhOWIInaVeb9wI) | [Christian Sean](https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt) | [Saint Loreto](https://open.spotify.com/album/5hXcv9dclv6JAUmTmcha0W) | 3:03 | 2026-05-22 | 2026-10-03 |
 | [Salaire Minimum](https://open.spotify.com/track/5FyydM82oQSSp2OBidKZBW) | [Sèxe Illégal](https://open.spotify.com/artist/5rWz0pTrCLoCPfQ68KFcH8) | [Spätkapitalismusik](https://open.spotify.com/album/41sPlypAmlnRQJOi4aisrH) | 2:50 | 2023-02-10 | 2023-02-19 |
-| [SALE GUEULE](https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7) | [Antoine Vitesse](https://open.spotify.com/artist/7sDCcEZBfKF5BgC5qap8E4) | [GROSSES CERNES](https://open.spotify.com/album/2suHpX4rYYresYV5j7T0yH) | 2:52 | 2026-09-25 |  |
+| [SALE GUEULE](https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7) | [Antoine Vitesse](https://open.spotify.com/artist/7sDCcEZBfKF5BgC5qap8E4) | [GROSSES CERNES](https://open.spotify.com/album/2suHpX4rYYresYV5j7T0yH) | 2:52 | 2026-09-25 | 2026-10-20 |
 | [Sang du Christ](https://open.spotify.com/track/0OpabAf12M4gpW1EJ5rsrh) | [Le Belladone](https://open.spotify.com/artist/0TBSo7QjxPiIOrnkIzCCwu) | [Sang du Christ](https://open.spotify.com/album/63V0GHC01KxyQxBFqypDHa) | 4:57 | 2025-10-31 | 2026-02-21 |
 | [Sans soleil](https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Sans soleil](https://open.spotify.com/album/4s7WEYMQ2XgdahBLlNs6Re) | 2:55 | 2024-03-15 | 2024-04-19 |
 | [SANS TOi](https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7) | [Noëm](https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w) | [SANS TOi](https://open.spotify.com/album/2jeZaqhXELmmWfFx0TFOfY) | 3:23 | 2026-09-25 |  |
@@ -631,6 +631,7 @@
 | [Tarantula](https://open.spotify.com/track/5Q69nHzNXnU4jpmwUsB4DK) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Dungeon Master](https://open.spotify.com/album/2WA0YbN1rdESR8aRLcl5hM) | 3:26 | 2023-02-10 | 2023-03-27 |
 | [TDPM](https://open.spotify.com/track/33OwyDNTDGGhbKdREipIva) | [Delphine](https://open.spotify.com/artist/56sYHRQvLFVBdJXCDA9pms) | [TDPM](https://open.spotify.com/album/1v5zUrBtNBG2rDZqmjc0Ol) | 2:28 | 2026-07-17 | 2026-08-28 |
 | [Te garder](https://open.spotify.com/track/3DJHI0lXLHiXFFnj3cPVQM) | [L'indice](https://open.spotify.com/artist/2QGS6aI5UYUqorMVfo1MDm) | [Te garder](https://open.spotify.com/album/1b9QCrHAFg4EoN4n5wPoiJ) | 3:13 | 2026-01-09 | 2026-05-09 |
+| [Te parler de DieuE](https://open.spotify.com/track/5iFQXig02whKXSHL3pNuVf) | [Andrea Prochazka](https://open.spotify.com/artist/79o3Oz8ClLyr7siZKyLNSP) | [Hôtel Anonyme](https://open.spotify.com/album/0DMKIBvIlpRBDJZHrx4uP2) | 3:28 | 2026-10-16 |  |
 | [The Breaks](https://open.spotify.com/track/3PIwWBp3nJOFERbkWtZZO3) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Breaks](https://open.spotify.com/album/1qG8RIhVtTNGZD9vvLz3BQ) | 4:29 | 2024-06-07 | 2024-06-29 |
 | [The Cost of Freedom](https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE) | [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [The Cost of Freedom](https://open.spotify.com/album/0US04UDQbG8QYL3QmkhGTy) | 3:30 | 2026-09-01 | 2026-10-17 |
 | [The Cost of Freedom](https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2) | [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [The Cost of Freedom](https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0) | 3:30 | 2026-03-06 | 2026-05-23 |

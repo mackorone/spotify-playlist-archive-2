@@ -1,12 +1,12 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 232965,
+  "num_followers": 232955,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFSbMfphYfZAAfvE8pxrOvA2qEIH",
+  "snapshot_id": "AAAAABIJCOknpDgqyndLfwVh6u3jh7es",
   "tracks": [
     {
       "added_at": "2025-12-04 18:43:31",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Mi Navidad (Edici\u00f3n Especial En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 195743,
-      "name": "Dios nos bendecir\u00e1",
-      "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Navidad con Pandora",
         "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 165306,
       "name": "Los Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Mi Navidad (Edici\u00f3n Especial En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 195743,
+      "name": "Dios nos bendecir\u00e1",
+      "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        },
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 217877,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Laura Xmas (Deluxe)",
         "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 181146,
       "name": "Va a nevar (with the Patrick Williams Orchestra)",
       "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        },
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 217877,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Dios Me Se\u00f1al\u00f3",
-        "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 148259,
-      "name": "Tu Adi\u00f3s Es Mi Navidad",
-      "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Sweet Christmas Ukulele & Jazz",
         "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 253424,
       "name": "Te Deseo Muy Felices Fiestas",
       "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Dios Me Se\u00f1al\u00f3",
+        "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 148259,
+      "name": "Tu Adi\u00f3s Es Mi Navidad",
+      "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
     },
     {
       "added_at": "2025-12-04 18:43:31",

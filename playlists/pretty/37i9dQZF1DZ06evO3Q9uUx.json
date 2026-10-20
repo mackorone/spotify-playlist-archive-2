@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAACmfuTGk92Yb7+ASKXTpbjS",
+  "snapshot_id": "atQMAAAAAAAAdyXMi9gMTaDZ79UQEMqm",
   "tracks": [
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thanks For The Lesson (feat. BIA)",
+        "url": "https://open.spotify.com/album/01vPFIuSsWk2VFMFdHCdra"
+      },
+      "artists": [
+        {
+          "name": "\u8d75\u9732\u601d Rosy",
+          "url": "https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 184338,
+      "name": "Thanks For The Lesson (feat. BIA)",
+      "url": "https://open.spotify.com/track/6fZE39xvsqz8RZBwfIIGqI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -1027,22 +1047,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIANCA",
-        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
       },
       "artists": [
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 141760,
-      "name": "HARD WAY (feat. Becky G)",
-      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
+      "duration_ms": 151431,
+      "name": "FALLBACK",
+      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
     },
     {
       "added_at": null,
@@ -1067,38 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
       },
       "artists": [
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "FALLBACK",
-      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thanks For The Lesson (feat. BIA)",
-        "url": "https://open.spotify.com/album/01vPFIuSsWk2VFMFdHCdra"
-      },
-      "artists": [
-        {
-          "name": "\u8d75\u9732\u601d Rosy",
-          "url": "https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv"
         },
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 184338,
-      "name": "Thanks For The Lesson (feat. BIA)",
-      "url": "https://open.spotify.com/track/6fZE39xvsqz8RZBwfIIGqI"
+      "duration_ms": 141760,
+      "name": "HARD WAY (feat. Becky G)",
+      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
     }
   ],
   "unique_name": "This Is BIA",

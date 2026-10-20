@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Ryan Trey
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,238 likes - 99 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,264 likes - 99 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Time The Destroyer](https://open.spotify.com/track/53pJqZWTWzid4AUzVEalDP) | [Wilder Adkins](https://open.spotify.com/artist/2AQVIbXzroJV8VBwKdy7Pc), [Haleigh Black](https://open.spotify.com/artist/7yuTMBfoeskh6OzZ90op3s) | [Arms Reach](https://open.spotify.com/album/3x9NvW9BauNEI0NXwykS8l) | 3:24 |
 | 99 | [Wonder Wild](https://open.spotify.com/track/2swiYOwUkAZsIaBqplpgAi) | [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL), [Grace Coleman](https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h) | [Wonder Wild](https://open.spotify.com/album/0OUGpOgqtioi0ynRZIjY2V) | 3:49 |
 
-Snapshot ID: `AAAAACzgPjU0QIi3NzLh5Vt/pTQPXfcV`
+Snapshot ID: `AAAAAOKAHHBuTG0NJlYiFR5ipQbN65Xv`

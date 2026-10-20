@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 74 | [Ubangi Stomp](https://open.spotify.com/track/0QXWOUB7LGccPIhfEGJcCU) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Sun Records Sound of Warren Smith \(20 Rockabilly Favorites\)](https://open.spotify.com/album/7EbBwkAHlqxaQGlKpsODQ6) | 1:58 |
 | 75 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
 
-Snapshot ID: `AAAAANzgCjkklt99o+HlEmVKLA3Tn+Mx`
+Snapshot ID: `AAAAADva3Mcg1syymWlVCPO/DfHvC3VD`

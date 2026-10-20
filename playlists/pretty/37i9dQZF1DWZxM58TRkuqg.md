@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Judika, Tiroy Sihotang
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,935 likes - 104 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,890 likes - 104 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 103 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 | 104 | [Melayang](https://open.spotify.com/track/61LkdLYN1uMt4hpe59r2kJ) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Melayang](https://open.spotify.com/album/0We6zRTWxSbXIvb1lkh8Hb) | 3:50 |
 
-Snapshot ID: `AAAAAPaz+MgQNCMvG0vTKUvnu/F+py4J`
+Snapshot ID: `AAAAAI46DGjeXMilEAx7At5GoSG3wFd7`

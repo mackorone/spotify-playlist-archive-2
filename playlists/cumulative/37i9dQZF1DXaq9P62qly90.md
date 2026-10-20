@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-115 songs - 8 hr 13 min
+116 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All Ways Love](https://open.spotify.com/track/4uNLqK1mIFoE9jSS4oIYBP) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/4ucU3pAlV5avzUO3m97U0O) | 3:42 | 2020-11-25 | 2022-07-29 |
 | [All Ways Love](https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw) | 3:42 | 2020-11-25 | 2024-04-19 |
 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:20 | 2020-11-25 |  |
+| [B R I G H T E R T I D E S \(Live at Sugarshack Sessions\)](https://open.spotify.com/track/4l22Wu50VLA1PEbT69w0wM) | [Leah Woods](https://open.spotify.com/artist/4uc8fVPpz0qJdncFp10Jbk), [Sugarshack Sessions](https://open.spotify.com/artist/5CT2hYT8j5uBMqTyMVp1kI) | [Leah Woods Live at Sugarshack Sessions](https://open.spotify.com/album/5UMTpu9wi6AJoi5MeKsGEx) | 4:51 | 2024-03-25 |  |
 | [Back to the Old](https://open.spotify.com/track/2stKuE9vUhRJhbsfmY8mkg) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5hEP35eW2n4STHtvtZwRaa) | 5:49 | 2020-11-25 | 2022-07-29 |
 | [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 | 2020-11-25 | 2024-04-10 |
 | [be who you are \(with Rising Appalachia\)](https://open.spotify.com/track/5xIzvhn5J2rBxS0OrerzIY) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [In Between The In\-Between](https://open.spotify.com/album/5rhKG3lq7wW8oZ8xBFiq19) | 3:17 | 2024-03-25 |  |
@@ -48,7 +49,7 @@
 | [Harmonize](https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G) | 5:07 | 2020-11-25 | 2024-04-19 |
 | [Harmonize](https://open.spotify.com/track/7m18pXVZiJFy3tCcloKyoo) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 5:07 | 2020-11-25 | 2022-09-30 |
 | [Here's Looking at You Kid \- Acoustic](https://open.spotify.com/track/2trQWMECGZdzjYmA877WwV) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Here's Looking at You Kid \(Acoustic\)](https://open.spotify.com/album/0mBqsHtDg4xYn2S4GZzelu) | 3:42 | 2020-11-25 | 2022-07-27 |
-| [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 | 2020-11-25 |  |
+| [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 | 2020-11-25 | 2026-10-20 |
 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 | 2020-11-25 |  |
 | [I'll Be There](https://open.spotify.com/track/0p4Zer7G4eU6vN87qPqq6M) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:02 | 2020-11-25 | 2022-10-03 |
 | [I'll Be There](https://open.spotify.com/track/3ecUq6PglTzZE5RTW1oFIC) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/5lDuCcqKu2xWsNFaW10Ez4) | 4:02 | 2020-11-25 | 2022-07-29 |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 210731,
       "name": "1 MILLION DE GENS",
       "url": "https://open.spotify.com/track/7uFuWGa55gb5o45QxFRLFM"
@@ -9806,7 +9806,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 216009,
       "name": "Rayban",
       "url": "https://open.spotify.com/track/1CtIT4KJDnR0iLmctEk9UN"
@@ -10242,7 +10242,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 172500,
       "name": "SALE GUEULE",
       "url": "https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7"
@@ -11476,6 +11476,24 @@
       "duration_ms": 193247,
       "name": "Te garder",
       "url": "https://open.spotify.com/track/3DJHI0lXLHiXFFnj3cPVQM"
+    },
+    {
+      "album": {
+        "name": "H\u00f4tel Anonyme",
+        "url": "https://open.spotify.com/album/0DMKIBvIlpRBDJZHrx4uP2"
+      },
+      "artists": [
+        {
+          "name": "Andrea Prochazka",
+          "url": "https://open.spotify.com/artist/79o3Oz8ClLyr7siZKyLNSP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208784,
+      "name": "Te parler de DieuE",
+      "url": "https://open.spotify.com/track/5iFQXig02whKXSHL3pNuVf"
     },
     {
       "album": {

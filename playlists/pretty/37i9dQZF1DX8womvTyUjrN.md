@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: LOS MENOR3S
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,262 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,250 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [24 HORAS \(TRAGADO\)](https://open.spotify.com/track/0ojUyEhzan2BZ0daOV05jV) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [24 HORAS \(TRAGADO\)](https://open.spotify.com/album/2OMMetk93WUI0VmXA54h9f) | 2:40 |
 | 50 | [Nigiri](https://open.spotify.com/track/4jWBjBcoLx4HVo5VDvcTWY) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Nigiri](https://open.spotify.com/album/3rHsVXrOvDag4cS34yKusl) | 2:22 |
 
-Snapshot ID: `AAAAAE5JUXYKseCluw59jeNy4V0RXZaz`
+Snapshot ID: `AAAAAHbunyZKUxaz0KaX6f7LpHEjsmcZ`

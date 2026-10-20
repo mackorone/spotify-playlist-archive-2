@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-137 songs - 5 hr 23 min
+143 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [HOME](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:40 | 2023-03-24 | 2024-04-19 |
 | [HOME](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 2:40 | 2023-03-24 | 2023-06-07 |
 | [HOME](https://open.spotify.com/track/6FPNUIPNW2H1Z1Gpt81GkO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 2:40 | 2024-01-15 |  |
+| [Hot 'n Unbothered \(SULLYOON, BAE\)](https://open.spotify.com/track/6Ruz3p5vLVj6PWXhGIgjc6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 2:19 | 2026-10-19 |  |
 | [I’ll be with you](https://open.spotify.com/track/69NSJ4U9yOlA55kZDOHYsf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:53 | 2026-10-12 |  |
 | [Journey of NMIXX \(1\)](https://open.spotify.com/track/2LR05uhqSd84WDutXsFvQA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:19 | 2023-07-03 |  |
 | [Journey of NMIXX \(1\)](https://open.spotify.com/track/68JBXNz7K5v1mClE9W5Q9c) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:19 | 2022-11-24 | 2023-08-07 |
@@ -66,6 +67,7 @@
 | [Just Did It](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 2:58 | 2023-03-24 | 2023-06-07 |
 | [Just Did It](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:58 | 2023-03-24 | 2024-04-19 |
 | [Just Did It](https://open.spotify.com/track/6KXjuNhdfVc17QUvw12Sx6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 2:58 | 2024-01-15 |  |
+| [Kerosene](https://open.spotify.com/track/0tygvOInRGuzGDDepZAQcA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 2:46 | 2026-10-19 |  |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-11-24 |  |
 | [Kiss \- Instrumental](https://open.spotify.com/track/5q6aIgZDT81GyqZtlB562m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-11-24 |  |
 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 | 2025-03-18 |  |
@@ -113,6 +115,7 @@
 | [RICO](https://open.spotify.com/track/0crajuERnAByPA6Aqh1a2T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:32 | 2025-10-14 |  |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 |  |
 | [Roller Coaster \- \(Inst.\)](https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 2:59 | 2023-07-11 |  |
+| [RudE TaLK](https://open.spotify.com/track/07xGlLwmzOF1YFogQyfSeJ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 2:34 | 2026-10-19 |  |
 | [Run For Roses](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:35 | 2024-01-15 |  |
 | [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 | 2024-10-08 |  |
 | [Shape of Love](https://open.spotify.com/track/1Q89wi4LD9O9oU1gn0hL7Y) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 2:52 | 2025-10-14 |  |
@@ -139,11 +142,14 @@
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-03-24 | 2024-04-19 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/68B31aUSEyTpH9g7lQ04Gq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:10 | 2024-01-15 |  |
+| [긴 소원 \(Birthday Wish\)](https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 3:20 | 2026-10-19 |  |
+| [너는 달 \(Sing to the Moon\) \(LILY, HAEWON\)](https://open.spotify.com/track/77ylGLoxAKqkjW9YlX16vy) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 4:00 | 2026-10-19 |  |
 | [상상은 그녀를 어디로든 데려갔다](https://open.spotify.com/track/7r2sSeAzrrCSrqtKME4Aua) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:24 | 2026-10-12 |  |
 | [스프링클 파티 \(Sung by NMIXX\)](https://open.spotify.com/track/1nfT7zOpzdfaeuBoIlTEoP) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 2:16 | 2023-03-24 | 2024-04-19 |
 | [스프링클 파티 \(Sung by NMIXX\) \(Inst.\)](https://open.spotify.com/track/3HNfbGnpjbg8s5xpEV4lcL) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 2:16 | 2023-03-24 | 2024-04-19 |
 | [안녕 개비! \(Sung by NMIXX\)](https://open.spotify.com/track/3f5tHSAMSVFnLO6M3lUZPO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 1:59 | 2023-03-24 | 2024-04-19 |
 | [안녕 개비! \(Sung by NMIXX\) \(Inst.\)](https://open.spotify.com/track/52WHFmRlU4Hrch59XIOTxw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 1:59 | 2023-03-24 | 2024-04-19 |
 | [우리는 처음 만났지만 서로에 대해 이미 알고 있다](https://open.spotify.com/track/2N0OdNr9zCzyZRzk0VQQ1o) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:00 | 2026-10-12 |  |
+| [휙 \(WHIP\) \(JIWOO, KYUJIN\)](https://open.spotify.com/track/34aLNAQz3WpE8VB084fMFc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 2:05 | 2026-10-19 |  |
 
 \*This playlist was first scraped on 2022-11-25. Prior content cannot be recovered.

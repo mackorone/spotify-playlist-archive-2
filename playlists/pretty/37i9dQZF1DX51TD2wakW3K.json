@@ -1,12 +1,12 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 33873,
+  "num_followers": 33965,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmQfsS5olAUFibUUWpX1u9jV1+4",
+  "snapshot_id": "AAAAAFY2xz16/RZIVE8OMghdsabUcbD7",
   "tracks": [
     {
       "added_at": "2026-07-01 16:22:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Can't Stand The Rezillos: The [Almost] Complete Rezillos",
-        "url": "https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo"
-      },
-      "artists": [
-        {
-          "name": "The Rezillos",
-          "url": "https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv"
-        }
-      ],
-      "duration_ms": 114240,
-      "name": "Somebody's Gonna Get Their Head Kicked in Tonight",
-      "url": "https://open.spotify.com/track/3q8pRsDaXqHZdo73Vsittc"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 232040,
       "name": "Free Money",
       "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Can't Stand The Rezillos: The [Almost] Complete Rezillos",
+        "url": "https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo"
+      },
+      "artists": [
+        {
+          "name": "The Rezillos",
+          "url": "https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv"
+        }
+      ],
+      "duration_ms": 114240,
+      "name": "Somebody's Gonna Get Their Head Kicked in Tonight",
+      "url": "https://open.spotify.com/track/3q8pRsDaXqHZdo73Vsittc"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
-      },
-      "artists": [
-        {
-          "name": "Sn\u00f5\u00f5per",
-          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
-        }
-      ],
-      "duration_ms": 154195,
-      "name": "Worldwide",
-      "url": "https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Nina Hagen Band",
         "url": "https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 210051,
       "name": "Unbeschreiblich Weiblich",
       "url": "https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "duration_ms": 154195,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Larceny & Old Lace",
-        "url": "https://open.spotify.com/album/5Bu8QKUFumC4uywqYqmN5P"
-      },
-      "artists": [
-        {
-          "name": "The Coathangers",
-          "url": "https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3rMCQpwLtAMKwDlgjPrysO"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Cerebral Circus",
         "url": "https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 115813,
       "name": "The Surface",
       "url": "https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Larceny & Old Lace",
+        "url": "https://open.spotify.com/album/5Bu8QKUFumC4uywqYqmN5P"
+      },
+      "artists": [
+        {
+          "name": "The Coathangers",
+          "url": "https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3rMCQpwLtAMKwDlgjPrysO"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Dream Wife",
-        "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
-      },
-      "artists": [
-        {
-          "name": "Dream Wife",
-          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
-        }
-      ],
-      "duration_ms": 230435,
-      "name": "FUU",
-      "url": "https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Good Living Is Coming For You",
         "url": "https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 164250,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "duration_ms": 230435,
+      "name": "FUU",
+      "url": "https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3"
     },
     {
       "added_at": "2026-07-01 16:22:16",

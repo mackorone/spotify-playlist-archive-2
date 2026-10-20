@@ -1,12 +1,12 @@
 {
   "description": "Desde septiembre se siente que viene diciembre \ud83e\uddca \ud83c\udf84 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi",
-  "num_followers": 144065,
+  "num_followers": 144060,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABj0y603KKQ1j1drsTa8VG1eFD6J",
+  "snapshot_id": "AAAAAMRnOgTl3YW0jH+GreRVYblzy4Ej",
   "tracks": [
     {
       "added_at": "2026-09-24 04:59:11",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-09-24 04:59:11",
       "album": {
+        "name": "Nuestras 30 Mejores Caciones",
+        "url": "https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Caramelo Santo (El Caramelito)",
+      "url": "https://open.spotify.com/track/3BVLhbhwdChPg3Wmb4IvGS"
+    },
+    {
+      "added_at": "2026-09-24 04:59:11",
+      "album": {
         "name": "Dinamitazos Tropicales de Siempre",
         "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 231758,
       "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
       "url": "https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF"
-    },
-    {
-      "added_at": "2026-09-24 04:59:11",
-      "album": {
-        "name": "Nuestras 30 Mejores Caciones",
-        "url": "https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Imperial",
-          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Caramelo Santo (El Caramelito)",
-      "url": "https://open.spotify.com/track/3BVLhbhwdChPg3Wmb4IvGS"
     },
     {
       "added_at": "2026-09-24 04:59:11",

@@ -1,13 +1,65 @@
 {
   "description": "updated with new <a href=\"https://youtube.com/c/dreamscapeyt\">youtube uploads</a>...",
-  "num_followers": 14877,
+  "num_followers": 14876,
   "original_name": "dreamscape uploads",
   "owner": {
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACsaf0PXW4T+JEb/dClYNv4u1ha7xz",
+  "snapshot_id": "AAACsouLKdky5BCpGef1TN7SGSs06mI0",
   "tracks": [
+    {
+      "added_at": "2026-10-19 22:12:58",
+      "album": {
+        "name": "distant",
+        "url": "https://open.spotify.com/album/1hORRphEiGnnBBVY9fJPJS"
+      },
+      "artists": [
+        {
+          "name": "blurhaven",
+          "url": "https://open.spotify.com/artist/5uqWLgDxaeYr3w9UG1XpV8"
+        }
+      ],
+      "duration_ms": 111293,
+      "name": "distant",
+      "url": "https://open.spotify.com/track/3SeNefEG2ED6ASCCix9gwj"
+    },
+    {
+      "added_at": "2026-10-19 22:12:58",
+      "album": {
+        "name": "No more summers",
+        "url": "https://open.spotify.com/album/4JCBPbFyXgtCzU8OzMstDW"
+      },
+      "artists": [
+        {
+          "name": "Lunor",
+          "url": "https://open.spotify.com/artist/63paVfzRoBxKo1elWzEpds"
+        },
+        {
+          "name": "dierollie",
+          "url": "https://open.spotify.com/artist/03bk7A5a2rXuTbYyLdqyhb"
+        }
+      ],
+      "duration_ms": 120124,
+      "name": "No more summers",
+      "url": "https://open.spotify.com/track/4mYLux3VgtrWUWhVXpFB9s"
+    },
+    {
+      "added_at": "2026-10-19 22:12:58",
+      "album": {
+        "name": "soft light",
+        "url": "https://open.spotify.com/album/7yHqIWXxtbZNhH323A7jIz"
+      },
+      "artists": [
+        {
+          "name": "bakhal",
+          "url": "https://open.spotify.com/artist/61EsV7igt7pSdfVJqRimZ8"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "soft light",
+      "url": "https://open.spotify.com/track/1BdGMxlAOFwyY3P6Bohmxz"
+    },
     {
       "added_at": "2026-10-11 07:47:25",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 76429,
+  "num_followers": 76439,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAAA+G78cP+kRpgAH6aLychAm",
+  "snapshot_id": "atQMAAAAAAApzk5wZCCHaasfNR7N2yPQ",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Es El After?",
-        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Bienvenidos A La Tierra",
-      "url": "https://open.spotify.com/track/4xDTwjCmUFh6P5fsiJdvwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 281100,
       "name": "Amor",
       "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Bienvenidos A La Tierra",
+      "url": "https://open.spotify.com/track/4xDTwjCmUFh6P5fsiJdvwU"
     },
     {
       "added_at": null,
@@ -215,30 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KATY PERRY (feat. Sheeno)",
-        "url": "https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh"
+        "name": "A\u00daN NO HE TERMINADO",
+        "url": "https://open.spotify.com/album/3X2pLuaMHkjOO0sZnuEt7t"
       },
       "artists": [
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
         },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Sheeno",
-          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
         }
       ],
-      "duration_ms": 155909,
-      "name": "KATY PERRY (feat. Sheeno)",
-      "url": "https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa"
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/4ityAzct0pwJGQBGatUxdo"
     },
     {
       "added_at": null,
@@ -275,42 +267,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "A\u00daN NO HE TERMINADO",
-        "url": "https://open.spotify.com/album/3X2pLuaMHkjOO0sZnuEt7t"
+        "name": "KATY PERRY (feat. Sheeno)",
+        "url": "https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh"
       },
       "artists": [
         {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
         }
       ],
-      "duration_ms": 196875,
-      "name": "SUSTANCIAS EN MI CORAZON",
-      "url": "https://open.spotify.com/track/4ityAzct0pwJGQBGatUxdo"
+      "duration_ms": 155909,
+      "name": "KATY PERRY (feat. Sheeno)",
+      "url": "https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rosslyn",
-        "url": "https://open.spotify.com/album/7CfSEOxaWiBTfb1Rvc90tA"
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
       "artists": [
-        {
-          "name": "Santea",
-          "url": "https://open.spotify.com/artist/22qamul6AgEzuhgzBNbP6Y"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 171028,
-      "name": "Rosslyn",
-      "url": "https://open.spotify.com/track/3UC0eIPmDzlMxVdVQzm29U"
+      "duration_ms": 319620,
+      "name": "AMAR Y PERDER",
+      "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+        "name": "Rosslyn",
+        "url": "https://open.spotify.com/album/7CfSEOxaWiBTfb1Rvc90tA"
       },
       "artists": [
+        {
+          "name": "Santea",
+          "url": "https://open.spotify.com/artist/22qamul6AgEzuhgzBNbP6Y"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 319620,
-      "name": "AMAR Y PERDER",
-      "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
+      "duration_ms": 171028,
+      "name": "Rosslyn",
+      "url": "https://open.spotify.com/track/3UC0eIPmDzlMxVdVQzm29U"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Junto A Ti",
         "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 193922,
       "name": "Junto A Ti",
       "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
     },
     {
       "added_at": null,

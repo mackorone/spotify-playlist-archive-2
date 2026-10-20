@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 901,
+  "num_followers": 900,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEA9yw61KZvNfo3BzOBWvnGudBVbNg",
+  "snapshot_id": "AAAEBs3TybHPFaI+DQh4E7d8nQNnwBv6",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/4YiD4uZY0vAYYYktsVLho7"
     },
     {
+      "added_at": "2026-10-19 22:43:08",
+      "album": {
+        "name": "Again and Again",
+        "url": "https://open.spotify.com/album/1Ln8FNF3Sl5vkw4Gnp3I3c"
+      },
+      "artists": [
+        {
+          "name": "Rich Packman",
+          "url": "https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7"
+        }
+      ],
+      "duration_ms": 260291,
+      "name": "Again and Again",
+      "url": "https://open.spotify.com/track/1LAM7VfMQ3uXe81PJAC6R6"
+    },
+    {
       "added_at": "2025-09-21 14:37:13",
       "album": {
         "name": "Cold",
@@ -199,22 +215,6 @@
       "duration_ms": 208453,
       "name": "I Have Learned",
       "url": "https://open.spotify.com/track/44TsdKXUVju1RowqBAnMSh"
-    },
-    {
-      "added_at": "2025-09-02 20:01:06",
-      "album": {
-        "name": "3AM Thoughts",
-        "url": "https://open.spotify.com/album/3QlI5crNjxyuTbNMXSEEPm"
-      },
-      "artists": [
-        {
-          "name": "Rich Packman",
-          "url": "https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7"
-        }
-      ],
-      "duration_ms": 236228,
-      "name": "Our Path",
-      "url": "https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL"
     },
     {
       "added_at": "2025-10-29 11:54:04",

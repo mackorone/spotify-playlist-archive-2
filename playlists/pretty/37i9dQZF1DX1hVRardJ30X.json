@@ -1,12 +1,12 @@
 {
   "description": "New music by Nsqk, Dei V, Anuel AA, Silvana Estrada, Rawayana and more.",
-  "num_followers": 645233,
+  "num_followers": 645238,
   "original_name": "All New Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAI+sdLxOubZ/evAZ+I+0d8EPUbJ",
+  "snapshot_id": "AAAAAOL224ZeZDWE19x+5BGJmKCHE2Z2",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:05",
@@ -130,6 +130,10 @@
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Campe\u00f3n Gabacho",
+          "url": "https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV"
         }
       ],
       "duration_ms": 114559,

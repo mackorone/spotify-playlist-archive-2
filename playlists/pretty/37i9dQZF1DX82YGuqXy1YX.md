@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 33 | [Comet](https://open.spotify.com/track/3QGQjDVIX4pdaLku5p9pG6) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Horizon](https://open.spotify.com/album/2JcplFbFkf2GKnuhlIRi2n) | 6:13 |
 | 34 | [stupid prizes](https://open.spotify.com/track/4YZXIoOJbus69PEBfP1AF0) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [hooke’s law](https://open.spotify.com/album/2sTsH9vYQhIi60IYjE3hJp) | 3:11 |
 | 35 | [Over the Dune](https://open.spotify.com/track/3cHLDKI6zWPFtczejY5kGw) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [David Moore](https://open.spotify.com/artist/7xEnx9zeKaSs5WeZWPnpW8), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Let the Moon Be a Planet](https://open.spotify.com/album/3wFY9XEusAnyUY5GxTE6vu) | 6:44 |
-| 36 | [Na Dem](https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Na Dem](https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui) | 4:29 |
-| 37 | [Needle Guy](https://open.spotify.com/track/5EfGtVw1Hpr8kgnDBJZ3Ar) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj) | 2:59 |
+| 36 | [Needle Guy](https://open.spotify.com/track/5EfGtVw1Hpr8kgnDBJZ3Ar) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj) | 2:59 |
+| 37 | [Na Dem](https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Na Dem](https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui) | 4:29 |
 
-Snapshot ID: `AAAAAIbgD4I96hXgtymp2GgYzwLmgaWd`
+Snapshot ID: `AAAAAI/NdumHPI8RI6Mdb1jrbJA3kQP2`

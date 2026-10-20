@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-277 songs - 23 hr 58 min
+278 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 | 2024-04-19 |  |
 | [Exército de Deus](https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Exército de Deus](https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB) | 4:14 | 2025-02-28 |  |
 | [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 | 2024-07-13 |
+| [Faraó ou Deus \(Ao Vivo\)](https://open.spotify.com/track/0ZeQCW8kf6jcRkv0J9TTrQ) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU), [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus \(Ao Vivo\)](https://open.spotify.com/album/2EGueMHMVDoJsShvZpXrIZ) | 5:25 | 2026-10-19 |  |
 | [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-23 | 2024-11-16 |
 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 | 2022-09-09 | 2025-06-07 |
 | [Filhas de Zelofeade \- Ao Vivo](https://open.spotify.com/track/4BXzKvU5sAHMPO8yu4GDPA) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Filhas de Zelofeade \(Ao Vivo\)](https://open.spotify.com/album/4ytMxij3eSbYuqNL4FCCbB) | 5:08 | 2024-12-27 | 2025-02-01 |
@@ -208,7 +209,7 @@
 | [Porção Dobrada \- Ao Vivo](https://open.spotify.com/track/2BXZdode9c7dhmULER8eeH) | [Nicole Souza](https://open.spotify.com/artist/6N4mA434gRvPgBHqMhLD0Z), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Porção Dobrada \(Ao Vivo\)](https://open.spotify.com/album/42hmHRaR9hJMqU1Jdl7NzK) | 5:23 | 2023-12-22 | 2024-04-20 |
 | [Pra Glória do Senhor \- Ao Vivo](https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr) | [Fernanda Souza](https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pra Glória do Senhor \(Ao Vivo\)](https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ) | 7:41 | 2023-09-08 |  |
 | [Pra Que Temer \(Ao Vivo\)](https://open.spotify.com/track/2ccVIa187StKRWGVJWhXud) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Pra Que Temer \(Ao Vivo\)](https://open.spotify.com/album/7ec8jLREbOsXro7q6k6Lq4) | 4:31 | 2024-10-11 | 2025-08-02 |
-| [Pra te Ferir](https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Pra Te Ferir](https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo) | 4:26 | 2025-06-06 |  |
+| [Pra te Ferir](https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Pra Te Ferir](https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo) | 4:26 | 2025-06-06 | 2026-10-20 |
 | [Prepare o Culto](https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Prepare o Culto](https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN) | 6:00 | 2023-02-03 | 2023-09-16 |
 | [Prioridade \(Ao Vivo\)](https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Prioridade \(Ao Vivo\)](https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw) | 4:15 | 2025-08-29 |  |
 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 | 2022-09-09 |  |

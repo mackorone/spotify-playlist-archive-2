@@ -4,7 +4,7 @@
 
 > we shall sing when night’s decay ushers in a drearier day
 
-311 songs - 20 hr 14 min
+313 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [God's A Different Sword](https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 3:19 | 2025-08-08 |  |
 | [Goldmine](https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [America's Greatest Burnout](https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM) | 2:50 | 2026-09-01 |  |
 | [Good Thing](https://open.spotify.com/track/5rAKLyxm8fYJKNDiH1udjJ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/4OKUDAkRDDlCmuxph6eU01) | 4:12 | 2025-08-08 |  |
+| [Growing up Beside You](https://open.spotify.com/track/7tHbgrKoNIzm4h0X7oHNBz) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 3:23 | 2026-10-19 |  |
 | [Halfway Up](https://open.spotify.com/track/3vDa3TYf1nnmmc9DiSviwX) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 3:55 | 2022-10-24 | 2023-10-26 |
 | [Halfway Up](https://open.spotify.com/track/4F10pOSHH9hrpLxPK9S4IR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Halfway Up](https://open.spotify.com/album/4cohuiRf3OeHcaCbX9K9tM) | 3:55 | 2022-10-24 | 2023-04-17 |
 | [Halfway Up](https://open.spotify.com/track/4iB4ES81d7HYw0oqwQ6FRM) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK) | 3:55 | 2023-10-13 | 2024-04-19 |
@@ -145,6 +146,7 @@
 | [Horizons](https://open.spotify.com/track/6GRgyQMo57LpNioobT0ub7) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:16 | 2022-09-21 |  |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-10-27 | 2025-08-21 |
 | [House Song](https://open.spotify.com/track/5swZvDSi78Znk4rlmwHNnj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/5QrP2hgfkYqAtDmlexzNcZ) | 4:55 | 2025-08-08 |  |
+| [Human Angel](https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Follow The Light](https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y) | 2:59 | 2026-10-19 |  |
 | [Hymn](https://open.spotify.com/track/1VGCIpDw7EJG3oIuw7Hnnq) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [Bjéar](https://open.spotify.com/album/7xaRByEJHQFex1OUqPTYq9) | 4:37 | 2022-09-21 | 2023-05-27 |
 | [Hymn](https://open.spotify.com/track/7iUKrGEt3hd82q0JXf0f8t) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [Bjéar](https://open.spotify.com/album/1KVZLExzUJQYLxR4n1lebo) | 4:37 | 2022-10-24 | 2023-08-29 |
 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 | 2022-09-21 | 2025-08-09 |

@@ -1,12 +1,12 @@
 {
   "description": "So mote it be. Cover: Phoebe Bridgers",
-  "num_followers": 158069,
+  "num_followers": 158094,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMXLD1B6+ok1FqZeRcn6bckcXl5E",
+  "snapshot_id": "AAAAAMTwE1rya3mtXsrLVjhzjIkm4lNt",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:16",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
+        "name": "At Home with Screamin' Jay Hawkins",
+        "url": "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 144866,
+      "name": "I Put a Spell On You",
+      "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 271200,
       "name": "Fallingwater",
       "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
-        "name": "Practical Magic (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 357106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 357106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
         "name": "W.I.T.C.H.",
         "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
       },
@@ -571,38 +587,6 @@
       "duration_ms": 132133,
       "name": "W.I.T.C.H.",
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
-        "name": "At Home with Screamin' Jay Hawkins",
-        "url": "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz"
-      },
-      "artists": [
-        {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
-        }
-      ],
-      "duration_ms": 144866,
-      "name": "I Put a Spell On You",
-      "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -639,6 +623,22 @@
       "duration_ms": 197692,
       "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
       "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "willow (moonlit witch version)",
-        "url": "https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "willow - moonlit witch version",
-      "url": "https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 258733,
       "name": "Waking The Witch",
       "url": "https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "willow (moonlit witch version)",
+        "url": "https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "willow - moonlit witch version",
+      "url": "https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx"
     }
   ],
   "unique_name": "Witchy",

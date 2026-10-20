@@ -195907,6 +195907,28 @@
     },
     {
       "album": {
+        "name": "Galela Manyawa",
+        "url": "https://open.spotify.com/album/4DrEiVQRucnfy0bjWZzhPj"
+      },
+      "artists": [
+        {
+          "name": "Mister Nobody",
+          "url": "https://open.spotify.com/artist/1B0DN6kNBoZlfQzXOFTz3z"
+        },
+        {
+          "name": "ICEBOX ID",
+          "url": "https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Galela Manyawa",
+      "url": "https://open.spotify.com/track/61B8vGipExinWiDlZFwTn8"
+    },
+    {
+      "album": {
         "name": "Apa Kabarmu?",
         "url": "https://open.spotify.com/album/1sRQMha6AtKJNzf5ceCO7r"
       },
@@ -292596,28 +292618,6 @@
       "duration_ms": 260379,
       "name": "Kapan?",
       "url": "https://open.spotify.com/track/1EZwdYbBuLaoeZD9kzVJ77"
-    },
-    {
-      "album": {
-        "name": "Kapita II",
-        "url": "https://open.spotify.com/album/4DrEiVQRucnfy0bjWZzhPj"
-      },
-      "artists": [
-        {
-          "name": "Mister Nobody",
-          "url": "https://open.spotify.com/artist/1B0DN6kNBoZlfQzXOFTz3z"
-        },
-        {
-          "name": "ICEBOX ID",
-          "url": "https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193666,
-      "name": "Kapita II",
-      "url": "https://open.spotify.com/track/61B8vGipExinWiDlZFwTn8"
     },
     {
       "album": {

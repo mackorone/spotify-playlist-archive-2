@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-580 songs - 1 day 5 hr 47 min
+581 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Lifejil](https://open.spotify.com/track/0Itdhb56vDIdPbI6XfVGn6) | [Jilshad Vallapuzha](https://open.spotify.com/artist/1gsx9dFH26ilNmKsfbta1x) | [Lifejil](https://open.spotify.com/album/5vMVc3OjCwcWM6fnwz8bCf) | 3:04 | 2025-05-16 | 2025-07-10 |
 | [Loading Bazooka \(From "Bazooka"\)](https://open.spotify.com/track/1FU4zTnVKJ7X8rAV8p3W9K) | [Saeed Abbas](https://open.spotify.com/artist/3r3BIxNm1kAWHIAc2Gg36h), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX) | [Loading Bazooka \(From "Bazooka"\)](https://open.spotify.com/album/1tP3dwBC1GfN8tFhYaUO6R) | 2:40 | 2025-04-07 | 2025-06-10 |
 | [Lockdown Trap](https://open.spotify.com/track/3uHaXQZA7hUaJPPqVbNoON) | [Haseeb Razak](https://open.spotify.com/artist/09CaZS4Yx74q9vLPQzRTa8), [Hashim Azeez](https://open.spotify.com/artist/5bkSNzOpTyAdAKWIgg83OO), [Ansif Abdulla](https://open.spotify.com/artist/46ur722CJpQIVEmu1hDQUF) | [Lockdown Trap](https://open.spotify.com/album/2zetFzoqjh1GpNBc96PszI) | 1:30 | 2025-03-20 | 2025-04-17 |
+| [Loco](https://open.spotify.com/track/0CwwEbe4m3QuxY5tSfFtEp) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [Ashku](https://open.spotify.com/artist/2ICU5Htew2uhWBpJWjjbqG), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Loco](https://open.spotify.com/album/6DCRqPGND4KokRazc4SDxM) | 2:39 | 2026-10-19 |  |
 | [Lokam Mayakathilo](https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Lokam Mayakathilo](https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS) | 4:36 | 2022-06-23 | 2024-04-23 |
 | [Lokham](https://open.spotify.com/track/5dMkpF9L4vbSqogcL1MjPK) | [WHITZE](https://open.spotify.com/artist/3UI4pX7HW8UI2PQoMdwRzz) | [Lokham](https://open.spotify.com/album/4z55TAQSEB7rVAMDC8Wzaa) | 2:04 | 2025-04-21 | 2025-05-24 |
 | [LOOP](https://open.spotify.com/track/5HBGCNfzYXxHFqu8gytiQz) | [Sabir Madar](https://open.spotify.com/artist/3UgFcGF26HKS5VS3UOcrE0), [KAVO](https://open.spotify.com/artist/3L1XNhFQg1AoukeJy6uKIW) | [LOOP](https://open.spotify.com/album/15WDfZzEuwoEGzd1RdKfst) | 2:54 | 2025-11-10 | 2025-11-21 |

@@ -66571,24 +66571,6 @@
     },
     {
       "album": {
-        "name": "F*** No",
-        "url": "https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu"
-      },
-      "artists": [
-        {
-          "name": "Yangze",
-          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
-        }
-      ],
-      "date_added": "2026-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172368,
-      "name": "F*** No",
-      "url": "https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX"
-    },
-    {
-      "album": {
         "name": "F*k It",
         "url": "https://open.spotify.com/album/6ZI4Q0v3NnwiGHiPqxGGhE"
       },
@@ -77600,6 +77582,24 @@
       "duration_ms": 190762,
       "name": "Fuck My Computer",
       "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
+    },
+    {
+      "album": {
+        "name": "Fuck No",
+        "url": "https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172368,
+      "name": "Fuck No",
+      "url": "https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX"
     },
     {
       "album": {

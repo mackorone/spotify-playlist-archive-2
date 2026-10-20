@@ -953,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Armasarul",
+        "url": "https://open.spotify.com/album/7LrwQKkj157DtX7Q6bALKE"
+      },
+      "artists": [
+        {
+          "name": "TONI DE LA BRASOV",
+          "url": "https://open.spotify.com/artist/2xZQ4jYe1fZgPvxuQ8IyJp"
+        },
+        {
+          "name": "Roberto Bunea",
+          "url": "https://open.spotify.com/artist/6PNTQRRKYoEcbYa45TMMXl"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156239,
+      "name": "Armasarul",
+      "url": "https://open.spotify.com/track/5EB8m1QioM6kbdEhRJLvw5"
+    },
+    {
+      "album": {
         "name": "OTEB",
         "url": "https://open.spotify.com/album/6K3p4A1mvMUIDbJUUtNKwJ"
       },
@@ -1634,7 +1656,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -3428,7 +3450,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 174362,
       "name": "DEUCESS",
       "url": "https://open.spotify.com/track/60TKXYXSnKsHYsWTDZwnrT"
@@ -5537,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "VIITORUL SUNA BINE",
+        "url": "https://open.spotify.com/album/1qT7lWDsanLQ27bVVXwbWz"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165368,
+      "name": "IN OCHII MEI",
+      "url": "https://open.spotify.com/track/68v4kD9tK5yWy7QhpCYUlJ"
+    },
+    {
+      "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
@@ -5636,6 +5676,48 @@
       "duration_ms": 176756,
       "name": "Inimi",
       "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
+    },
+    {
+      "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184558,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/0U6bQIAh6MCGo1xjbIIx2S"
     },
     {
       "album": {
@@ -5996,7 +6078,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
@@ -6958,6 +7040,28 @@
       "duration_ms": 153913,
       "name": "Meritai ceva mai bun",
       "url": "https://open.spotify.com/track/6pkinRuWL6bbAHZcDjVpXI"
+    },
+    {
+      "album": {
+        "name": "Mesaje diminea\u021ba",
+        "url": "https://open.spotify.com/album/3CHIrobggO7h6avggcpIHb"
+      },
+      "artists": [
+        {
+          "name": "Luci Diamantul",
+          "url": "https://open.spotify.com/artist/5WFRIC47HGttXwiXfXMFiC"
+        },
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209957,
+      "name": "Mesaje diminea\u021ba",
+      "url": "https://open.spotify.com/track/1wyENx3L7pUx7guf0fXhJk"
     },
     {
       "album": {
@@ -10027,6 +10131,28 @@
     },
     {
       "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/5Nl16X6hwHHTDy4nc8zK6n"
+      },
+      "artists": [
+        {
+          "name": "Marrio Nadal",
+          "url": "https://open.spotify.com/artist/27yMeJYLmDll0Cc3URZlyK"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154453,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/2wwfRK1GhLazSd54NVjR45"
+    },
+    {
+      "album": {
         "name": "sWaGGG 2026",
         "url": "https://open.spotify.com/album/1iMYKNPzzssw4dgbrBqj1K"
       },
@@ -10180,7 +10306,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) - from the Netflix film KPop Demon Hunters",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -11190,7 +11316,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 120024,
       "name": "Vb Frumos",
       "url": "https://open.spotify.com/track/52WSv1pJToTwF8qCZbHBHG"

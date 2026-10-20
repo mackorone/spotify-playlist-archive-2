@@ -4,13 +4,13 @@
 
 > Os grandes artistas da MPB\. Foto: Maria Bethânia
 
-180 songs - 11 hr 21 min
+181 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A felicidade](https://open.spotify.com/track/1brWhQEoBoT9tMnNfcRsjr) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Estudando o samba](https://open.spotify.com/album/2jOgajtpXNsinBpwg2dUjH) | 3:18 | 2021-12-31 | 2024-08-10 |
 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 | 2021-12-31 |  |
-| [A História de Lilly Braun \- Ao Vivo no Coala Festival](https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A História de Lilly Braun \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv) | 4:26 | 2025-09-19 |  |
+| [A História de Lilly Braun \- Ao Vivo no Coala Festival](https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A História de Lilly Braun \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv) | 4:26 | 2025-09-19 | 2026-10-20 |
 | [A Morte](https://open.spotify.com/track/1rjSHnr77R8UTtgXr8jax9) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa \(Compacto de 1972\)](https://open.spotify.com/album/2Zic84dsU9R3lGjnWIlYj8) | 2:47 | 2025-03-07 | 2026-05-23 |
 | [A Palo Seco](https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn) | [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Gilvan de Oliveira](https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS) | [Belchior Acústico](https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC) | 2:35 | 2021-12-31 |  |
 | [A Paz \- Ao Vivo](https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Unplugged \(Ao vivo\)](https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf) | 4:53 | 2021-12-31 | 2025-09-20 |
@@ -104,6 +104,7 @@
 | [Mama África / Brilho de Beleza / Pra Não Dizer Que Não Falei das Flores \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Lazzo Matumbi](https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV), [Seu Pereira](https://open.spotify.com/artist/28pAHiB6AXRv8xAFi6y2cw), [Luizinho Calixto](https://open.spotify.com/artist/5RVxzbhV0agb2TSjCD3Kmk), [Escurinho](https://open.spotify.com/artist/4JPtZ1t3FJ7SjLPEAHQswo), [Michi Ruzitschika](https://open.spotify.com/artist/030OnLWDWctqB2Rx6bBOx1) | [Estado de Poesia \(Ao Vivo\) \(Deluxe Edition\)](https://open.spotify.com/album/3mDS3K8Eg7eCJ3Ny8uJG3J) | 9:30 | 2021-12-31 | 2023-11-25 |
 | [Mares da Espanha \- Ao Vivo](https://open.spotify.com/track/4JezCGwd9kujHk55Z2cPfZ) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mares da Espanha / Palavras de Rita / Diz Que Fui Por Aí \(Ao Vivo\)](https://open.spotify.com/album/0K3AFoxXjbC8s845JsUYBz) | 2:32 | 2026-10-09 |  |
 | [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 | 2023-03-17 | 2025-03-07 |
+| [Me Chamando de Paixão](https://open.spotify.com/track/5ayMrwnzBZ9QanL2M9A5Ey) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Sonsual](https://open.spotify.com/album/12jMSjsqRcJKQUdgzb8BVL) | 3:19 | 2026-10-19 |  |
 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 | 2021-12-31 |  |
 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 | 2021-12-31 |  |
 | [Metamorfose Ambulante](https://open.spotify.com/track/2Yk0HvfTaijA47aM0Fj88u) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ["Krig\-Ha, Bandolo"](https://open.spotify.com/album/2xRddGxRH0KdDWLNE5b0iu) | 3:51 | 2022-06-24 | 2024-04-19 |

@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 318577,
       "name": "Mir",
       "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
@@ -2646,6 +2646,24 @@
       "duration_ms": 133854,
       "name": "Out Of The Cradle",
       "url": "https://open.spotify.com/track/5CfC7qaDyjaYE03txNXtPy"
+    },
+    {
+      "album": {
+        "name": "Patashnik",
+        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373133,
+      "name": "Patashnik",
+      "url": "https://open.spotify.com/track/7MHpalMkpDjwGmuYax9Xh1"
     },
     {
       "album": {

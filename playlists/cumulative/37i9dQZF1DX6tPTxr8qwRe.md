@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- GRANT KNOCHE on the cover
 
-1,168 songs - 2 day 6 hr 10 min
+1,171 songs - 2 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Ego Rush](https://open.spotify.com/track/6Et4i8p7URXpaUfIjCxild) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [When It's Over](https://open.spotify.com/album/2VIuQAHaJc8SRwmIuNElty) | 2:39 | 2024-08-16 | 2025-01-25 |
 | [EGO!](https://open.spotify.com/track/0laq7DfW9YtPdvQsePTveK) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [EGO!](https://open.spotify.com/album/7ISSf6pMnWSMrpF1AjZqpM) | 2:28 | 2024-04-26 | 2024-06-29 |
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-03 | 2025-10-25 |
-| [Emily](https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Much To Say](https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc) | 2:35 | 2026-05-15 |  |
+| [Emily](https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Much To Say](https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc) | 2:35 | 2026-05-15 | 2026-10-20 |
 | [empty room](https://open.spotify.com/track/6TxCqjdGbTCNFgReTltmCx) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [empty room](https://open.spotify.com/album/39cMECZ4POl2B8b6inBnLL) | 3:00 | 2025-08-22 | 2025-11-08 |
 | [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 | 2026-06-12 | 2026-08-22 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-11-11 | 2023-04-01 |
@@ -401,6 +401,7 @@
 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 | 2022-11-18 | 2023-02-18 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-19 | 2023-04-01 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-02 | 2025-06-28 |
+| [Go Tell Your Stories](https://open.spotify.com/track/2rD2GNbK2M3bScSdk5CH8u) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [Go Tell Your Stories](https://open.spotify.com/album/1htI9OeDoY8MzoW00vtMq2) | 3:05 | 2026-10-19 |  |
 | [Goals](https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Goals](https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S) | 2:13 | 2025-01-24 | 2025-04-19 |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-02-04 | 2022-03-26 |
 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 | 2021-10-29 | 2022-05-20 |
@@ -467,6 +468,7 @@
 | [hell of a good time](https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [hell of a good time](https://open.spotify.com/album/0VKgOKH0D2HDwZlqfKH3HT) | 2:41 | 2024-03-15 | 2024-06-29 |
 | [HELL ON ME](https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [HELL ON ME](https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg) | 2:58 | 2025-01-10 | 2025-06-14 |
 | [Hellbent](https://open.spotify.com/track/1KpnWktqDqyTr0IXagwLIS) | [Astrid Pierce](https://open.spotify.com/artist/7AUfg9LvTM8ZR4rtiacUpH), [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Last Ditch Effort](https://open.spotify.com/album/4AWnBAP7do9Wpz4frLDZii) | 2:35 | 2025-08-15 | 2025-11-08 |
+| [Hello](https://open.spotify.com/track/7al7M2fVPzsuV1mTyGVmsF) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl) | [Hello](https://open.spotify.com/album/6rEdnfaSLu1QXN5pFVaCOO) | 2:50 | 2026-10-19 |  |
 | [HELLO IT'S THE NEW ME](https://open.spotify.com/track/5eer85eFn4TmVvLUYET5yj) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [HELLO IT'S THE NEW ME](https://open.spotify.com/album/1ttN46F4hRsBJ3wTkFnCMA) | 2:34 | 2024-08-09 | 2024-10-19 |
 | [HEXED](https://open.spotify.com/track/2YsjASle6ww8UK1rui5bEB) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [HEXED](https://open.spotify.com/album/4a7qonEl8Qvw1JwrywEixj) | 2:52 | 2024-08-09 | 2025-01-25 |
 | [HEY LITTLE BABY](https://open.spotify.com/track/5GpxpmH6eQyH9YhHBENUfd) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [HEY LITTLE BABY](https://open.spotify.com/album/4HVlPmwXccZieyP3tUdatk) | 2:25 | 2024-10-18 | 2025-01-25 |
@@ -551,6 +553,7 @@
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-18 | 2022-04-02 |
 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-03-18 | 2026-08-08 |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-09-17 |
+| [Indigo](https://open.spotify.com/track/2dud2t6ANdp6TJrojXF6Vr) | [Earthgirl](https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa), [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Indigo](https://open.spotify.com/album/2LUy2lpkWIQT7VC1nNxWxb) | 3:36 | 2026-10-19 |  |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-09-10 | 2022-04-09 |
 | [Innocent](https://open.spotify.com/track/59C8ZrER11yeFZMLui18YU) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Innocent](https://open.spotify.com/album/4jlyVTzQdrtr9FBsx6xsxC) | 2:35 | 2024-07-05 | 2024-08-27 |
 | [insane](https://open.spotify.com/track/3wl7mM4pGdw46wpteRJYQS) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [mess & a half](https://open.spotify.com/album/6kXyrVr53ipInyenK6EZeL) | 1:59 | 2024-02-02 | 2024-04-27 |
@@ -640,7 +643,7 @@
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 | 2024-06-29 |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-13 | 2022-11-19 |
 | [love me ugly](https://open.spotify.com/track/1eZVscZmGIo2g0FdtEbHIc) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [love me ugly](https://open.spotify.com/album/1gGctXcIPdhSE9f2n6udZC) | 3:01 | 2024-08-30 | 2025-01-25 |
-| [Love You To Death](https://open.spotify.com/track/7BfhIhd03RKpbsXFiSjaVE) | [Cristina Hart](https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn) | [Love You To Death](https://open.spotify.com/album/1w5UpYTCXcLAWBwcCkWfw1) | 2:37 | 2026-06-21 |  |
+| [Love You To Death](https://open.spotify.com/track/7BfhIhd03RKpbsXFiSjaVE) | [Cristina Hart](https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn) | [Love You To Death](https://open.spotify.com/album/1w5UpYTCXcLAWBwcCkWfw1) | 2:37 | 2026-06-21 | 2026-10-20 |
 | [Lovemesick](https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Lovemesick](https://open.spotify.com/album/7zpQ3LP0JDe5mLEl10MPiv) | 3:49 | 2026-04-24 | 2026-09-19 |
 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 | 2026-09-18 |  |
 | [lucky](https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [lucky](https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2) | 2:02 | 2024-11-15 | 2025-01-11 |
@@ -955,7 +958,7 @@
 | [Spinning](https://open.spotify.com/track/0konGKeICsTN7QNanNxQ5O) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Spinning](https://open.spotify.com/album/7IwA96mZthwarmei8ZThJF) | 2:46 | 2024-08-02 | 2024-08-31 |
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-26 | 2024-06-15 |
 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 | 2023-10-27 | 2024-04-27 |
-| [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 | 2026-06-12 |  |
+| [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 | 2026-06-12 | 2026-10-20 |
 | [STARLET](https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [STARLET](https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R) | 2:39 | 2026-04-03 | 2026-07-02 |
 | [Steering \(So Fast\)](https://open.spotify.com/track/3wIe1eSu0GVjKi3T5nrcye) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Steering \(So Fast\)](https://open.spotify.com/album/6aerihDnpFkJNrhnPSBfez) | 3:43 | 2026-03-27 | 2026-07-25 |
 | [STEPHEN KING](https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:59 | 2024-02-02 | 2024-04-27 |

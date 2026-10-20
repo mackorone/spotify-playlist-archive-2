@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop latino, con Ingratax en portada.",
-  "num_followers": 3603749,
+  "num_followers": 3603690,
   "original_name": "La Lista Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4cEoEu2gvVVBnCLLYu+RWHrSVj",
+  "snapshot_id": "AAAAANpKCgIjU16hwoCujGrI02/h7X6Q",
   "tracks": [
     {
       "added_at": "2026-10-16 03:00:12",
@@ -302,6 +302,10 @@
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Campe\u00f3n Gabacho",
+          "url": "https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV"
         }
       ],
       "duration_ms": 114559,

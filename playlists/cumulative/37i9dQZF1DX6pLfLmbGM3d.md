@@ -4,7 +4,7 @@
 
 > Let's DIVE into IVE!
 
-91 songs - 4 hr 37 min
+99 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [After LIKE \(Holiday Remix\)](https://open.spotify.com/track/5ZzFww6qXDJZIhObXrJ8E2) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6naCRqrE036Uojfz7Jk64c) | 2:52 | 2023-10-13 |  |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2023-04-10 | 2024-04-19 |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-04-26 |  |
+| [ANYUJIN](https://open.spotify.com/track/5DrFGUNMlqkT8EsILEbecV) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:06 | 2026-10-19 |  |
 | [ATTITUDE](https://open.spotify.com/track/04mHr76sMR8RSqVIgWl785) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:14 | 2025-02-03 |  |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-13 |  |
 | [Baddie \-Japanese version\-](https://open.spotify.com/track/2IVXlEsWeTYyK3s46GVRL2) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 2:34 | 2024-12-19 |  |
@@ -36,6 +37,7 @@
 | [Fireworks](https://open.spotify.com/track/1eKulh2Qn10MZWnKPdkYbm) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:00 | 2026-03-03 |  |
 | [FLU](https://open.spotify.com/track/2mXHElFPmrKhAnoyWT5yDo) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:09 | 2025-02-03 |  |
 | [Force \(ANYUJIN Solo\)](https://open.spotify.com/track/10AmXt6EfyzuSC4CCsji9O) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:24 | 2026-03-03 |  |
+| [GAEUL](https://open.spotify.com/track/0aPQJWekgEyHwC50rjd9Nc) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:05 | 2026-10-19 |  |
 | [GOTCHA \(Baddest Eros\)](https://open.spotify.com/track/2Y7IdLEr2vSFN3Fc1BBjwQ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:31 | 2025-09-01 |  |
 | [Heroine](https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:51 | 2023-04-10 | 2024-04-19 |
 | [Heroine](https://open.spotify.com/track/181TBQxn46cDUxY2ssemLg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 2:51 | 2023-10-13 |  |
@@ -49,12 +51,17 @@
 | [I WANT](https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I WANT](https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe) | 3:00 | 2023-07-13 |  |
 | [Ice Queen](https://open.spotify.com/track/5h0QtLzRxaGI9ujUMugAhr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:03 | 2024-04-29 |  |
 | [In Your Heart \(REI Solo\)](https://open.spotify.com/track/5vM0ZUaQnkqurL7xP88kyC) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:03 | 2026-03-03 |  |
+| [IVE](https://open.spotify.com/track/1V2PXz88kzzbspnPSWU3lH) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:06 | 2026-10-19 |  |
+| [JANGWONYOUNG](https://open.spotify.com/track/54VZHC3fezk5Cm5qnRZoqI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:07 | 2026-10-19 |  |
 | [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-10-13 |  |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-04-10 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/5kRMDu7nOelODru9ZmwbLl) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:15 | 2023-10-13 |  |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-10 | 2024-04-19 |
+| [LEESEO](https://open.spotify.com/track/5lRGvxyZEdcGmctYDxisCd) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:04 | 2026-10-19 |  |
 | [Lips](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:01 | 2023-04-10 | 2024-04-19 |
 | [Lips](https://open.spotify.com/track/4BhGSAx2NTc7Ciw8AutWWM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:01 | 2023-10-13 |  |
+| [LIZ](https://open.spotify.com/track/5xJeJ7eG9glqR9S8BppmQ7) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:04 | 2026-10-19 |  |
+| [Looks Can Kill](https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm) | 3:15 | 2026-10-19 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-04-10 |  |
 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 | 2023-04-10 |  |
 | [Midnight Kiss](https://open.spotify.com/track/3GX5tB0kmvz4CT5lsBVnk6) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 3:44 | 2025-09-01 |  |
@@ -74,6 +81,7 @@
 | [Payback](https://open.spotify.com/track/1RYK0mKtwjWaNLe7Mi6jYN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 3:08 | 2023-10-13 |  |
 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 | 2023-04-10 |  |
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-17 |  |
+| [REI](https://open.spotify.com/track/5GM1XotGAl2qtqffQCJiJw) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:02 | 2026-10-19 |  |
 | [RESET](https://open.spotify.com/track/4hoBqEeOJbrmakqA2Oe4xs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 2:41 | 2024-04-29 |  |
 | [ROYAL](https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 3:26 | 2023-04-10 |  |
 | [Shine With Me](https://open.spotify.com/track/3L7pilDxJhZz1fP6t4D9P9) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:44 | 2023-04-10 | 2024-04-19 |

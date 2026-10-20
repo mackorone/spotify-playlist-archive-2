@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: elka 鄭芷淇
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,756 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,757 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [Taken by the Tide](https://open.spotify.com/track/0JCVAmvfxkoxaC5UQxNCyh) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Taken by the Tide](https://open.spotify.com/album/7IqbDPpjL72Bqtjpyrd5up) | 3:15 |
 | 100 | [Crystallize](https://open.spotify.com/track/53IcghwXEu67lDKxCUib0q) | [Modern Children](https://open.spotify.com/artist/4IZzgVRtODTBz4WzplETIi) | [Crystallize](https://open.spotify.com/album/6cKYWuUUSuDeXikkTBv7w9) | 5:39 |
 
-Snapshot ID: `AAAAAHTQwTlMmBjYAvdodbYGkeFt+Ne9`
+Snapshot ID: `AAAAAORYppx4Pw7G98D8amuVFvykI9Pu`

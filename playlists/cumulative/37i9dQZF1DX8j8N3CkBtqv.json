@@ -1503,6 +1503,36 @@
     },
     {
       "album": {
+        "name": "Ab Toh Tu",
+        "url": "https://open.spotify.com/album/2BvWYsL1fRSxl0br9ossUB"
+      },
+      "artists": [
+        {
+          "name": "Kushal Sood",
+          "url": "https://open.spotify.com/artist/7udOdOmLuEFYoXpL732ShD"
+        },
+        {
+          "name": "ADil",
+          "url": "https://open.spotify.com/artist/1oF1MGRIXXfi0Qcjdbn9RS"
+        },
+        {
+          "name": "Kushal - ADil",
+          "url": "https://open.spotify.com/artist/6QEHcOoXKnCunIaxkgYhpD"
+        },
+        {
+          "name": "Shreya Bajpai",
+          "url": "https://open.spotify.com/artist/5KseHb3FbamXt1d0P5SS4N"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Ab Toh Tu",
+      "url": "https://open.spotify.com/track/4UgZwamyyUCv5Gzl4xliSf"
+    },
+    {
+      "album": {
         "name": "absent-minded freak",
         "url": "https://open.spotify.com/album/6sEg11bzLRFBo1quGNwKhS"
       },
@@ -19686,7 +19716,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 174688,
       "name": "Margot's Song",
       "url": "https://open.spotify.com/track/05xw7nOvQLxC1ROwIlwOO8"

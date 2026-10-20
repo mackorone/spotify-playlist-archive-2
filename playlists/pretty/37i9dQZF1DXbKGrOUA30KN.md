@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,791 likes - 90 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,774 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [Keine Kriege](https://open.spotify.com/track/2o2Kpvj14Z2YIEiFNgOqo1) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [eine EP für mich](https://open.spotify.com/album/2Td7Zh9T3bqdRPGN5LxD9p) | 2:53 |
 | 90 | [Stille Kämpfe](https://open.spotify.com/track/5bwAUjXCeswq7BD1dX4hqV) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Stille Kämpfe](https://open.spotify.com/album/6i7nTqFylGp2JEqUIHCDxc) | 2:47 |
 
-Snapshot ID: `AAAAADSMIUHqBa3//+bqTSsgDGqJKoI6`
+Snapshot ID: `AAAAAP18S6lxQz0myokS9ODCtVcsp9uL`

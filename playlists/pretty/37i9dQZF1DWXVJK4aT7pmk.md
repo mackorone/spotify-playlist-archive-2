@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,575,945 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576,225 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 |
 | 50 | [IYKYK](https://open.spotify.com/track/3Hp5UfErvtHw0SlkRPHkf9) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Inferno](https://open.spotify.com/album/4ZbDtK4rvjgDiyofGLQzot) | 2:35 |
 
-Snapshot ID: `AAAAAHmIbfzQe/shOEU2FB03NG39kBz9`
+Snapshot ID: `AAAAAJeme3oMBxD6uiXXMNRrwEHTeLqf`

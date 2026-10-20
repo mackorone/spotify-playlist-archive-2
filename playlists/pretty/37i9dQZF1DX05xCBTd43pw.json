@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Zo\u00eb M\u00eb",
-  "num_followers": 37554,
+  "num_followers": 37553,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADTmcLD+YNjqbBRPM/oWGxKANccb",
+  "snapshot_id": "AAAAAACT3abPS1U4c1s8rG3f9cWvQPdd",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:26",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 210842,
-      "name": "Wednesdays",
-      "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
       },
@@ -831,22 +815,6 @@
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
-        "name": "Playgrounds In Ruins (Deluxe)",
-        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 203370,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -871,6 +839,22 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
+        "name": "Playgrounds In Ruins (Deluxe)",
+        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 203370,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
         "name": "Dancing Alone Again",
         "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 210842,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Chiara",
-        "url": "https://open.spotify.com/album/4pg04JvDoQrtj5Rm9EaFzH"
-      },
-      "artists": [
-        {
-          "name": "Miyu Hansen",
-          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
-        }
-      ],
-      "duration_ms": 179615,
-      "name": "Chiara",
-      "url": "https://open.spotify.com/track/5551U73Tlvael1eGzhINHD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "The World (AR)",
         "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/4pg04JvDoQrtj5Rm9EaFzH"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hansen",
+          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
+        }
+      ],
+      "duration_ms": 179615,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/5551U73Tlvael1eGzhINHD"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Blue Light",
-        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 206755,
-      "name": "Blue Light",
-      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+      "duration_ms": 206755,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1191,6 +1175,22 @@
       "duration_ms": 173302,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Valse \u00e0 Demi",
         "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
       },
       "artists": [
         {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 161340,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Too Tired",
-        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 231520,
-      "name": "Too Tired",
-      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
+      "duration_ms": 161946,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1407,6 +1391,22 @@
       "duration_ms": 184761,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Too Tired",
+        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "Too Tired",
+      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Trapped in the Middle",
         "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 138443,
       "name": "Trapped in the Middle",
       "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "homemade dynamite",
-        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 209415,
-      "name": "homemade dynamite",
-      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
         "name": "Dorm",
         "url": "https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+        "name": "homemade dynamite",
+        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
       },
       "artists": [
         {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
         }
       ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
+      "duration_ms": 209415,
+      "name": "homemade dynamite",
+      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2026-10-15 22:01:26",
       "album": {
-        "name": "Dreaming & Drowning",
-        "url": "https://open.spotify.com/album/17ybKwJ5HYnFFMcYssJgYX"
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
       },
       "artists": [
         {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 207479,
-      "name": "Dreaming & Drowning",
-      "url": "https://open.spotify.com/track/7iP9aEysn6pKKsJbUksjIz"
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -1619,6 +1603,22 @@
       "duration_ms": 219718,
       "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
       "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
+    },
+    {
+      "added_at": "2026-10-15 22:01:26",
+      "album": {
+        "name": "Dreaming & Drowning",
+        "url": "https://open.spotify.com/album/17ybKwJ5HYnFFMcYssJgYX"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 207479,
+      "name": "Dreaming & Drowning",
+      "url": "https://open.spotify.com/track/7iP9aEysn6pKKsJbUksjIz"
     },
     {
       "added_at": "2026-10-15 22:01:26",

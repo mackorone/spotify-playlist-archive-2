@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247589,
+  "num_followers": 247585,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALyIW0RsDjR/b0HyYxZQ53AAmCCl",
+  "snapshot_id": "AAAAAADtNmxtpR94LgkYjeOI5I9fasgG",
   "tracks": [
     {
       "added_at": "2026-10-16 14:04:25",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "BODY TYPE",
         "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 146500,
       "name": "BODY TYPE",
       "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "MADE IN COHAB",
-        "url": "https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S"
-      },
-      "artists": [
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        },
-        {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "SOCIALISMO DA PUTARIA",
-      "url": "https://open.spotify.com/track/6aLtcUHFthF2k5C4UoDxAb"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "MARIA BOA",
         "url": "https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 161072,
       "name": "O MUNDO \u00c9 DETALHE PRA N\u00d3S",
       "url": "https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "MADE IN COHAB",
+        "url": "https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S"
+      },
+      "artists": [
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        }
+      ],
+      "duration_ms": 192461,
+      "name": "SOCIALISMO DA PUTARIA",
+      "url": "https://open.spotify.com/track/6aLtcUHFthF2k5C4UoDxAb"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -859,30 +859,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "ESTA\u00c7\u00c3O DO PRAZER",
-        "url": "https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
-        },
-        {
-          "name": "WD",
-          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
-        }
-      ],
-      "duration_ms": 171967,
-      "name": "ESTA\u00c7\u00c3O DO PRAZER",
-      "url": "https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 189473,
       "name": "Dan\u00e7ar Pelada",
       "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "ESTA\u00c7\u00c3O DO PRAZER",
+        "url": "https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+        },
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "duration_ms": 171967,
+      "name": "ESTA\u00c7\u00c3O DO PRAZER",
+      "url": "https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "Gambiarra Chic, Pt. 1",
         "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed"
-        }
-      ],
-      "duration_ms": 202052,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "Sinal",
         "url": "https://open.spotify.com/album/4AqmNLl4yXukJZha7K6lOr"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 253150,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/6Ayfv5QkbkmizeyjeQ5gRW"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed"
+        }
+      ],
+      "duration_ms": 202052,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a"
     },
     {
       "added_at": "2026-10-16 14:04:25",

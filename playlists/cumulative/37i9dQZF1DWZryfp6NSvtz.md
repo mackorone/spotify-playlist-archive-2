@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Destroy Boys
 
-12,310 songs - 29 day 6 hr 57 min
+12,311 songs - 29 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9708,6 +9708,7 @@
 | [sound in my head](https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me \(deluxe\)](https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T) | 2:31 | 2022-09-22 | 2022-10-01 |
 | [Sound The Alarm](https://open.spotify.com/track/5s3bd2OstIJiwvn5EqL5lL) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [OLP 30 Volume 1](https://open.spotify.com/album/0r7cBZloFk7lWUU8TNuTup) | 3:00 | 2024-09-20 | 2024-09-28 |
 | [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 | 2026-07-24 | 2026-08-08 |
+| [Soundtrack of Life](https://open.spotify.com/track/7krzvJdlHLzMMyXZ57OKDp) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Sunday Drive](https://open.spotify.com/album/1CxZ51LWwzzAQLorsAwJfo) | 3:16 | 2026-10-19 |  |
 | [Sour Milk](https://open.spotify.com/track/2RZ7FUkeNqfZmIyjeB9P63) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [New Wave Vaudeville](https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7) | 3:23 | 2025-01-10 | 2025-01-18 |
 | [Sour Patch](https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Sour Patch](https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO) | 3:21 | 2024-05-03 | 2024-05-11 |
 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 | 2023-10-27 | 2023-11-04 |

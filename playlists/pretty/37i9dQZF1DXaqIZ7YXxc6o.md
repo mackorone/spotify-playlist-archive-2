@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Torren Foot, rhys from the sticks
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,911 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,910 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [U N ME](https://open.spotify.com/track/6yAsXhdjZd8AvcX91LtQ7a) | [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [U N ME](https://open.spotify.com/album/2Ex11o8saGa4dvWlhucqD4) | 2:32 |
 | 100 | [Crazy](https://open.spotify.com/track/7aYBPp0VIdidTQr7H77pio) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [EWAN CARTER](https://open.spotify.com/artist/1wjHMUncSf4Iq5APKUGmAI) | [Crazy](https://open.spotify.com/album/5JjO5PjxA1tm3PD6z7tXiZ) | 3:38 |
 
-Snapshot ID: `AAAAAK/2U5MARd7KoQqpCeFHNd/1/Xpd`
+Snapshot ID: `AAAAADIPv2oO7W3BXsT3m9UMBeAiCgRz`

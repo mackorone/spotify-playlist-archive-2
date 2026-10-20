@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Langa Mavuso, Olivia Rodrigo, Aubrey Qwana,  Lucky Daye and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,915 likes - 57 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,938 likes - 57 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 18 | [Cash Rules Everything Around Us](https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Cash Rules Everything Around Us](https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK) | 2:36 |
 | 19 | [Fly Away](https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Autumn](https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW) | 3:12 |
 | 20 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
-| 21 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 21 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 22 | [Amaphupho](https://open.spotify.com/track/2vJVZqBU5crXahDo0GhC2U) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Open Your Eyes More \(Deluxe\)](https://open.spotify.com/album/7EeiOTP8ycMXT7BFmoC7Ar) | 6:55 |
 | 23 | [GODDESS \(feat\. Lojay\)](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
 | 24 | [Big Drop \(feat\. Zaylevelten\)](https://open.spotify.com/track/4las0h0JOVTrmluFS6ulMW) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Big Drop \(feat\. Zaylevelten\)](https://open.spotify.com/album/02G39lYZMBp1WZLzoPZpVz) | 2:20 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 56 | [Higher](https://open.spotify.com/track/6Dnh4pkKQoMfuGpoqJYbz1) | [Big C](https://open.spotify.com/artist/4zQCczX5aPsCzEAzMYXpsy), [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI) | [Higher](https://open.spotify.com/album/3JsoD7Yc1DpkLiIlyrgEUR) | 3:19 |
 | 57 | [G.B.V\. Myeke](https://open.spotify.com/track/4ijmVEdhWjChjJAv8isHAM) | [Usomandla](https://open.spotify.com/artist/454Sdz5ZVqE4spb5x4qavF) | [Immediate Effect](https://open.spotify.com/album/7n38CFYc3DGrFAWkhK2ecu) | 4:29 |
 
-Snapshot ID: `AAAAALjEyr7Be2EaYzjrkDBc428xymKI`
+Snapshot ID: `AAAAAMBvoiE69rYMUDdoQ2YcsaiO26xl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,903,674 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903,565 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 49 | [Something To Be Said](https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Something To Be Said](https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o) | 3:33 |
 | 50 | [Right On Time](https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Right On Time](https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq) | 3:29 |
 
-Snapshot ID: `AAAAAN5VZquZl4wv2EvrHtj/b3eLfQ8W`
+Snapshot ID: `AAAAAKNK9tVbyt2GWqlg2zqLFAghCeVr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,404 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,407 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 37 | [Bowie](https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 4:57 |
 | 38 | [Zaprzepaszczone siły wielkiej armii świętych znaków \- Live](https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8) | [Coma](https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17) | [Coma Live Pol'and'Rock Festival 2024](https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7) | 14:15 |
 | 39 | [ZE SPRITE'EM](https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu) | [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV) | [ZA DUŻO GITAR](https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5) | 3:27 |
-| 40 | [WKURWELEPSZEPOGO](https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [TRASH TAPE](https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax) | 2:16 |
-| 41 | [Moja bestia](https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 4:41 |
+| 40 | [Moja bestia](https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 4:41 |
+| 41 | [WKURWELEPSZEPOGO](https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [TRASH TAPE](https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax) | 2:16 |
 | 42 | [Nowy rozdział](https://open.spotify.com/track/02W2Rnd9yiaYMUdPb8FW8u) | [Turbo](https://open.spotify.com/artist/1hT8ADv3IA415PjBUwfLLv) | [Blizny](https://open.spotify.com/album/3zZetK9kvK3SFuI1hCazEB) | 4:06 |
 | 43 | [The Shit Ov God](https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV) | 5:36 |
 | 44 | [VValka o każdy kolejny dzień](https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:53 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [Etiuda f\-moll z Trois Nouvelles Études nr 1 Dbop\. 36A](https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK) | [LIS](https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Fryderyk LIS](https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71) | 4:11 |
 | 79 | [Give It a Rest](https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ) | [Alan Balcerowski Quintet](https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug) | [Looking Ahead](https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9) | 7:06 |
 
-Snapshot ID: `AAAAAFEjUNGjyed6jiKSiJwcLI4HQAGF`
+Snapshot ID: `AAAAAK4A3EpnBZzZ93BanYvAMUGBBObG`

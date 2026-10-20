@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,028 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,025 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 59 | [Stay the way you are](https://open.spotify.com/track/6152qqLRTKR7YByr4IU8gj) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Stay the way you are](https://open.spotify.com/album/6j8UG0BVhSqnRFH5UpSXe4) | 3:26 |
 | 60 | [Blue Shining Star](https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Blue Shining Star](https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE) | 3:41 |
 
-Snapshot ID: `AAAAAI8iDrCvTR0vVw1sws0pn0KDvLoj`
+Snapshot ID: `AAAAADYFByPCC+U6FQzibv8Ffz5zc9pF`

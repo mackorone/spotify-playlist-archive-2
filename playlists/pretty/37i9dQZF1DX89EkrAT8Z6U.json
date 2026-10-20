@@ -1,12 +1,12 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1338905,
+  "num_followers": 1338984,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKLa7pOYtpeCd5NhXSh2eiMnvuU",
+  "snapshot_id": "AAAAABCqU7oGUrxMrsH4iJTnH8W0iKL4",
   "tracks": [
     {
       "added_at": "2024-09-18 21:12:46",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2024-09-18 21:12:46",

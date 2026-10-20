@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 387753,
+  "num_followers": 387759,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAODLL2kyvQjLHdJL+/QP3VXQfxOx",
+  "snapshot_id": "AAAAAAxy7PRYgH0ZFQC9hqV1hf4Ua3+9",
   "tracks": [
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Son Of The South",
-        "url": "https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8"
-      },
-      "artists": [
-        {
-          "name": "Del Reeves",
-          "url": "https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Girl on the Billboard (Rerecorded)",
-      "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "King Of The Road: The Genius Of Roger Miller",
         "url": "https://open.spotify.com/album/3fgWkDQtzVocTDqmlX0ISd"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 160760,
       "name": "Walkin' In The Sunshine - Single Version",
       "url": "https://open.spotify.com/track/18HSzsGBHeLpQiB5KqV9Jb"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "Son Of The South",
+        "url": "https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8"
+      },
+      "artists": [
+        {
+          "name": "Del Reeves",
+          "url": "https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Girl on the Billboard (Rerecorded)",
+      "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
     },
     {
       "added_at": "2026-02-17 04:47:51",

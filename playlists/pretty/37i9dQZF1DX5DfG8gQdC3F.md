@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Tate McRae, Zach Bryan & Lana Del Rey, Olivia Rodrigo & Chappell Roan, Sophia Stel, Fontaines D.C, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,257 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,212 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 10 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
 | 11 | [angela the traveller](https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [the afterparty](https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq) | 2:47 |
 | 12 | [Shroom Clouds \(feat\. reggie & Jeremih\)](https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Shroom Clouds \(feat\. reggie & Jeremih\)](https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813) | 3:15 |
-| 13 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 13 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 14 | [H.O.U.S.E](https://open.spotify.com/track/1BTZKp1hBSeApqQh1ngqpZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [H.O.U.S.E](https://open.spotify.com/album/4q7mI2Qh8J13e1IWkXCXdA) | 2:31 |
 | 15 | [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 |
 | 16 | [Sorry](https://open.spotify.com/track/3dhSscAi765CP5IXEIy0BT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on \(deluxe\)](https://open.spotify.com/album/1qbGwfRKoupCptOicxgdMc) | 2:51 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 56 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 | 57 | [the long haul](https://open.spotify.com/track/3VzruTDlXDth0txAyBnAwb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [the long haul](https://open.spotify.com/album/4FATH35O7poCB78iRgrnFp) | 3:24 |
 | 58 | [Red Label Bourbon](https://open.spotify.com/track/6NbVCqFJnnIrKJkHKMO0B5) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Red Label Bourbon](https://open.spotify.com/album/6LdHmCluKasIiEE2VPBCIN) | 2:46 |
-| 59 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Wild Hearts](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
+| 59 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Wild Hearts Series](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
 | 60 | [Soul Will Survive](https://open.spotify.com/track/6Ngq7jRTlttTDAocDNnQ7m) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [low hanging fruit](https://open.spotify.com/album/4Nw2AbIyNSsyOgxHWvSnpU) | 3:50 |
 | 61 | [Shapeshifter](https://open.spotify.com/track/63E52izHIaZMmONzrAiXQE) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Shapeshifter](https://open.spotify.com/album/2zHJc1o17idGVzSLfF2ueI) | 3:18 |
 | 62 | [Sex & Drugs](https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Sex & Drugs](https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv) | 3:15 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [J'aime le stress](https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4) | [Nectar Palace](https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT) | [J'aime le stress](https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ) | 2:51 |
 | 101 | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/track/3g7Z7sKCS2dnihluo3ZMT6) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/album/6oqUgxNHrpmxRZuFuNTHSN) | 2:54 |
 
-Snapshot ID: `AAAAAKL2vSRVmTwqzf0yQ323WMRtZnzc`
+Snapshot ID: `AAAAAEiVLSMWI8gDH8Vd5J7JxI6+e4JH`

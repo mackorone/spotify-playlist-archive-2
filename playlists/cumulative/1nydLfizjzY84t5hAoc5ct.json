@@ -6955,6 +6955,24 @@
     },
     {
       "album": {
+        "name": "sovereign",
+        "url": "https://open.spotify.com/album/4oMem9aTVxh2aVkm8fVCQ5"
+      },
+      "artists": [
+        {
+          "name": "philomenah",
+          "url": "https://open.spotify.com/artist/3GkJCx0tIZGy7RzkJQKwQ4"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255321,
+      "name": "sovereign",
+      "url": "https://open.spotify.com/track/0pj7FGDT76FvGzMF6jtEqs"
+    },
+    {
+      "album": {
         "name": "Blueprints",
         "url": "https://open.spotify.com/album/2xPueJoMK50RMmE5NYiLuG"
       },

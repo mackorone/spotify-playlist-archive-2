@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,770 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,795 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,21 +86,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 76 | [Mainframe Blues](https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Mind Games](https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD) | 2:51 |
 | 77 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 78 | [1958 Revisited](https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa) | [Fred Weinberg](https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ) | [The Weinberg Method of Nonsynthetic Electronic Rock](https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y) | 2:08 |
-| 79 | [Nanobot Highway](https://open.spotify.com/track/5SUJoc7GRrSgxdEOnDwuKd) | [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:38 |
+| 79 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 |
 | 80 | [The Sausage Machine](https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ) | [Stephen Gray](https://open.spotify.com/artist/6JaoVxWFnK1tu1s6rqox90) | [Kpm 1000 Series: Industry Volume 1](https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC) | 1:10 |
-| 81 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 |
+| 81 | [Nanobot Highway](https://open.spotify.com/track/5SUJoc7GRrSgxdEOnDwuKd) | [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:38 |
 | 82 | [Abominatron](https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO) | [33](https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:53 |
-| 83 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 |
-| 84 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
+| 83 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
+| 84 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 |
 | 85 | [The First Exploration @ SF Radical Laboratories, 1968](https://open.spotify.com/track/0oHtVQyBQY08BqadsturBJ) | [Doug McKechnie](https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D) | [San Francisco Moog: 1968\-72 Vol\. 1](https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl) | 8:31 |
 | 86 | [Another Year Away](https://open.spotify.com/track/4hxa6XR72iGXD3DBEEbIu8) | [Roger O'Donnell](https://open.spotify.com/artist/7uPA6aEnbQYWtCQcXTgg88) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 5:29 |
 | 87 | [Sonik Re\-Entry](https://open.spotify.com/track/2ozohxykp23xAoXBTs1IV7) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw), [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Electronic Music](https://open.spotify.com/album/74KIAMbeiTQcR9P49Mw0NU) | 2:33 |
-| 88 | [Words From The Underground](https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM) | [Electric Party](https://open.spotify.com/artist/7EUiSsAIiMGVZoD7zK7Dpy) | [Play](https://open.spotify.com/album/4wmeNJgjxZ894daRCjiZG7) | 2:18 |
-| 89 | [You Have Been Selected](https://open.spotify.com/track/7iwf7GWSuCG2mrjorTamcU) | [Pete DeVriese](https://open.spotify.com/artist/5bHE3teeBAAXVvNx8P2RjJ) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 3:52 |
+| 88 | [You Have Been Selected](https://open.spotify.com/track/7iwf7GWSuCG2mrjorTamcU) | [Pete DeVriese](https://open.spotify.com/artist/5bHE3teeBAAXVvNx8P2RjJ) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 3:52 |
+| 89 | [Caravanas](https://open.spotify.com/track/2EGhZHcUJu59pQ8MhcuKAP) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Continuvm](https://open.spotify.com/album/62WiMKx0FxZFTKSzEEbmzK) | 5:05 |
 | 90 | [Meditation Moog 1968](https://open.spotify.com/track/1UPHzns78VMAJtUtpvkw5B) | [Doug McKechnie](https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D) | [San Francisco Moog: 1968\-72 Vol\. 1](https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl) | 4:23 |
-| 91 | [Caravanas](https://open.spotify.com/track/2EGhZHcUJu59pQ8MhcuKAP) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Continuvm](https://open.spotify.com/album/62WiMKx0FxZFTKSzEEbmzK) | 5:05 |
-| 92 | [Song of the Second Moon](https://open.spotify.com/track/1Gb9oCSGST0crUDjBowD20) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 3:08 |
-| 93 | [Mixed Waste 4.2](https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u) | [Baiyon](https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:11 |
+| 91 | [Words From The Underground](https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM) | [Electric Party](https://open.spotify.com/artist/7EUiSsAIiMGVZoD7zK7Dpy) | [Play](https://open.spotify.com/album/4wmeNJgjxZ894daRCjiZG7) | 2:18 |
+| 92 | [Mixed Waste 4.2](https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u) | [Baiyon](https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:11 |
+| 93 | [Song of the Second Moon](https://open.spotify.com/track/1Gb9oCSGST0crUDjBowD20) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 3:08 |
 | 94 | [Cosmic Bust](https://open.spotify.com/track/0BufJVMmsjjrL0MdwIS0Md) | [Colonel Elliott & The Lunatics](https://open.spotify.com/artist/4ntYHeXkHdaw8dH6Fsv7lj) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 2:39 |
 | 95 | [Dripcots Space Boat](https://open.spotify.com/track/71FY2kOeUHPbGonEvQD3QZ) | [Joe Meek & the Blue Men](https://open.spotify.com/artist/0RtKMoqVNlddAnmrHSztA6), [Rod Freeman](https://open.spotify.com/artist/7gshb9npFaU24V5Ya7DGiV) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 2:13 |
 | 96 | [Disco Moog](https://open.spotify.com/track/1yu3Ju4HbS4yvZMvR5WchU) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Disco Experience](https://open.spotify.com/album/1KdS3ps4WVAPsNErOGeBXM) | 3:54 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 143 | [Theme from Music for Sensuous Lovers Part I \- Instrumental](https://open.spotify.com/track/5exiBWEuT9tkTUBeVv3adg) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha), [Z](https://open.spotify.com/artist/4Y7g10E15aIfaGngnQrmgh) | [Music from Patch Cord Productions](https://open.spotify.com/album/1gQEZGsbezSFGXK7M4AH75) | 3:10 |
 | 144 | [Dragonfly](https://open.spotify.com/track/5txsuDBk4Eno0NUcn0sQ8u) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Dragonfly](https://open.spotify.com/album/0dKaijFd0UsW2ObxcoZL09) | 3:18 |
 
-Snapshot ID: `AAAAAIVZFDzp5G+6RLRpKA4dJweOdm8S`
+Snapshot ID: `AAAAAKlImXsSgwz5OquQNAjwY6qgGnEP`

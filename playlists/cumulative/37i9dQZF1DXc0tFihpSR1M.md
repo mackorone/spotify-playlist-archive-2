@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Olivia Rodrigo & Chappell Roan
 
-727 songs - 1 day 13 hr 49 min
+728 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [bedrot \(fml\)](https://open.spotify.com/track/3MqtBLXIs8JTRHgkq2GmZv) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [bedrot \(fml\)](https://open.spotify.com/album/24i4l5SikQ6SsrEn2T8foi) | 2:27 | 2026-07-02 | 2026-07-25 |
 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 | 2026-07-24 |  |
 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-06-27 | 2024-07-04 |
+| [Before You Know It](https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Before You Know It](https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo) | 2:53 | 2026-10-16 |  |
 | [Beginning of the end](https://open.spotify.com/track/7hcaBE52IGte9DmvULYeY3) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Beginning of the end](https://open.spotify.com/album/4Y1iz8SPcwtT6fqJIwWMOg) | 3:10 | 2025-02-27 | 2025-04-23 |
 | [Beige & White](https://open.spotify.com/track/7uw6m9sfVkZUPDOCdgcXMl) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Beige & White](https://open.spotify.com/album/0MKhrPXQOjJRJNXFHhDwc2) | 2:32 | 2025-12-18 | 2026-01-02 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-30 | 2025-11-14 |
@@ -206,7 +207,7 @@
 | [For Gitt](https://open.spotify.com/track/0zDmc48GF8H9VD1bAOzoOV) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp), [Kriss](https://open.spotify.com/artist/7oWGXJb3IEJW8tftK5ZTas) | [For Gitt](https://open.spotify.com/album/2poWLVunx0bTTlEdcJVw2K) | 2:54 | 2025-05-08 | 2025-08-29 |
 | [for godt te å være sant](https://open.spotify.com/track/45w3l40v6FKHRR1br4jL84) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [for godt te å være sant](https://open.spotify.com/album/24ljemOJrRApl3ILhqO1or) | 2:56 | 2024-08-08 | 2024-08-23 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-06-27 | 2025-02-21 |
-| [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 | 2026-09-03 |  |
+| [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 | 2026-09-03 | 2026-10-20 |
 | [Forandra meg](https://open.spotify.com/track/2aZvSspnaeVy4FbRYDFXKl) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al) | [Forandra meg](https://open.spotify.com/album/4wndF2b15v5drwzDnECyyt) | 3:03 | 2024-08-15 | 2024-08-23 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-06-27 | 2024-11-02 |
 | [Fortjener litt fri](https://open.spotify.com/track/5rcGHD3pKmAZp8PyDySpgH) | [Pikekyss](https://open.spotify.com/artist/54xTXofo1EERPAgsvvBPho) | [Fortjener litt fri](https://open.spotify.com/album/4ai9fd3SitPQC8LHdEJBla) | 3:08 | 2026-05-21 | 2026-05-30 |

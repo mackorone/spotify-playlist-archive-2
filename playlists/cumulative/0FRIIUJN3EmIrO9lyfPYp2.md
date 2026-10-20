@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-1,070 songs - 1 day 13 hr 9 min
+1,073 songs - 1 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [digital tapeloop](https://open.spotify.com/track/1zpJOi9DDydjRxeICeWr76) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [digital tapeloop](https://open.spotify.com/album/3VRB8yFoDqHTXcHp1hQI0b) | 1:47 | 2026-08-28 |  |
 | [dissociate](https://open.spotify.com/track/3yPQ03xxVx2TIxxtxkqkdS) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [dissociate](https://open.spotify.com/album/5UuVCuVH2He5gbKPq5nmNO) | 1:41 | 2025-02-28 |  |
 | [distance](https://open.spotify.com/track/4GIUT6vMi3GlUNKbf9J7Eu) | [April 15](https://open.spotify.com/artist/4hpxrBUocDToNe2y7455EP) | [distance](https://open.spotify.com/album/4fFMM7o1RHqyFeuDQQGL57) | 2:44 | 2026-02-14 |  |
+| [distant](https://open.spotify.com/track/3SeNefEG2ED6ASCCix9gwj) | [blurhaven](https://open.spotify.com/artist/5uqWLgDxaeYr3w9UG1XpV8) | [distant](https://open.spotify.com/album/1hORRphEiGnnBBVY9fJPJS) | 1:51 | 2026-10-19 |  |
 | [distant](https://open.spotify.com/track/5xLyjupDIwGEUTz4MVYxtQ) | [ohhdeer](https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x) | [distant](https://open.spotify.com/album/4HsD3VsrVOSqR5jTVUDnzZ) | 1:20 | 2025-02-28 |  |
 | [distant embrance](https://open.spotify.com/track/7dU8V7L2IONptx6ZwrUATX) | [Domnxn](https://open.spotify.com/artist/6kzTei4hZg663YoTr7BbN5) | [distant embrance](https://open.spotify.com/album/3fDzw45I1gL67VOxgeFDwl) | 1:45 | 2025-10-24 | 2026-01-03 |
 | [distant memories](https://open.spotify.com/track/1x2KTWZMfUO2ZxnJbkqAmx) | [HØUXTON](https://open.spotify.com/artist/2scyn1qiOgz5pOR3NFUokW) | [distant memories](https://open.spotify.com/album/4Df0RviSWrG19RzlVgj9fy) | 2:16 | 2025-05-23 | 2026-01-03 |
@@ -660,6 +661,7 @@
 | [nightwalk](https://open.spotify.com/track/22u3kxBFJgUkfDOqCZRHrp) | [jn\_n.mp3](https://open.spotify.com/artist/3cd41L5XzRuJJN2Rzj14tE) | [memory fragments](https://open.spotify.com/album/6tsxgXjlCK2wz6qxqgs2KN) | 2:08 | 2025-11-21 | 2026-01-03 |
 | [no coincidence](https://open.spotify.com/track/1nwxLY1Ect84ZNAY0h2gfX) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [no coincidence](https://open.spotify.com/album/2Cos4m3kUhANrVtQyxu5nB) | 2:10 | 2025-04-25 |  |
 | [no more feelings](https://open.spotify.com/track/7IGOXvXQLFpQ048xsFM2wP) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [no more feelings](https://open.spotify.com/album/7s0cg3INr4CusWnp4aOV4C) | 2:38 | 2025-06-27 |  |
+| [No more summers](https://open.spotify.com/track/4mYLux3VgtrWUWhVXpFB9s) | [Lunor](https://open.spotify.com/artist/63paVfzRoBxKo1elWzEpds), [dierollie](https://open.spotify.com/artist/03bk7A5a2rXuTbYyLdqyhb) | [No more summers](https://open.spotify.com/album/4JCBPbFyXgtCzU8OzMstDW) | 2:00 | 2026-10-19 |  |
 | [no one understands](https://open.spotify.com/track/5mvq46FyFdr29mEX7MV6pg) | [Azerea](https://open.spotify.com/artist/1fEsuG9PXkSpUvPSq5sMOv) | [no one understands](https://open.spotify.com/album/04JxSgo1zqiSdnuPyTcY4q) | 2:00 | 2025-06-06 | 2026-01-03 |
 | [no one wished me happy birthday](https://open.spotify.com/track/5FljJos9hj18hTmqvewoSD) | [austen](https://open.spotify.com/artist/0mGVTqV5kBBY2gd7Yo1mTx) | [no one wished me happy birthday](https://open.spotify.com/album/64dSeILKHqPwnIvne6ZsnD) | 2:47 | 2026-01-02 |  |
 | [no return](https://open.spotify.com/track/1N7dEG5Y9ApgS2sDrzofC3) | [nowt](https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI) | [no return](https://open.spotify.com/album/22LaIUmPvc9c46W6TxBd1n) | 2:48 | 2026-06-27 |  |
@@ -838,6 +840,7 @@
 | [snow](https://open.spotify.com/track/2LbH9k4YT7GexzbFw8ic0k) | [d2s1](https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY) | [snow](https://open.spotify.com/album/3GuYaK3FvkwnwKj1FP0osc) | 1:08 | 2026-05-01 |  |
 | [snowfield](https://open.spotify.com/track/4Mu8gCmoYZu4lOXinMyeQ2) | [empty street](https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X) | [snowfield](https://open.spotify.com/album/76cupMTaE05Yr9Y6s9VOLE) | 2:14 | 2025-09-05 | 2026-01-03 |
 | [snowy weeks](https://open.spotify.com/track/39uMj3u0hQIDBfbLUizGZ6) | [maxim](https://open.spotify.com/artist/1XqIdnjDG7vIalORsa1kPn) | [snowy weeks](https://open.spotify.com/album/5hhBYp6pyqMdwHgVmDR6Ek) | 1:36 | 2025-12-12 | 2026-01-03 |
+| [soft light](https://open.spotify.com/track/1BdGMxlAOFwyY3P6Bohmxz) | [bakhal](https://open.spotify.com/artist/61EsV7igt7pSdfVJqRimZ8) | [soft light](https://open.spotify.com/album/7yHqIWXxtbZNhH323A7jIz) | 1:36 | 2026-10-19 |  |
 | [somebody](https://open.spotify.com/track/7gDpNhSMAQxI1Wb7MLAypf) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [somebody](https://open.spotify.com/album/2zfM4zptWg45tVyxOiFFoW) | 1:51 | 2025-03-21 |  |
 | [somebody like you](https://open.spotify.com/track/06R5UhaVHHSWXcOEbmtFD4) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [somebody like you](https://open.spotify.com/album/6t4B4Qe3PRFD8vhGrPjAsN) | 2:22 | 2026-03-13 |  |
 | [something beautiful about endings](https://open.spotify.com/track/6CyadK0okl0gDS8Ponj7xy) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83) | [something beautiful about endings](https://open.spotify.com/album/2bnnkqNN9wTLPt1rsdCiuv) | 3:20 | 2025-08-02 |  |

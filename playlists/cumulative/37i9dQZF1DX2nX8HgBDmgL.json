@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Hania Aamir",
+  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Satinder Sartaj",
   "name": "Desi Pop",
   "tracks": [
     {
@@ -600,6 +600,28 @@
       "duration_ms": 224240,
       "name": "Asal Mein",
       "url": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
+    },
+    {
+      "album": {
+        "name": "AUJLA SZN 1",
+        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217625,
+      "name": "Ashke",
+      "url": "https://open.spotify.com/track/5vTJrmnmJMAvFjrUpUWxyy"
     },
     {
       "album": {
@@ -1226,6 +1248,28 @@
       "duration_ms": 157808,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/1x2noEPAyAW2NZp9lIwrC4"
+    },
+    {
+      "album": {
+        "name": "Casa Tupka Anthemo",
+        "url": "https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Casa Tupka Anthemo",
+      "url": "https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0"
     },
     {
       "album": {
@@ -2306,7 +2350,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 196600,
       "name": "Ek Nishani",
       "url": "https://open.spotify.com/track/24mdYFFK4Mgn9zmmdE1dQ5"
@@ -2856,6 +2900,24 @@
       "duration_ms": 211200,
       "name": "Guzaarishein (From \"Parwarish\") - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1kKnxDBA03jTlAuZvkIB8r"
+    },
+    {
+      "album": {
+        "name": "Guzarish",
+        "url": "https://open.spotify.com/album/2YeoLVaz3FRi1RvQmyVhMN"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288030,
+      "name": "Guzarish",
+      "url": "https://open.spotify.com/track/45Gi7lLR8VI4hFyPeJpxH3"
     },
     {
       "album": {
@@ -3650,7 +3712,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 266665,
       "name": "Jawani Iraqi",
       "url": "https://open.spotify.com/track/7DN3TsyWgLDY2tgUzczg1h"
@@ -3712,6 +3774,28 @@
       "duration_ms": 265817,
       "name": "Jhol",
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
+    },
+    {
+      "album": {
+        "name": "Jiyara",
+        "url": "https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Vampire",
+          "url": "https://open.spotify.com/artist/2skUmvAGfu7NfzcxmzYvkv"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Jiyara",
+      "url": "https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE"
     },
     {
       "album": {
@@ -3905,6 +3989,36 @@
     },
     {
       "album": {
+        "name": "KALYANI (with Shreya Ghoshal) [Remix]",
+        "url": "https://open.spotify.com/album/7JIw6me0sSXfs4nGwNaTHw"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269387,
+      "name": "KALYANI (with Shreya Ghoshal) - Remix",
+      "url": "https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD"
       },
@@ -3942,7 +4056,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 228461,
       "name": "Kamaal Hai",
       "url": "https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l"
@@ -4790,6 +4904,32 @@
       "duration_ms": 389576,
       "name": "Maharani",
       "url": "https://open.spotify.com/track/7CVw4gVPpH1TPQttQGVmhZ"
+    },
+    {
+      "album": {
+        "name": "Maheya | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/0il0NJaJAT6DIG5JedUIOK"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "AARYAN",
+          "url": "https://open.spotify.com/artist/3b1957PW1iBjUULrNYSohi"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Maheya | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/6M9r6baHDuTaXREdS1Li47"
     },
     {
       "album": {
@@ -6110,7 +6250,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 119000,
       "name": "PARIS",
       "url": "https://open.spotify.com/track/5f6RgJQ5jJfWAieIBlcbvl"
@@ -7312,7 +7452,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 248413,
       "name": "Sila",
       "url": "https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX"
@@ -7794,7 +7934,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 365294,
       "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/1MOqdEnMcD4r0zMYEmp9Ju"

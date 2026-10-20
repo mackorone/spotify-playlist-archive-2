@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,172 likes - 188 songs - 11 hr 3 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,158 likes - 186 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 184 | [Una Vez](https://open.spotify.com/track/3bndYuSoq7nlyrF3vGstIH) | [Luna DS](https://open.spotify.com/artist/2iLq71fzT6baEAACvjvmvB) | [Una Vez](https://open.spotify.com/album/5OmAHiDr0cZSQIsDDqRpFS) | 3:22 |
 | 185 | [KITTY](https://open.spotify.com/track/1algdo3sG7zd6jfv448M44) | [TURY](https://open.spotify.com/artist/6vyNAkvziLadszSMfL3urM) | [KITTY](https://open.spotify.com/album/3IfwL2cDKtB6gVlIpzQjQ0) | 2:38 |
 | 186 | [Beach Park](https://open.spotify.com/track/24yV3WJsch0i5iRbRmuFDV) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Beach Park](https://open.spotify.com/album/3uWzrgA6dFovW0hXTlmWbm) | 2:48 |
-| 187 | [Memories](https://open.spotify.com/track/3KCvb21CqbVFnp8YbRQTpf) | [Sobeki](https://open.spotify.com/artist/610sq2fDjsM29tpt5DNCIU) | [Memories](https://open.spotify.com/album/5cVawvQpECf8c1H0vv90cz) | 2:20 |
-| 188 | [The Muse](https://open.spotify.com/track/1A9s11MEjYS7TMyTIiW4yo) | [Terry Forsey](https://open.spotify.com/artist/4UQ2vr44f5fhvWyfSraoUJ) | [Making Memories](https://open.spotify.com/album/5TSOPsZ3ylEhap55pwnHJL) | 3:42 |
 
-Snapshot ID: `AAA/5E++p5W0ggWPPBbJd44XtBauYQDJ`
+Snapshot ID: `AAA/5amGRMwWigEV9omOAtTYzb8mWxvu`

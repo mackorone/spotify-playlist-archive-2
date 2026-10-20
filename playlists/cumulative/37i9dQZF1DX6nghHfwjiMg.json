@@ -3661,6 +3661,24 @@
     },
     {
       "album": {
+        "name": "Zorro Blanco Manto Negro",
+        "url": "https://open.spotify.com/album/4N11WS9pWVr7iZwov94dpA"
+      },
+      "artists": [
+        {
+          "name": "Crewrod",
+          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229679,
+      "name": "Manto Negro",
+      "url": "https://open.spotify.com/track/0npcH5rvqo1dKr96CzLM4Q"
+    },
+    {
+      "album": {
         "name": "Marfil / E.M.C",
         "url": "https://open.spotify.com/album/3kGuw41SZs0uBDTaTudef1"
       },
@@ -5202,6 +5220,28 @@
       "duration_ms": 209463,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u"
+    },
+    {
+      "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/6vDdBdjMBYxfIOVdiSdlJF"
+      },
+      "artists": [
+        {
+          "name": "Camila Pino",
+          "url": "https://open.spotify.com/artist/5sduq9dVmsPqZrfFEuC07S"
+        },
+        {
+          "name": "Manu Estrada",
+          "url": "https://open.spotify.com/artist/3iBwX6PVa8BNVoGjCIZNm9"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161856,
+      "name": "Pienso y Declaro",
+      "url": "https://open.spotify.com/track/7DPzjkY3cS2cv6DYi23jEb"
     },
     {
       "album": {

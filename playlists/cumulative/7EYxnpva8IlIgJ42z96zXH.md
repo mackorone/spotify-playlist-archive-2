@@ -4,7 +4,7 @@
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-1,176 songs - 2 day 13 hr 49 min
+1,177 songs - 2 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 | 2025-08-08 | 2025-08-09 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-12-16 | 2023-01-13 |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-07-28 | 2024-07-19 |
-| [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2026-06-23 |  |
+| [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2026-06-23 | 2026-10-20 |
 | [Dick \(feat\. Doja Cat\) \- Sickick Remix](https://open.spotify.com/track/7avreNC8Af4ifQDk8CGJOz) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Dick \(feat\. Doja Cat\) \[Sickick Remix\]](https://open.spotify.com/album/7iZr3eEA8Egk0LmMqeKmhK) | 2:44 | 2021-06-11 | 2021-07-30 |
 | [DID IT AGAIN](https://open.spotify.com/track/2MfWz9bUFvQyxK2lGygobj) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [DID IT AGAIN](https://open.spotify.com/album/4SAiYbnAeG0Y8jPJj51HbA) | 2:32 | 2026-06-11 | 2026-06-23 |
 | [die young](https://open.spotify.com/track/6gz1rkKGjyRciDhXQRe5Am) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:44 | 2023-12-08 | 2024-07-19 |
@@ -464,6 +464,7 @@
 | [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-12-16 | 2023-01-28 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-31 | 2022-06-25 |
 | [High \- MJ Cole Remix](https://open.spotify.com/track/0HLTkJFrnw319gmtA0Kh7W) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [High \(MJ Cole Remix\)](https://open.spotify.com/album/1m4ioXqEmxumANUTZnwMY0) | 3:12 | 2024-09-12 | 2024-12-06 |
+| [High Forever \- Marlon Hoffstadt Remix](https://open.spotify.com/track/25KN5IFew2JifHoqx5Q7Z7) | [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [High Forever \(Marlon Hoffstadt Remix\) \(from Cyberpunk: Edgerunners 2\)](https://open.spotify.com/album/5pPe6MIjjVWSMY4HkO65f8) | 3:49 | 2026-10-20 |  |
 | [High ft\. Nicole Millar](https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High](https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF) | 3:48 | 2024-07-19 | 2024-09-13 |
 | [High Hopes](https://open.spotify.com/track/2QzlUwDods1IHQF3UyYAAO) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [High Hopes](https://open.spotify.com/album/3dXia3q3srWDlY9P3rTGdq) | 2:58 | 2023-12-08 | 2024-05-17 |
 | [Higher Than You](https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Higher Than You](https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz) | 3:12 | 2022-12-09 | 2022-12-16 |

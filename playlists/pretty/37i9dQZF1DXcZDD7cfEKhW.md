@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,331,793 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,331,462 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Me & U \- Sammy Virji Remix](https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Me & U \(Sammy Virji Remix\)](https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3) | 3:21 |
 | 75 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
 
-Snapshot ID: `AAAAAN7n7QrmQ+m+ErtgZlZC6T9Q4El1`
+Snapshot ID: `AAAAACv6s+MGJvrPXvHHIOc6DzLV6RCP`

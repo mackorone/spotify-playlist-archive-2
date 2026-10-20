@@ -2783,6 +2783,28 @@
     },
     {
       "album": {
+        "name": "K.O.T.B - The Bomberman Chronicles",
+        "url": "https://open.spotify.com/album/0RMuFV5eRer749Ww20OP7w"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Big Drop (feat. Zaylevelten)",
+      "url": "https://open.spotify.com/track/7mB83VRKTOo8d9YvF8Adpx"
+    },
+    {
+      "album": {
         "name": "BIG PERFORMER",
         "url": "https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ"
       },
@@ -18779,7 +18801,7 @@
     },
     {
       "album": {
-        "name": "CRY.DANCE.LOVE",
+        "name": "CRY. DANCE. LOVE.",
         "url": "https://open.spotify.com/album/5MK5MnKsfWf8Kab2H85rq8"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: YOASOBI \*👉 <a href="https://spice.eplus.jp/articles/349667">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,810 likes - 99 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,819 likes - 99 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 98 | [風のたより](https://open.spotify.com/track/3wjWmkYxPAMG5IMnhYnIav) | [こがれ](https://open.spotify.com/artist/4hpoOuqcdqKGiQ8f7HUKlr) | [風のたより](https://open.spotify.com/album/7z22rz3qNxPffyawbsB3Kr) | 3:59 |
 | 99 | [ルーシッドの空言](https://open.spotify.com/track/4q6ULPdafyQa9CW3cbtb0H) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [dismount](https://open.spotify.com/album/2nIaVj4ljy1seNnWdS2GoK) | 3:38 |
 
-Snapshot ID: `AAAAAMl9OZqqw8A5tk5XsmoI7I3zvz4Z`
+Snapshot ID: `AAAAALo7Gk0sEzsOoeOFaRZ1gJdlb33l`

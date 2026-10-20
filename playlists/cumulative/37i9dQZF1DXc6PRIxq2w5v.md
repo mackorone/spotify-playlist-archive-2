@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-528 songs - 1 day 3 hr 23 min
+529 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Buscando a Paz](https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [W2B Music](https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr) | [Buscando a Paz](https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs) | 2:39 | 2025-12-15 |  |
 | [Bíblia no Jeans](https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv) | [Kinho](https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bíblia no Jeans](https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb) | 2:18 | 2024-05-17 |  |
 | [Cada um Com uma História](https://open.spotify.com/track/5o6OEZrqTJf23J8Z6BK3jW) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Cada um Com uma História](https://open.spotify.com/album/2Laqz2edRxTXe4rH0tlcbv) | 6:46 | 2023-03-03 | 2023-04-29 |
-| [Caindo em si](https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Caindo em si](https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea) | 2:50 | 2026-03-20 |  |
+| [Caindo em si](https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Caindo em si](https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea) | 2:50 | 2026-03-20 | 2026-10-20 |
 | [Calma](https://open.spotify.com/track/50Gp5YWpRz8Qo0BxmO7okA) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Calma](https://open.spotify.com/album/1c1UsM1NjxmLxlqV9RmPlU) | 3:40 | 2023-09-25 | 2023-10-07 |
 | [Calma](https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr) | [Machini](https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Calma](https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3) | 2:35 | 2022-06-17 | 2022-08-20 |
 | [Calma Filho](https://open.spotify.com/track/73dmTrHDOKT0BA2IK0LPAR) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Calma Filho](https://open.spotify.com/album/6bAGlW13q0y5jvLd6tFGKY) | 4:11 | 2025-10-03 | 2026-01-31 |
@@ -467,6 +467,7 @@
 | [Sou Abençoado](https://open.spotify.com/track/0B7JWUdjwrp7KrKBIHc1w4) | [ADS Escobar](https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP), [Kenedy Gomes](https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Sou Abençoado](https://open.spotify.com/album/5OfpdJ366fJ7oUmL7XOPec) | 3:50 | 2023-01-13 | 2023-04-29 |
 | [Sou Campeão](https://open.spotify.com/track/3vOTwt90MQ6v8YblGpdazb) | [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Sou Campeão](https://open.spotify.com/album/4Xq8bMzZWsfRljwA9MCXOq) | 2:11 | 2023-04-28 | 2023-05-13 |
 | [Suficiente](https://open.spotify.com/track/5kk92LbaDOJXZKFh0wAXqk) | [Luna Garcez](https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Suficiente](https://open.spotify.com/album/4362itDyA7klU63eq0wxmc) | 3:40 | 2024-11-15 | 2025-01-10 |
+| [Século Vicioso](https://open.spotify.com/track/6qaXyc0dUiSRBvaOKv7eCU) | [Insanou](https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3) | [Século Vicioso](https://open.spotify.com/album/5CwxO7ClGwF38phZUDrrYi) | 3:23 | 2026-10-19 |  |
 | [Só a Tua Presença Basta](https://open.spotify.com/track/4V4PLZEwJi26ujFADSQa8B) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Liz Mc](https://open.spotify.com/artist/7eRDqAb3G1WpQdOq2Oxpnt), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Só a Tua Presença Basta](https://open.spotify.com/album/2IYISPTjlDgSia3BfAEVT1) | 2:24 | 2023-10-20 | 2023-11-11 |
 | [Só Há Um Caminho](https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Só Há Um Caminho](https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU) | 2:42 | 2023-07-07 | 2023-10-07 |
 | [Te Agradeço](https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Te Agradeço](https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ) | 2:37 | 2024-06-14 |  |

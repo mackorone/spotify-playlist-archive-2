@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,609 songs - 3 day 21 hr 49 min
+1,612 songs - 3 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [demonic stranger](https://open.spotify.com/track/30T4D9QFdqhJkIDvYQnrK4) | [Exorcisor](https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT) | [Ready to fight evil](https://open.spotify.com/album/7ql4H2uSoJTggEuX6a6ToD) | 4:37 | 2026-03-18 | 2026-04-22 |
 | [Dentro De Ti](https://open.spotify.com/track/1oa09yw9bnZHXZNHVupo0t) | [Petter Marchan Xtasix](https://open.spotify.com/artist/6RTz0qC5h5uYfAO3UgNXTr) | [Dentro De Ti](https://open.spotify.com/album/5IgQdsSMIJX14d4ybY6EnH) | 3:00 | 2026-03-05 | 2026-03-25 |
 | [Depende de mí](https://open.spotify.com/track/4h0qZah1CMkFPtqfCbRx6b) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Depende de mí](https://open.spotify.com/album/7fOnzY2MBOjvh1h96fOIRN) | 3:31 | 2026-01-14 | 2026-02-20 |
+| [Der Weg zu dir selbst](https://open.spotify.com/track/04L5pxGOOa89TWwEnzMuuf) | [Parksj](https://open.spotify.com/artist/71guvFwcryVsE5kZwDLH07) | [Der Weg zu dir selbst](https://open.spotify.com/album/3CI8PcbVbgb3Lx6anEwX5t) | 2:29 | 2026-10-19 |  |
 | [Descending to Hell](https://open.spotify.com/track/0bJuDpO06aI6ytgoSwxelp) | [Raven Note](https://open.spotify.com/artist/1NRJEUIwnBQBbxRGei4NOi) | [Descending to Hell](https://open.spotify.com/album/14MVHzHi13UqhVYwKOzl9W) | 4:27 | 2026-06-15 | 2026-07-19 |
 | [Desejo Vapor](https://open.spotify.com/track/7uFbTASeISy1mIxdryvn1P) | [Peruca Simões](https://open.spotify.com/artist/7Fy8Lkf6OTOSuXfo5MIKKY) | [Desejo Vapor](https://open.spotify.com/album/7gX4finQ0Y0sPIJ8Pxn8RB) | 1:17 | 2026-06-16 | 2026-07-19 |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2026-01-14 | 2026-02-20 |
@@ -565,6 +566,7 @@
 | [Hollow Eyes](https://open.spotify.com/track/0BY1CFp97qI8opvS0KbD4z) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [Hollow Eyes](https://open.spotify.com/album/2dmxukyWSXkjiSeD1eGsPL) | 3:23 | 2026-04-21 | 2026-06-05 |
 | [Hollow Point](https://open.spotify.com/track/3OY0szrjv0mSzDIyaSs8bM) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Bruno Zoia](https://open.spotify.com/artist/7ttBJe2rfmfXHctvB887kD), [Roberto Pentassuglia](https://open.spotify.com/artist/0s4A17TXOJbIEmrg1jtI6t), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [Hollow Point](https://open.spotify.com/album/1bg6X4pPtDDNVpGU6m6MS0) | 5:14 | 2023-11-09 | 2025-11-29 |
 | [Holy Light](https://open.spotify.com/track/5sO8Q4Yii3v3JCneozayy3) | [Yade Ivy](https://open.spotify.com/artist/0VZtxz6FOhkurLOPdUH9CW) | [Holy Light](https://open.spotify.com/album/2g2GdOAFgY5WFIDT6ouNmM) | 5:08 | 2026-03-31 | 2026-04-26 |
+| [Homeless Heart And Wandering Mind](https://open.spotify.com/track/1E4YC0WGm6nQzASaNWN1Vn) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Homeless Hearts and Wandering Minds](https://open.spotify.com/album/5I3EIhLUTnOPHUKQDx4a6K) | 3:15 | 2026-10-19 |  |
 | [Hope](https://open.spotify.com/track/2Wy1stSrMcYwPvmKAb8Pay) | [Skye Darling](https://open.spotify.com/artist/4QiKBkvRxNWJoCdpclehUu) | [Only Noise](https://open.spotify.com/album/7wUOMeBuyuh8tGYQPWUNV4) | 3:48 | 2026-03-17 | 2026-04-12 |
 | [HOPE \(MOM\)](https://open.spotify.com/track/5CrL7ejeMEekVUqqjHQTkH) | [IAMBOKI](https://open.spotify.com/artist/4X6awOXdDYyq4DJqi6XGoF), [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [HOPE \(MOM\)](https://open.spotify.com/album/5PJIzgVMw4kBLsn9v6GjWu) | 3:41 | 2026-02-13 | 2026-03-15 |
 | [Hotel Room Window View](https://open.spotify.com/track/62fgAsI4vrhbSnXs10h1v1) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [Hotel Room Window View](https://open.spotify.com/album/1UqBpV5SOhhb88kA3n7IVI) | 4:32 | 2026-10-06 |  |
@@ -984,6 +986,7 @@
 | [Oh Yeah](https://open.spotify.com/track/6N1EqR6nzR89JMBmbOvplf) | [Nine Feet Underground](https://open.spotify.com/artist/6mFyzC7PyeOpDHGhhn7wv4) | [Oh Yeah](https://open.spotify.com/album/1ukoyTIian9yntW6G2dPoK) | 4:29 | 2025-12-09 | 2026-01-05 |
 | [Ojalá](https://open.spotify.com/track/4PGvvV8Ny4L7d95Pd7dQc0) | [Salva Merino](https://open.spotify.com/artist/0yXBaiTj2LM4ZqAJKeHnDJ), [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Ojalá](https://open.spotify.com/album/0zn0W9uUfdzYFFwKkjfC6V) | 3:39 | 2025-12-29 | 2026-01-24 |
 | [OKAY](https://open.spotify.com/track/6UZ6IfbUuLVZVhMdafNxAo) | [Jeanyus](https://open.spotify.com/artist/3cZGZ6SK4dE3d7izErKdSv), [Parker67](https://open.spotify.com/artist/4NWoInJVAIy9Xp22FwSVSk) | [Friends With Giants: The Adventures Of Roswell Grey](https://open.spotify.com/album/3RKcF9fedAiDKlcXYCSbRA) | 2:16 | 2026-10-03 |  |
+| [Olas en tus cielos](https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:02 | 2026-10-19 |  |
 | [Old Chapel Road](https://open.spotify.com/track/6E5wym6uDy4rqfZTEAeNTD) | [Nick Liberty](https://open.spotify.com/artist/7gZABCcTRzonnDKgDt0lV1) | [Old Chapel Road](https://open.spotify.com/album/0zbW3XrpVaUHYzCVwYLXD3) | 3:44 | 2025-12-15 | 2026-01-15 |
 | [Old Enough](https://open.spotify.com/track/72Fx8gY38Wr9XxETrPEvKd) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Old Enough](https://open.spotify.com/album/7b6P1hUrUxbPTOXU4E7EkI) | 3:26 | 2026-05-21 | 2026-07-03 |
 | [Old Home Place](https://open.spotify.com/track/3PyYrm3Y1Xvy7DiX5ZEyuN) | [Chris Melas](https://open.spotify.com/artist/1nIm7kOpjILOVfNxdh0qGy) | [Bluegrass Baby!](https://open.spotify.com/album/5Pkh9xLBSHUnquT3LIa4d5) | 3:17 | 2025-12-26 | 2026-01-27 |

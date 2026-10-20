@@ -1,12 +1,12 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 914451,
+  "num_followers": 914478,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZvVFLqO130jMaZKJ99BsYCeK/H",
+  "snapshot_id": "AAAAAGPP3l5phG5f/fcxVsL4cioq2wMb",
   "tracks": [
     {
       "added_at": "2026-10-01 23:00:26",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Party Started (feat. French Caviar)",
         "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 143801,
       "name": "Party Started (feat. French Caviar)",
       "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Why Why",
+        "url": "https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 185332,
+      "name": "Why Why",
+      "url": "https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "HOTS 4 U",
         "url": "https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 214269,
       "name": "HOTS 4 U",
       "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Why Why",
-        "url": "https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 185332,
-      "name": "Why Why",
-      "url": "https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Come Back Tomorrow",
+        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 202017,
+      "name": "Come Back Tomorrow",
+      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "High In Ibiza",
         "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 142500,
       "name": "High In Ibiza",
       "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Come Back Tomorrow",
-        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 202017,
-      "name": "Come Back Tomorrow",
-      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "How Far (Chal\u00e9)",
+        "url": "https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF"
+      },
+      "artists": [
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        },
+        {
+          "name": "BELLIL BROTHERS",
+          "url": "https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN"
+        }
+      ],
+      "duration_ms": 167603,
+      "name": "How Far (Chal\u00e9)",
+      "url": "https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Lemme Dance",
         "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
       },
@@ -1431,6 +1451,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Tell Me (feat. Pollena)",
         "url": "https://open.spotify.com/album/4rCZGeJjFeAo3iKRHZVA3Y"
       },
@@ -1451,42 +1487,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "How Far (Chal\u00e9)",
-        "url": "https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF"
-      },
-      "artists": [
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        },
-        {
-          "name": "BELLIL BROTHERS",
-          "url": "https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN"
-        }
-      ],
-      "duration_ms": 167603,
-      "name": "How Far (Chal\u00e9)",
-      "url": "https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 239246,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
       },
@@ -1499,6 +1499,26 @@
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Fool Proof",
+        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Fool Proof",
+      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1539,26 +1559,6 @@
       "duration_ms": 163890,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Fool Proof",
-        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
-      },
-      "artists": [
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Fool Proof",
-      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/51Zm9rqVaFJss3lBKkSbpF"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 182445,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3KAbbvbVa1SdKkpzdy2sLG"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Energy Crew Pt. 1",
         "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 207272,
       "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/51Zm9rqVaFJss3lBKkSbpF"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 182445,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3KAbbvbVa1SdKkpzdy2sLG"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1943,22 +1943,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "3ady Sahla (By Remix)",
-        "url": "https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD"
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
       "artists": [
         {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Misty",
-          "url": "https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6"
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "CRCLE",
+          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
         }
       ],
-      "duration_ms": 207491,
-      "name": "3ady Sahla - By Remix",
-      "url": "https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H"
+      "duration_ms": 182000,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
     }
   ],
   "unique_name": "Ibiza 2026",

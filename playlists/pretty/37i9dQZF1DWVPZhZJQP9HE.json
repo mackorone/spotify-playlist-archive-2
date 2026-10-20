@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Siri Xander",
-  "num_followers": 85587,
+  "num_followers": 85634,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACCuUhHz97f4adDZhX3FFMaNXz3k",
+  "snapshot_id": "AAAAAOQkG36It2HZo3x9HEeaEm0Ywyw2",
   "tracks": [
     {
       "added_at": "2026-08-27 11:24:03",
@@ -191,6 +191,30 @@
       "duration_ms": 249000,
       "name": "Aravindh",
       "url": "https://open.spotify.com/track/1G2h7mB8UJi8qG0TbVEjGP"
+    },
+    {
+      "added_at": "2026-10-19 11:49:55",
+      "album": {
+        "name": "Aiyo Relation (From \"Ex Reunion Day\")",
+        "url": "https://open.spotify.com/album/4F8ncquO05VxmEfeq1mP8v"
+      },
+      "artists": [
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "A Pa Raja",
+          "url": "https://open.spotify.com/artist/1d6dfr1FBe32Yo6RT7Tcae"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "Aiyo Relation (From \"Ex Reunion Day\")",
+      "url": "https://open.spotify.com/track/0OSnqvtABkzIoRdS41qSii"
     },
     {
       "added_at": "2026-09-15 12:09:26",
@@ -919,66 +943,6 @@
       "duration_ms": 291130,
       "name": "neeyum naanum",
       "url": "https://open.spotify.com/track/71sdpJtkZPsOb5bXsEC0oC"
-    },
-    {
-      "added_at": "2026-02-12 12:02:45",
-      "album": {
-        "name": "Kathaliye",
-        "url": "https://open.spotify.com/album/0sXG3i4bCpPC44NZ2asAmR"
-      },
-      "artists": [
-        {
-          "name": "ARSHK",
-          "url": "https://open.spotify.com/artist/11NMjAFkrbf3SZnVcYLC9t"
-        },
-        {
-          "name": "ASVVIN",
-          "url": "https://open.spotify.com/artist/1OOrR8bvkfwdzYJLQQialk"
-        },
-        {
-          "name": "Abhiram Suresh",
-          "url": "https://open.spotify.com/artist/5bzwJLHzQ3oE0dyyxRy1jG"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kathaliye",
-      "url": "https://open.spotify.com/track/6las97mYtKlsos592PZnPZ"
-    },
-    {
-      "added_at": "2026-01-29 11:15:06",
-      "album": {
-        "name": "Kadhol (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/4425jl7MCjecjAH3OTATNB"
-      },
-      "artists": [
-        {
-          "name": "Urban Thozha",
-          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
-        },
-        {
-          "name": "Praveen PKP",
-          "url": "https://open.spotify.com/artist/4d9SUhuaX9w8hdWSQqYFAK"
-        }
-      ],
-      "duration_ms": 138250,
-      "name": "Kadhol - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/1b9GOREBGLcBRWaeZadGq2"
-    },
-    {
-      "added_at": "2026-02-11 10:55:27",
-      "album": {
-        "name": "Maalai Pozhudhil",
-        "url": "https://open.spotify.com/album/56IrDU91NE8AQVPqtHR1NB"
-      },
-      "artists": [
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 250656,
-      "name": "Maalai Pozhudhil",
-      "url": "https://open.spotify.com/track/4EQsSuqZF3gXEEo5w9j8Md"
     },
     {
       "added_at": "2026-04-08 05:18:09",

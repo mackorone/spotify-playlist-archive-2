@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Freya Skye
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,274 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,292 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 49 | [Ave Maria](https://open.spotify.com/track/1F0yahgwR4oR9uOGU6SxNa) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Ave Maria](https://open.spotify.com/album/1IHnuhUXcl3LjZEhYLrBTe) | 3:22 |
 | 50 | [Celebrate Me Home](https://open.spotify.com/track/2LhahAutVL3V699VgMXCtt) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Celebrate Me Home](https://open.spotify.com/album/1fsiBtajbtdtyPECZyxDal) | 4:01 |
 
-Snapshot ID: `AAAAAAiEonGyg6s4uOS0fSgi3DO3FYcl`
+Snapshot ID: `AAAAAO/g3Jo5ItDvtlHAMYXC+vnTtmw3`

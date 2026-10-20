@@ -1,12 +1,12 @@
 {
   "description": "All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.",
-  "num_followers": 34327,
+  "num_followers": 34325,
   "original_name": "christmas songs 2026 \ud83c\udf84holiday music",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAFMEE3Movmx5ZMYzV10XLY99wHLzNV",
+  "snapshot_id": "AAAFMuO4rmTvCDAc5B1wQg2V0AfqilsU",
   "tracks": [
     {
       "added_at": "2026-10-14 20:12:02",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-10-14 20:12:02",
       "album": {
+        "name": "Where Are You Christmas",
+        "url": "https://open.spotify.com/album/11YQP0uBt7yXNruf4F5ELp"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "duration_ms": 185537,
+      "name": "Where Are You Christmas",
+      "url": "https://open.spotify.com/track/21LuZH2noPmBhsvVrs6g9u"
+    },
+    {
+      "added_at": "2026-10-14 20:12:02",
+      "album": {
         "name": "Caroling at Christmas",
         "url": "https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
-    },
-    {
-      "added_at": "2026-10-14 20:12:02",
-      "album": {
-        "name": "Where Are You Christmas",
-        "url": "https://open.spotify.com/album/11YQP0uBt7yXNruf4F5ELp"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        }
-      ],
-      "duration_ms": 185537,
-      "name": "Where Are You Christmas",
-      "url": "https://open.spotify.com/track/21LuZH2noPmBhsvVrs6g9u"
     },
     {
       "added_at": "2026-10-14 20:12:02",

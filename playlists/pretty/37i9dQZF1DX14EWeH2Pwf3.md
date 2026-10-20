@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > DAGOOD YL in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,491 likes - 55 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,390 likes - 55 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 54 | [riviera](https://open.spotify.com/track/0Rzy8d2wTrow0Pi9bakQ15) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7) | [riviera](https://open.spotify.com/album/4c1eMps76gPczC8sytsW1f) | 1:37 |
 | 55 | [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 |
 
-Snapshot ID: `AAAAAB2D2xs3QCFIwPjReLRnr7t6Cgxs`
+Snapshot ID: `AAAAAMIVvDvdCv4o3+be6oN/ex5iUvf3`

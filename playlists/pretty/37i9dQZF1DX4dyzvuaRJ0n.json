@@ -1,12 +1,12 @@
 {
   "description": "The world's biggest dance & electronic hits. Cover: Sara Landry",
-  "num_followers": 5447193,
+  "num_followers": 5446320,
   "original_name": "mint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5umIyluCV+eLmr9orEk6l7OGBm",
+  "snapshot_id": "AAAAAAsViMLH5fuv99eb4GwZVwNKct9E",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:36",
@@ -22,6 +22,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 788806,
+  "num_followers": 788880,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwyd3DI9d8DtTxwWOs0ofZhg4+u",
+  "snapshot_id": "AAAAAF+1M61b9SDm6fcweAkhB/VNYw3o",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:30",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "Los Botones Azules",
-      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
       },
@@ -715,18 +695,22 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "PUES QUE LE HAGO ?",
-        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 141607,
-      "name": "PUES QUE LE HAGO ?",
-      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -743,6 +727,22 @@
       "duration_ms": 209920,
       "name": "Backpack",
       "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
+        "name": "PUES QUE LE HAGO ?",
+        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
+        "name": "La Medusa",
+        "url": "https://open.spotify.com/album/1pe79esnWfUr9g6oBIhU9C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "La Medusa",
+      "url": "https://open.spotify.com/track/77p4pasz27HeZgFrNxjl3R"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 165850,
       "name": "Hoy Decid\u00ed Dejarte",
       "url": "https://open.spotify.com/track/4tbZQBPfOs03F0SY9d5eDH"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
-        "name": "La Medusa",
-        "url": "https://open.spotify.com/album/1pe79esnWfUr9g6oBIhU9C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "La Medusa",
-      "url": "https://open.spotify.com/track/77p4pasz27HeZgFrNxjl3R"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
+        "name": "TRR TAC TAC",
+        "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "TRR TAC TAC",
+      "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
         "name": "Pa la Ma\u00f1a",
         "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 159937,
       "name": "Pa la Ma\u00f1a",
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
-        "name": "TRR TAC TAC",
-        "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "TRR TAC TAC",
-      "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
+        "name": "Las Filtradas",
+        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 183221,
+      "name": "LA FES",
+      "url": "https://open.spotify.com/track/1whHmAa2EuUCRdfk2TkHhH"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "Las Filtradas",
-        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
       "artists": [
         {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 183221,
-      "name": "LA FES",
-      "url": "https://open.spotify.com/track/1whHmAa2EuUCRdfk2TkHhH"
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1551,22 +1567,6 @@
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
+        "name": "Magneto",
+        "url": "https://open.spotify.com/album/3LZBjdQbfBo2h4Oa1mA7HS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 140170,
+      "name": "Magneto",
+      "url": "https://open.spotify.com/track/26dGMRkIM321t1meQAXlqK"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
         "name": "Llenadera",
         "url": "https://open.spotify.com/album/7bVJwGP0GxqsJqWEMqeTCF"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "Magneto",
-        "url": "https://open.spotify.com/album/3LZBjdQbfBo2h4Oa1mA7HS"
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
       "artists": [
         {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 140170,
-      "name": "Magneto",
-      "url": "https://open.spotify.com/track/26dGMRkIM321t1meQAXlqK"
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1647,22 +1663,6 @@
       "duration_ms": 240626,
       "name": "Cu\u00e1nto Me Cuesta",
       "url": "https://open.spotify.com/track/7sxzoyrlPBbEEG4h747Fun"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 338511,
-      "name": "Promesa Cumplida",
-      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "added_at": "2026-09-11 06:00:30",

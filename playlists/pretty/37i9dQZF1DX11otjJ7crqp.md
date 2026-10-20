@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Say Now
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,990 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,237 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [Always The Same](https://open.spotify.com/track/5TicxkAav2rqGjxeucVh9B) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Always The Same](https://open.spotify.com/album/1sSAdNWQUwMEBxT1bI0tka) | 3:21 |
 | 150 | [The Chapel](https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [The Chapel](https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8) | 3:02 |
 
-Snapshot ID: `AAAAAIfodowq4BaAMPHZWiHN7xrVfJ44`
+Snapshot ID: `AAAAAKbSfbEJoQPZSP6RA4SkM3XTlbA7`

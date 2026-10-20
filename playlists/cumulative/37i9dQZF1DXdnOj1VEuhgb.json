@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Joker",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Akila",
+        "url": "https://open.spotify.com/album/2igL5PBsn9bW1C7Rfz9RsV"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Akila",
+      "url": "https://open.spotify.com/track/6TiCIA7EPfjSqpfRP5XKDf"
+    },
+    {
+      "album": {
         "name": "Kan II",
         "url": "https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 174844,
       "name": "ALENEN",
       "url": "https://open.spotify.com/track/0ta6sqke3ZadTuA45Friha"
@@ -4055,6 +4073,28 @@
     },
     {
       "album": {
+        "name": "B\u0130POLAR",
+        "url": "https://open.spotify.com/album/73ZpIT1sbDrhEoCGI0DLWK"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "KERO",
+          "url": "https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116818,
+      "name": "B\u0130POLAR",
+      "url": "https://open.spotify.com/track/2oTcTeCe63Rt4LEWTQLT23"
+    },
+    {
+      "album": {
         "name": "DUA",
         "url": "https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w"
       },
@@ -4260,7 +4300,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 199384,
       "name": "BO\u015eLUK",
       "url": "https://open.spotify.com/track/4b5cJ2Jl9e35VAMT4TpEwr"
@@ -11227,6 +11267,24 @@
     },
     {
       "album": {
+        "name": "KAFA RAHAT",
+        "url": "https://open.spotify.com/album/3OfDoOiVnJSztmXjUqhoxJ"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152053,
+      "name": "KAFA RAHAT",
+      "url": "https://open.spotify.com/track/4rjqYVD8N7neJxcv5rLfiM"
+    },
+    {
+      "album": {
         "name": "KAFAMA G\u00d6RE",
         "url": "https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD"
       },
@@ -12954,6 +13012,28 @@
       "duration_ms": 196654,
       "name": "Kral\u0131n K\u0131z\u0131",
       "url": "https://open.spotify.com/track/4nCjL15kmLv68gO5Cvvgnz"
+    },
+    {
+      "album": {
+        "name": "Kromozom",
+        "url": "https://open.spotify.com/album/7uaf3oUGio1KkMEhlZm8oj"
+      },
+      "artists": [
+        {
+          "name": "Birand",
+          "url": "https://open.spotify.com/artist/02DLpTPfY9uEAEvKdz3RBZ"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Kromozom",
+      "url": "https://open.spotify.com/track/3BYmgcLS2o3rvi2i540Hrq"
     },
     {
       "album": {
@@ -19344,7 +19424,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 129446,
       "name": "SHAKE IT",
       "url": "https://open.spotify.com/track/1GGU3Pis8Cd5KVzWebtDho"
@@ -19474,7 +19554,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 185597,
       "name": "Sil Ba\u015ftan",
       "url": "https://open.spotify.com/track/4AmVMdquenc1CL6Hf7Fhlg"

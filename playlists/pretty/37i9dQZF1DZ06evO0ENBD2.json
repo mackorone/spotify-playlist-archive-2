@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4990593,
+  "num_followers": 4990605,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAACRSebqTaiTfluEI3Z1xW6Y",
+  "snapshot_id": "atQMAAAAAADPmMfuKFJM+KvJTQCDcolp",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,25 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 209413,
+      "duration_ms": 209391,
       "name": "Don't Stop Me Now",
       "url": "https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust",
+      "url": "https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR"
     },
     {
       "added_at": null,
@@ -72,25 +88,9 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 248440,
+      "duration_ms": 246264,
       "name": "Under Pressure (feat. David Bowie)",
       "url": "https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust",
-      "url": "https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 349186,
-      "name": "Radio Ga Ga",
-      "url": "https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love",
       "url": "https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 349186,
+      "name": "Radio Ga Ga",
+      "url": "https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7"
     },
     {
       "added_at": null,
@@ -232,7 +232,7 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 209106,
+      "duration_ms": 209533,
       "name": "Cool Cat",
       "url": "https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W"
     },
@@ -248,7 +248,7 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 271611,
+      "duration_ms": 275648,
       "name": "The Show Must Go On",
       "url": "https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT"
     },
@@ -344,7 +344,7 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 259213,
+      "duration_ms": 260159,
       "name": "Too Much Love Will Kill You",
       "url": "https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4"
     },
@@ -524,7 +524,7 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 289813,
+      "duration_ms": 289880,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/62IXvE06fEbcLimzQWRyq8"
     },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Wants to Live Forever (Live in Budapest)",
-        "url": "https://open.spotify.com/album/1phOF1iJfhjm64XX3P6Vny"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Who Wants to Live Forever - Live in Budapest",
-      "url": "https://open.spotify.com/track/0FpvhhU3bfAtjx7gFv0GOi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Innuendo",
         "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 278271,
       "name": "Headlong",
       "url": "https://open.spotify.com/track/1dDtAKhoIhOGDO9mV5kNwX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Wants to Live Forever (Live in Budapest)",
+        "url": "https://open.spotify.com/album/1phOF1iJfhjm64XX3P6Vny"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Who Wants to Live Forever - Live in Budapest",
+      "url": "https://open.spotify.com/track/0FpvhhU3bfAtjx7gFv0GOi"
     },
     {
       "added_at": null,

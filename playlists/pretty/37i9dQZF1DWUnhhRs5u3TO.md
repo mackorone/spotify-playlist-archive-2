@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 74 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 75 | [Outlander](https://open.spotify.com/track/65YTkL1HqiFPcAuCabVwMf) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Cloud Factory \(Re\-Issue\)](https://open.spotify.com/album/1UCftLQD0hJ5vRy7OMfbcF) | 3:56 |
 
-Snapshot ID: `AAAAAIglCgEQYW7T3TEi6JM3RsX2Mfyk`
+Snapshot ID: `AAAAAOwYcKbckvOMEviB8Y82CBmm0z7y`

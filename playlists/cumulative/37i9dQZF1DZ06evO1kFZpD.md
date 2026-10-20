@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [16 Candles \(feat\. Ganavya\)](https://open.spotify.com/track/4VJbyABSDzHtZy0DxZAjLM) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Ganavya](https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 5:07 | 2025-03-13 |  |
+| [16 Candles \(feat\. Ganavya\)](https://open.spotify.com/track/4VJbyABSDzHtZy0DxZAjLM) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Ganavya](https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 5:07 | 2025-03-13 | 2026-10-20 |
 | [Afternoon Tea with the Auroras \(Interlude\)](https://open.spotify.com/track/0qB0x66qsoE7Ja4iZpDzcR) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 0:35 | 2025-03-06 | 2026-04-18 |
 | [Baby Mama](https://open.spotify.com/track/1zegJDoCVOHIgQmGGSZriW) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:53 | 2024-06-17 |  |
 | [Baby Mama](https://open.spotify.com/track/3eEnjCOIKOV4nBpcG8aixD) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:53 | 2025-03-18 | 2025-09-22 |

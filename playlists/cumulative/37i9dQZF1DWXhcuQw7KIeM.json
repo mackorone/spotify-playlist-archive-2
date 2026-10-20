@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Drif",
+        "url": "https://open.spotify.com/album/4IKHUb4ZlHWHLWQmqIRoiT"
+      },
+      "artists": [
+        {
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296506,
+      "name": "Anoana",
+      "url": "https://open.spotify.com/track/4wF6lIxhTibOo5yeeYChUf"
+    },
+    {
+      "album": {
         "name": "Appalachia",
         "url": "https://open.spotify.com/album/0wLo8lUnywiRPgkjrqZ3Bf"
       },
@@ -132,6 +150,24 @@
       "duration_ms": 239053,
       "name": "Appalachia",
       "url": "https://open.spotify.com/track/7IxH4gQrVZSZxB3P9sHqB4"
+    },
+    {
+      "album": {
+        "name": "Cyning",
+        "url": "https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo"
+      },
+      "artists": [
+        {
+          "name": "Geald\u00fdr",
+          "url": "https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3tjdZcAXVu6tqmKBtshy4G"
     },
     {
       "album": {
@@ -283,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Sigil",
+        "url": "https://open.spotify.com/album/13m8oGakqhQuybhj7wQW17"
+      },
+      "artists": [
+        {
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Bod Fra Djupet",
+      "url": "https://open.spotify.com/track/3PpSrqCzUxaVCNi3BzUXlk"
+    },
+    {
+      "album": {
         "name": "Breaking from the Fold",
         "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
       },
@@ -312,10 +366,28 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 348196,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5"
+    },
+    {
+      "album": {
+        "name": "Cycle of Misery",
+        "url": "https://open.spotify.com/album/65lPiyRLLY1yl47lD8vdln"
+      },
+      "artists": [
+        {
+          "name": "T\u00fdr",
+          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "Cycle of Misery",
+      "url": "https://open.spotify.com/track/32CrKIZUgSy99h0VyPvZgl"
     },
     {
       "album": {
@@ -550,7 +622,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 347204,
       "name": "Fenris",
       "url": "https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU"
@@ -630,7 +702,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 253413,
       "name": "Future to Come",
       "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
@@ -785,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Heimferd",
+        "url": "https://open.spotify.com/album/5dAyptaUEbbguT3AdoJ0nK"
+      },
+      "artists": [
+        {
+          "name": "Danheim",
+          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251513,
+      "name": "Heimferd",
+      "url": "https://open.spotify.com/track/3oXOQV8tTV9kxhRu1iQQOQ"
+    },
+    {
+      "album": {
         "name": "Runaljod \u2013 Yggdrasil",
         "url": "https://open.spotify.com/album/7LsNPzgWHwrsLMRsWuiEJa"
       },
@@ -832,7 +922,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 431866,
       "name": "Helvegen",
       "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
@@ -904,7 +994,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 182360,
       "name": "Hibj\u00f8rnen",
       "url": "https://open.spotify.com/track/0rsnV9QHbRw30pDKNeIAfz"
@@ -922,7 +1012,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 182360,
       "name": "Hibj\u00f8rnen",
       "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
@@ -962,6 +1052,42 @@
       "duration_ms": 199792,
       "name": "Highlander - English Version",
       "url": "https://open.spotify.com/track/6pihX9dY5MGrWIXNk2qqys"
+    },
+    {
+      "album": {
+        "name": "\u00d8rl\u01ebg",
+        "url": "https://open.spotify.com/album/7khrM45GDRvobbSNRQfRaA"
+      },
+      "artists": [
+        {
+          "name": "SK\u00c1LD",
+          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262922,
+      "name": "Himinbj\u01ebrg",
+      "url": "https://open.spotify.com/track/4o5NyYj7axrQGhDavfZ7Es"
+    },
+    {
+      "album": {
+        "name": "Birna",
+        "url": "https://open.spotify.com/album/5clP0vXvX350quRCTw248H"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337373,
+      "name": "Himinndotter",
+      "url": "https://open.spotify.com/track/47PpNpNiLEOeSwkNFgTPxC"
     },
     {
       "album": {
@@ -1012,7 +1138,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 850866,
       "name": "How Fare the Gods?",
       "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"
@@ -1160,7 +1286,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 389386,
       "name": "Inceptus",
       "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
@@ -1503,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Spine",
+        "url": "https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK"
+      },
+      "artists": [
+        {
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286130,
+      "name": "Like Humans",
+      "url": "https://open.spotify.com/track/1Ihk3DPLfci15MfQtVJtCk"
+    },
+    {
+      "album": {
         "name": "Fire in the White Stone",
         "url": "https://open.spotify.com/album/1ZSrG9WgZewjkbKTw1gwg6"
       },
@@ -1575,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Lost in the Dark",
+        "url": "https://open.spotify.com/album/6val7CCdguZVo3MhGyPgNl"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265170,
+      "name": "Lost in the Dark",
+      "url": "https://open.spotify.com/track/2qfWWGZ7eeCyb9BpXixbTe"
+    },
+    {
+      "album": {
         "name": "Malstr\u00f6msbrus",
         "url": "https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl"
       },
@@ -1586,7 +1748,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 403626,
       "name": "Malstr\u00f6msbrus",
       "url": "https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV"
@@ -1640,7 +1802,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 392983,
       "name": "Midvinter",
       "url": "https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H"
@@ -2004,7 +2166,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 212479,
       "name": "Saga of the North",
       "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
@@ -2290,7 +2452,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
@@ -2348,6 +2510,24 @@
       "duration_ms": 243645,
       "name": "Spine",
       "url": "https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q"
+    },
+    {
+      "album": {
+        "name": "Sp\u00f8kilsir / Revenants",
+        "url": "https://open.spotify.com/album/5nftEHf52OLz3iofueUo4I"
+      },
+      "artists": [
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242680,
+      "name": "Sp\u00f8kilsir / Revenants",
+      "url": "https://open.spotify.com/track/472VljK3nN3qOqUR1OQTgB"
     },
     {
       "album": {
@@ -2592,6 +2772,24 @@
       "duration_ms": 284018,
       "name": "The Great Feast Underground",
       "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
+    },
+    {
+      "album": {
+        "name": "Cyning",
+        "url": "https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo"
+      },
+      "artists": [
+        {
+          "name": "Geald\u00fdr",
+          "url": "https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209536,
+      "name": "The Green Knight",
+      "url": "https://open.spotify.com/track/3a6eoJDZAEW7TtH5KsVljC"
     },
     {
       "album": {
@@ -2985,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Verjugar\u00f0ar / Walls",
+        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
+      },
+      "artists": [
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Verjugar\u00f0ar / Walls",
+      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
+    },
+    {
+      "album": {
         "name": "Galdr",
         "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
       },
@@ -3148,7 +3364,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 256186,
       "name": "Wulfwiga",
       "url": "https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16"
@@ -3242,7 +3458,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 257579,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR"

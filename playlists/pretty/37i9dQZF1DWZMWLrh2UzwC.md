@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Mimifly, Sheila Majid, Ashe, Sarah Suhairi, Rex Orange County, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,179 likes - 109 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,164 likes - 109 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 108 | [Outta My System \(Bx With A Bob\)](https://open.spotify.com/track/3QDvKezQandOrobWqjWdIm) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Laugh Now Cry Later](https://open.spotify.com/album/7mI18u91chIHQc35WQa6Ja) | 2:27 |
 | 109 | [60 mgs](https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Last Laugh \[archive tape\]](https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8) | 2:05 |
 
-Snapshot ID: `AAAAALu7iHdjeOZiCkLj3FL5KZ+j0l1X`
+Snapshot ID: `AAAAACxeDWkCWDVkvq1U/tGb0NwWXIEQ`

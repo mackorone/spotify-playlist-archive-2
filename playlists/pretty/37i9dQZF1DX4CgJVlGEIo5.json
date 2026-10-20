@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 387397,
+  "num_followers": 387403,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJyIeVitCCrT4E1U5Sq/2e56Z6I",
+  "snapshot_id": "AAAAALkh6VTDKXANM+QGeSdL5M8jK9qg",
   "tracks": [
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW"
+      },
+      "artists": [
+        {
+          "name": "Josh Cashman",
+          "url": "https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Instinct",
+      "url": "https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Colorado (feat. Carlie Hanson)",
         "url": "https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 202666,
       "name": "Colorado (feat. Carlie Hanson)",
       "url": "https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Instinct",
-        "url": "https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW"
-      },
-      "artists": [
-        {
-          "name": "Josh Cashman",
-          "url": "https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Instinct",
-      "url": "https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F"
     },
     {
       "added_at": "2024-07-05 21:33:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Silvana Estrada & M\. Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,498 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,408 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [LINCE](https://open.spotify.com/track/3ul4tQoFMJwwEjq9mAXtib) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [LINCE](https://open.spotify.com/album/0Qh7eDSSxU5jwB9rdXArC0) | 3:14 |
 | 50 | [Todo Es Por Ti](https://open.spotify.com/track/3JUAvF2Gpql8HPHvwEa4Uu) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Todo Es Por Ti](https://open.spotify.com/album/3cQkmyDfjdiP71TIiUHyUk) | 2:29 |
 
-Snapshot ID: `AAAAAMrl8FVj8Ghr+c/6fdX64XUIcamu`
+Snapshot ID: `AAAAABGyy1aYFYYvTpVkiaezwFZIccqY`

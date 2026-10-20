@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Special Features
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,176 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,184 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
 | 75 | [Perla](https://open.spotify.com/track/3AS7Y4Oh1tgy8x7w3C35Dm) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Perla](https://open.spotify.com/album/7nLDUciyhxmS4Mk7QVcSCj) | 3:04 |
 
-Snapshot ID: `AAAAABmo4uwC9HqPyYHq7UIZp7mAlZM7`
+Snapshot ID: `AAAAANRyjPPnzsKxV+Yxq492jYQU94ex`

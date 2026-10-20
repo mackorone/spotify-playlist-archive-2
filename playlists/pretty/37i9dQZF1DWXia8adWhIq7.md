@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: BENITO
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,991 likes - 85 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,993 likes - 85 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 16 | [Teu Esconderijo \(Ao Vivo\)](https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Teu Esconderijo \(Ao Vivo\)](https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj) | 5:49 |
 | 17 | [Desejável](https://open.spotify.com/track/2u2NL48dpclQeLPh3rbA9I) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah), [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Desejável](https://open.spotify.com/album/4B3VnrNJcH1vmsvYlntKFc) | 5:33 |
 | 18 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 |
-| 19 | [O Reino Vem](https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [O Reino Vem](https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8) | 3:18 |
-| 20 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 |
+| 19 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 |
+| 20 | [O Reino Vem](https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [O Reino Vem](https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8) | 3:18 |
 | 21 | [A Minha Razão \(Reason I Sing\)](https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [A Minha Razão \(Reason I Sing\)](https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G) | 4:33 |
 | 22 | [É Você](https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [É Você](https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX) | 3:51 |
 | 23 | [Desacreditar Jamais \- Ao Vivo](https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Desacreditar Jamais \(Ao Vivo\)](https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq) | 3:45 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 29 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
 | 30 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
 | 31 | [Tens o Meu Sim](https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Tens o Meu Sim](https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx) | 3:44 |
-| 32 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
-| 33 | [Não É Só um Rolê](https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo) | [Gabriel Vilhena](https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc), [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Não É Só um Rolê](https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc) | 4:09 |
+| 32 | [Não É Só um Rolê](https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo) | [Gabriel Vilhena](https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc), [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Não É Só um Rolê](https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc) | 4:09 |
+| 33 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
 | 34 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
 | 35 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
 | 36 | [Um Conselho](https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Um Conselho](https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ) | 2:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [O Amor de Deus](https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [Jotta X](https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl) | [O Amor de Deus](https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p) | 2:36 |
 | 85 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 |
 
-Snapshot ID: `AAAAAHWE0QyHzYqn8XzoBiIbph/I0iCf`
+Snapshot ID: `AAAAAHF++2atiwBNxAYerU+VJ8JG+D6g`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Lucho RK",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Clarent, Quevedo",
   "name": "PEGAO",
   "tracks": [
     {
@@ -32,6 +32,24 @@
       "duration_ms": 231791,
       "name": "$UELTA GATITA $UELTA",
       "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
+    },
+    {
+      "album": {
+        "name": "+ DELOMISMO",
+        "url": "https://open.spotify.com/album/7wdaGsbjSI5Jc4H81ScIVA"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "+ DELOMISMO",
+      "url": "https://open.spotify.com/track/2nfPnlcI5VDcZko1cO4Jof"
     },
     {
       "album": {
@@ -964,7 +982,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 167428,
       "name": "After",
       "url": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb"
@@ -1158,6 +1176,28 @@
       "duration_ms": 161311,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/3FKwkGb7Cd96TiXgv69dNc"
+    },
+    {
+      "album": {
+        "name": "Flavorz Pack",
+        "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218059,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
     },
     {
       "album": {
@@ -4960,7 +5000,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 194339,
       "name": "DE DIOR XL",
       "url": "https://open.spotify.com/track/06UusKSBXp76qo0k0iw0cL"

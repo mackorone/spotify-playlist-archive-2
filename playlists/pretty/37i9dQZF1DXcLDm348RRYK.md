@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,388 likes - 72 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,340 likes - 72 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 56 | [Heat](https://open.spotify.com/track/3WgjuiahVh7As4w3IcQZEE) | [Ben Woolman](https://open.spotify.com/artist/5zGODupJdUmjZwGou0tQpI) | [Wisdom / Delusion](https://open.spotify.com/album/56BvupOSQ2zVIIdveRATqF) | 4:05 |
 | 57 | [Beauty of Discipline](https://open.spotify.com/track/519POQZ8qXwhqtKzAu1Exp) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [Urban Echoes Vol\. 1](https://open.spotify.com/album/6HgiKLLU61tqtmLk606sF5) | 4:23 |
 | 58 | [Drifting Along Waters](https://open.spotify.com/track/0rU4PW612tgLpBfuEfgEF4) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [When Dogs Dream](https://open.spotify.com/album/3bBi3lykvmWrezhUtROxYe) | 1:43 |
-| 59 | [Ragamuffin](https://open.spotify.com/track/60DnPnqDqFSSRuv2q3ed01) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Pure Michael Hedges](https://open.spotify.com/album/7hX0WHmzkU5zWEkVDG2T3E) | 3:14 |
+| 59 | [Ragamuffin](https://open.spotify.com/track/60DnPnqDqFSSRuv2q3ed01) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Windham Hill Presents: Pure](https://open.spotify.com/album/7hX0WHmzkU5zWEkVDG2T3E) | 3:14 |
 | 60 | [Addison' Walk](https://open.spotify.com/track/1YGeTQcRrUbqLyWMQ5petV) | [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Beyond Nature](https://open.spotify.com/album/7dYTC8kdlp7Ox7r4omTh0h) | 4:03 |
 | 61 | [Melody Maker](https://open.spotify.com/track/2fTUKPfeW51hxbU3VWef0K) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Melody Maker](https://open.spotify.com/album/7Fn5luh64lP9jU0J2UcG3Z) | 3:57 |
 | 62 | [Kohala No](https://open.spotify.com/track/0NQG3nSTz1SDwsNoovj2vJ) | [Jim "Kimo" West](https://open.spotify.com/artist/51aljngqSf5fmjeQEOXp0k) | [Slack Key West](https://open.spotify.com/album/0Y3lcGbAWLFo2b88pbj8So) | 4:15 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 71 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/59T0qdTmDGZ1g0slfSbPfy) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 |
 | 72 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 |
 
-Snapshot ID: `AAAAAIEccURCFxtrIBcfUTQV5q/YCSa9`
+Snapshot ID: `AAAAALM1G4P2At22e6qC8JB/j2gkDXzr`

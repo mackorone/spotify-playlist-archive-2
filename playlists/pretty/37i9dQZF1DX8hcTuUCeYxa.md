@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,135 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,136 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [waiting for me](https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire \(Deluxe\)](https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO) | 3:14 |
 | 90 | [Laying Down](https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Laying Down](https://open.spotify.com/album/6aB7po4FUlk7DB0471ku6e) | 2:50 |
 
-Snapshot ID: `AAAAAMY0Kda2WGkqGc/+xaXBuOFtcT5Q`
+Snapshot ID: `AAAAACnx6+6XhHghM5ePkPVQPRp+ZWds`

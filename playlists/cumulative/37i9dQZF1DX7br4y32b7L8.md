@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist\. Cover: Issah
 
-937 songs - 1 day 23 hr 0 min
+938 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 | 2026-06-12 | 2026-09-17 |
 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-09-09 | 2026-04-03 |
 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 | 2025-01-16 | 2025-06-21 |
-| [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2026-09-24 |  |
+| [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2026-09-24 | 2026-10-20 |
 | [Brommers Kieken](https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Brommers Kieken](https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP) | 2:26 | 2024-03-04 | 2024-08-02 |
 | [Bruder + Schwester](https://open.spotify.com/track/5w0aZKZX1ICmjqHNcFWi87) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [gladde paling](https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS) | [Bruder + Schwester](https://open.spotify.com/album/0AdOCPNJYVXoy3CTGkxkIu) | 1:42 | 2023-02-23 | 2023-04-19 |
 | [Bulletproof \- Techno](https://open.spotify.com/track/3YqNM0sEyoxa7r5qRrYqRp) | [Hyper Hamster](https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM), [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC), [Techno Cats](https://open.spotify.com/artist/4uMWA9vlZvYaMf19OoQ0Lh) | [Bulletproof \(Techno\)](https://open.spotify.com/album/2UGRcy0PFLyVeSFj8LjM2B) | 2:22 | 2024-07-03 | 2025-05-09 |
@@ -524,6 +524,7 @@
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-11-15 | 2024-12-04 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-09 | 2025-06-21 |
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2024-12-03 | 2024-12-12 |
+| [METEN & WEGEN \- BASS BOOSTED](https://open.spotify.com/track/2BzYfqpPJpBVXP8Fvsm9kC) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw) | [METEN & WEGEN \(BASS BOOSTED\)](https://open.spotify.com/album/72L32FTMEzBsXBVPKrrTd9) | 2:54 | 2026-10-19 |  |
 | [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 | 2026-07-09 |  |
 | [Middelvinger](https://open.spotify.com/track/5n0yG4LEdKkIFnEMHbILId) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Middelvinger](https://open.spotify.com/album/7HaemgeoWlIyMK26Feapko) | 1:50 | 2024-08-28 | 2024-10-22 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-06 | 2024-07-04 |

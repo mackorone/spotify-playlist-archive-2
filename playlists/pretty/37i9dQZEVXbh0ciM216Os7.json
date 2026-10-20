@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPankjnWHeaU++X23Y8urHZkk0d",
+  "snapshot_id": "AAAAALkdyuxlcULrp9uwLMGcKNYwnOyu",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/3wx7cjtpbUwFYliNoX01qa"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3V7UTNI1qqtPXYFhXfeoZx"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
         "name": "No Bad Memories",
         "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 97693,
       "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
       "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/3wx7cjtpbUwFYliNoX01qa"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/3V7UTNI1qqtPXYFhXfeoZx"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -143,6 +143,26 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
+        "name": "TRIBE",
+        "url": "https://open.spotify.com/album/21Fc4pwRKUdCRHsD7aZu5M"
+      },
+      "artists": [
+        {
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 181515,
+      "name": "TRIBE",
+      "url": "https://open.spotify.com/track/0O49vaglluMVZcVbC5lDXy"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
         "name": "Anedac (Remastered 2026)",
         "url": "https://open.spotify.com/album/6hHbKSxgWYpgNRpHkM0bpS"
       },
@@ -183,26 +203,6 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "TRIBE",
-        "url": "https://open.spotify.com/album/21Fc4pwRKUdCRHsD7aZu5M"
-      },
-      "artists": [
-        {
-          "name": "Matt McGhee",
-          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 181515,
-      "name": "TRIBE",
-      "url": "https://open.spotify.com/track/0O49vaglluMVZcVbC5lDXy"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
         "name": "L\u00e6knisgaldr",
         "url": "https://open.spotify.com/album/0EUqyG3KOFsBdduECPmGmw"
       },
@@ -215,34 +215,6 @@
       "duration_ms": 375285,
       "name": "L\u00e6knisgaldr",
       "url": "https://open.spotify.com/track/1YVEvH42tBvNZHnheYvTny"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "Live in Los Angeles",
-        "url": "https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        },
-        {
-          "name": "The Hill City Collective",
-          "url": "https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG"
-        },
-        {
-          "name": "Patrick Bolton",
-          "url": "https://open.spotify.com/artist/7KrpPlkxh79hNaMKJlNwrW"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Good to Me - Live in Los Angeles",
-      "url": "https://open.spotify.com/track/4dGLzf6EhcRuenoRPgbJky"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -267,26 +239,6 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "Rabbit Gets The Gun",
-        "url": "https://open.spotify.com/album/1O2BobyL6J7bcat222sLAz"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "Jay Buchanan",
-          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
-        }
-      ],
-      "duration_ms": 214696,
-      "name": "Rabbit Gets The Gun",
-      "url": "https://open.spotify.com/track/0sFxHWS8kQz18rAFES6JXe"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
         "name": "STAR POWER",
         "url": "https://open.spotify.com/album/7bCataK3YmqAjG7vSyvJ8E"
       },
@@ -303,6 +255,26 @@
       "duration_ms": 120424,
       "name": "Salute",
       "url": "https://open.spotify.com/track/1Wd4bhR7Nnu1VWWhqiJI7Z"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "Rabbit Gets The Gun",
+        "url": "https://open.spotify.com/album/1O2BobyL6J7bcat222sLAz"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Jay Buchanan",
+          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
+        }
+      ],
+      "duration_ms": 214696,
+      "name": "Rabbit Gets The Gun",
+      "url": "https://open.spotify.com/track/0sFxHWS8kQz18rAFES6JXe"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -435,22 +407,6 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "The Allfather Awakens",
-        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 276706,
-      "name": "The Allfather Awakes",
-      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
         "name": "Classroom Metal, Vol. 1",
         "url": "https://open.spotify.com/album/5RTdZc8uUOi4FvLNmMq1vd"
       },
@@ -467,6 +423,22 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
         "name": "Palace for the People",
         "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
       },
@@ -479,6 +451,42 @@
       "duration_ms": 279576,
       "name": "Heya",
       "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "National Treasure",
+        "url": "https://open.spotify.com/album/05ioHslY3uCC5GbuBCd5ub"
+      },
+      "artists": [
+        {
+          "name": "MAMMOTH.",
+          "url": "https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 190263,
+      "name": "National Treasure",
+      "url": "https://open.spotify.com/track/35M5lfOuQIbLOChtL57u4g"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "Pullin' Out",
+        "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 115778,
+      "name": "DSL",
+      "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -503,42 +511,6 @@
       "duration_ms": 175254,
       "name": "The Center Eye",
       "url": "https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "Pullin' Out",
-        "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 115778,
-      "name": "DSL",
-      "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "National Treasure",
-        "url": "https://open.spotify.com/album/05ioHslY3uCC5GbuBCd5ub"
-      },
-      "artists": [
-        {
-          "name": "MAMMOTH.",
-          "url": "https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 190263,
-      "name": "National Treasure",
-      "url": "https://open.spotify.com/track/35M5lfOuQIbLOChtL57u4g"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -579,22 +551,6 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "Mr Charm",
-        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 230359,
-      "name": "Bad Luck Hideaway",
-      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
         "name": "Vacancy: Late Checkout",
         "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
       },
@@ -607,6 +563,22 @@
       "duration_ms": 155153,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "Mr Charm",
+        "url": "https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 230359,
+      "name": "Bad Luck Hideaway",
+      "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -631,6 +603,26 @@
       "duration_ms": 296520,
       "name": "HORIZONS",
       "url": "https://open.spotify.com/track/4mMjLwwILdbH5RcziLYEX7"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "TTW (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "TTW - Kaytranada Remix",
+      "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -667,26 +659,6 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "TTW (Kaytranada Remix)",
-        "url": "https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "TTW - Kaytranada Remix",
-      "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
         "name": "Live In Krakow",
         "url": "https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai"
       },
@@ -696,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
         }
       ],
-      "duration_ms": 322217,
-      "name": "Platz Eins - Live In Krakow",
-      "url": "https://open.spotify.com/track/1qT98toJxFQMeJloG0rTEm"
+      "duration_ms": 295580,
+      "name": "Golden Shower - Live In Krakow",
+      "url": "https://open.spotify.com/track/6abushQObMifGaSrI7CbUl"
     },
     {
       "added_at": "2026-10-16 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 145094,
+  "num_followers": 145110,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/m2UsAZkyoVKN0Q0ckFSoZkUFB",
+  "snapshot_id": "AAAAAOCtRDjDSNejMG8gK/WYaA7ADjmy",
   "tracks": [
     {
       "added_at": "2026-10-16 08:56:27",
@@ -575,6 +575,46 @@
     {
       "added_at": "2026-10-16 08:56:27",
       "album": {
+        "name": "Unke Dil Ke",
+        "url": "https://open.spotify.com/album/7jjhPx2wtozD8rDtB0fwtT"
+      },
+      "artists": [
+        {
+          "name": "Arhaan Hussain",
+          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
+        }
+      ],
+      "duration_ms": 320962,
+      "name": "Unke Dil Ke",
+      "url": "https://open.spotify.com/track/4wCx07hTmFlWMFkbf4U8Y3"
+    },
+    {
+      "added_at": "2026-10-16 08:56:27",
+      "album": {
+        "name": "Teri Adaa (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
+        "url": "https://open.spotify.com/album/2CCbwzWqZpawKUadLYNk4J"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "duration_ms": 287073,
+      "name": "Teri Adaa (Sar-e-Shaam - Mehfilz with Papon) - From The Living Room",
+      "url": "https://open.spotify.com/track/3yp8vscdlRw20aCTMHEUO2"
+    },
+    {
+      "added_at": "2026-10-16 08:56:27",
+      "album": {
         "name": "Ab Chhalakte Hue (From \"Bhoomi 2025\")",
         "url": "https://open.spotify.com/album/24c4qPeifmKRda1ZMoKuoB"
       },
@@ -603,22 +643,6 @@
     {
       "added_at": "2026-10-16 08:56:27",
       "album": {
-        "name": "Teri Adaa (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
-        "url": "https://open.spotify.com/album/2CCbwzWqZpawKUadLYNk4J"
-      },
-      "artists": [
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        }
-      ],
-      "duration_ms": 287073,
-      "name": "Teri Adaa (Sar-e-Shaam - Mehfilz with Papon) - From The Living Room",
-      "url": "https://open.spotify.com/track/3yp8vscdlRw20aCTMHEUO2"
-    },
-    {
-      "added_at": "2026-10-16 08:56:27",
-      "album": {
         "name": "Rare Moments",
         "url": "https://open.spotify.com/album/4kTiRFjbJLrP4Py00IA10N"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 330000,
       "name": "Meri Ajab Hai Zindagi",
       "url": "https://open.spotify.com/track/41ffCRz4qgkCidL08CBuPo"
-    },
-    {
-      "added_at": "2026-10-16 08:56:27",
-      "album": {
-        "name": "Unke Dil Ke",
-        "url": "https://open.spotify.com/album/7jjhPx2wtozD8rDtB0fwtT"
-      },
-      "artists": [
-        {
-          "name": "Arhaan Hussain",
-          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Shahab Hussain",
-          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
-        }
-      ],
-      "duration_ms": 320962,
-      "name": "Unke Dil Ke",
-      "url": "https://open.spotify.com/track/4wCx07hTmFlWMFkbf4U8Y3"
     },
     {
       "added_at": "2026-10-16 08:56:27",
@@ -999,6 +999,30 @@
     {
       "added_at": "2026-10-16 08:56:27",
       "album": {
+        "name": "Bandh Aankhein",
+        "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
+      },
+      "artists": [
+        {
+          "name": "Muhafiz",
+          "url": "https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Siddharth Chopra",
+          "url": "https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bandh Aankhein",
+      "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
+    },
+    {
+      "added_at": "2026-10-16 08:56:27",
+      "album": {
         "name": "Rooh",
         "url": "https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 305946,
       "name": "Parakhana Mat",
       "url": "https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF"
-    },
-    {
-      "added_at": "2026-10-16 08:56:27",
-      "album": {
-        "name": "Bandh Aankhein",
-        "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
-      },
-      "artists": [
-        {
-          "name": "Muhafiz",
-          "url": "https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9"
-        },
-        {
-          "name": "Sarthak Kalyani",
-          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
-        },
-        {
-          "name": "Siddharth Chopra",
-          "url": "https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bandh Aankhein",
-      "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
     },
     {
       "added_at": "2026-10-16 08:56:27",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2026-10-16 08:56:27",
       "album": {
-        "name": "Ab Vo Baat Kahaan",
-        "url": "https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        },
-        {
-          "name": "Sagar Dhote",
-          "url": "https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        }
-      ],
-      "duration_ms": 333000,
-      "name": "Ab Vo Baat Kahaan",
-      "url": "https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg"
-    },
-    {
-      "added_at": "2026-10-16 08:56:27",
-      "album": {
         "name": "Bekhudi Ishq Ki",
         "url": "https://open.spotify.com/album/4G1jCHowIxMGm1Qeg3wRex"
       },
@@ -1243,22 +1219,26 @@
     {
       "added_at": "2026-10-16 08:56:27",
       "album": {
-        "name": "Kya Batayein",
-        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
+        "name": "Ab Vo Baat Kahaan",
+        "url": "https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK"
       },
       "artists": [
         {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         },
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Sagar Dhote",
+          "url": "https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
         }
       ],
-      "duration_ms": 260640,
-      "name": "Kya Batayein",
-      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
+      "duration_ms": 333000,
+      "name": "Ab Vo Baat Kahaan",
+      "url": "https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg"
     },
     {
       "added_at": "2026-10-16 08:56:27",
@@ -1287,22 +1267,22 @@
     {
       "added_at": "2026-10-16 08:56:27",
       "album": {
-        "name": "Dil Pareshan Karta Hai",
-        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
+        "name": "Kya Batayein",
+        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
       },
       "artists": [
         {
-          "name": "Sumeet Tappoo",
-          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
         },
         {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         }
       ],
-      "duration_ms": 339376,
-      "name": "Samandar",
-      "url": "https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG"
+      "duration_ms": 260640,
+      "name": "Kya Batayein",
+      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
     },
     {
       "added_at": "2026-10-16 08:56:27",
@@ -1323,6 +1303,26 @@
       "duration_ms": 297000,
       "name": "Wo Baat Kahan",
       "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
+    },
+    {
+      "added_at": "2026-10-16 08:56:27",
+      "album": {
+        "name": "Dil Pareshan Karta Hai",
+        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
+      },
+      "artists": [
+        {
+          "name": "Sumeet Tappoo",
+          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "duration_ms": 339376,
+      "name": "Samandar",
+      "url": "https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG"
     },
     {
       "added_at": "2026-10-16 08:56:27",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-10-16 08:56:27",
       "album": {
+        "name": "Meri Dastaan",
+        "url": "https://open.spotify.com/album/0XkIRXfPgrWqtEQ3qH0owk"
+      },
+      "artists": [
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        }
+      ],
+      "duration_ms": 387905,
+      "name": "Meri Dastaan",
+      "url": "https://open.spotify.com/track/7EBH6ViwQInK1dZDoLZnAA"
+    },
+    {
+      "added_at": "2026-10-16 08:56:27",
+      "album": {
         "name": "Ghazal Ho Gayi",
         "url": "https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 343360,
       "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"
-    },
-    {
-      "added_at": "2026-10-16 08:56:27",
-      "album": {
-        "name": "Meri Dastaan",
-        "url": "https://open.spotify.com/album/0XkIRXfPgrWqtEQ3qH0owk"
-      },
-      "artists": [
-        {
-          "name": "Osman Mir",
-          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
-        }
-      ],
-      "duration_ms": 387905,
-      "name": "Meri Dastaan",
-      "url": "https://open.spotify.com/track/7EBH6ViwQInK1dZDoLZnAA"
     },
     {
       "added_at": "2026-10-16 08:56:27",

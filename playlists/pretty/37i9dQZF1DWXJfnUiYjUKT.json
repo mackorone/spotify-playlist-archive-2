@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world, with Tate McRae on the cover.",
-  "num_followers": 523162,
+  "num_followers": 523154,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXCmD7S1XMlN2qJRu0KnQOGXp0m",
+  "snapshot_id": "AAAAAA0Ti1PJRIECTMcLebOQGcRRFp9F",
   "tracks": [
     {
       "added_at": "2026-10-16 19:30:17",
@@ -154,6 +154,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,
@@ -946,6 +950,10 @@
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Campe\u00f3n Gabacho",
+          "url": "https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV"
         }
       ],
       "duration_ms": 114559,

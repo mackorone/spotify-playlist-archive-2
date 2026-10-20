@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChk2FXn67c1D1Ip4ab5XCMaSTB1",
+  "snapshot_id": "AAAAAB9reP6H+A/lwaKKk0OCAngvuzwN",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:51",
@@ -202,6 +202,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,

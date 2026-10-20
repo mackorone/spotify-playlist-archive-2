@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71216,
+  "num_followers": 71214,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAACg3u6LikiwiuUQtwC9AUMk",
+  "snapshot_id": "atQMAAAAAAB5fjyqo1GjWM9qhhjUF6bM",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bella Nostalgia",
-        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 185426,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bella Nostalgia",
+        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Relevo",
-        "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Fingir Est\u00e1 De Moda",
-      "url": "https://open.spotify.com/track/21veSwBRn0s1HHLBf7fxZE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 206414,
       "name": "Aprender a Vivir",
       "url": "https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Relevo",
+        "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Fingir Est\u00e1 De Moda",
+      "url": "https://open.spotify.com/track/21veSwBRn0s1HHLBf7fxZE"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201540,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piel Canela (Casa Sole)",
         "url": "https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 192669,
       "name": "Piel Canela (Casa Sole)",
       "url": "https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201540,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,
@@ -835,38 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 254258,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -887,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
       },
       "artists": [
         {
@@ -896,9 +864,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 205959,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
+      "duration_ms": 254258,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
     },
     {
       "added_at": null,
@@ -912,9 +880,25 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 212092,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
+      "duration_ms": 138750,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
     },
     {
       "added_at": null,
@@ -955,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estoy Enamorado (En Vivo)",
-        "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
       "artists": [
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 183592,
-      "name": "Estoy Enamorado - En Vivo",
-      "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
+      "duration_ms": 212092,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
     },
     {
       "added_at": null,
@@ -995,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
-        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
+        "name": "Estoy Enamorado (En Vivo)",
+        "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
       },
       "artists": [
         {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 263640,
-      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
-      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
+      "duration_ms": 183592,
+      "name": "Estoy Enamorado - En Vivo",
+      "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
     },
     {
       "added_at": null,
@@ -1031,6 +1011,26 @@
       "duration_ms": 209833,
       "name": "Qu\u00e9 Fuimos (feat. Matisse)",
       "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
+        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
+      },
+      "artists": [
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
+      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
     }
   ],
   "unique_name": "This Is Pedro Cap\u00f3",

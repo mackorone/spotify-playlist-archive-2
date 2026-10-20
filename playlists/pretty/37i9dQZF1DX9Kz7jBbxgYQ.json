@@ -1,13 +1,29 @@
 {
-  "description": "Home to the best of South Asian Indie scene. Cover: Aksomaniac",
-  "num_followers": 221463,
+  "description": "Home to the best of South Asian Indie scene. Cover: Curtain Blue",
+  "num_followers": 221525,
   "original_name": "Desi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1A042yXnPYzJ5ooWNhQ7sdC7c1",
+  "snapshot_id": "AAAAAMjV+VakRgBt48aODctr7bZGXJxa",
   "tracks": [
+    {
+      "added_at": "2026-10-19 10:29:36",
+      "album": {
+        "name": "Yeh Duniya",
+        "url": "https://open.spotify.com/album/74EZZPUsRd1wMvDJtUI4gK"
+      },
+      "artists": [
+        {
+          "name": "Curtain Blue",
+          "url": "https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15"
+        }
+      ],
+      "duration_ms": 155363,
+      "name": "Yeh Duniya",
+      "url": "https://open.spotify.com/track/3afNMElBBtkRPyR79DMyMJ"
+    },
     {
       "added_at": "2026-09-30 06:50:59",
       "album": {
@@ -139,6 +155,22 @@
       "duration_ms": 248947,
       "name": "Banda Kaam Ka",
       "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
+    },
+    {
+      "added_at": "2026-10-19 10:29:36",
+      "album": {
+        "name": "Ishaare",
+        "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
     },
     {
       "added_at": "2026-09-30 06:50:59",
@@ -1167,22 +1199,6 @@
     {
       "added_at": "2026-09-30 06:50:59",
       "album": {
-        "name": "Kahani Suno 2.0",
-        "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
-      },
-      "artists": [
-        {
-          "name": "Kaifi Khalil",
-          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Kahani Suno 2.0",
-      "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
-    },
-    {
-      "added_at": "2026-09-30 06:50:59",
-      "album": {
         "name": "Sajna da Dil Torya",
         "url": "https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 163653,
       "name": "Co2",
       "url": "https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N"
-    },
-    {
-      "added_at": "2026-09-30 06:50:59",
-      "album": {
-        "name": "Akhiyaan",
-        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 191868,
-      "name": "Akhiyaan",
-      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
     },
     {
       "added_at": "2026-09-30 06:50:59",

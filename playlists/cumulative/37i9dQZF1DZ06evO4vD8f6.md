@@ -4,7 +4,7 @@
 
 > This is Calvin Harris\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 0 min
+51 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/4slBllHFZYlpg3IjeX5CBl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [96 Months](https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd) | 3:32 | 2026-10-15 |  |
 | [I Found You \(with Calvin Harris\)](https://open.spotify.com/track/1kQhi22kyluRCnIPAXtxEZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [FRIENDS KEEP SECRETS](https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ) | 3:09 | 2026-10-15 |  |
 | [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 | 2026-10-15 |  |
-| [I'm Not Alone \- 2019 Edit](https://open.spotify.com/track/5v98VA4TXznJNrw0XRphIb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [I'm Not Alone 2019](https://open.spotify.com/album/65Je3CF9LBWoGx2p0zDIpF) | 3:21 | 2026-10-15 |  |
+| [I'm Not Alone \- 2019 Edit](https://open.spotify.com/track/5v98VA4TXznJNrw0XRphIb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [I'm Not Alone 2019](https://open.spotify.com/album/65Je3CF9LBWoGx2p0zDIpF) | 3:21 | 2026-10-15 | 2026-10-20 |
+| [I'm Not Alone \- 2019 Edit](https://open.spotify.com/track/6zAUCritANdhceCMLVB8xR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [96 Months](https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd) | 3:21 | 2026-10-20 |  |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2026-10-15 |  |
 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:52 | 2026-10-15 |  |
 | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/track/3XnvNOjFKyFyNvxlXy1DXm) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/album/2st44QXoemztnPKY99Yalg) | 3:25 | 2026-10-15 |  |

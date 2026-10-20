@@ -2,7 +2,7 @@
 
 ### [Chill Evening](https://open.spotify.com/playlist/37i9dQZF1DXcKnb4wcRKrO)
 
-> Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
+> Golden hour, apéritif, cozy time, beach wind\-down🍹 jazzy vibes & relaxed house beats
 
 292 songs - 13 hr 39 min
 

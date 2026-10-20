@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 106,828 likes - 91 songs - 3 hr 59 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 106,832 likes - 92 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 2 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
 | 3 | [Come Closer](https://open.spotify.com/track/4FoFi2hgbJiC5wSHcRdyQB) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Come Closer](https://open.spotify.com/album/5QI2Qd0N66uPA0kgcKOkvA) | 2:00 |
 | 4 | [Body Lover](https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NASHUP](https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp), [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Body Lover](https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx) | 2:27 |
-| 5 | [Stay A Little Longer](https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stay A Little Longer](https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb) | 2:13 |
-| 6 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 |
+| 5 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 |
+| 6 | [Stay A Little Longer](https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stay A Little Longer](https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb) | 2:13 |
 | 7 | [Saudades](https://open.spotify.com/track/3HJUSRHm1aZY2oWL9MsSag) | [Addal](https://open.spotify.com/artist/4KvEeVTVVyMlEhr5ovZBOT) | [Saudades](https://open.spotify.com/album/3bOL0VIU1OXvePAgATgRUc) | 3:05 |
 | 8 | [Say Nothing](https://open.spotify.com/track/6vrezhWrN7N4cdsw21mdDM) | [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Say Nothing](https://open.spotify.com/album/3wfR8w45kaQhdG9leRPXx4) | 2:02 |
 | 9 | [Diamond in the Dark](https://open.spotify.com/track/3xky2Y7o5kybe1ALCFF9RN) | [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk) | [Diamond in the Dark](https://open.spotify.com/album/5RDyXSOOPstIeStO1cPIM4) | 3:32 |
@@ -99,5 +99,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 89 | [Makes Me Move](https://open.spotify.com/track/7e5vDprt0n0PM25JAU1TL6) | [TBx](https://open.spotify.com/artist/03U2hi0d2qahOADWNZAnhw) | [Makes Me Move](https://open.spotify.com/album/0L5ZEIvm0rmHNNJBGW82V4) | 2:38 |
 | 90 | [back to friends](https://open.spotify.com/track/2Dp4mSIpKt8v8PGu1TvYWk) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [back to friends](https://open.spotify.com/album/70hKBo3cY1pZtkJ7dpcG95) | 2:04 |
 | 91 | [Strangers](https://open.spotify.com/track/3rKn8ziaJxzKIjB9I4uy88) | [DEAN](https://open.spotify.com/artist/1mj9UVYo0rH0euesr0j6Q8), [Zoe Twist](https://open.spotify.com/artist/7LtIxPeQZrddTnGK136L0C) | [Strangers](https://open.spotify.com/album/6Q1jGAaBPw0guIga23ikBS) | 2:52 |
+| 92 | [Vem Devagar](https://open.spotify.com/track/25PC1qzzd7s5MMYWENpl5K) | [Afroface](https://open.spotify.com/artist/25fRd5PbshUE9O0YcL15DD) | [Vem Devagar](https://open.spotify.com/album/3k9Ig4h12CUbKJam9g1lNv) | 3:07 |
 
-Snapshot ID: `AAAnyS4MebG3iOUhKUBmaFBREMh4sK0I`
+Snapshot ID: `AAAny+ETrfS+ziEAF5s2/bJlQiraJHaR`

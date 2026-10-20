@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Travelers All Stars  on cover ",
-  "num_followers": 414747,
+  "num_followers": 414759,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIugr5tKC9xMEQBxvaotWHXXV0D3",
+  "snapshot_id": "AAAAALuuKfE8Rx/OHNA0/RENXKM1xWiQ",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:42",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "Fuera de Control",
         "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Paria",
-      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "The Godfather Of Ska Anthology",
         "url": "https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 280626,
       "name": "Skinhead",
       "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Paria",
+      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Secret Lover",
-        "url": "https://open.spotify.com/album/7iQV7A56og3xukRdb3F8Lm"
-      },
-      "artists": [
-        {
-          "name": "Irie Love",
-          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
-        }
-      ],
-      "duration_ms": 193827,
-      "name": "Secret Lover",
-      "url": "https://open.spotify.com/track/3wY0ZXUrwkrJoj9oB9LOwL"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 280293,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "Secret Lover",
+        "url": "https://open.spotify.com/album/7iQV7A56og3xukRdb3F8Lm"
+      },
+      "artists": [
+        {
+          "name": "Irie Love",
+          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
+        }
+      ],
+      "duration_ms": 193827,
+      "name": "Secret Lover",
+      "url": "https://open.spotify.com/track/3wY0ZXUrwkrJoj9oB9LOwL"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Nice Things",
-        "url": "https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T"
+        "name": "Indie Singles Collection 1991-1996",
+        "url": "https://open.spotify.com/album/3gwVOnYIvRJFJyrJzaPnWF"
       },
       "artists": [
         {
-          "name": "The Supervillains",
-          "url": "https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ"
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
         }
       ],
-      "duration_ms": 141057,
-      "name": "The Sweat",
-      "url": "https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E"
+      "duration_ms": 186266,
+      "name": "On My Radio",
+      "url": "https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA"
     }
   ],
   "unique_name": "The Essential Ska",

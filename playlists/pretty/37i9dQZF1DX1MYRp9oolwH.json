@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
-  "num_followers": 172238,
+  "num_followers": 172259,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9epQmwzpJ6SkJYX4OFEr/6E7a6",
+  "snapshot_id": "AAAAABi7m3S5ZjcnZUqOOUPtIDENR2BT",
   "tracks": [
     {
       "added_at": "2026-10-08 12:34:35",
@@ -83,6 +83,50 @@
       "duration_ms": 230976,
       "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "added_at": "2026-10-19 07:12:13",
+      "album": {
+        "name": "Evaramma Nuvevaramma (From \"Balu Geetha\")",
+        "url": "https://open.spotify.com/album/5VkDPYKkuQK8Qc9e93ZmbU"
+      },
+      "artists": [
+        {
+          "name": "Kalyan Nayak",
+          "url": "https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul"
+        },
+        {
+          "name": "Saathwik Yadavalli",
+          "url": "https://open.spotify.com/artist/4xqPYqU59SpgPH7nfJGVRz"
+        },
+        {
+          "name": "Koti Mamidala",
+          "url": "https://open.spotify.com/artist/7MoO67dvdRjbNRawzjG1BK"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Evaramma Nuvevaramma (From \"Balu Geetha\")",
+      "url": "https://open.spotify.com/track/3a0vbhw3dEjZb4dPlni54f"
+    },
+    {
+      "added_at": "2026-10-19 07:17:26",
+      "album": {
+        "name": "Song of First Love (From \"Bhayankara Preeti (Telugu)\")",
+        "url": "https://open.spotify.com/album/4YyXQcZjl8hYM1mAI0EBNv"
+      },
+      "artists": [
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Indu Sanath",
+          "url": "https://open.spotify.com/artist/6uXJN01hJLo1cZPfQOldgi"
+        }
+      ],
+      "duration_ms": 223743,
+      "name": "Song of First Love (From \"Bhayankara Preeti (Telugu)\")",
+      "url": "https://open.spotify.com/track/6kRdNhQkZHy2H9XIHdqxup"
     },
     {
       "added_at": "2026-10-16 06:06:32",
@@ -575,54 +619,6 @@
       "duration_ms": 187999,
       "name": "Kallo Guntala",
       "url": "https://open.spotify.com/track/6AKuAYwXrrrpsAaWuhl4A8"
-    },
-    {
-      "added_at": "2026-07-20 07:09:04",
-      "album": {
-        "name": "Oopirantha Ivvale (From \"Tatvam\")",
-        "url": "https://open.spotify.com/album/00sW52huF89e8CHmnDsBWR"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Chaitan Bharadwaj",
-          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 184300,
-      "name": "Oopirantha Ivvale (From \"Tatvam\")",
-      "url": "https://open.spotify.com/track/6TKQRi6CM5LarVKwhfwpKa"
-    },
-    {
-      "added_at": "2026-07-20 06:58:06",
-      "album": {
-        "name": "Hrudayam Murali (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18wQS6AagP6OJ0esABmPbo"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Tushar Sambhara",
-          "url": "https://open.spotify.com/artist/04KHg5JZeqjMTqhTxx8Hn1"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 277439,
-      "name": "Kalalenno",
-      "url": "https://open.spotify.com/track/75mui7H7T4ZN9sQohvjTCN"
     },
     {
       "added_at": "2026-08-04 08:15:46",

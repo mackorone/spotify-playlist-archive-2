@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Hannah Mae, Qlas & Isabèl Usher, ANOTR en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,978 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,972 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 76 | [Human Angel](https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Follow The Light](https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y) | 2:59 |
 | 77 | [Wake Me Up](https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Somewhere Between](https://open.spotify.com/album/2MwfrGfon5UGQ13z0Vh5tW) | 3:03 |
 | 78 | [Keptman](https://open.spotify.com/track/3rUPKvdhqJD7pGytdiozQv) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [Keptman](https://open.spotify.com/album/4HgttFucDWHvuqwOUgcuYb) | 3:52 |
-| 79 | [ONLY YOURS](https://open.spotify.com/track/6Kyea5bFUwQZaeHPzOoi5C) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [CRY.DANCE.LOVE](https://open.spotify.com/album/5MK5MnKsfWf8Kab2H85rq8) | 3:04 |
+| 79 | [ONLY YOURS](https://open.spotify.com/track/6Kyea5bFUwQZaeHPzOoi5C) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [CRY\. DANCE\. LOVE.](https://open.spotify.com/album/5MK5MnKsfWf8Kab2H85rq8) | 3:04 |
 | 80 | [Dinero](https://open.spotify.com/track/3sKhhYulE7P91aQbse7slm) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Dinero](https://open.spotify.com/album/4dr6QMEKIgNSUG6w4KPko1) | 3:06 |
 | 81 | [Mama Sorry](https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85) | [Harun B](https://open.spotify.com/artist/4NHcKVmjob2Cb4Wtw7gJZF), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pierrii](https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU), [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [Mama Sorry](https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u) | 3:00 |
 | 82 | [Sensual](https://open.spotify.com/track/2s2gpI5E2IVKYMysi7HW6a) | [fingerbleed](https://open.spotify.com/artist/2DtH8PLe1dGAAzpNPbgVd5) | [Instant Gratification](https://open.spotify.com/album/06hrWJciMLSgO3NvKn1e5u) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Schoolplein](https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq) | [Lolo Hefting](https://open.spotify.com/artist/1QxuSoOeaBssFBysmaKc3F) | [Schoolplein](https://open.spotify.com/album/5q4y56NTQZytBklZcwEVxK) | 2:29 |
 | 100 | [Hurts a Little Less](https://open.spotify.com/track/1my0fDvLnRAVBVRUCaonMh) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Mediocre Woman](https://open.spotify.com/album/17scCLIuywfrRxQFwMixtr) | 2:32 |
 
-Snapshot ID: `AAAAAHsGvIzBlXwcxUwZMxOH1/FYRjOp`
+Snapshot ID: `AAAAAB4w/RCZTs24u1vv0VW5bn8FPBj/`

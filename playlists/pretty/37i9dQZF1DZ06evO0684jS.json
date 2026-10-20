@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 885739,
+  "num_followers": 885730,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAAA5iLIsPkQwwoBoVO1r405l",
+  "snapshot_id": "atQMAAAAAACpnJH0qa786CQj3XM6Y0RX",
   "tracks": [
     {
       "added_at": null,
@@ -1043,18 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+        "name": "Black Barbies",
+        "url": "https://open.spotify.com/album/0bfNmMmjV6nvDwwhUvL7e8"
       },
       "artists": [
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
+      "duration_ms": 254080,
+      "name": "Black Barbies",
+      "url": "https://open.spotify.com/track/3y9cCbnBn0zjkJa2YkOj70"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

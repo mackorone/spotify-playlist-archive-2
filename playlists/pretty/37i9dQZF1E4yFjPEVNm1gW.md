@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4yFjPEVNm1gW.md) - [plain]
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Ken Carson, Cuo Zay and more
+> With Yeat, Cuo Zay, Autumn! and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 1 like - 50 songs - 2 hr 1 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4yFjPEVNm1gW.md) - [plain]
 | 49 | [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 |
 | 50 | [Baked Up \(Ur Mom\)](https://open.spotify.com/track/6QBdg2rafLrbHLPPAabKDn) | [sunnkiss](https://open.spotify.com/artist/2Py2i4U3nj1mFOMQQv9LlN) | [Baked Up \(Ur Mom\)](https://open.spotify.com/album/531c4gaYrZ9s08Epr6Sz6Y) | 2:21 |
 
-Snapshot ID: `AAAAABoYUe/55bB9pftuvj38qwfJ3nuO`
+Snapshot ID: `AAAAAE2Tpp9g91ZC9yUF6KinHB+5RltB`

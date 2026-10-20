@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22410,
+  "num_followers": 22417,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJr9Yt4ID8o+RmNN3Dg97T8tAcF2",
+  "snapshot_id": "AAAAACDtot/B2eM5apqbG2SxqsivHQ+8",
   "tracks": [
     {
       "added_at": "2026-09-22 14:14:58",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "A Day",
-      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 287741,
       "name": "I say \"I love you\" again",
       "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "My Liberation Notes OST Part 11",
         "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 259056,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Why break up? (My love X Jeon Sang Keun)",
         "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 271280,
       "name": "Why break up? (My love X Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
+        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
+      },
+      "artists": [
+        {
+          "name": "Nam Gyu ri",
+          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
+        }
+      ],
+      "duration_ms": 202142,
+      "name": "Sorrow at my door(Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 207666,
       "name": "Dumb (Feat. Kim Seungmin, Chan)",
       "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
-        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
-        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
-      },
-      "artists": [
-        {
-          "name": "Nam Gyu ri",
-          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Sorrow at my door(Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Our Cosmos",
-        "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
-      },
-      "artists": [
-        {
-          "name": "LEE BYEONGCHAN",
-          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
-        }
-      ],
-      "duration_ms": 227238,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Once again OST Part 1",
         "url": "https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Our Cosmos",
+        "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
+      },
+      "artists": [
+        {
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
+        }
+      ],
+      "duration_ms": 227238,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
     },
     {
       "added_at": "2026-09-22 14:14:58",

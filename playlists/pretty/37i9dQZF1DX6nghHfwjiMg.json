@@ -1,12 +1,12 @@
 {
   "description": " Artistas para descubrir \ud83d\udcf8 Maia Reficco",
-  "num_followers": 57327,
+  "num_followers": 57324,
   "original_name": "RADAR Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgMrNG8SJMSqa+NXoReaA6cuwj+",
+  "snapshot_id": "AAAAAGNasOcbN9R9X6NzZViLEE0DK8uh",
   "tracks": [
     {
       "added_at": "2026-10-09 03:00:33",
@@ -87,6 +87,42 @@
       "duration_ms": 161813,
       "name": "Trabajar",
       "url": "https://open.spotify.com/track/49m0vJkGR4oo3ZfmEiqWMh"
+    },
+    {
+      "added_at": "2026-10-19 16:46:53",
+      "album": {
+        "name": "Zorro Blanco Manto Negro",
+        "url": "https://open.spotify.com/album/4N11WS9pWVr7iZwov94dpA"
+      },
+      "artists": [
+        {
+          "name": "Crewrod",
+          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
+        }
+      ],
+      "duration_ms": 229679,
+      "name": "Manto Negro",
+      "url": "https://open.spotify.com/track/0npcH5rvqo1dKr96CzLM4Q"
+    },
+    {
+      "added_at": "2026-10-19 16:46:53",
+      "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/6vDdBdjMBYxfIOVdiSdlJF"
+      },
+      "artists": [
+        {
+          "name": "Camila Pino",
+          "url": "https://open.spotify.com/artist/5sduq9dVmsPqZrfFEuC07S"
+        },
+        {
+          "name": "Manu Estrada",
+          "url": "https://open.spotify.com/artist/3iBwX6PVa8BNVoGjCIZNm9"
+        }
+      ],
+      "duration_ms": 161856,
+      "name": "Pienso y Declaro",
+      "url": "https://open.spotify.com/track/7DPzjkY3cS2cv6DYi23jEb"
     },
     {
       "added_at": "2026-10-09 03:00:33",

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166961,
+  "num_followers": 166965,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIynxN81TDxR2go/UvvwCI8L05Vx",
+  "snapshot_id": "AAAAAEAWxna/SHpKNLBlZHHbdwD3kbQy",
   "tracks": [
     {
       "added_at": "2026-10-16 08:07:51",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
+        "name": "Flex It",
+        "url": "https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "y3kfae",
+          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Flex It",
+      "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
         "name": "Ya Mind",
         "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 192000,
       "name": "Ya Mind",
       "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "Flex It",
-        "url": "https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "y3kfae",
-          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Flex It",
-      "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
         "name": "Cut Em Down",
         "url": "https://open.spotify.com/album/6BDTKombhaeXnr5ZWHWQY6"
       },
@@ -863,22 +883,18 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Killer Instinct",
-        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
+        "name": "Cash4Gold / Close2Mine",
+        "url": "https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Killer Instinct",
-      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
+      "duration_ms": 192861,
+      "name": "Cash4Gold",
+      "url": "https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Cash4Gold / Close2Mine",
-        "url": "https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX"
-      },
-      "artists": [
-        {
-          "name": "Nectax",
-          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
-        }
-      ],
-      "duration_ms": 192861,
-      "name": "Cash4Gold",
-      "url": "https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/3qhQt4MFDlXPhRLRvQ199i"
       },
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 204255,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4IgHjm0DQwnxoOryCeU6aK"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "14ZERO V2",
-        "url": "https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 198428,
-      "name": "I\u2019m Confused",
-      "url": "https://open.spotify.com/track/23IMx0AeVBouS72DfACGQt"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Onslaught",
         "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 181718,
       "name": "Onslaught",
       "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "14ZERO V2",
+        "url": "https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 198428,
+      "name": "I\u2019m Confused",
+      "url": "https://open.spotify.com/track/23IMx0AeVBouS72DfACGQt"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+        "name": "Haikyo",
+        "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
       },
       "artists": [
         {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
         }
       ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
+      "duration_ms": 243000,
+      "name": "Haikyo",
+      "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1495,18 +1491,22 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Haikyo",
-        "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
       },
       "artists": [
         {
-          "name": "Nectax",
-          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Haikyo",
-      "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Back To My Roots EP",
-        "url": "https://open.spotify.com/album/0Zi46RSjOxnHhcYaorSa8A"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Invasion",
-      "url": "https://open.spotify.com/track/0EArar8p2qXMqBWvDYvwJ5"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "OH YEAH",
         "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
+        "name": "Back To My Roots EP",
+        "url": "https://open.spotify.com/album/0Zi46RSjOxnHhcYaorSa8A"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Invasion",
+      "url": "https://open.spotify.com/track/0EArar8p2qXMqBWvDYvwJ5"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
         "name": "Bad Taste",
         "url": "https://open.spotify.com/album/0Sm2yAul9Ih7CSac3ipoMo"
       },
@@ -1707,6 +1707,26 @@
       "duration_ms": 123428,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "LOCKDOWN",
+        "url": "https://open.spotify.com/album/5mwfc2tfgL5FzsSbuGeDkL"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 182057,
+      "name": "LOCKDOWN",
+      "url": "https://open.spotify.com/track/2bWA1Voi1F0uuLiwoqvmRj"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1791,6 +1811,26 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
+        "name": "Hitman",
+        "url": "https://open.spotify.com/album/1ArZBdgPscE9w45S9hN7U6"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Hitman",
+      "url": "https://open.spotify.com/track/7kHq3IH6Tgb63WrEDEuVSz"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
         "name": "SHATTER",
         "url": "https://open.spotify.com/album/1h6KIsgjXcPyA53MTIQMhO"
       },
@@ -1815,26 +1855,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Hitman",
-        "url": "https://open.spotify.com/album/1ArZBdgPscE9w45S9hN7U6"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Hitman",
-      "url": "https://open.spotify.com/track/7kHq3IH6Tgb63WrEDEuVSz"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/0G6B8ftsjom1AvlFT3qXnj"
       },
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
-      },
-      "artists": [
-        {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
-        },
-        {
-          "name": "TSVI",
-          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
-        }
-      ],
-      "duration_ms": 334138,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Ash Dem",
         "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
       },
@@ -1891,6 +1891,26 @@
       "duration_ms": 137584,
       "name": "Ash Dem",
       "url": "https://open.spotify.com/track/5RIRxMzIWOxULw5pSiAqeG"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "TSVI",
+          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+        }
+      ],
+      "duration_ms": 334138,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1951,26 +1971,6 @@
       "duration_ms": 206296,
       "name": "Our Story",
       "url": "https://open.spotify.com/track/1TgHTZxYU6lFBF07Zd4Snx"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "LOCKDOWN",
-        "url": "https://open.spotify.com/album/5mwfc2tfgL5FzsSbuGeDkL"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 182057,
-      "name": "LOCKDOWN",
-      "url": "https://open.spotify.com/track/2bWA1Voi1F0uuLiwoqvmRj"
     },
     {
       "added_at": "2026-10-16 08:07:51",

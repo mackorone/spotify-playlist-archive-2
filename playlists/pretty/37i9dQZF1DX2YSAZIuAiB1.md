@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,474 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,390 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Tequila & Ibiza](https://open.spotify.com/track/19txbPBxw2UAX5OaFattUc) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [BESH.](https://open.spotify.com/artist/5JRnZxSb8XULQul9lyb2Yy) | [Tequila & Ibiza](https://open.spotify.com/album/5JJocmovUqPUBYPPv5wy8k) | 2:55 |
 | 75 | [Más Cara](https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:35 |
 
-Snapshot ID: `AAAAABDqzeXLDAxRvlknL8jtzo8K3pUZ`
+Snapshot ID: `AAAAAG8EGU5Vb5ELdlVq7inzs61bn19J`

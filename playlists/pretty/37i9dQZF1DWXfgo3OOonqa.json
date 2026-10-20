@@ -1,13 +1,49 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 333066,
+  "num_followers": 333036,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFVwmS771bU2t/GeoyIe2BOFu8S",
+  "snapshot_id": "AAAAABLOVrmakP7QJ+RC/7qjJBvFiUSy",
   "tracks": [
+    {
+      "added_at": "2026-10-15 22:01:19",
+      "album": {
+        "name": "DJUNGELNS LAGAR",
+        "url": "https://open.spotify.com/album/6RloQFcpKpeoFLYkLwW9AE"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "L\u00c4MNAT",
+      "url": "https://open.spotify.com/track/0qsfVIY1Lj5cUnOOr8HC1m"
+    },
+    {
+      "added_at": "2026-10-15 22:01:19",
+      "album": {
+        "name": "K\u00e4rlek & Brott",
+        "url": "https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "duration_ms": 121874,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n"
+    },
     {
       "added_at": "2026-10-15 22:01:19",
       "album": {
@@ -43,26 +79,6 @@
     {
       "added_at": "2026-10-15 22:01:19",
       "album": {
-        "name": "DJUNGELNS LAGAR",
-        "url": "https://open.spotify.com/album/6RloQFcpKpeoFLYkLwW9AE"
-      },
-      "artists": [
-        {
-          "name": "Sticky",
-          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
-        },
-        {
-          "name": "01an",
-          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "L\u00c4MNAT",
-      "url": "https://open.spotify.com/track/0qsfVIY1Lj5cUnOOr8HC1m"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
         "name": "TIC TAC",
         "url": "https://open.spotify.com/album/5EcyBer6It2AfQTjDFInXa"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 126829,
       "name": "TIC TAC",
       "url": "https://open.spotify.com/track/18hFcYV1By6c8SnPHuzV73"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "K\u00e4rlek & Brott",
-        "url": "https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 121874,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n"
     },
     {
       "added_at": "2026-10-15 22:01:19",
@@ -111,38 +111,6 @@
     {
       "added_at": "2026-10-15 22:01:19",
       "album": {
-        "name": "INGEN ANING",
-        "url": "https://open.spotify.com/album/0ykNHyaYx49MIfQ7YYasyU"
-      },
-      "artists": [
-        {
-          "name": "Le Bandit",
-          "url": "https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "INGEN ANING",
-      "url": "https://open.spotify.com/track/6dx1wLEd07Yjfl5ULLE5Fh"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "Your Turn In Blue (Deluxe)",
-        "url": "https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 184696,
-      "name": "Idileey",
-      "url": "https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
         "name": "HITLIST",
         "url": "https://open.spotify.com/album/75EXpm16X6BCYFUDlsRN2y"
       },
@@ -159,18 +127,18 @@
     {
       "added_at": "2026-10-15 22:01:19",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/0Ml3SZ6bAyT8hKEeVpTvuu"
+        "name": "INGEN ANING",
+        "url": "https://open.spotify.com/album/0ykNHyaYx49MIfQ7YYasyU"
       },
       "artists": [
         {
-          "name": "3Z",
-          "url": "https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei"
+          "name": "Le Bandit",
+          "url": "https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ"
         }
       ],
-      "duration_ms": 132000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/1qa32N7vAY5ZQs2LR2dANT"
+      "duration_ms": 165123,
+      "name": "INGEN ANING",
+      "url": "https://open.spotify.com/track/6dx1wLEd07Yjfl5ULLE5Fh"
     },
     {
       "added_at": "2026-10-15 22:01:19",
@@ -195,18 +163,34 @@
     {
       "added_at": "2026-10-15 22:01:19",
       "album": {
-        "name": "V\u00c4LK\u00c4ND",
-        "url": "https://open.spotify.com/album/4mCxu1myGXHTzMZMvBLSTc"
+        "name": "Your Turn In Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF"
       },
       "artists": [
         {
-          "name": "R10",
-          "url": "https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 121874,
-      "name": "V\u00c4LK\u00c4ND",
-      "url": "https://open.spotify.com/track/6pOTK7Oq1PNmzMGhEvmRG4"
+      "duration_ms": 184696,
+      "name": "Idileey",
+      "url": "https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU"
+    },
+    {
+      "added_at": "2026-10-15 22:01:19",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0Ml3SZ6bAyT8hKEeVpTvuu"
+      },
+      "artists": [
+        {
+          "name": "3Z",
+          "url": "https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/1qa32N7vAY5ZQs2LR2dANT"
     },
     {
       "added_at": "2026-10-15 22:01:19",
@@ -227,6 +211,22 @@
       "duration_ms": 118250,
       "name": "Tv\u00e5 Somrar Bort",
       "url": "https://open.spotify.com/track/1hvtRnTfZgu9i5JMKCnQRM"
+    },
+    {
+      "added_at": "2026-10-15 22:01:19",
+      "album": {
+        "name": "V\u00c4LK\u00c4ND",
+        "url": "https://open.spotify.com/album/4mCxu1myGXHTzMZMvBLSTc"
+      },
+      "artists": [
+        {
+          "name": "R10",
+          "url": "https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m"
+        }
+      ],
+      "duration_ms": 121874,
+      "name": "V\u00c4LK\u00c4ND",
+      "url": "https://open.spotify.com/track/6pOTK7Oq1PNmzMGhEvmRG4"
     },
     {
       "added_at": "2026-10-15 22:01:19",

@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 315999,
+  "num_followers": 316013,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADvC7hJIL8qPQtnSA11Hx5uzAcoW",
+  "snapshot_id": "AAAAAJnI5Gid/fQTFVUn1kj5Zk6iZabp",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:25",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "I Wanna Be Bad",
-        "url": "https://open.spotify.com/album/6snIP2jUiHg8laMBGmd9rD"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 157130,
-      "name": "I Wanna Be Bad",
-      "url": "https://open.spotify.com/track/7uxmDjx4P4KSMLI2mXwZeF"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Luxury Liner (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 208773,
       "name": "You Never Can Tell (C'est la Vie) - 2003 Remaster",
       "url": "https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "I Wanna Be Bad",
+        "url": "https://open.spotify.com/album/6snIP2jUiHg8laMBGmd9rD"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 157130,
+      "name": "I Wanna Be Bad",
+      "url": "https://open.spotify.com/track/7uxmDjx4P4KSMLI2mXwZeF"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Country Is Dead",
-        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+        "name": "The Lost Outlaw Album",
+        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
       },
       "artists": [
         {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+          "name": "Hoover",
+          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Turn This Thing Around",
-      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
+      "duration_ms": 165088,
+      "name": "I'm the Loneliest Man I Ever Met",
+      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "The Lost Outlaw Album",
-        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
-      },
-      "artists": [
-        {
-          "name": "Hoover",
-          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
-        }
-      ],
-      "duration_ms": 165088,
-      "name": "I'm the Loneliest Man I Ever Met",
-      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Drive & Cry",
         "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 203973,
       "name": "Rootin\u2019 For You",
       "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Country Is Dead",
+        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Turn This Thing Around",
+      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+        "name": "Listening to the Music",
+        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
       },
       "artists": [
         {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+          "name": "Zephaniah OHora",
+          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
         }
       ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+      "duration_ms": 190035,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Listening to the Music",
-        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
       },
       "artists": [
         {
-          "name": "Zephaniah OHora",
-          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
         }
       ],
-      "duration_ms": 190035,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1295,22 +1311,6 @@
       "duration_ms": 213204,
       "name": "Love All Night (Work All Day)",
       "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
-      },
-      "artists": [
-        {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Lawdy Mama",
-        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Lawdy Mama",
-      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Lawdy Mama",
+        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Lawdy Mama",
+      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Snakelife",
         "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 277613,
       "name": "Snakelife",
       "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "I Thought You Were Somebody Else",
-      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "You Don't Own Me",
         "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 168648,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 223713,
-      "name": "Trouble Me Anytime",
-      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
       "artists": [
         {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
         }
       ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+      "duration_ms": 223713,
+      "name": "Trouble Me Anytime",
+      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1647,6 +1631,22 @@
       "duration_ms": 163906,
       "name": "That's How I Feel",
       "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2026-09-11 04:01:25",

@@ -2065,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Monstercat Uncaged Selections 04",
+        "url": "https://open.spotify.com/album/19C5jd3JcKNEYMl19z6y1S"
+      },
+      "artists": [
+        {
+          "name": "FLEYT5",
+          "url": "https://open.spotify.com/artist/60M7uI70IASrB6hAs5d5pd"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174086,
+      "name": "AWAKENING",
+      "url": "https://open.spotify.com/track/0H4IxZniI62EaDECyoyDP7"
+    },
+    {
+      "album": {
         "name": "A\u00f1oranza",
         "url": "https://open.spotify.com/album/6uu4bSK5v71AhM63AKunpG"
       },

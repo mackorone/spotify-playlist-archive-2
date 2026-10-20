@@ -1,12 +1,12 @@
 {
   "description": "Neue Musik von Ski Aggu, Giant Rooks, Paula Hartmann, The Chainsmokers, Helene Fischer & vielen mehr!",
-  "num_followers": 936663,
+  "num_followers": 936596,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD6mdKy8RPKp6zkKy5ScLB6HCq2A",
+  "snapshot_id": "AAAAAO6xxlkdzWmet6dRlvE5GXvof2Lp",
   "tracks": [
     {
       "added_at": "2026-10-16 00:00:05",
@@ -147,7 +147,7 @@
     {
       "added_at": "2026-10-16 00:00:05",
       "album": {
-        "name": "Warum",
+        "name": "WARUM",
         "url": "https://open.spotify.com/album/1diUR64PL66yh18l6fT7tw"
       },
       "artists": [
@@ -157,7 +157,7 @@
         }
       ],
       "duration_ms": 183853,
-      "name": "Warum",
+      "name": "WARUM",
       "url": "https://open.spotify.com/track/1UbwOCk4hJpqQyCIkmovZi"
     },
     {
@@ -1466,6 +1466,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,
@@ -1548,7 +1552,7 @@
           "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
         }
       ],
-      "duration_ms": 268552,
+      "duration_ms": 193194,
       "name": "Woop Woop",
       "url": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc"
     },
@@ -1585,7 +1589,7 @@
         },
         {
           "name": "Psylo",
-          "url": "https://open.spotify.com/artist/7abT5qg6Z8yB9QN23ktZSK"
+          "url": "https://open.spotify.com/artist/4JiTkj3zW7jmlOOZms0iTI"
         }
       ],
       "duration_ms": 157846,

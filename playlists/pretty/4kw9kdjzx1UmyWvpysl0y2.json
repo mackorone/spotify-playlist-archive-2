@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122438,
+  "num_followers": 122421,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV2FC90h83yYSYYZPO7M3kILgZCx0p",
+  "snapshot_id": "AAAV2fyC3vIKVdQHnIf/3bdjsfCougen",
   "tracks": [
+    {
+      "added_at": "2026-10-19 14:25:21",
+      "album": {
+        "name": "Monstercat Uncaged Selections 04",
+        "url": "https://open.spotify.com/album/19C5jd3JcKNEYMl19z6y1S"
+      },
+      "artists": [
+        {
+          "name": "FLEYT5",
+          "url": "https://open.spotify.com/artist/60M7uI70IASrB6hAs5d5pd"
+        }
+      ],
+      "duration_ms": 174086,
+      "name": "AWAKENING",
+      "url": "https://open.spotify.com/track/0H4IxZniI62EaDECyoyDP7"
+    },
     {
       "added_at": "2026-10-16 14:26:02",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 355092,
+  "num_followers": 355045,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALM8uZzMHyYwQlC/FG7oMUXWEH3d",
+  "snapshot_id": "AAAAAOTcXl1bbeHm3jj4f9R1+4Ec9l7m",
   "tracks": [
     {
       "added_at": "2026-10-16 14:02:19",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "Eita",
+        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 183867,
+      "name": "Eita",
+      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "L\u00f3tus",
         "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Eita",
-        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+        "name": "Vira a P\u00e1gina",
+        "url": "https://open.spotify.com/album/5BVdeS0Zq35TgOIo1uqQep"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 183867,
-      "name": "Eita",
-      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
+      "duration_ms": 125783,
+      "name": "Vira a P\u00e1gina",
+      "url": "https://open.spotify.com/track/016uveG5FpmyoBzvnJzrzx"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -399,22 +415,6 @@
       "duration_ms": 150422,
       "name": "Ningu\u00e9m Morre de Amor",
       "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Vira a P\u00e1gina",
-        "url": "https://open.spotify.com/album/5BVdeS0Zq35TgOIo1uqQep"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 125783,
-      "name": "Vira a P\u00e1gina",
-      "url": "https://open.spotify.com/track/016uveG5FpmyoBzvnJzrzx"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -643,22 +643,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "MAMBO!",
-        "url": "https://open.spotify.com/album/53tObxaCQ5XZz40SZgRRny"
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
       },
       "artists": [
         {
-          "name": "loopcinema",
-          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
         },
         {
-          "name": "Link do Zap",
-          "url": "https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm"
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 222115,
-      "name": "MAMBO!",
-      "url": "https://open.spotify.com/track/38tkiigAExeU9qIrfss5o4"
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "MAMBO!",
+        "url": "https://open.spotify.com/album/53tObxaCQ5XZz40SZgRRny"
+      },
+      "artists": [
+        {
+          "name": "loopcinema",
+          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+        },
+        {
+          "name": "Link do Zap",
+          "url": "https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "MAMBO!",
+      "url": "https://open.spotify.com/track/38tkiigAExeU9qIrfss5o4"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "=P (Melissa Loss Remix)",
-        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
-      },
-      "artists": [
-        {
-          "name": "loopcinema",
-          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "DANCE!",
-      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
       },
@@ -767,18 +751,42 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R"
       },
       "artists": [
         {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
         }
       ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
+      "duration_ms": 173265,
+      "name": "Derretida - Brunoso Remix",
+      "url": "https://open.spotify.com/track/4wCkxDA6ruE8gh2Hf4Y0fP"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "=P (Melissa Loss Remix)",
+        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
+      },
+      "artists": [
+        {
+          "name": "loopcinema",
+          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "DANCE!",
+      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -807,26 +815,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "AFTER",
-        "url": "https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R"
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
-        },
-        {
-          "name": "Brunoso",
-          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
         }
       ],
-      "duration_ms": 173265,
-      "name": "Derretida - Brunoso Remix",
-      "url": "https://open.spotify.com/track/4wCkxDA6ruE8gh2Hf4Y0fP"
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "acho que sou rom\u00e2ntica",
-        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 152042,
-      "name": "eu me entendo mal",
-      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "Tudo Pelo Show",
         "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 152232,
       "name": "Os Mo\u00e7os da R\u00e1dio",
       "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "acho que sou rom\u00e2ntica",
+        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 152042,
+      "name": "eu me entendo mal",
+      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "No Mar",
         "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 171194,
       "name": "No Mar",
       "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
     },
     {
       "added_at": "2026-10-16 14:02:19",

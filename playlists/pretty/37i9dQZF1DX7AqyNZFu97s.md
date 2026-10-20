@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Burglar
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,472 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,490 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 48 | [Niko Bellic](https://open.spotify.com/track/3VD1G2qUG70lTlh44Df1yq) | [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT) | [Niko Bellic](https://open.spotify.com/album/2dcbmF2rgIBkVRPguptXkE) | 2:14 |
 | 49 | [Move Inside](https://open.spotify.com/track/0prrS9EJ7yWz9ekKYp9MLb) | [Molly and the Dolly Shop](https://open.spotify.com/artist/2nkAAzvVVl8pBfjlJ3sZJs) | [Move Inside](https://open.spotify.com/album/5USUsBuGNJM8PIf8kVwHGo) | 4:26 |
 
-Snapshot ID: `AAAAADrNxsnMZ37lWnO5SxloQ9p9c3kx`
+Snapshot ID: `AAAAAEr5BQPqpIgt5Ze7QRGG43Tw57Zq`

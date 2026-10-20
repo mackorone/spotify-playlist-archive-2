@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: DYGL  \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,185 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,176 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Peppa’s summer](https://open.spotify.com/track/4F6aflDvbZOpUciaWrWAIo) | [Ân ngờ](https://open.spotify.com/artist/3Myoe574gxIKLU5bKqjkFk), [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [0 Ngờ](https://open.spotify.com/album/7zhnx9rH8ShNiNchhqTNI9) | 4:03 |
 | 100 | [Sea Glass](https://open.spotify.com/track/2u883GiP4G01Qaj1uIX0et) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [Sea Glass](https://open.spotify.com/album/6OYARdj7NKR0B3d9edwCXO) | 2:58 |
 
-Snapshot ID: `AAAAANyM3cxenswjObGCBSBD7nIDxMEX`
+Snapshot ID: `AAAAAHB+yuZ72acar+vYv8ga/WzJge5Q`

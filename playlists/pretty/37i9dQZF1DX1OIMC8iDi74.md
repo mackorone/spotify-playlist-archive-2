@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🩷 with ISOxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,797 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,752 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 61 | [HACKING THE GATE](https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME](https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li) | 2:53 |
 | 62 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
 | 63 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 |
-| 64 | [BEAR](https://open.spotify.com/track/5sO1DBiK8jg0emSCBn8qri) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [FT.](https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4) | 2:25 |
-| 65 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
-| 66 | [TTY](https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Cerdin](https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB) | [TTY](https://open.spotify.com/album/5Gokr84dldnrggVaunCksN) | 3:46 |
-| 67 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
+| 64 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
+| 65 | [BEAR](https://open.spotify.com/track/5sO1DBiK8jg0emSCBn8qri) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [FT.](https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4) | 2:25 |
+| 66 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
+| 67 | [TTY](https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Cerdin](https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB) | [TTY](https://open.spotify.com/album/5Gokr84dldnrggVaunCksN) | 3:46 |
 | 68 | [I Need The](https://open.spotify.com/track/6nQs7YFkvBIR3OpnAXDfLL) | [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [I Need The](https://open.spotify.com/album/4eNcrj00dgzuo9Od6CbO2F) | 3:44 |
 | 69 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 70 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
-| 71 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
-| 72 | [ONE TWO](https://open.spotify.com/track/0nUKYrdH6hGeecuyKlVJRB) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4), [IKU](https://open.spotify.com/artist/2cS62vlUoltYzNJxNBgeGE) | [ONE TWO](https://open.spotify.com/album/4La0bAOYp2XzsmDpljN6zD) | 3:06 |
+| 71 | [ONE TWO](https://open.spotify.com/track/0nUKYrdH6hGeecuyKlVJRB) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4), [IKU](https://open.spotify.com/artist/2cS62vlUoltYzNJxNBgeGE) | [ONE TWO](https://open.spotify.com/album/4La0bAOYp2XzsmDpljN6zD) | 3:06 |
+| 72 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
 | 73 | [Disaster](https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Disaster](https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f) | 2:51 |
 | 74 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
 | 75 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 90 | [Earthquake](https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Earthquake](https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha) | 1:59 |
 | 91 | [COME THRU](https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY) | [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [MAXED OUT](https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2) | 3:02 |
 | 92 | [Dozer](https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Dozer](https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn) | 2:52 |
-| 93 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
-| 94 | [POWER](https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [POWER](https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm) | 2:24 |
+| 93 | [POWER](https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [POWER](https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm) | 2:24 |
+| 94 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 95 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
 | 96 | [SPEAK](https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [SPEAK](https://open.spotify.com/album/66qFXca7WRZE6s70Zs3EUv) | 2:49 |
 | 97 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
 | 100 | [FEAR](https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [FEAR](https://open.spotify.com/album/7eSlYvS41yQ0OW767FJSHN) | 2:58 |
 
-Snapshot ID: `AAAAAPcw35XfHPmx52NhzbejamYSJAV2`
+Snapshot ID: `AAAAACc0F0uNtZ/m8WQpE4Pl4i+YmRvY`

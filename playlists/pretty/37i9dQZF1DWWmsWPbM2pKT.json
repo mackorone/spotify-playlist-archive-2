@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 487687,
+  "num_followers": 487794,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTTn9KqcF3VxRgln5IniVRtAzq4",
+  "snapshot_id": "AAAAACEOFuMHcGPWNlHSYOjGX9MSqk8h",
   "tracks": [
     {
       "added_at": "2026-03-13 13:08:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 247076,
       "name": "Too Soon to Tell",
       "url": "https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2026-03-13 13:08:59",

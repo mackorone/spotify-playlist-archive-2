@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,066 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,036 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA LIGA](https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [LA LIGA](https://open.spotify.com/album/3EvZfe1UY1mq2hPahgfAGy) | 2:27 |
-| 2 | [LÄMNAT](https://open.spotify.com/track/0qsfVIY1Lj5cUnOOr8HC1m) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [DJUNGELNS LAGAR](https://open.spotify.com/album/6RloQFcpKpeoFLYkLwW9AE) | 2:47 |
-| 3 | [TIC TAC](https://open.spotify.com/track/18hFcYV1By6c8SnPHuzV73) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [TIC TAC](https://open.spotify.com/album/5EcyBer6It2AfQTjDFInXa) | 2:06 |
-| 4 | [Cariño](https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 2:01 |
+| 1 | [LÄMNAT](https://open.spotify.com/track/0qsfVIY1Lj5cUnOOr8HC1m) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [DJUNGELNS LAGAR](https://open.spotify.com/album/6RloQFcpKpeoFLYkLwW9AE) | 2:47 |
+| 2 | [Cariño](https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 2:01 |
+| 3 | [LA LIGA](https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [LA LIGA](https://open.spotify.com/album/3EvZfe1UY1mq2hPahgfAGy) | 2:27 |
+| 4 | [TIC TAC](https://open.spotify.com/track/18hFcYV1By6c8SnPHuzV73) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [TIC TAC](https://open.spotify.com/album/5EcyBer6It2AfQTjDFInXa) | 2:06 |
 | 5 | [Förändring](https://open.spotify.com/track/4g7MVv4Ga8HV3Zmt3tPzXB) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Förändring](https://open.spotify.com/album/0rRXFAFHKq5mpcePXGUpMM) | 2:19 |
-| 6 | [INGEN ANING](https://open.spotify.com/track/6dx1wLEd07Yjfl5ULLE5Fh) | [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [INGEN ANING](https://open.spotify.com/album/0ykNHyaYx49MIfQ7YYasyU) | 2:45 |
-| 7 | [Idileey](https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 3:04 |
-| 8 | [HITLIST](https://open.spotify.com/track/1GnkKbIj63kvcoGfRs3mVa) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [HITLIST](https://open.spotify.com/album/75EXpm16X6BCYFUDlsRN2y) | 2:50 |
-| 9 | [DND](https://open.spotify.com/track/1qa32N7vAY5ZQs2LR2dANT) | [3Z](https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei) | [DND](https://open.spotify.com/album/0Ml3SZ6bAyT8hKEeVpTvuu) | 2:12 |
-| 10 | [STÖRD](https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [STÖRD](https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr) | 2:16 |
-| 11 | [VÄLKÄND](https://open.spotify.com/track/6pOTK7Oq1PNmzMGhEvmRG4) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [VÄLKÄND](https://open.spotify.com/album/4mCxu1myGXHTzMZMvBLSTc) | 2:01 |
-| 12 | [Två Somrar Bort](https://open.spotify.com/track/1hvtRnTfZgu9i5JMKCnQRM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 1:58 |
+| 6 | [HITLIST](https://open.spotify.com/track/1GnkKbIj63kvcoGfRs3mVa) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [HITLIST](https://open.spotify.com/album/75EXpm16X6BCYFUDlsRN2y) | 2:50 |
+| 7 | [INGEN ANING](https://open.spotify.com/track/6dx1wLEd07Yjfl5ULLE5Fh) | [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [INGEN ANING](https://open.spotify.com/album/0ykNHyaYx49MIfQ7YYasyU) | 2:45 |
+| 8 | [STÖRD](https://open.spotify.com/track/5vYeSHa82PMlSSfl3Q8vho) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [STÖRD](https://open.spotify.com/album/4ajmLdPaFRoi2XArBa1WPr) | 2:16 |
+| 9 | [Idileey](https://open.spotify.com/track/1LubZfwcC7CCQIbx11IQVU) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue \(Deluxe\)](https://open.spotify.com/album/2DKqtn4yr6XxDR2c1o1mHF) | 3:04 |
+| 10 | [DND](https://open.spotify.com/track/1qa32N7vAY5ZQs2LR2dANT) | [3Z](https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei) | [DND](https://open.spotify.com/album/0Ml3SZ6bAyT8hKEeVpTvuu) | 2:12 |
+| 11 | [Två Somrar Bort](https://open.spotify.com/track/1hvtRnTfZgu9i5JMKCnQRM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 1:58 |
+| 12 | [VÄLKÄND](https://open.spotify.com/track/6pOTK7Oq1PNmzMGhEvmRG4) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [VÄLKÄND](https://open.spotify.com/album/4mCxu1myGXHTzMZMvBLSTc) | 2:01 |
 | 13 | [LINDSAY LOHAN](https://open.spotify.com/track/2aVPtLQS5g4JSsuAwoSs4Y) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [LINDSAY LOHAN](https://open.spotify.com/album/2zt3RhBSb2SzwIF3DV5h6a) | 2:27 |
 | 14 | [1 År](https://open.spotify.com/track/0azLujBhO6TVq4LrblaqU8) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [1 År](https://open.spotify.com/album/0C0k64JFYCKK8dD8xGEoYf) | 2:32 |
 | 15 | [OÄNDLIGT](https://open.spotify.com/track/1CZiwuv7e8ZGY15Cy2zUTt) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [OÄNDLIGT](https://open.spotify.com/album/5T9x0oRREwSQmWxs7aeazO) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Gammal & Fri](https://open.spotify.com/track/3Tgzh94thbwCf6sSX5McQM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Gammal & Fri](https://open.spotify.com/album/5gomkCFOjj4tOemembWUkX) | 2:20 |
 | 100 | [WHINE \(feat\. Naod\)](https://open.spotify.com/track/2PLuU9yFCmlCYNelvRQWu0) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [BLANDADE KÄNSLOR](https://open.spotify.com/album/5ihqs1Xc66QhDEQzPOwYCG) | 2:04 |
 
-Snapshot ID: `AAAAAFFVwmS771bU2t/GeoyIe2BOFu8S`
+Snapshot ID: `AAAAABLOVrmakP7QJ+RC/7qjJBvFiUSy`

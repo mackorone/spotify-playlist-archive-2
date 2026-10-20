@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7a8ZndeHGrkS7xIM8060Xw">Babyfxce E</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,700,947 likes - 103 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,700,653 likes - 103 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 102 | [BUSHWICK](https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:18 |
 | 103 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 
-Snapshot ID: `AAAAAM2iUfNzkH8yBGJ2iofX2+Bn87JD`
+Snapshot ID: `AAAAANkS7lioRdU7TzvRf1WBbVDcZO/X`

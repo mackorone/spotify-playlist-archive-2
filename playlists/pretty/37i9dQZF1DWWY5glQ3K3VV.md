@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,121 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,137 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 35 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 |
 | 36 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 |
 | 37 | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0) | 2:40 |
-| 38 | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx) | [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu) | 2:26 |
-| 39 | [DIEGO](https://open.spotify.com/track/7jhmOPnKn9dv0DhZQ4KNq9) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [DIEGO](https://open.spotify.com/album/5yXBt4n1hGzCKcsewe6iJU) | 2:27 |
+| 38 | [DIEGO](https://open.spotify.com/track/7jhmOPnKn9dv0DhZQ4KNq9) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [DIEGO](https://open.spotify.com/album/5yXBt4n1hGzCKcsewe6iJU) | 2:27 |
+| 39 | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx) | [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu) | 2:26 |
 | 40 | [Cookies N' Cream \(feat\. ANNA & Sfera Ebbasta\)](https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:21 |
 | 41 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
 | 42 | [Wop Wop \(feat\. Shiva\)](https://open.spotify.com/track/7LjhTVncMxoH9X6KMWECgq) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 99 | [SAUDADE](https://open.spotify.com/track/0iZiYlVmMy4JqokUYBShIi) | [Kaio](https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1) | [QUE VIDA](https://open.spotify.com/album/2D7Q9GWyjMhMVq4IUiCVPb) | 2:27 |
 | 100 | [PRESSING \(feat\. Macello, Enny P\)](https://open.spotify.com/track/2eEDvgk3sZdd88jyYG82jK) | [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [PRESSING \(feat\. Macello, Enny P\)](https://open.spotify.com/album/5evh0f9KvLmvgTDjEF0Uf5) | 2:42 |
 
-Snapshot ID: `AAAAAFH0QJei+BVewh8hZ37SmUvAiFIg`
+Snapshot ID: `AAAAAOygREQKIymzQJJMg8ORnZ+RESlv`

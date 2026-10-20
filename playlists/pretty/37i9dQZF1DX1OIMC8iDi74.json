@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap \ud83e\ude77 with ISOxo",
-  "num_followers": 871797,
+  "num_followers": 871752,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPcw35XfHPmx52NhzbejamYSJAV2",
+  "snapshot_id": "AAAAACc0F0uNtZ/m8WQpE4Pl4i+YmRvY",
   "tracks": [
     {
       "added_at": "2026-10-16 04:02:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-10-16 04:02:00",
       "album": {
-        "name": "FT.",
-        "url": "https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Rockie Fresh",
-          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "BEAR",
-      "url": "https://open.spotify.com/track/5sO1DBiK8jg0emSCBn8qri"
-    },
-    {
-      "added_at": "2026-10-16 04:02:00",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC"
       },
@@ -1255,22 +1235,22 @@
     {
       "added_at": "2026-10-16 04:02:00",
       "album": {
-        "name": "TTY",
-        "url": "https://open.spotify.com/album/5Gokr84dldnrggVaunCksN"
+        "name": "FT.",
+        "url": "https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4"
       },
       "artists": [
         {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         },
         {
-          "name": "Cerdin",
-          "url": "https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB"
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
         }
       ],
-      "duration_ms": 226985,
-      "name": "TTY",
-      "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"
+      "duration_ms": 145185,
+      "name": "BEAR",
+      "url": "https://open.spotify.com/track/5sO1DBiK8jg0emSCBn8qri"
     },
     {
       "added_at": "2026-10-16 04:02:00",
@@ -1287,6 +1267,26 @@
       "duration_ms": 162206,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
+    },
+    {
+      "added_at": "2026-10-16 04:02:00",
+      "album": {
+        "name": "TTY",
+        "url": "https://open.spotify.com/album/5Gokr84dldnrggVaunCksN"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Cerdin",
+          "url": "https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB"
+        }
+      ],
+      "duration_ms": 226985,
+      "name": "TTY",
+      "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"
     },
     {
       "added_at": "2026-10-16 04:02:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-16 04:02:00",
       "album": {
-        "name": "YA BODY",
-        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "YA BODY",
-      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
-    },
-    {
-      "added_at": "2026-10-16 04:02:00",
-      "album": {
         "name": "ONE TWO",
         "url": "https://open.spotify.com/album/4La0bAOYp2XzsmDpljN6zD"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 186857,
       "name": "ONE TWO",
       "url": "https://open.spotify.com/track/0nUKYrdH6hGeecuyKlVJRB"
+    },
+    {
+      "added_at": "2026-10-16 04:02:00",
+      "album": {
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
     },
     {
       "added_at": "2026-10-16 04:02:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-10-16 04:02:00",
       "album": {
-        "name": "Get Off The Internet",
-        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
-      },
-      "artists": [
-        {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "EGOTRIP",
-      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
-    },
-    {
-      "added_at": "2026-10-16 04:02:00",
-      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 144545,
       "name": "POWER",
       "url": "https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK"
+    },
+    {
+      "added_at": "2026-10-16 04:02:00",
+      "album": {
+        "name": "Get Off The Internet",
+        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "EGOTRIP",
+      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
     },
     {
       "added_at": "2026-10-16 04:02:00",

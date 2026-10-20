@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Desde septiembre se siente que viene diciembre 🧊 🎄 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,065 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,060 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 63 | [Apagame La Vela](https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew) | [Billo's Caracas Boys Vs\. Los Melódicos](https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV) | [Mano A Mano](https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr) | 2:01 |
 | 64 | [Sobredosis](https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:09 |
 | 65 | [Bandolera](https://open.spotify.com/track/2YJNj0MLrbtbb5oOpLj8TB) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [Recupera Tus Clasicos de Navidad](https://open.spotify.com/album/0nbTMDT4X3ZBgzFJfrx9yW) | 3:11 |
-| 66 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 |
-| 67 | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF) | [Checo Acosta](https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q) | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL) | 3:51 |
-| 68 | [Caramelo Santo \(El Caramelito\)](https://open.spotify.com/track/3BVLhbhwdChPg3Wmb4IvGS) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Nuestras 30 Mejores Caciones](https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY) | 2:36 |
+| 66 | [Caramelo Santo \(El Caramelito\)](https://open.spotify.com/track/3BVLhbhwdChPg3Wmb4IvGS) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Nuestras 30 Mejores Caciones](https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY) | 2:36 |
+| 67 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 |
+| 68 | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF) | [Checo Acosta](https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q) | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL) | 3:51 |
 | 69 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 70 | [Rebelión](https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 6:16 |
 | 71 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Salsa Romántica: Lo Mejor de la Sabrosura](https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ) | 4:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 79 | [Adiós Amor](https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Luis Mateus y la Nueva Generación](https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP) | 4:19 |
 | 80 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:18 |
 
-Snapshot ID: `AAAAABj0y603KKQ1j1drsTa8VG1eFD6J`
+Snapshot ID: `AAAAAMRnOgTl3YW0jH+GreRVYblzy4Ej`

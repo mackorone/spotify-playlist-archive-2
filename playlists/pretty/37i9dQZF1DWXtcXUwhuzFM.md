@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Ella Herold & Cledos, Alina Burnet, F..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,943 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,934 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 56 | [THE RAT AND THE FUCKING COCAINE](https://open.spotify.com/track/26nkKSSuMC9SYoOho0QZ4c) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [THE RAT AND THE FUCKING COCAINE](https://open.spotify.com/album/1WWS6wuclotLBkRIhIgf3t) | 4:32 |
 | 57 | [Kivun kaikki kasvot \(feat\. Antti Railio\)](https://open.spotify.com/track/3YvV1kBcfd3upV2ug6kP4M) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Antti Railio](https://open.spotify.com/artist/0XgaMJ0W8fkyyo9NXDu3sT) | [Mitä musta tuli](https://open.spotify.com/album/0blJ50hhLXrWu8yM9mmpBg) | 3:01 |
 | 58 | [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 |
-| 59 | [F\*\*\* No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [F\*\*\* No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
+| 59 | [Fuck No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Fuck No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
 | 60 | [Power](https://open.spotify.com/track/6twMvsb4PyrBUOkgCYu1OX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Power](https://open.spotify.com/album/4T88HTOoSPl71GxYd7gqgi) | 3:55 |
 | 61 | [Hush](https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Hush](https://open.spotify.com/album/63tDkScueEmDfGasampjs3) | 4:34 |
 | 62 | [Hold On Let Go](https://open.spotify.com/track/0uMlj09X6FvpD5XyKQ4WUv) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [CELEBRATION](https://open.spotify.com/album/1zt5FNt3ohlWlRjS4L2DIc) | 2:54 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 100 | [Tale of four broken men](https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Tale of four broken men](https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL) | 3:12 |
 | 101 | [Sacrifice](https://open.spotify.com/track/6hZlvOrSSquPmmPK51Ju29) | [Suzi Sabotage](https://open.spotify.com/artist/4Xg5IOdSKG15oMi05Xf1yn) | [Sacrifice](https://open.spotify.com/album/3qfo1dksZ4shrLfHJyCW3f) | 5:00 |
 
-Snapshot ID: `AAAAAOMoBuvAfLngZisdqwg4OM4Ha5Ft`
+Snapshot ID: `AAAAAEczjUrvo53vXxG93STA//tHHSSg`

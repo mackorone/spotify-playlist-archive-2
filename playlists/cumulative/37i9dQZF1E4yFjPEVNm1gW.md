@@ -2,7 +2,7 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Ken Carson, Cuo Zay and more
+> With Yeat, Cuo Zay, Autumn! and more
 
 351 songs - 13 hr 40 min
 

@@ -1,12 +1,12 @@
 {
   "description": "hyped perch\u00e9 Iosonouncane finalmente canta in italiano dopo un sacco!!! ",
-  "num_followers": 35953,
+  "num_followers": 35954,
   "original_name": "Novit\u00e0 Indie Italiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIl03nKeH4jmgmSEA5+8rsVYxedQ",
+  "snapshot_id": "AAAAAI8RsGJj3o0TYFW0xEArHPAJgcs6",
   "tracks": [
     {
       "added_at": "2026-10-15 22:02:44",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-10-15 22:02:44",
       "album": {
-        "name": "BATTISTA",
-        "url": "https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW"
-      },
-      "artists": [
-        {
-          "name": "BATTISTA",
-          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
-        }
-      ],
-      "duration_ms": 157989,
-      "name": "BATTISTA",
-      "url": "https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
         "name": "ODISSEA",
         "url": "https://open.spotify.com/album/2gZlZ0G2Y0ixkobphItoeq"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 207688,
       "name": "ODISSEA",
       "url": "https://open.spotify.com/track/2870hDGCjgRX37KIOhSSr3"
+    },
+    {
+      "added_at": "2026-10-15 22:02:44",
+      "album": {
+        "name": "BATTISTA",
+        "url": "https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW"
+      },
+      "artists": [
+        {
+          "name": "BATTISTA",
+          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
+        }
+      ],
+      "duration_ms": 157989,
+      "name": "BATTISTA",
+      "url": "https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ"
     },
     {
       "added_at": "2026-10-15 22:02:44",

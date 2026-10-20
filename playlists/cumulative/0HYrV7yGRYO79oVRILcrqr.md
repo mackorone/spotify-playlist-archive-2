@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-824 songs - 2 day 3 hr 18 min
+827 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2026-03-16 | 2026-04-21 |
 | [La Princesa del viento grita](https://open.spotify.com/track/7bqP1GnCf6fCvauuY9JVa9) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 7:39 | 2026-03-14 | 2026-04-21 |
 | [La Reina del Edredón](https://open.spotify.com/track/03bw13qxffSu8DlwkJhoXi) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Nuevo Camino](https://open.spotify.com/album/2xzviDRmrzORM3lWhxuBDT) | 2:30 | 2025-11-03 | 2025-12-17 |
+| [La terapia](https://open.spotify.com/track/7zIPUAXQSaELwFSYlSqfO2) | [Rokdëbil](https://open.spotify.com/artist/6XwejHVkpCvWg3DTD249Lf) | [Lo que hagamos con el alma](https://open.spotify.com/album/7CwzpV39PCpXmPIKFszjKp) | 5:36 | 2026-10-19 |  |
 | [La Viuda Negra](https://open.spotify.com/track/1CO5E6IQSLp9ydxXTejgsF) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq), [AQUILES LAGP](https://open.spotify.com/artist/7pMAl2FZdDwU1Xz09sxaFB) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:40 | 2026-01-19 | 2026-03-18 |
 | [Lady Mazikeen](https://open.spotify.com/track/7bmkoBCsL2IE4cr1PL8ill) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Lady Mazikeen](https://open.spotify.com/album/502ix0vLyJcnVHoBRr1jkc) | 3:40 | 2026-01-03 | 2026-07-12 |
 | [Last Days Of Youth](https://open.spotify.com/track/2JZt0RaSN932GXBJIYCGH7) | [Black & White, Digital](https://open.spotify.com/artist/0daGlS2EEMDyrwtF41SaBV) | [Last Days Of Youth](https://open.spotify.com/album/6Jtl3eEqBeqtwb2YfehSN2) | 5:00 | 2026-09-10 |  |
@@ -706,6 +707,7 @@
 | [The Best of Me Belongs to You](https://open.spotify.com/track/311iEqzTpmxHiuyTBiv0hq) | [Lucas Orione](https://open.spotify.com/artist/3zMzklK5gKCsSKLvgDxZee) | [The Best of Me Belongs to You](https://open.spotify.com/album/2ZnfjQwHVqvdzQALylLElI) | 3:42 | 2026-04-02 | 2026-04-21 |
 | [The Bond](https://open.spotify.com/track/5WYkSDKAz2B8NA182Di5Go) | [Evon Rose](https://open.spotify.com/artist/3DyWzJwbk4fijpMYOrc7R5) | [The Bond](https://open.spotify.com/album/7Kp7wrTCNan7B0ZW6DjZSR) | 3:29 | 2025-10-04 | 2025-12-17 |
 | [The Climb](https://open.spotify.com/track/44zc9DyvJH506kYjDA11xt) | [Trinity Aliens](https://open.spotify.com/artist/474QILfXBzOPrLt52iN4R0) | [The Climb](https://open.spotify.com/album/3UbYbh2Z3jxP42jKh7X0O2) | 2:59 | 2026-10-13 |  |
+| [The Cradle](https://open.spotify.com/track/6eiOtSNioBwip16hIkgKqc) | [Novena For Gina](https://open.spotify.com/artist/4Ga5dJx1IHEbk1ozRJQILO) | [The Cradle](https://open.spotify.com/album/2QFhdCnFPSpWbCU9SIw1v3) | 3:07 | 2026-10-19 |  |
 | [The Current](https://open.spotify.com/track/1I48cT7zjIcAbz2FJmnbyf) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [The Current](https://open.spotify.com/album/2cO1HjYSTNbwbc65fLAnza) | 4:13 | 2026-09-18 |  |
 | [The Day Before](https://open.spotify.com/track/7yLWTEsJPfXNHst3iDxH0O) | [David van der Ploeg](https://open.spotify.com/artist/6EeouqO5ERRV1HVYfPDOyY) | [The Day Before](https://open.spotify.com/album/5J7VKSO9BJ26nCAOJL2xkP) | 4:04 | 2026-09-07 | 2026-09-20 |
 | [The Death of Venus](https://open.spotify.com/track/6ahpQjmfYTfTE3YVJnivsN) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Going Blind](https://open.spotify.com/album/6BGcpr68cgLxod7vrRmkeR) | 6:39 | 2026-06-27 |  |
@@ -793,6 +795,7 @@
 | [When I Try](https://open.spotify.com/track/5dLLViRjSxKkkjJsfRBJ3i) | [Phil Headway](https://open.spotify.com/artist/6tpCZkSzWlh8GvohFl8zhe) | [The Answers](https://open.spotify.com/album/4mWlq6c2crzdg8Il3iV570) | 2:59 | 2026-05-21 | 2026-06-18 |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 | 2026-03-18 |
 | [Where Is She Now?](https://open.spotify.com/track/6jBBodGWMRO6tVI5I9obrq) | [Jaded Memory](https://open.spotify.com/artist/0alnEO2EJlIGozaDXc2VxQ) | [Where Is She Now?](https://open.spotify.com/album/5UJjRl7i07a3XG1sAgcy72) | 3:51 | 2026-08-27 |  |
+| [Where the Wind Blows](https://open.spotify.com/track/044bAUHW1CjxG1fRnW4zP7) | [The Safety Word](https://open.spotify.com/artist/0ACJc7XJoVM9j1HeuAtLRX) | [Where the Wind Blows](https://open.spotify.com/album/2HtgsNzBXTnrXMlPQXOBq5) | 5:06 | 2026-10-19 |  |
 | [Whipping Post](https://open.spotify.com/track/5gdEUCXrVE2CSTFArhHTPk) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Whipping Post](https://open.spotify.com/album/4n5knYjuLjNul6QGGs90oi) | 4:20 | 2026-09-04 |  |
 | [Whiskey Remedy](https://open.spotify.com/track/3BMOQfSYaoW1kgIMBFsUCF) | [Rough Gentlemen](https://open.spotify.com/artist/331U9UePKu1XpfKgNBkIa1) | [Whiskey Remedy](https://open.spotify.com/album/5ShE4NiWzqc5ss7NpT8xMe) | 4:31 | 2026-03-25 | 2026-04-21 |
 | [Whisky na Mesa](https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM) | [Nathan Duarte](https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim) | [Whisky na Mesa](https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b) | 2:12 | 2026-04-18 | 2026-06-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ski Aggu, Giant Rooks, Paula Hartmann, The Chainsmokers, Helene Fischer & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,663 likes - 92 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,596 likes - 92 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 6 | [Kinder mit Kippen](https://open.spotify.com/track/5ZLf0LqfuH2CUe5smjNrB8) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Kinder mit Kippen](https://open.spotify.com/album/1PmbZEOfB0DvAqUJWnLqsQ) | 3:33 |
 | 7 | [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 |
 | 8 | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/track/1C8bu0Kb6hhmPDh4cOkEoE) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/album/1wnAVskIhErBic6NEUW9TV) | 3:26 |
-| 9 | [Warum](https://open.spotify.com/track/1UbwOCk4hJpqQyCIkmovZi) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Warum](https://open.spotify.com/album/1diUR64PL66yh18l6fT7tw) | 3:03 |
+| 9 | [WARUM](https://open.spotify.com/track/1UbwOCk4hJpqQyCIkmovZi) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [WARUM](https://open.spotify.com/album/1diUR64PL66yh18l6fT7tw) | 3:03 |
 | 10 | [Perfect Ending](https://open.spotify.com/track/3XBBKxMeEQ5S80R0ra7Zi8) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [ENCORE](https://open.spotify.com/album/6NmkBreaWSHJlYAuWWDZsy) | 2:39 |
 | 11 | [OD OD](https://open.spotify.com/track/73CCfOobQA2QRbdLfBzLqY) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [NUR DAMIT DU WEISST 3](https://open.spotify.com/album/3AXsJriSInji6DhiulHDzg) | 3:05 |
 | 12 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
@@ -89,16 +89,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 79 | [Die Liebe ist tot](https://open.spotify.com/track/2hcjRjrJ5EUQIitxDmaVtU) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Die Liebe ist tot](https://open.spotify.com/album/6ewGm6njxW0AFYHuDeZfCG) | 2:38 |
 | 80 | [High All The Time \(feat\. G\-Eazy\)](https://open.spotify.com/track/6gIbrx4UEt8Nhon6wZWkOV) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Kiss Me Extra Hard](https://open.spotify.com/album/7dRnnMM7ji2mfCgycJ2ArD) | 2:57 |
 | 81 | [black entertaiNMENT \(feat\. Serious Klein\)](https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O), [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Piks.](https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa) | 3:15 |
-| 82 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 82 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 83 | [Ich vermisse mich](https://open.spotify.com/track/6bHkrScCGqNcgIVDDKhaDW) | [Irem](https://open.spotify.com/artist/551JO6bz4U6to0LMjMKct3) | [Ich vermisse mich](https://open.spotify.com/album/41QomOtaG0CjXIP8exqhBz) | 2:18 |
 | 84 | [The Greatest Show On Earth](https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Greatest Show On Earth](https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb) | 5:34 |
 | 85 | [Cash4Gold](https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Cash4Gold / Close2Mine](https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX) | 3:12 |
 | 86 | [Gestern Nacht](https://open.spotify.com/track/4ZfWm2O30zrvcuMBUCPTjF) | [Toujour](https://open.spotify.com/artist/38LdoxnKXV3OQl0hgpuZVv) | [Gestern Nacht](https://open.spotify.com/album/2XJ9GwPvZPcf71sa0GX9vD) | 2:21 |
-| 87 | [Woop Woop](https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Woop Woop EP](https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg) | 4:28 |
+| 87 | [Woop Woop](https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Woop Woop EP](https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg) | 3:13 |
 | 88 | [Say So](https://open.spotify.com/track/0hk1g77u4RAsoNupIhGfzf) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Say So](https://open.spotify.com/album/1vHuPzkFqc7FQ91pVe9RVv) | 3:27 |
-| 89 | [Que Pasa](https://open.spotify.com/track/1m8ATXKa0xB0zCVegiyYjM) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Psylo](https://open.spotify.com/artist/7abT5qg6Z8yB9QN23ktZSK) | [Que Pasa](https://open.spotify.com/album/35gx9Dx8j2xZxk5YTPQCpF) | 2:37 |
+| 89 | [Que Pasa](https://open.spotify.com/track/1m8ATXKa0xB0zCVegiyYjM) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Psylo](https://open.spotify.com/artist/4JiTkj3zW7jmlOOZms0iTI) | [Que Pasa](https://open.spotify.com/album/35gx9Dx8j2xZxk5YTPQCpF) | 2:37 |
 | 90 | [Destino](https://open.spotify.com/track/23Y4omG3AmgATphnmR4R0E) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Destino](https://open.spotify.com/album/0w4uZclR8v1xDlnyj5sJuy) | 2:25 |
 | 91 | [Pretty Girl](https://open.spotify.com/track/4TXeZhDInJT7osQTazk7Tt) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Pretty Girl](https://open.spotify.com/album/08k611hM5Bgd1GVb6SVgey) | 2:43 |
 | 92 | [Material zum Weglassen](https://open.spotify.com/track/0plqg01uau0iZ898maCn9E) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk), [Herrenmagazin](https://open.spotify.com/artist/0jjCQcyzvVgiT6FyrYvDUl) | [Raveland](https://open.spotify.com/album/37sYAL3aXgIMUa2iLnEdfa) | 3:27 |
 
-Snapshot ID: `AAAAAD6mdKy8RPKp6zkKy5ScLB6HCq2A`
+Snapshot ID: `AAAAAO6xxlkdzWmet6dRlvE5GXvof2Lp`

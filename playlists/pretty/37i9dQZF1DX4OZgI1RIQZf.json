@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140968,
+  "num_followers": 140999,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnayMjMmuzCGx+78zzfoL+E69br",
+  "snapshot_id": "AAAAAO8xh2PIo7+f4gDFutPZmh8oqCG+",
   "tracks": [
     {
       "added_at": "2026-08-28 07:24:22",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Holiday in Lily Dale",
-        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
-      },
-      "artists": [
-        {
-          "name": "Get Well Soon",
-          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
-        }
-      ],
-      "duration_ms": 293901,
-      "name": "Holiday in Lily Dale",
-      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Zombie Prom (Hallowe'en At Home Edition)",
         "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 218693,
       "name": "Zombie Prom",
       "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Struggle With the Beast",
-        "url": "https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 524693,
-      "name": "Struggle With the Beast",
-      "url": "https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/54FyAqa3iLISVu717hD05y"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 165000,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/7kdX6LUc9JZDoa1yfoDsTA"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Struggle With the Beast",
+        "url": "https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "duration_ms": 524693,
+      "name": "Struggle With the Beast",
+      "url": "https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
+        "name": "Shake, Shook, Shaken",
+        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
+      },
+      "artists": [
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "duration_ms": 173300,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
         "name": "Attack Of The Ghost Riders",
         "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 170990,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/55hOQ0HMdVityRpvJt1RQ8"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Shake, Shook, Shaken",
-        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
-      },
-      "artists": [
-        {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
-        }
-      ],
-      "duration_ms": 173300,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "To Lose My Life ...",
-        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "To Lose My Life",
-      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Carry On The Grudge",
         "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 246186,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "To Lose My Life ...",
+        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "To Lose My Life",
+      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
     },
     {
       "added_at": "2026-08-28 07:24:22",

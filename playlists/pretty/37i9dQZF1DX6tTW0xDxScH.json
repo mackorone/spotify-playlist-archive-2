@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 741504,
+  "num_followers": 741523,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/mHcqqgB8KrftfSpzLuhm/c6uB",
+  "snapshot_id": "AAAAAJrhEMwP7V7uxOKjVydM9PC+iO8q",
   "tracks": [
     {
       "added_at": "2026-10-09 00:00:17",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-10-09 00:00:17",
       "album": {
-        "name": "lucre",
-        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
-      },
-      "artists": [
-        {
-          "name": "Dean Blunt",
-          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
-        },
-        {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        }
-      ],
-      "duration_ms": 120500,
-      "name": "5",
-      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
-    },
-    {
-      "added_at": "2026-10-09 00:00:17",
-      "album": {
         "name": "Sheep",
         "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 251255,
       "name": "Sexy Weekend",
       "url": "https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA"
+    },
+    {
+      "added_at": "2026-10-09 00:00:17",
+      "album": {
+        "name": "lucre",
+        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "5",
+      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
     },
     {
       "added_at": "2026-10-09 00:00:17",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-09 00:00:17",
       "album": {
-        "name": "Coolshit Bullshit",
-        "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
-      },
-      "artists": [
-        {
-          "name": "Danika",
-          "url": "https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO"
-        }
-      ],
-      "duration_ms": 240759,
-      "name": "Coolshit Bullshit",
-      "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
-    },
-    {
-      "added_at": "2026-10-09 00:00:17",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 175720,
       "name": "Should be Fine",
       "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
+    },
+    {
+      "added_at": "2026-10-09 00:00:17",
+      "album": {
+        "name": "Coolshit Bullshit",
+        "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
+      },
+      "artists": [
+        {
+          "name": "Danika",
+          "url": "https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO"
+        }
+      ],
+      "duration_ms": 240759,
+      "name": "Coolshit Bullshit",
+      "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
     },
     {
       "added_at": "2026-10-09 00:00:17",

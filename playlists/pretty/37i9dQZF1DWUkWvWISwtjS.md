@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,832 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,727 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 71 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 |
 | 72 | [Sofro Onde Eu Quiser](https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Esquenta do DVD](https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV) | 2:35 |
 | 73 | [Oi Nego \(Não Vai Dar Parte 3\)](https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C), [Maraisa](https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr) | [Oi Nego \(Não Vai Dar Parte 3\)](https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF) | 2:50 |
-| 74 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 |
-| 75 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 |
+| 74 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 |
+| 75 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 |
 | 76 | [Aperte O Play \- Ao Vivo](https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Aperte O Play! \(Ao Vivo\)](https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI) | 3:21 |
 | 77 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:53 |
 | 78 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 83 | [Sofrendo Ao Quadrado \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Das Repúblicas Para O Brasil \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB) | 2:32 |
 | 84 | [Siga a Seta \(feat\. Matheus & Kauan\) \- Ao Vivo](https://open.spotify.com/track/5AQNVgt7BKHKRhrNFFgSPF) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Siga a Seta \(feat\. Matheus & Kauan\) \[Ao Vivo\]](https://open.spotify.com/album/7j3YXsHgy2GW48kSjzTlR7) | 2:51 |
 | 85 | [Terapinga \- Ao Vivo](https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Sou do Interior \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V) | 2:56 |
-| 86 | [Ponto Final \- Ao Vivo](https://open.spotify.com/track/78UZagNegqHZAKv3491xB2) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:27 |
-| 87 | [Do Copo Eu Vim \(feat\. Marília Mendonça\) \- Ao Vivo em Brasília](https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 2:24 |
+| 86 | [Do Copo Eu Vim \(feat\. Marília Mendonça\) \- Ao Vivo em Brasília](https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 2:24 |
+| 87 | [Ponto Final \- Ao Vivo](https://open.spotify.com/track/78UZagNegqHZAKv3491xB2) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:27 |
 | 88 | [Compartilhando Mágoa](https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Compartilhando Mágoa](https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji) | 2:50 |
 | 89 | [Te Assumo \- Ao Vivo](https://open.spotify.com/track/7zIghh6yq3ldfdwU0meLbu) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Te Assumo \(Ao Vivo\)](https://open.spotify.com/album/6yhEh4AnSgSw1PauUw41Rr) | 3:15 |
 | 90 | [Coração Infectado](https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Guias Dvd 2018](https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 99 | [1, 2, 3 \- Ao Vivo](https://open.spotify.com/track/4WB4HxDZRju9N2epx1J3X7) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [1, 2, 3 \(ao Vivo\)](https://open.spotify.com/album/4Zi2t7nrPOEM04rgoIRmvq) | 2:58 |
 | 100 | [Bebo Litro \- Ao Vivo](https://open.spotify.com/track/0GSHXM7PZ75f6ZwpekBq83) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 2:28 |
 
-Snapshot ID: `AAAAACV+ZRk8o68HXrRxK2MQQHHERkGM`
+Snapshot ID: `AAAAAKSeaoMyjW7X2W2sKnrfplmHMvMq`

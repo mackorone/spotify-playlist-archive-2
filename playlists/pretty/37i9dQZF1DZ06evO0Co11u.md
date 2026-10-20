@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,024 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,027 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 41 | [Only You](https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 3:10 |
 | 42 | [Sincerely](https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sonny Burke & His Orchestra](https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 2:57 |
 | 43 | [On The Sunny Side Of The Street](https://open.spotify.com/track/138Kyvy2Zuafe3gt7fyaD4) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p) | 5:50 |
-| 44 | [Give Me Your Kisses](https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 1:59 |
-| 45 | [I've Got The World On A String](https://open.spotify.com/track/4MSfbddZH4qfzwbubH4GED) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [I've Got The World On A String](https://open.spotify.com/album/0RBcFzJZaV8N40scKLyIpU) | 2:52 |
-| 46 | [When It's Sleepy Time Down South \- Alternative Lyric Version](https://open.spotify.com/track/13u468o9iYKzEqMwf52uUQ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Gordon Jenkins And Orchestra](https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK) | [Work From Home with Louis Armstrong](https://open.spotify.com/album/3U8WS8pUUXfuoqFpnTmATq) | 3:14 |
+| 44 | [I've Got The World On A String](https://open.spotify.com/track/4MSfbddZH4qfzwbubH4GED) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [I've Got The World On A String](https://open.spotify.com/album/0RBcFzJZaV8N40scKLyIpU) | 2:52 |
+| 45 | [When It's Sleepy Time Down South \- Alternative Lyric Version](https://open.spotify.com/track/13u468o9iYKzEqMwf52uUQ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Gordon Jenkins And Orchestra](https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK) | [Work From Home with Louis Armstrong](https://open.spotify.com/album/3U8WS8pUUXfuoqFpnTmATq) | 3:14 |
+| 46 | [Give Me Your Kisses](https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 1:59 |
 | 47 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
 | 48 | [I Still Get Jealous](https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:13 |
 | 49 | [The Skeleton In The Closet \- Single Version](https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Volume 2: Heart Full Of Rhythm \(1936\-38\)](https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG) | 3:11 |
 | 50 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/3I9urFJh4tp2KKXpCa2cXm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essential Ella](https://open.spotify.com/album/0hgZSZX8Ri8Sd9JFaPDjSd) | 3:32 |
 
-Snapshot ID: `atK6gAAAAAAn5zV9rIeQe/5m6nRjE4qD`
+Snapshot ID: `atQMAAAAAACHCtbYFfY1o3b+fVFSkV0n`

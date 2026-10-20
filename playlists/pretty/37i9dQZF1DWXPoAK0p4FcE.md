@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,899 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,897 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [เดิมเดิม \(Once\)](https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เดิมเดิม \(Once\)](https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ) | 3:59 |
 | 2 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 |
-| 3 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
-| 4 | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/track/2aOgahAZL1biEeqsSgIjJ2) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/album/0PdWNkrPQfsnCnidVY7YGf) | 4:28 |
-| 5 | [รักอยู่ \(linger\)](https://open.spotify.com/track/5joUZVyzfFEnfDAOQCOt0X) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Yesterday's Town](https://open.spotify.com/album/2M1M2ILdah6R0VsHA65ePI) | 4:07 |
-| 6 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 7 | [เบลออย่างชัดเจน](https://open.spotify.com/track/1x6FUEXXdbGF8vnVlhFo85) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [DRIVE\-IN THEATER, Pt\. 2](https://open.spotify.com/album/2CXH90ZkZYFPp1zlX6FTDk) | 4:50 |
+| 3 | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/track/2aOgahAZL1biEeqsSgIjJ2) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/album/0PdWNkrPQfsnCnidVY7YGf) | 4:28 |
+| 4 | [รักอยู่ \(linger\)](https://open.spotify.com/track/5joUZVyzfFEnfDAOQCOt0X) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Yesterday's Town](https://open.spotify.com/album/2M1M2ILdah6R0VsHA65ePI) | 4:07 |
+| 5 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 6 | [เบลออย่างชัดเจน](https://open.spotify.com/track/1x6FUEXXdbGF8vnVlhFo85) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [DRIVE\-IN THEATER, Pt\. 2](https://open.spotify.com/album/2CXH90ZkZYFPp1zlX6FTDk) | 4:50 |
+| 7 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
 | 8 | [ผู้ไม่หวังดี](https://open.spotify.com/track/1LANjQgBx2gec5iC1Y0YrV) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ผู้ไม่หวังดี](https://open.spotify.com/album/6TAJHGXAwz7m3eK0991Af7) | 3:43 |
 | 9 | [ยังไม่พร้อมรักใคร](https://open.spotify.com/track/7MijojlXflYBJW3gmNSC69) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ยังไม่พร้อมรักใคร](https://open.spotify.com/album/749fRSjQx1SPmAAMlqO8vg) | 4:43 |
 | 10 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 |
 | 50 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 |
 
-Snapshot ID: `AAAAAJQdJLYhXxtZUXWRkXzgxasXB7p0`
+Snapshot ID: `AAAAAIcF2xsj73BJzkPuaqqBDOkP5W35`

@@ -1,12 +1,12 @@
 {
   "description": "Los mejores lentos del rock. Foto: reybruja",
-  "num_followers": 172688,
+  "num_followers": 172699,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADgcf6EfOl7coLTx6lTGDhfY5Kaa",
+  "snapshot_id": "AAAAAO+la2tepxxN7uGWnYKZ5QLc+JQO",
   "tracks": [
     {
       "added_at": "2026-10-09 18:41:32",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
-    },
-    {
-      "added_at": "2026-10-09 18:41:32",
-      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+    },
+    {
+      "added_at": "2026-10-09 18:41:32",
+      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 286240,
       "name": "Como un Cuento",
       "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
-    },
-    {
-      "added_at": "2026-10-09 18:41:32",
-      "album": {
-        "name": "Rock Nacional",
-        "url": "https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 279441,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Artificio",
-        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+        "name": "Rock Nacional",
+        "url": "https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 207490,
-      "name": "Fuego contra fuego",
-      "url": "https://open.spotify.com/track/4LKB2awZYcnCgvZwF1MICH"
+      "duration_ms": 279441,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 207490,
+      "name": "Fuego contra fuego",
+      "url": "https://open.spotify.com/track/4LKB2awZYcnCgvZwF1MICH"
+    },
+    {
+      "added_at": "2026-10-09 18:41:32",
+      "album": {
         "name": "Los Dos",
         "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 211440,
       "name": "Los Dos",
       "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
-    },
-    {
-      "added_at": "2026-10-09 18:41:32",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -1127,6 +1111,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2026-10-09 18:41:32",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Lo Que Perd\u00ed",
-        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+        "name": "Coraz\u00f3n Delator",
+        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
       },
       "artists": [
         {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 223096,
-      "name": "Lo Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+      "duration_ms": 261153,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Coraz\u00f3n Delator",
-        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
+        "name": "Lo Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
         }
       ],
-      "duration_ms": 261153,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
+      "duration_ms": 223096,
+      "name": "Lo Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "SOLO POR HOY",
-        "url": "https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 137661,
-      "name": "BUZIOS",
-      "url": "https://open.spotify.com/track/1SPPvEaqCuLFOkM9oVfJpS"
-    },
-    {
-      "added_at": "2026-10-09 18:41:32",
-      "album": {
         "name": "Melod\u00eda del Adi\u00f3s",
         "url": "https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 218557,
       "name": "Melod\u00eda del Adi\u00f3s",
       "url": "https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd"
+    },
+    {
+      "added_at": "2026-10-09 18:41:32",
+      "album": {
+        "name": "SOLO POR HOY",
+        "url": "https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 137661,
+      "name": "BUZIOS",
+      "url": "https://open.spotify.com/track/1SPPvEaqCuLFOkM9oVfJpS"
     },
     {
       "added_at": "2026-10-09 18:41:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Al·lèrgiques al pol·len.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,316 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,318 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [MIS AMIGAS TE ODIAN](https://open.spotify.com/track/0kcKR84wqVB1zvOvTHNI7b) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [MIS AMIGAS TE ODIAN](https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx) | 2:55 |
 | 100 | [AGUA DE LOS COCOS](https://open.spotify.com/track/6A6hsVU78cJq6SL3PQ0Od2) | [Puño Dragón](https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK) | [AGUA DE LOS COCOS](https://open.spotify.com/album/19SdnBojHwQbpOdtN3heQi) | 2:51 |
 
-Snapshot ID: `AAAAAGUL1DSw7Is4c0VAzjz/f94Fe/+y`
+Snapshot ID: `AAAAAL11xrIJbHRcpdI5L1aedL83kx4I`

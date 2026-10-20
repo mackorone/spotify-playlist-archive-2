@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 92176,
+  "num_followers": 92208,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAACrt4yPr9KyZvhvVlH/fgu9",
+  "snapshot_id": "atQMAAAAAACw43sauw98ltF7WRitm6wj",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 190566,
-      "name": "Broken Mirror",
-      "url": "https://open.spotify.com/track/44TUJhvq8ZSoIO1AzpD6X7"
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 253973,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
+      "duration_ms": 228017,
+      "name": "A Match Made in Heaven",
+      "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
     },
     {
       "added_at": null,
@@ -312,9 +312,25 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
+      "duration_ms": 190566,
+      "name": "Broken Mirror",
+      "url": "https://open.spotify.com/track/44TUJhvq8ZSoIO1AzpD6X7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
     },
     {
       "added_at": null,
@@ -328,25 +344,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 228017,
-      "name": "A Match Made in Heaven",
-      "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Forever // Lost Together",
-        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 245299,
-      "name": "Gravedigger",
-      "url": "https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu"
+      "duration_ms": 171162,
+      "name": "Nihilist",
+      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 171162,
-      "name": "Nihilist",
-      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
+      "duration_ms": 245299,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Forever // Lost Together",
-        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 205663,
-      "name": "Naysayer",
-      "url": "https://open.spotify.com/track/7l1aujAcBQWpG1nHKOxPGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 198097,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 205663,
+      "name": "Naysayer",
+      "url": "https://open.spotify.com/track/7l1aujAcBQWpG1nHKOxPGe"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daybreaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "These Colours Don't Run",
-      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 232614,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "These Colours Don't Run",
+      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollow Crown",
-        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 264706,
-      "name": "Hollow Crown",
-      "url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 244614,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollow Crown",
+        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 264706,
+      "name": "Hollow Crown",
+      "url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollow Crown",
-        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Early Grave",
-      "url": "https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Here and Now",
         "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 241493,
       "name": "Learn to Live",
       "url": "https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollow Crown",
+        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Early Grave",
+      "url": "https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2"
     },
     {
       "added_at": null,

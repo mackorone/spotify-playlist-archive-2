@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAAAippWYHPAMAnD9lMZ2tfxX",
+  "snapshot_id": "atQMAAAAAAAPHPea5DJnyzC8F2pm56r/",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between My Teeth",
-        "url": "https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG"
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 196093,
-      "name": "Between My Teeth",
-      "url": "https://open.spotify.com/track/07FNKVJKWX08paQiethhD0"
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "Between My Teeth",
+        "url": "https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 196093,
+      "name": "Between My Teeth",
+      "url": "https://open.spotify.com/track/07FNKVJKWX08paQiethhD0"
     },
     {
       "added_at": null,

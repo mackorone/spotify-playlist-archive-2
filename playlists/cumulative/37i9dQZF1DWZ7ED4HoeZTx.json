@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "AIYOU",
+        "url": "https://open.spotify.com/album/2XhSVmF3l0I59LYAn9J6Ph"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159895,
+      "name": "AIYOU",
+      "url": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U"
+    },
+    {
+      "album": {
         "name": "Saiaku Saiai",
         "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 250512,
       "name": "Beat Tub (Prod. STUTS)",
       "url": "https://open.spotify.com/track/3ljgp3F2ag2EdtUkm459tu"
@@ -244,6 +262,24 @@
       "duration_ms": 272405,
       "name": "because",
       "url": "https://open.spotify.com/track/3GI5dJDbotiqkMYpdbYekS"
+    },
+    {
+      "album": {
+        "name": "blue in",
+        "url": "https://open.spotify.com/album/2WF2hhxDP1gdPQtMJnNk3X"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "blue in",
+      "url": "https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T"
     },
     {
       "album": {
@@ -1940,7 +1976,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 191726,
       "name": "\u3084\u3055\u3057\u3055\u306b\u5305\u307e\u308c\u305f\u306a\u3089",
       "url": "https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU"
@@ -2156,7 +2192,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 230900,
       "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
       "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
@@ -2228,7 +2264,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 141813,
       "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089",
       "url": "https://open.spotify.com/track/3IWNiORy6MsChBDce2Fhjn"
@@ -2657,6 +2693,28 @@
     },
     {
       "album": {
+        "name": "\u6d99\u306e\u6cb3",
+        "url": "https://open.spotify.com/album/3hhjZ6pIGXNGtxS8PNem13"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        },
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "\u6d99\u306e\u6cb3",
+      "url": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG"
+    },
+    {
+      "album": {
         "name": "\u706f\u3092\u8b77\u308b",
         "url": "https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3"
       },
@@ -2748,6 +2806,24 @@
       "duration_ms": 232356,
       "name": "\u82b1\u74f6",
       "url": "https://open.spotify.com/track/3sxcncyvcTJspkePuvs0k1"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u852d",
+        "url": "https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "\u82b1\u852d",
+      "url": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF"
     },
     {
       "album": {

@@ -857,6 +857,32 @@
     },
     {
       "album": {
+        "name": "Aiyo Relation (From \"Ex Reunion Day\")",
+        "url": "https://open.spotify.com/album/4F8ncquO05VxmEfeq1mP8v"
+      },
+      "artists": [
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "A Pa Raja",
+          "url": "https://open.spotify.com/artist/1d6dfr1FBe32Yo6RT7Tcae"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141866,
+      "name": "Aiyo Relation (From \"Ex Reunion Day\")",
+      "url": "https://open.spotify.com/track/0OSnqvtABkzIoRdS41qSii"
+    },
+    {
+      "album": {
         "name": "AKKA MAGA",
         "url": "https://open.spotify.com/album/71ZYdFJ4gMV2kDEsqgPf4u"
       },
@@ -6158,7 +6184,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 138250,
       "name": "Kadhol - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1b9GOREBGLcBRWaeZadGq2"
@@ -6964,7 +6990,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 222650,
       "name": "Kathaliye",
       "url": "https://open.spotify.com/track/6las97mYtKlsos592PZnPZ"
@@ -7864,7 +7890,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 250656,
       "name": "Maalai Pozhudhil",
       "url": "https://open.spotify.com/track/4EQsSuqZF3gXEEo5w9j8Md"

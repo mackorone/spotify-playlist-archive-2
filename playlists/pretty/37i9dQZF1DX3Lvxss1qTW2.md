@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Solana
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,597 likes - 94 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,634 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 93 | [MIKE TYSON](https://open.spotify.com/track/0cDSkCjlBgmPsQggS1JC0B) | [Bunie The First](https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg) | [THE FIRST EP](https://open.spotify.com/album/0Gdpxm5WSAqrizXZZqfOXa) | 2:28 |
 | 94 | [Daddy, I'm Going Out](https://open.spotify.com/track/3PkU0NhQmbeh1lIsDi8tyr) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Daddy, I'm Going Out](https://open.spotify.com/album/26l5EcfY8MUwU0W86Eo3Qy) | 2:32 |
 
-Snapshot ID: `AAAAANE1OaBRRP9pqN17q9QyHldF2AlA`
+Snapshot ID: `AAAAAFJaVBJtK5GihJUZ4firj0HWfzX2`

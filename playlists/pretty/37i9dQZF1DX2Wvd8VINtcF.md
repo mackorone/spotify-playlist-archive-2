@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Mechatok & Robyn✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,699 likes - 200 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,697 likes - 200 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 13 | [set for life](https://open.spotify.com/track/5Zf6eLLvwu3PD8Yaif18Zl) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Greatest swamp hits](https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb) | 1:25 |
 | 14 | [Hush](https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Hush](https://open.spotify.com/album/63tDkScueEmDfGasampjs3) | 4:34 |
 | 15 | [Will You Allow It?](https://open.spotify.com/track/5Lis2P67FYe0zwlSpXSImw) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Will You Allow It?](https://open.spotify.com/album/25GK6pL8jzhzzwVWzuo4e2) | 2:58 |
-| 16 | [F\*\*\* No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [F\*\*\* No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
+| 16 | [Fuck No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Fuck No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
 | 17 | [Hand To God](https://open.spotify.com/track/6Cg65fpLVMWDjKXgM76ni7) | [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Hand To God](https://open.spotify.com/album/6x4XRwhskaM3pyPBGCO9aJ) | 4:36 |
 | 18 | [Must Be Nice](https://open.spotify.com/track/2CBJj1jVItTdfCF3Repsxr) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Totally](https://open.spotify.com/album/5zrHyT2dw1ahFzjwYD97JC) | 3:08 |
 | 19 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 199 | [Night Blooming](https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Night Blooming](https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7) | 6:42 |
 | 200 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 |
 
-Snapshot ID: `AAAAAOwJDwjJDxeOYOmZPijprKbf7RCO`
+Snapshot ID: `AAAAAI4DHjFLI3PuexZV6NscUcuZi/He`

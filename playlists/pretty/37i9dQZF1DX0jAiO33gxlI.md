@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Sant
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,232 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,211 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [SANKARAS](https://open.spotify.com/track/7js0fBSVoBMagLTHqrESoa) | [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [ProdGalician](https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv) | [SANKARAS](https://open.spotify.com/album/7vkTPmRazSPgt6LWnCKM9m) | 2:28 |
 | 75 | [na minha vez o Pelé é branco](https://open.spotify.com/track/0ssSN4FkXBk5Q0G707BV2g) | [D$ Luqi](https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt), [prensativo](https://open.spotify.com/artist/70CkljMWwnrxE3lvHH9xa6) | [UOTOTOGOKA](https://open.spotify.com/album/40C3T5Bi4ejevhCibtbaVr) | 2:34 |
 
-Snapshot ID: `AAAAAH6VmdGP7nFXcpOwCdRM1GKdjoF1`
+Snapshot ID: `AAAAAD7RyTZk2neRxQ4MdXRaO5G90Iye`

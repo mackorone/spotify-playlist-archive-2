@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
-  "num_followers": 1222445,
+  "num_followers": 1222520,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJ/+Q+S/QdkZfAtN3md6EZKe6TV",
+  "snapshot_id": "AAAAANp/paTDQIXC7hw0L8FCIaTkLJto",
   "tracks": [
     {
       "added_at": "2026-10-16 03:01:02",
@@ -99,18 +99,22 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
-        "url": "https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w"
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3SltbYOonsngqJJyc66Qb5"
       },
       "artists": [
         {
-          "name": "Vitor Santana",
-          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 289313,
-      "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
+      "duration_ms": 384427,
+      "name": "Deus de Obras Completas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -131,22 +135,18 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3SltbYOonsngqJJyc66Qb5"
+        "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
+        "url": "https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Vitor Santana",
+          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
         }
       ],
-      "duration_ms": 384427,
-      "name": "Deus de Obras Completas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8"
+      "duration_ms": 289313,
+      "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Deus Est\u00e1 Aqui (Medley)",
-        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 283648,
-      "name": "Deus Est\u00e1 Aqui (Medley)",
-      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "Tu \u00e9s Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Deus Est\u00e1 Aqui (Medley)",
+        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 283648,
+      "name": "Deus Est\u00e1 Aqui (Medley)",
+      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
-        }
-      ],
-      "duration_ms": 489442,
-      "name": "Messias - Ao Vivo",
-      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "Estou Te Esperando (Ao Vivo)",
         "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 411745,
       "name": "Estou Te Esperando (Ao Vivo)",
       "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "duration_ms": 489442,
+      "name": "Messias - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
+        "name": "Quem \u00e9 Como Nosso Deus?",
+        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 489116,
+      "name": "Quem \u00e9 Como Nosso Deus?",
+      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
         "name": "Eu Quem Merecia",
         "url": "https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 350914,
       "name": "Eu Quem Merecia",
       "url": "https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
-        "name": "Quem \u00e9 Como Nosso Deus?",
-        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 489116,
-      "name": "Quem \u00e9 Como Nosso Deus?",
-      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "Na Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 349217,
       "name": "Na Fenda da Rocha - Ao Vivo",
       "url": "https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 377246,
       "name": "O C\u00e9u Responde Diferente - Ao Vivo",
       "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
     },
     {
       "added_at": "2026-10-16 03:01:02",

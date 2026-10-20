@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41329,
+  "num_followers": 41322,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAACq/jAFp6DaDMj949T5cvay",
+  "snapshot_id": "atQMAAAAAAA7QHXTBm3dUt7KZehtUNDF",
   "tracks": [
     {
       "added_at": null,
@@ -204,7 +204,7 @@
       "added_at": null,
       "album": {
         "name": "Fallen",
-        "url": "https://open.spotify.com/album/5DUPsFaK2t1wcaYc7khsAP"
+        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 269643,
+      "duration_ms": 270946,
       "name": "Fallen",
-      "url": "https://open.spotify.com/track/5AngW69uAboljtCBHZ6AsT"
+      "url": "https://open.spotify.com/track/1uY5PG3A2gowDEzP1g703X"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KABANERI OF THE IRON FORTRESS",
-        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "It's all about you",
-      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departures - Anata Ni Okuru Ai No Uta",
         "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 95333,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
       "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KABANERI OF THE IRON FORTRESS",
+        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "It's all about you",
+      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 90260,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 96893,
       "name": "The Everlasting Guilty Crown -TV Edit-",
       "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 90260,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
     },
     {
       "added_at": null,

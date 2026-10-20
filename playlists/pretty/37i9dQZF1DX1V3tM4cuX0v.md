@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: NAZVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,218 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,215 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 50 | [Незручна](https://open.spotify.com/track/6FYUQikhRcWkkz5JSz0jpx) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Незручна](https://open.spotify.com/album/2ErCJeY0qMXFYPwmnl1GA9) | 2:53 |
 
-Snapshot ID: `AAAAAN1n3Hf4XcNAPAoPnLuyle9lGLlK`
+Snapshot ID: `AAAAABFanJAGmmoLM2mGmiLMiAANtz9A`

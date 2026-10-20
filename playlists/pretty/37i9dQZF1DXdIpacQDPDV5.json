@@ -1,12 +1,12 @@
 {
   "description": "Canada's best dance hits, featuring Sara Landry",
-  "num_followers": 298505,
+  "num_followers": 298476,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHQlqCAAPkADbx3cBe0ltsuYPfw",
+  "snapshot_id": "AAAAAN4B/8jNGSVto7Aq9v+1MpihM2E0",
   "tracks": [
     {
       "added_at": "2026-10-16 04:02:22",
@@ -42,6 +42,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,

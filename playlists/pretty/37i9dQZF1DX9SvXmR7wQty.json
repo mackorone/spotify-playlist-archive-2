@@ -1,29 +1,13 @@
 {
   "description": "Du neuf, du bon, du  <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex\">franco</a> !  avec Ang\u00e8le, Ino Casablanca, RnBoi, La Bronze, Cherry Lena, King Melrose, et plus! ",
-  "num_followers": 48313,
+  "num_followers": 48321,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI7RWCipWESetAzqez1weekm+Eca",
+  "snapshot_id": "AAAAADzDaL6K/Nc6zoFJZQrxb7UIRiX+",
   "tracks": [
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
-        "name": "Un feu, mes larmes, les armes",
-        "url": "https://open.spotify.com/album/7JaU4ChGk4JVKL8BaqPjw5"
-      },
-      "artists": [
-        {
-          "name": "La Bronze",
-          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
-        }
-      ],
-      "duration_ms": 183144,
-      "name": "Un feu, mes larmes, les armes",
-      "url": "https://open.spotify.com/track/5jEFEsQcIsuMElJUkeKFbv"
-    },
     {
       "added_at": "2026-10-16 13:11:31",
       "album": {
@@ -95,6 +79,110 @@
     {
       "added_at": "2026-10-16 13:11:31",
       "album": {
+        "name": "J'veux pas t'oublier",
+        "url": "https://open.spotify.com/album/1CfOe4suM68emDrUp1vEG5"
+      },
+      "artists": [
+        {
+          "name": "King Melrose",
+          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
+        }
+      ],
+      "duration_ms": 176327,
+      "name": "J'veux pas t'oublier",
+      "url": "https://open.spotify.com/track/7bsEHiDC7sNCihRmdva4yP"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
+        "name": "La d\u00e9rive des r\u00eaves",
+        "url": "https://open.spotify.com/album/1jvEpZw1bERUn4Axxzq8jV"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        },
+        {
+          "name": "Salom\u00e9 Leclerc",
+          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Haricots rouges",
+      "url": "https://open.spotify.com/track/2gN3My6bhpndAvmqz0l4uC"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
+        "name": "Tout m'\u00e9chappe",
+        "url": "https://open.spotify.com/album/1EmEMI2eUa4vRnCwwQ1mh8"
+      },
+      "artists": [
+        {
+          "name": "Koyo Sur La Prod",
+          "url": "https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu"
+        },
+        {
+          "name": "Redgee",
+          "url": "https://open.spotify.com/artist/70XnYdTVEb3CIBhjT7V1Oa"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Tout m'\u00e9chappe",
+      "url": "https://open.spotify.com/track/1HIhWMgN2hdGTkmbUgvf9q"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/4RSstNizPxLdoBRBIf0Pue"
+      },
+      "artists": [
+        {
+          "name": "ZorroSlice",
+          "url": "https://open.spotify.com/artist/1sX5GL1G0oMTLCPJXJ9nme"
+        }
+      ],
+      "duration_ms": 162463,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/42sI53SPPbSRl2CsmmuNFG"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
+        "name": "Maman travaille trop",
+        "url": "https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "duration_ms": 172036,
+      "name": "Maman travaille trop",
+      "url": "https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
+        "name": "Un feu, mes larmes, les armes",
+        "url": "https://open.spotify.com/album/7JaU4ChGk4JVKL8BaqPjw5"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "duration_ms": 183144,
+      "name": "Un feu, mes larmes, les armes",
+      "url": "https://open.spotify.com/track/5jEFEsQcIsuMElJUkeKFbv"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
         "name": "KITTEN HEELS",
         "url": "https://open.spotify.com/album/4JyD5avC00MCVjxw0WwG5u"
       },
@@ -127,6 +215,54 @@
     {
       "added_at": "2026-10-16 13:11:31",
       "album": {
+        "name": "L'Humain",
+        "url": "https://open.spotify.com/album/1kAZZCiEqvD9mCZtdVcR8R"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "L'Humain",
+      "url": "https://open.spotify.com/track/3sHa6NoDxdvS7SYApXJUrC"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
+        "name": "un peu quand m\u00eame",
+        "url": "https://open.spotify.com/album/7y3zRS1iBiJ7R2DdN7qfdV"
+      },
+      "artists": [
+        {
+          "name": "D'accord Simon",
+          "url": "https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "Pas de nouvelles",
+      "url": "https://open.spotify.com/track/5j0vjqQjuX0xyNAgUV7zKR"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
+        "name": "\u00c9quilibre",
+        "url": "https://open.spotify.com/album/3SY91m4SXdvsVmd3qyBATR"
+      },
+      "artists": [
+        {
+          "name": "PETiTOM",
+          "url": "https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "Dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/0pACUFvvHIN7g3rEVhg7yA"
+    },
+    {
+      "added_at": "2026-10-16 13:11:31",
+      "album": {
         "name": "Le mauvais temps",
         "url": "https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD"
       },
@@ -139,22 +275,6 @@
       "duration_ms": 223906,
       "name": "Le mauvais temps",
       "url": "https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
-        "name": "J'veux pas t'oublier",
-        "url": "https://open.spotify.com/album/1CfOe4suM68emDrUp1vEG5"
-      },
-      "artists": [
-        {
-          "name": "King Melrose",
-          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
-        }
-      ],
-      "duration_ms": 176327,
-      "name": "J'veux pas t'oublier",
-      "url": "https://open.spotify.com/track/7bsEHiDC7sNCihRmdva4yP"
     },
     {
       "added_at": "2026-10-16 13:11:31",
@@ -263,26 +383,6 @@
     {
       "added_at": "2026-10-16 13:11:31",
       "album": {
-        "name": "La d\u00e9rive des r\u00eaves",
-        "url": "https://open.spotify.com/album/1jvEpZw1bERUn4Axxzq8jV"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
-        },
-        {
-          "name": "Salom\u00e9 Leclerc",
-          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Haricots rouges",
-      "url": "https://open.spotify.com/track/2gN3My6bhpndAvmqz0l4uC"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
         "name": "L\u00e9ger Stress",
         "url": "https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU"
       },
@@ -299,42 +399,6 @@
       "duration_ms": 188564,
       "name": "S\u00e9rotonine",
       "url": "https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
-        "name": "Tout m'\u00e9chappe",
-        "url": "https://open.spotify.com/album/1EmEMI2eUa4vRnCwwQ1mh8"
-      },
-      "artists": [
-        {
-          "name": "Koyo Sur La Prod",
-          "url": "https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu"
-        },
-        {
-          "name": "Redgee",
-          "url": "https://open.spotify.com/artist/70XnYdTVEb3CIBhjT7V1Oa"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Tout m'\u00e9chappe",
-      "url": "https://open.spotify.com/track/1HIhWMgN2hdGTkmbUgvf9q"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/4RSstNizPxLdoBRBIf0Pue"
-      },
-      "artists": [
-        {
-          "name": "ZorroSlice",
-          "url": "https://open.spotify.com/artist/1sX5GL1G0oMTLCPJXJ9nme"
-        }
-      ],
-      "duration_ms": 162463,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/42sI53SPPbSRl2CsmmuNFG"
     },
     {
       "added_at": "2026-10-16 13:11:31",
@@ -391,22 +455,6 @@
     {
       "added_at": "2026-10-16 13:11:31",
       "album": {
-        "name": "Maman travaille trop",
-        "url": "https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ"
-      },
-      "artists": [
-        {
-          "name": "P.R2B",
-          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
-        }
-      ],
-      "duration_ms": 172036,
-      "name": "Maman travaille trop",
-      "url": "https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
         "name": "J'ai pas dit",
         "url": "https://open.spotify.com/album/0aXeJZexnKviJVo0l7dMD6"
       },
@@ -419,22 +467,6 @@
       "duration_ms": 172616,
       "name": "J'ai pas dit",
       "url": "https://open.spotify.com/track/6jwicegpsLHWMDDD1mTqV2"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
-        "name": "L'Humain",
-        "url": "https://open.spotify.com/album/1kAZZCiEqvD9mCZtdVcR8R"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "L'Humain",
-      "url": "https://open.spotify.com/track/3sHa6NoDxdvS7SYApXJUrC"
     },
     {
       "added_at": "2026-10-16 13:11:31",
@@ -467,38 +499,6 @@
       "duration_ms": 179641,
       "name": "Dis-moi Pierre",
       "url": "https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
-        "name": "un peu quand m\u00eame",
-        "url": "https://open.spotify.com/album/7y3zRS1iBiJ7R2DdN7qfdV"
-      },
-      "artists": [
-        {
-          "name": "D'accord Simon",
-          "url": "https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "Pas de nouvelles",
-      "url": "https://open.spotify.com/track/5j0vjqQjuX0xyNAgUV7zKR"
-    },
-    {
-      "added_at": "2026-10-16 13:11:31",
-      "album": {
-        "name": "\u00c9quilibre",
-        "url": "https://open.spotify.com/album/3SY91m4SXdvsVmd3qyBATR"
-      },
-      "artists": [
-        {
-          "name": "PETiTOM",
-          "url": "https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "Dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/0pACUFvvHIN7g3rEVhg7yA"
     },
     {
       "added_at": "2026-10-16 13:11:31",

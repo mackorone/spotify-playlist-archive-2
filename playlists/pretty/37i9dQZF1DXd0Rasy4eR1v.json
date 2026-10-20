@@ -1,12 +1,12 @@
 {
   "description": "Editor's picks of freshest Pakistani discoveries you need to listen to. Cover: Sharmeen Javed",
-  "num_followers": 12581,
+  "num_followers": 12589,
   "original_name": "Fresh Finds Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABoj/CgqQhhck8nJrDVpH+8MeIb8",
+  "snapshot_id": "AAAAABi7A3ZK69F5pl4g6cJ7jEA+9fGx",
   "tracks": [
     {
       "added_at": "2026-10-07 09:03:02",
@@ -517,20 +517,20 @@
       "url": "https://open.spotify.com/track/1QkfNg5mEv8QdDl6JmKqro"
     },
     {
-      "added_at": "2026-10-07 09:03:02",
+      "added_at": "2026-10-16 03:00:15",
       "album": {
-        "name": "Bhool Gaya",
-        "url": "https://open.spotify.com/album/0iL1P0t5Rth9zRWpB7VWy0"
+        "name": "Paheliyan",
+        "url": "https://open.spotify.com/album/1YuovsB6tmzHakUXbQWnVr"
       },
       "artists": [
         {
-          "name": "izhaar Ali",
-          "url": "https://open.spotify.com/artist/3Q2R81iiDAi2VKmbYvjpol"
+          "name": "Omar Mukhtar",
+          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
         }
       ],
-      "duration_ms": 246500,
-      "name": "Bhool Gaya",
-      "url": "https://open.spotify.com/track/3GfPzRWJWyJZbl25NaatiW"
+      "duration_ms": 218803,
+      "name": "Paheliyan",
+      "url": "https://open.spotify.com/track/3FvIUbLlAEZ6MSG7U7Bva0"
     },
     {
       "added_at": "2026-10-09 03:00:27",
@@ -553,20 +553,20 @@
       "url": "https://open.spotify.com/track/4vX38LoW94Tp2kteZepp6x"
     },
     {
-      "added_at": "2026-10-16 03:00:15",
+      "added_at": "2026-10-07 09:03:02",
       "album": {
-        "name": "Paheliyan",
-        "url": "https://open.spotify.com/album/1YuovsB6tmzHakUXbQWnVr"
+        "name": "Bhool Gaya",
+        "url": "https://open.spotify.com/album/0iL1P0t5Rth9zRWpB7VWy0"
       },
       "artists": [
         {
-          "name": "Omar Mukhtar",
-          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
+          "name": "izhaar Ali",
+          "url": "https://open.spotify.com/artist/3Q2R81iiDAi2VKmbYvjpol"
         }
       ],
-      "duration_ms": 218803,
-      "name": "Paheliyan",
-      "url": "https://open.spotify.com/track/3FvIUbLlAEZ6MSG7U7Bva0"
+      "duration_ms": 246500,
+      "name": "Bhool Gaya",
+      "url": "https://open.spotify.com/track/3GfPzRWJWyJZbl25NaatiW"
     },
     {
       "added_at": "2026-10-09 03:00:27",
@@ -647,30 +647,6 @@
     {
       "added_at": "2026-10-07 09:03:02",
       "album": {
-        "name": "Pyaar Di Gal",
-        "url": "https://open.spotify.com/album/72krKMt8bXGZzUVkwyPuf0"
-      },
-      "artists": [
-        {
-          "name": "Ezio",
-          "url": "https://open.spotify.com/artist/62CF5EoeOLRByAlX3Z2axx"
-        },
-        {
-          "name": "Ramzan Jani",
-          "url": "https://open.spotify.com/artist/7m3ldTvNh0FdYnXKJhIRd2"
-        },
-        {
-          "name": "Sajal Fatima",
-          "url": "https://open.spotify.com/artist/5WwTfNpqMYoJSST5LmiuR2"
-        }
-      ],
-      "duration_ms": 196062,
-      "name": "Pyaar DI Gal",
-      "url": "https://open.spotify.com/track/2E9kl1vHjHrKWxl5l4LSoK"
-    },
-    {
-      "added_at": "2026-10-07 09:03:02",
-      "album": {
         "name": "Duur Duur",
         "url": "https://open.spotify.com/album/4JdG5DznKZ36X2k0owm3uW"
       },
@@ -693,6 +669,30 @@
       "url": "https://open.spotify.com/track/0eIhOI7pb6wyV4W3cRJKIZ"
     },
     {
+      "added_at": "2026-10-07 09:03:02",
+      "album": {
+        "name": "Pyaar Di Gal",
+        "url": "https://open.spotify.com/album/72krKMt8bXGZzUVkwyPuf0"
+      },
+      "artists": [
+        {
+          "name": "Ezio",
+          "url": "https://open.spotify.com/artist/62CF5EoeOLRByAlX3Z2axx"
+        },
+        {
+          "name": "Ramzan Jani",
+          "url": "https://open.spotify.com/artist/7m3ldTvNh0FdYnXKJhIRd2"
+        },
+        {
+          "name": "Sajal Fatima",
+          "url": "https://open.spotify.com/artist/5WwTfNpqMYoJSST5LmiuR2"
+        }
+      ],
+      "duration_ms": 196062,
+      "name": "Pyaar DI Gal",
+      "url": "https://open.spotify.com/track/2E9kl1vHjHrKWxl5l4LSoK"
+    },
+    {
       "added_at": "2026-10-09 03:00:27",
       "album": {
         "name": "Behla Ke",
@@ -711,6 +711,26 @@
       "duration_ms": 235482,
       "name": "Behla Ke",
       "url": "https://open.spotify.com/track/5syxhqzndnW2NimHYQZZIz"
+    },
+    {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Tum Bin",
+        "url": "https://open.spotify.com/album/5Ms2OAFLTz2PjTyaAijgZ1"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan Niazi",
+          "url": "https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "duration_ms": 206774,
+      "name": "Tum Bin",
+      "url": "https://open.spotify.com/track/1DoR69qvFOoDvgqsuDotxA"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -785,26 +805,6 @@
       "url": "https://open.spotify.com/track/2MPe3jNxbPWdeZ2Eqb2MY1"
     },
     {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Tum Bin",
-        "url": "https://open.spotify.com/album/5Ms2OAFLTz2PjTyaAijgZ1"
-      },
-      "artists": [
-        {
-          "name": "Asad Khan Niazi",
-          "url": "https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m"
-        },
-        {
-          "name": "Jayyke",
-          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
-        }
-      ],
-      "duration_ms": 206774,
-      "name": "Tum Bin",
-      "url": "https://open.spotify.com/track/1DoR69qvFOoDvgqsuDotxA"
-    },
-    {
       "added_at": "2026-10-07 09:03:02",
       "album": {
         "name": "Yaar",
@@ -829,26 +829,6 @@
       "url": "https://open.spotify.com/track/2la9bXwKqqk1QMTqvTGUx6"
     },
     {
-      "added_at": "2026-10-07 09:03:02",
-      "album": {
-        "name": "Dhund",
-        "url": "https://open.spotify.com/album/6pmrUpiNeNvDCpv5SQ2DR8"
-      },
-      "artists": [
-        {
-          "name": "Junaid Javed",
-          "url": "https://open.spotify.com/artist/0zqUu1gYO6WjlWUEaOQtQ9"
-        },
-        {
-          "name": "Musa Khan",
-          "url": "https://open.spotify.com/artist/4S1VwyhpIGRQO6PjhroSpf"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Dhund",
-      "url": "https://open.spotify.com/track/62hLTSPkZXmDOcPEzStF79"
-    },
-    {
       "added_at": "2026-10-09 03:00:27",
       "album": {
         "name": "Phir Se Dobara",
@@ -867,6 +847,26 @@
       "duration_ms": 157946,
       "name": "Phir Se Dobara",
       "url": "https://open.spotify.com/track/2RPAeFX0C7c0UdYi4vUzLJ"
+    },
+    {
+      "added_at": "2026-10-07 09:03:02",
+      "album": {
+        "name": "Dhund",
+        "url": "https://open.spotify.com/album/6pmrUpiNeNvDCpv5SQ2DR8"
+      },
+      "artists": [
+        {
+          "name": "Junaid Javed",
+          "url": "https://open.spotify.com/artist/0zqUu1gYO6WjlWUEaOQtQ9"
+        },
+        {
+          "name": "Musa Khan",
+          "url": "https://open.spotify.com/artist/4S1VwyhpIGRQO6PjhroSpf"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "Dhund",
+      "url": "https://open.spotify.com/track/62hLTSPkZXmDOcPEzStF79"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -1201,6 +1201,42 @@
       "url": "https://open.spotify.com/track/0oXzMatNWG4nx0VvVLr29v"
     },
     {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Phir Se",
+        "url": "https://open.spotify.com/album/2SuIRExqnweutPWo2PlW1u"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Khan",
+          "url": "https://open.spotify.com/artist/49w12XrOuzUevVP12bgfge"
+        }
+      ],
+      "duration_ms": 150782,
+      "name": "Phir Se",
+      "url": "https://open.spotify.com/track/4VXJnL5FqhACSVIZ2fxl2O"
+    },
+    {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Saya",
+        "url": "https://open.spotify.com/album/5WTa9HqUmNh0NqXp2ASaHe"
+      },
+      "artists": [
+        {
+          "name": "Leezay",
+          "url": "https://open.spotify.com/artist/3mQp3FqLG3FLGwPRFClpev"
+        },
+        {
+          "name": "ayesha naveed",
+          "url": "https://open.spotify.com/artist/5HUjA19upa0ZowocK0rXL3"
+        }
+      ],
+      "duration_ms": 233714,
+      "name": "Saya",
+      "url": "https://open.spotify.com/track/462UOiu4LVqIamIC7gjNxQ"
+    },
+    {
       "added_at": "2026-10-07 09:03:02",
       "album": {
         "name": "FAREBI",
@@ -1237,6 +1273,22 @@
       "url": "https://open.spotify.com/track/6K093cKQBo3JWoX5OPP1uY"
     },
     {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Ranjhana",
+        "url": "https://open.spotify.com/album/7pVCA7RPZpgKOG4esNaI3M"
+      },
+      "artists": [
+        {
+          "name": "Musawir Khan",
+          "url": "https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Ranjhana",
+      "url": "https://open.spotify.com/track/1xf42ZU4nNHRHEMmsXzqzL"
+    },
+    {
       "added_at": "2026-10-07 09:03:02",
       "album": {
         "name": "Chaand Aur Taara",
@@ -1251,26 +1303,6 @@
       "duration_ms": 224400,
       "name": "Chaand Aur Taara",
       "url": "https://open.spotify.com/track/0fLwwQHbTzvrxLsGXXZYZY"
-    },
-    {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Saya",
-        "url": "https://open.spotify.com/album/5WTa9HqUmNh0NqXp2ASaHe"
-      },
-      "artists": [
-        {
-          "name": "Leezay",
-          "url": "https://open.spotify.com/artist/3mQp3FqLG3FLGwPRFClpev"
-        },
-        {
-          "name": "ayesha naveed",
-          "url": "https://open.spotify.com/artist/5HUjA19upa0ZowocK0rXL3"
-        }
-      ],
-      "duration_ms": 233714,
-      "name": "Saya",
-      "url": "https://open.spotify.com/track/462UOiu4LVqIamIC7gjNxQ"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -1335,38 +1367,6 @@
     {
       "added_at": "2026-10-07 09:03:02",
       "album": {
-        "name": "Ayza",
-        "url": "https://open.spotify.com/album/70Ny9AIJ943OmF17FbAX0z"
-      },
-      "artists": [
-        {
-          "name": "Mirza",
-          "url": "https://open.spotify.com/artist/3djIUwbgV4atR7mW6yjyRg"
-        }
-      ],
-      "duration_ms": 213199,
-      "name": "Ayza",
-      "url": "https://open.spotify.com/track/2P9iGYlazDNb71rl6NZQ7a"
-    },
-    {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Phir Se",
-        "url": "https://open.spotify.com/album/2SuIRExqnweutPWo2PlW1u"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Khan",
-          "url": "https://open.spotify.com/artist/49w12XrOuzUevVP12bgfge"
-        }
-      ],
-      "duration_ms": 150782,
-      "name": "Phir Se",
-      "url": "https://open.spotify.com/track/4VXJnL5FqhACSVIZ2fxl2O"
-    },
-    {
-      "added_at": "2026-10-07 09:03:02",
-      "album": {
         "name": "Aaey Nahi",
         "url": "https://open.spotify.com/album/4HB8MmayxCMuhZt9yL6ISy"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 169714,
       "name": "Aaey Nahi",
       "url": "https://open.spotify.com/track/7e1u4Kfor8eKSnsRyAz6du"
+    },
+    {
+      "added_at": "2026-10-07 09:03:02",
+      "album": {
+        "name": "Ayza",
+        "url": "https://open.spotify.com/album/70Ny9AIJ943OmF17FbAX0z"
+      },
+      "artists": [
+        {
+          "name": "Mirza",
+          "url": "https://open.spotify.com/artist/3djIUwbgV4atR7mW6yjyRg"
+        }
+      ],
+      "duration_ms": 213199,
+      "name": "Ayza",
+      "url": "https://open.spotify.com/track/2P9iGYlazDNb71rl6NZQ7a"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -1489,22 +1505,6 @@
       "url": "https://open.spotify.com/track/7hr4FCO42FNM1uI6Tnbrck"
     },
     {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Ranjhana",
-        "url": "https://open.spotify.com/album/7pVCA7RPZpgKOG4esNaI3M"
-      },
-      "artists": [
-        {
-          "name": "Musawir Khan",
-          "url": "https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "Ranjhana",
-      "url": "https://open.spotify.com/track/1xf42ZU4nNHRHEMmsXzqzL"
-    },
-    {
       "added_at": "2026-10-07 09:03:02",
       "album": {
         "name": "Milo Na",
@@ -1535,6 +1535,22 @@
       "duration_ms": 199819,
       "name": "Teri Yaadon Mein",
       "url": "https://open.spotify.com/track/2yWKlwM93x8Obp5HqTD5jO"
+    },
+    {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Tere Bina - Acoustic",
+        "url": "https://open.spotify.com/album/3YfYXUMWbbtc0t8v5UmY2e"
+      },
+      "artists": [
+        {
+          "name": "Zaighum Naeem",
+          "url": "https://open.spotify.com/artist/7fxYREX9WH1m6TsIR7ggYn"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "Tere Bina - Acoustic",
+      "url": "https://open.spotify.com/track/2EmgfMe3nhTOvorV7lZpOt"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -1593,6 +1609,22 @@
       "url": "https://open.spotify.com/track/7IjyrXe30f6puyb2OKHOC6"
     },
     {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Miles Apart",
+        "url": "https://open.spotify.com/album/7C1o29OrIK5T3FzDBDvxR5"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Khan",
+          "url": "https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Miles Apart",
+      "url": "https://open.spotify.com/track/3JnXUaPhV8ntlDBR6DlNom"
+    },
+    {
       "added_at": "2026-10-07 09:03:02",
       "album": {
         "name": "Tere Naal Jeena",
@@ -1623,6 +1655,22 @@
       "duration_ms": 133094,
       "name": "Beautiful Scars",
       "url": "https://open.spotify.com/track/0lEb8xjzCPDl1uqFZfwDf9"
+    },
+    {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Kitna Mushkil Hai",
+        "url": "https://open.spotify.com/album/6qv9y3SaarWipOvA5MwVzV"
+      },
+      "artists": [
+        {
+          "name": "Richie Robinson",
+          "url": "https://open.spotify.com/artist/63hXmGwRG2c2YIYnavI3sE"
+        }
+      ],
+      "duration_ms": 319029,
+      "name": "Kitna Mushkil Hai",
+      "url": "https://open.spotify.com/track/4RlhdWeWSbOlO7BKZv9VHe"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -1657,20 +1705,24 @@
       "url": "https://open.spotify.com/track/6nWOqn5xbaTNLtsTT1aXD0"
     },
     {
-      "added_at": "2026-10-07 09:03:02",
+      "added_at": "2026-10-16 03:00:15",
       "album": {
-        "name": "Khol Qaffas",
-        "url": "https://open.spotify.com/album/6o2K6QieGP45YMy3AcQQwl"
+        "name": "Chad Jaana",
+        "url": "https://open.spotify.com/album/1JE6DHFIecC9kq7CHsqaKB"
       },
       "artists": [
         {
-          "name": "Humail Rajpoot",
-          "url": "https://open.spotify.com/artist/6QwjrW6ixvGxwP61YNTDJl"
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        },
+        {
+          "name": "Hareem Rashid",
+          "url": "https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi"
         }
       ],
-      "duration_ms": 221549,
-      "name": "Khol Qaffas",
-      "url": "https://open.spotify.com/track/05Y2lw9S8xOpWNBPyfEjgl"
+      "duration_ms": 190994,
+      "name": "Chad Jaana",
+      "url": "https://open.spotify.com/track/0oLGfik6icp6bCKRhk6W8U"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -1707,6 +1759,22 @@
     {
       "added_at": "2026-10-07 09:03:02",
       "album": {
+        "name": "Khol Qaffas",
+        "url": "https://open.spotify.com/album/6o2K6QieGP45YMy3AcQQwl"
+      },
+      "artists": [
+        {
+          "name": "Humail Rajpoot",
+          "url": "https://open.spotify.com/artist/6QwjrW6ixvGxwP61YNTDJl"
+        }
+      ],
+      "duration_ms": 221549,
+      "name": "Khol Qaffas",
+      "url": "https://open.spotify.com/track/05Y2lw9S8xOpWNBPyfEjgl"
+    },
+    {
+      "added_at": "2026-10-07 09:03:02",
+      "album": {
         "name": "Akhiyaan",
         "url": "https://open.spotify.com/album/1hMsf5iOCFA0f15E9GIIFg"
       },
@@ -1727,74 +1795,6 @@
     {
       "added_at": "2026-10-16 03:00:15",
       "album": {
-        "name": "Kitna Mushkil Hai",
-        "url": "https://open.spotify.com/album/6qv9y3SaarWipOvA5MwVzV"
-      },
-      "artists": [
-        {
-          "name": "Richie Robinson",
-          "url": "https://open.spotify.com/artist/63hXmGwRG2c2YIYnavI3sE"
-        }
-      ],
-      "duration_ms": 319029,
-      "name": "Kitna Mushkil Hai",
-      "url": "https://open.spotify.com/track/4RlhdWeWSbOlO7BKZv9VHe"
-    },
-    {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Miles Apart",
-        "url": "https://open.spotify.com/album/7C1o29OrIK5T3FzDBDvxR5"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Khan",
-          "url": "https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Miles Apart",
-      "url": "https://open.spotify.com/track/3JnXUaPhV8ntlDBR6DlNom"
-    },
-    {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Chad Jaana",
-        "url": "https://open.spotify.com/album/1JE6DHFIecC9kq7CHsqaKB"
-      },
-      "artists": [
-        {
-          "name": "Jayyke",
-          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
-        },
-        {
-          "name": "Hareem Rashid",
-          "url": "https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi"
-        }
-      ],
-      "duration_ms": 190994,
-      "name": "Chad Jaana",
-      "url": "https://open.spotify.com/track/0oLGfik6icp6bCKRhk6W8U"
-    },
-    {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Tere Bina - Acoustic",
-        "url": "https://open.spotify.com/album/3YfYXUMWbbtc0t8v5UmY2e"
-      },
-      "artists": [
-        {
-          "name": "Zaighum Naeem",
-          "url": "https://open.spotify.com/artist/7fxYREX9WH1m6TsIR7ggYn"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "Tere Bina - Acoustic",
-      "url": "https://open.spotify.com/track/2EmgfMe3nhTOvorV7lZpOt"
-    },
-    {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
         "name": "Kashmakash",
         "url": "https://open.spotify.com/album/62HXnDwd1C3lF4ct51jBd3"
       },
@@ -1807,6 +1807,22 @@
       "duration_ms": 172000,
       "name": "Kashmakash",
       "url": "https://open.spotify.com/track/2wYCQbbTpnBST1AsAa2tCZ"
+    },
+    {
+      "added_at": "2026-10-16 03:00:15",
+      "album": {
+        "name": "Aajana",
+        "url": "https://open.spotify.com/album/1KPLuOkkJ56fPGssp0XRHE"
+      },
+      "artists": [
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "duration_ms": 193850,
+      "name": "Aajana",
+      "url": "https://open.spotify.com/track/50O8PlM9BMDzdST6xwRWEK"
     },
     {
       "added_at": "2026-10-07 09:03:02",
@@ -1843,22 +1859,6 @@
       "duration_ms": 130000,
       "name": "Dooba",
       "url": "https://open.spotify.com/track/1bYtajI7CZfatn2fdKKKe9"
-    },
-    {
-      "added_at": "2026-10-16 03:00:15",
-      "album": {
-        "name": "Aajana",
-        "url": "https://open.spotify.com/album/1KPLuOkkJ56fPGssp0XRHE"
-      },
-      "artists": [
-        {
-          "name": "Jayyke",
-          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
-        }
-      ],
-      "duration_ms": 193850,
-      "name": "Aajana",
-      "url": "https://open.spotify.com/track/50O8PlM9BMDzdST6xwRWEK"
     }
   ],
   "unique_name": "Fresh Finds Pakistan",

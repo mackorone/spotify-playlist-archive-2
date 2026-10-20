@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMbkaNMkSJiyUrCMHo9/vXnrgfgi",
+  "snapshot_id": "AAAAAEr8NcfNSV84Kmpz+a/TyJ0k/gC7",
   "tracks": [
     {
       "added_at": "2024-07-12 14:53:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 282965,
       "name": "Shine a Little Love",
       "url": "https://open.spotify.com/track/5X6HkkTe8mUwkHo3Lccr6E"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Lola Versus Powerman and the Moneygoround / Percy",
-        "url": "https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK"
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Lola - Remastered",
-      "url": "https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY"
+      "duration_ms": 271093,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
+        "name": "Lola Versus Powerman and the Moneygoround / Percy",
+        "url": "https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
+      "duration_ms": 242026,
+      "name": "Lola - Remastered",
+      "url": "https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY"
     },
     {
       "added_at": "2024-07-12 14:53:15",

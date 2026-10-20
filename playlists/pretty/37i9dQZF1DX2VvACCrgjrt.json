@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310915,
+  "num_followers": 1310894,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPWZTT9gYVsawtce2VT7LYImESWV",
+  "snapshot_id": "AAAAAGtz7Ctzmz0XNIfTekIDfnR39yiH",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:19",
@@ -811,18 +811,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
         }
       ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+      "duration_ms": 182225,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
     },
     {
       "added_at": "2026-09-25 04:02:01",
@@ -883,22 +887,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 182225,
-      "name": "Cash Out",
-      "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1017,10 +1017,10 @@
       "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-08-07 04:01:21",
       "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+        "name": "Louboutin",
+        "url": "https://open.spotify.com/album/0JDfPxytFUdxY4swdIHYgI"
       },
       "artists": [
         {
@@ -1028,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
         },
         {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
         }
       ],
-      "duration_ms": 171380,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
+      "duration_ms": 191477,
+      "name": "Louboutin",
+      "url": "https://open.spotify.com/track/4gB2PHBDWqjZV2ynWLqME8"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1051,26 +1051,6 @@
       "duration_ms": 153321,
       "name": "I Got Feelings",
       "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
-    },
-    {
-      "added_at": "2026-06-12 04:01:37",
-      "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 164423,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1091,6 +1071,26 @@
       "duration_ms": 193005,
       "name": "Faded (Blacklizt Version) - HNTR Remix",
       "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+    },
+    {
+      "added_at": "2026-06-12 04:01:37",
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 164423,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
     },
     {
       "added_at": "2026-08-04 14:38:07",
@@ -1461,30 +1461,6 @@
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
     },
     {
-      "added_at": "2026-05-15 15:18:31",
-      "album": {
-        "name": "Turn Up The Bass",
-        "url": "https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
-        },
-        {
-          "name": "Tyree Cooper",
-          "url": "https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "Turn Up The Bass",
-      "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "At The Disco",
@@ -1525,6 +1501,50 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
+      "added_at": "2026-05-15 15:18:31",
+      "album": {
+        "name": "Turn Up The Bass",
+        "url": "https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        },
+        {
+          "name": "Tyree Cooper",
+          "url": "https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "Turn Up The Bass",
+      "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Work",
@@ -1547,26 +1567,6 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Rock My World",
-        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Rock My World",
-      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/6eTWVeUjiHH9BeWZI5oyyq"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
       "added_at": "2026-09-18 04:02:27",
       "album": {
         "name": "Astronaught",
@@ -1691,22 +1707,6 @@
       "duration_ms": 181868,
       "name": "Astronaught",
       "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
       "added_at": "2026-08-14 04:01:19",
       "album": {
         "name": "HIM",
@@ -1803,6 +1787,22 @@
       "duration_ms": 197272,
       "name": "HIM",
       "url": "https://open.spotify.com/track/16zqNYSHjvKTNnvhKRQmp0"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1861,6 +1861,22 @@
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
+      "added_at": "2026-07-10 04:01:45",
+      "album": {
+        "name": "Bangarang",
+        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Bangarang",
+      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "B2U EP",
@@ -1879,22 +1895,6 @@
       "duration_ms": 168029,
       "name": "B2U",
       "url": "https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n"
-    },
-    {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "Bangarang",
-        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Bangarang",
-      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1977,6 +1977,26 @@
       "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/04pRqUd0kiXCx5RjElfah8"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/6ep0hLz1DJS78kdWDWtgLT"
+    },
+    {
       "added_at": "2026-09-18 04:02:27",
       "album": {
         "name": "True",
@@ -2011,26 +2031,6 @@
       "duration_ms": 183692,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/04pRqUd0kiXCx5RjElfah8"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "3D",
-      "url": "https://open.spotify.com/track/6ep0hLz1DJS78kdWDWtgLT"
     },
     {
       "added_at": "2026-07-17 04:01:08",
@@ -2409,20 +2409,20 @@
       "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
+      "added_at": "2026-08-21 04:01:29",
       "album": {
-        "name": "GOMF",
-        "url": "https://open.spotify.com/album/1vPI0QveO11AUXVAVCpG3N"
+        "name": "Baddies Going Out",
+        "url": "https://open.spotify.com/album/09jniR1EzBnPcOdLAxBWVK"
       },
       "artists": [
         {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 156003,
-      "name": "GOMF",
-      "url": "https://open.spotify.com/track/6bR9DxoANM5XIAGmpNIvDe"
+      "duration_ms": 160000,
+      "name": "Baddies Going Out",
+      "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
     }
   ],
   "unique_name": "Nasty Bits",

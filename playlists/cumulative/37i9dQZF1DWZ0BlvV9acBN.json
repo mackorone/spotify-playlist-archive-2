@@ -670,7 +670,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 215064,
       "name": "Caminho Sem Volta",
       "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
@@ -2218,6 +2218,24 @@
       "duration_ms": 264000,
       "name": "Minha Resposta (Ao Vivo no Summer Beats)",
       "url": "https://open.spotify.com/track/6wRhv00YHBbfj03mLMlcJ1"
+    },
+    {
+      "album": {
+        "name": "M\u00e3e dos Aflitos",
+        "url": "https://open.spotify.com/album/4Uw8O735zUHlKJepBMLRkU"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "M\u00e3e dos Aflitos",
+      "url": "https://open.spotify.com/track/6WRNqUWpCueaHqHKFlcEWe"
     },
     {
       "album": {

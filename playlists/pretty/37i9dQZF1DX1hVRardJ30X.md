@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Nsqk, Dei V, Anuel AA, Silvana Estrada, Rawayana and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,233 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,238 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 4 | [PLATO TIPICO](https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 2:54 |
 | 5 | [uno+1](https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e) | 2:50 |
 | 6 | [Todo Baila \(feat\. M\. Ward\)](https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Vendrán Suaves Lluvias \(y el tiempo prudente\)](https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB) | 2:53 |
-| 7 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
+| 7 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Campeón Gabacho](https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
 | 8 | [Libertad](https://open.spotify.com/track/4XDaqSDD7KeDVGYWUoTXzB) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Libertad](https://open.spotify.com/album/2wCPL6MDguOP9bQIngrLwg) | 4:34 |
 | 9 | [Lluvia \(AWOO\)](https://open.spotify.com/track/10kFJcJ2IAeadNm3R1zhD0) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Lluvia \(AWOO\)](https://open.spotify.com/album/3mo4ufVu2QADIxYmtqqnfF) | 4:54 |
 | 10 | [Tengo Ganas 2.0](https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tengo Ganas 2.0](https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Como Yo](https://open.spotify.com/track/4r92GfYvKjePrQmHYYG8CN) | [Penélope Santacruz](https://open.spotify.com/artist/1QlqS12K73y5zruVIzo37D) | [Como Yo](https://open.spotify.com/album/42dQ4OLWiKBF8dxsq616oQ) | 3:05 |
 | 50 | [Cuando me rompas el corazón](https://open.spotify.com/track/30yyA8PsYsn3dpIrOek5IE) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Cuando me rompas el corazón](https://open.spotify.com/album/5Y7XtAz9oSiQdhMDwqJjRZ) | 2:41 |
 
-Snapshot ID: `AAAAAAI+sdLxOubZ/evAZ+I+0d8EPUbJ`
+Snapshot ID: `AAAAAOL224ZeZDWE19x+5BGJmKCHE2Z2`

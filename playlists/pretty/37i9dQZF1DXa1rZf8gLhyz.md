@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677,652 likes - 180 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677,751 likes - 180 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 179 | [I Knew You’d Smile](https://open.spotify.com/track/72RZTtAJgnyM3uciNR8Cwo) | [Lev Banks](https://open.spotify.com/artist/78kWvPdx9S93qoBi9kVpOD) | [I Knew You’d Smile](https://open.spotify.com/album/3jkt7uN6Al3Klwa1YrPjEc) | 2:56 |
 | 180 | [Strollin in the Park](https://open.spotify.com/track/4Ao2tGbc6AG1b7U51EktJI) | [Noah Wenger](https://open.spotify.com/artist/61K16AcuP4yczd1ZH6u0fm) | [Strollin in the Park](https://open.spotify.com/album/1ZrgW0At3UG29JBvZoOnKK) | 2:44 |
 
-Snapshot ID: `AAAAADdFSje5Kps+NIiL0Ye/whTDf6p9`
+Snapshot ID: `AAAAAOyIbILNAot7pjr11l2LE8pBouvy`

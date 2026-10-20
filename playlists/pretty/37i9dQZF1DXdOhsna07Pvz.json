@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 119047,
+  "num_followers": 119083,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOgvHSfFbxCYZ4Fo2NN7pFlSkr5",
+  "snapshot_id": "AAAAAKEv+pIughfrknpLN3qOnE8fKZnB",
   "tracks": [
     {
       "added_at": "2025-10-04 00:28:31",
@@ -295,26 +295,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Rita Lee",
-        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Chega Mais",
-      "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Que Falta Voc\u00ea Me Faz",
         "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 182160,
       "name": "Samba da B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Chega Mais",
+      "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -915,6 +915,26 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Roda de Funk",
+        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
+      },
+      "artists": [
+        {
+          "name": "Funk Como Le Gusta",
+          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Olorum",
         "url": "https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 258480,
       "name": "Canta Sabi\u00e1",
       "url": "https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Roda de Funk",
-        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
-      },
-      "artists": [
-        {
-          "name": "Funk Como Le Gusta",
-          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Braseiro",
+        "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 233426,
+      "name": "Pelas Tabelas",
+      "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Nem um Dia (JAH-VAN)",
         "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 335796,
       "name": "Nem um Dia - JAH-VAN",
       "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Braseiro",
-        "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 233426,
-      "name": "Pelas Tabelas",
-      "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
     },
     {
       "added_at": "2025-10-04 00:28:31",

@@ -1,12 +1,12 @@
 {
   "description": "Tus corridos favoritos, ahora en video. Los Dos Carnales en portada. ",
-  "num_followers": 14451,
+  "num_followers": 14474,
   "original_name": "Corridos en Video",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAML3P5ElDYTGXLApXT4dUez8XQw4",
+  "snapshot_id": "AAAAAIP37FilZCJCubflkcplPlT5sVQb",
   "tracks": [
     {
       "added_at": "2026-01-26 16:55:17",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-26 16:55:17",
       "album": {
-        "name": "Iniciales SV (Official Video)",
-        "url": "https://open.spotify.com/album/0j6jcfts5hvvrucRPwLTKt"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 152128,
-      "name": "Iniciales SV (Official Video)",
-      "url": "https://open.spotify.com/track/7u4331qZ30LOlUIXxtJAFI"
-    },
-    {
-      "added_at": "2026-01-26 16:55:17",
-      "album": {
         "name": "Etiqueta Azul",
         "url": "https://open.spotify.com/album/6BnxeSEJ6jxwgEqRu28Hao"
       },
@@ -607,26 +591,6 @@
       "duration_ms": 209116,
       "name": "Barbas Y Botas",
       "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
-    },
-    {
-      "added_at": "2026-01-26 16:55:17",
-      "album": {
-        "name": "El Gallo Negro (En Vivo)",
-        "url": "https://open.spotify.com/album/2soBcAjTThftvPfu087gbA"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "El Gallo Negro (Official Video)",
-      "url": "https://open.spotify.com/track/3vaCX4AiuNNV53ipBpnPUE"
     },
     {
       "added_at": "2026-01-26 16:55:17",

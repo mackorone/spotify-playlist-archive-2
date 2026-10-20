@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > it's finally folk weather 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,897 likes - 135 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,932 likes - 135 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 134 | [Diamonds](https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Diamonds](https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW) | 4:08 |
 | 135 | [All Them Horses](https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:13 |
 
-Snapshot ID: `AAAAAD5bhl8sR9UsdLs20tp8MzKDADj9`
+Snapshot ID: `AAAAAF6/vTcgnIc0bS/NHLxPfDY5kA0h`

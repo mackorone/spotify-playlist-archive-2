@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 155664,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC"
@@ -7223,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "Go Tell Your Stories",
+        "url": "https://open.spotify.com/album/1htI9OeDoY8MzoW00vtMq2"
+      },
+      "artists": [
+        {
+          "name": "Lyric",
+          "url": "https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Go Tell Your Stories",
+      "url": "https://open.spotify.com/track/2rD2GNbK2M3bScSdk5CH8u"
+    },
+    {
+      "album": {
         "name": "Goals",
         "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
       },
@@ -8416,6 +8434,24 @@
       "duration_ms": 155561,
       "name": "Hellbent",
       "url": "https://open.spotify.com/track/1KpnWktqDqyTr0IXagwLIS"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6rEdnfaSLu1QXN5pFVaCOO"
+      },
+      "artists": [
+        {
+          "name": "colby!",
+          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170816,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7al7M2fVPzsuV1mTyGVmsF"
     },
     {
       "album": {
@@ -9956,6 +9992,28 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2LUy2lpkWIQT7VC1nNxWxb"
+      },
+      "artists": [
+        {
+          "name": "Earthgirl",
+          "url": "https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa"
+        },
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/2dud2t6ANdp6TJrojXF6Vr"
     },
     {
       "album": {
@@ -11632,7 +11690,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 157520,
       "name": "Love You To Death",
       "url": "https://open.spotify.com/track/7BfhIhd03RKpbsXFiSjaVE"
@@ -17446,7 +17504,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 159411,
       "name": "spotless state of mind",
       "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"

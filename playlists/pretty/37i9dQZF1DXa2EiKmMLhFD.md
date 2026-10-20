@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Gloria Jessica, Ade Govinda, Taylor Swift, ADÉLA, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,424,475 likes - 48 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,424,342 likes - 48 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 47 | [Tak Semudah Hompimpa](https://open.spotify.com/track/0Q82xVk3e34a6InV5sQHeQ) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Tak Semudah Hompimpa](https://open.spotify.com/album/7MVHYuCr4lIJ1MaU944tdb) | 3:24 |
 | 48 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 |
 
-Snapshot ID: `AAAAAC5IJvEE7Y6pkzAvhw7zg3M6ixCN`
+Snapshot ID: `AAAAABtZ8NjJXCazRqzSIXRbTgJxTT9c`

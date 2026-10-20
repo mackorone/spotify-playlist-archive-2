@@ -1,12 +1,12 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 196030,
+  "num_followers": 196059,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJw+J2uFdiK72ptUE+eIrrmQp8GO",
+  "snapshot_id": "AAAAANFITNlR65NrREZbN/YrcpjDZf3e",
   "tracks": [
     {
       "added_at": "2025-12-11 09:06:36",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "They Can\u2019t Take That Away From Me",
-      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 230493,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "They Can\u2019t Take That Away From Me",
+      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -659,22 +659,18 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Amarcord (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
+        "name": "Allied (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
       },
       "artists": [
         {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        },
-        {
-          "name": "Carlo Savina",
-          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
         }
       ],
-      "duration_ms": 127786,
-      "name": "Amarcord",
-      "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
+      "duration_ms": 249938,
+      "name": "Sing Sing Sing (From \"Allied\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5mafZQ6qbYrzvU90vFUpNg"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -695,18 +691,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Allied (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
+        "name": "Amarcord (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
       },
       "artists": [
         {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Carlo Savina",
+          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
         }
       ],
-      "duration_ms": 249938,
-      "name": "Sing Sing Sing (From \"Allied\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5mafZQ6qbYrzvU90vFUpNg"
+      "duration_ms": 127786,
+      "name": "Amarcord",
+      "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 181504,
-      "name": "J'ai Deux Amours - from \"Emily in Paris Season 3\" Soundtrack",
-      "url": "https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "The Very Best Of Louis Armstrong",
         "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 349373,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 181504,
+      "name": "J'ai Deux Amours - from \"Emily in Paris Season 3\" Soundtrack",
+      "url": "https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
+      },
+      "artists": [
+        {
+          "name": "Piero Piccioni",
+          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Amore mio aiutami - Version 6",
+      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 269146,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
-      },
-      "artists": [
-        {
-          "name": "Piero Piccioni",
-          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Amore mio aiutami - Version 6",
-      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Blues / La Dolce Vita Dei Nobili",
-      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Rounders (Music From The Miramax Motion Picture)",
         "url": "https://open.spotify.com/album/4m5HdYzqg4BMsdijJ8azjt"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 170560,
       "name": "Brass Brazilians",
       "url": "https://open.spotify.com/track/75Dg910bcWUB6ZimH4OrDn"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Blues / La Dolce Vita Dei Nobili",
+      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
     },
     {
       "added_at": "2025-12-11 09:06:36",

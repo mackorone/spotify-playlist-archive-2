@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-773 songs - 1 day 13 hr 36 min
+775 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Cê Não Guenta Não \- Ao Vivo](https://open.spotify.com/track/078rPsdYBWdkMVDSTKDoOM) | [Jonh Reis](https://open.spotify.com/artist/36VUbFPwPLUMn5DhQbjtlg) | [Cê Não Guenta Não \(Ao Vivo\)](https://open.spotify.com/album/6GuchujYZooWlrjRkCDVjP) | 2:39 | 2023-12-30 |  |
 | [Cê Precisava Saber](https://open.spotify.com/track/0Ylu5E79fcH4xgVf2xDzpm) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Eu e Você](https://open.spotify.com/album/7h6CWCea9P6SLDkL9dhdiP) | 2:30 | 2023-12-30 |  |
 | [Cê Terminaria](https://open.spotify.com/track/4xSCcAFJTiQGOvgp8tj6PJ) | [Leandro Kato](https://open.spotify.com/artist/2Cse5DmD2EpqYRlVin7qjo) | [Sete Vidas \- Ep2](https://open.spotify.com/album/0sNlGU9kobVurV92MWOmcu) | 2:42 | 2025-05-31 |  |
-| [Cê Tá Mal Demais \- Ao Vivo](https://open.spotify.com/track/5F42bLRKaxC4CB8l9eT4V1) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Cê Tá Mal Demais \(Ao Vivo\)](https://open.spotify.com/album/5fFgBhSUivqQWGGY4U3tAs) | 2:35 | 2023-12-30 |  |
+| [Cê Tá Mal Demais](https://open.spotify.com/track/42EQQZJisHsi56EV3rHvDI) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Cê Tá Mal Demais](https://open.spotify.com/album/3Dwuey1WChlas8eLlmGIwJ) | 2:35 | 2026-10-19 |  |
+| [Cê Tá Mal Demais \- Ao Vivo](https://open.spotify.com/track/5F42bLRKaxC4CB8l9eT4V1) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Cê Tá Mal Demais \(Ao Vivo\)](https://open.spotify.com/album/5fFgBhSUivqQWGGY4U3tAs) | 2:35 | 2023-12-30 | 2026-10-20 |
 | [Cê Tá Preparada \- Ao Vivo](https://open.spotify.com/track/7fzgTaVhUxmEzjtcd9NdWo) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Na Dose Certa \(Ao Vivo\)](https://open.spotify.com/album/6PSKHhTii6TNo1Hew4xGP1) | 3:33 | 2023-12-30 |  |
 | [Cê Tá Preparada \- Ao Vivo Em Goiânia / 2021](https://open.spotify.com/track/6FzbyvG3pUejLEVbffCPp2) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cê Tá Preparada \(Ao Vivo Em Goiânia / 2021\)](https://open.spotify.com/album/3mi0lTOmDxn6LUumqvHrB9) | 3:31 | 2024-01-20 | 2024-02-02 |
 | [Da Mesma Raça](https://open.spotify.com/track/1zO4vET34Jg4UZPsDVJCT2) | [João Vittor](https://open.spotify.com/artist/3CX8Tta4iXgr70XRvy7l2Q) | [Da Mesma Raça](https://open.spotify.com/album/4fnU0xKxgpv7VxofYbFbGy) | 2:35 | 2023-12-30 |  |
@@ -714,7 +715,8 @@
 | [Tá Ruim Mas Tá Bom](https://open.spotify.com/track/0HMHpMWeiLXSrQZlIulq4p) | [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy) | [Tá Ruim Mas Tá Bom](https://open.spotify.com/album/3EYEtudFP3vsiItVwgUe6v) | 2:43 | 2023-12-30 |  |
 | [Tá Tudo Bem Comigo](https://open.spotify.com/track/5mGgqzYerJKtZ9szpb2Sby) | [Hiaguinho](https://open.spotify.com/artist/7jwYAgZz8QtoGDFm5MbWqx) | [Renascimento](https://open.spotify.com/album/0htKvhGQUzJvUUL2HB8vQ6) | 2:55 | 2025-05-31 |  |
 | [Tá Vendo Essa Pinga](https://open.spotify.com/track/0CAEaCBBdpjaeVyhAJNfI0) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Tá Vendo Essa Pinga](https://open.spotify.com/album/0v6ro5dYfHD7jNyrBsfdVy) | 2:26 | 2024-03-26 | 2024-04-07 |
-| [Tá Vendo Essa Pinga](https://open.spotify.com/track/2103LfGa2kSw6l80rgF8ZM) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Tá Vendo Essa Pinga](https://open.spotify.com/album/39FFUYxh5ATT0cIJ34Lp1D) | 2:26 | 2024-04-06 |  |
+| [Tá Vendo Essa Pinga](https://open.spotify.com/track/2103LfGa2kSw6l80rgF8ZM) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Tá Vendo Essa Pinga](https://open.spotify.com/album/39FFUYxh5ATT0cIJ34Lp1D) | 2:26 | 2024-04-06 | 2026-10-20 |
+| [Tá Vendo Essa Pinga](https://open.spotify.com/track/3YG1VYhk3UkvTFa0hLGhRU) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Tá Vendo Essa Pinga](https://open.spotify.com/album/2p0ezHLKgAdkJmDchXFjWO) | 2:26 | 2026-10-19 |  |
 | [Tô Indo \- Ao Vivo](https://open.spotify.com/track/136EenxOiLnu39WBli1oDk) | [Gabriel Marcolan](https://open.spotify.com/artist/3rXgG27tCdNxmLyE2S2oyP) | [Ao Vivo Em Sorriso \- MT](https://open.spotify.com/album/2YdOvw33dMdAhs2ExZJ3Nb) | 3:02 | 2023-12-30 | 2025-06-28 |
 | [Tô Lascado \- Ao Vivo](https://open.spotify.com/track/24Hpdkgwx4oAXsGijJmPeo) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:34 | 2023-12-30 | 2025-06-28 |
 | [Tô Pronto pra Falar Te Amo](https://open.spotify.com/track/3cyYa1bzfbFM7DWhFBWOlq) | [Fabrício & Henrique](https://open.spotify.com/artist/37KhHt9AiI1rVk6eydGafz) | [Tô Pronto pra Falar Te Amo](https://open.spotify.com/album/5oVKRfONxZH2S64V5zEqFV) | 3:04 | 2023-12-30 |  |

@@ -8706,7 +8706,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 131076,
       "name": "Boss",
       "url": "https://open.spotify.com/track/0yWtSeNfVQaF8CCvRD2aZM"
@@ -13880,6 +13880,24 @@
       "duration_ms": 232057,
       "name": "Come il pane",
       "url": "https://open.spotify.com/track/4FugQ04nnhzEAVnwcsC0wG"
+    },
+    {
+      "album": {
+        "name": "Nord Sud Ovest Est",
+        "url": "https://open.spotify.com/album/2g1UKV8THjSEhJjmCqOoWd"
+      },
+      "artists": [
+        {
+          "name": "883",
+          "url": "https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257920,
+      "name": "Come mai",
+      "url": "https://open.spotify.com/track/0gkV0FyCdrJqwyrFW7NsEQ"
     },
     {
       "album": {
@@ -33138,7 +33156,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/2qf4KviAhT4cNGydUT28Qo"
@@ -51280,7 +51298,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 216098,
       "name": "Questa domenica",
       "url": "https://open.spotify.com/track/1VX2LLBpUPS2QJVou4WGz3"
@@ -55192,7 +55210,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 196434,
       "name": "Serenamente",
       "url": "https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA"
@@ -56236,7 +56254,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 121943,
       "name": "Sipario feat. Promessa",
       "url": "https://open.spotify.com/track/6EyaUvb5tCmEZlaN1AFt62"

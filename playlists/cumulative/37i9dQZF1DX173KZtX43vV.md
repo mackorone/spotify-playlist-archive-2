@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Snoh Aalegra
 
-1,484 songs - 3 day 0 hr 15 min
+1,485 songs - 3 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Better](https://open.spotify.com/track/0gC4LKvKNxHTcpzlli1pfo) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:40 | 2026-07-10 | 2026-07-24 |
 | [Better Days](https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Better Days](https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9) | 3:10 | 2026-03-20 | 2026-04-03 |
 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-21 | 2025-12-12 |
+| [Big Drop \(feat\. Zaylevelten\)](https://open.spotify.com/track/7mB83VRKTOo8d9YvF8Adpx) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [K.O.T.B \- The Bomberman Chronicles](https://open.spotify.com/album/0RMuFV5eRer749Ww20OP7w) | 2:20 | 2026-10-15 |  |
 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 | 2026-08-27 | 2026-09-11 |
 | [Big Win](https://open.spotify.com/track/0lte0G79vS00wccvOpM0T7) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Spare Room](https://open.spotify.com/album/558KTBOX6MzfsVDkxSoAU5) | 2:26 | 2025-11-14 | 2025-11-28 |
 | [bigots & cunts](https://open.spotify.com/track/0RwllU4uQcE3UQKHVZ7VHz) | [@WAR](https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU) | [bigots & cunts](https://open.spotify.com/album/4xe1tC1L0GAgXmupt9K910) | 1:51 | 2026-10-01 | 2026-10-16 |
@@ -951,7 +952,7 @@
 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 | 2026-04-10 | 2026-04-25 |
 | [One Thousand Roses](https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [MMM](https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz) | 2:37 | 2026-08-27 | 2026-09-11 |
 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 | 2026-05-28 | 2026-06-12 |
-| [ONLY YOURS](https://open.spotify.com/track/6Kyea5bFUwQZaeHPzOoi5C) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [CRY.DANCE.LOVE](https://open.spotify.com/album/5MK5MnKsfWf8Kab2H85rq8) | 3:04 | 2026-10-15 |  |
+| [ONLY YOURS](https://open.spotify.com/track/6Kyea5bFUwQZaeHPzOoi5C) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [CRY\. DANCE\. LOVE.](https://open.spotify.com/album/5MK5MnKsfWf8Kab2H85rq8) | 3:04 | 2026-10-15 |  |
 | [Only Yours For The Moment](https://open.spotify.com/track/0ehykySALxYm3XYmN43ysj) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Only Yours For The Moment](https://open.spotify.com/album/2fT2MaN9lZJrtJ6KLfOtqL) | 2:35 | 2026-10-15 |  |
 | [Optical Illusion](https://open.spotify.com/track/00FwCADLSTN9YjORWPjaTL) | [Snupe](https://open.spotify.com/artist/7dwjcnTfYCc91Q94giIK2h) | [Optical Illusion](https://open.spotify.com/album/3wlFtj7eSwWKu5ddjF575x) | 2:24 | 2026-09-17 | 2026-09-25 |
 | [options](https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [options](https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy) | 3:32 | 2026-10-01 | 2026-10-16 |

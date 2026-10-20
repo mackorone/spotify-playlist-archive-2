@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: GALEDGE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,050 likes - 49 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,053 likes - 49 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 48 | [めいめいめいめい！ \(藤宮めいソロ曲\)](https://open.spotify.com/track/5aFMDS4z1MVGtBplqtIbL7) | [Appare!](https://open.spotify.com/artist/3avXpwvPXKpP2AoUvd9pEe) | [めいめいめいめい！ \(藤宮めいソロ曲\)](https://open.spotify.com/album/7b8EXiYOwtmYxFRh6pJFAG) | 3:03 |
 | 49 | [光](https://open.spotify.com/track/3JksytMCa4uxhAfVDwZJap) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx), [Naoki Itai](https://open.spotify.com/artist/0f5ITr5Am2ut0QFz0qK1dg) | [光](https://open.spotify.com/album/0pI21feLUVhNTO82217q04) | 10:30 |
 
-Snapshot ID: `AAAAAF55qYESBnyZ7WpFh/AxVEIq7ddw`
+Snapshot ID: `AAAAAPz/zBt+AMobzCMmw2wp5ORNuYP+`

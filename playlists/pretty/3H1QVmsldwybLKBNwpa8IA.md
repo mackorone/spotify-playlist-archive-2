@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,327 likes - 153 songs - 8 hr 12 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,325 likes - 153 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 2 | [Last Christmas](https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack](https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s) | 4:24 |
 | 3 | [I Met an Angel \(on Christmas Day\)](https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:19 |
 | 4 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6oziGeTRE66xhvwUBNxWy5) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3FZoAjWQNUMJy3DmbV9xX8) | 2:45 |
-| 5 | [My Only Wish \(This Year\)](https://open.spotify.com/track/1Rc15RYGBIi10GrL0Zrfob) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:15 |
-| 6 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 |
-| 7 | [Where Are You Christmas](https://open.spotify.com/track/21LuZH2noPmBhsvVrs6g9u) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where Are You Christmas](https://open.spotify.com/album/11YQP0uBt7yXNruf4F5ELp) | 3:05 |
+| 5 | [Where Are You Christmas](https://open.spotify.com/track/21LuZH2noPmBhsvVrs6g9u) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where Are You Christmas](https://open.spotify.com/album/11YQP0uBt7yXNruf4F5ELp) | 3:05 |
+| 6 | [My Only Wish \(This Year\)](https://open.spotify.com/track/1Rc15RYGBIi10GrL0Zrfob) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:15 |
+| 7 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 |
 | 8 | [What Christmas Means To Me](https://open.spotify.com/track/1ZuL07UkaLYf96d6GpWJQu) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [A Tyler Shaw Christmas](https://open.spotify.com/album/54t92A7UnB3Y7ht3OYT5OL) | 2:48 |
 | 9 | [A Merry Black Christmas](https://open.spotify.com/track/6Q4EmIGs7YyxvYf8h4eb9Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Merry Black Christmas](https://open.spotify.com/album/0oRWKHzcbEhDIzCsquUPzl) | 3:03 |
 | 10 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:32 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 152 | [Santa Slide](https://open.spotify.com/track/0FOBjG6E1MUNmdnBbVsPNM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Santa Slide](https://open.spotify.com/album/2cWjMJQ1AnWc6ofqTGYHCG) | 4:04 |
 | 153 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 |
 
-Snapshot ID: `AAAFMEE3Movmx5ZMYzV10XLY99wHLzNV`
+Snapshot ID: `AAAFMuO4rmTvCDAc5B1wQg2V0AfqilsU`

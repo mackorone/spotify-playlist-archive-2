@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Mita Gami
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,046 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,074 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Burnin’](https://open.spotify.com/track/5u7x59PqCM2jqQt6iDreY8) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh) | [Burnin’](https://open.spotify.com/album/346v48psajNjK5sLdY78de) | 4:03 |
 | 100 | [Monologue](https://open.spotify.com/track/0VW7oyXCCUKjzc0cRXB64o) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Monologue EP](https://open.spotify.com/album/1ZMbGVDdGBLlEzDbddiU5G) | 3:36 |
 
-Snapshot ID: `AAAAAH+Mjx4HyXbDJrxSoGbJyDhhKeid`
+Snapshot ID: `AAAAAM3afJ37HAlyaHqdhP8HqmXXAcy4`

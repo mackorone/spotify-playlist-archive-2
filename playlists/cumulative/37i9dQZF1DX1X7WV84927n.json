@@ -5212,7 +5212,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 206496,
       "name": "Child's Play",
       "url": "https://open.spotify.com/track/4STb9qQzJLKGzDJq5YVINx"
@@ -33738,6 +33738,24 @@
       "duration_ms": 215275,
       "name": "Usurper",
       "url": "https://open.spotify.com/track/4KeKMDxuBO6hlwGIJtRpxS"
+    },
+    {
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/6xD6swpzu91s2PiOgqcFdl"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204999,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/5Qwzfy1pw5NRObvDb4x7Zl"
     },
     {
       "album": {

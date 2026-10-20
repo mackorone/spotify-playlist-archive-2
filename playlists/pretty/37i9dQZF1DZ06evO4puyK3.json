@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167123,
+  "num_followers": 167120,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAACIx+x7DyWZllFP01kdgZoF",
+  "snapshot_id": "atQMAAAAAABZoH5lGrTcNAEK+7f65ZOx",
   "tracks": [
     {
       "added_at": null,
@@ -967,26 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSAICO",
-        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
+        "name": "Chama A Lexa",
+        "url": "https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S"
       },
       "artists": [
         {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
         },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Murilo e LT",
-          "url": "https://open.spotify.com/artist/4ArCQN20tAPY2ApGtOHL9z"
         }
       ],
-      "duration_ms": 205750,
-      "name": "Chama Amor",
-      "url": "https://open.spotify.com/track/4g515j0CON9I9Dla4uYSXk"
+      "duration_ms": 168138,
+      "name": "Provocar",
+      "url": "https://open.spotify.com/track/00op33CP1mD3I7U1NGfzaZ"
     }
   ],
   "unique_name": "This Is Gloria Groove",

@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Pilani Bubu",
-  "num_followers": 14788,
+  "num_followers": 14791,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANfKZAuG3tRQbvy/pPa1ohPyWCMr",
+  "snapshot_id": "AAAAADCRnt4w066M7N6kjLFrbRLN4mnv",
   "tracks": [
     {
       "added_at": "2026-10-01 22:02:06",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Indlela",
-        "url": "https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Indlela",
-      "url": "https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "Reawakening",
         "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 449112,
       "name": "A Fallist's Prayer",
       "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Indlela",
+        "url": "https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Indlela",
+      "url": "https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -691,30 +691,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx"
-      },
-      "artists": [
-        {
-          "name": "Modise Sekgothe",
-          "url": "https://open.spotify.com/artist/19xYGHhFoNER9GR8sgUpo4"
-        },
-        {
-          "name": "Siya Makuzeni",
-          "url": "https://open.spotify.com/artist/6v9uhvfn5BnIsBCKf4Mq8k"
-        },
-        {
-          "name": "Shane Cooper",
-          "url": "https://open.spotify.com/artist/49JnjDWq7kySXbzplQsnhN"
-        }
-      ],
-      "duration_ms": 310961,
-      "name": "One",
-      "url": "https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "The Crossover II",
         "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 337500,
       "name": "Ngoma",
       "url": "https://open.spotify.com/track/21HJycogNkwu5A3oaNY1e2"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx"
+      },
+      "artists": [
+        {
+          "name": "Modise Sekgothe",
+          "url": "https://open.spotify.com/artist/19xYGHhFoNER9GR8sgUpo4"
+        },
+        {
+          "name": "Siya Makuzeni",
+          "url": "https://open.spotify.com/artist/6v9uhvfn5BnIsBCKf4Mq8k"
+        },
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/49JnjDWq7kySXbzplQsnhN"
+        }
+      ],
+      "duration_ms": 310961,
+      "name": "One",
+      "url": "https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Modeh Ani",
-        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
-      },
-      "artists": [
-        {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
-        }
-      ],
-      "duration_ms": 239107,
-      "name": "Modeh Ani",
-      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
@@ -1023,26 +1007,6 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
-      },
-      "artists": [
-        {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -1071,6 +1035,50 @@
       "duration_ms": 371396,
       "name": "Homecoming (Part 1) - Revisited",
       "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Modeh Ani",
+        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "duration_ms": 239107,
+      "name": "Modeh Ani",
+      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
+        "url": "https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Soweto Central Chorus of the Salvation Army",
+          "url": "https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg"
+        },
+        {
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 471952,
+      "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
+      "url": "https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G"
     }
   ],
   "unique_name": "Jazz NEXT",

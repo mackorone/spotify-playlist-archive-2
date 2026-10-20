@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51847,
+  "num_followers": 51861,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAAAjPOvGXRJzQdesVrKVynvY",
+  "snapshot_id": "atQMAAAAAABBXOZKAjJP5w64s6ul0t06",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
       },
       "artists": [
         {
@@ -596,21 +596,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
         },
         {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        },
-        {
-          "name": "Stefy Espinosa",
-          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Si T\u00fa Est\u00e1s Conmigo - En Vivo",
-      "url": "https://open.spotify.com/track/5RJ22zADrNKHYZjFB4718o"
+      "duration_ms": 280893,
+      "name": "Eres Todo Para Mi (feat. Alex Campos)",
+      "url": "https://open.spotify.com/track/5Tzpfe2cW7FTrPZBCV0gIj"
     },
     {
       "added_at": null,
@@ -639,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
       },
       "artists": [
         {
@@ -648,17 +644,21 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Stefy Espinosa",
+          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
         }
       ],
-      "duration_ms": 280893,
-      "name": "Eres Todo Para Mi (feat. Alex Campos)",
-      "url": "https://open.spotify.com/track/5Tzpfe2cW7FTrPZBCV0gIj"
+      "duration_ms": 245760,
+      "name": "Si T\u00fa Est\u00e1s Conmigo - En Vivo",
+      "url": "https://open.spotify.com/track/5RJ22zADrNKHYZjFB4718o"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: SKIY\n",
-  "num_followers": 758326,
+  "num_followers": 758357,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ3nm0JZAaOcJ7SYW4NJ/NNDGes5",
+  "snapshot_id": "AAAAAKD11G6sMpg2thCMmy1h5u7XlpMx",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:15",
@@ -21,7 +21,7 @@
         },
         {
           "name": "Psylo",
-          "url": "https://open.spotify.com/artist/7abT5qg6Z8yB9QN23ktZSK"
+          "url": "https://open.spotify.com/artist/4JiTkj3zW7jmlOOZms0iTI"
         }
       ],
       "duration_ms": 157846,
@@ -400,7 +400,7 @@
           "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
         }
       ],
-      "duration_ms": 268552,
+      "duration_ms": 193194,
       "name": "Woop Woop",
       "url": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc"
     },
@@ -438,6 +438,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,
@@ -567,26 +571,6 @@
       "duration_ms": 179047,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/3D52NJnWDmkRWJBiXMwAA3"
-    },
-    {
-      "added_at": "2026-10-15 22:01:15",
-      "album": {
-        "name": "Live This Way",
-        "url": "https://open.spotify.com/album/78HTWLzkWLRaT9naREs9Ug"
-      },
-      "artists": [
-        {
-          "name": "Chi Thanh",
-          "url": "https://open.spotify.com/artist/647DdP6ZSOio0fhl4l1mbM"
-        },
-        {
-          "name": "Halli Hallo Love",
-          "url": "https://open.spotify.com/artist/3b6DVLGDmnxNszfEGpxFnX"
-        }
-      ],
-      "duration_ms": 339900,
-      "name": "Live This Way",
-      "url": "https://open.spotify.com/track/1SbOAK59HiLyp0edLFQZVS"
     },
     {
       "added_at": "2026-10-15 22:01:15",

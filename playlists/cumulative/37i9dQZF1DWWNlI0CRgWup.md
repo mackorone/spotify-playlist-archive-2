@@ -4,7 +4,7 @@
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
 
-366 songs - 18 hr 22 min
+367 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Boy](https://open.spotify.com/track/6aiO1XYF4px8guDCAYgaZt) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Boy](https://open.spotify.com/album/22vAa6RGm52KqtfRjLeEyd) | 2:18 | 2026-09-17 |  |
 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 | 2026-10-01 |  |
 | [BROSKI](https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [BROSKI](https://open.spotify.com/album/21NuNN3KNRoe87rAZzy9du) | 2:17 | 2026-09-24 | 2026-10-16 |
+| [BUENA ONDA](https://open.spotify.com/track/1bg7IHZzSoBXQyPStO6i3X) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [BUENA ONDA](https://open.spotify.com/album/0l2Rjrl8uem6Dm5J9BT8K6) | 3:16 | 2026-10-19 |  |
 | [Bécane](https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 3:03 | 2024-01-18 | 2025-06-20 |
 | [Bécane](https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane](https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7) | 3:06 | 2023-10-04 | 2023-10-14 |
 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 | 2022-06-17 | 2023-01-25 |

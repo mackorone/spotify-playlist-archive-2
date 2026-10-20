@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Hump Back
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,525 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,534 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [海鳴](https://open.spotify.com/track/02XKcBFZtzpiBA1KDrB0Gk) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [海鳴](https://open.spotify.com/album/0oCVRnlQMNXlUCvEs69Cht) | 3:03 |
 | 100 | [おっちょこブラザーズ](https://open.spotify.com/track/38k1ZmsCCXVsqFzYOXWa2P) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [おっちょこブラザーズ](https://open.spotify.com/album/3OVLiB5hkBozIzclkJmjQP) | 2:19 |
 
-Snapshot ID: `AAAAAJWZDvSHoI3Fml7yZEDDjqfFQ70U`
+Snapshot ID: `AAAAAOTwUVJKQI2tLkPVYgCozlOjMJtl`

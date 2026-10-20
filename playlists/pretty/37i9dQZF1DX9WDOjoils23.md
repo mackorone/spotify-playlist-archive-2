@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,506 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,533 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Kaaga](https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA) | [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Gulshan Meer](https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP), [Sahil Meer](https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Kaaga](https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI) | 3:45 |
 | 50 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 |
 
-Snapshot ID: `AAAAAMmmq3LcepPe1ZCBt8BRZktZp7yA`
+Snapshot ID: `AAAAABV8kAJ/Y19TTDUfEqhDVa1uuWvP`

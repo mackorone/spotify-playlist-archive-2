@@ -17564,7 +17564,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 194700,
       "name": "I Love Lucy",
       "url": "https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey"
@@ -20588,6 +20588,28 @@
       "duration_ms": 287040,
       "name": "Ladders",
       "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+    },
+    {
+      "album": {
+        "name": "Nancy & Lee",
+        "url": "https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        },
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184645,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/1ixklIx8NoGTFPLePorib7"
     },
     {
       "album": {
@@ -34850,6 +34872,28 @@
       "duration_ms": 179967,
       "name": "Summer Child",
       "url": "https://open.spotify.com/track/6vOcpn5zG3tAgSs5TCYR1o"
+    },
+    {
+      "album": {
+        "name": "Nancy & Lee",
+        "url": "https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        },
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224278,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/2JKRZGp4LwT9GGbcXtx2sw"
     },
     {
       "album": {

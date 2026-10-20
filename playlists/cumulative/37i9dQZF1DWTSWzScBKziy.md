@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Jovonta Patton
 
-1,599 songs - 4 day 2 hr 59 min
+1,600 songs - 4 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,7 +1091,7 @@
 | [Proud](https://open.spotify.com/track/2oMYjV0wZsF1SqA8oObeLx) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0), [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Proud](https://open.spotify.com/album/6Oi4KYQZ1Hd9ptDVqyeJV5) | 3:27 | 2026-05-29 | 2026-07-04 |
 | [Proud Of You](https://open.spotify.com/track/3Mix9WqvN7SzDYdUUjZlAl) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Proud Of You](https://open.spotify.com/album/4qL229iIVTospYFzlKulta) | 3:51 | 2025-10-06 | 2025-11-16 |
 | [Prove A Thing](https://open.spotify.com/track/1eW1cvfacSaQyI6mCkEqQO) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Walk Through Fire: Songs From The Smoke](https://open.spotify.com/album/434BMwbP3CR0o877jfHBZG) | 3:18 | 2025-10-20 | 2025-11-16 |
-| [Psalm 24](https://open.spotify.com/track/0NXoo3i4Xlwi2RgUvcCftN) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Psalm 24](https://open.spotify.com/album/1f2b7ZW7VxYkoOBCDUXsYw) | 3:44 | 2026-10-02 |  |
+| [Psalm 24](https://open.spotify.com/track/0NXoo3i4Xlwi2RgUvcCftN) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Psalm 24](https://open.spotify.com/album/1f2b7ZW7VxYkoOBCDUXsYw) | 3:44 | 2026-10-02 | 2026-10-20 |
 | [PULL ME UP](https://open.spotify.com/track/0TmYU7qQd9Sza3GBGxTrND) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [PULL ME UP](https://open.spotify.com/album/3lCeJFhmgSkOSHqQy8Q8aH) | 2:36 | 2024-08-09 | 2024-10-12 |
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-29 | 2024-06-08 |
 | [Questions](https://open.spotify.com/track/3ncYFpndnPoTdoV8NUNBJz) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Questions](https://open.spotify.com/album/5pnwdDVdh7EABESXfKdZoQ) | 2:54 | 2026-04-04 | 2026-05-02 |
@@ -1562,6 +1562,7 @@
 | [worry 'bout a thing](https://open.spotify.com/track/1lVhiYhXVGVcOjtoqPIA4o) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [worry 'bout a thing](https://open.spotify.com/album/264qNPI3AakD1rnOMYJ0Rs) | 2:33 | 2026-05-01 | 2026-05-30 |
 | [Worthy Of It All \(Worthy\)](https://open.spotify.com/track/6aKCJLh5lrsIXjA5ndk6xJ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Worthy Of It All \(Worthy\)](https://open.spotify.com/album/2LTIMGeqlFibHPJhpwOti7) | 4:17 | 2026-07-17 | 2026-08-22 |
 | [YAHWEH](https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:05 | 2026-05-01 | 2026-05-30 |
+| [YEAH YEAH](https://open.spotify.com/track/4eN1ChRskzmDrd6oxlrWUv) | [RESEY](https://open.spotify.com/artist/6BRWEbW6MMdKL4xLIDQ304), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Jah Heer](https://open.spotify.com/artist/7t7c2HsZbePsrHjo7uZhmg) | [YEAH YEAH](https://open.spotify.com/album/5pKCqRogkGjiV0sY9XC6Sy) | 3:18 | 2026-10-02 |  |
 | [year one](https://open.spotify.com/track/3Pwy1XrUOQIdFOjMD1tKGO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [year one](https://open.spotify.com/album/0xGcCVjiepqMkXzjRnAjkg) | 2:18 | 2026-02-20 | 2026-04-05 |
 | [Year To The Day](https://open.spotify.com/track/1Q28zWOnqEop3oAUfl9cxo) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Year To The Day](https://open.spotify.com/album/5QSGUiGY6qAgDgBgIqcbrp) | 4:03 | 2025-10-06 | 2025-11-16 |
 | [Years and Years](https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Years and Years](https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm) | 4:00 | 2025-11-15 | 2026-02-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Blua\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,632 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,663 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Todo Es Magia](https://open.spotify.com/track/6dY6DSQzORiACueN2QPHdA) | [Agenda Ritual](https://open.spotify.com/artist/0vveG6WXYuE37Eln0SUbsG) | [Todo Es Magia](https://open.spotify.com/album/30KnoRWVub3L1eDgasBV8z) | 2:41 |
 | 50 | [sin ti](https://open.spotify.com/track/6KKoVWWdziiKn4gkRJmn0I) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [sin ti](https://open.spotify.com/album/6sqKNe5XkZs9QSoZIJRgEQ) | 3:19 |
 
-Snapshot ID: `AAAAAJOq6wFMAqK8B6DGdG6coSsNcziX`
+Snapshot ID: `AAAAADK+ntp+oIFc/5qNYmUygBaKv7Cl`

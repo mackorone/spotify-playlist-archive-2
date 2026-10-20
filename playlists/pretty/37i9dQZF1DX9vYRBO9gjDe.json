@@ -1,12 +1,12 @@
 {
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u670817\u65e5\u4ed8\u3002",
-  "num_followers": 327581,
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u670818\u65e5\u4ed8\u3002",
+  "num_followers": 327601,
   "original_name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHGP7BYo76nDjB3K7KllQD9TJgnT",
+  "snapshot_id": "AAAAAAXigfwkhTMxaWuzDSDkYUfvd06L",
   "tracks": [
     {
       "added_at": "2026-10-08 04:35:43",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/2S4IkDNGWarWgzI5W9fUtb"
     },
     {
+      "added_at": "2026-10-20 01:51:27",
+      "album": {
+        "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u6050\u7adc\u30ce\u30c3\u30b7\u30fc\u306e\u5927\u5192\u967a",
+        "url": "https://open.spotify.com/album/4KqNbhc7QjASUToxOaRlDo"
+      },
+      "artists": [
+        {
+          "name": "Dreaming",
+          "url": "https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r"
+        }
+      ],
+      "duration_ms": 274293,
+      "name": "\u30a2\u30f3\u30d1\u30f3\u30de\u30f3\u305f\u3044\u305d\u3046",
+      "url": "https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4"
+    },
+    {
       "added_at": "2026-10-08 04:35:43",
       "album": {
         "name": "WARAiNA",
@@ -155,22 +171,6 @@
       "duration_ms": 194066,
       "name": "Love Options",
       "url": "https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt"
-    },
-    {
-      "added_at": "2026-10-14 10:53:51",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2026-10-08 04:35:43",
@@ -465,20 +465,24 @@
       "url": "https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB"
     },
     {
-      "added_at": "2026-10-08 04:35:43",
+      "added_at": "2026-10-20 01:51:27",
       "album": {
-        "name": "\u6c88\u9999\u5b66",
-        "url": "https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ"
+        "name": "LA\uff65LA\uff65LA LOVE THANG",
+        "url": "https://open.spotify.com/album/3sqTfrcrrVXqmquAQ5LqGc"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "Toshinobu Kubota",
+          "url": "https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput"
+        },
+        {
+          "name": "Naomi Campbell",
+          "url": "https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK"
         }
       ],
-      "duration_ms": 254533,
-      "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
-      "url": "https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn"
+      "duration_ms": 286493,
+      "name": "LA\uff65LA\uff65LA LOVE SONG",
+      "url": "https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo"
     },
     {
       "added_at": "2026-10-08 04:35:43",
@@ -581,6 +585,22 @@
       "url": "https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF"
     },
     {
+      "added_at": "2026-10-20 01:51:27",
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
+    },
+    {
       "added_at": "2026-10-13 02:00:45",
       "album": {
         "name": "GO LIVE",
@@ -643,6 +663,26 @@
       "duration_ms": 236000,
       "name": "\u30ad\u30e5\u30fc\u30c8\u306a\u30ad\u30e5\u30fc\u305f\u3044",
       "url": "https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF"
+    },
+    {
+      "added_at": "2026-10-20 01:51:27",
+      "album": {
+        "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
+        "url": "https://open.spotify.com/album/51aVfAzEowNwmCUzsDhXvO"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 213595,
+      "name": "Wanna Buy A Plant + Cost Me",
+      "url": "https://open.spotify.com/track/0iNyG60qrVpVQ1YOceyI2Y"
     },
     {
       "added_at": "2026-10-08 04:35:43",

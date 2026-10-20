@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: HIGH SOCIETY, Qlas & Isabèl Usher, Saaff, 3robi & Lijpe, Zack Ink & Vic9 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,658 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,609 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 7 | [Team](https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo), [Bix](https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn) | [Team](https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f) | 2:28 |
 | 8 | [HAYEK](https://open.spotify.com/track/5nQznbUUyIkJCiIiEjwTME) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [HAYEK](https://open.spotify.com/album/4BaYBsy0FlFCZpRfU4GTHr) | 2:04 |
 | 9 | [Fijnproever](https://open.spotify.com/track/1IMec53wbo65roDYmCnbdX) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 1:43 |
-| 10 | [Zak Je Toon](https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Zak Je Toon](https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar) | 2:05 |
+| 10 | [Mama Sorry](https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85) | [Harun B](https://open.spotify.com/artist/4NHcKVmjob2Cb4Wtw7gJZF), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pierrii](https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU), [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [Mama Sorry](https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u) | 3:00 |
 | 11 | [HVB](https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [HVB](https://open.spotify.com/album/2J0nVKpUaEfK1HfH2mDST1) | 2:30 |
 | 12 | [Same Level](https://open.spotify.com/track/2zNIOeSUdIKepg20IPSLhg) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Same Level](https://open.spotify.com/album/1i3kJP3pOUXMAtPR5I32hq) | 3:12 |
-| 13 | [Pistache](https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Pistache](https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec) | 2:25 |
-| 14 | [COWBOYS](https://open.spotify.com/track/5piZIlzOLdnmK5clYlKlKj) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [COWBOYS](https://open.spotify.com/album/6RZOXsd1vRiorC8BDo3oMI) | 3:09 |
-| 15 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
-| 16 | [POTG](https://open.spotify.com/track/7uNK6GSEmyoIc2kkAZd1ls) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9), [Ertu](https://open.spotify.com/artist/7gJQoFazS3G5AiVwbOVVV5) | [POTG](https://open.spotify.com/album/3xNtSPaEUvQkn84ZQBTFXg) | 2:16 |
-| 17 | [CHOSSELGAATSLECHT / WIET VERDRIET](https://open.spotify.com/track/6dbtW6f2F1cqfE327CnzC2) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 4:16 |
-| 18 | [CC](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 2:00 |
-| 19 | [Google Vertalen](https://open.spotify.com/track/1SX1zcUoxN2LIZuxM2gJ1N) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy) | [Google Vertalen](https://open.spotify.com/album/15iwB2s4oFEYs2cyNLed4I) | 2:30 |
-| 20 | [Mama Sorry](https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85) | [Harun B](https://open.spotify.com/artist/4NHcKVmjob2Cb4Wtw7gJZF), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pierrii](https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU), [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [Mama Sorry](https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u) | 3:00 |
+| 13 | [Zak Je Toon](https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Zak Je Toon](https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar) | 2:05 |
+| 14 | [Pistache](https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Pistache](https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec) | 2:25 |
+| 15 | [COWBOYS](https://open.spotify.com/track/5piZIlzOLdnmK5clYlKlKj) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [COWBOYS](https://open.spotify.com/album/6RZOXsd1vRiorC8BDo3oMI) | 3:09 |
+| 16 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
+| 17 | [POTG](https://open.spotify.com/track/7uNK6GSEmyoIc2kkAZd1ls) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9), [Ertu](https://open.spotify.com/artist/7gJQoFazS3G5AiVwbOVVV5) | [POTG](https://open.spotify.com/album/3xNtSPaEUvQkn84ZQBTFXg) | 2:16 |
+| 18 | [CHOSSELGAATSLECHT / WIET VERDRIET](https://open.spotify.com/track/6dbtW6f2F1cqfE327CnzC2) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 4:16 |
+| 19 | [CC](https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Fijnproever](https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ) | 2:00 |
+| 20 | [Google Vertalen](https://open.spotify.com/track/1SX1zcUoxN2LIZuxM2gJ1N) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy) | [Google Vertalen](https://open.spotify.com/album/15iwB2s4oFEYs2cyNLed4I) | 2:30 |
 | 21 | [Handschoen](https://open.spotify.com/track/2nronHAna955wZyk3SuS7n) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Handschoen](https://open.spotify.com/album/5SFCedMDXmTcxkENcrl1iL) | 2:08 |
 | 22 | [NO HOOK](https://open.spotify.com/track/660bP3KjUElnQhthrF8d68) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [NO HOOK](https://open.spotify.com/album/7eda0M0da9xAnsvntA1jxb) | 2:15 |
 | 23 | [Grof Geschud](https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Grof Geschud](https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Prada](https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Prada](https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf) | 2:00 |
 | 60 | [Macho Man](https://open.spotify.com/track/6dw2b4HlQgeeAuLFMgCOt0) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Macho Man](https://open.spotify.com/album/6aJEpnLt09zGWlK7SMPsRi) | 1:54 |
 
-Snapshot ID: `AAAAAGPso+YYHiKLWt+WI3bHamx1A0Md`
+Snapshot ID: `AAAAAKqvaa+WpXcV+oIlTBZ7qJlJO7Ew`

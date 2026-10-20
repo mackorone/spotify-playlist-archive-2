@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,431 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,474 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Night and Day](https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa) | [April Varner](https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b) | [Night and Day](https://open.spotify.com/album/7EFN2ZSFgxtuvZy0Ntuk6s) | 5:02 |
 | 50 | [notte brava](https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m) | [Dario Jacque](https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm) | [SANG](https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH) | 2:31 |
 
-Snapshot ID: `AAAAAMy9tX89g6SJpmyseN9rSmoE5igh`
+Snapshot ID: `AAAAAG6G0oxAAqcxhsgxCC4ZBPZIA9uq`

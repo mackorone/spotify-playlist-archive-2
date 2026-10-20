@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,825 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,861 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [バリバリBuddy](https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [バリバリBuddy](https://open.spotify.com/album/3C3xh5nClBcyLQFJlyrWTK) | 3:39 |
 | 75 | [Aigayueni](https://open.spotify.com/track/6Myui5vYzIBsZvkYf1zeIc) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Aigayueni](https://open.spotify.com/album/1ldFuIpVaM6Gcd8jbpAPmw) | 3:26 |
 
-Snapshot ID: `AAAAAMCuqoLagt88o2jFizmhE/7E4Qru`
+Snapshot ID: `AAAAALs7EKJil/oSxrjcBasWUEZHtuu+`

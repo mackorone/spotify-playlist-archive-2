@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,177 likes - 99 songs - 5 hr 16 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,172 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Wild Hearts](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
+| 1 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Wild Hearts Series](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
 | 2 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 3 | [Hundred Thousand Sunsets](https://open.spotify.com/track/3gzdBCixNIYl2IQ1smJckR) | [Max Alan](https://open.spotify.com/artist/5iZ49r3ayCqsUesaetPDcr) | [Hundred Thousand Sunsets](https://open.spotify.com/album/0SCEYebMILGk6T8QWL3BgC) | 3:41 |
 | 4 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:33 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 94 | [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 |
 | 95 | [No Need For Leavin'](https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [No Need For Leavin'](https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6) | 3:35 |
 | 96 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
-| 97 | [I Hope He's You](https://open.spotify.com/track/2foLU6MBskZJ2xTjRnvahb) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Wild Hearts](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 3:01 |
+| 97 | [I Hope He's You](https://open.spotify.com/track/2foLU6MBskZJ2xTjRnvahb) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Wild Hearts Series](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 3:01 |
 | 98 | [Thread](https://open.spotify.com/track/2PivOCDBzpBQHA0BnIr3hf) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Thread](https://open.spotify.com/album/6w3UYcK3zc3dAq0vc89WTL) | 3:57 |
 | 99 | [In This Boat](https://open.spotify.com/track/3m5PhAEgviepFlctq4Qu4V) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Rock The Jukebox](https://open.spotify.com/album/5KeQS5bVHXEMULgEkCgVnC) | 2:54 |
 

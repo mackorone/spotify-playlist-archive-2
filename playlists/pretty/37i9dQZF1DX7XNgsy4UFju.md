@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,575 likes - 97 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,574 likes - 97 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 96 | [NUN THE WISER](https://open.spotify.com/track/6NRMVgjLrvrEN95WBVcdZR) | [Rikashay](https://open.spotify.com/artist/2aObh0nNx1BiZPgzO0BteF) | [NUN THE WISER](https://open.spotify.com/album/1UXcRRU3zckugYYpZn07Ab) | 3:15 |
 | 97 | [Shut Out](https://open.spotify.com/track/5zGTcOcS7yjmJlZi47XiGU) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Hush](https://open.spotify.com/album/0eNoVhh3gT8bc67J72EQLF) | 3:57 |
 
-Snapshot ID: `AAAAALniRUkiFAcFSIUs+u2dQYU1z5Fa`
+Snapshot ID: `AAAAAIscG0k/xNZwS2+4kyYZ0UZe2gDU`

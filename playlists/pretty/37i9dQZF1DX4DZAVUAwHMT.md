@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,376 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,295 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Bad Luck Hideaway](https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mr Charm](https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9) | 3:50 |
 | 80 | [haunted](https://open.spotify.com/track/70gWe4I2nBmb5zo0Wa5Uv0) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [we are unpeople](https://open.spotify.com/album/3wiGXFOSEkkNOtxBJJG56Q) | 4:15 |
 
-Snapshot ID: `AAAAAJseVoPY3R2q0k1h4BbOEdeM1AdH`
+Snapshot ID: `AAAAAKtmA8qwd5+VLxN9JTDZbicE8+ri`

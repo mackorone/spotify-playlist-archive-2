@@ -34165,6 +34165,24 @@
     },
     {
       "album": {
+        "name": "Vem Devagar",
+        "url": "https://open.spotify.com/album/3k9Ig4h12CUbKJam9g1lNv"
+      },
+      "artists": [
+        {
+          "name": "Afroface",
+          "url": "https://open.spotify.com/artist/25fRd5PbshUE9O0YcL15DD"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Vem Devagar",
+      "url": "https://open.spotify.com/track/25PC1qzzd7s5MMYWENpl5K"
+    },
+    {
+      "album": {
         "name": "Verano De Fuego",
         "url": "https://open.spotify.com/album/1dF1WvmU5OO8PPwrkv6FBL"
       },

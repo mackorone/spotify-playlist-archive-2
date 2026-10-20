@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,852 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,887 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I'm Feeling You](https://open.spotify.com/track/2ZPHgYiKcROxotVsU4sKwq) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [Blues In My DNA](https://open.spotify.com/album/6sbnHnKPNk1mtR6eK33A5j) | 4:37 |
 | 100 | [Serves Me Right To Suffer](https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Do The Rump!](https://open.spotify.com/album/5InV64uPrnaEVFjxxFlhrK) | 3:49 |
 
-Snapshot ID: `AAAAAKo58EyR0d4IJHlhPqSMUR+QZJej`
+Snapshot ID: `AAAAABeCff/DrSHYFtNWfLFhYFm6a9Mx`

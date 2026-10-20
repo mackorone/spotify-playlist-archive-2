@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: PEDRO SAMPAIO y Kenia Os
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,406 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,284 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [PLATO TIPICO](https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 2:54 |
 | 9 | [Oxe \- Ao Vivo](https://open.spotify.com/track/2qWx4bTe2Kq35IlO1w85Mn) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Fora do Padrão \(Ao Vivo\)](https://open.spotify.com/album/7pLNhpJuKYZUWuuy18v1JO) | 2:44 |
 | 10 | [Minha Herança](https://open.spotify.com/track/18s4aBaBI64S70hv3ghiDw) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça: Sentimento Louco \(Música da Série Original Amazon Prime\)](https://open.spotify.com/album/6gXIrQucEJrSjWxJZn61l0) | 3:41 |
-| 11 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
+| 11 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Campeón Gabacho](https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
 | 12 | [ÚLTIMAMENTE](https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [STAR \(Deluxe Version\)](https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn) | 2:57 |
 | 13 | [Suerte](https://open.spotify.com/track/17U8MnsTaCSrNXGKfmQiUC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Camastro al Fallo](https://open.spotify.com/album/4aGcv1O8NDS04LCXVugqmB) | 3:02 |
 | 14 | [¿Qué Tan Cerca Es Cerca?](https://open.spotify.com/track/3koTH4PYS8Pd8arnOg9sCr) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 3:17 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [Tapin](https://open.spotify.com/track/3mssXaNyjc2ANAKywGcare) | [Kidchen](https://open.spotify.com/artist/0rssDtHql43sHidf6XgMz8) | [Amalgama](https://open.spotify.com/album/5dUgQxv2SDI8lh66rFQbDg) | 2:10 |
 | 51 | [Fiesta de Té](https://open.spotify.com/track/2QFMXKfrfvVmV3GMB9zqoz) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9) | [Fiesta de Té](https://open.spotify.com/album/7qvPnDnadXxAqxfh6JJ4pX) | 3:59 |
 
-Snapshot ID: `AAAAAOAJTwijjt0ghFyDxQ55d6EAlPuH`
+Snapshot ID: `AAAAAO2NsChSbe5XsBcP4NrWX75FW4bM`

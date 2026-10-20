@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Angelina Mango in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,327 likes - 102 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,324 likes - 102 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 101 | [È asciuto 'o sole](https://open.spotify.com/track/4MjZvYctdbXIAXksyPzm7P) | [Madrid](https://open.spotify.com/artist/1NsjGgELroAZ4N5DzbMpa0) | [È asciuto 'o sole](https://open.spotify.com/album/6y3isAueice56DMpHWPBOI) | 2:14 |
 | 102 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 |
 
-Snapshot ID: `AAAAAFl0QdGHHwenWVDLdq55nq/uZmQB`
+Snapshot ID: `AAAAAK8qNGvKfe6qY0zW77+cK6NavFhD`

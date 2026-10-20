@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Fireboy DML,Blaqbonez, Solana, Gyakie, Cruel Santino, Sarkodie, Katseye and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,489 likes - 71 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,571 likes - 71 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 70 | [Fire](https://open.spotify.com/track/2QSfeiXYHfDnmzPtCv6zG8) | [Ceejay mark](https://open.spotify.com/artist/1PQYc1YpiZwl2t5E0tTook) | [Fire](https://open.spotify.com/album/3hQ7pdefIvPbDVsbSD5MCt) | 3:16 |
 | 71 | [GRANCULO](https://open.spotify.com/track/2A7oKQWLFkw2xs2XB3v76J) | [Loosie](https://open.spotify.com/artist/2rsRwKHrjkjemqh7ACu7AQ) | [Immoral Instructions Vol\. 1](https://open.spotify.com/album/1nSv0cA2kzf6KYOMISEXhW) | 2:33 |
 
-Snapshot ID: `AAAAAG5NEIcESlchAsypZ5qL+jEZdXaq`
+Snapshot ID: `AAAAANap0bU/2mH03y83dWPSnhiXQLOD`

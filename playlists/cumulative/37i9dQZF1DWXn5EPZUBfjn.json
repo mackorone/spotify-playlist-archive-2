@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163400,
+      "name": "Build a Bitch",
+      "url": "https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK"
+    },
+    {
+      "album": {
         "name": "Cheetah Print",
         "url": "https://open.spotify.com/album/1dY7RApxPwP2wvKSg5HYFM"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 184083,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/3Gc86rk4uOa6263vdxMxhT"

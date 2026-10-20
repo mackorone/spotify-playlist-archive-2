@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,116 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,124 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 29 | [Nem Pensar](https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [O Último Romântico](https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT) | 2:43 |
 | 30 | [Perigos&Macetes](https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Meio Feel](https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3) | [Muito Romântico](https://open.spotify.com/album/12huOOShCMRppercsnKCdS) | 2:28 |
 | 31 | [Duas Vezes](https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Duas Vezes](https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3) | 2:40 |
-| 32 | [Prisioneira de Mim](https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Relevuras](https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h) | 3:17 |
-| 33 | [Rude](https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W) | [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA), [Monrabeatz](https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Dublê](https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh) | 2:38 |
+| 32 | [Rude](https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W) | [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA), [Monrabeatz](https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Dublê](https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh) | 2:38 |
+| 33 | [Prisioneira de Mim](https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Relevuras](https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h) | 3:17 |
 | 34 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 |
 | 35 | [Defeito Meu](https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Caetanoprod](https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy) | [R&Belo](https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt) | 3:15 |
 | 36 | [off](https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [off](https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 75 | [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 |
 
-Snapshot ID: `AAAAAI6p3uUJGYnhD6dQt/ZXr6hU46Gv`
+Snapshot ID: `AAAAADU4B+5ciokdAt/8nfmvuWc7c5KH`

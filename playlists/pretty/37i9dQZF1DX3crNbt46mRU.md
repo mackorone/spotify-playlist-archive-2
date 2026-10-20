@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ski Aggu, Giant Rooks, Paula Hartmann, The Chainsmokers, Helene Fischer & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,950 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,949 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 |
 | 9 | [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 |
 | 10 | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/track/1C8bu0Kb6hhmPDh4cOkEoE) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/album/1wnAVskIhErBic6NEUW9TV) | 3:26 |
-| 11 | [Warum](https://open.spotify.com/track/1UbwOCk4hJpqQyCIkmovZi) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Warum](https://open.spotify.com/album/1diUR64PL66yh18l6fT7tw) | 3:03 |
+| 11 | [WARUM](https://open.spotify.com/track/1UbwOCk4hJpqQyCIkmovZi) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [WARUM](https://open.spotify.com/album/1diUR64PL66yh18l6fT7tw) | 3:03 |
 | 12 | [Perfect Ending](https://open.spotify.com/track/3XBBKxMeEQ5S80R0ra7Zi8) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [ENCORE](https://open.spotify.com/album/6NmkBreaWSHJlYAuWWDZsy) | 2:39 |
 | 13 | [LEGGENDA](https://open.spotify.com/track/5E67xter2YEAFW0PHzoarV) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE \- ATTO II](https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK) | 2:54 |
 | 14 | [600K](https://open.spotify.com/track/1Awm1OB4Sd2eOBfKpp2UhQ) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [APRÈS LA SAISIE](https://open.spotify.com/album/6OrWqWuu9UlS0DEiETSIPs) | 2:47 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [bands breiter](https://open.spotify.com/track/3uCsn5n3t8ZEw0uBK3oS42) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [bands breiter](https://open.spotify.com/album/5PgWcCrBneffntXJTwAvlW) | 2:12 |
 | 99 | [moment](https://open.spotify.com/track/0YhhX94niDtPpCnBTEQgYD) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [moment](https://open.spotify.com/album/5SxCTAnA8GJQvomm15TyEY) | 2:07 |
 
-Snapshot ID: `AAAAAGlQv1TMvYb1JSa8AMRLE8milPk4`
+Snapshot ID: `AAAAACNxUglulziTmha9au3oDjRbMPTw`

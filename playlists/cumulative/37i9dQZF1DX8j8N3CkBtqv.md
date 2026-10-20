@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akshath, Osho Jain, Aanchal Tyagi and other exciting artists.
 
-1,636 songs - 3 day 18 hr 11 min
+1,637 songs - 3 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 | 2024-10-25 | 2024-12-14 |
 | [Ab Main Kya Karun](https://open.spotify.com/track/4a8e7bDQwjKPVJcIn6RpOx) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Ab Main Kya Karun](https://open.spotify.com/album/2JNWOwxbfZF4sbXqVnODyp) | 3:46 | 2026-04-03 | 2026-07-04 |
 | [Ab Tak Na](https://open.spotify.com/track/5TwJJ9D2lWMPkrhQMh96bd) | [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8), [Ashish Pandit](https://open.spotify.com/artist/03veJpSIc7GAx0mPLcskjI) | [Ab Tak Na](https://open.spotify.com/album/4FBO6cvJVGrIHr9zHXsfhr) | 3:43 | 2023-07-14 | 2023-08-12 |
+| [Ab Toh Tu](https://open.spotify.com/track/4UgZwamyyUCv5Gzl4xliSf) | [Kushal Sood](https://open.spotify.com/artist/7udOdOmLuEFYoXpL732ShD), [ADil](https://open.spotify.com/artist/1oF1MGRIXXfi0Qcjdbn9RS), [Kushal \- ADil](https://open.spotify.com/artist/6QEHcOoXKnCunIaxkgYhpD), [Shreya Bajpai](https://open.spotify.com/artist/5KseHb3FbamXt1d0P5SS4N) | [Ab Toh Tu](https://open.spotify.com/album/2BvWYsL1fRSxl0br9ossUB) | 3:10 | 2026-10-16 |  |
 | [absent\-minded freak](https://open.spotify.com/track/2HG0beWmR0ZXuzxAZw8Zq6) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [absent\-minded freak](https://open.spotify.com/album/6sEg11bzLRFBo1quGNwKhS) | 2:36 | 2026-06-12 | 2026-09-05 |
 | [Achha Lagta Hai](https://open.spotify.com/track/6Fk9iNxw9ktkNncyb7PjwH) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Priyanshi Bansal](https://open.spotify.com/artist/3JvfRFna73N7YPwdMVW0cN) | [Ehsaas](https://open.spotify.com/album/0GgmwDtmhM5633rM5cvbsF) | 2:54 | 2025-10-10 | 2025-12-05 |
 | [Ada](https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Ada](https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2) | 3:50 | 2026-06-12 | 2026-09-05 |
@@ -941,7 +942,7 @@
 | [Manzoor](https://open.spotify.com/track/6KYddvilwptIsWtD2tLWCJ) | [CineLove](https://open.spotify.com/artist/6qiAdXcJqtFRdCR1LWq8wj), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Manzoor](https://open.spotify.com/album/5nnc00RBSRFtsAy2iTJuOk) | 4:42 | 2025-11-14 | 2025-11-22 |
 | [Marammat](https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF) | 3:16 | 2025-10-10 | 2025-11-28 |
 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 | 2025-11-14 | 2026-01-24 |
-| [Margot's Song](https://open.spotify.com/track/05xw7nOvQLxC1ROwIlwOO8) | [Bulli Bainbridge](https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ), [Ankit Dayal](https://open.spotify.com/artist/1LYqnlhjJsY9LwtjZ9FG4F) | [Margot's Song](https://open.spotify.com/album/0hbfl3oqslTsvfnNU0It8R) | 2:54 | 2026-09-18 |  |
+| [Margot's Song](https://open.spotify.com/track/05xw7nOvQLxC1ROwIlwOO8) | [Bulli Bainbridge](https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ), [Ankit Dayal](https://open.spotify.com/artist/1LYqnlhjJsY9LwtjZ9FG4F) | [Margot's Song](https://open.spotify.com/album/0hbfl3oqslTsvfnNU0It8R) | 2:54 | 2026-09-18 | 2026-10-20 |
 | [Marhaba](https://open.spotify.com/track/611RzhEYT8vSiLt24sKnm1) | [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd), [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ) | [Marhaba](https://open.spotify.com/album/4kCfwjaL8DhDfUwFn98FH0) | 3:45 | 2026-04-10 | 2026-07-04 |
 | [Marham](https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [Marham](https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa) | 2:50 | 2026-07-17 | 2026-09-26 |
 | [Marham](https://open.spotify.com/track/0mEW7o45RFQiz8H3dN9tXB) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Marham](https://open.spotify.com/album/6k1zkKFbiA2M9DEA0vdHsp) | 3:24 | 2023-04-14 | 2023-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > è una giornata 🌷 𝒷𝑒𝓁𝓁𝒾𝓈𝓈𝒾𝓂𝒶 🌷 se c'è Rareș in cover di Alta Rotazione
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,745 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,732 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 79 | [Tu cosa fai questa sera](https://open.spotify.com/track/3oyJa5AEBL1gS3ALTo0rWg) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Tu cosa fai questa sera](https://open.spotify.com/album/1NChOjk3hNwwCYgiGEbSPh) | 2:49 |
 | 80 | [ADRENALINA](https://open.spotify.com/track/2pULqfE2k1DHr24dtJwMRh) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:24 |
 
-Snapshot ID: `AAAAAPcVew3M5nNtPBP9PhbYL0k/fJ6w`
+Snapshot ID: `AAAAAOwx5TkTjHVhm5/sQXvNjdW1JXfb`

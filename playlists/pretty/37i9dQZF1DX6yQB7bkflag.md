@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,560 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,546 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [Cold In California \(2016 Demo\)](https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(10th Anniversary Edition\)](https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz) | 4:04 |
 | 100 | [Waste My Tears](https://open.spotify.com/track/42OehPSUvy7glthEAG0QOr) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Waste My Tears](https://open.spotify.com/album/0RIDUo6VfxAwdsLIT8j4bx) | 2:59 |
 
-Snapshot ID: `AAAAAFqCgpO027W9S5pXIV35qzJEktic`
+Snapshot ID: `AAAAAKwLV35nnGu+ykIM42m+EqbZ8Hdn`

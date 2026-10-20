@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: San Cisco
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,274 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,277 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO) | 4:11 |
 | 100 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 
-Snapshot ID: `AAAAANSziYFOQGdvGY9RMDx2Aq9ed3xh`
+Snapshot ID: `AAAAAHzneeWv7FT3cTmXm6BIa/eYESGo`

@@ -1,12 +1,12 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11630,
+  "num_followers": 11627,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAw8ZesKF8AJfQBtBWJG5e0Auwic",
+  "snapshot_id": "AAAAANzAdBGNfRFa697uWxUKo6ZBhAfH",
   "tracks": [
     {
       "added_at": "2026-04-09 22:12:46",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "KIEROWNIK",
-        "url": "https://open.spotify.com/album/3VefAkpACw9xRiopjJ4w9F"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        }
-      ],
-      "duration_ms": 172549,
-      "name": "KIEROWNIK",
-      "url": "https://open.spotify.com/track/1pl6TiCoKfRGkQ2Miyvy9f"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "3347",
         "url": "https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 123428,
       "name": "BEZ NIKOGO OBOK",
       "url": "https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "KIEROWNIK",
+        "url": "https://open.spotify.com/album/3VefAkpACw9xRiopjJ4w9F"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "duration_ms": 172549,
+      "name": "KIEROWNIK",
+      "url": "https://open.spotify.com/track/1pl6TiCoKfRGkQ2Miyvy9f"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Wszystkim Czym Chcesz",
-        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
-      },
-      "artists": [
-        {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
-        }
-      ],
-      "duration_ms": 74629,
-      "name": "Wszystkim Czym Chcesz",
-      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "CERTYFIKAT",
         "url": "https://open.spotify.com/album/4nNNcLFT17QWgHSSzQYwrb"
       },
@@ -879,22 +863,18 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
+        "name": "Wszystkim Czym Chcesz",
+        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
       },
       "artists": [
         {
-          "name": "Oliwka Brazil",
-          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
-        },
-        {
-          "name": "WIKTOR",
-          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
         }
       ],
-      "duration_ms": 139764,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/2off3DDPQSq4X3jSAg8pwK"
+      "duration_ms": 74629,
+      "name": "Wszystkim Czym Chcesz",
+      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -923,6 +903,26 @@
       "duration_ms": 142978,
       "name": "NIEBO",
       "url": "https://open.spotify.com/track/1jAwReLgaaNxczO49Utjnn"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/2off3DDPQSq4X3jSAg8pwK"
     },
     {
       "added_at": "2026-04-09 22:12:46",

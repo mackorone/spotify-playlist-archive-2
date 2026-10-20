@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Jind
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,305 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,325 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 48 | [4 You](https://open.spotify.com/track/1hDDl7BVn2GBvocFsquOE5) | [PAMMA](https://open.spotify.com/artist/3NVXC77TBtcTwCHDygf6WC), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [4 You](https://open.spotify.com/album/6c25c0fICiBnxMkemUjvOi) | 3:31 |
 | 49 | [Dedaar](https://open.spotify.com/track/5F901IXR3TVGwFbQWIbZ5O) | [Deep Harks](https://open.spotify.com/artist/4hWWwtnhNUuYLPzE82u0Ou), [Abhinsane](https://open.spotify.com/artist/2d54dleFuZwm97DuDuvCGq) | [Dedaar](https://open.spotify.com/album/79OlIJFOwCzew6PrHHyAjw) | 2:26 |
 
-Snapshot ID: `AAAAAOgs+AXKVf46SXKHwE1iN6TIGmYM`
+Snapshot ID: `AAAAAB8sZoDNHIu6Kr+TJg3whtopjlsc`

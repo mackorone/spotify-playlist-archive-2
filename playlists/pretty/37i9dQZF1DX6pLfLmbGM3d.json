@@ -1,13 +1,141 @@
 {
   "description": "Let's DIVE into IVE!",
-  "num_followers": 171725,
+  "num_followers": 171812,
   "original_name": "This Is IVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMiC8vdetU9c6EsKx4pLHdvdO9L8",
+  "snapshot_id": "AAAAAP89oaA5g3Kc0cE32wW5rFvaMtqZ",
   "tracks": [
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "This Is IVE Audio Liners",
+        "url": "https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 6200,
+      "name": "IVE",
+      "url": "https://open.spotify.com/track/1V2PXz88kzzbspnPSWU3lH"
+    },
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "This Is IVE Audio Liners",
+        "url": "https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 6601,
+      "name": "ANYUJIN",
+      "url": "https://open.spotify.com/track/5DrFGUNMlqkT8EsILEbecV"
+    },
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "This Is IVE Audio Liners",
+        "url": "https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 5074,
+      "name": "GAEUL",
+      "url": "https://open.spotify.com/track/0aPQJWekgEyHwC50rjd9Nc"
+    },
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "This Is IVE Audio Liners",
+        "url": "https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 2227,
+      "name": "REI",
+      "url": "https://open.spotify.com/track/5GM1XotGAl2qtqffQCJiJw"
+    },
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "This Is IVE Audio Liners",
+        "url": "https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 7186,
+      "name": "JANGWONYOUNG",
+      "url": "https://open.spotify.com/track/54VZHC3fezk5Cm5qnRZoqI"
+    },
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "This Is IVE Audio Liners",
+        "url": "https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 4027,
+      "name": "LIZ",
+      "url": "https://open.spotify.com/track/5xJeJ7eG9glqR9S8BppmQ7"
+    },
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "This Is IVE Audio Liners",
+        "url": "https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 4606,
+      "name": "LEESEO",
+      "url": "https://open.spotify.com/track/5lRGvxyZEdcGmctYDxisCd"
+    },
+    {
+      "added_at": "2026-10-19 09:00:27",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn"
+    },
     {
       "added_at": "2026-03-03 08:15:02",
       "album": {

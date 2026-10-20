@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 56 | [The Curtain Falls](https://open.spotify.com/track/5ygEf1YXtiS2OzOdnOeNjR) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of Just In Time](https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG) | [The Curtain Falls](https://open.spotify.com/album/28vxoiUBRMBcybqeNgrFeb) | 3:11 |
 | 57 | [Anthem](https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2) | [Nicholas Christopher](https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN), [CHESS 2025 Broadway Company](https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW) | [Anthem](https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9) | 3:14 |
 
-Snapshot ID: `AAAHNvlQx9FLjZzaLICQ5gYktZXgtGqq`
+Snapshot ID: `AAAHOD4Iy7czrqJDUuxQ2Q4mN2TJQ6jA`

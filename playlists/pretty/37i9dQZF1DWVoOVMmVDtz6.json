@@ -1,52 +1,28 @@
 {
   "description": "crisp air & fall foliage \ud83c\udf42\n",
-  "num_followers": 31195,
+  "num_followers": 31246,
   "original_name": "Upstate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF43cqloSspUIZzTMYY8wmSKjtHT",
+  "snapshot_id": "AAAAAOkJ//T1iqRG/KIUaATWGI9MTDKP",
   "tracks": [
     {
-      "added_at": "2026-09-18 04:51:50",
+      "added_at": "2026-10-19 20:15:12",
       "album": {
-        "name": "My Whole World",
-        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
         }
       ],
-      "duration_ms": 247694,
-      "name": "My Whole World",
-      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
-    },
-    {
-      "added_at": "2026-09-18 04:51:50",
-      "album": {
-        "name": "Small Town",
-        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        },
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
-        }
-      ],
-      "duration_ms": 169981,
-      "name": "Small Town",
-      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+      "duration_ms": 228844,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/38C5EMmXonGMK1M9z5PxeP"
     },
     {
       "added_at": "2026-09-18 04:51:50",
@@ -83,18 +59,18 @@
     {
       "added_at": "2026-09-18 04:51:50",
       "album": {
-        "name": "Officially",
-        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
       },
       "artists": [
         {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 205144,
-      "name": "Officially",
-      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
     },
     {
       "added_at": "2026-09-18 04:51:50",
@@ -111,6 +87,46 @@
       "duration_ms": 233552,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2026-09-18 04:51:50",
+      "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+    },
+    {
+      "added_at": "2026-09-18 04:51:50",
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
     },
     {
       "added_at": "2026-09-18 04:51:50",
@@ -197,6 +213,22 @@
       "url": "https://open.spotify.com/track/2NSzX80QxYzRt7bygoDRWf"
     },
     {
+      "added_at": "2026-10-19 20:15:12",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 344041,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/1adWjZU3hbIjzG1Ir58LuX"
+    },
+    {
       "added_at": "2026-09-18 04:51:50",
       "album": {
         "name": "Happiness Anytime: Part 2",
@@ -243,6 +275,22 @@
       "duration_ms": 172596,
       "name": "In My Gut",
       "url": "https://open.spotify.com/track/4uQa3cPFkMhrFDOUym4Zwh"
+    },
+    {
+      "added_at": "2026-10-19 20:15:12",
+      "album": {
+        "name": "I see them, I see me",
+        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Blue Around You",
+      "url": "https://open.spotify.com/track/28C3NFBhcBSLeqol3PaTkc"
     },
     {
       "added_at": "2026-09-18 04:51:50",

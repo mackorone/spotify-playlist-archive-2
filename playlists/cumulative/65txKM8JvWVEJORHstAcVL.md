@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(11/10/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(18/10/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-311 songs - 15 hr 39 min
+313 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-04-07 | 2025-12-19 |
 | [Casanova](https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Casanova](https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71) | 4:03 | 2024-01-28 | 2024-08-05 |
 | [Catalan Society](https://open.spotify.com/track/5dW8Wj31UNYm42B2XXXfY1) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Catalan Society](https://open.spotify.com/album/6fYFt0ILIOkoET1a8imbM9) | 2:11 | 2025-02-24 | 2025-07-15 |
+| [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2026-10-19 |  |
 | [COM ESTÀ EL PATI](https://open.spotify.com/track/3hHDpby70b29o2T9v26RNX) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [COM ESTÀ EL PATI](https://open.spotify.com/album/6KuUJeCMEAdYj8Lqaq4E2r) | 2:25 | 2024-04-07 | 2024-08-26 |
 | [COMENÇAR A VIURE](https://open.spotify.com/track/0Lh4c3QpwRP4a7DeybvhRN) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY) | [COMENÇAR A VIURE](https://open.spotify.com/album/2xsNgctYHbxR23g8LV7MDp) | 2:46 | 2024-05-12 | 2024-09-23 |
 | [CONEXIÓN PSÍQUICA](https://open.spotify.com/track/6rWIHEedAYET828v7QY22S) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:40 | 2026-10-06 |  |
@@ -73,7 +74,7 @@
 | [De Colors](https://open.spotify.com/track/7pLBDfxUk30SEWslLLnClU) | [BROU](https://open.spotify.com/artist/3mAMgnVKjkyb70yQhShAKb) | [De Colors](https://open.spotify.com/album/4UHRbrRsmElXLYysJ0cvkD) | 2:46 | 2026-09-28 |  |
 | [de festa en festa](https://open.spotify.com/track/537Ym6CnO9ZbFiDxin6oCN) | [guillembautista](https://open.spotify.com/artist/4aMz9dbnuj9prr7EkFnf2r) | [de festa en festa](https://open.spotify.com/album/2kV6WVi3PXkQgGOIBARMpF) | 3:13 | 2025-10-27 | 2026-04-01 |
 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 | 2025-01-12 | 2025-05-20 |
-| [Des de lluny](https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0) | [Ivan Herzog](https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y) | [Des de lluny](https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav) | 2:54 | 2026-06-08 |  |
+| [Des de lluny](https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0) | [Ivan Herzog](https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y) | [Des de lluny](https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav) | 2:54 | 2026-06-08 | 2026-10-20 |
 | [DIABLA](https://open.spotify.com/track/5lDRfQXgTA985GAb0ngSHi) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [DIABLA](https://open.spotify.com/album/2amTmaItOxGECKzmyCHHF0) | 2:42 | 2023-12-10 | 2024-07-01 |
 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2025-12-18 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-20 | 2025-09-30 |
@@ -150,6 +151,7 @@
 | [Jenifer](https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Jenifer](https://open.spotify.com/album/1YwlKixpiLKJB0cBcKDngh) | 2:56 | 2024-01-14 | 2024-04-01 |
 | [JUBILAR\-ME](https://open.spotify.com/track/5NnVYDzchKktmiDCGZgvtd) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 3:08 | 2024-06-23 | 2024-11-04 |
 | [L'amor no està de moda](https://open.spotify.com/track/6TaI6JIjyveCJHHXpBwn2U) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Segur que m'equivoco](https://open.spotify.com/album/4awdI4rXM5frg5VH6Zkk7k) | 2:13 | 2023-12-31 | 2024-05-06 |
+| [L'Última](https://open.spotify.com/track/6lZrVMsVjqouEtgWPsBQvp) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [L'Última](https://open.spotify.com/album/0GnFlgFGkU8AGthtcPIa1C) | 3:58 | 2026-10-19 |  |
 | [LA FAMÍLIA](https://open.spotify.com/track/2vGCxCWwbqrCUQVRy1NgXO) | [31 FAM](https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB) | [R31: Temporada 2](https://open.spotify.com/album/39CoxrFrNNcGbZoyHqwgiO) | 2:37 | 2026-06-22 | 2026-10-07 |
 | [La Faràndula](https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [La Faràndula](https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC) | 3:06 | 2024-06-09 | 2024-10-14 |
 | [LA FORTUNA](https://open.spotify.com/track/4t8rCI5xepgmjr8vRwK27z) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY) | [LA FORTUNA](https://open.spotify.com/album/2D8b1ZilPcObSL6TO318EC) | 3:21 | 2025-03-24 | 2025-09-16 |
@@ -294,7 +296,7 @@
 | [TOTA LA VIDA](https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [TOTA LA VIDA](https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ) | 2:52 | 2024-02-11 | 2024-04-29 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-25 | 2024-10-07 |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-02-25 | 2024-06-17 |
-| [Tutu Turú](https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Tutu Turú](https://open.spotify.com/album/25FmNHtKx0dSxHgDiEOyFT) | 3:02 | 2026-01-26 |  |
+| [Tutu Turú](https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Tutu Turú](https://open.spotify.com/album/25FmNHtKx0dSxHgDiEOyFT) | 3:02 | 2026-01-26 | 2026-10-20 |
 | [Tàndem](https://open.spotify.com/track/0dMUu2aq0c7H1Axfo41bHZ) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Tàndem](https://open.spotify.com/album/5c4zkjuL3XBfYs04f3czAU) | 2:19 | 2025-07-14 | 2025-10-28 |
 | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/track/7aFKLY3GPC5fQ7nnRTKMqo) | [Aina Reig](https://open.spotify.com/artist/2Ij9EybzTRRk2u4IZ5kwdM) | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/album/0xXbC43rDqh27wSjhCgrxN) | 3:00 | 2024-04-14 | 2024-05-06 |
 | [Un altre cop](https://open.spotify.com/track/1uVxeC2DdSbPFcwOdhYMfs) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Un altre cop](https://open.spotify.com/album/2DLZMrfogypgyVPn0OOAbJ) | 2:04 | 2026-08-10 | 2026-10-14 |

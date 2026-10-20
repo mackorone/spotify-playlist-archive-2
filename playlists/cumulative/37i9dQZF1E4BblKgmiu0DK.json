@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 149930,
       "name": "Chainsaw",
       "url": "https://open.spotify.com/track/6F2NwgHU7LfnreSrZIjm4f"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 218066,
       "name": "Choking on the Truth",
       "url": "https://open.spotify.com/track/4sxoIgMLCc48N5gxkWxlkG"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 172973,
       "name": "Comin' Around",
       "url": "https://open.spotify.com/track/35aCtgxXl9naFeiaWcgCDS"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -3312,6 +3312,24 @@
       "duration_ms": 211533,
       "name": "Don't Break Me Down",
       "url": "https://open.spotify.com/track/7g5tIBg1W2ySyFeds4Iurv"
+    },
+    {
+      "album": {
+        "name": "President Of My Own Fanclub",
+        "url": "https://open.spotify.com/album/6EvYskoi1lmuQP5G66mPKL"
+      },
+      "artists": [
+        {
+          "name": "Felin",
+          "url": "https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "Don't Call Me Darling",
+      "url": "https://open.spotify.com/track/7wywiJZm2fah1vX1UxrMzZ"
     },
     {
       "album": {
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 211140,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6XEmxbPWZN7JbZ230dPLkX"
@@ -3852,7 +3870,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 202133,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
@@ -4386,7 +4404,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 237080,
       "name": "Freaks Like Us",
       "url": "https://open.spotify.com/track/6FvEXczXsFq0P92Oe3prqs"
@@ -4512,7 +4530,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 205311,
       "name": "Get By",
       "url": "https://open.spotify.com/track/11dav0PkNPDaOLeIJYzIvZ"
@@ -4764,7 +4782,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 145454,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2sKjgZiOUGoiflC6eo1UPg"
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 177243,
       "name": "Howl at the Moon",
       "url": "https://open.spotify.com/track/2QMCDAyludxNL3zPuqiLF8"
@@ -8444,7 +8462,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -9910,7 +9928,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 160800,
       "name": "pencil skirt (40f)",
       "url": "https://open.spotify.com/track/704nPmPurS7Dnyna9qfZAl"
@@ -9946,7 +9964,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 205271,
       "name": "Phone Calls",
       "url": "https://open.spotify.com/track/7AkKvO5OaTLYoDJq1Z7kDq"
@@ -11150,7 +11168,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 166891,
       "name": "Short Piece",
       "url": "https://open.spotify.com/track/373esSRWQHKlQk08h75kzI"
@@ -11204,7 +11222,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
@@ -11629,6 +11647,24 @@
     },
     {
       "album": {
+        "name": "The Dollyrots",
+        "url": "https://open.spotify.com/album/2BBGdCOmI2y2VhDvAjVxSZ"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169181,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/6qw1pf05lD4EAUofujvtUZ"
+    },
+    {
+      "album": {
         "name": "Fractured Signal",
         "url": "https://open.spotify.com/album/1mv58iR2rrblNmCAvrmsyF"
       },
@@ -11694,7 +11730,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 190431,
       "name": "Steal My Heart",
       "url": "https://open.spotify.com/track/14l79xVgYsRxa6pL3Q9NTh"
@@ -12166,7 +12202,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 145544,
       "name": "Take Me Shake Me",
       "url": "https://open.spotify.com/track/5rdizXWkKOJwxtacJqUHT8"
@@ -12422,7 +12458,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -13132,7 +13168,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 252000,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/1WX9CgOPMWD74YP53yzxEK"
@@ -14090,7 +14126,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 224811,
       "name": "Your Ex-Girlfriend",
       "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"

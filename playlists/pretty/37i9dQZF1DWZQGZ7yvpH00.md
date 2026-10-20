@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ilusion Eterno a en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,941 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,888 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 69 | [⁠⁠NO MIRES ATRÁS](https://open.spotify.com/track/00FJssZnKKOfxLdbeGLdsW) | [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [CENIZA](https://open.spotify.com/album/1AjtnhnSYiPViX0d9XdGSS) | 2:56 |
 | 70 | [CORTA VENAS](https://open.spotify.com/track/46aQyr7ndPi9DMcsjztOzA) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 4:35 |
 
-Snapshot ID: `AAAAAMrGjmZ+UEJE17VEnaUvFWAJn1Xz`
+Snapshot ID: `AAAAAOt3qmls7Z+Y6VZ3N/bVwYZ733iZ`

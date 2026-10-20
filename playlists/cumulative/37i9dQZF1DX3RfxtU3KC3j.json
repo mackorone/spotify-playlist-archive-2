@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 164129,
       "name": "Bana Bi' Gece Daha Gel",
       "url": "https://open.spotify.com/track/0MuEOHbjlk1zuej4Bx1Baj"
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 194430,
       "name": "Bir Biz Kalal\u0131m",
       "url": "https://open.spotify.com/track/3J4YN0nsXO2NhxzGy09Zi9"
@@ -3724,6 +3724,24 @@
       "duration_ms": 278082,
       "name": "Bunca Y\u0131l - Dedub Sessions",
       "url": "https://open.spotify.com/track/0mSFwDtiAPPNwBOSFnI3G5"
+    },
+    {
+      "album": {
+        "name": "Buram Buram",
+        "url": "https://open.spotify.com/album/0jZqGOjeAHOMzPRjrLVMXg"
+      },
+      "artists": [
+        {
+          "name": "yirmi7",
+          "url": "https://open.spotify.com/artist/1vnJ4IgK3BOqkGQ38RqAvs"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234344,
+      "name": "Buram Buram",
+      "url": "https://open.spotify.com/track/1juPCSeP3Jgzbv6K7WA47R"
     },
     {
       "album": {
@@ -5322,7 +5340,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 223960,
       "name": "Eski",
       "url": "https://open.spotify.com/track/1WT89oaLVWaHeksodkHQHO"
@@ -6776,6 +6794,24 @@
       "duration_ms": 382746,
       "name": "G\u00fcne\u015fimden Ka\u00e7",
       "url": "https://open.spotify.com/track/19OVmrDn8B8a34iBzNAbiS"
+    },
+    {
+      "album": {
+        "name": "G\u00fcnler",
+        "url": "https://open.spotify.com/album/5g61QIWCQSaCEIvLLMpCv8"
+      },
+      "artists": [
+        {
+          "name": "Ba\u015f\u0131bozuk",
+          "url": "https://open.spotify.com/artist/1vgb4HviV1FonPaz3Wea4q"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329954,
+      "name": "G\u00fcnler",
+      "url": "https://open.spotify.com/track/2JwwvEFXqbsxiCmxe4Zwxj"
     },
     {
       "album": {
@@ -9547,6 +9583,24 @@
     },
     {
       "album": {
+        "name": "Kimim Ben",
+        "url": "https://open.spotify.com/album/5m9yRRnbd1ihHoSPcLBHXX"
+      },
+      "artists": [
+        {
+          "name": "K\u0131r\u0131k Pena",
+          "url": "https://open.spotify.com/artist/2UyRbOa0I0umGFcrQks3pv"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Kimim Ben",
+      "url": "https://open.spotify.com/track/0iMuykW7beBUfg6qRW0OXe"
+    },
+    {
+      "album": {
         "name": "Kimin U\u011fruna",
         "url": "https://open.spotify.com/album/17AuvDLSCHD2ula425jxcV"
       },
@@ -10021,6 +10075,24 @@
     },
     {
       "album": {
+        "name": "K\u00e2fir",
+        "url": "https://open.spotify.com/album/1uhdpxyshWzjuhTwfUN0xa"
+      },
+      "artists": [
+        {
+          "name": "Murder King",
+          "url": "https://open.spotify.com/artist/1ptBI7xKk38agbcEThoubT"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255981,
+      "name": "K\u00e2fir",
+      "url": "https://open.spotify.com/track/4cba6CDRLtLErOXXX0L4lL"
+    },
+    {
+      "album": {
         "name": "K\u00f6r Gece",
         "url": "https://open.spotify.com/album/1GNMlcC18XGFQJUr0gtbqD"
       },
@@ -10324,7 +10396,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 177000,
       "name": "Lades",
       "url": "https://open.spotify.com/track/7dIUXQnExH6kwtokYRsdCx"
@@ -10876,6 +10948,28 @@
       "duration_ms": 201423,
       "name": "Nap\u0131yorum Bilmiyorum - Akustik",
       "url": "https://open.spotify.com/track/4FQm5TQnWG1YK9pb2Qyym4"
+    },
+    {
+      "album": {
+        "name": "Nasip",
+        "url": "https://open.spotify.com/album/1Zdhgr0QBX6LBHJfujBJ2a"
+      },
+      "artists": [
+        {
+          "name": "Birol Namo\u011flu",
+          "url": "https://open.spotify.com/artist/3IzmGNYeQnx285Npwt1Zvh"
+        },
+        {
+          "name": "Y\u00fcksel Baltac\u0131",
+          "url": "https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199841,
+      "name": "Nasip",
+      "url": "https://open.spotify.com/track/3WAVhLthT001vsOAmVHtOz"
     },
     {
       "album": {
@@ -13184,7 +13278,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 298000,
       "name": "Sinekler",
       "url": "https://open.spotify.com/track/2XO0Usf8jmugfS5Ab2SBXN"
@@ -13260,6 +13354,24 @@
       "duration_ms": 203128,
       "name": "Son Arzum",
       "url": "https://open.spotify.com/track/625VGPqFsGw96PM609TOrs"
+    },
+    {
+      "album": {
+        "name": "Son Durak",
+        "url": "https://open.spotify.com/album/15Ce8JCemQe936OukW27ZS"
+      },
+      "artists": [
+        {
+          "name": "Batu Akdeniz",
+          "url": "https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Son Durak",
+      "url": "https://open.spotify.com/track/4938f3HYjtuyRz1lj9kWku"
     },
     {
       "album": {
@@ -14030,7 +14142,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 124389,
       "name": "U LALA",
       "url": "https://open.spotify.com/track/4opHoXq7TVWpByPl0FsqWN"
@@ -15067,6 +15179,24 @@
     },
     {
       "album": {
+        "name": "Yand\u0131 Y\u00fcrek",
+        "url": "https://open.spotify.com/album/4cs8h3e1pg0egiy381bwhF"
+      },
+      "artists": [
+        {
+          "name": "Pera",
+          "url": "https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235752,
+      "name": "Yand\u0131 Y\u00fcrek",
+      "url": "https://open.spotify.com/track/0StRQsI53GD6dwFKWH5xLq"
+    },
+    {
+      "album": {
         "name": "Yand\u0131m",
         "url": "https://open.spotify.com/album/0MTartxOkHorEgQcSMG4Nn"
       },
@@ -15096,7 +15226,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 253548,
       "name": "Yang\u0131n Yeri",
       "url": "https://open.spotify.com/track/2f02wjhLx0hvhSD77SWMmy"
@@ -16727,6 +16857,24 @@
     },
     {
       "album": {
+        "name": "\u00c7\u00fcr\u00fck A\u015fk",
+        "url": "https://open.spotify.com/album/7b8uie9pLqwMyOU8tj42ZP"
+      },
+      "artists": [
+        {
+          "name": "Dilhan \u015ee\u015fen",
+          "url": "https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185223,
+      "name": "\u00c7\u00fcr\u00fck A\u015fk",
+      "url": "https://open.spotify.com/track/5EEbHIXTCbKss8PEtgZrWg"
+    },
+    {
+      "album": {
         "name": "\u00c7\u0131plak Kral",
         "url": "https://open.spotify.com/album/277MjVe9vmIs4ZWE6EUO2s"
       },
@@ -16948,7 +17096,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 131707,
       "name": "\u00f6l\u00fcyorum",
       "url": "https://open.spotify.com/track/22mB92vHyGadpcAs80xG9c"

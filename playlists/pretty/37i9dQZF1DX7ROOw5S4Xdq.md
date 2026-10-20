@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire, Marine Friesen
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,617 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,629 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 47 | [Há Milagre no Terceiro Dia \- Live Session](https://open.spotify.com/track/4WTUaqzY5v7YyeVxkW7rRx) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Há Milagre no Terceiro Dia \(Live Session\)](https://open.spotify.com/album/227MIPfhJHZCIoWtMG82vM) | 4:27 |
 | 48 | [Só a Tua Glória Importa](https://open.spotify.com/track/001eyYES077YpTKHZNVry3) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Só a Tua Glória Importa](https://open.spotify.com/album/19MEbrAoywJbREMVy9Vbqs) | 4:20 |
 
-Snapshot ID: `AAAAAMQdhZziy8d1tn8x5SUaEl2vpabT`
+Snapshot ID: `AAAAANpmq1i35UPlP2vpLYPxF/hpRzgD`

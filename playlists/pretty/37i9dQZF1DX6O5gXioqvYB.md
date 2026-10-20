@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > hyped perché Iosonouncane finalmente canta in italiano dopo un sacco!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,953 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,954 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 3 | [Guardia del corpo](https://open.spotify.com/track/6IuVQGqZd5aGEnc9frfLBV) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Guardia del corpo](https://open.spotify.com/album/0y1WRlvE9QsRhuHmAguxQi) | 3:38 |
 | 4 | [Mano Nella Mano \(con Fulminacci\)](https://open.spotify.com/track/0T6gmN1rupoIxcEI5mqyCg) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:55 |
 | 5 | [SIAMO IN TANTI](https://open.spotify.com/track/364ibCiSbnQT8qUfUf1zI4) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [SIAMO IN TANTI](https://open.spotify.com/album/3CJKiitPJKBKnqTUVGAt1M) | 3:14 |
-| 6 | [BATTISTA](https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | [BATTISTA](https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW) | 2:37 |
-| 7 | [ODISSEA](https://open.spotify.com/track/2870hDGCjgRX37KIOhSSr3) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [ODISSEA](https://open.spotify.com/album/2gZlZ0G2Y0ixkobphItoeq) | 3:27 |
+| 6 | [ODISSEA](https://open.spotify.com/track/2870hDGCjgRX37KIOhSSr3) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [ODISSEA](https://open.spotify.com/album/2gZlZ0G2Y0ixkobphItoeq) | 3:27 |
+| 7 | [BATTISTA](https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | [BATTISTA](https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW) | 2:37 |
 | 8 | [Tentacoli del cuore](https://open.spotify.com/track/1kcGs6vTDrUGBWV1B9HH49) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G), [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Tentacoli del cuore](https://open.spotify.com/album/4vcjJ8QvatsVVDQTrcObLL) | 3:48 |
 | 9 | [Guardami](https://open.spotify.com/track/3DQiZPCHXrJgRc7P5C1N4G) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [La persona peggiore del mondo](https://open.spotify.com/album/4CdhuCmpUFGmzBw0gVqbDj) | 6:42 |
 | 10 | [il mio castello di parole](https://open.spotify.com/track/3lrgzLnWAnOX2QDMhK2VxY) | [Corinna](https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6) | [il mio castello di parole](https://open.spotify.com/album/79FcMo5qd44AzmQRT6YbXl) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [TANTOTANTO](https://open.spotify.com/track/3CRAPgDFRAMnXiEcXP5pW0) | [Basim](https://open.spotify.com/artist/06VrZAhcffLACn4VGBBspO) | [TANTOTANTO](https://open.spotify.com/album/1SyUVvppqtgTkq0EPoHg55) | 3:24 |
 | 100 | [Nulla di speciale](https://open.spotify.com/track/5Jmblle9kHRULP59dcVR8p) | [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO), [Perenne](https://open.spotify.com/artist/1deGGaaHXorjwxQkdaYvcX) | [Nulla di speciale](https://open.spotify.com/album/68zHuAuaw0upKQcj1zw1EV) | 2:25 |
 
-Snapshot ID: `AAAAAIl03nKeH4jmgmSEA5+8rsVYxedQ`
+Snapshot ID: `AAAAAI8RsGJj3o0TYFW0xEArHPAJgcs6`

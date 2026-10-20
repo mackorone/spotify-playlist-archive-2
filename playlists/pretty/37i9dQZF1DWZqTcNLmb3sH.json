@@ -1,18 +1,18 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Brindavihari",
-  "num_followers": 76537,
+  "num_followers": 76564,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHt+78u0QBrjRrU5K2kolIlAv9bd",
+  "snapshot_id": "AAAAAA7ZauQZvLxKY4z+Syg8OAaGCzO0",
   "tracks": [
     {
-      "added_at": "2026-09-25 05:51:09",
+      "added_at": "2026-09-08 10:05:57",
       "album": {
-        "name": "Ondhe Ondu (From \"Brindhavihari\")",
-        "url": "https://open.spotify.com/album/3r9aO8uA21Tgk24gTLU9Qf"
+        "name": "Naadasunaada (From \"Brindhavihari\")",
+        "url": "https://open.spotify.com/album/3Yyg9e77ARg0VVYlb7Yxqc"
       },
       "artists": [
         {
@@ -24,17 +24,13 @@
           "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
         },
         {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        },
-        {
-          "name": "Jaskaran Singh",
-          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
-      "duration_ms": 327671,
-      "name": "Ondhe Ondu (From \"Brindhavihari\")",
-      "url": "https://open.spotify.com/track/1b8vp9rQybCPVanJatWPIZ"
+      "duration_ms": 251214,
+      "name": "Naadasunaada (From \"Brindhavihari\")",
+      "url": "https://open.spotify.com/track/2nzHnNfHz6ka4a8WIJsCaO"
     },
     {
       "added_at": "2026-10-14 06:58:56",
@@ -95,6 +91,34 @@
       "duration_ms": 175909,
       "name": "K R Market Anthem - From \"Border Diaries\"",
       "url": "https://open.spotify.com/track/2V0uuf1gNHSbvL1aiCY5ws"
+    },
+    {
+      "added_at": "2026-09-25 05:51:09",
+      "album": {
+        "name": "Ondhe Ondu (From \"Brindhavihari\")",
+        "url": "https://open.spotify.com/album/3r9aO8uA21Tgk24gTLU9Qf"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        }
+      ],
+      "duration_ms": 327671,
+      "name": "Ondhe Ondu (From \"Brindhavihari\")",
+      "url": "https://open.spotify.com/track/1b8vp9rQybCPVanJatWPIZ"
     },
     {
       "added_at": "2026-10-16 02:06:25",
@@ -275,6 +299,50 @@
       "duration_ms": 299033,
       "name": "Gejje (Kannada)",
       "url": "https://open.spotify.com/track/6ebSo1adkTL19YfpsJKAFk"
+    },
+    {
+      "added_at": "2026-10-19 03:51:23",
+      "album": {
+        "name": "Journey Song (From \"Punah Ade Kathege\")",
+        "url": "https://open.spotify.com/album/5LUixe4HKP9fhDwmdQKD97"
+      },
+      "artists": [
+        {
+          "name": "Shantveer",
+          "url": "https://open.spotify.com/artist/2zzSOD4amoBV18S21g9hfJ"
+        },
+        {
+          "name": "Jayavardhana",
+          "url": "https://open.spotify.com/artist/7m0dGLLw8aLE0vSzfO1gre"
+        },
+        {
+          "name": "Skandesh S",
+          "url": "https://open.spotify.com/artist/6btHIfaeRiZswCuMvtKxxi"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Journey Song (From \"Punah Ade Kathege\")",
+      "url": "https://open.spotify.com/track/34rDSh076usHjvdO5otwwl"
+    },
+    {
+      "added_at": "2026-10-19 03:51:23",
+      "album": {
+        "name": "Bekendide Ninnee Saniha (From \"Rashi'')",
+        "url": "https://open.spotify.com/album/2qPMzdhKWDCnv2xgfmff4v"
+      },
+      "artists": [
+        {
+          "name": "Vijay palegar",
+          "url": "https://open.spotify.com/artist/2MHs3X8z1Gn1c9U6Pe8Nm6"
+        },
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        }
+      ],
+      "duration_ms": 237552,
+      "name": "Bekendide Ninnee Saniha (From \"Rashi'')",
+      "url": "https://open.spotify.com/track/0kguiyaUGu1cjy5XjcR6FC"
     },
     {
       "added_at": "2026-08-27 09:26:59",
@@ -1393,22 +1461,6 @@
       "url": "https://open.spotify.com/track/60NVF5PynQBRLuwIgJFh8Y"
     },
     {
-      "added_at": "2026-07-31 10:35:23",
-      "album": {
-        "name": "Tulasidala",
-        "url": "https://open.spotify.com/album/5CTgecibjEbmeX5dEPic1b"
-      },
-      "artists": [
-        {
-          "name": "Sumedh K",
-          "url": "https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Savadhana",
-      "url": "https://open.spotify.com/track/40CC6ANeHdSO1b7cIruWJG"
-    },
-    {
       "added_at": "2026-08-18 08:16:48",
       "album": {
         "name": "Modala Preethi (From \"Rashi'')",
@@ -1745,30 +1797,6 @@
       "url": "https://open.spotify.com/track/1pywtE1WoX9TMmwjfRjgCb"
     },
     {
-      "added_at": "2026-07-29 07:25:27",
-      "album": {
-        "name": "Amora Amora (From \"PARTNER\")",
-        "url": "https://open.spotify.com/album/3P5JmK8WOl10vLvZyYf3oF"
-      },
-      "artists": [
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        },
-        {
-          "name": "Kunal Ganjawala",
-          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
-        }
-      ],
-      "duration_ms": 218696,
-      "name": "Amora Amora (From \"PARTNER\")",
-      "url": "https://open.spotify.com/track/1FDYN6En53DII6nOv27EVQ"
-    },
-    {
       "added_at": "2026-08-13 09:05:19",
       "album": {
         "name": "Jeevana",
@@ -1875,30 +1903,6 @@
       "duration_ms": 214379,
       "name": "Kanasalu",
       "url": "https://open.spotify.com/track/0quNrvYt0PTPMXiZJH9x86"
-    },
-    {
-      "added_at": "2026-09-08 10:05:57",
-      "album": {
-        "name": "Naadasunaada (From \"Brindhavihari\")",
-        "url": "https://open.spotify.com/album/3Yyg9e77ARg0VVYlb7Yxqc"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 251214,
-      "name": "Naadasunaada (From \"Brindhavihari\")",
-      "url": "https://open.spotify.com/track/2nzHnNfHz6ka4a8WIJsCaO"
     },
     {
       "added_at": "2026-08-31 12:50:16",

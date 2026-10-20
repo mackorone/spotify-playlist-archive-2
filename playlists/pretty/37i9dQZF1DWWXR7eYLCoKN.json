@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 170177,
+  "num_followers": 170191,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH6LvMuMNYL1h2GMuFaVC3W/jJWM",
+  "snapshot_id": "AAAAADBbymuBtjvjuGL80YkC13z3VcV9",
   "tracks": [
     {
       "added_at": "2026-07-27 16:20:33",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
-        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
-        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e1udio Jorge",
-          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Samba Jazz, de Raiz",
-      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
         "name": "Passageiro do Bem - LADO B",
         "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 238133,
       "name": "Qualquer Lugar",
       "url": "https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
+        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
+        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udio Jorge",
+          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Samba Jazz, de Raiz",
+      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
     },
     {
       "added_at": "2026-07-27 16:20:33",

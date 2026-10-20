@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 205842,
       "name": "(no matter) what i said",
       "url": "https://open.spotify.com/track/2D7TjCF6SyIDnq2pXSet43"
@@ -4233,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Black Armor",
+        "url": "https://open.spotify.com/album/4DtGcDrZCWflpWDSLOKHGO"
+      },
+      "artists": [
+        {
+          "name": "Ghost Pavilion",
+          "url": "https://open.spotify.com/artist/6e1gGZhzHrDzdI3voe9FxV"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211946,
+      "name": "Black Armor",
+      "url": "https://open.spotify.com/track/5WGr69HydyvIUKlzitjs8R"
+    },
+    {
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/552xwvOwJWHeO4j9aSTV3o"
       },
@@ -4920,7 +4938,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 210580,
       "name": "Bones",
       "url": "https://open.spotify.com/track/36OJB1amVh7BMUSBMQmUpC"
@@ -7424,7 +7442,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 153293,
       "name": "Chuck Roast",
       "url": "https://open.spotify.com/track/2abNhhtdEwHHf7QSAKt0OA"
@@ -8045,6 +8063,28 @@
     },
     {
       "album": {
+        "name": "Com'\u00e8 Essere Me",
+        "url": "https://open.spotify.com/album/3TU9DrCW8qVpAkH6qdfhyn"
+      },
+      "artists": [
+        {
+          "name": "Eliachesuona",
+          "url": "https://open.spotify.com/artist/2U0cQymRu4pllTLxUghWLb"
+        },
+        {
+          "name": "Hermess",
+          "url": "https://open.spotify.com/artist/0XEgDJCrfiNJSeli1wqBAf"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Com'\u00e8 Essere Me",
+      "url": "https://open.spotify.com/track/3ezVOTm8HRYizQA5myder0"
+    },
+    {
+      "album": {
         "name": "COMEBACK",
         "url": "https://open.spotify.com/album/0ZmkyAWkROPIOimaeECyjH"
       },
@@ -8352,7 +8392,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 173784,
       "name": "Copycat",
       "url": "https://open.spotify.com/track/3DbUoWMPE7OSfmysbBgRKO"
@@ -13571,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "Feeling Again",
+        "url": "https://open.spotify.com/album/0t348cDB6kqGgnKSxdjQ4M"
+      },
+      "artists": [
+        {
+          "name": "Beyond Words",
+          "url": "https://open.spotify.com/artist/7BGZRPcfCwGzbj2QUm6lMx"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Feeling Again",
+      "url": "https://open.spotify.com/track/24GLaoFPKBRXyUjg3bDgdj"
+    },
+    {
+      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/69gxDk3RmebgKifV2T0q1v"
       },
@@ -16226,7 +16284,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 165600,
       "name": "GOT IT BAD",
       "url": "https://open.spotify.com/track/0hWnSHRF8yfzBrTHCiSWwa"
@@ -17918,6 +17976,24 @@
       "duration_ms": 260445,
       "name": "Hole",
       "url": "https://open.spotify.com/track/7E1lQnTyKkUVWLMysiAomV"
+    },
+    {
+      "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/5aFwL9RKgiSU1ktIOj0lzU"
+      },
+      "artists": [
+        {
+          "name": "Bliss",
+          "url": "https://open.spotify.com/artist/6PQBDKJTmT8UDCqhw6unMT"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224879,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/6CTVyyHoG2WugpHzeO1M2v"
     },
     {
       "album": {
@@ -22097,6 +22173,24 @@
     },
     {
       "album": {
+        "name": "Let's Get This Straight",
+        "url": "https://open.spotify.com/album/0gXezEusmKE5MdyuuVM06t"
+      },
+      "artists": [
+        {
+          "name": "Simply Blinded",
+          "url": "https://open.spotify.com/artist/6SKoCYTpyBaK8oMZteHHjs"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259004,
+      "name": "Let's Get This Straight",
+      "url": "https://open.spotify.com/track/1pFwjoiyX6K4vNb73IVAsp"
+    },
+    {
+      "album": {
         "name": "Let's keep it down",
         "url": "https://open.spotify.com/album/1eIujJtNpjwA3ztHIfof7T"
       },
@@ -24117,6 +24211,24 @@
     },
     {
       "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/1YPg3rrBANP3I57saX1bjh"
+      },
+      "artists": [
+        {
+          "name": "Untamed",
+          "url": "https://open.spotify.com/artist/6lESUnGkTH8otZD6qt5kSp"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307442,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/2QEKURwA1U6paYxtuZl4hy"
+    },
+    {
+      "album": {
         "name": "Figurants",
         "url": "https://open.spotify.com/album/08njCEqmT3aT9CW0knBFGt"
       },
@@ -25280,6 +25392,24 @@
       "duration_ms": 213173,
       "name": "Moon Witch Blessing",
       "url": "https://open.spotify.com/track/1f0kNhX019myNK8Un1fReg"
+    },
+    {
+      "album": {
+        "name": "Live Mexico City",
+        "url": "https://open.spotify.com/album/3F0FEW06ImRVkFEWDFuhCh"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306038,
+      "name": "Moonhowl (Live Gatocalavera CDMX 2025)",
+      "url": "https://open.spotify.com/track/6m4SGyaua8T86sBPQHgfMQ"
     },
     {
       "album": {
@@ -27697,6 +27827,24 @@
     },
     {
       "album": {
+        "name": "NU-MONEY",
+        "url": "https://open.spotify.com/album/3XoafJGRFB8h5zTq2gKMLb"
+      },
+      "artists": [
+        {
+          "name": "Ragebate",
+          "url": "https://open.spotify.com/artist/4xJqizK0xaKvU7PMpVJ0cs"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246173,
+      "name": "NU-MONEY",
+      "url": "https://open.spotify.com/track/3U4AW8puvEuqJ3b1L1814v"
+    },
+    {
+      "album": {
         "name": "Nuclear Bounty Hunter",
         "url": "https://open.spotify.com/album/59dbDdU5bAWSYFa7OIPTei"
       },
@@ -28812,7 +28960,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 210011,
       "name": "OVERFLOW",
       "url": "https://open.spotify.com/track/3VBymBc0l8kKIQh40xwMNU"
@@ -28974,7 +29122,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 125562,
       "name": "Panic Juice",
       "url": "https://open.spotify.com/track/63q0ihfuEXYK8ioFsRPvyK"
@@ -30395,6 +30543,24 @@
     },
     {
       "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/0SFLv4vWF867dxYD4nIT9R"
+      },
+      "artists": [
+        {
+          "name": "Astro Brat",
+          "url": "https://open.spotify.com/artist/1pEapNqaL3H1rkyeJHx1Nx"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150048,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/22RzgxPkiiP9iAHBr7G2sQ"
+    },
+    {
+      "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/691ypMCXm2Vvc3xm17E4WF"
       },
@@ -30997,6 +31163,24 @@
     },
     {
       "album": {
+        "name": "Rainbows",
+        "url": "https://open.spotify.com/album/6grkqw4FPDKwVhKW0cV8fR"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lights",
+          "url": "https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Rainbows",
+      "url": "https://open.spotify.com/track/6ayfVq22w4dnkmiJCFTVGi"
+    },
+    {
+      "album": {
         "name": "En las Calles",
         "url": "https://open.spotify.com/album/1fuUMBZtdNexMPKqp05T0J"
       },
@@ -31102,6 +31286,24 @@
       "duration_ms": 158001,
       "name": "Raw Food",
       "url": "https://open.spotify.com/track/0InOgUCfOajtsTKqPBpI1R"
+    },
+    {
+      "album": {
+        "name": "Razor Sharp",
+        "url": "https://open.spotify.com/album/7DBVywv68Ixd3JVKMUAAi5"
+      },
+      "artists": [
+        {
+          "name": "FIXXER",
+          "url": "https://open.spotify.com/artist/4NYtbowh9Ah7rY2U3Qhof9"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136813,
+      "name": "Razor Sharp",
+      "url": "https://open.spotify.com/track/4IVSiL4AwcfzvoiDD5P630"
     },
     {
       "album": {
@@ -31534,7 +31736,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 192467,
       "name": "Relations",
       "url": "https://open.spotify.com/track/2EnLqCAS5Q1ZiwfwlgEpTK"
@@ -34920,7 +35122,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 180035,
       "name": "Slower",
       "url": "https://open.spotify.com/track/2uLVIBa1SvBy42nlpNxBnk"
@@ -39618,7 +39820,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 223906,
       "name": "The Little Things",
       "url": "https://open.spotify.com/track/4fRmxd8ImNWX31QqbKMSYY"
@@ -40894,7 +41096,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 177837,
       "name": "Those White Flags Are No Match For Our Muskets",
       "url": "https://open.spotify.com/track/78ZZzKJCFqIB8EhZVjUCAk"
@@ -41186,7 +41388,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 240565,
       "name": "time to burn",
       "url": "https://open.spotify.com/track/3g4JNT1vLhrVG4uaQFZH2Q"
@@ -43229,6 +43431,24 @@
     },
     {
       "album": {
+        "name": "Wanna Be Free",
+        "url": "https://open.spotify.com/album/1CVqO3Zr16gvg08ramDAaa"
+      },
+      "artists": [
+        {
+          "name": "Archi Deep",
+          "url": "https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152124,
+      "name": "Wanna Be Free",
+      "url": "https://open.spotify.com/track/3jXwASmYQVEnkBsNxgcGdF"
+    },
+    {
+      "album": {
         "name": "Wanna Dance",
         "url": "https://open.spotify.com/album/1V1MIqz8Q5pkKQu8Etmc7k"
       },
@@ -43370,7 +43590,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 185176,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/1XAymPdjKe5BhcRblNExsX"
@@ -43449,6 +43669,24 @@
     },
     {
       "album": {
+        "name": "Brakedisc",
+        "url": "https://open.spotify.com/album/0dowdwgaqiUBhkKyNh8MyQ"
+      },
+      "artists": [
+        {
+          "name": "James Dorsett",
+          "url": "https://open.spotify.com/artist/3Wiqfz9J9R1VGwPdNeCWV6"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282208,
+      "name": "Wasted Days",
+      "url": "https://open.spotify.com/track/5STx8TT96oICdH0w8jnDaI"
+    },
+    {
+      "album": {
         "name": "wasted, again.",
         "url": "https://open.spotify.com/album/3oqwcLrh8GJv6C088J01tw"
       },
@@ -43460,7 +43698,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 203213,
       "name": "wasted, again.",
       "url": "https://open.spotify.com/track/4nuWq3Pzys10qI5tUgRlTn"
@@ -45634,6 +45872,24 @@
       "duration_ms": 152993,
       "name": "You Can't Spell \"Failure\" Without U & I",
       "url": "https://open.spotify.com/track/1nqns95SIoOYhKgj7JAdk7"
+    },
+    {
+      "album": {
+        "name": "You Crawl, I Drown",
+        "url": "https://open.spotify.com/album/5GtwR7CsdBtnJ3GLljXhtA"
+      },
+      "artists": [
+        {
+          "name": "Arko & The Guest House",
+          "url": "https://open.spotify.com/artist/5dg3tERzViRS6tNgO1bkSP"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187316,
+      "name": "You Crawl, I Drown",
+      "url": "https://open.spotify.com/track/6lV9rqeY16zaoBz6oHPYsB"
     },
     {
       "album": {

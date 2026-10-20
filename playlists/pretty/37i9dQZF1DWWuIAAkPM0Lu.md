@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag! Ny musik fra bl.a\. Annika, Artigeardit og Olivia Rodrigo 🤌
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,390 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,386 likes - 90 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 29 | [Elastic](https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Elastic](https://open.spotify.com/album/5IuVkBn0X5N9swYnKqRFf8) | 2:13 |
 | 30 | [Coldsnap](https://open.spotify.com/track/199P5dDDI9ADK8vXH3nF8M) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw), [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Coldsnap](https://open.spotify.com/album/1DiBA1gqEZoumkDzzBBepA) | 4:15 |
 | 31 | [Leap](https://open.spotify.com/track/1wQO7RFvhGSWPkDvU5981J) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Leap](https://open.spotify.com/album/5L0UdEERU935VXMzq8pGyH) | 3:41 |
-| 32 | [F\*\*\* No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [F\*\*\* No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
+| 32 | [Fuck No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Fuck No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
 | 33 | [Hush](https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Hush](https://open.spotify.com/album/63tDkScueEmDfGasampjs3) | 4:34 |
 | 34 | [WEEZYBALLY](https://open.spotify.com/track/3MqKqxLMnwQped4F6pqgWF) | [KAS](https://open.spotify.com/artist/4phSEXoMC7iWJUN7Zxo6fJ) | [WEEZYBALLY](https://open.spotify.com/album/0mkdY7ljtJ6oLxm9FNWByW) | 2:51 |
 | 35 | [Jeg Vil Hjem Igen](https://open.spotify.com/track/44hKXElbAg9TdPZFwceIPp) | [Karoline](https://open.spotify.com/artist/6FfMarYio5OaEC1RlyVevy), [Karoline Koch](https://open.spotify.com/artist/4eWlERAs5OXXZTXhIBhjgm) | [Jeg Vil Hjem Igen](https://open.spotify.com/album/0fcFxH4KXE1jgGguBXeioc) | 3:37 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 89 | [Hot & talking](https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Hot & talking](https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW) | 3:11 |
 | 90 | [Words \(About You\)](https://open.spotify.com/track/5wclYUbW0ikHRit2eUsQ6m) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Words \(About You\)](https://open.spotify.com/album/5ttMC342ltnOhcqTD4P7ET) | 4:09 |
 
-Snapshot ID: `AAAAAAh5uA+/mlDNSYX/gLxugbm4I+z9`
+Snapshot ID: `AAAAADal/BH9dvue32+dUyejeBps2Kr2`

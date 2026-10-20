@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Ai Caralho",
+        "url": "https://open.spotify.com/album/2HtHfpS0zEkQzwed7Iob0m"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164517,
+      "name": "Ai Caralho",
+      "url": "https://open.spotify.com/track/2PboxVJSjQJRZgQcVKNDFk"
+    },
+    {
+      "album": {
         "name": "Aim For The Bushes (feat. Shanty)",
         "url": "https://open.spotify.com/album/2CRvQWoiyhOMOFWcSeQtT3"
       },
@@ -2754,7 +2776,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 198000,
       "name": "Countdown 2026",
       "url": "https://open.spotify.com/track/5Q1cI6XVmVzOanLFGDlOqw"
@@ -3453,6 +3475,28 @@
     },
     {
       "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/1QlueddBfH3Oat9OpiGj9w"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Uberjak'd",
+          "url": "https://open.spotify.com/artist/5eSbXcprPmrh8Jyz06VVeV"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Disclaimer",
+      "url": "https://open.spotify.com/track/4SDaJhS6DhwfXINEXYqPbx"
+    },
+    {
+      "album": {
         "name": "Disco Dancer",
         "url": "https://open.spotify.com/album/4pXwKxIA4uqzIdGBV9kc6t"
       },
@@ -3654,6 +3698,28 @@
       "duration_ms": 121000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/0fo5N7yteZrGgpdX796nei"
+    },
+    {
+      "album": {
+        "name": "Dramma",
+        "url": "https://open.spotify.com/album/0fqD0NWfRlK9GMa6CwxgSF"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209463,
+      "name": "Dramma",
+      "url": "https://open.spotify.com/track/1eUxAz48txalzffXUUdTtr"
     },
     {
       "album": {
@@ -11384,7 +11450,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 131288,
       "name": "Rajada",
       "url": "https://open.spotify.com/track/7kBTtHLS5D4WAe5O0ajJFQ"
@@ -15120,7 +15186,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 172500,
       "name": "Turn The Lights Off (Paul Elstak Remix)",
       "url": "https://open.spotify.com/track/5rc4Y6Io2RKjqDdsZR7G3R"

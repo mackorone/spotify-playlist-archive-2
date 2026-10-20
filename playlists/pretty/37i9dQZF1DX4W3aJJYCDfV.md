@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Fontaines D.C., Olivia Rodrigo & Chappell Roan, Zach Bryan, Rachel Chinouriri and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,848 likes - 98 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,768 likes - 98 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 81 | [Waiting \- ft Sølv](https://open.spotify.com/track/5rpZudKWR829NBM0PlC8GD) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Waiting \(ft Sølv\)](https://open.spotify.com/album/31GsJMn0d4fhH2cfJ4bJ7t) | 3:56 |
 | 82 | [Cato](https://open.spotify.com/track/5WgopDiOmWvO3flQjWvZ5n) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Sue Tompkins](https://open.spotify.com/artist/1a9FKVeSjLYGWLwWqzflOO) | [The Demise Of Planet X \(Deluxe\)](https://open.spotify.com/album/1jC6TfQBhGoNRVM6Tq8Vbf) | 2:43 |
 | 83 | [Passing Faces](https://open.spotify.com/track/1jnOqvJZGqEJ921YiqeDbu) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Passing Faces](https://open.spotify.com/album/3FqCsMKHYtr1aDmPVluVfk) | 2:54 |
-| 84 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 84 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 85 | [Home](https://open.spotify.com/track/3HySMchyvUd9J6VLtp0yjv) | [Bobbyy](https://open.spotify.com/artist/3Vk2Sjk6l8GVlK5jEBbH2z), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [TACKYY](https://open.spotify.com/album/00mA5eTJeOzMm9MQGyqVNe) | 2:30 |
 | 86 | [Mama](https://open.spotify.com/track/7FCkOyRVDDXa2bLvuxC6OD) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [ADORN \(Mixtape\)](https://open.spotify.com/album/2ZEKQVfpGXgQOjWboMmexx) | 3:45 |
 | 87 | [Killer Instinct](https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Killer Instinct](https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO) | 3:12 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 97 | [Someone Like You](https://open.spotify.com/track/08T4rQxqam71tSDhl9Z318) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Somehow It Flies](https://open.spotify.com/album/7bVIDJ4DSctHgCnPvBi3Mt) | 2:41 |
 | 98 | [Good Light](https://open.spotify.com/track/1k72oFz1g4x52G2YcOoT8z) | [Bash Croft](https://open.spotify.com/artist/0z6dMH7qcKgqKnJy4j9nil) | [Good Light](https://open.spotify.com/album/6HaelxqjtVMzcpSs6O2GjA) | 3:14 |
 
-Snapshot ID: `AAAAAHfOlPRiu7mjMlaopnVBSUEMJEr1`
+Snapshot ID: `AAAAAFe7B6Fsny3kKaiX1uom1CULlsjX`

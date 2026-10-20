@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,958 likes - 75 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,000 likes - 75 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 74 | [Te Coronamos](https://open.spotify.com/track/6Ft5wueAtrPghqk7P0YrOt) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Te Coronamos](https://open.spotify.com/album/4yfpZaK4QdCnf6LXjBsyKv) | 5:25 |
 | 75 | [Sublime Gracia](https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:25 |
 
-Snapshot ID: `AAAAADcFZwLd4zRKV7nThz+wlZF8N9MO`
+Snapshot ID: `AAAAAMvUYgdg1eMkUrXMeWzdkr4CzI/b`

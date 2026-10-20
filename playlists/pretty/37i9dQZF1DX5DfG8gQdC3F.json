@@ -1,12 +1,12 @@
 {
   "description": "The latest from Tate McRae, Zach Bryan & Lana Del Rey, Olivia Rodrigo & Chappell Roan, Sophia Stel, Fontaines D.C, and more.",
-  "num_followers": 599257,
+  "num_followers": 599212,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKL2vSRVmTwqzf0yQ323WMRtZnzc",
+  "snapshot_id": "AAAAAEiVLSMWI8gDH8Vd5J7JxI6+e4JH",
   "tracks": [
     {
       "added_at": "2026-10-16 04:02:28",
@@ -246,6 +246,10 @@
         {
           "name": "Alt8",
           "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
         }
       ],
       "duration_ms": 287933,
@@ -1071,7 +1075,7 @@
     {
       "added_at": "2026-10-16 04:02:28",
       "album": {
-        "name": "Wild Hearts",
+        "name": "The Wild Hearts Series",
         "url": "https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6"
       },
       "artists": [

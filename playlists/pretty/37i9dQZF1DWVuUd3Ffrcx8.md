@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Fontaines D.C.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,972 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,966 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 49 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 |
 | 50 | [can't be without you](https://open.spotify.com/track/2GbduroFTuALtTJpi0FnWP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [can't be without you](https://open.spotify.com/album/62LiDJ3ztVaV4chE1EUjzk) | 2:44 |
 
-Snapshot ID: `AAAAAFGJYmTBBKR7bPt8ee/6ypeaP8pI`
+Snapshot ID: `AAAAAJ9VMTG8NRkCQfnGnHGQsbyyhHi+`

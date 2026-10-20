@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Sinmidele
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,480 likes - 96 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,507 likes - 96 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 95 | [Yebe Ye Yie \(We Shall Prosper\)](https://open.spotify.com/track/2YluThlJti3d93hy3HB0cj) | [Edward Saah](https://open.spotify.com/artist/43hfn3LbcMEnPm7mnepHsC), [MP Nation](https://open.spotify.com/artist/7HvKdf8CEdYXW9GQxQQsLQ) | [Yebe Ye Yie \(We Shall Prosper\)](https://open.spotify.com/album/0SizDueytOtK4ygkx8P0rv) | 4:03 |
 | 96 | [Couples Worship \- Acoustic Version](https://open.spotify.com/track/1TvSq4VUXflAEV3x5XZ9HY) | [Minstrel John Leke](https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o) | [Couples Worship \(Acoustic Version\)](https://open.spotify.com/album/0Fr1Ql0xX4IOr8LmgIHYOk) | 18:06 |
 
-Snapshot ID: `AAAAACf6QT6YIo+/TEs0Avoa0qTCIGI2`
+Snapshot ID: `AAAAADHCvEQsdPUVZP4ajLEoU+xH3/0j`

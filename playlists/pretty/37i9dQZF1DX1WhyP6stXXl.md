@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,875 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,878 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 89 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 90 | [Angel Numbers](https://open.spotify.com/track/5skmzVBQBYRPDJqJfPd426) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Girl Land](https://open.spotify.com/album/0mc3Z3NKHNdbEKrO6sePLp) | 2:52 |
 
-Snapshot ID: `AAAAAMBwbL5U+3xU57y6Xu4G/mRQrWMD`
+Snapshot ID: `AAAAAIp98VPMgPP9pBTwF9A0sa/EaK/D`

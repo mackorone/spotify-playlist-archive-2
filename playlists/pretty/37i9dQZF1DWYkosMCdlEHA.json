@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 155287,
+  "num_followers": 155294,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFyqoXWgzb7R5E4/jZu/bM2Q5NX",
+  "snapshot_id": "AAAAANuAAZXmfsCh8fs995sRGK8gSzc2",
   "tracks": [
     {
       "added_at": "2026-07-02 21:47:25",
@@ -771,18 +771,26 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
+        "name": "Deixe Me Ir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
         }
       ],
-      "duration_ms": 257604,
-      "name": "N\u00e3o \u00e9 S\u00e9rio - Ao Vivo - Chegou Quem Faltava",
-      "url": "https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj"
+      "duration_ms": 213191,
+      "name": "Deixe Me Ir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -807,26 +815,18 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Deixe Me Ir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
       },
       "artists": [
         {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 213191,
-      "name": "Deixe Me Ir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
+      "duration_ms": 257604,
+      "name": "N\u00e3o \u00e9 S\u00e9rio - Ao Vivo - Chegou Quem Faltava",
+      "url": "https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj"
     },
     {
       "added_at": "2026-07-02 21:47:25",

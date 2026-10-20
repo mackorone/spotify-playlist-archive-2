@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 101965,
+  "num_followers": 101986,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAABF1u8DlBAA3VHZhx6OdNy0",
+  "snapshot_id": "atQMAAAAAABt3KPN+l1jnrYdlAwx5346",
   "tracks": [
     {
       "added_at": null,
@@ -695,46 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
-        "url": "https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr"
-      },
-      "artists": [
-        {
-          "name": "Arley Perez",
-          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 225512,
-      "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
-      "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 118656,
-      "name": "El 50 - En Vivo",
-      "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -775,6 +735,46 @@
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 118656,
+      "name": "El 50 - En Vivo",
+      "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
+        "url": "https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 225512,
+      "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
+      "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
     },
     {
       "added_at": null,
@@ -831,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bienvenidos a Durango (En Vivo)",
-        "url": "https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u"
+        "name": "De la Estancia a Cosala",
+        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
       },
       "artists": [
         {
-          "name": "Arley Perez",
-          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 163084,
-      "name": "De Ah\u00ed Pal Real (En Vivo)",
-      "url": "https://open.spotify.com/track/7oIyyaAqacrfMq1Y14vR1J"
+      "duration_ms": 139853,
+      "name": "De la Estancia a Cosala",
+      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
     },
     {
       "added_at": null,
@@ -867,22 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Estancia a Cosala",
-        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
+        "name": "Bienvenidos a Durango (En Vivo)",
+        "url": "https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u"
       },
       "artists": [
         {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 139853,
-      "name": "De la Estancia a Cosala",
-      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+      "duration_ms": 163084,
+      "name": "De Ah\u00ed Pal Real (En Vivo)",
+      "url": "https://open.spotify.com/track/7oIyyaAqacrfMq1Y14vR1J"
     },
     {
       "added_at": null,

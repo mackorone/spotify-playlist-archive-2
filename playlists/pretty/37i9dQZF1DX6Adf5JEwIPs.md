@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Dareyes De La Sierra & Tito Double P 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,491 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,508 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 59 | [Otra Vez](https://open.spotify.com/track/1NDnUuqaWv8gXJVs1IVFf1) | [MazaClika](https://open.spotify.com/artist/5bt6J1pxaH2s0fdNSxdgSI) | [Otra Vez](https://open.spotify.com/album/4kASzPQgMhTfAlZSvxcCZA) | 3:21 |
 | 60 | [Sorbito de Champagne](https://open.spotify.com/track/2cpz1A1FvJ2yjqT9CggrjC) | [LOS FARITOS](https://open.spotify.com/artist/1cfZpRVpOHpkbi3e6JeqPF) | [Sorbito de Champagne](https://open.spotify.com/album/3bdDCb9QnIYAZnK30dYZir) | 2:27 |
 
-Snapshot ID: `AAAAAJBWM2f5fSnCRuLygeaYoB7Lrkll`
+Snapshot ID: `AAAAAArLiXIGrI4oooERi5lrs3QtyNNz`

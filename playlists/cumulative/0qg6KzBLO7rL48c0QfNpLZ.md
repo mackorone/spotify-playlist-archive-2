@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,748 songs - 3 day 5 hr 24 min
+1,749 songs - 3 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1612,6 +1612,7 @@
 | [Used To Be](https://open.spotify.com/track/01Wf71h8dY3QCUzRcHVwJ6) | [This & That](https://open.spotify.com/artist/37CoByDWrze0gglk61NEYb) | [Used To Be](https://open.spotify.com/album/18EC5nKFT4bw5gLU6BgaoJ) | 2:09 | 2024-02-23 | 2024-05-03 |
 | [Used to Know](https://open.spotify.com/track/5MLtgaIhV4Wg5bnMHp74i8) | [Samuel Vasell](https://open.spotify.com/artist/2CRab4ntrkT6P2CdbnBxtf), [Jínzz](https://open.spotify.com/artist/1LQWsMPWWZEO8uVB0kSu1W), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3) | [Used to Know](https://open.spotify.com/album/6iPBtGcoOfJsgPvyUqhoJK) | 2:56 | 2025-07-25 | 2025-09-22 |
 | [Usiku Mmoja](https://open.spotify.com/track/4V7UAyHirqT3CYWtQ4QmZt) | [MELOPHANTS](https://open.spotify.com/artist/31vTdUTqmKypzgh8RiCdG0), [Dj KCM](https://open.spotify.com/artist/3lbjxOwIB1BqHe9C2flZBT) | [Usiku Mmoja](https://open.spotify.com/album/4fDD1Q7xZHTvLdXNuIqVT3) | 3:16 | 2026-05-01 |  |
+| [Vem Devagar](https://open.spotify.com/track/25PC1qzzd7s5MMYWENpl5K) | [Afroface](https://open.spotify.com/artist/25fRd5PbshUE9O0YcL15DD) | [Vem Devagar](https://open.spotify.com/album/3k9Ig4h12CUbKJam9g1lNv) | 3:07 | 2026-10-19 |  |
 | [Verano De Fuego](https://open.spotify.com/track/2zRdNC5V6zbhRExMRgR4hG) | [dj kivalan](https://open.spotify.com/artist/6Et1U8KBFCbZN6CkhE0oyg) | [Verano De Fuego](https://open.spotify.com/album/1dF1WvmU5OO8PPwrkv6FBL) | 2:32 | 2025-06-05 | 2025-07-14 |
 | [Vertigo](https://open.spotify.com/track/1BqF6JV7XqXw3aNd35ZDTM) | [March and June](https://open.spotify.com/artist/1xtmHTCQCknIymXwVK23u9), [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Andrada](https://open.spotify.com/artist/7noZM8YzX3rCq0uHcAuBXh) | [Vertigo](https://open.spotify.com/album/0Ii6sLTLnoHLIBzzG7FgRq) | 2:52 | 2024-08-09 | 2024-09-10 |
 | [Views](https://open.spotify.com/track/7D7LLc7hFbgccHHUf8d6TR) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Views](https://open.spotify.com/album/4nRgbPaDAOZSeTXdYayiWS) | 2:17 | 2024-06-21 | 2024-07-20 |

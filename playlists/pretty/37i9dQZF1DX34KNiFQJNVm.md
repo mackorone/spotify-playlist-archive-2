@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  PItty, KATSEYE, Olivia Rodrigo, Doce Encontro com Yan,  Maneva e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317,209 likes - 81 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,316,839 likes - 81 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 80 | [Cash4Gold](https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Cash4Gold / Close2Mine](https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX) | 3:12 |
 | 81 | [Mili Mili \(Orquestra\) \- Ao Vivo](https://open.spotify.com/track/0gSmXKH2TJKGp0KAqHUajq) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV) | [Mili Mili \(Orquestra\) \[Ao Vivo\]](https://open.spotify.com/album/0Rg1KNBwQHHda2sBxytMNY) | 3:34 |
 
-Snapshot ID: `AAAAADGKSVOPf7ITAAzJg3RbNSKFEDPH`
+Snapshot ID: `AAAAAPTPwEcsDLRSCtE2tg+JsDiL3FsM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Makosir, Synne Vo og Chris Abolade mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,587 likes - 96 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,571 likes - 96 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 83 | [Lucy in B\-minor](https://open.spotify.com/track/2MHcP0F01n9GS88WHLRc09) | [Vendela Brask](https://open.spotify.com/artist/5dH5hwyrxbsGHCb57RenBs) | [Lucy in B\-minor](https://open.spotify.com/album/2O5pu3d0BLaKlbsfzHZ14s) | 2:55 |
 | 84 | [uber eats](https://open.spotify.com/track/6bL3faT09fx2jOgapNl4Xz) | [sebastian axe](https://open.spotify.com/artist/3I13zIUbHgAUTbUuu1Sh4S) | [TEA SHOP TEA ROOM](https://open.spotify.com/album/4WGEJ9ZJOZKbXCKj5mW7uq) | 2:44 |
 | 85 | [Trouble](https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf) | [nikocorlin](https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm) | [Trouble](https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3) | 2:22 |
-| 86 | [F\*\*\* No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [F\*\*\* No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
+| 86 | [Fuck No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Fuck No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
 | 87 | [Obsession \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Obsession \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39) | 2:34 |
 | 88 | [LEFT RIGHT \(feat\. Big Sean\)](https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [LEFT RIGHT \(feat\. Big Sean\)](https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU) | 3:09 |
 | 89 | [Creep Into My Mind](https://open.spotify.com/track/1vfoTzbVcsxlKeR8VE2reM) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Creep Into My Mind](https://open.spotify.com/album/28r7oLyn7N7wIFoBw265Af) | 7:27 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 95 | [WE ARE ALL DEMONS](https://open.spotify.com/track/5S8j2KApbuZwpve3DjEF54) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [WE ARE ALL DEMONS](https://open.spotify.com/album/3AO21Ik9cPZmbX8hjrqIUl) | 2:21 |
 | 96 | [Words \(About You\)](https://open.spotify.com/track/5wclYUbW0ikHRit2eUsQ6m) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Words \(About You\)](https://open.spotify.com/album/5ttMC342ltnOhcqTD4P7ET) | 4:09 |
 
-Snapshot ID: `AAAAAFTVxvCeIVYOvDtoUlmUOGVKaFyQ`
+Snapshot ID: `AAAAAFBUVlv1MGA/3Hj+IP72rFFgh4T5`

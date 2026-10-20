@@ -178305,6 +178305,24 @@
     },
     {
       "album": {
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/1CxZ51LWwzzAQLorsAwJfo"
+      },
+      "artists": [
+        {
+          "name": "Mynd Reader",
+          "url": "https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Soundtrack of Life",
+      "url": "https://open.spotify.com/track/7krzvJdlHLzMMyXZ57OKDp"
+    },
+    {
+      "album": {
         "name": "New Wave Vaudeville",
         "url": "https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,572 likes - 131 songs - 6 hr 55 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,557 likes - 131 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 4 | [Pa' Bailar](https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Pa' Bailar](https://open.spotify.com/album/7nvo0gB4hZNFRn8sK0HXI0) | 2:36 |
 | 5 | [El Chiste](https://open.spotify.com/track/1nldhOIt5TC9TTXnW2fzUg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Fulanito](https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ) | 3:18 |
 | 6 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
-| 7 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
+| 7 | [Después De Un KO \(Knockout\) \- From the Motion Picture "Campeón Gabacho"](https://open.spotify.com/track/5BWlmF57KMli4e9q2jVnfa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Campeón Gabacho](https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV) | [Después De Un KO \(Knockout\) \[From the Motion Picture "Campeón Gabacho"\]](https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt) | 1:54 |
 | 8 | [QUE TALENTO](https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [QUE TALENTO](https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk) | 2:59 |
 | 9 | [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 |
 | 10 | [90s](https://open.spotify.com/track/0722nt9nR0eOuSEll5WtgK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [90s](https://open.spotify.com/album/0KKmbKWJCN2swWpRmagn3C) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Lily Hooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,376 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,396 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [I Talked to God](https://open.spotify.com/track/6AYJDBR5dsYussX3rkyYNW) | [Ava Dallas](https://open.spotify.com/artist/6xFIVfJLRbHvyEW2AyezJg) | [I Talked to God](https://open.spotify.com/album/2c2h6mIcCz5q8dCd8oUD6F) | 4:03 |
 | 75 | [And The Next Day](https://open.spotify.com/track/4KHf4XGHNYjQq1MsTdejJC) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [When Did I Move The Goalposts?](https://open.spotify.com/album/6Extj31OeHopAmUEcUVFw6) | 3:37 |
 
-Snapshot ID: `AAAAAC7icTPAA0z0aL0H1Pv6kWojANtC`
+Snapshot ID: `AAAAACMIWiPpSOOKLLQYbD3zzC046+cn`

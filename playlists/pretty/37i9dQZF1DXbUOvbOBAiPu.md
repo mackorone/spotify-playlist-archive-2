@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lost Frequencies, L2B, Adèle Castillon, Bryan Mg and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,420 likes - 121 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,412 likes - 121 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 120 | [Dance This Way](https://open.spotify.com/track/0HZm3MKVd4dzVOnz2O2ixl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [JOY II](https://open.spotify.com/album/2AygyUWRx6cWaHN3sz2mI6) | 3:14 |
 | 121 | [Destino](https://open.spotify.com/track/23Y4omG3AmgATphnmR4R0E) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Destino](https://open.spotify.com/album/0w4uZclR8v1xDlnyj5sJuy) | 2:25 |
 
-Snapshot ID: `AAAAAN2JS8HVGMv500fP+g2tghFdyG0A`
+Snapshot ID: `AAAAAIRz6yESGREYTjpyWCVSFV+ZaRtp`

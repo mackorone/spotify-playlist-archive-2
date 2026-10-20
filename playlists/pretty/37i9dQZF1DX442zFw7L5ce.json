@@ -1,12 +1,12 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 64293,
+  "num_followers": 64318,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgwRqrqK9wtL8c5AvNX33GrV0vr",
+  "snapshot_id": "AAAAAKsxBsqjI5mpcZIe3Mi2kwFO95p8",
   "tracks": [
     {
       "added_at": "2026-05-20 07:09:05",
@@ -229,30 +229,6 @@
       "url": "https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH"
     },
     {
-      "added_at": "2026-08-12 09:24:21",
-      "album": {
-        "name": "Mahathma",
-        "url": "https://open.spotify.com/album/5Lcs851etHK2DXWPKAKncp"
-      },
-      "artists": [
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        },
-        {
-          "name": "Vijay Antony",
-          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
-        },
-        {
-          "name": "Sirivennela Seetharama Sastry",
-          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
-        }
-      ],
-      "duration_ms": 216842,
-      "name": "Neela Poori",
-      "url": "https://open.spotify.com/track/48COQEa9dLJBadH5EO9VwB"
-    },
-    {
       "added_at": "2025-02-10 12:33:38",
       "album": {
         "name": "ANIMAL (TELUGU)",
@@ -275,6 +251,30 @@
       "duration_ms": 275439,
       "name": "Ammayi",
       "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
+    },
+    {
+      "added_at": "2026-08-12 09:24:21",
+      "album": {
+        "name": "Mahathma",
+        "url": "https://open.spotify.com/album/5Lcs851etHK2DXWPKAKncp"
+      },
+      "artists": [
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        },
+        {
+          "name": "Vijay Antony",
+          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
+        },
+        {
+          "name": "Sirivennela Seetharama Sastry",
+          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Neela Poori",
+      "url": "https://open.spotify.com/track/48COQEa9dLJBadH5EO9VwB"
     },
     {
       "added_at": "2025-02-10 12:33:38",
@@ -819,18 +819,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Thammudu",
-        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
+        "name": "Oke Okkadu",
+        "url": "https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu"
       },
       "artists": [
         {
-          "name": "Ramana Gogula",
-          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
         }
       ],
-      "duration_ms": 316656,
-      "name": "Vayari Bhama",
-      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
+      "duration_ms": 373826,
+      "name": "Andaala Raakshsive",
+      "url": "https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -851,6 +855,22 @@
       "duration_ms": 291188,
       "name": "Akasam Ammayaithe",
       "url": "https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Thammudu",
+        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
+      },
+      "artists": [
+        {
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        }
+      ],
+      "duration_ms": 316656,
+      "name": "Vayari Bhama",
+      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
     },
     {
       "added_at": "2022-12-30 11:00:51",
@@ -943,26 +963,6 @@
       "duration_ms": 253360,
       "name": "Chandrakala",
       "url": "https://open.spotify.com/track/0KuVYY7tHWcwbvR0FSwrEo"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Oke Okkadu",
-        "url": "https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        },
-        {
-          "name": "Harini",
-          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
-        }
-      ],
-      "duration_ms": 373826,
-      "name": "Andaala Raakshsive",
-      "url": "https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X"
     },
     {
       "added_at": "2022-10-13 05:39:22",

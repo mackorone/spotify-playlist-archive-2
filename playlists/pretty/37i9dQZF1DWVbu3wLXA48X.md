@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,943 likes - 95 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,945 likes - 95 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 94 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
 | 95 | [The Stars Are Talking](https://open.spotify.com/track/5oAmIIkLRbOutlxLXXWbay) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [The Stars Are Talking](https://open.spotify.com/album/3Iiy7lavGPQUdHFFxc6Z1O) | 3:28 |
 
-Snapshot ID: `AAAAAHJeswpod+A+IgrVmvso1WZRVjCm`
+Snapshot ID: `AAAAACF9tR1V7KLkWPrLmL50vxp1vVRF`

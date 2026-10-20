@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,915 likes - 167 songs - 10 hr 35 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,916 likes - 170 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,5 +175,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 165 | [Bring It on Home](https://open.spotify.com/track/6czLExgN3AQj58kQsSSmNs) | [Seßler/Zeeb](https://open.spotify.com/artist/6Nir6BdRvttKmDRWVSatgX) | [Bring It on Home](https://open.spotify.com/album/2jqjkYhrrlHEF3FdfgreIt) | 3:45 |
 | 166 | [Thunder over Clarksville](https://open.spotify.com/track/2BCPbHexy2puxvTe9ubndj) | [Hundley](https://open.spotify.com/artist/0dZqYqpjMDRPVuxnrhyeDs) | [Grapevine Hill](https://open.spotify.com/album/766E2EJUaOKn5OL6N484fc) | 4:06 |
 | 167 | [Escondida](https://open.spotify.com/track/0j66M8KQbQuvj4RqGEURRG) | [Patricio Tancredi](https://open.spotify.com/artist/6edX3X2j6Lx1IdZjIGU39h) | [Escondida](https://open.spotify.com/album/7jLjJuEgwmSPa0GGO8EZwo) | 6:17 |
+| 168 | [The Cradle](https://open.spotify.com/track/6eiOtSNioBwip16hIkgKqc) | [Novena For Gina](https://open.spotify.com/artist/4Ga5dJx1IHEbk1ozRJQILO) | [The Cradle](https://open.spotify.com/album/2QFhdCnFPSpWbCU9SIw1v3) | 3:07 |
+| 169 | [La terapia](https://open.spotify.com/track/7zIPUAXQSaELwFSYlSqfO2) | [Rokdëbil](https://open.spotify.com/artist/6XwejHVkpCvWg3DTD249Lf) | [Lo que hagamos con el alma](https://open.spotify.com/album/7CwzpV39PCpXmPIKFszjKp) | 5:36 |
+| 170 | [Where the Wind Blows](https://open.spotify.com/track/044bAUHW1CjxG1fRnW4zP7) | [The Safety Word](https://open.spotify.com/artist/0ACJc7XJoVM9j1HeuAtLRX) | [Where the Wind Blows](https://open.spotify.com/album/2HtgsNzBXTnrXMlPQXOBq5) | 5:06 |
 
-Snapshot ID: `AAAM1KTjJUEI8f2QBFjkWLwHZDyc/CvU`
+Snapshot ID: `AAAM18Xv73lyL8+HqsNWadqzBj2jf3OI`

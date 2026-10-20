@@ -4,7 +4,7 @@
 
 > crisp air & fall foliage 🍂
 
-134 songs - 8 hr 21 min
+137 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Before It's Too Late](https://open.spotify.com/track/2z2wU0F0XmKbjrOkLCz28r) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Before It's Too Late](https://open.spotify.com/album/6AOQkPDEYOWkDZoTtutoRc) | 2:31 | 2025-06-27 |  |
 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 | 2025-06-27 |  |
 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:48 | 2025-06-27 | 2026-09-19 |
+| [Blue Around You](https://open.spotify.com/track/28C3NFBhcBSLeqol3PaTkc) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [I see them, I see me](https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd) | 3:44 | 2026-10-19 |  |
 | [Broken Finger Blues](https://open.spotify.com/track/0O2WHAJUeYcElqNz8g2Q1V) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Hex](https://open.spotify.com/album/1T764WfpIEjIxme1YdUEzF) | 4:20 | 2025-06-27 |  |
 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-03-27 |  |
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2025-06-27 |  |
@@ -43,6 +44,7 @@
 | [Ends of the Earth](https://open.spotify.com/track/0iMt8ZMe2BsNvsF9LFDOAn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M) | 4:44 | 2025-06-27 | 2026-09-19 |
 | [Everyone Talking](https://open.spotify.com/track/2mUsfzJGVxjJv04uHsZRhp) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [Everyone Talking](https://open.spotify.com/album/7r4DZ6cubuMW8HdNq83wtz) | 2:59 | 2025-06-27 |  |
 | [Fool](https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 2:54 | 2025-06-27 | 2026-09-19 |
+| [Forever](https://open.spotify.com/track/38C5EMmXonGMK1M9z5PxeP) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 3:48 | 2026-10-19 |  |
 | [Forever Ever After](https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF) | 4:56 | 2025-06-27 |  |
 | [Foxglove](https://open.spotify.com/track/3eUy850I2PGLixnjLUbZri) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a) | 2:40 | 2025-06-27 |  |
 | [Futures](https://open.spotify.com/track/1cUl1f6JjV3ehHI81hXypS) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:53 | 2025-06-27 | 2025-07-19 |
@@ -61,6 +63,7 @@
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-27 |  |
 | [Home](https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI) | 2:11 | 2025-06-27 | 2026-06-06 |
 | [Human](https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Human](https://open.spotify.com/album/1CG4EjCxgzgQgadPN0piBA) | 3:54 | 2025-06-27 |  |
+| [I Can See](https://open.spotify.com/track/1adWjZU3hbIjzG1Ir58LuX) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 5:44 | 2026-10-19 |  |
 | [I Keep Changing](https://open.spotify.com/track/01nbZnTz6leaP0wPFTxWsn) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [No Glory](https://open.spotify.com/album/78RUUDGvddkndnrYevXAAo) | 2:57 | 2025-06-27 |  |
 | [I See Myself](https://open.spotify.com/track/1rqGuE3jvcvacQk96lfnl6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:00 | 2025-06-27 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2025-06-27 |  |

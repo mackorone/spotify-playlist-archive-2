@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Mochakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,231 likes - 78 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,054 likes - 78 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 77 | [LA TO IBIZA](https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [LA TO IBIZA](https://open.spotify.com/album/1BixBJebSVzMxeiC4JyBMT) | 3:46 |
 | 78 | [Campbell's Groove](https://open.spotify.com/track/641QPe8Ut9eGJKOWQ8AbAG) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Campbell's Groove](https://open.spotify.com/album/28wbt7jEAleMbpYtmsZLu4) | 2:29 |
 
-Snapshot ID: `AAAAADse33BLpClnk28ieoNs4iOI6Q/9`
+Snapshot ID: `AAAAAD2COo7anjmTs2JKamDiHr5dq4cG`

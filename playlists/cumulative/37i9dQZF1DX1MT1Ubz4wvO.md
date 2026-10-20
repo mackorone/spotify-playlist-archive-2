@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Kidchen
 
-5,909 songs - 14 day 3 hr 27 min
+5,910 songs - 14 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,7 +687,7 @@
 | [Bótox en el Cora](https://open.spotify.com/track/3K1lcQK8aifX0aBGj40nA1) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Bótox en el Cora](https://open.spotify.com/album/6A6XBK27MThOTYAdosKCoR) | 3:16 | 2025-01-31 | 2025-02-15 |
 | [C.R.A.S.H.N.E.B.U.L.A](https://open.spotify.com/track/4f6W5leSBoW1EmfpuyTSr7) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Duotone](https://open.spotify.com/album/7D9rYWfKsvyLjijCWn3Zow) | 8:12 | 2024-12-27 | 2025-01-18 |
 | [Caballeros de la Taberna](https://open.spotify.com/track/42LyIJ9Bp3dVtnNnKxenVp) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [Caballeros de la Taberna](https://open.spotify.com/album/4BP20N5vWpT9UaZgpTk68A) | 3:07 | 2025-02-21 | 2025-03-01 |
-| [Caballo](https://open.spotify.com/track/7AAM8uC7CSaRwtshPOuJ59) | [Hostia Pedagógica](https://open.spotify.com/artist/4HNNkJyfZVm2MpsWq3EkzB) | [Homo Lamentábilis](https://open.spotify.com/album/4FqR68HqeBUkki09OuHJDK) | 3:14 | 2026-09-25 |  |
+| [Caballo](https://open.spotify.com/track/7AAM8uC7CSaRwtshPOuJ59) | [Hostia Pedagógica](https://open.spotify.com/artist/4HNNkJyfZVm2MpsWq3EkzB) | [Homo Lamentábilis](https://open.spotify.com/album/4FqR68HqeBUkki09OuHJDK) | 3:14 | 2026-09-25 | 2026-10-20 |
 | [Caballo](https://open.spotify.com/track/3nLhCAes6LTzjpPRs0DthO) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Caballo](https://open.spotify.com/album/2xlIxfr55UbcfmlrdojNfU) | 3:35 | 2023-10-13 | 2023-10-21 |
 | [Caballo Ganador](https://open.spotify.com/track/2OeulAIqOSyHfttZR6LMh7) | [Mute](https://open.spotify.com/artist/74pPZbzQHcOt9PuvlFQeCJ) | [Señales](https://open.spotify.com/album/3APa0hPhf8EnVuw3jIK9Rk) | 2:24 | 2024-02-16 | 2024-03-02 |
 | [Caballo Rojo](https://open.spotify.com/track/0RD8BJbGIjonVRV7XKMg8f) | [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Caballo Rojo](https://open.spotify.com/album/3dv71zI3rM1CxRAL5PQlJA) | 3:53 | 2023-06-16 | 2023-07-01 |
@@ -1030,6 +1030,7 @@
 | [Cordyceps](https://open.spotify.com/track/0vPMGS5FEPjk7pVf6oNdMc) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [Cordyceps](https://open.spotify.com/album/06BS8FuiWWr0qqJqxsZloj) | 2:34 | 2025-05-16 | 2025-05-24 |
 | [Coreografía](https://open.spotify.com/track/2BlIO1Gp51kNmx5M7oAIV9) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Un lugar perfecto](https://open.spotify.com/album/4xlJYN385bxZiw4QpF14P9) | 3:31 | 2024-04-05 | 2024-04-13 |
 | [Corleone](https://open.spotify.com/track/0vLZh3ayBVAYSbIOyeBYHS) | [Playa Cuberris](https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1) | [Corleone](https://open.spotify.com/album/7zDmXs2nvL0Uz8C9TaqVgR) | 3:14 | 2023-02-03 | 2023-02-11 |
+| [Corolla Del 96](https://open.spotify.com/track/1oO8aFnTnlLO85ryc0K6tx) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Corolla Del 96](https://open.spotify.com/album/2IGmu7SaHgxydC2n7eHzFE) | 3:10 | 2026-10-19 |  |
 | [Coronel](https://open.spotify.com/track/4O1PkdMNUAT53EMuv4PEmr) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Coronel](https://open.spotify.com/album/4yP6tr6iSQbIsyouDcWRWO) | 3:13 | 2025-09-19 | 2025-10-03 |
 | [Corpiños](https://open.spotify.com/track/0he2pDZz4tYGsSTNDZUWex) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Corpiños](https://open.spotify.com/album/1X3h0cRHuVDj42UFh0OyBR) | 4:05 | 2025-06-20 | 2025-06-28 |
 | [Corre](https://open.spotify.com/track/4ehvDCalSKym3Eixd3GKRy) | [Construimos Escaleras](https://open.spotify.com/artist/1teEbRoMKGuh9tFt1Thp8z) | [Construimos Escaleras](https://open.spotify.com/album/2OBE9BgcV1w8plEgVKzFjN) | 2:43 | 2026-06-26 | 2026-07-11 |

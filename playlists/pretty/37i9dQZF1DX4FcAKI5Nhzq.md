@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: Xdinary Heroes\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,694 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,669 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 |
 | 50 | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/track/7etsBgkoZX9jywsQqXOj6Z) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4) | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/album/6XDcZiFKUmUcddGG03OoFb) | 2:25 |
 
-Snapshot ID: `AAAAAAjsZoalmgNisGTBHY/4GYOL/DI5`
+Snapshot ID: `AAAAAHMGBEkvmRLaFE2bWieJmUkImltM`

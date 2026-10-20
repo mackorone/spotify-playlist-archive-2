@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,517,967 likes - 230 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,518,072 likes - 230 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 229 | [forestwalk](https://open.spotify.com/track/7vcSRkAO5p1O5NRgIhi6S0) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yosei.](https://open.spotify.com/artist/611H6R34SPmF5jQLMzc0wf) | [gatherer](https://open.spotify.com/album/62hvNdQal0AJc6U2juc1nd) | 1:43 |
 | 230 | [Rearview](https://open.spotify.com/track/7gEZsQNuTYbLiMmr8LmXhQ) | [Dondie](https://open.spotify.com/artist/519dbDArl4MXSfg1TS8DL0) | [Rearview](https://open.spotify.com/album/7ddV6wfDMPe1xOJjgGpsEN) | 2:27 |
 
-Snapshot ID: `AAAAABO6QmEV3c7s5i20HvxFOouTZdgq`
+Snapshot ID: `AAAAAKaBFyelFtJ+lZBJsjYVO3YrcA7s`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:5qQLp6Xal6S6KXEHgvxmvp">Dressed Like Boys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,276 likes - 21 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,277 likes - 21 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 20 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
 | 21 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy) | 2:22 |
 
-Snapshot ID: `AAAAAHjWcZYboe0cs4qoYkNyVYN2U/Ep`
+Snapshot ID: `AAAAACQmk6bD6QXLbIlGYYicjp0WWbUI`

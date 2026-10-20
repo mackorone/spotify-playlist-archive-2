@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Nachtigaller, Juju
 
-7,073 songs - 14 day 4 hr 45 min
+7,073 songs - 14 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1945,7 +1945,7 @@
 | [FEARLESS \- TC/TC](https://open.spotify.com/track/1ICZ3cwNl76BkWUI04Qjyd) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [FEARLESS \(TC/TC\)](https://open.spotify.com/album/35bQtPvqumVqr8SQXknxvE) | 4:33 | 2024-11-07 | 2024-11-22 |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-23 | 2024-06-01 |
 | [Feel \(feat\. Hayley May\)](https://open.spotify.com/track/1ZuqJ1ftGSKYBZ8YgU2K0e) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel \(feat\. Hayley May\)](https://open.spotify.com/album/4mQk9rco9GKmQNwZA0p9Dq) | 2:21 | 2024-04-04 | 2024-04-12 |
-| [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 | 2026-10-15 |  |
+| [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 | 2026-10-15 |  |
 | [Feel Again](https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 3:41 | 2026-06-11 | 2026-06-26 |
 | [Feel Again](https://open.spotify.com/track/7ycPxbAlnh9t5OqFduGMcM) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Feel Again](https://open.spotify.com/album/2n4TXKux57PtTAaPYK64Mp) | 3:12 | 2025-01-24 | 2025-02-07 |
 | [Feel Alive](https://open.spotify.com/track/2dkZSuf8vtAybY9yNuHzqm) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Feel Alive](https://open.spotify.com/album/0afsFT9pB5n6LqnhksV29M) | 3:50 | 2023-08-31 | 2023-09-15 |
@@ -6923,7 +6923,7 @@
 | [Wonderful Life '25](https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Wonderful Life '25](https://open.spotify.com/album/1AF8ip6XRTWQkN1y5rQm2a) | 2:58 | 2025-05-22 | 2025-06-27 |
 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 | 2025-05-08 | 2025-05-30 |
 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 | 2024-08-22 | 2024-09-06 |
-| [Woop Woop](https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Woop Woop EP](https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg) | 4:28 | 2026-10-15 |  |
+| [Woop Woop](https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Woop Woop EP](https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg) | 3:13 | 2026-10-15 |  |
 | [Woops](https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Dj Bountyhunter](https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66), [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Woops](https://open.spotify.com/album/7oFd9k7TkRXJh3zCPljihC) | 2:07 | 2026-09-24 |  |
 | [Words](https://open.spotify.com/track/33J3hEIqCG8h5gF1aO0RNW) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Words](https://open.spotify.com/album/6krAOSRDqEqEqJsicgVwCP) | 2:25 | 2026-01-15 | 2026-01-23 |
 | [Work](https://open.spotify.com/track/0ArfxWwRJx3Q5RCSnhZEED) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Work](https://open.spotify.com/album/50Dgr7jv8mIp9fZFo8aLwd) | 2:51 | 2026-04-09 | 2026-04-17 |

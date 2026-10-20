@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,885 likes - 100 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,908 likes - 100 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Bagijime](https://open.spotify.com/track/5QLJDJ4elB8iK3Eg946plm) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Sebabala Mamabolo](https://open.spotify.com/artist/4ecA5ph3B2aHjhaPITEWlq) | [Bagijime](https://open.spotify.com/album/1T7lHdJX27NfZ2CGiPwCoq) | 9:07 |
 | 100 | [Qhubeka Njalo](https://open.spotify.com/track/4IgBm1I3KqsumRjbHWBlLI) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Qhubeka Njalo](https://open.spotify.com/album/1MQ1niU1Fca4c7sekou43z) | 6:33 |
 
-Snapshot ID: `AAAAAAB8dpIgmSqYotnmkEaVve0i4fc+`
+Snapshot ID: `AAAAAMQrwI+rByP3Kt3V6uxcCCLJpdfu`

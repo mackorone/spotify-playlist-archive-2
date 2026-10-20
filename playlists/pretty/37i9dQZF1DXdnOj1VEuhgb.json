@@ -1,28 +1,48 @@
 {
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Joker",
-  "num_followers": 1401888,
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive",
+  "num_followers": 1401810,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK53WX75jxI6ARscq3SqoBDDckgj",
+  "snapshot_id": "AAAAAECj8MUALXriAFyZyo6n6p16/Y4W",
   "tracks": [
     {
-      "added_at": "2026-10-12 10:00:22",
+      "added_at": "2026-10-19 10:00:35",
       "album": {
-        "name": "TRAVMA",
-        "url": "https://open.spotify.com/album/33nnYpWyePoYOZGvPVoM3a"
+        "name": "Akila",
+        "url": "https://open.spotify.com/album/2igL5PBsn9bW1C7Rfz9RsV"
       },
       "artists": [
         {
-          "name": "Joker",
-          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
         }
       ],
-      "duration_ms": 154721,
-      "name": "Inferno",
-      "url": "https://open.spotify.com/track/5vZ1UuapQITrjdLTelc6Y5"
+      "duration_ms": 168000,
+      "name": "Akila",
+      "url": "https://open.spotify.com/track/6TiCIA7EPfjSqpfRP5XKDf"
+    },
+    {
+      "added_at": "2026-10-19 10:00:35",
+      "album": {
+        "name": "B\u0130POLAR",
+        "url": "https://open.spotify.com/album/73ZpIT1sbDrhEoCGI0DLWK"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "KERO",
+          "url": "https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2"
+        }
+      ],
+      "duration_ms": 116818,
+      "name": "B\u0130POLAR",
+      "url": "https://open.spotify.com/track/2oTcTeCe63Rt4LEWTQLT23"
     },
     {
       "added_at": "2026-10-12 10:00:22",
@@ -43,42 +63,18 @@
     {
       "added_at": "2026-10-12 10:00:22",
       "album": {
-        "name": "KOZ: Nagra SN",
-        "url": "https://open.spotify.com/album/6ZA9S8YWM8xeGI2s4nVSMd"
+        "name": "TRAVMA",
+        "url": "https://open.spotify.com/album/33nnYpWyePoYOZGvPVoM3a"
       },
       "artists": [
         {
-          "name": "Kayra",
-          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
-        },
-        {
-          "name": "saiwron",
-          "url": "https://open.spotify.com/artist/6ZcbsMt9LpyajeeQKSBVVt"
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Bu Hayal Bitmeyecek Baba",
-      "url": "https://open.spotify.com/track/5LBk2JUDVzNlS8nuBKhq0c"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "P H O E N I X",
-        "url": "https://open.spotify.com/album/4rydhidqll3urBIwsLN84U"
-      },
-      "artists": [
-        {
-          "name": "Allame",
-          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
-        },
-        {
-          "name": "Ceg",
-          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
-        }
-      ],
-      "duration_ms": 159677,
-      "name": "1 L \u0130 T R E",
-      "url": "https://open.spotify.com/track/4WOHfjQoudxYfGJaOtvWwJ"
+      "duration_ms": 154721,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/5vZ1UuapQITrjdLTelc6Y5"
     },
     {
       "added_at": "2026-10-12 10:00:22",
@@ -101,6 +97,22 @@
       "url": "https://open.spotify.com/track/6bMIQnTROwnl9kCSNNXMgt"
     },
     {
+      "added_at": "2026-10-19 10:00:35",
+      "album": {
+        "name": "KAFA RAHAT",
+        "url": "https://open.spotify.com/album/3OfDoOiVnJSztmXjUqhoxJ"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 152053,
+      "name": "KAFA RAHAT",
+      "url": "https://open.spotify.com/track/4rjqYVD8N7neJxcv5rLfiM"
+    },
+    {
       "added_at": "2026-10-12 10:00:22",
       "album": {
         "name": "WALDEMAR HOF",
@@ -115,22 +127,6 @@
       "duration_ms": 193416,
       "name": "CANLARDIR",
       "url": "https://open.spotify.com/track/6KptjqCopF3548pDqNhyIT"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "ATE\u015e VE SU",
-        "url": "https://open.spotify.com/album/5HOrVBu8gf36EHFJQOuG83"
-      },
-      "artists": [
-        {
-          "name": "D3",
-          "url": "https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "ATE\u015e VE SU",
-      "url": "https://open.spotify.com/track/5jk9xEcIbBO9wG8beGmhWN"
     },
     {
       "added_at": "2026-10-12 10:00:22",
@@ -151,6 +147,38 @@
       "duration_ms": 142849,
       "name": "Poetler Ritimli",
       "url": "https://open.spotify.com/track/4pySCw0vYoDx6bsDw9IbF4"
+    },
+    {
+      "added_at": "2026-10-12 10:00:22",
+      "album": {
+        "name": "ATE\u015e VE SU",
+        "url": "https://open.spotify.com/album/5HOrVBu8gf36EHFJQOuG83"
+      },
+      "artists": [
+        {
+          "name": "D3",
+          "url": "https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "ATE\u015e VE SU",
+      "url": "https://open.spotify.com/track/5jk9xEcIbBO9wG8beGmhWN"
+    },
+    {
+      "added_at": "2026-10-12 10:00:22",
+      "album": {
+        "name": "UZAY",
+        "url": "https://open.spotify.com/album/6VzgmaxAY32ZfOpZmgPLdk"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 164691,
+      "name": "yan\u0131yorum",
+      "url": "https://open.spotify.com/track/4m3vcpgaQNIuyomyVgzofd"
     },
     {
       "added_at": "2026-10-15 07:38:10",
@@ -187,6 +215,66 @@
       "duration_ms": 156000,
       "name": "Y\u00fcz\u00fcn\u00fc Unutuyorum",
       "url": "https://open.spotify.com/track/4y6kP5AfWGe0EaalxPUJ2O"
+    },
+    {
+      "added_at": "2026-10-12 10:00:22",
+      "album": {
+        "name": "P H O E N I X",
+        "url": "https://open.spotify.com/album/4rydhidqll3urBIwsLN84U"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        },
+        {
+          "name": "Ceg",
+          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+        }
+      ],
+      "duration_ms": 159677,
+      "name": "1 L \u0130 T R E",
+      "url": "https://open.spotify.com/track/4WOHfjQoudxYfGJaOtvWwJ"
+    },
+    {
+      "added_at": "2026-10-12 10:00:22",
+      "album": {
+        "name": "En G\u00fczel Tesad\u00fcf\u00fcm",
+        "url": "https://open.spotify.com/album/3DT1crEOcoG4q3Yq9Isy1p"
+      },
+      "artists": [
+        {
+          "name": "Tefo",
+          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
+        },
+        {
+          "name": "Seko",
+          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
+        }
+      ],
+      "duration_ms": 164655,
+      "name": "En G\u00fczel Tesad\u00fcf\u00fcm",
+      "url": "https://open.spotify.com/track/3iuSeG95MAFwUSFazfOKVs"
+    },
+    {
+      "added_at": "2026-10-19 10:00:35",
+      "album": {
+        "name": "Kromozom",
+        "url": "https://open.spotify.com/album/7uaf3oUGio1KkMEhlZm8oj"
+      },
+      "artists": [
+        {
+          "name": "Birand",
+          "url": "https://open.spotify.com/artist/02DLpTPfY9uEAEvKdz3RBZ"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Kromozom",
+      "url": "https://open.spotify.com/track/3BYmgcLS2o3rvi2i540Hrq"
     },
     {
       "added_at": "2026-10-14 05:19:41",
@@ -247,6 +335,26 @@
     {
       "added_at": "2026-10-12 10:00:22",
       "album": {
+        "name": "KOZ: Nagra SN",
+        "url": "https://open.spotify.com/album/6ZA9S8YWM8xeGI2s4nVSMd"
+      },
+      "artists": [
+        {
+          "name": "Kayra",
+          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
+        },
+        {
+          "name": "saiwron",
+          "url": "https://open.spotify.com/artist/6ZcbsMt9LpyajeeQKSBVVt"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Bu Hayal Bitmeyecek Baba",
+      "url": "https://open.spotify.com/track/5LBk2JUDVzNlS8nuBKhq0c"
+    },
+    {
+      "added_at": "2026-10-12 10:00:22",
+      "album": {
         "name": "K\u0131r\u0131k Pencere",
         "url": "https://open.spotify.com/album/1G86X3S2WxLux1isDCXWqi"
       },
@@ -299,42 +407,6 @@
       "duration_ms": 127187,
       "name": "diva",
       "url": "https://open.spotify.com/track/4uBPQy3fLP8t6XFRTMLmHT"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "En G\u00fczel Tesad\u00fcf\u00fcm",
-        "url": "https://open.spotify.com/album/3DT1crEOcoG4q3Yq9Isy1p"
-      },
-      "artists": [
-        {
-          "name": "Tefo",
-          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
-        },
-        {
-          "name": "Seko",
-          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
-        }
-      ],
-      "duration_ms": 164655,
-      "name": "En G\u00fczel Tesad\u00fcf\u00fcm",
-      "url": "https://open.spotify.com/track/3iuSeG95MAFwUSFazfOKVs"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "UZAY",
-        "url": "https://open.spotify.com/album/6VzgmaxAY32ZfOpZmgPLdk"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 164691,
-      "name": "yan\u0131yorum",
-      "url": "https://open.spotify.com/track/4m3vcpgaQNIuyomyVgzofd"
     },
     {
       "added_at": "2026-10-12 10:00:22",
@@ -419,70 +491,6 @@
       "duration_ms": 207214,
       "name": "karambol",
       "url": "https://open.spotify.com/track/3pPPDBOwb5F9drPF09wthF"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "BO\u015eLUK",
-        "url": "https://open.spotify.com/album/6taJcYDfRDv3oZn4l02sem"
-      },
-      "artists": [
-        {
-          "name": "Kei\u015fan",
-          "url": "https://open.spotify.com/artist/5Pd3tsRa9fj2Q3JPQ0tYEv"
-        },
-        {
-          "name": "Ceg",
-          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "BO\u015eLUK",
-      "url": "https://open.spotify.com/track/4b5cJ2Jl9e35VAMT4TpEwr"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "ALENEN",
-        "url": "https://open.spotify.com/album/0nIiF842LKMFL4WPyJW06M"
-      },
-      "artists": [
-        {
-          "name": "Jefe",
-          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
-        },
-        {
-          "name": "Segah",
-          "url": "https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P"
-        },
-        {
-          "name": "Kleo",
-          "url": "https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm"
-        }
-      ],
-      "duration_ms": 174844,
-      "name": "ALENEN",
-      "url": "https://open.spotify.com/track/0ta6sqke3ZadTuA45Friha"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/1L1YCKt6jysl3B6GLLmp2L"
-      },
-      "artists": [
-        {
-          "name": "Reckol",
-          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
-        },
-        {
-          "name": "Kava",
-          "url": "https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f"
-        }
-      ],
-      "duration_ms": 129446,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/1GGU3Pis8Cd5KVzWebtDho"
     },
     {
       "added_at": "2026-10-12 10:00:22",
@@ -655,22 +663,6 @@
       "duration_ms": 137512,
       "name": "Bana Ne Bu Sevdalardan",
       "url": "https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR"
-    },
-    {
-      "added_at": "2026-10-12 10:00:22",
-      "album": {
-        "name": "Kan II",
-        "url": "https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Sil Ba\u015ftan",
-      "url": "https://open.spotify.com/track/4AmVMdquenc1CL6Hf7Fhlg"
     },
     {
       "added_at": "2026-10-12 10:00:22",

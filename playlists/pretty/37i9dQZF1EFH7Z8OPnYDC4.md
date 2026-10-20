@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712 likes - 335 songs - 19 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 713 likes - 335 songs - 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,8 +293,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 283 | [Strangers \(From The TV Production "Androcles And The Lion"\)](https://open.spotify.com/track/03Dxg72BQs95iQkodgZJFp) | [Ed Ames](https://open.spotify.com/artist/1iBpJEBrSFXCtPOc5OUZiY) | [When The Snow Is On The Roses](https://open.spotify.com/album/5IS6sYAmwp86XoDf8HC9Ay) | 2:23 |
 | 284 | [Christmas at Hampton Court](https://open.spotify.com/track/1tA5Jsex1hDBT47lM78fSh) | [Penny Fuller](https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK), [Michael John](https://open.spotify.com/artist/5kejBttR77PkI9XPA2lNLu), [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 4:20 |
 | 285 | [The Alto’s Lament](https://open.spotify.com/track/4cLASImEceUnxPoKBKQOhz) | [Jessica Weidman](https://open.spotify.com/artist/1dP7ySEvGBqTvvn4i8z5GH) | [A Night at the Theater](https://open.spotify.com/album/7Lot3vzmVllhUDjQPYEmXC) | 3:44 |
-| 286 | [Questions and Answers \(The Three B's\)](https://open.spotify.com/track/1ttqOv1TYCfjjy27P8pUK5) | [Lara Teeter](https://open.spotify.com/artist/6H1FSs4UZV8ADKLduFgLbg), [John Yap](https://open.spotify.com/artist/00nfwMY19NEvMutq0neftB) | [On Your Toes \(1983 Broadway Revival Cast\)](https://open.spotify.com/album/1bBqDpzL3msLxDbuo1mqoD) | 2:38 |
-| 287 | [Moon in My Window](https://open.spotify.com/track/2qNW88mNLodRLtD910yxLE) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Do I Hear a Waltz?](https://open.spotify.com/album/1NegeJLFMQC13QOWUjXGN0) | 3:37 |
+| 286 | [Moon in My Window](https://open.spotify.com/track/2qNW88mNLodRLtD910yxLE) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Do I Hear a Waltz?](https://open.spotify.com/album/1NegeJLFMQC13QOWUjXGN0) | 3:37 |
+| 287 | [Questions and Answers \(The Three B's\)](https://open.spotify.com/track/1ttqOv1TYCfjjy27P8pUK5) | [Lara Teeter](https://open.spotify.com/artist/6H1FSs4UZV8ADKLduFgLbg), [John Yap](https://open.spotify.com/artist/00nfwMY19NEvMutq0neftB) | [On Your Toes \(1983 Broadway Revival Cast\)](https://open.spotify.com/album/1bBqDpzL3msLxDbuo1mqoD) | 2:38 |
 | 288 | [Everybody Loves Leona](https://open.spotify.com/track/2MOWOZtSVxJ4VXhXxtpsJ3) | [Rose Marie Jun](https://open.spotify.com/artist/0Vr2OpTxZP05kXh7FazHmJ) | [The Story So Far...](https://open.spotify.com/album/2zXRkiLc7kdek7Gv97suTW) | 2:41 |
 | 289 | [The Sound of Music \- From "The Sound of Music"](https://open.spotify.com/track/2ie2DPp8oYLtD58nwx6eIH) | [Shona Lindsay](https://open.spotify.com/artist/6t1FbxO8OOaBLNMS2AcNWV), [National Symphony Orchestra](https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi), [Martin Yates](https://open.spotify.com/artist/5XFFT4yEQNLtmedN1FF29Q) | [Simply Broadway](https://open.spotify.com/album/5vXFcCf7G5CpzN7MWC6ZD3) | 3:16 |
 | 290 | [Careless Rhapsody](https://open.spotify.com/track/2SoYHwYcuQ2LaqYnXuF2f2) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 4:11 |
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 334 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 | 335 | [She Could Shake the Maracas](https://open.spotify.com/track/4pJIB4iNu8GeqjGOwZRxmw) | [George Abbott](https://open.spotify.com/artist/4pNU6xIv6pHseJVwo9Bis1) | [Too Many Girls](https://open.spotify.com/album/035x7wyVllNXrldHkXE67P) | 2:15 |
 
-Snapshot ID: `AcfTaAAAAABK1imX4Hg8XpNtw4NgaJD0`
+Snapshot ID: `AcfZRAAAAAB6zxY+GTD++Kl5gPhCJJoA`

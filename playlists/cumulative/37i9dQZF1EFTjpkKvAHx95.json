@@ -4105,6 +4105,28 @@
     },
     {
       "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Shadea Charai",
+          "url": "https://open.spotify.com/artist/5ZOSK3zvZY6TUQe9CC7nrP"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208699,
+      "name": "Thunder Baby (feat. Shadea Charai)",
+      "url": "https://open.spotify.com/track/5mNRP0bfBGP8idnF9YHV4f"
+    },
+    {
+      "album": {
         "name": "Tic Toc",
         "url": "https://open.spotify.com/album/7MzeqFSZOsMvKPTkLXb8eL"
       },
@@ -4368,7 +4390,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-20",
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"

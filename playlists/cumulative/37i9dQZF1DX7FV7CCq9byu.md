@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-2,037 songs - 4 day 8 hr 29 min
+2,038 songs - 4 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 | 2026-07-16 | 2026-10-02 |
 | [Good Run](https://open.spotify.com/track/6DbRfIYcho6OCdzAAuvGAI) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Good Run](https://open.spotify.com/album/2f8t1TimRsjgQ4WCNG9vES) | 2:17 | 2026-07-31 | 2026-10-16 |
 | [Good Times](https://open.spotify.com/track/2bpxHht751EzvYMtshniQb) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/4DQ02ewBv77utFJEC7uXZX) | 3:04 | 2026-07-16 | 2026-10-02 |
+| [Goodbye To A Lover Again](https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Goodbye To A Lover Again](https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4) | 2:19 | 2026-10-19 |  |
 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 | 2025-09-25 | 2025-12-12 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-10-25 |
 | [Grabbar](https://open.spotify.com/track/6QE6XoSJbdsJazrXKryvcm) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Grabbar](https://open.spotify.com/album/7B16GHIGTLaMLdDiRkfIC1) | 2:16 | 2026-05-14 | 2026-06-19 |

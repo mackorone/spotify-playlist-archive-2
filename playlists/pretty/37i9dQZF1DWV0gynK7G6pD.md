@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Bertrand Chamayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,898 likes - 92 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,882 likes - 92 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 91 | [All Our Wrongful Dead: I\. …outrage …anguish …again and again](https://open.spotify.com/track/6qw3HPusgaJ1QvpbLcafnT) | [Robert McCauley](https://open.spotify.com/artist/6UTMrCiOUdHFt4tIpPt9Yo), [Katherine Butler](https://open.spotify.com/artist/4fWctnVZ1l54GbNAqNGmje), [Molly Pope](https://open.spotify.com/artist/01bPG1Znm01VlZrodrGwpx), [Sebastian Berofsky](https://open.spotify.com/artist/0xkLrXYjDTro8aiG7n0bVw), [Zev Malina](https://open.spotify.com/artist/4SvIdQJXoLsdibOfHJRmj6) | [All Our Wrongful Dead: I\. …outrage …anguish …again and again](https://open.spotify.com/album/3H5fJ2w8TG6TmDlPQBGyFt) | 13:38 |
 | 92 | [Anacrusis \(I\)](https://open.spotify.com/track/1q5xmhndOpy3OK4SIpn5LG) | [Sinan Carter Savaşkan](https://open.spotify.com/artist/2rbGWR6hv1YraDn5cB0ET1), [Octandre Ensemble](https://open.spotify.com/artist/4F4VTyauwy9XCxd8u7N3t5), [Jonathan Hargreaves](https://open.spotify.com/artist/2R9a3HFvm3iPBDUYk9Br0m) | [Eleven Conditions of Responsibility](https://open.spotify.com/album/3D54NbXIMOITRHVPB7IFSL) | 5:14 |
 
-Snapshot ID: `AAAAAOLeI0nJIn50uo/d7ei1IJ9UlBLZ`
+Snapshot ID: `AAAAABvyenYJ72seJ10x2wdwTHQyH0Pu`

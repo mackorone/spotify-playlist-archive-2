@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Quavo, A$AP Rocky and Gunna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,518,965 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,517,090 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [DOWN FOR REAL](https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh) | [Victor Victor Presents](https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DOWN FOR REAL](https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE) | 3:02 |
 | 50 | [How To Pray](https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 2:47 |
 
-Snapshot ID: `AAAAAEXOcOjgls1+Cr1wOg9hAsc+VZon`
+Snapshot ID: `AAAAABalJ652kHI5+GG4GO/YTe/nduSl`

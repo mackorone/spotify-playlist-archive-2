@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atK6gAAAAABA8ZH8B0LI0VjMeW7QVm+m",
+  "snapshot_id": "atQMAAAAAAA9hJnvgUF5U6Aq1Y6U3XDh",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu No Me Conoces",
         "url": "https://open.spotify.com/album/0Kf2Cxcg7mLyurZaNlpbbe"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 211000,
       "name": "Tu No Me Conoces",
       "url": "https://open.spotify.com/track/5hagWOIk1mHOJBlnaf5Sl0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quedate (Reggaeton)",
-        "url": "https://open.spotify.com/album/0kHLcSVwOvcN5GNcOjHLlD"
+        "name": "Quedate (Live)",
+        "url": "https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 194676,
-      "name": "Quedate - Reggaeton",
-      "url": "https://open.spotify.com/track/3d62Eu71Z1cQVXKcGQH3Of"
+      "duration_ms": 210333,
+      "name": "Quedate - Live",
+      "url": "https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc"
     },
     {
       "added_at": null,

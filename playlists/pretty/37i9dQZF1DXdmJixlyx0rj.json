@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: NECTA)",
-  "num_followers": 38186,
+  "num_followers": 38190,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPt4aHXLEqK8fXnbRSsPJdya1qtb",
+  "snapshot_id": "AAAAAOVuOuFwzTaVJGp4IX+h6iNC+swP",
   "tracks": [
     {
       "added_at": "2026-10-17 03:00:42",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "Like Crazy (Remixes)",
-        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 180719,
-      "name": "Like Crazy (Deep House Remix)",
-      "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "untitled compilation vol.1",
         "url": "https://open.spotify.com/album/3wxhUybx2U88IaeqgHr11g"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 166368,
       "name": "caffeine rush",
       "url": "https://open.spotify.com/track/60Va05dDxcW7Fa7xXLwR6C"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 180719,
+      "name": "Like Crazy (Deep House Remix)",
+      "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
         "name": "PINKY UP: The Remixes",
         "url": "https://open.spotify.com/album/6SbW01YgpOGMmqTm8XoyBB"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 167989,
       "name": "PINKY UP - Katwalk Remix",
       "url": "https://open.spotify.com/track/7o6hR43FSGru6pmc9KofQU"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "White cat",
-        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "White cat",
-      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "SAINT",
         "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 179426,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "White cat",
+        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "White cat",
+      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "Mirror ball (feat. Moon Sujin)",
-        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
-      },
-      "artists": [
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Mirror ball (feat. Moon Sujin)",
-      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "TREASURE EP. Map To Answer",
         "url": "https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 198386,
       "name": "WONDERLAND - SEAN OH's Skrt Mix",
       "url": "https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "Mirror ball (feat. Moon Sujin)",
+        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Mirror ball (feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -983,30 +983,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
-        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
-      },
-      "artists": [
-        {
-          "name": "KINO",
-          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        },
-        {
-          "name": "UWA",
-          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "DIRTY BOY (feat. JAMIE & UWA)",
-      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "K-POP ScreaM 3",
         "url": "https://open.spotify.com/album/5NK2QooMJIctUo0gUX4yfm"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 270400,
       "name": "poppop - Arkins Remix",
       "url": "https://open.spotify.com/track/6W5jkQxPErgbTLNcu6QEJb"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
+        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+      },
+      "artists": [
+        {
+          "name": "KINO",
+          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "UWA",
+          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "DIRTY BOY (feat. JAMIE & UWA)",
+      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "Motorskills",
-        "url": "https://open.spotify.com/album/3yunGdbhiuxIjgwEBGt4YY"
-      },
-      "artists": [
-        {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        }
-      ],
-      "duration_ms": 267324,
-      "name": "Motorskills",
-      "url": "https://open.spotify.com/track/0AnbP0VoncGfQJpRs0gg1B"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 259411,
       "name": "PEOPLE (Stomping)",
       "url": "https://open.spotify.com/track/7HbGe9tgbqhe6ZqrnAUY1P"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "Motorskills",
+        "url": "https://open.spotify.com/album/3yunGdbhiuxIjgwEBGt4YY"
+      },
+      "artists": [
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 267324,
+      "name": "Motorskills",
+      "url": "https://open.spotify.com/track/0AnbP0VoncGfQJpRs0gg1B"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "Unstable",
-        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
-      },
-      "artists": [
-        {
-          "name": "Itzel",
-          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Unstable",
-      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "LOTTO - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 245189,
       "name": "Monster - LDN Noise Creeper Bass Remix",
       "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
+      },
+      "artists": [
+        {
+          "name": "Itzel",
+          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "SPAZ",
-        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Bassister (Feat. Kid Milli)",
-      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "Good Night Good Morning (GNGM) [minlee Remix]",
         "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 125629,
       "name": "Good Night Good Morning (GNGM) - minlee Remix",
       "url": "https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "SPAZ",
+        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Bassister (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 169883,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 169883,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
     },
     {
       "added_at": "2026-10-17 03:00:42",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-10-17 03:00:42",
       "album": {
-        "name": "<Queendom2> Part.1-2",
-        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
-      "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
-    },
-    {
-      "added_at": "2026-10-17 03:00:42",
-      "album": {
         "name": "ScreaM Rookies : The Chase (Remixes)",
         "url": "https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 215168,
       "name": "The Chase - 0to Remix",
       "url": "https://open.spotify.com/track/32yoamnHf2sqYvzZIN9OJr"
+    },
+    {
+      "added_at": "2026-10-17 03:00:42",
+      "album": {
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
+      "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
     },
     {
       "added_at": "2026-10-17 03:00:42",

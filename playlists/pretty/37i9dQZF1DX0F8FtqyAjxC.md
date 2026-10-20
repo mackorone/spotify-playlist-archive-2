@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,817 likes - 83 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,823 likes - 83 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Forever Now](https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Forever Now](https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ) | 2:56 |
-| 2 | [Yesterday's Love](https://open.spotify.com/track/5p7I44YEHMCoDIxSg8lxER) | [Aura](https://open.spotify.com/artist/73HQJyInqakFDIW0GVdxRA) | [Aloha Got Soul](https://open.spotify.com/album/2AvrkER9t7BzJYCsUmkSHx) | 4:54 |
+| 2 | [Yesterday's Love](https://open.spotify.com/track/5p7I44YEHMCoDIxSg8lxER) | [Aura](https://open.spotify.com/artist/2Hr3q02Ud8nIEVCHCdfH0g) | [Aloha Got Soul](https://open.spotify.com/album/2AvrkER9t7BzJYCsUmkSHx) | 4:54 |
 | 3 | [I Never Knew Love](https://open.spotify.com/track/4VqUkCI0LwAe5DiF6bJ03Q) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [I Never Knew Love](https://open.spotify.com/album/2aM94wMc9dYKR1cRoPRG76) | 3:23 |
 | 4 | [No Worries \- Dennis Quin Remix](https://open.spotify.com/track/63G26wyRVzWcfCIUa8WUUM) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [No Worries '22 \(Dennis Quin Remix\)](https://open.spotify.com/album/01dCPwuW4tG60zhi2PlVwL) | 3:33 |
 | 5 | [All Day \- Jackie Hollander Remix](https://open.spotify.com/track/4Jy1rvDyPYkRP74TGXciBN) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All Day \(Jackie Hollander Remix\)](https://open.spotify.com/album/6c9grXvydLnMkbTBwGQSHx) | 3:17 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 82 | [Say You Wanna](https://open.spotify.com/track/3EAPDEgbg6d0DTttRo8kdI) | [Howard Johnson](https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt) | [Keepin' Love New](https://open.spotify.com/album/3IMEhRbxKkn0sMfCJlyrdN) | 4:36 |
 | 83 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/3DIe90xqHuUDtyuapTwCAR) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [S.O.S.](https://open.spotify.com/album/7DhDuhhalViRMA628XKnQS) | 7:40 |
 
-Snapshot ID: `AAAAAK4hElMOCdsg0oLbHwiDGv5jkZ8B`
+Snapshot ID: `AAAAADf/qrbTr1zysva5ehdKi9WSjo4f`

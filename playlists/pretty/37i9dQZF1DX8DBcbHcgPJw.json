@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1086291,
+  "num_followers": 1086174,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAElkvEtsokxUnu0ddNZISzLQFMAp",
+  "snapshot_id": "AAAAAJQ1/gNDP1zCrOimfJhQ+WT93cxX",
   "tracks": [
     {
       "added_at": "2026-09-25 03:00:47",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
+      },
+      "artists": [
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 356261,
+      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Una Condena",
         "url": "https://open.spotify.com/album/0pWk2Zw0cz9PnuNHyxmMWr"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 157131,
       "name": "Una Condena",
       "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
-      },
-      "artists": [
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        }
-      ],
-      "duration_ms": 356261,
-      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "SALE SOLA",
         "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 125969,
       "name": "SALE SOLA",
       "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
-      },
-      "artists": [
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+        "name": "Quiero Olvidarte",
+        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
         }
       ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+      "duration_ms": 206432,
+      "name": "Quiero Olvidarte",
+      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1179,22 +1183,42 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Quiero Olvidarte",
-        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
       },
       "artists": [
         {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 206432,
-      "name": "Quiero Olvidarte",
-      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Chica Brasile\u00f1a Remix",
+        "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "duration_ms": 167553,
+      "name": "Chica Brasile\u00f1a Remix",
+      "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1223,30 +1247,6 @@
       "duration_ms": 201483,
       "name": "Tu Sacaganas (Remix)",
       "url": "https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Chica Brasile\u00f1a Remix",
-        "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
-      },
-      "artists": [
-        {
-          "name": "El Turko",
-          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
-        },
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        },
-        {
-          "name": "Mandale Flow",
-          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
-        }
-      ],
-      "duration_ms": 167553,
-      "name": "Chica Brasile\u00f1a Remix",
-      "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+        "url": "https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 152696,
+      "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+      "url": "https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Lo Mismo Que A M\u00ed",
         "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 186360,
       "name": "Lo Mismo Que A M\u00ed",
       "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
-        "url": "https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 152696,
-      "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
-      "url": "https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/7ieJgZqr704fyywAVRUYQX"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 136208,
-      "name": "No Me Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "VAS A VOLVER",
         "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 144666,
       "name": "VAS A VOLVER",
       "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/7ieJgZqr704fyywAVRUYQX"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 136208,
+      "name": "No Me Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -2091,22 +2091,34 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Supuestamente",
-        "url": "https://open.spotify.com/album/5WgJsoyMhj8zYdRJjSSist"
+        "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
+        "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
       },
       "artists": [
         {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
         },
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Supuestamente",
-      "url": "https://open.spotify.com/track/75fbmsSedxEdayE8ytGbDn"
+      "duration_ms": 253340,
+      "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
+      "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

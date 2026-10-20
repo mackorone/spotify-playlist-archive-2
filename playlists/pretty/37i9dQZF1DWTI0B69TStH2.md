@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6K3fUTZW103do4Y5mdHYw5">agataishername</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,886 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,885 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [Numero Uno](https://open.spotify.com/track/36yAo70c3mngZxSeGDvdLl) | [KORDYLAS](https://open.spotify.com/artist/0KNCeQP9HsDlLa1bS0Ln9y) | [Numero Uno](https://open.spotify.com/album/681VXJGK3dBnTSkvvLZgTz) | 4:14 |
 | 50 | [Powiedz proszę](https://open.spotify.com/track/0LTspCaFwEtZqpJMnSdPqQ) | [Maja Janowska](https://open.spotify.com/artist/5D4KYrXugbyFJf27b0PqH5) | [Powiedz proszę](https://open.spotify.com/album/6B9LnC9e8kUYwTXMUmDNYn) | 2:55 |
 
-Snapshot ID: `AAAAAOZcOvUv1A7Quc4QAr9JM3bmMNtk`
+Snapshot ID: `AAAAAFcrfoZz3yvg58vib1l5KFwOItPv`

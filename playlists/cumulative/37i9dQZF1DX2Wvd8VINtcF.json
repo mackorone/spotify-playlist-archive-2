@@ -14099,24 +14099,6 @@
     },
     {
       "album": {
-        "name": "F*** No",
-        "url": "https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu"
-      },
-      "artists": [
-        {
-          "name": "Yangze",
-          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172368,
-      "name": "F*** No",
-      "url": "https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX"
-    },
-    {
-      "album": {
         "name": "F*Me",
         "url": "https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH"
       },
@@ -16552,6 +16534,24 @@
       "duration_ms": 161646,
       "name": "Fuck My Money",
       "url": "https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt"
+    },
+    {
+      "album": {
+        "name": "Fuck No",
+        "url": "https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172368,
+      "name": "Fuck No",
+      "url": "https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX"
     },
     {
       "album": {

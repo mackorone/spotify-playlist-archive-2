@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Wyatt McCubbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,975 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,999 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 3 | [Disco Rodeo](https://open.spotify.com/track/01inHg6ekUpBOVKF5NcpGe) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Midwestern](https://open.spotify.com/album/79N3KBLxL0VxFfdIHz8wsV) | 3:03 |
 | 4 | [Thread of You](https://open.spotify.com/track/3lfRBQW5NEZfTJIeewYTqh) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Peace in My Mind](https://open.spotify.com/album/5AGj9M1yvhFjWyitIeXxY4) | 3:38 |
 | 5 | [Don’t Be](https://open.spotify.com/track/7yN13EhN0Yxy375KQLB5Fr) | [Brandon Wisham](https://open.spotify.com/artist/51b8vVMeSaO3MAMfatptRu) | [Ain't What It Looks Like \(Continued\)](https://open.spotify.com/album/2A1a5QXHojh5NnFvgg5ton) | 3:53 |
-| 6 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Wild Hearts](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
+| 6 | [Wild Hearts](https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Wild Hearts Series](https://open.spotify.com/album/7hH5Wd2zhyrBlkFVluPAj6) | 2:54 |
 | 7 | [Off](https://open.spotify.com/track/5dBFH4wDIQ3nuww50wCVll) | [Will Terry](https://open.spotify.com/artist/7xAyDnSaVbPQPGqaU6XP7v) | [Off](https://open.spotify.com/album/0JBCluBU75xIQuCH5dlOho) | 2:42 |
 | 8 | [In The Wiring](https://open.spotify.com/track/7sht8k4M4m4usP8dQ8J04T) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [In The Wiring](https://open.spotify.com/album/5yPYeGUuQmjAx2xy9tnCHq) | 3:30 |
 | 9 | [I've Always Hated Space](https://open.spotify.com/track/6XqJlgxwSeZQxKJAm0NPI5) | [Ava Hall](https://open.spotify.com/artist/3jbuDS17Z5ioo8IFU1sjGt) | [I've Always Hated Space](https://open.spotify.com/album/4sDuEKPzwqrgMgS8vkU5gu) | 3:18 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Too Far Gone](https://open.spotify.com/track/4yQkY0H62mICj7tXIb44Ir) | [Emma Smalley](https://open.spotify.com/artist/0aS7MPo8k8PNxOAJmRVcDw) | [Too Far Gone](https://open.spotify.com/album/638F3gObkZXTuJQI3FkBt5) | 3:43 |
 | 200 | [High Water](https://open.spotify.com/track/5ltXSLSagc9mlHsVNV6TEp) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Suede](https://open.spotify.com/album/1G4oYWXbw8Yji0qNRcXnWO) | 3:31 |
 
-Snapshot ID: `AAAAALLe8WTm44OpyqCPXHvFLy5dj601`
+Snapshot ID: `AAAAAAu/cl3llifbFtfqQr99Oxfgfx6d`

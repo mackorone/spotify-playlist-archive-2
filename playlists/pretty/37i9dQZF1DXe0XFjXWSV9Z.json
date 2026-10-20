@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 52047,
+  "num_followers": 52050,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPnLMfc42lsN3KUBb2CV7TO5thy",
+  "snapshot_id": "AAAAAMPrnrIR18LmYoI8qCoalgyCQRc2",
   "tracks": [
     {
       "added_at": "2025-05-19 17:05:09",
@@ -295,26 +295,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Hijo de Tigre",
-        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia Chicharra",
-          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
-        },
-        {
-          "name": "Emilie Rambaud",
-          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
-        }
-      ],
-      "duration_ms": 356693,
-      "name": "La We\u00e1",
-      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Los Charapas de Oro",
         "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
       },
@@ -331,18 +311,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+        "name": "Hijo de Tigre",
+        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
       },
       "artists": [
         {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+          "name": "La Cumbia Chicharra",
+          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
+        },
+        {
+          "name": "Emilie Rambaud",
+          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+      "duration_ms": 356693,
+      "name": "La We\u00e1",
+      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -379,6 +363,22 @@
       "duration_ms": 185083,
       "name": "Harta",
       "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Noche triler",
         "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 238907,
       "name": "Noche triler",
       "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Churro Vs. Crow",
+        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Churro Vs. Crow",
+      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Paso Palante",
         "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Churro Vs. Crow",
-        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
       },
       "artists": [
         {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+          "name": "Mario y sus Diamantes",
+          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Churro Vs. Crow",
-      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
+      "duration_ms": 160067,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1163,22 +1179,6 @@
       "duration_ms": 258898,
       "name": "Bueltatzen",
       "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
-      },
-      "artists": [
-        {
-          "name": "Mario y sus Diamantes",
-          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
-        }
-      ],
-      "duration_ms": 160067,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Mamarron, Vol.1",
         "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Chica Psy",
         "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 202302,
       "name": "Chica Psy",
       "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Palermo's Grunch",
+        "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 308864,
+      "name": "Palermo's Grunch",
+      "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Palermo's Grunch",
-        "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
+        "name": "Solo Yo",
+        "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
       },
       "artists": [
         {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+          "name": "Buyepongo",
+          "url": "https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0"
         }
       ],
-      "duration_ms": 308864,
-      "name": "Palermo's Grunch",
-      "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
+      "duration_ms": 492786,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Solo Yo",
-        "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
+        "name": "Cumbia Siglo XXI",
+        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
       },
       "artists": [
         {
-          "name": "Buyepongo",
-          "url": "https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0"
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
         }
       ],
-      "duration_ms": 492786,
-      "name": "Solo Yo",
-      "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"
+      "duration_ms": 197066,
+      "name": "Cumbia del Picham\u00e1n",
+      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1375,22 +1391,6 @@
       "duration_ms": 401937,
       "name": "Cumbia Ocea\u00cc\u0081nica",
       "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Cumbia Siglo XXI",
-        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Cumbia del Picham\u00e1n",
-      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
-      },
-      "artists": [
-        {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Voltaje Raizal",
         "url": "https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 316077,
       "name": "\u00d1oco\u00f1oco",
       "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+      },
+      "artists": [
+        {
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "We Haven't Been Introduced",
-        "url": "https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz"
-      },
-      "artists": [
-        {
-          "name": "Locobeach",
-          "url": "https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J"
-        }
-      ],
-      "duration_ms": 274804,
-      "name": "We Haven't Been Introduced",
-      "url": "https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Ocelote",
         "url": "https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 434400,
       "name": "Ocelote",
       "url": "https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "We Haven't Been Introduced",
+        "url": "https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz"
+      },
+      "artists": [
+        {
+          "name": "Locobeach",
+          "url": "https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J"
+        }
+      ],
+      "duration_ms": 274804,
+      "name": "We Haven't Been Introduced",
+      "url": "https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U"
     },
     {
       "added_at": "2025-05-19 17:05:09",

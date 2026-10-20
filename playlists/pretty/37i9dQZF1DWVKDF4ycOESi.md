@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Geolier, Fontaines D.C., Angelina Mango, Tate McRae, Olivia Rodrigo con Chappell Roan e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,777 likes - 95 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,764 likes - 95 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 61 | [dalla testa ai piedi](https://open.spotify.com/track/1nyRq0UoHJCApQQWncXVAy) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [dalla testa ai piedi](https://open.spotify.com/album/5L8KpSdAj3vbsQdojLt7Wq) | 3:20 |
 | 62 | [Pillola](https://open.spotify.com/track/0BjZFAP3gm2aezPlIbwHgj) | [Melancholia](https://open.spotify.com/artist/1y3Nbe31v5E2HV4stRgjPd) | [Pillola](https://open.spotify.com/album/6yJyDbUGSpq9ggmM64aOYX) | 5:29 |
 | 63 | [il mio castello di parole](https://open.spotify.com/track/3lrgzLnWAnOX2QDMhK2VxY) | [Corinna](https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6) | [il mio castello di parole](https://open.spotify.com/album/79FcMo5qd44AzmQRT6YbXl) | 3:17 |
-| 64 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 64 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 65 | [Fake or true](https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [NOTHING'S FAKE](https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW) | 2:47 |
 | 66 | [I Give Everything I Have 2 U \(feat\. Loaded Honey\)](https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 1:37 |
 | 67 | [Promise You](https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Everything, Briefly](https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf) | 2:29 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 94 | [Making Time](https://open.spotify.com/track/2ugaCgUAfAzzIC7XyHJW9m) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Making Time](https://open.spotify.com/album/79TB7PuEJjs4lMKR2b1Zwd) | 3:28 |
 | 95 | [Ex Lovers Club](https://open.spotify.com/track/6m7BgDocZEWq9aP6qcqwN2) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Ex Lovers Club](https://open.spotify.com/album/4Xm5LWSKYKibcpfJgNsG7J) | 2:55 |
 
-Snapshot ID: `AAAAANu7nkGh2Y+yU6xNgie0S+hddL8R`
+Snapshot ID: `AAAAAIoZh47Qo1jNY5I/+7tiWzNaqOUG`

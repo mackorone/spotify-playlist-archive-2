@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "AMATORE",
+        "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144100,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/2pULqfE2k1DHr24dtJwMRh"
+    },
+    {
+      "album": {
         "name": "SACRO",
         "url": "https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS"
       },
@@ -1192,6 +1214,28 @@
       "duration_ms": 211653,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ"
+    },
+    {
+      "album": {
+        "name": "AMATORE",
+        "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160253,
+      "name": "MALASUERTE",
+      "url": "https://open.spotify.com/track/3kBToJJ8zUdXNFOxBlObOy"
     },
     {
       "album": {

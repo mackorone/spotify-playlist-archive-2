@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,043 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,040 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 39 | [Improvisation / Oum El Rouba](https://open.spotify.com/track/1vvSYFSKMRUQTv9jaM6IyO) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/1iLYA1Er67QwAYFjs5SPkL) | 12:03 |
 | 40 | [Qanoun Improvisation](https://open.spotify.com/track/50JMemVAIno0plc9HqbFOu) | [Mohammed Antar and Oriental Secrets Ensemble](https://open.spotify.com/artist/2jwkIGB8WGIbWPfj5IC69H) | [Oriental Breeze](https://open.spotify.com/album/26kvGzUIQrtJI2kREW1bmc) | 2:02 |
 
-Snapshot ID: `AAAAAFFwdnHXklA1s5KZ5GEvHDkNvD0N`
+Snapshot ID: `AAAAADP28t2heGNv0yDEg3bxnTXe1V0F`

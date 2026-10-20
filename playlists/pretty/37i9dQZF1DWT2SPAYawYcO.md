@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Fontaines D.C, Zach Bryan, Lana Del Ray, Olivia Rodrigo, Chappell Roan + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,463 likes - 103 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,432 likes - 103 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 75 | [MEANT TO BE](https://open.spotify.com/track/7zJxlGeNQU0ABxIifFTStj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [MEANT TO BE](https://open.spotify.com/album/6MoccCZq9aCOif59XMqkxp) | 2:58 |
 | 76 | [Fly Away](https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Autumn](https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW) | 3:12 |
 | 77 | [The Frame](https://open.spotify.com/track/7rZahlE1yks7itaqtuPOsT) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Frame](https://open.spotify.com/album/0re1OenKB5JDf6WRl7wS4S) | 3:02 |
-| 78 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
+| 78 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
 | 79 | [Full Powers](https://open.spotify.com/track/3Inb9cDM4YpT0bVUG4D4QX) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Full Powers](https://open.spotify.com/album/07t38cRJXEFb0VWG4eCjbh) | 3:10 |
 | 80 | [Cold Turkey](https://open.spotify.com/track/40TUbrB7clhTgLXyeu6KTh) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Cold Turkey](https://open.spotify.com/album/2kUxgeFcouWzwYBVYulSIZ) | 3:26 |
 | 81 | [Lonely Like This](https://open.spotify.com/track/7MwiFYejXkiIPs9HUXv1in) | [Michael Honan](https://open.spotify.com/artist/0jWD0R3npD8Trqy0zuYuss) | [Reasons](https://open.spotify.com/album/07uayTDQTNEfYS5KR8OTym) | 3:01 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 102 | [One of One](https://open.spotify.com/track/0m7n4F48Uiopiz28nLYiXw) | [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [One of One](https://open.spotify.com/album/7CvxiZ49jVxJ1BtwNZZPYs) | 2:58 |
 | 103 | [Laneway Switch](https://open.spotify.com/track/1E88rOrQ0vWFqitNzdEGjj) | [Kalus](https://open.spotify.com/artist/2k6FiPBKN4TzVqXHs9FTZE) | [Laneway Switch](https://open.spotify.com/album/0gEQPQdK2cVwAc2uU3tnB1) | 2:23 |
 
-Snapshot ID: `AAAAAHsOf7xwVmIuBXM7CarNWGWXhftK`
+Snapshot ID: `AAAAAKDe4bJt2szvzVQUOITc1Qo8CNKS`

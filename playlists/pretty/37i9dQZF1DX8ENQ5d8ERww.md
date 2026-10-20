@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,818 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,820 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 40 | [Je t'aime](https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY) | [Double Pact](https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya) | [Au Revoir](https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm) | 3:01 |
 | 41 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
 | 42 | [Du & Ich](https://open.spotify.com/track/5jAylcCbJaBKmRHgRUTxQC) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK), [Pete Penicka](https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 5:09 |
-| 43 | [Schtei](https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw) | [Primitive Lyrics](https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w) | [Halbinüni Chlorzicht](https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ) | 4:09 |
-| 44 | [Bruch e Waag](https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr), [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:33 |
+| 43 | [Bruch e Waag](https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr), [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:33 |
+| 44 | [Schtei](https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw) | [Primitive Lyrics](https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w) | [Halbinüni Chlorzicht](https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ) | 4:09 |
 | 45 | [Meh bruuchtz nid \(feat\. Hobbitz\)](https://open.spotify.com/track/6CuNAwqvq6B6ikQi8MDKgq) | [Kaiser](https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC), [Hobbitz](https://open.spotify.com/artist/3wj1aGfnmu182aDhOH5C2z) | [Beetown Beetz, Vol\. 1](https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs) | 4:19 |
 | 46 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
 | 47 | [Possitrack](https://open.spotify.com/track/6M1X6qBmqWF741wjAL3fan) | [LDeep](https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S) | [Rapresent](https://open.spotify.com/album/7CrQQyd97yHOZuhOpNayEN) | 4:20 |
 | 48 | [En Teil vo mir](https://open.spotify.com/track/1ok24DhWBTymmV6yKtjqrp) | [Drüklang](https://open.spotify.com/artist/0YKRAbXe2J0esSXB4c6xbh) | [Z'fridä](https://open.spotify.com/album/1VRqmJrU4iZfSDjZWo5seU) | 4:10 |
 | 49 | [Beetown Dezibel \(feat\. LDeeP & Samurai\)](https://open.spotify.com/track/0ks6XbF8wiecG88jT4F1Oe) | [Kaiser](https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC), [LDeep](https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S), [Samurai](https://open.spotify.com/artist/2WnTVg6V0OWYGjomR0xugm) | [Beetown Beetz, Vol\. 1](https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs) | 4:12 |
 
-Snapshot ID: `AAAAAG4BiG/UjM7qBpFkWM+mL1UoaIwi`
+Snapshot ID: `AAAAAHXHFwlg3eeD7bNOtClyMJX1sotA`

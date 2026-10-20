@@ -4,7 +4,7 @@
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-459 songs - 1 day 3 hr 40 min
+460 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Sorry About Him](https://open.spotify.com/track/2MIJA0kArMQkLYx8HdTz5C) | [Possibly Jamie](https://open.spotify.com/artist/4UnDstGObPvzMC6Y2Yq2HC) | [Sorry About Him](https://open.spotify.com/album/6EMCV2lBRewxTiOknIeCIS) | 2:42 | 2025-11-16 | 2025-12-29 |
 | [Sorry! It Sank](https://open.spotify.com/track/4HWb3PCWyZ6GQKPOHtlCcA) | [Mallet Space](https://open.spotify.com/artist/1PCItqxAtsM80DlKMTYq1M) | [Sorry! It Sank](https://open.spotify.com/album/2KJbVetPhJxkXHJiNr4Z4c) | 4:02 | 2025-11-23 | 2025-12-19 |
 | [South Paw](https://open.spotify.com/track/6BpToRuux0FVQKcjJS6do7) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [South Paw](https://open.spotify.com/album/1P8DoNtgyvlmBT6EvWQShz) | 3:19 | 2025-11-16 |  |
+| [sovereign](https://open.spotify.com/track/0pj7FGDT76FvGzMF6jtEqs) | [philomenah](https://open.spotify.com/artist/3GkJCx0tIZGy7RzkJQKwQ4) | [sovereign](https://open.spotify.com/album/4oMem9aTVxh2aVkm8fVCQ5) | 4:15 | 2026-10-19 |  |
 | [Sparkle](https://open.spotify.com/track/7nOFQmQVZWzzIRE8E8EZoU) | [Labasheeda](https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh) | [Blueprints](https://open.spotify.com/album/2xPueJoMK50RMmE5NYiLuG) | 2:31 | 2026-08-19 | 2026-08-22 |
 | [Starsick](https://open.spotify.com/track/2RmigNUwhxBqQDQtyJ2PXX) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti), [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC), [nthony](https://open.spotify.com/artist/12B39hbunLz9UwwW5AGb5x) | [Starsick](https://open.spotify.com/album/51HvMQceU0J4XtCSF9izUU) | 4:20 | 2026-08-19 | 2026-08-22 |
 | [Starting to Remember How Much I Forgot](https://open.spotify.com/track/4DPRKTginZ5orODg84OVyd) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Starting to Remember How Much I Forgot](https://open.spotify.com/album/5A9Ct6ApsEwbNlcobRXSvC) | 3:53 | 2026-07-11 | 2026-07-22 |

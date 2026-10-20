@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 126785,
+  "num_followers": 126812,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSJDBV36l9JrgZ5UwwI1ffdNhaT",
+  "snapshot_id": "AAAAABqB9j8mHO2cwwLOJKL5S91dTQOT",
   "tracks": [
     {
       "added_at": "2024-03-25 16:58:35",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 219226,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "The Crane Wife",
         "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Caught In The Trees",
-        "url": "https://open.spotify.com/album/1otbhWVT1kRAlebcY0IQaO"
-      },
-      "artists": [
-        {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Sheets",
-      "url": "https://open.spotify.com/track/186Ohwb48uzHROQwos6yBS"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Middle Cyclone",
         "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 199226,
       "name": "This Tornado Loves You",
       "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Caught In The Trees",
+        "url": "https://open.spotify.com/album/1otbhWVT1kRAlebcY0IQaO"
+      },
+      "artists": [
+        {
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Sheets",
+      "url": "https://open.spotify.com/track/186Ohwb48uzHROQwos6yBS"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "If Songs Could Be Held",
-        "url": "https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i"
-      },
-      "artists": [
-        {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Since You've Been Around",
-      "url": "https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Where Shall You Take Me? (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 146333,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "If Songs Could Be Held",
+        "url": "https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i"
+      },
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Since You've Been Around",
+      "url": "https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7"
     },
     {
       "added_at": "2024-03-25 16:58:35",

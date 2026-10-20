@@ -1,89 +1,13 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Franz Keloh",
-  "num_followers": 89600,
+  "num_followers": 89604,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgVbBRj4d/la7LXWaV7imVjaTr4",
+  "snapshot_id": "AAAAABgegscl9pnKDQW7+8brZupzYhZ1",
   "tracks": [
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/4RSstNizPxLdoBRBIf0Pue"
-      },
-      "artists": [
-        {
-          "name": "ZorroSlice",
-          "url": "https://open.spotify.com/artist/1sX5GL1G0oMTLCPJXJ9nme"
-        }
-      ],
-      "duration_ms": 162463,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/42sI53SPPbSRl2CsmmuNFG"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
-        "name": "Un dollar",
-        "url": "https://open.spotify.com/album/5koJSdHp0f4qtO5DWj5ufF"
-      },
-      "artists": [
-        {
-          "name": "Jula\u00ef",
-          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
-        },
-        {
-          "name": "Maydo",
-          "url": "https://open.spotify.com/artist/1JGcG0hGyvwIobPI8kvEAr"
-        }
-      ],
-      "duration_ms": 133548,
-      "name": "Un dollar",
-      "url": "https://open.spotify.com/track/1cnF641QNII6fR1Tm32oIR"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
-        "name": "MILLYTAIRE",
-        "url": "https://open.spotify.com/album/2pkJ06HNa6i6oR0gUuJUBM"
-      },
-      "artists": [
-        {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/1CQwrBUrn9BJCcwlrtoiCc"
-        },
-        {
-          "name": "Twentyhundrd",
-          "url": "https://open.spotify.com/artist/2Zymkolye4p2ZgoYKDxoch"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "MILLYTAIRE",
-      "url": "https://open.spotify.com/track/7eLx3e21I74md5P9JLsvC8"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
-        "name": "HOCHELAG\u00c0PARIS, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1HoSsyaY2hWbXdq0OSCa"
-      },
-      "artists": [
-        {
-          "name": "Franz Keloh",
-          "url": "https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO"
-        },
-        {
-          "name": "ACHEL",
-          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
-        }
-      ],
-      "duration_ms": 94285,
-      "name": "district 11",
-      "url": "https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q"
-    },
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
@@ -123,18 +47,58 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "SEUL AU MONDE",
-        "url": "https://open.spotify.com/album/2QiZPGCdHsuOnAyVeqf9yE"
+        "name": "Kess tu connais?",
+        "url": "https://open.spotify.com/album/087lSpOwE9O7aF7F1JUILs"
       },
       "artists": [
         {
-          "name": "Slim Tony",
-          "url": "https://open.spotify.com/artist/3IkO9xp9IuK0iQhMjuPf0J"
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
         }
       ],
-      "duration_ms": 177687,
-      "name": "SEUL AU MONDE",
-      "url": "https://open.spotify.com/track/1j7g9EtBDgtfF4aEgMMcCs"
+      "duration_ms": 140963,
+      "name": "Kess tu connais?",
+      "url": "https://open.spotify.com/track/6uJhWxmB5Xsvtk8KQq2Rdv"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "HOCHELAG\u00c0PARIS, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1HoSsyaY2hWbXdq0OSCa"
+      },
+      "artists": [
+        {
+          "name": "Franz Keloh",
+          "url": "https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO"
+        },
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        }
+      ],
+      "duration_ms": 94285,
+      "name": "district 11",
+      "url": "https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "Un dollar",
+        "url": "https://open.spotify.com/album/5koJSdHp0f4qtO5DWj5ufF"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        },
+        {
+          "name": "Maydo",
+          "url": "https://open.spotify.com/artist/1JGcG0hGyvwIobPI8kvEAr"
+        }
+      ],
+      "duration_ms": 133548,
+      "name": "Un dollar",
+      "url": "https://open.spotify.com/track/1cnF641QNII6fR1Tm32oIR"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -155,18 +119,54 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "Kess tu connais?",
-        "url": "https://open.spotify.com/album/087lSpOwE9O7aF7F1JUILs"
+        "name": "SEUL AU MONDE",
+        "url": "https://open.spotify.com/album/2QiZPGCdHsuOnAyVeqf9yE"
       },
       "artists": [
         {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+          "name": "Slim Tony",
+          "url": "https://open.spotify.com/artist/3IkO9xp9IuK0iQhMjuPf0J"
         }
       ],
-      "duration_ms": 140963,
-      "name": "Kess tu connais?",
-      "url": "https://open.spotify.com/track/6uJhWxmB5Xsvtk8KQq2Rdv"
+      "duration_ms": 177687,
+      "name": "SEUL AU MONDE",
+      "url": "https://open.spotify.com/track/1j7g9EtBDgtfF4aEgMMcCs"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "MILLYTAIRE",
+        "url": "https://open.spotify.com/album/2pkJ06HNa6i6oR0gUuJUBM"
+      },
+      "artists": [
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/1CQwrBUrn9BJCcwlrtoiCc"
+        },
+        {
+          "name": "Twentyhundrd",
+          "url": "https://open.spotify.com/artist/2Zymkolye4p2ZgoYKDxoch"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "MILLYTAIRE",
+      "url": "https://open.spotify.com/track/7eLx3e21I74md5P9JLsvC8"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/4RSstNizPxLdoBRBIf0Pue"
+      },
+      "artists": [
+        {
+          "name": "ZorroSlice",
+          "url": "https://open.spotify.com/artist/1sX5GL1G0oMTLCPJXJ9nme"
+        }
+      ],
+      "duration_ms": 162463,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/42sI53SPPbSRl2CsmmuNFG"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -579,30 +579,18 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "DISCONTINU\u00c9",
-        "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
+        "name": "A La Base",
+        "url": "https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8"
       },
       "artists": [
         {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        },
-        {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
-        },
-        {
-          "name": "Le Ice",
-          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
-        },
-        {
-          "name": "Peeda",
-          "url": "https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed"
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
         }
       ],
-      "duration_ms": 175476,
-      "name": "DISCONTINU\u00c9",
-      "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
+      "duration_ms": 144000,
+      "name": "A La Base",
+      "url": "https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -639,18 +627,30 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "A La Base",
-        "url": "https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8"
+        "name": "DISCONTINU\u00c9",
+        "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
       },
       "artists": [
         {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed"
         }
       ],
-      "duration_ms": 144000,
-      "name": "A La Base",
-      "url": "https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB"
+      "duration_ms": 175476,
+      "name": "DISCONTINU\u00c9",
+      "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -671,38 +671,6 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "CANICULE",
-        "url": "https://open.spotify.com/album/7n6T6Z5kmKUar9s5RFhSpa"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        },
-        {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
-        },
-        {
-          "name": "Salgrimo",
-          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
-        },
-        {
-          "name": "Le Ice",
-          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
-        },
-        {
-          "name": "Peeda",
-          "url": "https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed"
-        }
-      ],
-      "duration_ms": 227356,
-      "name": "PALE ANPIL",
-      "url": "https://open.spotify.com/track/4pbCNhxu0FzJtb9y3GZD0f"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
         "name": "SNAKEYEZ",
         "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
       },
@@ -715,6 +683,22 @@
       "duration_ms": 152673,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "La force de comprendre",
+        "url": "https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve"
+      },
+      "artists": [
+        {
+          "name": "Dubmatique",
+          "url": "https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Soul pleureur",
+      "url": "https://open.spotify.com/track/1DKgD6CCYoDdmqvUsveE8X"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -759,18 +743,34 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "La force de comprendre",
-        "url": "https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve"
+        "name": "CANICULE",
+        "url": "https://open.spotify.com/album/7n6T6Z5kmKUar9s5RFhSpa"
       },
       "artists": [
         {
-          "name": "Dubmatique",
-          "url": "https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny"
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        },
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed"
         }
       ],
-      "duration_ms": 236866,
-      "name": "Soul pleureur",
-      "url": "https://open.spotify.com/track/1DKgD6CCYoDdmqvUsveE8X"
+      "duration_ms": 227356,
+      "name": "PALE ANPIL",
+      "url": "https://open.spotify.com/track/4pbCNhxu0FzJtb9y3GZD0f"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
+        "name": "CLIC CLAC",
+        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
+      },
+      "artists": [
+        {
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CLIC CLAC",
+      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
         "name": "\u00c0 la prochaine fois",
         "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 150589,
       "name": "Cayo Perico",
       "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
-        "name": "CLIC CLAC",
-        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
-      },
-      "artists": [
-        {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CLIC CLAC",
-      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
     },
     {
       "added_at": "2026-10-16 04:03:02",
